@@ -1,6 +1,9 @@
 import requests
 import json
 import os
+import time
+import random
+
 from datetime import datetime, timedelta
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -13,15 +16,9 @@ CHANNELS_FILE = "channels.json"
 
 OUTPUT_FOLDER = "channels"
 
+
 # ============================================================
 # EPG API
-# ============================================================
-#
-# Replace with your actual EPG API.
-#
-# {channel_id} -> channel ID
-# {offset}     -> -1 to 6
-#
 # ============================================================
 
 EPG_API_URL = (
@@ -32,10 +29,20 @@ EPG_API_URL = (
 
 
 # ============================================================
-# 50 CHANNELS AT A TIME
+# CONCURRENT CHANNELS
 # ============================================================
 
-BATCH_SIZE = 80
+# 50 channels at a time
+BATCH_SIZE = 50
+
+
+# ============================================================
+# RETRY SETTINGS
+# ============================================================
+
+MAX_RETRIES = 4
+
+REQUEST_TIMEOUT = 30
 
 
 # ============================================================
@@ -85,7 +92,18 @@ HEADERS = {
         "en-US,en;q=0.5"
     ),
 
-    "Connection": "keep-alive"
+    "Referer": (
+        "https://www.jiotv.com/"
+    ),
+
+    "Origin": (
+        "https://www.jiotv.com"
+    ),
+
+    "Connection": "keep-alive",
+
+    "Cache-Control": "no-cache"
+
 }
 
 
@@ -267,15 +285,13 @@ def process_program(
         "showtime"
     )
 
-
     endtime = program.get(
         "endtime"
     )
 
 
     # --------------------------------------------------------
-    # SAME DATE FOR EVERY PROGRAM
-    # FROM THIS OFFSET
+    # SAME DATE FOR ALL PROGRAMS OF THIS OFFSET
     # --------------------------------------------------------
 
     server_date = offset_server_date
@@ -410,7 +426,7 @@ def extract_epg(data):
 
 
     # --------------------------------------------------------
-    # epg
+    # { "epg": [...] }
     # --------------------------------------------------------
 
     if isinstance(
@@ -422,7 +438,7 @@ def extract_epg(data):
 
 
     # --------------------------------------------------------
-    # result
+    # { "result": [...] }
     # --------------------------------------------------------
 
     if isinstance(
@@ -434,7 +450,7 @@ def extract_epg(data):
 
 
     # --------------------------------------------------------
-    # data
+    # { "data": [...] }
     # --------------------------------------------------------
 
     if isinstance(
@@ -446,7 +462,7 @@ def extract_epg(data):
 
 
     # --------------------------------------------------------
-    # result.epg
+    # { "result": { "epg": [...] } }
     # --------------------------------------------------------
 
     result = data.get(
@@ -479,7 +495,7 @@ def extract_epg(data):
 
 
 # ============================================================
-# GET EPG
+# GET EPG WITH RETRIES
 # ============================================================
 
 def get_epg(
@@ -497,36 +513,287 @@ def get_epg(
     )
 
 
-    try:
+    for attempt in range(
+        1,
+        MAX_RETRIES + 1
+    ):
 
-        response = session.get(
-            url,
-            timeout=30
-        )
+        try:
 
-
-        response.raise_for_status()
-
-
-        data = response.json()
-
-
-        return extract_epg(
-            data
-        )
+            response = session.get(
+                url,
+                timeout=REQUEST_TIMEOUT
+            )
 
 
-    except Exception as e:
-
-        print(
-            f"      Channel "
-            f"{channel_id} "
-            f"Offset {offset} "
-            f"ERROR: {e}"
-        )
+            status = response.status_code
 
 
-        return []
+            # =================================================
+            # HTTP 450
+            # =================================================
+
+            if status == 450:
+
+                # ---------------------------------------------
+                # Check Retry-After header
+                # ---------------------------------------------
+
+                retry_after = response.headers.get(
+                    "Retry-After"
+                )
+
+
+                if retry_after:
+
+                    try:
+
+                        wait_time = float(
+                            retry_after
+                        )
+
+                    except ValueError:
+
+                        wait_time = 5
+
+                else:
+
+                    # -----------------------------------------
+                    # Exponential backoff + random jitter
+                    #
+                    # Attempt 1 -> around 3 sec
+                    # Attempt 2 -> around 6 sec
+                    # Attempt 3 -> around 12 sec
+                    # -----------------------------------------
+
+                    wait_time = (
+                        3 * (2 ** (attempt - 1))
+                        +
+                        random.uniform(
+                            0.5,
+                            2.5
+                        )
+                    )
+
+
+                if attempt < MAX_RETRIES:
+
+                    print(
+                        f"      Channel "
+                        f"{channel_id} "
+                        f"Offset {offset}: "
+                        f"HTTP 450 "
+                        f"retry {attempt}/"
+                        f"{MAX_RETRIES} "
+                        f"after "
+                        f"{wait_time:.1f}s"
+                    )
+
+
+                    time.sleep(
+                        wait_time
+                    )
+
+
+                    continue
+
+
+                print(
+                    f"      Channel "
+                    f"{channel_id} "
+                    f"Offset {offset}: "
+                    f"HTTP 450 after "
+                    f"{MAX_RETRIES} attempts"
+                )
+
+
+                return []
+
+
+            # =================================================
+            # RATE LIMITING
+            # =================================================
+
+            if status == 429:
+
+                retry_after = response.headers.get(
+                    "Retry-After"
+                )
+
+
+                if retry_after:
+
+                    try:
+
+                        wait_time = float(
+                            retry_after
+                        )
+
+                    except ValueError:
+
+                        wait_time = 10
+
+                else:
+
+                    wait_time = (
+                        5 * (2 ** (attempt - 1))
+                        +
+                        random.uniform(
+                            1,
+                            3
+                        )
+                    )
+
+
+                if attempt < MAX_RETRIES:
+
+                    print(
+                        f"      Channel "
+                        f"{channel_id} "
+                        f"Offset {offset}: "
+                        f"HTTP 429 "
+                        f"waiting "
+                        f"{wait_time:.1f}s"
+                    )
+
+
+                    time.sleep(
+                        wait_time
+                    )
+
+
+                    continue
+
+
+                print(
+                    f"      Channel "
+                    f"{channel_id} "
+                    f"Offset {offset}: "
+                    f"HTTP 429"
+                )
+
+
+                return []
+
+
+            # =================================================
+            # OTHER HTTP ERRORS
+            # =================================================
+
+            response.raise_for_status()
+
+
+            # =================================================
+            # JSON
+            # =================================================
+
+            data = response.json()
+
+
+            return extract_epg(
+                data
+            )
+
+
+        # =====================================================
+        # CONNECTION / TIMEOUT
+        # =====================================================
+
+        except (
+            requests.exceptions.ConnectionError,
+            requests.exceptions.Timeout
+        ) as e:
+
+
+            if attempt < MAX_RETRIES:
+
+                wait_time = (
+                    2 ** attempt
+                    +
+                    random.uniform(
+                        0.5,
+                        2
+                    )
+                )
+
+
+                print(
+                    f"      Channel "
+                    f"{channel_id} "
+                    f"Offset {offset}: "
+                    f"connection error "
+                    f"retrying in "
+                    f"{wait_time:.1f}s"
+                )
+
+
+                time.sleep(
+                    wait_time
+                )
+
+
+                continue
+
+
+            print(
+                f"      Channel "
+                f"{channel_id} "
+                f"Offset {offset} "
+                f"ERROR: {e}"
+            )
+
+
+            return []
+
+
+        # =====================================================
+        # INVALID JSON
+        # =====================================================
+
+        except requests.exceptions.JSONDecodeError:
+
+            print(
+                f"      Channel "
+                f"{channel_id} "
+                f"Offset {offset}: "
+                "Invalid JSON"
+            )
+
+
+            return []
+
+
+        # =====================================================
+        # OTHER REQUEST ERROR
+        # =====================================================
+
+        except requests.exceptions.RequestException as e:
+
+            print(
+                f"      Channel "
+                f"{channel_id} "
+                f"Offset {offset} "
+                f"ERROR: {e}"
+            )
+
+
+            return []
+
+
+        except Exception as e:
+
+            print(
+                f"      Channel "
+                f"{channel_id} "
+                f"Offset {offset} "
+                f"ERROR: {e}"
+            )
+
+
+            return []
+
+
+    return []
 
 
 # ============================================================
@@ -556,9 +823,9 @@ def process_channel(
     )
 
 
-    # ========================================================
-    # NEW LANGUAGE INFORMATION
-    # ========================================================
+    # --------------------------------------------------------
+    # LANGUAGE
+    # --------------------------------------------------------
 
     language_id = channel.get(
         "language_id"
@@ -570,9 +837,9 @@ def process_channel(
     )
 
 
-    # ========================================================
-    # NEW CATEGORY INFORMATION
-    # ========================================================
+    # --------------------------------------------------------
+    # CATEGORY
+    # --------------------------------------------------------
 
     category_id = channel.get(
         "category_id"
@@ -599,7 +866,6 @@ def process_channel(
 
     session = requests.Session()
 
-
     session.headers.update(
         HEADERS
     )
@@ -609,7 +875,7 @@ def process_channel(
 
 
     # ========================================================
-    # REQUEST OFFSETS
+    # OFFSETS
     # ========================================================
 
     for offset in OFFSETS:
@@ -665,12 +931,13 @@ def process_channel(
         print(
             f"Channel {channel_id} | "
             f"Offset {offset} | "
-            f"Date {offset_server_date}"
+            f"Date {offset_server_date} | "
+            f"Programs {len(epg_data)}"
         )
 
 
         # ----------------------------------------------------
-        # PROCESS ALL PROGRAMS
+        # PROCESS PROGRAMS
         # ----------------------------------------------------
 
         for program in epg_data:
@@ -682,11 +949,11 @@ def process_channel(
             )
 
 
-            # Ignore other channels
+            # Ignore programs from another channel
 
             if (
-                program_channel_id
-                is not None
+
+                program_channel_id is not None
 
                 and
 
@@ -760,7 +1027,7 @@ def process_channel(
 
 
     # ========================================================
-    # SORT PROGRAMS
+    # SORT
     # ========================================================
 
     all_programs.sort(
@@ -781,7 +1048,7 @@ def process_channel(
 
 
     # ========================================================
-    # CREATE OUTPUT FOLDER
+    # OUTPUT DIRECTORY
     # ========================================================
 
     os.makedirs(
@@ -794,20 +1061,7 @@ def process_channel(
 
 
     # ========================================================
-    # FINAL CHANNEL JSON
-    # ========================================================
-    #
-    # NOW INCLUDING:
-    #
-    # channel_id
-    # channel_name
-    # language_id
-    # language
-    # category_id
-    # category
-    # logoUrl
-    # programs
-    #
+    # FINAL JSON
     # ========================================================
 
     channel_output = {
@@ -894,7 +1148,7 @@ def process_channel(
 
 
 # ============================================================
-# PROCESS 50 CHANNELS AT ONCE
+# PROCESS BATCH
 # ============================================================
 
 def process_batch(
@@ -938,7 +1192,7 @@ def process_batch(
 
 
     # --------------------------------------------------------
-    # 50 CONCURRENT CHANNELS
+    # 50 CHANNELS CONCURRENTLY
     # --------------------------------------------------------
 
     with ThreadPoolExecutor(
@@ -962,10 +1216,6 @@ def process_batch(
 
         }
 
-
-        # ----------------------------------------------------
-        # RESULTS
-        # ----------------------------------------------------
 
         for future in as_completed(
             futures
@@ -1088,7 +1338,7 @@ def main():
 
 
     # --------------------------------------------------------
-    # LOAD CHANNELS.JSON
+    # LOAD CHANNELS
     # --------------------------------------------------------
 
     channels = load_channels()
@@ -1121,8 +1371,14 @@ def main():
     )
 
 
+    print(
+        f"Maximum retries: "
+        f"{MAX_RETRIES}"
+    )
+
+
     # --------------------------------------------------------
-    # CREATE OUTPUT FOLDER
+    # OUTPUT DIRECTORY
     # --------------------------------------------------------
 
     os.makedirs(
@@ -1169,7 +1425,7 @@ def main():
 
 
     # --------------------------------------------------------
-    # RUN BATCHES
+    # PROCESS BATCHES
     # --------------------------------------------------------
 
     for index, batch in enumerate(
