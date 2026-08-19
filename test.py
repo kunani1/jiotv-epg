@@ -25,7 +25,7 @@ OUTPUT_FOLDER = "channels"
 # ============================================================
 
 EPG_API_URL = (
-    "YOUR_EPG_API_URL"
+    "https://jiotvapi.cdn.jio.com/apis/v1.3/getepg/get"
     "?channel_id={channel_id}"
     "&offset={offset}"
 )
