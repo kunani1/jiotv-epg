@@ -8,457 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/FocusPlusTV.png",
   "programs": [
     {
-      "serverDate": "2026-08-18",
-      "showName": "Jatra Dunia",
-      "description": "Jatra Dunia",
-      "startDate": "2026-08-18T00:00:00",
-      "endDate": "2026-08-18T04:00:00",
-      "showTime": "00:00:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/95d087b61440f42c01e4fa4515d8e000.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Film Songs",
-      "description": "A tuneful and entertaining compilation of popular songs from well-known movies made by regional film industries for audience entertainment.",
-      "startDate": "2026-08-18T04:00:00",
-      "endDate": "2026-08-18T04:30:00",
-      "showTime": "04:00:00",
-      "endTime": "04:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18e4b10f764efd56b7b86af757f3ecfd.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Puspanjali",
-      "description": "A religious scholar explores God's nature, inspiring listeners to embrace spirituality. His teachings ignite a quest for deeper meaning and divine connection.",
-      "startDate": "2026-08-18T04:30:00",
-      "endDate": "2026-08-18T05:00:00",
-      "showTime": "04:30:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f4a0a2d2c5def601271c4c0dbc11f88a.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Puspanjali",
-      "description": "A religious scholar explores God's nature, inspiring listeners to embrace spirituality. His teachings ignite a quest for deeper meaning and divine connection.",
-      "startDate": "2026-08-18T05:00:00",
-      "endDate": "2026-08-18T05:30:00",
-      "showTime": "05:00:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f4a0a2d2c5def601271c4c0dbc11f88a.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Yoga",
-      "description": "The host gives a guided demonstration of various yoga asanas and breathing exercises and provides tips for meditation for a healthy life.",
-      "startDate": "2026-08-18T05:30:00",
-      "endDate": "2026-08-18T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6704df10ec9dcf93be29afdfec80a945.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Upasana",
-      "description": "A group of singers and musicians perform several devotional songs and hymns in harmonious unison in praise of the divine.",
-      "startDate": "2026-08-18T06:00:00",
-      "endDate": "2026-08-18T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/34ddbc4b2a4e482d3d8cc57a91556398.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Upasana",
-      "description": "A group of singers and musicians perform several devotional songs and hymns in harmonious unison in praise of the divine.",
-      "startDate": "2026-08-18T06:30:00",
-      "endDate": "2026-08-18T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/34ddbc4b2a4e482d3d8cc57a91556398.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Focus News",
-      "description": "Stay informed with the latest breaking news and headlines.",
-      "startDate": "2026-08-18T07:00:00",
-      "endDate": "2026-08-18T07:30:00",
-      "showTime": "07:00:00",
-      "endTime": "07:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Pothi Chakra",
-      "description": "Pothi Chakra",
-      "startDate": "2026-08-18T07:30:00",
-      "endDate": "2026-08-18T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d6eabd808631cfa31320f662ef81f05c.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Focus News",
-      "description": "Stay informed with the latest breaking news and headlines.",
-      "startDate": "2026-08-18T08:00:00",
-      "endDate": "2026-08-18T08:30:00",
-      "showTime": "08:00:00",
-      "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Sudhanshu@8",
-      "description": "Sudhanshu@8",
-      "startDate": "2026-08-18T08:30:00",
-      "endDate": "2026-08-18T09:00:00",
-      "showTime": "08:30:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4347c1998eed2366f67ca100030b4b5f.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Focus News",
-      "description": "Stay informed with the latest breaking news and headlines.",
-      "startDate": "2026-08-18T09:00:00",
-      "endDate": "2026-08-18T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Cinema Rewind",
-      "description": "Cinema Rewind",
-      "startDate": "2026-08-18T09:30:00",
-      "endDate": "2026-08-18T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/27a2e041c6a1b7effb9da347ef67a220.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Focus News",
-      "description": "Stay informed with the latest breaking news and headlines.",
-      "startDate": "2026-08-18T10:00:00",
-      "endDate": "2026-08-18T10:30:00",
-      "showTime": "10:00:00",
-      "endTime": "10:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Saroj@6",
-      "description": "Saroj@6",
-      "startDate": "2026-08-18T10:30:00",
-      "endDate": "2026-08-18T11:00:00",
-      "showTime": "10:30:00",
-      "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/08776d65cdfffbcc15c06c132262c6ca.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "News@11",
-      "description": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
-      "startDate": "2026-08-18T11:00:00",
-      "endDate": "2026-08-18T11:30:00",
-      "showTime": "11:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9815618864f29d39901f9c9f3667aaad.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Speial Report",
-      "description": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation and the world.",
-      "startDate": "2026-08-18T11:30:00",
-      "endDate": "2026-08-18T12:00:00",
-      "showTime": "11:30:00",
-      "endTime": "12:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b3568061dec39ed20309641d8bb6bfd8.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Big News",
-      "description": "The host presents a comprehensive analysis of numerous top stories and significant updates from the national and international front.",
-      "startDate": "2026-08-18T12:00:00",
-      "endDate": "2026-08-18T12:30:00",
-      "showTime": "12:00:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7bccf0577b1c9c88acb91b49c8b7354f.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Pin Point",
-      "description": "Pin Point",
-      "startDate": "2026-08-18T12:30:00",
-      "endDate": "2026-08-18T13:00:00",
-      "showTime": "12:30:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7203e77f04c86c1f146f6cff317462dd.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Focus Plus Bulletin",
-      "description": "Focus Plus Bulletin",
-      "startDate": "2026-08-18T13:00:00",
-      "endDate": "2026-08-18T13:30:00",
-      "showTime": "13:00:00",
-      "endTime": "13:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/38d5afb9c1916ac563d7f366c8266c3c.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Cinema Rewind",
-      "description": "Cinema Rewind",
-      "startDate": "2026-08-18T13:30:00",
-      "endDate": "2026-08-18T14:00:00",
-      "showTime": "13:30:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/27a2e041c6a1b7effb9da347ef67a220.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Focus Express",
-      "description": "Focus Express",
-      "startDate": "2026-08-18T14:00:00",
-      "endDate": "2026-08-18T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58c64dcd55dcc2f153d1d7d0173360f6.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Controversy Podcast",
-      "description": "Controversy Podcast",
-      "startDate": "2026-08-18T14:30:00",
-      "endDate": "2026-08-18T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/511588bcb385d096c2478ff9e7372ecf.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Speial Report",
-      "description": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation and the world.",
-      "startDate": "2026-08-18T15:00:00",
-      "endDate": "2026-08-18T15:30:00",
-      "showTime": "15:00:00",
-      "endTime": "15:30:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b3568061dec39ed20309641d8bb6bfd8.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Pin Point",
-      "description": "Pin Point",
-      "startDate": "2026-08-18T15:30:00",
-      "endDate": "2026-08-18T16:00:00",
-      "showTime": "15:30:00",
-      "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7203e77f04c86c1f146f6cff317462dd.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "News",
-      "description": "The host presents a comprehensive coverage and expert analysis across a spectrum of current affairs and topics of interest.",
-      "startDate": "2026-08-18T16:00:00",
-      "endDate": "2026-08-18T16:30:00",
-      "showTime": "16:00:00",
-      "endTime": "16:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c0ff2eaa28046530803f46357855277.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Focus Express",
-      "description": "Focus Express",
-      "startDate": "2026-08-18T16:30:00",
-      "endDate": "2026-08-18T17:00:00",
-      "showTime": "16:30:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58c64dcd55dcc2f153d1d7d0173360f6.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Ama Odisha",
-      "description": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
-      "startDate": "2026-08-18T17:00:00",
-      "endDate": "2026-08-18T17:30:00",
-      "showTime": "17:00:00",
-      "endTime": "17:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/daf3940a0c374d26932c909741644c52.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Ama Odisha",
-      "description": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
-      "startDate": "2026-08-18T17:30:00",
-      "endDate": "2026-08-18T18:00:00",
-      "showTime": "17:30:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/daf3940a0c374d26932c909741644c52.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Saroj@6",
-      "description": "Saroj@6",
-      "startDate": "2026-08-18T18:00:00",
-      "endDate": "2026-08-18T18:30:00",
-      "showTime": "18:00:00",
-      "endTime": "18:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/08776d65cdfffbcc15c06c132262c6ca.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Prasan Bana",
-      "description": "Prasan Bana",
-      "startDate": "2026-08-18T18:30:00",
-      "endDate": "2026-08-18T19:00:00",
-      "showTime": "18:30:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/52bcf0b69db5007f0bfc4f3c3b538fe7.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Sabudina",
-      "description": "Sabudina",
-      "startDate": "2026-08-18T19:00:00",
-      "endDate": "2026-08-18T19:30:00",
-      "showTime": "19:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5a4b1a1d1336460bd4e1299d2399eee9.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Speial Report",
-      "description": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation and the world.",
-      "startDate": "2026-08-18T19:30:00",
-      "endDate": "2026-08-18T20:00:00",
-      "showTime": "19:30:00",
-      "endTime": "20:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b3568061dec39ed20309641d8bb6bfd8.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Sudhanshu@8",
-      "description": "Sudhanshu@8",
-      "startDate": "2026-08-18T20:00:00",
-      "endDate": "2026-08-18T20:30:00",
-      "showTime": "20:00:00",
-      "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4347c1998eed2366f67ca100030b4b5f.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Focus Express",
-      "description": "Focus Express",
-      "startDate": "2026-08-18T20:30:00",
-      "endDate": "2026-08-18T21:00:00",
-      "showTime": "20:30:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58c64dcd55dcc2f153d1d7d0173360f6.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "News Point",
-      "description": "News Point",
-      "startDate": "2026-08-18T21:00:00",
-      "endDate": "2026-08-18T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4177fe0a824843762514c5ab5f2f32c9.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Saroj@6",
-      "description": "Saroj@6",
-      "startDate": "2026-08-18T21:30:00",
-      "endDate": "2026-08-18T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/08776d65cdfffbcc15c06c132262c6ca.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Ama Odisha",
-      "description": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
-      "startDate": "2026-08-18T22:00:00",
-      "endDate": "2026-08-18T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/daf3940a0c374d26932c909741644c52.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Ama Odisha",
-      "description": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
-      "startDate": "2026-08-18T22:30:00",
-      "endDate": "2026-08-18T23:00:00",
-      "showTime": "22:30:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/daf3940a0c374d26932c909741644c52.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Focus @11",
-      "description": "Focus @11",
-      "startDate": "2026-08-18T23:00:00",
-      "endDate": "2026-08-18T23:30:00",
-      "showTime": "23:00:00",
-      "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a27e5f58ef2ac16341444991c29c73a3.jpg"
-    },
-    {
-      "serverDate": "2026-08-18",
-      "showName": "Sudhanshu@8",
-      "description": "Sudhanshu@8",
-      "startDate": "2026-08-18T23:30:00",
-      "endDate": "2026-08-18T23:59:59",
-      "showTime": "23:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4347c1998eed2366f67ca100030b4b5f.jpg"
-    },
-    {
       "serverDate": "2026-08-19",
       "showName": "Jatra Dunia",
       "description": "Jatra Dunia",
@@ -995,7 +544,7 @@
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
     },
     {
       "serverDate": "2026-08-20",
@@ -1017,7 +566,7 @@
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
     },
     {
       "serverDate": "2026-08-20",
@@ -1039,7 +588,7 @@
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
     },
     {
       "serverDate": "2026-08-20",
@@ -1061,7 +610,7 @@
       "showTime": "10:00:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
     },
     {
       "serverDate": "2026-08-20",
@@ -1105,7 +654,7 @@
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
     },
     {
       "serverDate": "2026-08-20",
@@ -1127,7 +676,7 @@
       "showTime": "13:00:00",
       "endTime": "13:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
     },
     {
       "serverDate": "2026-08-20",
@@ -1446,7 +995,7 @@
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
     },
     {
       "serverDate": "2026-08-21",
@@ -1468,7 +1017,7 @@
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
     },
     {
       "serverDate": "2026-08-21",
@@ -1490,7 +1039,7 @@
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
     },
     {
       "serverDate": "2026-08-21",
@@ -1512,7 +1061,7 @@
       "showTime": "10:00:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
     },
     {
       "serverDate": "2026-08-21",
@@ -1897,7 +1446,7 @@
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
     },
     {
       "serverDate": "2026-08-22",
@@ -1919,7 +1468,7 @@
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
     },
     {
       "serverDate": "2026-08-22",
@@ -1941,7 +1490,7 @@
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
     },
     {
       "serverDate": "2026-08-22",
@@ -1963,7 +1512,7 @@
       "showTime": "10:00:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
     },
     {
       "serverDate": "2026-08-22",
@@ -2348,7 +1897,7 @@
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -2370,7 +1919,7 @@
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -2392,7 +1941,7 @@
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -2799,7 +2348,7 @@
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
     },
     {
       "serverDate": "2026-08-24",
@@ -2821,7 +2370,7 @@
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
     },
     {
       "serverDate": "2026-08-24",
@@ -2843,7 +2392,7 @@
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
     },
     {
       "serverDate": "2026-08-24",
@@ -2865,7 +2414,7 @@
       "showTime": "10:00:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
     },
     {
       "serverDate": "2026-08-24",
@@ -3250,7 +2799,7 @@
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
     },
     {
       "serverDate": "2026-08-25",
@@ -3272,7 +2821,7 @@
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
     },
     {
       "serverDate": "2026-08-25",
@@ -3294,7 +2843,7 @@
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
     },
     {
       "serverDate": "2026-08-25",
@@ -3316,7 +2865,7 @@
       "showTime": "10:00:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
     },
     {
       "serverDate": "2026-08-25",
@@ -3610,6 +3159,457 @@
       "description": "Sudhanshu@8",
       "startDate": "2026-08-25T23:30:00",
       "endDate": "2026-08-25T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4347c1998eed2366f67ca100030b4b5f.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Jatra Dunia",
+      "description": "Jatra Dunia",
+      "startDate": "2026-08-26T00:00:00",
+      "endDate": "2026-08-26T04:00:00",
+      "showTime": "00:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/95d087b61440f42c01e4fa4515d8e000.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Film Songs",
+      "description": "A tuneful and entertaining compilation of popular songs from well-known movies made by regional film industries for audience entertainment.",
+      "startDate": "2026-08-26T04:00:00",
+      "endDate": "2026-08-26T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18e4b10f764efd56b7b86af757f3ecfd.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Puspanjali",
+      "description": "A religious scholar explores God's nature, inspiring listeners to embrace spirituality. His teachings ignite a quest for deeper meaning and divine connection.",
+      "startDate": "2026-08-26T04:30:00",
+      "endDate": "2026-08-26T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f4a0a2d2c5def601271c4c0dbc11f88a.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Puspanjali",
+      "description": "A religious scholar explores God's nature, inspiring listeners to embrace spirituality. His teachings ignite a quest for deeper meaning and divine connection.",
+      "startDate": "2026-08-26T05:00:00",
+      "endDate": "2026-08-26T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f4a0a2d2c5def601271c4c0dbc11f88a.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Yoga",
+      "description": "The host gives a guided demonstration of various yoga asanas and breathing exercises and provides tips for meditation for a healthy life.",
+      "startDate": "2026-08-26T05:30:00",
+      "endDate": "2026-08-26T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6704df10ec9dcf93be29afdfec80a945.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Upasana",
+      "description": "A group of singers and musicians perform several devotional songs and hymns in harmonious unison in praise of the divine.",
+      "startDate": "2026-08-26T06:00:00",
+      "endDate": "2026-08-26T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/34ddbc4b2a4e482d3d8cc57a91556398.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Upasana",
+      "description": "A group of singers and musicians perform several devotional songs and hymns in harmonious unison in praise of the divine.",
+      "startDate": "2026-08-26T06:30:00",
+      "endDate": "2026-08-26T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/34ddbc4b2a4e482d3d8cc57a91556398.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Focus News",
+      "description": "Stay informed with the latest breaking news and headlines.",
+      "startDate": "2026-08-26T07:00:00",
+      "endDate": "2026-08-26T07:30:00",
+      "showTime": "07:00:00",
+      "endTime": "07:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Pothi Chakra",
+      "description": "Pothi Chakra",
+      "startDate": "2026-08-26T07:30:00",
+      "endDate": "2026-08-26T08:00:00",
+      "showTime": "07:30:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d6eabd808631cfa31320f662ef81f05c.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Focus News",
+      "description": "Stay informed with the latest breaking news and headlines.",
+      "startDate": "2026-08-26T08:00:00",
+      "endDate": "2026-08-26T08:30:00",
+      "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Sudhanshu@8",
+      "description": "Sudhanshu@8",
+      "startDate": "2026-08-26T08:30:00",
+      "endDate": "2026-08-26T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4347c1998eed2366f67ca100030b4b5f.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Focus News",
+      "description": "Stay informed with the latest breaking news and headlines.",
+      "startDate": "2026-08-26T09:00:00",
+      "endDate": "2026-08-26T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Star With Simran",
+      "description": "Star With Simran",
+      "startDate": "2026-08-26T09:30:00",
+      "endDate": "2026-08-26T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/96cc2948a19ee18a9de689705d02cc87.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Focus News",
+      "description": "Stay informed with the latest breaking news and headlines.",
+      "startDate": "2026-08-26T10:00:00",
+      "endDate": "2026-08-26T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e879d797416a7038c8075f2f89e407e0.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Saroj@6",
+      "description": "Saroj@6",
+      "startDate": "2026-08-26T10:30:00",
+      "endDate": "2026-08-26T11:00:00",
+      "showTime": "10:30:00",
+      "endTime": "11:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/08776d65cdfffbcc15c06c132262c6ca.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "News@11",
+      "description": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+      "startDate": "2026-08-26T11:00:00",
+      "endDate": "2026-08-26T11:30:00",
+      "showTime": "11:00:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9815618864f29d39901f9c9f3667aaad.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Speial Report",
+      "description": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation and the world.",
+      "startDate": "2026-08-26T11:30:00",
+      "endDate": "2026-08-26T12:00:00",
+      "showTime": "11:30:00",
+      "endTime": "12:00:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b3568061dec39ed20309641d8bb6bfd8.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Big News",
+      "description": "The host presents a comprehensive analysis of numerous top stories and significant updates from the national and international front.",
+      "startDate": "2026-08-26T12:00:00",
+      "endDate": "2026-08-26T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7bccf0577b1c9c88acb91b49c8b7354f.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Pin Point",
+      "description": "Pin Point",
+      "startDate": "2026-08-26T12:30:00",
+      "endDate": "2026-08-26T13:00:00",
+      "showTime": "12:30:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7203e77f04c86c1f146f6cff317462dd.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "National Bulletin",
+      "description": "The host presents the latest news and developments regarding social, economic and political issues from India and across the world.",
+      "startDate": "2026-08-26T13:00:00",
+      "endDate": "2026-08-26T13:30:00",
+      "showTime": "13:00:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b750c3480dbfebfa41668e138fdf3261.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Star With Simran",
+      "description": "Star With Simran",
+      "startDate": "2026-08-26T13:30:00",
+      "endDate": "2026-08-26T14:00:00",
+      "showTime": "13:30:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/96cc2948a19ee18a9de689705d02cc87.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Focus Express",
+      "description": "Focus Express",
+      "startDate": "2026-08-26T14:00:00",
+      "endDate": "2026-08-26T14:30:00",
+      "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58c64dcd55dcc2f153d1d7d0173360f6.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Prasan Bana",
+      "description": "Prasan Bana",
+      "startDate": "2026-08-26T14:30:00",
+      "endDate": "2026-08-26T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/52bcf0b69db5007f0bfc4f3c3b538fe7.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Speial Report",
+      "description": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation and the world.",
+      "startDate": "2026-08-26T15:00:00",
+      "endDate": "2026-08-26T15:30:00",
+      "showTime": "15:00:00",
+      "endTime": "15:30:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b3568061dec39ed20309641d8bb6bfd8.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Hae Hae Un Hun",
+      "description": "Hae Hae Un Hun",
+      "startDate": "2026-08-26T15:30:00",
+      "endDate": "2026-08-26T16:00:00",
+      "showTime": "15:30:00",
+      "endTime": "16:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5082338fa370183c8428d411a3ee7fe.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "News",
+      "description": "The host presents a comprehensive coverage and expert analysis across a spectrum of current affairs and topics of interest.",
+      "startDate": "2026-08-26T16:00:00",
+      "endDate": "2026-08-26T16:30:00",
+      "showTime": "16:00:00",
+      "endTime": "16:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c0ff2eaa28046530803f46357855277.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Focus Express",
+      "description": "Focus Express",
+      "startDate": "2026-08-26T16:30:00",
+      "endDate": "2026-08-26T17:00:00",
+      "showTime": "16:30:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58c64dcd55dcc2f153d1d7d0173360f6.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Ama Odisha",
+      "description": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+      "startDate": "2026-08-26T17:00:00",
+      "endDate": "2026-08-26T17:30:00",
+      "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/daf3940a0c374d26932c909741644c52.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Ama Odisha",
+      "description": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+      "startDate": "2026-08-26T17:30:00",
+      "endDate": "2026-08-26T18:00:00",
+      "showTime": "17:30:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/daf3940a0c374d26932c909741644c52.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Saroj@6",
+      "description": "Saroj@6",
+      "startDate": "2026-08-26T18:00:00",
+      "endDate": "2026-08-26T18:30:00",
+      "showTime": "18:00:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/08776d65cdfffbcc15c06c132262c6ca.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Controversy Podcast",
+      "description": "Controversy Podcast",
+      "startDate": "2026-08-26T18:30:00",
+      "endDate": "2026-08-26T19:00:00",
+      "showTime": "18:30:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/511588bcb385d096c2478ff9e7372ecf.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Sabudina",
+      "description": "Sabudina",
+      "startDate": "2026-08-26T19:00:00",
+      "endDate": "2026-08-26T19:30:00",
+      "showTime": "19:00:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5a4b1a1d1336460bd4e1299d2399eee9.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Speial Report",
+      "description": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation and the world.",
+      "startDate": "2026-08-26T19:30:00",
+      "endDate": "2026-08-26T20:00:00",
+      "showTime": "19:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b3568061dec39ed20309641d8bb6bfd8.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Sudhanshu@8",
+      "description": "Sudhanshu@8",
+      "startDate": "2026-08-26T20:00:00",
+      "endDate": "2026-08-26T20:30:00",
+      "showTime": "20:00:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4347c1998eed2366f67ca100030b4b5f.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Focus Express",
+      "description": "Focus Express",
+      "startDate": "2026-08-26T20:30:00",
+      "endDate": "2026-08-26T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58c64dcd55dcc2f153d1d7d0173360f6.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "News Point",
+      "description": "News Point",
+      "startDate": "2026-08-26T21:00:00",
+      "endDate": "2026-08-26T21:30:00",
+      "showTime": "21:00:00",
+      "endTime": "21:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4177fe0a824843762514c5ab5f2f32c9.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Saroj@6",
+      "description": "Saroj@6",
+      "startDate": "2026-08-26T21:30:00",
+      "endDate": "2026-08-26T22:00:00",
+      "showTime": "21:30:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/08776d65cdfffbcc15c06c132262c6ca.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Ama Odisha",
+      "description": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+      "startDate": "2026-08-26T22:00:00",
+      "endDate": "2026-08-26T22:30:00",
+      "showTime": "22:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/daf3940a0c374d26932c909741644c52.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Ama Odisha",
+      "description": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+      "startDate": "2026-08-26T22:30:00",
+      "endDate": "2026-08-26T23:00:00",
+      "showTime": "22:30:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/daf3940a0c374d26932c909741644c52.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Focus @11",
+      "description": "Focus @11",
+      "startDate": "2026-08-26T23:00:00",
+      "endDate": "2026-08-26T23:30:00",
+      "showTime": "23:00:00",
+      "endTime": "23:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a27e5f58ef2ac16341444991c29c73a3.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Sudhanshu@8",
+      "description": "Sudhanshu@8",
+      "startDate": "2026-08-26T23:30:00",
+      "endDate": "2026-08-26T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
