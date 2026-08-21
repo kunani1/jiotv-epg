@@ -1032,14 +1032,14 @@
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Commonwealth Games 2026",
-      "description": "Professional athletes across various disciplines engage in fierce competition to claim victory at the 2026 Commonwealth Games.",
+      "showName": "Best of the Tests",
+      "description": "Using expert analysis, the best moments from the world of Test cricket, including star performances, are discussed in utmost detail.",
       "startDate": "2026-08-22T23:30:00",
       "endDate": "2026-08-22T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89b1805d09ce3279b8b0308cab6ba75e.jpg"
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b3a80479e4ef29112d3dbec4da202aa.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -1131,14 +1131,25 @@
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Test Cricket",
-      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
+      "showName": "Commonwealth Games 2026",
+      "description": "Professional athletes across various disciplines engage in fierce competition to claim victory at the 2026 Commonwealth Games.",
       "startDate": "2026-08-23T06:00:00",
-      "endDate": "2026-08-23T07:00:00",
+      "endDate": "2026-08-23T06:30:00",
       "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89b1805d09ce3279b8b0308cab6ba75e.jpg"
+    },
+    {
+      "serverDate": "2026-08-23",
+      "showName": "Best of the Tests",
+      "description": "Using expert analysis, the best moments from the world of Test cricket, including star performances, are discussed in utmost detail.",
+      "startDate": "2026-08-23T06:30:00",
+      "endDate": "2026-08-23T07:00:00",
+      "showTime": "06:30:00",
       "endTime": "07:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b3a80479e4ef29112d3dbec4da202aa.jpg"
     },
     {
       "serverDate": "2026-08-23",
