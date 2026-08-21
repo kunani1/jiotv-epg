@@ -8,6 +8,127 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/AWSN.png",
   "programs": [
     {
+      "serverDate": "2026-08-20",
+      "showName": "Spanish Women's Primera División Soccer",
+      "description": "From Estadi Johan Cruyff in Sant Joan Despí, Barcelona, Spain.",
+      "startDate": "2026-08-20T00:00:00",
+      "endDate": "2026-08-20T00:45:00",
+      "showTime": "00:00:00",
+      "endTime": "00:45:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee4be080e3cb92d98976aa904c4956ac.jpg"
+    },
+    {
+      "serverDate": "2026-08-20",
+      "showName": "Spanish Women's Primera División Soccer",
+      "description": "From Zubieta XXI Stadium in San Sebastian, Basque Country, Spain.",
+      "startDate": "2026-08-20T00:45:00",
+      "endDate": "2026-08-20T02:44:00",
+      "showTime": "00:45:00",
+      "endTime": "02:44:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee4be080e3cb92d98976aa904c4956ac.jpg"
+    },
+    {
+      "serverDate": "2026-08-20",
+      "showName": "BSWW Women's Euro Beach Soccer League",
+      "description": "BSWW Women's Euro Beach Soccer League",
+      "startDate": "2026-08-20T02:44:00",
+      "endDate": "2026-08-20T04:15:00",
+      "showTime": "02:44:00",
+      "endTime": "04:15:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5e97fd1920e74415e7b853002345c9cf.jpg"
+    },
+    {
+      "serverDate": "2026-08-20",
+      "showName": "2026 WBSC Women's Baseball World Cup - Group Stage",
+      "description": "Coverage of the group stage of the women's baseball world cup from Rockford, Ill.",
+      "startDate": "2026-08-20T04:15:00",
+      "endDate": "2026-08-20T07:15:00",
+      "showTime": "04:15:00",
+      "endTime": "07:15:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e8fa9df03a1539758264e68ea9397c98.jpg"
+    },
+    {
+      "serverDate": "2026-08-20",
+      "showName": "2026 WBSC Women's Baseball World Cup - Group Stage",
+      "description": "Coverage of the group stage of the women's baseball world cup from Rockford, Ill.",
+      "startDate": "2026-08-20T07:15:00",
+      "endDate": "2026-08-20T09:30:00",
+      "showTime": "07:15:00",
+      "endTime": "09:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e8fa9df03a1539758264e68ea9397c98.jpg"
+    },
+    {
+      "serverDate": "2026-08-20",
+      "showName": "Spanish Women's Primera División Soccer",
+      "description": "From Zubieta XXI Stadium in San Sebastian, Basque Country, Spain.",
+      "startDate": "2026-08-20T09:30:00",
+      "endDate": "2026-08-20T11:45:00",
+      "showTime": "09:30:00",
+      "endTime": "11:45:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee4be080e3cb92d98976aa904c4956ac.jpg"
+    },
+    {
+      "serverDate": "2026-08-20",
+      "showName": "Spanish Women's Primera División Soccer",
+      "description": "From La Palmera in San Isidro, Spain.",
+      "startDate": "2026-08-20T11:45:00",
+      "endDate": "2026-08-20T14:15:00",
+      "showTime": "11:45:00",
+      "endTime": "14:15:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee4be080e3cb92d98976aa904c4956ac.jpg"
+    },
+    {
+      "serverDate": "2026-08-20",
+      "showName": "2026 WBSC Women's Baseball World Cup - Group Stage",
+      "description": "Coverage of the group stage of the women's baseball world cup from Rockford, Ill.",
+      "startDate": "2026-08-20T14:15:00",
+      "endDate": "2026-08-20T17:14:00",
+      "showTime": "14:15:00",
+      "endTime": "17:14:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e8fa9df03a1539758264e68ea9397c98.jpg"
+    },
+    {
+      "serverDate": "2026-08-20",
+      "showName": "Disc Golf Pro Tour",
+      "description": "The top professionals compete for prize money on the Disc Golf Pro Tour.",
+      "startDate": "2026-08-20T17:14:00",
+      "endDate": "2026-08-20T21:14:00",
+      "showTime": "17:14:00",
+      "endTime": "21:14:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/881f8da87078db95366207ace4503a84.jpg"
+    },
+    {
+      "serverDate": "2026-08-20",
+      "showName": "BSWW Women's Euro Beach Soccer League",
+      "description": "BSWW Women's Euro Beach Soccer League",
+      "startDate": "2026-08-20T21:14:00",
+      "endDate": "2026-08-20T22:29:00",
+      "showTime": "21:14:00",
+      "endTime": "22:29:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5e97fd1920e74415e7b853002345c9cf.jpg"
+    },
+    {
+      "serverDate": "2026-08-20",
+      "showName": "Spanish Women's Primera División Soccer",
+      "description": "From Zubieta XXI Stadium in San Sebastian, Basque Country, Spain.",
+      "startDate": "2026-08-20T22:29:00",
+      "endDate": "2026-08-20T23:59:59",
+      "showTime": "22:29:00",
+      "endTime": "23:59:59",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee4be080e3cb92d98976aa904c4956ac.jpg"
+    },
+    {
       "serverDate": "2026-08-21",
       "showName": "Spanish Women's Primera División Soccer",
       "description": "From Zubieta XXI Stadium in San Sebastian, Basque Country, Spain.",

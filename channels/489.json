@@ -790,190 +790,212 @@
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Power Lunch",
-      "description": "The hosts converse with business and political experts about the stock markets to provide information on trading and investing.",
+      "showName": "Closing Bell",
+      "description": "The host invites experts to guide one through the most vital hour of the trading day and analyse market progress, the factors moving the markets and the reactions of the investors.",
       "startDate": "2026-08-22T00:30:00",
       "endDate": "2026-08-22T01:30:00",
       "showTime": "00:30:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f5e374fc8a7ac9a3a71a935dcc33f986.jpg"
-    },
-    {
-      "serverDate": "2026-08-22",
-      "showName": "Closing Bell",
-      "description": "The host invites experts to guide one through the most vital hour of the trading day and analyse market progress, the factors moving the markets and the reactions of the investors.",
-      "startDate": "2026-08-22T01:30:00",
-      "endDate": "2026-08-22T03:30:00",
-      "showTime": "01:30:00",
-      "endTime": "03:30:00",
-      "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/40e44d018c0c805ab67a008a1ea337b8.jpg"
     },
     {
       "serverDate": "2026-08-22",
+      "showName": "Closing Bell: Overtime",
+      "description": "The host invites a renowned industry expert to discuss the trending and most talked-about market developments and investors' reactions to them.",
+      "startDate": "2026-08-22T01:30:00",
+      "endDate": "2026-08-22T02:30:00",
+      "showTime": "01:30:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9dfc8be6e07dbb4402ce8e4aada1074d.jpg"
+    },
+    {
+      "serverDate": "2026-08-22",
       "showName": "Fast Money",
-      "description": "Panellists from Wall Street discuss business-related stories, stock of the day and financial as well as economic development.",
+      "description": "The host presents a fast-paced chat with four Wall Street traders, exploring stock market strategies, investment tips and market trends.",
+      "startDate": "2026-08-22T02:30:00",
+      "endDate": "2026-08-22T03:30:00",
+      "showTime": "02:30:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be035c9cb8f0816398eb3eef0de15636.jpg"
+    },
+    {
+      "serverDate": "2026-08-22",
+      "showName": "The Tech Download",
+      "description": "An analytical take on the tech sector exploring breakthrough innovations, industry risks and the forces driving rapid transformation across global markets.",
       "startDate": "2026-08-22T03:30:00",
       "endDate": "2026-08-22T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b32ff5bd393c464550d87207f15533f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb97f548f08656a97508f7671aa4eefb.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Option Exchange",
-      "description": "A panel of financial experts discuss the various facets of the Indian economy and share their views on the trends in options exchange.",
+      "showName": "On The Record",
+      "description": "The host discusses the latest updates and developments in their organisation and the economy with experts from the business field.",
       "startDate": "2026-08-22T04:00:00",
       "endDate": "2026-08-22T04:30:00",
       "showTime": "04:00:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6689072513fa71e750e00d004c0e2061.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/512d0bf1bf7e13e293944d998edcae18.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Closing Bell",
-      "description": "The host invites experts to guide one through the most vital hour of the trading day and analyse market progress, the factors moving the markets and the reactions of the investors.",
+      "showName": "Founder Effect",
+      "description": "The founders of thriving businesses recount their unique journeys, highlighting the challenges and opportunities that led to the success of their ventures.",
       "startDate": "2026-08-22T04:30:00",
-      "endDate": "2026-08-22T06:30:00",
+      "endDate": "2026-08-22T05:00:00",
       "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0b4f84676d86d880f94caab3ea8eeaba.jpg"
+    },
+    {
+      "serverDate": "2026-08-22",
+      "showName": "Conversation",
+      "description": "The host engages in conversation with prominent personalities from diverse fields about their personal and professional life.",
+      "startDate": "2026-08-22T05:00:00",
+      "endDate": "2026-08-22T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d85c44a034a02b288a888940e1d6748.jpg"
+    },
+    {
+      "serverDate": "2026-08-22",
+      "showName": "Closing Bell: Overtime",
+      "description": "The host invites a renowned industry expert to discuss the trending and most talked-about market developments and investors' reactions to them.",
+      "startDate": "2026-08-22T05:30:00",
+      "endDate": "2026-08-22T06:30:00",
+      "showTime": "05:30:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/40e44d018c0c805ab67a008a1ea337b8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9dfc8be6e07dbb4402ce8e4aada1074d.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "CNBC Special",
-      "description": "The anchor brings to the forefront important events and top stories that have taken place both nationally and internationally.",
+      "showName": "Fast Money",
+      "description": "The host presents a fast-paced chat with four Wall Street traders, exploring stock market strategies, investment tips and market trends.",
       "startDate": "2026-08-22T06:30:00",
-      "endDate": "2026-08-22T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17cdb3e19c8d1e051e0081907d435cf8.jpg"
-    },
-    {
-      "serverDate": "2026-08-22",
-      "showName": "CNBC Special",
-      "description": "The anchor brings to the forefront important events and top stories that have taken place both nationally and internationally.",
-      "startDate": "2026-08-22T07:00:00",
       "endDate": "2026-08-22T07:30:00",
-      "showTime": "07:00:00",
+      "showTime": "06:30:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17cdb3e19c8d1e051e0081907d435cf8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be035c9cb8f0816398eb3eef0de15636.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "CNBC Special",
-      "description": "The anchor brings to the forefront important events and top stories that have taken place both nationally and internationally.",
+      "showName": "The Tech Download",
+      "description": "An analytical take on the tech sector exploring breakthrough innovations, industry risks and the forces driving rapid transformation across global markets.",
       "startDate": "2026-08-22T07:30:00",
       "endDate": "2026-08-22T08:00:00",
       "showTime": "07:30:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17cdb3e19c8d1e051e0081907d435cf8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb97f548f08656a97508f7671aa4eefb.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "CNBC-TV18 Editorial",
-      "description": "The host presents the latest updates and developments related to the world of business and finance from all over the world.",
+      "showName": "Market Forum",
+      "description": "Market Forum",
       "startDate": "2026-08-22T08:00:00",
       "endDate": "2026-08-22T08:30:00",
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbdd0e3e46751424a257408685405f95.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ec58fad204316c01d87aa71acfa562d4.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Storyboard",
-      "description": "The host interacts with various influential personalities and business leaders on a wide array of topics, including business and marketing.",
+      "showName": "Storyboard18",
+      "description": "The host invites marketing professionals to discuss how companies use digital media to reach consumers during festive times.",
       "startDate": "2026-08-22T08:30:00",
       "endDate": "2026-08-22T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4f3ad83c9abb8472ae5271eb8afa3479.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b42c097f287b56bad4e0e5dae5db9607.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "CNN News18 News Bulletin",
-      "description": "The host presents the latest updates and key developments from the fields of politics, society, economy and sports from all over the world.",
+      "showName": "Editors' Roundtable",
+      "description": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation.",
       "startDate": "2026-08-22T09:00:00",
       "endDate": "2026-08-22T09:30:00",
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25758e9c6097cfb2fb3aa5e3a534fc78.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1755fd66442a2a8f3cef5a8f2b64fa27.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Investment Guide",
-      "description": "The hosts indulge in insightful conversations with eminent experts regarding the management of finances and various facets of the stock market.",
+      "showName": "Market Forum",
+      "description": "Market Forum",
       "startDate": "2026-08-22T09:30:00",
       "endDate": "2026-08-22T10:00:00",
       "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/65f337c0119417338f9557908bbe8538.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ec58fad204316c01d87aa71acfa562d4.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Smart Money",
-      "description": "The host provides valuable insights concerning prudent investments in insurance, mutual funds, equities, and commodities.",
+      "showName": "Editors' Playbook",
+      "description": "Experts share insights on key market trends, while deep-diving into business shifts and strategic analysis to understand what's driving the economy each week.",
       "startDate": "2026-08-22T10:00:00",
       "endDate": "2026-08-22T10:30:00",
       "showTime": "10:00:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/09298b67986692f3f6a493032e6fb133.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1769878b757614d40c61e148006cbad.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Indianomics",
-      "description": "The host interacts with veteran economists and business leaders to analyse and decode the latest economic trends in order to get their expert opinion.",
+      "showName": "Banking Transformation Summit",
+      "description": "Industry experts illuminate innovative strategies, enhancing their collective knowledge and appreciating the essence of tech camaraderie.",
       "startDate": "2026-08-22T10:30:00",
       "endDate": "2026-08-22T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/31a77f2694be051b65d464710f86827c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8405a698f612e8604e6382829a24efe.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Young Turks",
-      "description": "Young achievers, who are poised to become future leaders, talk about their experiences, the challenges they faced and their vision for the future.",
+      "showName": "Young Turks Reloaded",
+      "description": "The host interacts with entrepreneurs and startup founders and engages them in an insightful conversation about their professional journey.",
       "startDate": "2026-08-22T11:00:00",
       "endDate": "2026-08-22T11:30:00",
       "showTime": "11:00:00",
       "endTime": "11:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d4e21b6cbdfd42c7192eaba9ce693c9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4f74aa7226a764f45e7f95a20def8b5d.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "CNBC-TV18 Editorial",
-      "description": "The host presents the latest updates and developments related to the world of business and finance from all over the world.",
+      "showName": "Market Forum",
+      "description": "Market Forum",
       "startDate": "2026-08-22T11:30:00",
       "endDate": "2026-08-22T12:00:00",
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbdd0e3e46751424a257408685405f95.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ec58fad204316c01d87aa71acfa562d4.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "CNN News18 News Bulletin",
-      "description": "The host presents the latest updates and key developments from the fields of politics, society, economy and sports from all over the world.",
+      "showName": "Banking Transformation Summit",
+      "description": "Industry experts illuminate innovative strategies, enhancing their collective knowledge and appreciating the essence of tech camaraderie.",
       "startDate": "2026-08-22T12:00:00",
       "endDate": "2026-08-22T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25758e9c6097cfb2fb3aa5e3a534fc78.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8405a698f612e8604e6382829a24efe.jpg"
     },
     {
       "serverDate": "2026-08-22",
@@ -999,454 +1021,487 @@
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "CNBC-TV18 Editorial",
-      "description": "The host presents the latest updates and developments related to the world of business and finance from all over the world.",
+      "showName": "The Global Reset",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-08-22T13:30:00",
       "endDate": "2026-08-22T14:00:00",
       "showTime": "13:30:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbdd0e3e46751424a257408685405f95.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aace309afb8c2d4bb5fa03f18480f76f.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Kiska Brand Bajega: Home Edition",
-      "description": "The host invites prominent personalities from various fields and discusses matters ranging from technology to entertainment.",
+      "showName": "AI: The Next Frontier",
+      "description": "AI: The Next Frontier",
       "startDate": "2026-08-22T14:00:00",
       "endDate": "2026-08-22T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bcc362b4bd2ae55e391658bde71f980e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "The Media Dialogues",
-      "description": "The host speaks to highly regarded figures in advertising and broadcasting about the dynamic landscape and issues of media in India.",
+      "showName": "Banking Transformation Summit",
+      "description": "Industry experts illuminate innovative strategies, enhancing their collective knowledge and appreciating the essence of tech camaraderie.",
       "startDate": "2026-08-22T14:30:00",
       "endDate": "2026-08-22T15:00:00",
       "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1233cdcd210a9ad7e8ea4d055cb62091.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8405a698f612e8604e6382829a24efe.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "CNBC-TV18 Focus",
-      "description": "Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.",
+      "showName": "Editors' Roundtable",
+      "description": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation.",
       "startDate": "2026-08-22T15:00:00",
       "endDate": "2026-08-22T15:30:00",
       "showTime": "15:00:00",
       "endTime": "15:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b896b73cdbd72666fa27b97e658d7a0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1755fd66442a2a8f3cef5a8f2b64fa27.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "CNBC-TV18 Focus",
-      "description": "Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.",
+      "showName": "Commodity Champions",
+      "description": "Trading experts take a look at how various commodities have fared in the commodity market and moreover, choose their best picks.",
       "startDate": "2026-08-22T15:30:00",
       "endDate": "2026-08-22T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b896b73cdbd72666fa27b97e658d7a0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61d88606f06cf7386811ee24a7b41343.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "CNBC-TV18 Focus",
-      "description": "Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.",
+      "showName": "The Thought League",
+      "description": "The host invites prominent industry leaders and policymakers to present various innovative ideas related to finance, corporate law and business.",
       "startDate": "2026-08-22T16:00:00",
       "endDate": "2026-08-22T16:30:00",
       "showTime": "16:00:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b896b73cdbd72666fa27b97e658d7a0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca17b1f1ebb4905ba42d1f49bb23e848.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "CNBC-TV18 Focus",
-      "description": "Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.",
+      "showName": "Zetwerk Make",
+      "description": "Zetwerk Make",
       "startDate": "2026-08-22T16:30:00",
       "endDate": "2026-08-22T17:00:00",
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b896b73cdbd72666fa27b97e658d7a0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/00267491fe1c7c1cfe076f058c42c24a.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "CNBC-TV18 Focus",
-      "description": "Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.",
+      "showName": "IRMA",
+      "description": "IRMA",
       "startDate": "2026-08-22T17:00:00",
       "endDate": "2026-08-22T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b896b73cdbd72666fa27b97e658d7a0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cc0239a8071350aa5f92873d9b1e667a.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "CNBC-TV18 Focus",
-      "description": "Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.",
+      "showName": "Editors' Playbook",
+      "description": "Experts share insights on key market trends, while deep-diving into business shifts and strategic analysis to understand what's driving the economy each week.",
       "startDate": "2026-08-22T17:30:00",
       "endDate": "2026-08-22T18:00:00",
       "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b896b73cdbd72666fa27b97e658d7a0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1769878b757614d40c61e148006cbad.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "CNBC-TV18 Focus",
-      "description": "Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.",
+      "showName": "The Titans",
+      "description": "The Titans",
       "startDate": "2026-08-22T18:00:00",
       "endDate": "2026-08-22T18:30:00",
       "showTime": "18:00:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b896b73cdbd72666fa27b97e658d7a0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c12ba4628d5f05eab3f2775c92f2bed4.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "CNBC-TV18 Focus",
-      "description": "Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.",
+      "showName": "Banking Transformation Summit",
+      "description": "Industry experts illuminate innovative strategies, enhancing their collective knowledge and appreciating the essence of tech camaraderie.",
       "startDate": "2026-08-22T18:30:00",
       "endDate": "2026-08-22T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b896b73cdbd72666fa27b97e658d7a0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8405a698f612e8604e6382829a24efe.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "CNBC-TV18 Editorial",
-      "description": "The host presents the latest updates and developments related to the world of business and finance from all over the world.",
+      "showName": "Market Forum",
+      "description": "Market Forum",
       "startDate": "2026-08-22T19:00:00",
       "endDate": "2026-08-22T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbdd0e3e46751424a257408685405f95.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ec58fad204316c01d87aa71acfa562d4.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Big Deal",
-      "description": "The host discusses the latest updates in the financial sector, business and investment markets with renowned experts and personalities.",
+      "showName": "The Global Reset",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-08-22T19:30:00",
       "endDate": "2026-08-22T20:00:00",
       "showTime": "19:30:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/14302bcfab15bd8456be7a86f051b3ce.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aace309afb8c2d4bb5fa03f18480f76f.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Indianomics",
-      "description": "The host interacts with veteran economists and business leaders to analyse and decode the latest economic trends in order to get their expert opinion.",
+      "showName": "Banking Transformation Summit",
+      "description": "Industry experts illuminate innovative strategies, enhancing their collective knowledge and appreciating the essence of tech camaraderie.",
       "startDate": "2026-08-22T20:00:00",
       "endDate": "2026-08-22T20:30:00",
       "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/31a77f2694be051b65d464710f86827c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8405a698f612e8604e6382829a24efe.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Young Turks",
-      "description": "Young achievers, who are poised to become future leaders, talk about their experiences, the challenges they faced and their vision for the future.",
+      "showName": "Young Turks Reloaded",
+      "description": "The host interacts with entrepreneurs and startup founders and engages them in an insightful conversation about their professional journey.",
       "startDate": "2026-08-22T20:30:00",
       "endDate": "2026-08-22T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d4e21b6cbdfd42c7192eaba9ce693c9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4f74aa7226a764f45e7f95a20def8b5d.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Investment Guide",
-      "description": "The hosts indulge in insightful conversations with eminent experts regarding the management of finances and various facets of the stock market.",
+      "showName": "Editors' Playbook",
+      "description": "Experts share insights on key market trends, while deep-diving into business shifts and strategic analysis to understand what's driving the economy each week.",
       "startDate": "2026-08-22T21:00:00",
       "endDate": "2026-08-22T21:30:00",
       "showTime": "21:00:00",
       "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/65f337c0119417338f9557908bbe8538.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1769878b757614d40c61e148006cbad.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Smart Money",
-      "description": "The host provides valuable insights concerning prudent investments in insurance, mutual funds, equities, and commodities.",
+      "showName": "Market Forum",
+      "description": "Market Forum",
       "startDate": "2026-08-22T21:30:00",
       "endDate": "2026-08-22T22:00:00",
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/09298b67986692f3f6a493032e6fb133.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ec58fad204316c01d87aa71acfa562d4.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "CNBC-TV18 Editorial",
-      "description": "The host presents the latest updates and developments related to the world of business and finance from all over the world.",
+      "showName": "AI: The Next Frontier",
+      "description": "AI: The Next Frontier",
       "startDate": "2026-08-22T22:00:00",
       "endDate": "2026-08-22T22:30:00",
       "showTime": "22:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbdd0e3e46751424a257408685405f95.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "CNBC-TV18 Editorial",
-      "description": "The host presents the latest updates and developments related to the world of business and finance from all over the world.",
+      "showName": "Banking Transformation Summit",
+      "description": "Industry experts illuminate innovative strategies, enhancing their collective knowledge and appreciating the essence of tech camaraderie.",
       "startDate": "2026-08-22T22:30:00",
       "endDate": "2026-08-22T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbdd0e3e46751424a257408685405f95.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8405a698f612e8604e6382829a24efe.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Kiska Brand Bajega: Home Edition",
-      "description": "The host invites prominent personalities from various fields and discusses matters ranging from technology to entertainment.",
+      "showName": "Editors' Roundtable",
+      "description": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation.",
       "startDate": "2026-08-22T23:00:00",
-      "endDate": "2026-08-22T23:59:59",
+      "endDate": "2026-08-22T23:30:00",
       "showTime": "23:00:00",
-      "endTime": "23:59:59",
+      "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bcc362b4bd2ae55e391658bde71f980e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1755fd66442a2a8f3cef5a8f2b64fa27.jpg"
     },
     {
-      "serverDate": "2026-08-23",
+      "serverDate": "2026-08-22",
       "showName": "Storyboard18",
       "description": "The host invites marketing professionals to discuss how companies use digital media to reach consumers during festive times.",
-      "startDate": "2026-08-23T00:00:00",
-      "endDate": "2026-08-23T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
+      "startDate": "2026-08-22T23:30:00",
+      "endDate": "2026-08-22T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b42c097f287b56bad4e0e5dae5db9607.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNBC Network",
-      "description": "The host provides the latest business and finance top stories and developments on the national and international front.",
-      "startDate": "2026-08-23T00:30:00",
-      "endDate": "2026-08-23T01:30:00",
-      "showTime": "00:30:00",
-      "endTime": "01:30:00",
+      "showName": "Overdrive",
+      "description": "The host presents the latest news stories, major updates and top developments about automobiles and bikes, including their price range and performance reviews.",
+      "startDate": "2026-08-23T00:00:00",
+      "endDate": "2026-08-23T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eeff1f3e65c6db30aef0ba9244d1ac15.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62f134f2c4aecb359697c2915f7cdad9.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNBC Special",
-      "description": "The anchor brings to the forefront important events and top stories that have taken place both nationally and internationally.",
+      "showName": "The Tech Download",
+      "description": "An analytical take on the tech sector exploring breakthrough innovations, industry risks and the forces driving rapid transformation across global markets.",
+      "startDate": "2026-08-23T00:30:00",
+      "endDate": "2026-08-23T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb97f548f08656a97508f7671aa4eefb.jpg"
+    },
+    {
+      "serverDate": "2026-08-23",
+      "showName": "On The Record",
+      "description": "The host discusses the latest updates and developments in their organisation and the economy with experts from the business field.",
+      "startDate": "2026-08-23T01:00:00",
+      "endDate": "2026-08-23T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/512d0bf1bf7e13e293944d998edcae18.jpg"
+    },
+    {
+      "serverDate": "2026-08-23",
+      "showName": "Founder Effect",
+      "description": "The founders of thriving businesses recount their unique journeys, highlighting the challenges and opportunities that led to the success of their ventures.",
       "startDate": "2026-08-23T01:30:00",
       "endDate": "2026-08-23T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17cdb3e19c8d1e051e0081907d435cf8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0b4f84676d86d880f94caab3ea8eeaba.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNBC Special",
-      "description": "The anchor brings to the forefront important events and top stories that have taken place both nationally and internationally.",
+      "showName": "Conversation",
+      "description": "The host engages in conversation with prominent personalities from diverse fields about their personal and professional life.",
       "startDate": "2026-08-23T02:00:00",
       "endDate": "2026-08-23T02:30:00",
       "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17cdb3e19c8d1e051e0081907d435cf8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d85c44a034a02b288a888940e1d6748.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNBC Special",
-      "description": "The anchor brings to the forefront important events and top stories that have taken place both nationally and internationally.",
+      "showName": "American Greed",
+      "description": "The host sheds light on some of the biggest white collar crimes committed in the USA and also takes a look at the menace of common financial crimes affecting the average American citizen.",
       "startDate": "2026-08-23T02:30:00",
-      "endDate": "2026-08-23T03:00:00",
-      "showTime": "02:30:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17cdb3e19c8d1e051e0081907d435cf8.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "CNBC Special",
-      "description": "The anchor brings to the forefront important events and top stories that have taken place both nationally and internationally.",
-      "startDate": "2026-08-23T03:00:00",
       "endDate": "2026-08-23T03:30:00",
-      "showTime": "03:00:00",
+      "showTime": "02:30:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17cdb3e19c8d1e051e0081907d435cf8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e6e07321f4445e61263bf39e96b7e22.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNBC Network",
-      "description": "The host provides the latest business and finance top stories and developments on the national and international front.",
+      "showName": "Managing Middle East",
+      "description": "Provides interviews and analysis from the Middle East decision-makers regarding capital deployment and regional developments.",
       "startDate": "2026-08-23T03:30:00",
-      "endDate": "2026-08-23T04:30:00",
+      "endDate": "2026-08-23T04:00:00",
       "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18b7c1eb7186be184955bebb93144ece.jpg"
+    },
+    {
+      "serverDate": "2026-08-23",
+      "showName": "CNBC Explains",
+      "description": "The narrator explains complicated economics of the world, ranging from stocks and corporate balance sheets to government policies, in a simple manner.",
+      "startDate": "2026-08-23T04:00:00",
+      "endDate": "2026-08-23T04:30:00",
+      "showTime": "04:00:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eeff1f3e65c6db30aef0ba9244d1ac15.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6654c11eecdfbbd42192f5e2baaaf4cb.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNBC Network",
-      "description": "The host provides the latest business and finance top stories and developments on the national and international front.",
+      "showName": "Exec. Decisions",
+      "description": "The host explores the minds of top policymakers and CEOs, revealing the candid doubts and high-stakes choices behind their careers.",
       "startDate": "2026-08-23T04:30:00",
-      "endDate": "2026-08-23T05:30:00",
+      "endDate": "2026-08-23T05:00:00",
       "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/490fdfa84fb32e671848bc5e3837fca3.jpg"
+    },
+    {
+      "serverDate": "2026-08-23",
+      "showName": "On The Record",
+      "description": "The host discusses the latest updates and developments in their organisation and the economy with experts from the business field.",
+      "startDate": "2026-08-23T05:00:00",
+      "endDate": "2026-08-23T05:30:00",
+      "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eeff1f3e65c6db30aef0ba9244d1ac15.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/512d0bf1bf7e13e293944d998edcae18.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNBC Special",
-      "description": "The anchor brings to the forefront important events and top stories that have taken place both nationally and internationally.",
+      "showName": "American Greed",
+      "description": "The host sheds light on some of the biggest white collar crimes committed in the USA and also takes a look at the menace of common financial crimes affecting the average American citizen.",
       "startDate": "2026-08-23T05:30:00",
-      "endDate": "2026-08-23T06:00:00",
+      "endDate": "2026-08-23T06:30:00",
       "showTime": "05:30:00",
-      "endTime": "06:00:00",
+      "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17cdb3e19c8d1e051e0081907d435cf8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e6e07321f4445e61263bf39e96b7e22.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNBC Network",
-      "description": "The host provides the latest business and finance top stories and developments on the national and international front.",
-      "startDate": "2026-08-23T06:00:00",
+      "showName": "Managing Middle East",
+      "description": "Provides interviews and analysis from the Middle East decision-makers regarding capital deployment and regional developments.",
+      "startDate": "2026-08-23T06:30:00",
       "endDate": "2026-08-23T07:00:00",
-      "showTime": "06:00:00",
+      "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eeff1f3e65c6db30aef0ba9244d1ac15.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18b7c1eb7186be184955bebb93144ece.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNBC Special",
-      "description": "The anchor brings to the forefront important events and top stories that have taken place both nationally and internationally.",
+      "showName": "CNBC Explains",
+      "description": "The narrator explains complicated economics of the world, ranging from stocks and corporate balance sheets to government policies, in a simple manner.",
       "startDate": "2026-08-23T07:00:00",
       "endDate": "2026-08-23T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17cdb3e19c8d1e051e0081907d435cf8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6654c11eecdfbbd42192f5e2baaaf4cb.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNBC Special",
-      "description": "The anchor brings to the forefront important events and top stories that have taken place both nationally and internationally.",
+      "showName": "Exec. Decisions",
+      "description": "The host explores the minds of top policymakers and CEOs, revealing the candid doubts and high-stakes choices behind their careers.",
       "startDate": "2026-08-23T07:30:00",
       "endDate": "2026-08-23T08:00:00",
       "showTime": "07:30:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17cdb3e19c8d1e051e0081907d435cf8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/490fdfa84fb32e671848bc5e3837fca3.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNN News18 News Bulletin",
-      "description": "The host presents the latest updates and key developments from the fields of politics, society, economy and sports from all over the world.",
+      "showName": "Market Forum",
+      "description": "Market Forum",
       "startDate": "2026-08-23T08:00:00",
       "endDate": "2026-08-23T08:30:00",
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25758e9c6097cfb2fb3aa5e3a534fc78.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ec58fad204316c01d87aa71acfa562d4.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNBC-TV18 Editorial",
-      "description": "The host presents the latest updates and developments related to the world of business and finance from all over the world.",
+      "showName": "Market Forum",
+      "description": "Market Forum",
       "startDate": "2026-08-23T08:30:00",
       "endDate": "2026-08-23T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbdd0e3e46751424a257408685405f95.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ec58fad204316c01d87aa71acfa562d4.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Deal",
-      "description": "The host discusses the latest updates in the financial sector, business and investment markets with renowned experts and personalities.",
+      "showName": "Market Forum",
+      "description": "Market Forum",
       "startDate": "2026-08-23T09:00:00",
       "endDate": "2026-08-23T09:30:00",
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/14302bcfab15bd8456be7a86f051b3ce.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ec58fad204316c01d87aa71acfa562d4.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNBC-TV18 Editorial",
-      "description": "The host presents the latest updates and developments related to the world of business and finance from all over the world.",
+      "showName": "Editors' Roundtable",
+      "description": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation.",
       "startDate": "2026-08-23T09:30:00",
       "endDate": "2026-08-23T10:00:00",
       "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbdd0e3e46751424a257408685405f95.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1755fd66442a2a8f3cef5a8f2b64fa27.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNN News18 News Bulletin",
-      "description": "The host presents the latest updates and key developments from the fields of politics, society, economy and sports from all over the world.",
+      "showName": "Banking Transformation Summit",
+      "description": "Industry experts illuminate innovative strategies, enhancing their collective knowledge and appreciating the essence of tech camaraderie.",
       "startDate": "2026-08-23T10:00:00",
       "endDate": "2026-08-23T10:30:00",
       "showTime": "10:00:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25758e9c6097cfb2fb3aa5e3a534fc78.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8405a698f612e8604e6382829a24efe.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Taking Stock",
-      "description": "The hosts along with financial gurus review key stock movements of the week while discussing the market trends, trading ideas and brokerage views for the coming week.",
+      "showName": "Editors' Playbook",
+      "description": "Experts share insights on key market trends, while deep-diving into business shifts and strategic analysis to understand what's driving the economy each week.",
       "startDate": "2026-08-23T10:30:00",
       "endDate": "2026-08-23T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7650375b8fc8581383986a4da987f2dd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1769878b757614d40c61e148006cbad.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Indianomics",
-      "description": "The host interacts with veteran economists and business leaders to analyse and decode the latest economic trends in order to get their expert opinion.",
+      "showName": "Banking Transformation Summit",
+      "description": "Industry experts illuminate innovative strategies, enhancing their collective knowledge and appreciating the essence of tech camaraderie.",
       "startDate": "2026-08-23T11:00:00",
       "endDate": "2026-08-23T11:30:00",
       "showTime": "11:00:00",
       "endTime": "11:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/31a77f2694be051b65d464710f86827c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8405a698f612e8604e6382829a24efe.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Storyboard",
-      "description": "The host interacts with various influential personalities and business leaders on a wide array of topics, including business and marketing.",
+      "showName": "Storyboard18",
+      "description": "The host invites marketing professionals to discuss how companies use digital media to reach consumers during festive times.",
       "startDate": "2026-08-23T11:30:00",
       "endDate": "2026-08-23T12:00:00",
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4f3ad83c9abb8472ae5271eb8afa3479.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b42c097f287b56bad4e0e5dae5db9607.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Young Turks",
-      "description": "Young achievers, who are poised to become future leaders, talk about their experiences, the challenges they faced and their vision for the future.",
+      "showName": "Young Turks Reloaded",
+      "description": "The host interacts with entrepreneurs and startup founders and engages them in an insightful conversation about their professional journey.",
       "startDate": "2026-08-23T12:00:00",
       "endDate": "2026-08-23T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d4e21b6cbdfd42c7192eaba9ce693c9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4f74aa7226a764f45e7f95a20def8b5d.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -1461,146 +1516,135 @@
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNBC-TV18 Editorial",
-      "description": "The host presents the latest updates and developments related to the world of business and finance from all over the world.",
+      "showName": "AI: The Next Frontier",
+      "description": "AI: The Next Frontier",
       "startDate": "2026-08-23T13:00:00",
       "endDate": "2026-08-23T13:30:00",
       "showTime": "13:00:00",
       "endTime": "13:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbdd0e3e46751424a257408685405f95.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNN News18 News Bulletin",
-      "description": "The host presents the latest updates and key developments from the fields of politics, society, economy and sports from all over the world.",
+      "showName": "Banking Transformation Summit",
+      "description": "Industry experts illuminate innovative strategies, enhancing their collective knowledge and appreciating the essence of tech camaraderie.",
       "startDate": "2026-08-23T13:30:00",
       "endDate": "2026-08-23T14:00:00",
       "showTime": "13:30:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25758e9c6097cfb2fb3aa5e3a534fc78.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8405a698f612e8604e6382829a24efe.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Storyboard",
-      "description": "The host interacts with various influential personalities and business leaders on a wide array of topics, including business and marketing.",
+      "showName": "Storyboard18",
+      "description": "The host invites marketing professionals to discuss how companies use digital media to reach consumers during festive times.",
       "startDate": "2026-08-23T14:00:00",
       "endDate": "2026-08-23T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4f3ad83c9abb8472ae5271eb8afa3479.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b42c097f287b56bad4e0e5dae5db9607.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNBC-TV18 Editorial",
-      "description": "The host presents the latest updates and developments related to the world of business and finance from all over the world.",
+      "showName": "The Global Reset",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-08-23T14:30:00",
       "endDate": "2026-08-23T15:00:00",
       "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbdd0e3e46751424a257408685405f95.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aace309afb8c2d4bb5fa03f18480f76f.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNBC-TV18 Focus",
-      "description": "Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.",
+      "showName": "Commodity Champions",
+      "description": "Trading experts take a look at how various commodities have fared in the commodity market and moreover, choose their best picks.",
       "startDate": "2026-08-23T15:00:00",
       "endDate": "2026-08-23T15:30:00",
       "showTime": "15:00:00",
       "endTime": "15:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b896b73cdbd72666fa27b97e658d7a0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61d88606f06cf7386811ee24a7b41343.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNBC-TV18 Focus",
-      "description": "Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.",
+      "showName": "Market Forum",
+      "description": "Market Forum",
       "startDate": "2026-08-23T15:30:00",
       "endDate": "2026-08-23T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b896b73cdbd72666fa27b97e658d7a0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ec58fad204316c01d87aa71acfa562d4.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNBC-TV18 Focus",
-      "description": "Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.",
+      "showName": "Zetwerk Make",
+      "description": "Zetwerk Make",
       "startDate": "2026-08-23T16:00:00",
-      "endDate": "2026-08-23T16:30:00",
-      "showTime": "16:00:00",
-      "endTime": "16:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b896b73cdbd72666fa27b97e658d7a0.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "CNBC-TV18 Focus",
-      "description": "Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.",
-      "startDate": "2026-08-23T16:30:00",
       "endDate": "2026-08-23T17:00:00",
-      "showTime": "16:30:00",
+      "showTime": "16:00:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b896b73cdbd72666fa27b97e658d7a0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/00267491fe1c7c1cfe076f058c42c24a.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNBC-TV18 Focus",
-      "description": "Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.",
+      "showName": "Market Forum",
+      "description": "Market Forum",
       "startDate": "2026-08-23T17:00:00",
       "endDate": "2026-08-23T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b896b73cdbd72666fa27b97e658d7a0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ec58fad204316c01d87aa71acfa562d4.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNBC-TV18 Focus",
-      "description": "Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.",
+      "showName": "Banking Transformation Summit",
+      "description": "Industry experts illuminate innovative strategies, enhancing their collective knowledge and appreciating the essence of tech camaraderie.",
       "startDate": "2026-08-23T17:30:00",
       "endDate": "2026-08-23T18:00:00",
       "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b896b73cdbd72666fa27b97e658d7a0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8405a698f612e8604e6382829a24efe.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNBC-TV18 Focus",
-      "description": "Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.",
+      "showName": "The Titans",
+      "description": "The Titans",
       "startDate": "2026-08-23T18:00:00",
       "endDate": "2026-08-23T18:30:00",
       "showTime": "18:00:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b896b73cdbd72666fa27b97e658d7a0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c12ba4628d5f05eab3f2775c92f2bed4.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNBC-TV18 Focus",
-      "description": "Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.",
+      "showName": "Banking Transformation Summit",
+      "description": "Industry experts illuminate innovative strategies, enhancing their collective knowledge and appreciating the essence of tech camaraderie.",
       "startDate": "2026-08-23T18:30:00",
       "endDate": "2026-08-23T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b896b73cdbd72666fa27b97e658d7a0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8405a698f612e8604e6382829a24efe.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNBC-TV18 Editorial",
-      "description": "The host presents the latest updates and developments related to the world of business and finance from all over the world.",
+      "showName": "The Global Reset",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-08-23T19:00:00",
       "endDate": "2026-08-23T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbdd0e3e46751424a257408685405f95.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aace309afb8c2d4bb5fa03f18480f76f.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -1626,80 +1670,91 @@
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNBC-TV18 Editorial",
-      "description": "The host presents the latest updates and developments related to the world of business and finance from all over the world.",
+      "showName": "Banking Transformation Summit",
+      "description": "Industry experts illuminate innovative strategies, enhancing their collective knowledge and appreciating the essence of tech camaraderie.",
       "startDate": "2026-08-23T20:30:00",
       "endDate": "2026-08-23T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbdd0e3e46751424a257408685405f95.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8405a698f612e8604e6382829a24efe.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Investment Guide",
-      "description": "The hosts indulge in insightful conversations with eminent experts regarding the management of finances and various facets of the stock market.",
+      "showName": "Market Forum",
+      "description": "Market Forum",
       "startDate": "2026-08-23T21:00:00",
       "endDate": "2026-08-23T21:30:00",
       "showTime": "21:00:00",
       "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/65f337c0119417338f9557908bbe8538.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ec58fad204316c01d87aa71acfa562d4.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Smart Money",
-      "description": "The host provides valuable insights concerning prudent investments in insurance, mutual funds, equities, and commodities.",
+      "showName": "Editors' Playbook",
+      "description": "Experts share insights on key market trends, while deep-diving into business shifts and strategic analysis to understand what's driving the economy each week.",
       "startDate": "2026-08-23T21:30:00",
       "endDate": "2026-08-23T22:00:00",
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/09298b67986692f3f6a493032e6fb133.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1769878b757614d40c61e148006cbad.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "The Media Dialogues",
-      "description": "The host speaks to highly regarded figures in advertising and broadcasting about the dynamic landscape and issues of media in India.",
+      "showName": "AI: The Next Frontier",
+      "description": "AI: The Next Frontier",
       "startDate": "2026-08-23T22:00:00",
       "endDate": "2026-08-23T22:30:00",
       "showTime": "22:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1233cdcd210a9ad7e8ea4d055cb62091.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "CNBC-TV18 Editorial",
-      "description": "The host presents the latest updates and developments related to the world of business and finance from all over the world.",
+      "showName": "Banking Transformation Summit",
+      "description": "Industry experts illuminate innovative strategies, enhancing their collective knowledge and appreciating the essence of tech camaraderie.",
       "startDate": "2026-08-23T22:30:00",
       "endDate": "2026-08-23T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbdd0e3e46751424a257408685405f95.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8405a698f612e8604e6382829a24efe.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Kiska Brand Bajega: Home Edition",
-      "description": "The host invites prominent personalities from various fields and discusses matters ranging from technology to entertainment.",
+      "showName": "Editors' Roundtable",
+      "description": "A panel of eminent editors discusses the main economic issues faced by the country and provides an in-depth analysis of the situation.",
       "startDate": "2026-08-23T23:00:00",
-      "endDate": "2026-08-23T23:59:59",
+      "endDate": "2026-08-23T23:30:00",
       "showTime": "23:00:00",
+      "endTime": "23:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1755fd66442a2a8f3cef5a8f2b64fa27.jpg"
+    },
+    {
+      "serverDate": "2026-08-23",
+      "showName": "Overdrive",
+      "description": "The host presents the latest news stories, major updates and top developments about automobiles and bikes, including their price range and performance reviews.",
+      "startDate": "2026-08-23T23:30:00",
+      "endDate": "2026-08-23T23:59:59",
+      "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bcc362b4bd2ae55e391658bde71f980e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62f134f2c4aecb359697c2915f7cdad9.jpg"
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Overdrive",
-      "description": "The host presents the latest news stories, major updates and top developments about automobiles and bikes, including their price range and performance reviews.",
+      "showName": "Storyboard18",
+      "description": "The host invites marketing professionals to discuss how companies use digital media to reach consumers during festive times.",
       "startDate": "2026-08-24T00:00:00",
       "endDate": "2026-08-24T00:30:00",
       "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62f134f2c4aecb359697c2915f7cdad9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b42c097f287b56bad4e0e5dae5db9607.jpg"
     },
     {
       "serverDate": "2026-08-24",
