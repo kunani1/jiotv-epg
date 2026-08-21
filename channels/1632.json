@@ -8,105 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ColorsKannadaCinema.png",
   "programs": [
     {
-      "serverDate": "2026-08-19",
-      "showName": "Ananthu V/S Nusrath",
-      "description": "Ananthu, a lawyer from a traditional Brahmin family, falls for Nusrath, a judge from a different faith, leading to a heartfelt journey of love, family expectations and courtroom drama.",
-      "startDate": "2026-08-19T00:00:00",
-      "endDate": "2026-08-19T02:30:00",
-      "showTime": "00:00:00",
-      "endTime": "02:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2ad8a05a1eb54fea844530acd639ec1.jpg"
-    },
-    {
-      "serverDate": "2026-08-19",
-      "showName": "Shiva Shakthi",
-      "description": "Lord Shiva and Goddess Parvati fall in love at the start of the universe. Their eternal love story becomes a legendary tale of devotion for future generations.",
-      "startDate": "2026-08-19T02:30:00",
-      "endDate": "2026-08-19T03:00:00",
-      "showTime": "02:30:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0f151a06a419c92f483069f344e55118.jpg"
-    },
-    {
-      "serverDate": "2026-08-19",
-      "showName": "Bombat Hendthi",
-      "description": "In order to avoid having to marry his boss' daughter, Sridhar lies that he is married. It remains to be seen if his charade gets exposed.",
-      "startDate": "2026-08-19T03:00:00",
-      "endDate": "2026-08-19T06:00:00",
-      "showTime": "03:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fc78f86972a8573fb57853efe37ee163.jpg"
-    },
-    {
-      "serverDate": "2026-08-19",
-      "showName": "Thandege Thakka Maga",
-      "description": "Sathya is forced to marry a woman from a lower caste after his father's sudden death. He struggles to lead a happy marital life while dealing with certain problems.",
-      "startDate": "2026-08-19T06:00:00",
-      "endDate": "2026-08-19T09:30:00",
-      "showTime": "06:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d53d98fbe606ebc91c2e442a267171b1.jpg"
-    },
-    {
-      "serverDate": "2026-08-19",
-      "showName": "Aparichita",
-      "description": "A writer visits his friend's village after he learns about his disappearance. On visiting the place, he discovers that the latter was murdered.",
-      "startDate": "2026-08-19T09:30:00",
-      "endDate": "2026-08-19T13:00:00",
-      "showTime": "09:30:00",
-      "endTime": "13:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1e854ebada30c577018e4f31cd99eaa0.jpg"
-    },
-    {
-      "serverDate": "2026-08-19",
-      "showName": "Badava Rascal",
-      "description": "Shankar, a young man, is kidnapped by a gang of thugs. In order to escape his predicament, he narrates his life story to make his abductors rethink their decision.",
-      "startDate": "2026-08-19T13:00:00",
-      "endDate": "2026-08-19T16:00:00",
-      "showTime": "13:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b82d95ef5a47d650aa868fe5e3b91546.jpg"
-    },
-    {
-      "serverDate": "2026-08-19",
-      "showName": "Naani",
-      "description": "Soon after moving into their new palatial house, a couple begins experiencing paranormal phenomena. An investigation leads them to the chilling story of the house's previous inhabitants.",
-      "startDate": "2026-08-19T16:00:00",
-      "endDate": "2026-08-19T19:00:00",
-      "showTime": "16:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4cac802b730ea2c466068dd2d3c28ec0.jpg"
-    },
-    {
-      "serverDate": "2026-08-19",
-      "showName": "Anna Bond",
-      "description": "Bond Ravi, a martial arts champion, and Meera, a documentary film-maker, fall in love with each other. However, she gets kidnapped by a drug lord, prompting Bond to spring into action.",
-      "startDate": "2026-08-19T19:00:00",
-      "endDate": "2026-08-19T23:00:00",
-      "showTime": "19:00:00",
-      "endTime": "23:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/558d9d8779167dfc43d150aeea9674c7.jpg"
-    },
-    {
-      "serverDate": "2026-08-19",
-      "showName": "Kannad Gothilla",
-      "description": "A senior crime inspector investigates a complex case of people going missing in Bengaluru, taking every measure possible to uncover the truth.",
-      "startDate": "2026-08-19T23:00:00",
-      "endDate": "2026-08-19T23:59:59",
-      "showTime": "23:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8d0a4b5be2d575e65d3d572a60bd75ae.jpg"
-    },
-    {
       "serverDate": "2026-08-20",
       "showName": "Kannad Gothilla",
       "description": "A senior crime inspector investigates a complex case of people going missing in Bengaluru, taking every measure possible to uncover the truth.",
@@ -798,6 +699,105 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d65e5314cb841b7bae976770cbd449f8.jpg"
+    },
+    {
+      "serverDate": "2026-08-27",
+      "showName": "E-Mannu",
+      "description": "Niranjan Nittoor, a software engineer by education, gets trapped in circumstances that force him to move to his father's rural property, where he tries his hand at farming.",
+      "startDate": "2026-08-27T00:00:00",
+      "endDate": "2026-08-27T02:30:00",
+      "showTime": "00:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d65e5314cb841b7bae976770cbd449f8.jpg"
+    },
+    {
+      "serverDate": "2026-08-27",
+      "showName": "Shiva Shakthi",
+      "description": "Lord Shiva and Goddess Parvati fall in love at the start of the universe. Their eternal love story becomes a legendary tale of devotion for future generations.",
+      "startDate": "2026-08-27T02:30:00",
+      "endDate": "2026-08-27T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0f151a06a419c92f483069f344e55118.jpg"
+    },
+    {
+      "serverDate": "2026-08-27",
+      "showName": "India vs England",
+      "description": "During his first visit to India, Kanishka, a vlogger, meets Medini and falls in love with her. Soon, things take a turn when they come across a precious diamond that later goes missing.",
+      "startDate": "2026-08-27T03:00:00",
+      "endDate": "2026-08-27T06:00:00",
+      "showTime": "03:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0aeb38ee68cc1075cdd7f26eacc6f2e2.jpg"
+    },
+    {
+      "serverDate": "2026-08-27",
+      "showName": "Varsha",
+      "description": "After his mother's death and father's arrest, Sathya brings up his seven sisters like a father. But a villainous character from his father's past turns the siblings against each other.",
+      "startDate": "2026-08-27T06:00:00",
+      "endDate": "2026-08-27T09:30:00",
+      "showTime": "06:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ef171f86bd5b23faab6ccdba60990dbf.jpg"
+    },
+    {
+      "serverDate": "2026-08-27",
+      "showName": "Mungaru Male 2",
+      "description": "Preetham, the son of Suryakanth, a millionaire, is driven by excitement and easily gets bored when it comes to relationships. He understands love after he meets Nandini.",
+      "startDate": "2026-08-27T09:30:00",
+      "endDate": "2026-08-27T13:00:00",
+      "showTime": "09:30:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cfb147e0da7831ee30ae0090dac16532.jpg"
+    },
+    {
+      "serverDate": "2026-08-27",
+      "showName": "Iruvudellava Bittu",
+      "description": "Poorvi, an independent woman, leaves her family and boyfriend, Dev, due to her ego and self-conceit. Despite making several imprudent decisions, her life comes back on track after meeting Akash.",
+      "startDate": "2026-08-27T13:00:00",
+      "endDate": "2026-08-27T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b4ab6d8d06e2279012a41a641da2eb1.jpg"
+    },
+    {
+      "serverDate": "2026-08-27",
+      "showName": "Thamate",
+      "description": "Emotional relationships and life-changing decisions test the strength, courage and determination of individuals facing difficult circumstances and unexpected personal challenges.",
+      "startDate": "2026-08-27T16:00:00",
+      "endDate": "2026-08-27T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1b31d6f180dc095286192519f0749ac9.jpg"
+    },
+    {
+      "serverDate": "2026-08-27",
+      "showName": "Ondagona Baa",
+      "description": "Raghu comes to his paternal village to attend his grandfather's diamond jubilee function. He finds out that due to his uncle, his family was separated, and tries to fix things.",
+      "startDate": "2026-08-27T19:00:00",
+      "endDate": "2026-08-27T23:00:00",
+      "showTime": "19:00:00",
+      "endTime": "23:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f170ef360187c71eb9dde3c963372eb.jpg"
+    },
+    {
+      "serverDate": "2026-08-27",
+      "showName": "Petromax",
+      "description": "Four orphans seek refuge in a woman who offers them the motherly love they have been longing for their whole lives.",
+      "startDate": "2026-08-27T23:00:00",
+      "endDate": "2026-08-27T23:59:59",
+      "showTime": "23:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/03e206bbd42778f363b4bbb6772bee30.jpg"
     }
   ]
 }
