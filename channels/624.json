@@ -955,14 +955,14 @@
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Prag Health",
+      "description": "Prag Health",
       "startDate": "2026-08-22T15:30:00",
       "endDate": "2026-08-22T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85971d398bf14000fd661a626ef45e29.jpg"
     },
     {
       "serverDate": "2026-08-22",
@@ -1332,11 +1332,22 @@
       "showName": "Afternoon Express",
       "description": "A lifestyle show that gives women an opportunity to interact and engage daily.",
       "startDate": "2026-08-23T14:30:00",
-      "endDate": "2026-08-23T16:00:00",
+      "endDate": "2026-08-23T15:30:00",
       "showTime": "14:30:00",
-      "endTime": "16:00:00",
+      "endTime": "15:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f5ec7e89a2ebda46d4a72ee320ca6ba3.jpg"
+    },
+    {
+      "serverDate": "2026-08-23",
+      "showName": "Prag Health",
+      "description": "Prag Health",
+      "startDate": "2026-08-23T15:30:00",
+      "endDate": "2026-08-23T16:00:00",
+      "showTime": "15:30:00",
+      "endTime": "16:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85971d398bf14000fd661a626ef45e29.jpg"
     },
     {
       "serverDate": "2026-08-23",

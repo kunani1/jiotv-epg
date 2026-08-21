@@ -155,22 +155,11 @@
       "showName": "Padutha Theeyaga",
       "description": "The judges welcome various contestants from Andhra Pradesh and Telangana who showcase their unique singing skills in front of them.",
       "startDate": "2026-08-22T03:30:00",
-      "endDate": "2026-08-22T05:59:00",
+      "endDate": "2026-08-22T08:30:00",
       "showTime": "03:30:00",
-      "endTime": "05:59:00",
+      "endTime": "08:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58753b8de4d5edc0c2e8e013207488eb.jpg"
-    },
-    {
-      "serverDate": "2026-08-22",
-      "showName": "To Be Announced",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-08-22T05:59:00",
-      "endDate": "2026-08-22T08:30:00",
-      "showTime": "05:59:00",
-      "endTime": "08:30:00",
-      "showCategory": "TBA",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
     },
     {
       "serverDate": "2026-08-22",
@@ -364,8 +353,19 @@
       "showName": "To Be Announced",
       "description": "Bringing the best in television.",
       "startDate": "2026-08-24T05:30:00",
-      "endDate": "2026-08-24T08:30:00",
+      "endDate": "2026-08-24T06:00:00",
       "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "TBA",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
+    },
+    {
+      "serverDate": "2026-08-24",
+      "showName": "To Be Announced",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-08-24T06:00:00",
+      "endDate": "2026-08-24T08:30:00",
+      "showTime": "06:00:00",
       "endTime": "08:30:00",
       "showCategory": "TBA",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
