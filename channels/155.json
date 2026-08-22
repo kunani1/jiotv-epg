@@ -658,14 +658,14 @@
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Test Cricket",
-      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
+      "showName": "Commonwealth Games 2026",
+      "description": "Professional athletes across various disciplines engage in fierce competition to claim victory at the 2026 Commonwealth Games.",
       "startDate": "2026-08-23T07:00:00",
       "endDate": "2026-08-23T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89b1805d09ce3279b8b0308cab6ba75e.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -691,14 +691,14 @@
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Test Cricket",
-      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
+      "showName": "Commonwealth Games 2026",
+      "description": "Professional athletes across various disciplines engage in fierce competition to claim victory at the 2026 Commonwealth Games.",
       "startDate": "2026-08-23T09:00:00",
       "endDate": "2026-08-23T09:30:00",
       "showTime": "09:00:00",
       "endTime": "09:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89b1805d09ce3279b8b0308cab6ba75e.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -724,14 +724,14 @@
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Test Cricket",
-      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
+      "showName": "Commonwealth Games 2026",
+      "description": "Professional athletes across various disciplines engage in fierce competition to claim victory at the 2026 Commonwealth Games.",
       "startDate": "2026-08-23T11:30:00",
       "endDate": "2026-08-23T12:00:00",
       "showTime": "11:30:00",
       "endTime": "12:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89b1805d09ce3279b8b0308cab6ba75e.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -768,69 +768,91 @@
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Test Cricket",
-      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
+      "showName": "Commonwealth Games 2026",
+      "description": "Professional athletes across various disciplines engage in fierce competition to claim victory at the 2026 Commonwealth Games.",
       "startDate": "2026-08-23T15:00:00",
       "endDate": "2026-08-23T15:30:00",
       "showTime": "15:00:00",
       "endTime": "15:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89b1805d09ce3279b8b0308cab6ba75e.jpg"
     },
     {
       "serverDate": "2026-08-23",
       "showName": "Test Cricket",
-      "description": "Professional players from two cricket teams compete against each other to emerge victorious in a Test match to win the title.",
+      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
       "startDate": "2026-08-23T15:30:00",
       "endDate": "2026-08-23T17:30:00",
       "showTime": "15:30:00",
       "endTime": "17:30:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee23bb5a1e43b7c9ec23806e4492e003.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
+    },
+    {
+      "serverDate": "2026-08-23",
+      "showName": "Commonwealth Games 2026",
+      "description": "Professional athletes across various disciplines engage in fierce competition to claim victory at the 2026 Commonwealth Games.",
+      "startDate": "2026-08-23T17:30:00",
+      "endDate": "2026-08-23T18:30:00",
+      "showTime": "17:30:00",
+      "endTime": "18:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89b1805d09ce3279b8b0308cab6ba75e.jpg"
+    },
+    {
+      "serverDate": "2026-08-23",
+      "showName": "FIA Formula E Highlights",
+      "description": "Highlights of the FIA Formula E World Championship, where drivers compete against each other in electric open-wheel single-seater cars.",
+      "startDate": "2026-08-23T18:30:00",
+      "endDate": "2026-08-23T19:30:00",
+      "showTime": "18:30:00",
+      "endTime": "19:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3a0b545d378d7c7e11049e7cf5900617.jpg"
     },
     {
       "serverDate": "2026-08-23",
       "showName": "Asia Cup Highlights",
       "description": "Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.",
-      "startDate": "2026-08-23T17:30:00",
-      "endDate": "2026-08-23T18:00:00",
-      "showTime": "17:30:00",
-      "endTime": "18:00:00",
+      "startDate": "2026-08-23T19:30:00",
+      "endDate": "2026-08-23T20:30:00",
+      "showTime": "19:30:00",
+      "endTime": "20:30:00",
       "showCategory": "Sports non-event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c51b7ea5b521bacdbec09a3e10270f2.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Test Cricket",
-      "description": "Professional players from two cricket teams compete against each other to emerge victorious in a Test match to win the title.",
-      "startDate": "2026-08-23T18:00:00",
-      "endDate": "2026-08-23T20:15:00",
-      "showTime": "18:00:00",
-      "endTime": "20:15:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee23bb5a1e43b7c9ec23806e4492e003.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Snippets",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-08-23T20:15:00",
-      "endDate": "2026-08-23T20:30:00",
-      "showTime": "20:15:00",
-      "endTime": "20:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8616b83ce09b64ec5c252387e196aef.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Test Cricket",
-      "description": "Professional players from two cricket teams compete against each other to emerge victorious in a Test match to win the title.",
+      "showName": "Asia Cup Highlights",
+      "description": "Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.",
       "startDate": "2026-08-23T20:30:00",
-      "endDate": "2026-08-23T23:00:00",
+      "endDate": "2026-08-23T21:30:00",
       "showTime": "20:30:00",
-      "endTime": "23:00:00",
+      "endTime": "21:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c51b7ea5b521bacdbec09a3e10270f2.jpg"
+    },
+    {
+      "serverDate": "2026-08-23",
+      "showName": "One-Day International Cricket",
+      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
+      "startDate": "2026-08-23T21:30:00",
+      "endDate": "2026-08-23T22:30:00",
+      "showTime": "21:30:00",
+      "endTime": "22:30:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee23bb5a1e43b7c9ec23806e4492e003.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
+    },
+    {
+      "serverDate": "2026-08-23",
+      "showName": "Asia Cup Highlights",
+      "description": "Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.",
+      "startDate": "2026-08-23T22:30:00",
+      "endDate": "2026-08-23T23:00:00",
+      "showTime": "22:30:00",
+      "endTime": "23:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c51b7ea5b521bacdbec09a3e10270f2.jpg"
     },
     {
       "serverDate": "2026-08-23",
