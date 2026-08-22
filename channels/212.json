@@ -8,446 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ET_Now.png",
   "programs": [
     {
-      "serverDate": "2026-08-20",
-      "showName": "India Tonight",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-08-20T00:00:00",
-      "endDate": "2026-08-20T01:00:00",
-      "showTime": "00:00:00",
-      "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/231100483e01c6eb2a918b220803ed30.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "SUC",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-08-20T01:00:00",
-      "endDate": "2026-08-20T01:30:00",
-      "showTime": "01:00:00",
-      "endTime": "01:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/76f693c21a6e2145117fafdb81b42cfc.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Brandverse",
-      "description": "The host invites industry leaders and innovators to engage in insightful discussions on topics related to branding, media, technology and consumer culture.",
-      "startDate": "2026-08-20T01:30:00",
-      "endDate": "2026-08-20T02:00:00",
-      "showTime": "01:30:00",
-      "endTime": "02:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e11a359bb12c069d25363030be470e53.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Deep Dive",
-      "description": "Stay informed with the latest breaking news and headlines.",
-      "startDate": "2026-08-20T02:00:00",
-      "endDate": "2026-08-20T02:30:00",
-      "showTime": "02:00:00",
-      "endTime": "02:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c274e8a78c2093d4580fe0f0dd2ae80.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Market Edge",
-      "description": "The host presents some of the latest news and developments in the economy and the stock market, including business insights from industry experts.",
-      "startDate": "2026-08-20T02:30:00",
-      "endDate": "2026-08-20T03:00:00",
-      "showTime": "02:30:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f9905f2497ed5f50bfef86ed7c0e440.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "The Money Show",
-      "description": "The host presents information about fiscal management, investment opportunities and advice while also providing updates on changes and trends in the financial markets.",
-      "startDate": "2026-08-20T03:00:00",
-      "endDate": "2026-08-20T03:30:00",
-      "showTime": "03:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8120427a59c5338c8acef4afcd42516e.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "BTS",
-      "description": "BTS",
-      "startDate": "2026-08-20T03:30:00",
-      "endDate": "2026-08-20T04:00:00",
-      "showTime": "03:30:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b78cdb1c6229da340a8ed6172a6afed6.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "India Tonight",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-08-20T04:00:00",
-      "endDate": "2026-08-20T05:00:00",
-      "showTime": "04:00:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/231100483e01c6eb2a918b220803ed30.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Business@9",
-      "description": "The host presents information about the various business and economic news of the day and provides updates on current events.",
-      "startDate": "2026-08-20T05:00:00",
-      "endDate": "2026-08-20T05:30:00",
-      "showTime": "05:00:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/801102d452815bd715b4f942f979281f.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Deep Dive",
-      "description": "Stay informed with the latest breaking news and headlines.",
-      "startDate": "2026-08-20T05:30:00",
-      "endDate": "2026-08-20T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c274e8a78c2093d4580fe0f0dd2ae80.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "The Money Show",
-      "description": "The host presents information about fiscal management, investment opportunities and advice while also providing updates on changes and trends in the financial markets.",
-      "startDate": "2026-08-20T06:00:00",
-      "endDate": "2026-08-20T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8120427a59c5338c8acef4afcd42516e.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "BTS",
-      "description": "BTS",
-      "startDate": "2026-08-20T06:30:00",
-      "endDate": "2026-08-20T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b78cdb1c6229da340a8ed6172a6afed6.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Market Edge",
-      "description": "The host presents some of the latest news and developments in the economy and the stock market, including business insights from industry experts.",
-      "startDate": "2026-08-20T07:00:00",
-      "endDate": "2026-08-20T07:30:00",
-      "showTime": "07:00:00",
-      "endTime": "07:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f9905f2497ed5f50bfef86ed7c0e440.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Market Café",
-      "description": "The host provides a detailed report featuring the latest updates and key developments concerning the performance of financial instruments across various sectors of the market.",
-      "startDate": "2026-08-20T07:30:00",
-      "endDate": "2026-08-20T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/06396eb0d7c4f0467c7ac33c7ae52721.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "The Market",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-08-20T08:00:00",
-      "endDate": "2026-08-20T09:00:00",
-      "showTime": "08:00:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2550dded6056e600ed5cdce4a4a95059.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "First Trade",
-      "description": "The host provides tips and latest updates from the stock market, including estimates, stock charts and future of the market.",
-      "startDate": "2026-08-20T09:00:00",
-      "endDate": "2026-08-20T10:30:00",
-      "showTime": "09:00:00",
-      "endTime": "10:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f95591d1ec5158dec1f8a69ab9efff63.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Midcap Masala",
-      "description": "The host invites eminent experts to discuss the latest trends in the stock market and highlights the most profitable companies to invest in.",
-      "startDate": "2026-08-20T10:30:00",
-      "endDate": "2026-08-20T11:00:00",
-      "showTime": "10:30:00",
-      "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b3c8c3ef622faec8714cbf2a02f691f.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Buy Now Sell Now",
-      "description": "The host shares expert advice on smart investing, guiding viewers through market trends and offering timely tips for buying and selling.",
-      "startDate": "2026-08-20T11:00:00",
-      "endDate": "2026-08-20T12:00:00",
-      "showTime": "11:00:00",
-      "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c199068e2f244740d3aa0879043c8e76.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Markets @ Noon",
-      "description": "The host provides the latest news, updates and developments concerning the stock market and events that have affected various shares.",
-      "startDate": "2026-08-20T12:00:00",
-      "endDate": "2026-08-20T12:30:00",
-      "showTime": "12:00:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a42c06d8ca0c5a642ba0a5554f546c5a.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "All About Your Company",
-      "description": "The presenter outlines Atlanta Electricals' strategy for securing a 40% growth peak. Meanwhile, the firm capitalises on the regional power surge.",
-      "startDate": "2026-08-20T12:30:00",
-      "endDate": "2026-08-20T13:00:00",
-      "showTime": "12:30:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e9ed30facf73161ffb964780b7ab01aa.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Markets @ Lunch",
-      "description": "Financial experts analyse the latest midday stock market trends and corporate developments to help investors navigate the trading day with real-time updates and strategic insights.",
-      "startDate": "2026-08-20T13:00:00",
-      "endDate": "2026-08-20T13:30:00",
-      "showTime": "13:00:00",
-      "endTime": "13:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b30840b1226ad89dd7cbdb981709e0d7.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Market Fatafat",
-      "description": "The host invites a market expert to offer insights into the performance of financial instruments across various sectors of the market.",
-      "startDate": "2026-08-20T13:30:00",
-      "endDate": "2026-08-20T14:00:00",
-      "showTime": "13:30:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0b0ace49406e505ede5e95816acb2fc3.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Closing Trades",
-      "description": "Towards nearing the close of the market, the host provides latest updates of fluctuations and market-affecting events, with experts weighing in.",
-      "startDate": "2026-08-20T14:00:00",
-      "endDate": "2026-08-20T15:30:00",
-      "showTime": "14:00:00",
-      "endTime": "15:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dbb272290c22232ace004bb1822074a3.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "F&O Closing / Commodity Central",
-      "description": "F&O Closing / Commodity Central",
-      "startDate": "2026-08-20T15:30:00",
-      "endDate": "2026-08-20T16:00:00",
-      "showTime": "15:30:00",
-      "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/81ca18cbdde5645ebe47d21aeb0ef556.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Market Edge",
-      "description": "The host presents some of the latest news and developments in the economy and the stock market, including business insights from industry experts.",
-      "startDate": "2026-08-20T16:00:00",
-      "endDate": "2026-08-20T16:30:00",
-      "showTime": "16:00:00",
-      "endTime": "16:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f9905f2497ed5f50bfef86ed7c0e440.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "News Now",
-      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
-      "startDate": "2026-08-20T16:30:00",
-      "endDate": "2026-08-20T17:00:00",
-      "showTime": "16:30:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28f8c5f3719275cc7774811c5be8b230.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "The Money Show",
-      "description": "The host presents information about fiscal management, investment opportunities and advice while also providing updates on changes and trends in the financial markets.",
-      "startDate": "2026-08-20T17:00:00",
-      "endDate": "2026-08-20T17:30:00",
-      "showTime": "17:00:00",
-      "endTime": "17:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8120427a59c5338c8acef4afcd42516e.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "South Central",
-      "description": "The host presents the latest information and the biggest events pertaining to south India, in terms of business, weather, technology and other aspects.",
-      "startDate": "2026-08-20T17:30:00",
-      "endDate": "2026-08-20T18:00:00",
-      "showTime": "17:30:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/75a2cbe9c526ed87d16d25d9df1bf7aa.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "News Now",
-      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
-      "startDate": "2026-08-20T18:00:00",
-      "endDate": "2026-08-20T18:30:00",
-      "showTime": "18:00:00",
-      "endTime": "18:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28f8c5f3719275cc7774811c5be8b230.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "All About Your Company",
-      "description": "The presenter outlines Atlanta Electricals' strategy for securing a 40% growth peak. Meanwhile, the firm capitalises on the regional power surge.",
-      "startDate": "2026-08-20T18:30:00",
-      "endDate": "2026-08-20T19:00:00",
-      "showTime": "18:30:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e9ed30facf73161ffb964780b7ab01aa.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Insurance Mantra",
-      "description": "The host elaborates on various insurance policies, explaining coverage options, benefits and strategies to help viewers make informed decisions about their financial protection.",
-      "startDate": "2026-08-20T19:00:00",
-      "endDate": "2026-08-20T19:30:00",
-      "showTime": "19:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e6b72c115caeeaeffad2e294b5b6d1a4.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Leaders of Tomorrow",
-      "description": "A platform offers entrepreneurs a valuable opportunity to scale their ventures and showcase their unique skills to a wider audience, fostering growth and recognition.",
-      "startDate": "2026-08-20T19:30:00",
-      "endDate": "2026-08-20T20:00:00",
-      "showTime": "19:30:00",
-      "endTime": "20:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/acc0c74bc0225c379639fea4051760f6.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "India Tonight",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-08-20T20:00:00",
-      "endDate": "2026-08-20T20:30:00",
-      "showTime": "20:00:00",
-      "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/231100483e01c6eb2a918b220803ed30.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Market Edge",
-      "description": "The host presents some of the latest news and developments in the economy and the stock market, including business insights from industry experts.",
-      "startDate": "2026-08-20T20:30:00",
-      "endDate": "2026-08-20T21:00:00",
-      "showTime": "20:30:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f9905f2497ed5f50bfef86ed7c0e440.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Business@9",
-      "description": "The host presents information about the various business and economic news of the day and provides updates on current events.",
-      "startDate": "2026-08-20T21:00:00",
-      "endDate": "2026-08-20T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/801102d452815bd715b4f942f979281f.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Insurance Mantra",
-      "description": "The host elaborates on various insurance policies, explaining coverage options, benefits and strategies to help viewers make informed decisions about their financial protection.",
-      "startDate": "2026-08-20T21:30:00",
-      "endDate": "2026-08-20T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e6b72c115caeeaeffad2e294b5b6d1a4.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "South Central",
-      "description": "The host presents the latest information and the biggest events pertaining to south India, in terms of business, weather, technology and other aspects.",
-      "startDate": "2026-08-20T22:00:00",
-      "endDate": "2026-08-20T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/75a2cbe9c526ed87d16d25d9df1bf7aa.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "The Money Show",
-      "description": "The host presents information about fiscal management, investment opportunities and advice while also providing updates on changes and trends in the financial markets.",
-      "startDate": "2026-08-20T22:30:00",
-      "endDate": "2026-08-20T23:00:00",
-      "showTime": "22:30:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8120427a59c5338c8acef4afcd42516e.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Beat the Street",
-      "description": "The host and subject-matter experts provide updates on important developments in the Indian stock market and give valuable investment tips.",
-      "startDate": "2026-08-20T23:00:00",
-      "endDate": "2026-08-20T23:30:00",
-      "showTime": "23:00:00",
-      "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/72e4c12245a4c01ed81eeb0813154f57.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "All About Your Company",
-      "description": "The presenter outlines Atlanta Electricals' strategy for securing a 40% growth peak. Meanwhile, the firm capitalises on the regional power surge.",
-      "startDate": "2026-08-20T23:30:00",
-      "endDate": "2026-08-20T23:59:59",
-      "showTime": "23:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e9ed30facf73161ffb964780b7ab01aa.jpg"
-    },
-    {
       "serverDate": "2026-08-21",
       "showName": "India Tonight",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
@@ -500,7 +60,7 @@
       "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c274e8a78c2093d4580fe0f0dd2ae80.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b4c128dc5556a9d7774f7776abb374.jpg"
     },
     {
       "serverDate": "2026-08-21",
@@ -857,7 +417,7 @@
     {
       "serverDate": "2026-08-21",
       "showName": "The Interview",
-      "description": "Interviewer Ayesha Faridi engages in an insightful conversation with guests, who share their professional journey and experiences.",
+      "description": "The Interview",
       "startDate": "2026-08-21T21:30:00",
       "endDate": "2026-08-21T22:00:00",
       "showTime": "21:30:00",
@@ -889,47 +449,36 @@
     },
     {
       "serverDate": "2026-08-21",
-      "showName": "Beat the Street",
-      "description": "The host and subject-matter experts provide updates on important developments in the Indian stock market and give valuable investment tips.",
+      "showName": "BTS",
+      "description": "BTS",
       "startDate": "2026-08-21T23:00:00",
       "endDate": "2026-08-21T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/72e4c12245a4c01ed81eeb0813154f57.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b78cdb1c6229da340a8ed6172a6afed6.jpg"
     },
     {
       "serverDate": "2026-08-21",
-      "showName": "All About Your Company",
-      "description": "The presenter outlines Atlanta Electricals' strategy for securing a 40% growth peak. Meanwhile, the firm capitalises on the regional power surge.",
+      "showName": "AAYC",
+      "description": "AAYC",
       "startDate": "2026-08-21T23:30:00",
       "endDate": "2026-08-21T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b7c5b8fb607539e4d13a2aa8433a8cbb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e4d9615f48cba19ea5952dc8cc13c6a.jpg"
     },
     {
       "serverDate": "2026-08-22",
       "showName": "India Tonight",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-08-22T00:00:00",
-      "endDate": "2026-08-22T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/13393d95388f9756c36050236ae6a8b3.jpg"
-    },
-    {
-      "serverDate": "2026-08-22",
-      "showName": "Market Edge",
-      "description": "The host presents some of the latest news and developments in the economy and the stock market, including business insights from industry experts.",
-      "startDate": "2026-08-22T00:30:00",
       "endDate": "2026-08-22T01:00:00",
-      "showTime": "00:30:00",
+      "showTime": "00:00:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f9905f2497ed5f50bfef86ed7c0e440.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/13393d95388f9756c36050236ae6a8b3.jpg"
     },
     {
       "serverDate": "2026-08-22",
@@ -962,7 +511,7 @@
       "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c274e8a78c2093d4580fe0f0dd2ae80.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b4c128dc5556a9d7774f7776abb374.jpg"
     },
     {
       "serverDate": "2026-08-22",
@@ -977,47 +526,36 @@
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "The Money Show",
-      "description": "The host presents information about fiscal management, investment opportunities and advice while also providing updates on changes and trends in the financial markets.",
+      "showName": "The Interview",
+      "description": "The Interview",
       "startDate": "2026-08-22T03:00:00",
       "endDate": "2026-08-22T03:30:00",
       "showTime": "03:00:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8120427a59c5338c8acef4afcd42516e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c796aaec746fb9f460b85d7a9cb46526.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "All About Your Company",
-      "description": "The presenter outlines Atlanta Electricals' strategy for securing a 40% growth peak. Meanwhile, the firm capitalises on the regional power surge.",
+      "showName": "BTS",
+      "description": "BTS",
       "startDate": "2026-08-22T03:30:00",
       "endDate": "2026-08-22T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b7c5b8fb607539e4d13a2aa8433a8cbb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b78cdb1c6229da340a8ed6172a6afed6.jpg"
     },
     {
       "serverDate": "2026-08-22",
       "showName": "India Tonight",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-08-22T04:00:00",
-      "endDate": "2026-08-22T04:30:00",
-      "showTime": "04:00:00",
-      "endTime": "04:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/13393d95388f9756c36050236ae6a8b3.jpg"
-    },
-    {
-      "serverDate": "2026-08-22",
-      "showName": "Market Edge",
-      "description": "The host presents some of the latest news and developments in the economy and the stock market, including business insights from industry experts.",
-      "startDate": "2026-08-22T04:30:00",
       "endDate": "2026-08-22T05:00:00",
-      "showTime": "04:30:00",
+      "showTime": "04:00:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f9905f2497ed5f50bfef86ed7c0e440.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/13393d95388f9756c36050236ae6a8b3.jpg"
     },
     {
       "serverDate": "2026-08-22",
@@ -1033,7 +571,7 @@
     {
       "serverDate": "2026-08-22",
       "showName": "The Interview",
-      "description": "Interviewer Ayesha Faridi engages in an insightful conversation with guests, who share their professional journey and experiences.",
+      "description": "The Interview",
       "startDate": "2026-08-22T05:30:00",
       "endDate": "2026-08-22T06:00:00",
       "showTime": "05:30:00",
@@ -1076,25 +614,25 @@
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Beat the Street",
-      "description": "The host and subject-matter experts provide updates on important developments in the Indian stock market and give valuable investment tips.",
+      "showName": "BTS",
+      "description": "BTS",
       "startDate": "2026-08-22T07:30:00",
       "endDate": "2026-08-22T08:00:00",
       "showTime": "07:30:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/72e4c12245a4c01ed81eeb0813154f57.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b78cdb1c6229da340a8ed6172a6afed6.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "All About Your Company",
-      "description": "The presenter outlines Atlanta Electricals' strategy for securing a 40% growth peak. Meanwhile, the firm capitalises on the regional power surge.",
+      "showName": "AAYC",
+      "description": "AAYC",
       "startDate": "2026-08-22T08:00:00",
       "endDate": "2026-08-22T08:30:00",
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b7c5b8fb607539e4d13a2aa8433a8cbb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e4d9615f48cba19ea5952dc8cc13c6a.jpg"
     },
     {
       "serverDate": "2026-08-22",
@@ -1149,7 +687,7 @@
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c274e8a78c2093d4580fe0f0dd2ae80.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b4c128dc5556a9d7774f7776abb374.jpg"
     },
     {
       "serverDate": "2026-08-22",
@@ -1165,7 +703,7 @@
     {
       "serverDate": "2026-08-22",
       "showName": "The Interview",
-      "description": "Interviewer Ayesha Faridi engages in an insightful conversation with guests, who share their professional journey and experiences.",
+      "description": "The Interview",
       "startDate": "2026-08-22T11:30:00",
       "endDate": "2026-08-22T12:00:00",
       "showTime": "11:30:00",
@@ -1186,14 +724,14 @@
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "BTS",
+      "description": "BTS",
       "startDate": "2026-08-22T12:30:00",
       "endDate": "2026-08-22T13:00:00",
       "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b78cdb1c6229da340a8ed6172a6afed6.jpg"
     },
     {
       "serverDate": "2026-08-22",
@@ -1208,14 +746,14 @@
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "Regulatory Radar",
+      "description": "Regulatory Radar",
       "startDate": "2026-08-22T13:30:00",
       "endDate": "2026-08-22T14:00:00",
       "showTime": "13:30:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-08-22",
@@ -1241,47 +779,47 @@
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "Deep Dive",
+      "description": "Stay informed with the latest breaking news and headlines.",
       "startDate": "2026-08-22T15:00:00",
       "endDate": "2026-08-22T15:30:00",
       "showTime": "15:00:00",
       "endTime": "15:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b4c128dc5556a9d7774f7776abb374.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "The Interview",
+      "description": "The Interview",
       "startDate": "2026-08-22T15:30:00",
       "endDate": "2026-08-22T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c796aaec746fb9f460b85d7a9cb46526.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "Global Business Summit",
+      "description": "Business leaders discuss current challenges and propose plans for sustainable, inclusive economic growth. The gathering serves as a platform for government-to-government interactions.",
       "startDate": "2026-08-22T16:00:00",
       "endDate": "2026-08-22T16:30:00",
       "showTime": "16:00:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e23d4e33eb7442fa58de73fe27e2bce3.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "BTS",
+      "description": "BTS",
       "startDate": "2026-08-22T16:30:00",
       "endDate": "2026-08-22T17:00:00",
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b78cdb1c6229da340a8ed6172a6afed6.jpg"
     },
     {
       "serverDate": "2026-08-22",
@@ -1296,36 +834,36 @@
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "South Central",
+      "description": "A single mother struggles to raise her children in South Central Los Angeles.",
       "startDate": "2026-08-22T17:30:00",
       "endDate": "2026-08-22T18:00:00",
       "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eec57f3dc3975d6f041c62f7c02d980b.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "National CSR & ESG Summit & Awards",
+      "description": "National CSR & ESG Summit & Awards",
       "startDate": "2026-08-22T18:00:00",
       "endDate": "2026-08-22T18:30:00",
       "showTime": "18:00:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "Market Edge",
+      "description": "The host welcomes industry experts to discuss market trends and financial insights.",
       "startDate": "2026-08-22T18:30:00",
       "endDate": "2026-08-22T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/43013754fd9fe0f3ebd254b85fe04ac2.jpg"
     },
     {
       "serverDate": "2026-08-22",
@@ -1351,30 +889,30 @@
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "LOT Voicewhat",
+      "description": "Top Indian entrepreneurs and corporate leaders share their rise in business, analysing their ideas, hurdles, market operations, and brand expansion.",
       "startDate": "2026-08-22T20:00:00",
       "endDate": "2026-08-22T20:30:00",
       "showTime": "20:00:00",
       "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1e661dbcdde379b48fcdd26702c1b8ae.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Motown Show",
-      "description": "The host presents the latest and evolving news about the automobile industry, with experts weighing in on aspects of innovation, numbers, and other aspects.",
+      "showName": "The Motown Show",
+      "description": "The host provides the latest information on automobile and car markets, detailing small cars' surprise comeback and how hybrid vehicles reshape industry trends.",
       "startDate": "2026-08-22T20:30:00",
       "endDate": "2026-08-22T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a77b5332c6d8a1535962cb3dabd2598.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ac0cb898aba522f4422ffa21bd5a9ad3.jpg"
     },
     {
       "serverDate": "2026-08-22",
       "showName": "The Interview",
-      "description": "Interviewer Ayesha Faridi engages in an insightful conversation with guests, who share their professional journey and experiences.",
+      "description": "The Interview",
       "startDate": "2026-08-22T21:00:00",
       "endDate": "2026-08-22T21:30:00",
       "showTime": "21:00:00",
@@ -1391,183 +929,183 @@
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c274e8a78c2093d4580fe0f0dd2ae80.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b4c128dc5556a9d7774f7776abb374.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "All About Your Company",
-      "description": "The presenter outlines Atlanta Electricals' strategy for securing a 40% growth peak. Meanwhile, the firm capitalises on the regional power surge.",
+      "showName": "AAYC",
+      "description": "AAYC",
       "startDate": "2026-08-22T22:00:00",
       "endDate": "2026-08-22T22:30:00",
       "showTime": "22:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b7c5b8fb607539e4d13a2aa8433a8cbb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e4d9615f48cba19ea5952dc8cc13c6a.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "The Times Drive",
+      "description": "Stay updated on new car, bike and EV releases through detailed comparison tests. Learn about the latest automotive market innovations.",
       "startDate": "2026-08-22T22:30:00",
       "endDate": "2026-08-22T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/55491f624a91ab3155828064d7a30a02.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "The Motown Show",
+      "description": "The host provides the latest information on automobile and car markets, detailing small cars' surprise comeback and how hybrid vehicles reshape industry trends.",
       "startDate": "2026-08-22T23:00:00",
       "endDate": "2026-08-22T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ac0cb898aba522f4422ffa21bd5a9ad3.jpg"
     },
     {
       "serverDate": "2026-08-22",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "TMS Weekend Edition",
+      "description": "Bringing the best in television.",
       "startDate": "2026-08-22T23:30:00",
       "endDate": "2026-08-22T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d99811ed420324e0b03f362b4d2da196.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "Insurance Mantra",
+      "description": "The host elaborates on various insurance policies, explaining coverage options, benefits and strategies to help viewers make informed decisions about their financial protection.",
       "startDate": "2026-08-23T00:00:00",
       "endDate": "2026-08-23T00:30:00",
       "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e6b72c115caeeaeffad2e294b5b6d1a4.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "South Central",
+      "description": "The host presents the latest information and the biggest events pertaining to south India, in terms of business, weather, technology and other aspects.",
       "startDate": "2026-08-23T00:30:00",
       "endDate": "2026-08-23T01:00:00",
       "showTime": "00:30:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/75a2cbe9c526ed87d16d25d9df1bf7aa.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "SUC",
+      "description": "Bringing the best in television.",
       "startDate": "2026-08-23T01:00:00",
       "endDate": "2026-08-23T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/76f693c21a6e2145117fafdb81b42cfc.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "Brandverse",
+      "description": "The host invites industry leaders and innovators to engage in insightful discussions on topics related to branding, media, technology and consumer culture.",
       "startDate": "2026-08-23T01:30:00",
       "endDate": "2026-08-23T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e11a359bb12c069d25363030be470e53.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "BTS",
+      "description": "BTS",
       "startDate": "2026-08-23T02:00:00",
       "endDate": "2026-08-23T02:30:00",
       "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b78cdb1c6229da340a8ed6172a6afed6.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "BTS",
+      "description": "BTS",
       "startDate": "2026-08-23T02:30:00",
       "endDate": "2026-08-23T03:00:00",
       "showTime": "02:30:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b78cdb1c6229da340a8ed6172a6afed6.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "BTS",
+      "description": "BTS",
       "startDate": "2026-08-23T03:00:00",
       "endDate": "2026-08-23T03:30:00",
       "showTime": "03:00:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b78cdb1c6229da340a8ed6172a6afed6.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "Regulatory Radar",
+      "description": "Regulatory Radar",
       "startDate": "2026-08-23T03:30:00",
       "endDate": "2026-08-23T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "Market Edge",
+      "description": "The host welcomes industry experts to discuss market trends and financial insights.",
       "startDate": "2026-08-23T04:00:00",
       "endDate": "2026-08-23T04:30:00",
       "showTime": "04:00:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/43013754fd9fe0f3ebd254b85fe04ac2.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "AAYC",
+      "description": "AAYC",
       "startDate": "2026-08-23T04:30:00",
       "endDate": "2026-08-23T05:00:00",
       "showTime": "04:30:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e4d9615f48cba19ea5952dc8cc13c6a.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "The Interview",
+      "description": "The Interview",
       "startDate": "2026-08-23T05:00:00",
       "endDate": "2026-08-23T05:30:00",
       "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c796aaec746fb9f460b85d7a9cb46526.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "Deep Dive",
+      "description": "Stay informed with the latest breaking news and headlines.",
       "startDate": "2026-08-23T05:30:00",
       "endDate": "2026-08-23T06:00:00",
       "showTime": "05:30:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b4c128dc5556a9d7774f7776abb374.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -1604,25 +1142,25 @@
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Beat the Street",
-      "description": "The host and subject-matter experts provide updates on important developments in the Indian stock market and give valuable investment tips.",
+      "showName": "BTS",
+      "description": "BTS",
       "startDate": "2026-08-23T07:30:00",
       "endDate": "2026-08-23T08:00:00",
       "showTime": "07:30:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/72e4c12245a4c01ed81eeb0813154f57.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b78cdb1c6229da340a8ed6172a6afed6.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "All About Your Company",
-      "description": "The presenter outlines Atlanta Electricals' strategy for securing a 40% growth peak. Meanwhile, the firm capitalises on the regional power surge.",
+      "showName": "AAYC",
+      "description": "AAYC",
       "startDate": "2026-08-23T08:00:00",
       "endDate": "2026-08-23T08:30:00",
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b7c5b8fb607539e4d13a2aa8433a8cbb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e4d9615f48cba19ea5952dc8cc13c6a.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -1659,30 +1197,30 @@
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Motown Show",
-      "description": "The host presents the latest and evolving news about the automobile industry, with experts weighing in on aspects of innovation, numbers, and other aspects.",
+      "showName": "The Motown Show",
+      "description": "The host provides the latest information on automobile and car markets, detailing small cars' surprise comeback and how hybrid vehicles reshape industry trends.",
       "startDate": "2026-08-23T10:00:00",
       "endDate": "2026-08-23T10:30:00",
       "showTime": "10:00:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a77b5332c6d8a1535962cb3dabd2598.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ac0cb898aba522f4422ffa21bd5a9ad3.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "The Times Drive",
+      "description": "Stay updated on new car, bike and EV releases through detailed comparison tests. Learn about the latest automotive market innovations.",
       "startDate": "2026-08-23T10:30:00",
       "endDate": "2026-08-23T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/55491f624a91ab3155828064d7a30a02.jpg"
     },
     {
       "serverDate": "2026-08-23",
       "showName": "The Interview",
-      "description": "Interviewer Ayesha Faridi engages in an insightful conversation with guests, who share their professional journey and experiences.",
+      "description": "The Interview",
       "startDate": "2026-08-23T11:00:00",
       "endDate": "2026-08-23T11:30:00",
       "showTime": "11:00:00",
@@ -1699,62 +1237,62 @@
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c274e8a78c2093d4580fe0f0dd2ae80.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b4c128dc5556a9d7774f7776abb374.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "Market Edge",
+      "description": "The host welcomes industry experts to discuss market trends and financial insights.",
       "startDate": "2026-08-23T12:00:00",
       "endDate": "2026-08-23T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/43013754fd9fe0f3ebd254b85fe04ac2.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "BTS",
+      "description": "BTS",
       "startDate": "2026-08-23T12:30:00",
       "endDate": "2026-08-23T13:00:00",
       "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b78cdb1c6229da340a8ed6172a6afed6.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "BTS",
+      "description": "BTS",
       "startDate": "2026-08-23T13:00:00",
       "endDate": "2026-08-23T13:30:00",
       "showTime": "13:00:00",
       "endTime": "13:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b78cdb1c6229da340a8ed6172a6afed6.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "Regulatory Radar",
+      "description": "Regulatory Radar",
       "startDate": "2026-08-23T13:30:00",
       "endDate": "2026-08-23T14:00:00",
       "showTime": "13:30:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "BTS",
+      "description": "BTS",
       "startDate": "2026-08-23T14:00:00",
       "endDate": "2026-08-23T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b78cdb1c6229da340a8ed6172a6afed6.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -1780,36 +1318,36 @@
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "The Interview",
+      "description": "The Interview",
       "startDate": "2026-08-23T15:30:00",
       "endDate": "2026-08-23T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c796aaec746fb9f460b85d7a9cb46526.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "IBAI @ 25 And Road Ahead",
+      "description": "IBAI @ 25 And Road Ahead",
       "startDate": "2026-08-23T16:00:00",
       "endDate": "2026-08-23T16:30:00",
       "showTime": "16:00:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "Deep Dive",
+      "description": "Stay informed with the latest breaking news and headlines.",
       "startDate": "2026-08-23T16:30:00",
       "endDate": "2026-08-23T17:00:00",
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b4c128dc5556a9d7774f7776abb374.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -1824,14 +1362,14 @@
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "South Central",
+      "description": "A single mother struggles to raise her children in South Central Los Angeles.",
       "startDate": "2026-08-23T17:30:00",
       "endDate": "2026-08-23T18:00:00",
       "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eec57f3dc3975d6f041c62f7c02d980b.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -1846,19 +1384,19 @@
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "Global Business Summit",
+      "description": "Business leaders discuss current challenges and propose plans for sustainable, inclusive economic growth. The gathering serves as a platform for government-to-government interactions.",
       "startDate": "2026-08-23T18:30:00",
       "endDate": "2026-08-23T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e23d4e33eb7442fa58de73fe27e2bce3.jpg"
     },
     {
       "serverDate": "2026-08-23",
       "showName": "The Interview",
-      "description": "Interviewer Ayesha Faridi engages in an insightful conversation with guests, who share their professional journey and experiences.",
+      "description": "The Interview",
       "startDate": "2026-08-23T19:00:00",
       "endDate": "2026-08-23T19:30:00",
       "showTime": "19:00:00",
@@ -1868,41 +1406,41 @@
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "Times Real Estate Awards 2026",
+      "description": "Times Real Estate Awards 2026",
       "startDate": "2026-08-23T19:30:00",
       "endDate": "2026-08-23T20:00:00",
       "showTime": "19:30:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "LOT Voicewhat",
+      "description": "Top Indian entrepreneurs and corporate leaders share their rise in business, analysing their ideas, hurdles, market operations, and brand expansion.",
       "startDate": "2026-08-23T20:00:00",
       "endDate": "2026-08-23T20:30:00",
       "showTime": "20:00:00",
       "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1e661dbcdde379b48fcdd26702c1b8ae.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "Know HCM",
+      "description": "The host interacts with financial experts who offer comprehensive insights into various economic developments and market trends.",
       "startDate": "2026-08-23T20:30:00",
       "endDate": "2026-08-23T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/48a81c20f9c48b83106e98bebe4ac673.jpg"
     },
     {
       "serverDate": "2026-08-23",
       "showName": "The Interview",
-      "description": "Interviewer Ayesha Faridi engages in an insightful conversation with guests, who share their professional journey and experiences.",
+      "description": "The Interview",
       "startDate": "2026-08-23T21:00:00",
       "endDate": "2026-08-23T21:30:00",
       "showTime": "21:00:00",
@@ -1919,183 +1457,183 @@
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c274e8a78c2093d4580fe0f0dd2ae80.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b4c128dc5556a9d7774f7776abb374.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "All About Your Company",
-      "description": "The presenter outlines Atlanta Electricals' strategy for securing a 40% growth peak. Meanwhile, the firm capitalises on the regional power surge.",
+      "showName": "AAYC",
+      "description": "AAYC",
       "startDate": "2026-08-23T22:00:00",
       "endDate": "2026-08-23T22:30:00",
       "showTime": "22:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b7c5b8fb607539e4d13a2aa8433a8cbb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e4d9615f48cba19ea5952dc8cc13c6a.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "The Times Drive",
+      "description": "Stay updated on new car, bike and EV releases through detailed comparison tests. Learn about the latest automotive market innovations.",
       "startDate": "2026-08-23T22:30:00",
       "endDate": "2026-08-23T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/55491f624a91ab3155828064d7a30a02.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "The Motown Show",
+      "description": "The host provides the latest information on automobile and car markets, detailing small cars' surprise comeback and how hybrid vehicles reshape industry trends.",
       "startDate": "2026-08-23T23:00:00",
       "endDate": "2026-08-23T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ac0cb898aba522f4422ffa21bd5a9ad3.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "TMS Weekend Edition",
+      "description": "Bringing the best in television.",
       "startDate": "2026-08-23T23:30:00",
       "endDate": "2026-08-23T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d99811ed420324e0b03f362b4d2da196.jpg"
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "Insurance Mantra",
+      "description": "The host elaborates on various insurance policies, explaining coverage options, benefits and strategies to help viewers make informed decisions about their financial protection.",
       "startDate": "2026-08-24T00:00:00",
       "endDate": "2026-08-24T00:30:00",
       "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e6b72c115caeeaeffad2e294b5b6d1a4.jpg"
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "South Central",
+      "description": "The host presents the latest information and the biggest events pertaining to south India, in terms of business, weather, technology and other aspects.",
       "startDate": "2026-08-24T00:30:00",
       "endDate": "2026-08-24T01:00:00",
       "showTime": "00:30:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/75a2cbe9c526ed87d16d25d9df1bf7aa.jpg"
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "SUC",
+      "description": "Bringing the best in television.",
       "startDate": "2026-08-24T01:00:00",
       "endDate": "2026-08-24T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/76f693c21a6e2145117fafdb81b42cfc.jpg"
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "Brandverse",
+      "description": "The host invites industry leaders and innovators to engage in insightful discussions on topics related to branding, media, technology and consumer culture.",
       "startDate": "2026-08-24T01:30:00",
       "endDate": "2026-08-24T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e11a359bb12c069d25363030be470e53.jpg"
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "The Interview",
+      "description": "The Interview",
       "startDate": "2026-08-24T02:00:00",
       "endDate": "2026-08-24T02:30:00",
       "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c796aaec746fb9f460b85d7a9cb46526.jpg"
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "The Times Drive",
+      "description": "Stay updated on new car, bike and EV releases through detailed comparison tests. Learn about the latest automotive market innovations.",
       "startDate": "2026-08-24T02:30:00",
       "endDate": "2026-08-24T03:00:00",
       "showTime": "02:30:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/55491f624a91ab3155828064d7a30a02.jpg"
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "The Motown Show",
+      "description": "The host provides the latest information on automobile and car markets, detailing small cars' surprise comeback and how hybrid vehicles reshape industry trends.",
       "startDate": "2026-08-24T03:00:00",
       "endDate": "2026-08-24T03:30:00",
       "showTime": "03:00:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ac0cb898aba522f4422ffa21bd5a9ad3.jpg"
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "Market Edge",
+      "description": "The host welcomes industry experts to discuss market trends and financial insights.",
       "startDate": "2026-08-24T03:30:00",
       "endDate": "2026-08-24T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/43013754fd9fe0f3ebd254b85fe04ac2.jpg"
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "AAYC",
+      "description": "AAYC",
       "startDate": "2026-08-24T04:00:00",
       "endDate": "2026-08-24T04:30:00",
       "showTime": "04:00:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e4d9615f48cba19ea5952dc8cc13c6a.jpg"
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "BTS",
+      "description": "BTS",
       "startDate": "2026-08-24T04:30:00",
       "endDate": "2026-08-24T05:00:00",
       "showTime": "04:30:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b78cdb1c6229da340a8ed6172a6afed6.jpg"
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "BTS",
+      "description": "BTS",
       "startDate": "2026-08-24T05:00:00",
       "endDate": "2026-08-24T05:30:00",
       "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b78cdb1c6229da340a8ed6172a6afed6.jpg"
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Big Voices",
-      "description": "The host interacts with financial experts, who provide a comprehensive insight into the latest economic news and market trends.",
+      "showName": "Regulatory Radar",
+      "description": "Regulatory Radar",
       "startDate": "2026-08-24T05:30:00",
       "endDate": "2026-08-24T06:00:00",
       "showTime": "05:30:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a69e4287d310f626f23d8260c35a3e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-08-24",
@@ -3808,6 +3346,468 @@
       "description": "The presenter outlines Atlanta Electricals' strategy for securing a 40% growth peak. Meanwhile, the firm capitalises on the regional power surge.",
       "startDate": "2026-08-27T23:30:00",
       "endDate": "2026-08-27T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b7c5b8fb607539e4d13a2aa8433a8cbb.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "India Tonight",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-08-28T00:00:00",
+      "endDate": "2026-08-28T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/13393d95388f9756c36050236ae6a8b3.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Market Edge",
+      "description": "The host presents some of the latest news and developments in the economy and the stock market, including business insights from industry experts.",
+      "startDate": "2026-08-28T00:30:00",
+      "endDate": "2026-08-28T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f9905f2497ed5f50bfef86ed7c0e440.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Insurance Mantra",
+      "description": "The host elaborates on various insurance policies, explaining coverage options, benefits and strategies to help viewers make informed decisions about their financial protection.",
+      "startDate": "2026-08-28T01:00:00",
+      "endDate": "2026-08-28T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e6b72c115caeeaeffad2e294b5b6d1a4.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Deep Dive",
+      "description": "The host invites financial experts, and they dive deep into the world of stock markets, where they analyse rise, falls, and the latest trends.",
+      "startDate": "2026-08-28T01:30:00",
+      "endDate": "2026-08-28T02:00:00",
+      "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ed14f6fec4d365286621a71c923c6ba.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "India Tonight",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-08-28T02:00:00",
+      "endDate": "2026-08-28T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/13393d95388f9756c36050236ae6a8b3.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Brandverse",
+      "description": "The host invites industry leaders and innovators to engage in insightful discussions on topics related to branding, media, technology and consumer culture.",
+      "startDate": "2026-08-28T02:30:00",
+      "endDate": "2026-08-28T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e11a359bb12c069d25363030be470e53.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Beat the Street",
+      "description": "The host and subject-matter experts provide updates on important developments in the Indian stock market and give valuable investment tips.",
+      "startDate": "2026-08-28T03:00:00",
+      "endDate": "2026-08-28T03:30:00",
+      "showTime": "03:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/72e4c12245a4c01ed81eeb0813154f57.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "All About Your Company",
+      "description": "The presenter outlines Atlanta Electricals' strategy for securing a 40% growth peak. Meanwhile, the firm capitalises on the regional power surge.",
+      "startDate": "2026-08-28T03:30:00",
+      "endDate": "2026-08-28T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b7c5b8fb607539e4d13a2aa8433a8cbb.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "India Tonight",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-08-28T04:00:00",
+      "endDate": "2026-08-28T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/13393d95388f9756c36050236ae6a8b3.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Market Edge",
+      "description": "The host presents some of the latest news and developments in the economy and the stock market, including business insights from industry experts.",
+      "startDate": "2026-08-28T04:30:00",
+      "endDate": "2026-08-28T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f9905f2497ed5f50bfef86ed7c0e440.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Business@9",
+      "description": "The host presents information about the various business and economic news of the day and provides updates on current events.",
+      "startDate": "2026-08-28T05:00:00",
+      "endDate": "2026-08-28T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/801102d452815bd715b4f942f979281f.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Insurance Mantra",
+      "description": "The host elaborates on various insurance policies, explaining coverage options, benefits and strategies to help viewers make informed decisions about their financial protection.",
+      "startDate": "2026-08-28T05:30:00",
+      "endDate": "2026-08-28T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e6b72c115caeeaeffad2e294b5b6d1a4.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "The Money Show",
+      "description": "The host presents information about fiscal management, investment opportunities and advice while also providing updates on changes and trends in the financial markets.",
+      "startDate": "2026-08-28T06:00:00",
+      "endDate": "2026-08-28T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8120427a59c5338c8acef4afcd42516e.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Beat the Street",
+      "description": "The host and subject-matter experts provide updates on important developments in the Indian stock market and give valuable investment tips.",
+      "startDate": "2026-08-28T06:30:00",
+      "endDate": "2026-08-28T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/72e4c12245a4c01ed81eeb0813154f57.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Market Edge",
+      "description": "The host presents some of the latest news and developments in the economy and the stock market, including business insights from industry experts.",
+      "startDate": "2026-08-28T07:00:00",
+      "endDate": "2026-08-28T07:30:00",
+      "showTime": "07:00:00",
+      "endTime": "07:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f9905f2497ed5f50bfef86ed7c0e440.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Market Café",
+      "description": "The host provides a detailed report featuring the latest updates and key developments concerning the performance of financial instruments across various sectors of the market.",
+      "startDate": "2026-08-28T07:30:00",
+      "endDate": "2026-08-28T08:00:00",
+      "showTime": "07:30:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/06396eb0d7c4f0467c7ac33c7ae52721.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "The Market",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-08-28T08:00:00",
+      "endDate": "2026-08-28T09:00:00",
+      "showTime": "08:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2550dded6056e600ed5cdce4a4a95059.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "First Trade",
+      "description": "The host provides tips and latest updates from the stock market, including estimates, stock charts and future of the market.",
+      "startDate": "2026-08-28T09:00:00",
+      "endDate": "2026-08-28T10:30:00",
+      "showTime": "09:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f95591d1ec5158dec1f8a69ab9efff63.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Midcap Masala",
+      "description": "The host invites eminent experts to discuss the latest trends in the stock market and highlights the most profitable companies to invest in.",
+      "startDate": "2026-08-28T10:30:00",
+      "endDate": "2026-08-28T11:00:00",
+      "showTime": "10:30:00",
+      "endTime": "11:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b3c8c3ef622faec8714cbf2a02f691f.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Buy Now Sell Now",
+      "description": "The host shares expert advice on smart investing, guiding viewers through market trends and offering timely tips for buying and selling.",
+      "startDate": "2026-08-28T11:00:00",
+      "endDate": "2026-08-28T12:00:00",
+      "showTime": "11:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c199068e2f244740d3aa0879043c8e76.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Markets @ Noon",
+      "description": "The host provides the latest news, updates and developments concerning the stock market and events that have affected various shares.",
+      "startDate": "2026-08-28T12:00:00",
+      "endDate": "2026-08-28T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a42c06d8ca0c5a642ba0a5554f546c5a.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "All About Your Company",
+      "description": "The presenter outlines Atlanta Electricals' strategy for securing a 40% growth peak. Meanwhile, the firm capitalises on the regional power surge.",
+      "startDate": "2026-08-28T12:30:00",
+      "endDate": "2026-08-28T13:00:00",
+      "showTime": "12:30:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b7c5b8fb607539e4d13a2aa8433a8cbb.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Markets @ Lunch",
+      "description": "Financial experts analyse the latest midday stock market trends and corporate developments to help investors navigate the trading day with real-time updates and strategic insights.",
+      "startDate": "2026-08-28T13:00:00",
+      "endDate": "2026-08-28T13:30:00",
+      "showTime": "13:00:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b30840b1226ad89dd7cbdb981709e0d7.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Market Fatafat",
+      "description": "The host invites a market expert to offer insights into the performance of financial instruments across various sectors of the market.",
+      "startDate": "2026-08-28T13:30:00",
+      "endDate": "2026-08-28T14:00:00",
+      "showTime": "13:30:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0b0ace49406e505ede5e95816acb2fc3.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Closing Trades",
+      "description": "Towards nearing the close of the market, the host provides latest updates of fluctuations and market-affecting events, with experts weighing in.",
+      "startDate": "2026-08-28T14:00:00",
+      "endDate": "2026-08-28T15:30:00",
+      "showTime": "14:00:00",
+      "endTime": "15:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dbb272290c22232ace004bb1822074a3.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "The Interview",
+      "description": "The Interview",
+      "startDate": "2026-08-28T15:30:00",
+      "endDate": "2026-08-28T16:00:00",
+      "showTime": "15:30:00",
+      "endTime": "16:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c796aaec746fb9f460b85d7a9cb46526.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Market Edge",
+      "description": "The host presents some of the latest news and developments in the economy and the stock market, including business insights from industry experts.",
+      "startDate": "2026-08-28T16:00:00",
+      "endDate": "2026-08-28T16:30:00",
+      "showTime": "16:00:00",
+      "endTime": "16:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f9905f2497ed5f50bfef86ed7c0e440.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "News Now",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
+      "startDate": "2026-08-28T16:30:00",
+      "endDate": "2026-08-28T17:00:00",
+      "showTime": "16:30:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28f8c5f3719275cc7774811c5be8b230.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "The Money Show",
+      "description": "The host presents information about fiscal management, investment opportunities and advice while also providing updates on changes and trends in the financial markets.",
+      "startDate": "2026-08-28T17:00:00",
+      "endDate": "2026-08-28T17:30:00",
+      "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8120427a59c5338c8acef4afcd42516e.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "South Central",
+      "description": "The host presents the latest information and the biggest events pertaining to south India, in terms of business, weather, technology and other aspects.",
+      "startDate": "2026-08-28T17:30:00",
+      "endDate": "2026-08-28T18:00:00",
+      "showTime": "17:30:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/75a2cbe9c526ed87d16d25d9df1bf7aa.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "News Now",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
+      "startDate": "2026-08-28T18:00:00",
+      "endDate": "2026-08-28T18:30:00",
+      "showTime": "18:00:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28f8c5f3719275cc7774811c5be8b230.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "All About Your Company",
+      "description": "The presenter outlines Atlanta Electricals' strategy for securing a 40% growth peak. Meanwhile, the firm capitalises on the regional power surge.",
+      "startDate": "2026-08-28T18:30:00",
+      "endDate": "2026-08-28T19:00:00",
+      "showTime": "18:30:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b7c5b8fb607539e4d13a2aa8433a8cbb.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "The Interview",
+      "description": "The Interview",
+      "startDate": "2026-08-28T19:00:00",
+      "endDate": "2026-08-28T19:30:00",
+      "showTime": "19:00:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c796aaec746fb9f460b85d7a9cb46526.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Leaders of Tomorrow",
+      "description": "A platform offers entrepreneurs a valuable opportunity to scale their ventures and showcase their unique skills to a wider audience, fostering growth and recognition.",
+      "startDate": "2026-08-28T19:30:00",
+      "endDate": "2026-08-28T20:00:00",
+      "showTime": "19:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/acc0c74bc0225c379639fea4051760f6.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "India Tonight",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-08-28T20:00:00",
+      "endDate": "2026-08-28T20:30:00",
+      "showTime": "20:00:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/13393d95388f9756c36050236ae6a8b3.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Market Edge",
+      "description": "The host presents some of the latest news and developments in the economy and the stock market, including business insights from industry experts.",
+      "startDate": "2026-08-28T20:30:00",
+      "endDate": "2026-08-28T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f9905f2497ed5f50bfef86ed7c0e440.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Business@9",
+      "description": "The host presents information about the various business and economic news of the day and provides updates on current events.",
+      "startDate": "2026-08-28T21:00:00",
+      "endDate": "2026-08-28T21:30:00",
+      "showTime": "21:00:00",
+      "endTime": "21:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/801102d452815bd715b4f942f979281f.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "The Interview",
+      "description": "The Interview",
+      "startDate": "2026-08-28T21:30:00",
+      "endDate": "2026-08-28T22:00:00",
+      "showTime": "21:30:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c796aaec746fb9f460b85d7a9cb46526.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "South Central",
+      "description": "The host presents the latest information and the biggest events pertaining to south India, in terms of business, weather, technology and other aspects.",
+      "startDate": "2026-08-28T22:00:00",
+      "endDate": "2026-08-28T22:30:00",
+      "showTime": "22:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/75a2cbe9c526ed87d16d25d9df1bf7aa.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "The Money Show",
+      "description": "The host presents information about fiscal management, investment opportunities and advice while also providing updates on changes and trends in the financial markets.",
+      "startDate": "2026-08-28T22:30:00",
+      "endDate": "2026-08-28T23:00:00",
+      "showTime": "22:30:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8120427a59c5338c8acef4afcd42516e.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Beat the Street",
+      "description": "The host and subject-matter experts provide updates on important developments in the Indian stock market and give valuable investment tips.",
+      "startDate": "2026-08-28T23:00:00",
+      "endDate": "2026-08-28T23:30:00",
+      "showTime": "23:00:00",
+      "endTime": "23:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/72e4c12245a4c01ed81eeb0813154f57.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "All About Your Company",
+      "description": "The presenter outlines Atlanta Electricals' strategy for securing a 40% growth peak. Meanwhile, the firm capitalises on the regional power surge.",
+      "startDate": "2026-08-28T23:30:00",
+      "endDate": "2026-08-28T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",

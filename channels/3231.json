@@ -8,215 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Apex_Entertainment.png",
   "programs": [
     {
-      "serverDate": "2026-08-20",
-      "showName": "Bhakti Bhajan",
-      "description": "A comprehensive compilation of some of the best devotional songs by various artists in praise of the various gods and goddesses.",
-      "startDate": "2026-08-20T00:00:00",
-      "endDate": "2026-08-20T03:00:00",
-      "showTime": "00:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28990029ac6b89279be300a7c1682143.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Short Flims",
-      "description": "Short Flims",
-      "startDate": "2026-08-20T03:00:00",
-      "endDate": "2026-08-20T04:00:00",
-      "showTime": "03:00:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d459af38354c674ce16b71db38ecbc2.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Web Series Episode",
-      "description": "Web Series Episode",
-      "startDate": "2026-08-20T04:00:00",
-      "endDate": "2026-08-20T06:00:00",
-      "showTime": "04:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e79b96705b6322fd10672f157d0c9a00.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Movie",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-08-20T06:00:00",
-      "endDate": "2026-08-20T08:00:00",
-      "showTime": "06:00:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5339570403463654b9a9de22d658e1f3.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Bhakti Bhajan",
-      "description": "A comprehensive compilation of some of the best devotional songs by various artists in praise of the various gods and goddesses.",
-      "startDate": "2026-08-20T08:00:00",
-      "endDate": "2026-08-20T09:00:00",
-      "showTime": "08:00:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28990029ac6b89279be300a7c1682143.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Short Flims",
-      "description": "Short Flims",
-      "startDate": "2026-08-20T09:00:00",
-      "endDate": "2026-08-20T10:00:00",
-      "showTime": "09:00:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d459af38354c674ce16b71db38ecbc2.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Geet Sangeet",
-      "description": "Geet Sangeet",
-      "startDate": "2026-08-20T10:00:00",
-      "endDate": "2026-08-20T11:00:00",
-      "showTime": "10:00:00",
-      "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/644032fe032c54ba748a171e56077f3c.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Web Series Episode",
-      "description": "Web Series Episode",
-      "startDate": "2026-08-20T11:00:00",
-      "endDate": "2026-08-20T11:30:00",
-      "showTime": "11:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e79b96705b6322fd10672f157d0c9a00.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Short Flims",
-      "description": "Short Flims",
-      "startDate": "2026-08-20T11:30:00",
-      "endDate": "2026-08-20T12:30:00",
-      "showTime": "11:30:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d459af38354c674ce16b71db38ecbc2.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Movie",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-08-20T12:30:00",
-      "endDate": "2026-08-20T13:00:00",
-      "showTime": "12:30:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5339570403463654b9a9de22d658e1f3.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Purane Songs",
-      "description": "Purane Songs",
-      "startDate": "2026-08-20T13:00:00",
-      "endDate": "2026-08-20T14:00:00",
-      "showTime": "13:00:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b3bf89ae18867b1c03488daf0efa6abd.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Web Series Episode",
-      "description": "Web Series Episode",
-      "startDate": "2026-08-20T14:00:00",
-      "endDate": "2026-08-20T15:00:00",
-      "showTime": "14:00:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e79b96705b6322fd10672f157d0c9a00.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Bhakti Bhajan",
-      "description": "A comprehensive compilation of some of the best devotional songs by various artists in praise of the various gods and goddesses.",
-      "startDate": "2026-08-20T15:00:00",
-      "endDate": "2026-08-20T15:30:00",
-      "showTime": "15:00:00",
-      "endTime": "15:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28990029ac6b89279be300a7c1682143.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Movie",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-08-20T15:30:00",
-      "endDate": "2026-08-20T18:30:00",
-      "showTime": "15:30:00",
-      "endTime": "18:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5339570403463654b9a9de22d658e1f3.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Purane Songs",
-      "description": "Purane Songs",
-      "startDate": "2026-08-20T18:30:00",
-      "endDate": "2026-08-20T19:00:00",
-      "showTime": "18:30:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b3bf89ae18867b1c03488daf0efa6abd.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Geet Sangeet",
-      "description": "Geet Sangeet",
-      "startDate": "2026-08-20T19:00:00",
-      "endDate": "2026-08-20T20:00:00",
-      "showTime": "19:00:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/644032fe032c54ba748a171e56077f3c.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Web Series Episode",
-      "description": "Web Series Episode",
-      "startDate": "2026-08-20T20:00:00",
-      "endDate": "2026-08-20T21:00:00",
-      "showTime": "20:00:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e79b96705b6322fd10672f157d0c9a00.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Bhakti Bhajan",
-      "description": "A comprehensive compilation of some of the best devotional songs by various artists in praise of the various gods and goddesses.",
-      "startDate": "2026-08-20T21:00:00",
-      "endDate": "2026-08-20T22:00:00",
-      "showTime": "21:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28990029ac6b89279be300a7c1682143.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Movie",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-08-20T22:00:00",
-      "endDate": "2026-08-20T23:59:59",
-      "showTime": "22:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5339570403463654b9a9de22d658e1f3.jpg"
-    },
-    {
       "serverDate": "2026-08-21",
       "showName": "Bhakti Bhajan",
       "description": "A comprehensive compilation of some of the best devotional songs by various artists in praise of the various gods and goddesses.",
@@ -500,7 +291,7 @@
       "showTime": "10:00:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/644032fe032c54ba748a171e56077f3c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1318f869aff6e1eb6136695a78dabc55.jpg"
     },
     {
       "serverDate": "2026-08-22",
@@ -599,7 +390,7 @@
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/644032fe032c54ba748a171e56077f3c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1318f869aff6e1eb6136695a78dabc55.jpg"
     },
     {
       "serverDate": "2026-08-22",
@@ -709,7 +500,7 @@
       "showTime": "10:00:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/644032fe032c54ba748a171e56077f3c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1318f869aff6e1eb6136695a78dabc55.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -808,7 +599,7 @@
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/644032fe032c54ba748a171e56077f3c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1318f869aff6e1eb6136695a78dabc55.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -918,7 +709,7 @@
       "showTime": "10:00:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/644032fe032c54ba748a171e56077f3c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1318f869aff6e1eb6136695a78dabc55.jpg"
     },
     {
       "serverDate": "2026-08-24",
@@ -1017,7 +808,7 @@
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/644032fe032c54ba748a171e56077f3c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1318f869aff6e1eb6136695a78dabc55.jpg"
     },
     {
       "serverDate": "2026-08-24",
@@ -1127,7 +918,7 @@
       "showTime": "10:00:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/644032fe032c54ba748a171e56077f3c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1318f869aff6e1eb6136695a78dabc55.jpg"
     },
     {
       "serverDate": "2026-08-25",
@@ -1226,7 +1017,7 @@
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/644032fe032c54ba748a171e56077f3c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1318f869aff6e1eb6136695a78dabc55.jpg"
     },
     {
       "serverDate": "2026-08-25",
@@ -1336,7 +1127,7 @@
       "showTime": "10:00:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/644032fe032c54ba748a171e56077f3c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1318f869aff6e1eb6136695a78dabc55.jpg"
     },
     {
       "serverDate": "2026-08-26",
@@ -1435,7 +1226,7 @@
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/644032fe032c54ba748a171e56077f3c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1318f869aff6e1eb6136695a78dabc55.jpg"
     },
     {
       "serverDate": "2026-08-26",
@@ -1545,7 +1336,7 @@
       "showTime": "10:00:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/644032fe032c54ba748a171e56077f3c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1318f869aff6e1eb6136695a78dabc55.jpg"
     },
     {
       "serverDate": "2026-08-27",
@@ -1644,7 +1435,7 @@
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/644032fe032c54ba748a171e56077f3c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1318f869aff6e1eb6136695a78dabc55.jpg"
     },
     {
       "serverDate": "2026-08-27",
@@ -1674,6 +1465,215 @@
       "description": "Bringing the best in cinema.",
       "startDate": "2026-08-27T22:00:00",
       "endDate": "2026-08-27T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5339570403463654b9a9de22d658e1f3.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Bhakti Bhajan",
+      "description": "A comprehensive compilation of some of the best devotional songs by various artists in praise of the various gods and goddesses.",
+      "startDate": "2026-08-28T00:00:00",
+      "endDate": "2026-08-28T03:00:00",
+      "showTime": "00:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28990029ac6b89279be300a7c1682143.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Short Flims",
+      "description": "Short Flims",
+      "startDate": "2026-08-28T03:00:00",
+      "endDate": "2026-08-28T04:00:00",
+      "showTime": "03:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d459af38354c674ce16b71db38ecbc2.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Web Series Episode",
+      "description": "Web Series Episode",
+      "startDate": "2026-08-28T04:00:00",
+      "endDate": "2026-08-28T06:00:00",
+      "showTime": "04:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e79b96705b6322fd10672f157d0c9a00.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-08-28T06:00:00",
+      "endDate": "2026-08-28T08:00:00",
+      "showTime": "06:00:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5339570403463654b9a9de22d658e1f3.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Bhakti Bhajan",
+      "description": "A comprehensive compilation of some of the best devotional songs by various artists in praise of the various gods and goddesses.",
+      "startDate": "2026-08-28T08:00:00",
+      "endDate": "2026-08-28T09:00:00",
+      "showTime": "08:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28990029ac6b89279be300a7c1682143.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Short Flims",
+      "description": "Short Flims",
+      "startDate": "2026-08-28T09:00:00",
+      "endDate": "2026-08-28T10:00:00",
+      "showTime": "09:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d459af38354c674ce16b71db38ecbc2.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Geet Sangeet",
+      "description": "Geet Sangeet",
+      "startDate": "2026-08-28T10:00:00",
+      "endDate": "2026-08-28T11:00:00",
+      "showTime": "10:00:00",
+      "endTime": "11:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1318f869aff6e1eb6136695a78dabc55.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Web Series Episode",
+      "description": "Web Series Episode",
+      "startDate": "2026-08-28T11:00:00",
+      "endDate": "2026-08-28T11:30:00",
+      "showTime": "11:00:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e79b96705b6322fd10672f157d0c9a00.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Short Flims",
+      "description": "Short Flims",
+      "startDate": "2026-08-28T11:30:00",
+      "endDate": "2026-08-28T12:30:00",
+      "showTime": "11:30:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d459af38354c674ce16b71db38ecbc2.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-08-28T12:30:00",
+      "endDate": "2026-08-28T13:00:00",
+      "showTime": "12:30:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5339570403463654b9a9de22d658e1f3.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Purane Songs",
+      "description": "Purane Songs",
+      "startDate": "2026-08-28T13:00:00",
+      "endDate": "2026-08-28T14:00:00",
+      "showTime": "13:00:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b3bf89ae18867b1c03488daf0efa6abd.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Web Series Episode",
+      "description": "Web Series Episode",
+      "startDate": "2026-08-28T14:00:00",
+      "endDate": "2026-08-28T15:00:00",
+      "showTime": "14:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e79b96705b6322fd10672f157d0c9a00.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Bhakti Bhajan",
+      "description": "A comprehensive compilation of some of the best devotional songs by various artists in praise of the various gods and goddesses.",
+      "startDate": "2026-08-28T15:00:00",
+      "endDate": "2026-08-28T15:30:00",
+      "showTime": "15:00:00",
+      "endTime": "15:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28990029ac6b89279be300a7c1682143.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-08-28T15:30:00",
+      "endDate": "2026-08-28T18:30:00",
+      "showTime": "15:30:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5339570403463654b9a9de22d658e1f3.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Purane Songs",
+      "description": "Purane Songs",
+      "startDate": "2026-08-28T18:30:00",
+      "endDate": "2026-08-28T19:00:00",
+      "showTime": "18:30:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b3bf89ae18867b1c03488daf0efa6abd.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Geet Sangeet",
+      "description": "Geet Sangeet",
+      "startDate": "2026-08-28T19:00:00",
+      "endDate": "2026-08-28T20:00:00",
+      "showTime": "19:00:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1318f869aff6e1eb6136695a78dabc55.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Web Series Episode",
+      "description": "Web Series Episode",
+      "startDate": "2026-08-28T20:00:00",
+      "endDate": "2026-08-28T21:00:00",
+      "showTime": "20:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e79b96705b6322fd10672f157d0c9a00.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Bhakti Bhajan",
+      "description": "A comprehensive compilation of some of the best devotional songs by various artists in praise of the various gods and goddesses.",
+      "startDate": "2026-08-28T21:00:00",
+      "endDate": "2026-08-28T22:00:00",
+      "showTime": "21:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28990029ac6b89279be300a7c1682143.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-08-28T22:00:00",
+      "endDate": "2026-08-28T23:59:59",
       "showTime": "22:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",

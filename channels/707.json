@@ -8,237 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Raj_TV.png",
   "programs": [
     {
-      "serverDate": "2026-08-20",
-      "showName": "Thenali",
-      "description": "Thenali suffers from panophobia and seeks doctor Kailash's help, but the latter denies his request. Later, when Kailash goes on a vacation with his family, Thenali joins them and charms his sister.",
-      "startDate": "2026-08-20T00:00:00",
-      "endDate": "2026-08-20T03:00:00",
-      "showTime": "00:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e909b6731073f1e04904886da86f2d6c.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Raj Melodies",
-      "description": "A comprehensive compilation of popular hits composed by renowned singers and musicians is played to entertain listeners.",
-      "startDate": "2026-08-20T03:00:00",
-      "endDate": "2026-08-20T05:00:00",
-      "showTime": "03:00:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Bakthi Padalgal",
-      "description": "A comprehensive compilation of melodious songs sung and composed by talented artists is played in order to invoke the spirit of devotion.",
-      "startDate": "2026-08-20T05:00:00",
-      "endDate": "2026-08-20T05:30:00",
-      "showTime": "05:00:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2088716871e75a000d09310b4ca87409.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Namasaagar",
-      "description": "A religious scholar sheds light on the significance of spirituality and delivers a devotional discourse on Hindu mythologies.",
-      "startDate": "2026-08-20T05:30:00",
-      "endDate": "2026-08-20T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1aab7e2b0020f5d137ecf88c614ff3c3.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Bakthi Padalgal",
-      "description": "A comprehensive compilation of melodious songs sung and composed by talented artists is played in order to invoke the spirit of devotion.",
-      "startDate": "2026-08-20T06:00:00",
-      "endDate": "2026-08-20T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2088716871e75a000d09310b4ca87409.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Aalaya Dharisanam",
-      "description": "The host talks about the religious significance of various Hindu temples and sheds light on the presiding deities in these shrines.",
-      "startDate": "2026-08-20T06:30:00",
-      "endDate": "2026-08-20T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/db607ba14218e2e563b6f233ec49cd8b.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Raj News",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-08-20T07:00:00",
-      "endDate": "2026-08-20T07:30:00",
-      "showTime": "07:00:00",
-      "endTime": "07:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d96a75ca83792f67fa236633ef6f5ad.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Putham Pudhu Kaalai",
-      "description": "The host presents segments on astrology, yoga asanas, health and cookery tips by experts, interview with a guest and motivational thoughts for the day.",
-      "startDate": "2026-08-20T07:30:00",
-      "endDate": "2026-08-20T08:30:00",
-      "showTime": "07:30:00",
-      "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f0c1cae28e84ae493bbe2633e6dd4f48.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Manathai Varudiya Paadalgal",
-      "description": "A comprehensive compilation of some of the most popular songs from different genres composed by renowned musicians from the industry.",
-      "startDate": "2026-08-20T08:30:00",
-      "endDate": "2026-08-20T09:30:00",
-      "showTime": "08:30:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Ganam Courtar Avargale",
-      "description": "Rookie lawyer Bhaskar gets close to his boss, Desikachari's family. However, when murder strikes, he's in a race to clear his mentor's name.",
-      "startDate": "2026-08-20T09:30:00",
-      "endDate": "2026-08-20T12:30:00",
-      "showTime": "09:30:00",
-      "endTime": "12:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e719a91efcac24e39acba19d7d48ec31.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Slot",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-08-20T12:30:00",
-      "endDate": "2026-08-20T13:00:00",
-      "showTime": "12:30:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/45a76b5dd3cb0b246e97e0cc7859c1b6.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Raj News",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-08-20T13:00:00",
-      "endDate": "2026-08-20T13:30:00",
-      "showTime": "13:00:00",
-      "endTime": "13:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d96a75ca83792f67fa236633ef6f5ad.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Slot",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-08-20T13:30:00",
-      "endDate": "2026-08-20T14:00:00",
-      "showTime": "13:30:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/45a76b5dd3cb0b246e97e0cc7859c1b6.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Velaikkaaran",
-      "description": "Ragupathy, who lives with his grandfather in a village, goes to the city to find a job. Soon, he learns that his mother is living with a man named Rajkumar and decides to protect him from his enemies.",
-      "startDate": "2026-08-20T14:00:00",
-      "endDate": "2026-08-20T17:30:00",
-      "showTime": "14:00:00",
-      "endTime": "17:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/534361234687029db943cd263bbc5a50.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Comedy Galatta",
-      "description": "Talented and renowned comedians take the stage to perform hilarious skits that leave the audience in splits of laughter.",
-      "startDate": "2026-08-20T17:30:00",
-      "endDate": "2026-08-20T18:00:00",
-      "showTime": "17:30:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/046033e134131f2c6d42a07d8bae1ef7.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Raj News",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-08-20T18:00:00",
-      "endDate": "2026-08-20T18:30:00",
-      "showTime": "18:00:00",
-      "endTime": "18:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d96a75ca83792f67fa236633ef6f5ad.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Sarithira Nayagan Shivaji",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-08-20T18:30:00",
-      "endDate": "2026-08-20T19:00:00",
-      "showTime": "18:30:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3385e6669de3424a58cecdda908e7575.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Ramayanam",
-      "description": "Lord Rama and various other figures in Valmiki's Ramayana and Tulsidas's 'Ramcharitmanas' go through trials and tribulations to achieve their goals and protect their loved ones.",
-      "startDate": "2026-08-20T19:00:00",
-      "endDate": "2026-08-20T19:30:00",
-      "showTime": "19:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a9f68b31e24524298d3c2421c7808c12.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Little Cinema",
-      "description": "The filmmaker explores the rise of short film showcases, highlighting diverse filmmakers, creative storytelling and the impact of these intimate screenings on the film community.",
-      "startDate": "2026-08-20T19:30:00",
-      "endDate": "2026-08-20T20:00:00",
-      "showTime": "19:30:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d3d8e6038f0958c5b168d7dccc42515.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Konjam Siringa Boss",
-      "description": "Hilarity ensues when the host asks common people to deliver a piece of dialogue from popular movies and records their hilarious responses.",
-      "startDate": "2026-08-20T20:00:00",
-      "endDate": "2026-08-20T21:00:00",
-      "showTime": "20:00:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9c31e0ea1a17d5d229514b58212b4ab.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Muthuramalingam",
-      "description": "A martial arts master faces a perilous challenge when a tournament among villages quickly evolves into a life-or-death struggle, jeopardising his survival and his village's honour.",
-      "startDate": "2026-08-20T21:00:00",
-      "endDate": "2026-08-20T23:59:59",
-      "showTime": "21:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/24d9b6553eaa07426c4f0d0c3f95d727.jpg"
-    },
-    {
       "serverDate": "2026-08-21",
       "showName": "Velaikkaaran",
       "description": "Ragupathy, who lives with his grandfather in a village, goes to the city to find a job. Soon, he learns that his mother is living with a man named Rajkumar and decides to protect him from his enemies.",
@@ -687,7 +456,7 @@
       "showTime": "21:00:00",
       "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b32e963afd4e4f9ce1300e9aec3b4dc2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e8d98d8548e106975dc1dfdc80e88a4e.jpg"
     },
     {
       "serverDate": "2026-08-22",
@@ -940,7 +709,7 @@
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b32e963afd4e4f9ce1300e9aec3b4dc2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e8d98d8548e106975dc1dfdc80e88a4e.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -1898,6 +1667,237 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c369c9c61a0dfb7a83dbb2ab1b0a922c.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Aandan Adimai",
+      "description": "Sivaraman, a lost child adopted by a low-caste couple, grows up as a cobbler. Upon finding his Brahmin birth family, he struggles to balance two contrasting lives.",
+      "startDate": "2026-08-28T00:00:00",
+      "endDate": "2026-08-28T03:00:00",
+      "showTime": "00:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6ff50256caf417ea15c8a8258a8218fc.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Raj Melodies",
+      "description": "A comprehensive compilation of popular hits composed by renowned singers and musicians is played to entertain listeners.",
+      "startDate": "2026-08-28T03:00:00",
+      "endDate": "2026-08-28T05:00:00",
+      "showTime": "03:00:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/926bc6d93f9a40b00ef20ece2d8b5b7c.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Bakthi Padalgal",
+      "description": "A comprehensive compilation of melodious songs sung and composed by talented artists is played in order to invoke the spirit of devotion.",
+      "startDate": "2026-08-28T05:00:00",
+      "endDate": "2026-08-28T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2088716871e75a000d09310b4ca87409.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Namasaagar",
+      "description": "A religious scholar sheds light on the significance of spirituality and delivers a devotional discourse on Hindu mythologies.",
+      "startDate": "2026-08-28T05:30:00",
+      "endDate": "2026-08-28T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1aab7e2b0020f5d137ecf88c614ff3c3.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Bakthi Padalgal",
+      "description": "A comprehensive compilation of melodious songs sung and composed by talented artists is played in order to invoke the spirit of devotion.",
+      "startDate": "2026-08-28T06:00:00",
+      "endDate": "2026-08-28T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2088716871e75a000d09310b4ca87409.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Aalaya Dharisanam",
+      "description": "The host talks about the religious significance of various Hindu temples and sheds light on the presiding deities in these shrines.",
+      "startDate": "2026-08-28T06:30:00",
+      "endDate": "2026-08-28T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/db607ba14218e2e563b6f233ec49cd8b.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Raj News",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-08-28T07:00:00",
+      "endDate": "2026-08-28T07:30:00",
+      "showTime": "07:00:00",
+      "endTime": "07:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d96a75ca83792f67fa236633ef6f5ad.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Putham Pudhu Kaalai",
+      "description": "The host presents segments on astrology, yoga asanas, health and cookery tips by experts, interview with a guest and motivational thoughts for the day.",
+      "startDate": "2026-08-28T07:30:00",
+      "endDate": "2026-08-28T08:30:00",
+      "showTime": "07:30:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f0c1cae28e84ae493bbe2633e6dd4f48.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Manathai Varudiya Paadalgal",
+      "description": "A comprehensive compilation of some of the most popular songs from different genres composed by renowned musicians from the industry.",
+      "startDate": "2026-08-28T08:30:00",
+      "endDate": "2026-08-28T09:30:00",
+      "showTime": "08:30:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Enga Ooru Pattukaran",
+      "description": "Seethan, an orphan milkman, and Shenbagam, a landlord's daughter, love each other despite their social differences. Problems arise when her father arranges her marriage to a rich man.",
+      "startDate": "2026-08-28T09:30:00",
+      "endDate": "2026-08-28T12:30:00",
+      "showTime": "09:30:00",
+      "endTime": "12:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7547ec5e991b2018a6ddc0d5776de52.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Slot",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-08-28T12:30:00",
+      "endDate": "2026-08-28T13:00:00",
+      "showTime": "12:30:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/45a76b5dd3cb0b246e97e0cc7859c1b6.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Raj News",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-08-28T13:00:00",
+      "endDate": "2026-08-28T13:30:00",
+      "showTime": "13:00:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d96a75ca83792f67fa236633ef6f5ad.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Slot",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-08-28T13:30:00",
+      "endDate": "2026-08-28T14:00:00",
+      "showTime": "13:30:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/45a76b5dd3cb0b246e97e0cc7859c1b6.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Irumbu Manithan",
+      "description": "A single father's life comes crashing down after his own children abandon him to inherit his properties. Despite undergoing trauma, he decides to embark on a journey to build an empire from scratch.",
+      "startDate": "2026-08-28T14:00:00",
+      "endDate": "2026-08-28T17:30:00",
+      "showTime": "14:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eb84b7000e51df2c0b3ffd44db6afd00.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Comedy Galatta",
+      "description": "Talented and renowned comedians take the stage to perform hilarious skits that leave the audience in splits of laughter.",
+      "startDate": "2026-08-28T17:30:00",
+      "endDate": "2026-08-28T18:00:00",
+      "showTime": "17:30:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/046033e134131f2c6d42a07d8bae1ef7.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Raj News",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-08-28T18:00:00",
+      "endDate": "2026-08-28T18:30:00",
+      "showTime": "18:00:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d96a75ca83792f67fa236633ef6f5ad.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Sarithira Nayagan Shivaji",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-08-28T18:30:00",
+      "endDate": "2026-08-28T19:00:00",
+      "showTime": "18:30:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3385e6669de3424a58cecdda908e7575.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Ramayanam",
+      "description": "Lord Rama and various other figures in Valmiki's Ramayana and Tulsidas's 'Ramcharitmanas' go through trials and tribulations to achieve their goals and protect their loved ones.",
+      "startDate": "2026-08-28T19:00:00",
+      "endDate": "2026-08-28T19:30:00",
+      "showTime": "19:00:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a9f68b31e24524298d3c2421c7808c12.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Cine Box",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-08-28T19:30:00",
+      "endDate": "2026-08-28T20:00:00",
+      "showTime": "19:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd524b99b9d5b930599cbaf3a02dbb06.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Kadhai Siragukal",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-08-28T20:00:00",
+      "endDate": "2026-08-28T21:00:00",
+      "showTime": "20:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7dff34a9211810ea1ff753bcd6c491ee.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Pokkiri Mannan",
+      "description": "Marudhu, an irresponsible youth, leads a carefree life. But when his relative dies after consuming illicit alcohol, Marudhu plans to take revenge.",
+      "startDate": "2026-08-28T21:00:00",
+      "endDate": "2026-08-28T23:59:59",
+      "showTime": "21:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a76f215ada3efa1f157ed7c291be7c85.jpg"
     }
   ]
 }

@@ -8,116 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png",
   "programs": [
     {
-      "serverDate": "2026-08-20",
-      "showName": "Pankhida ho Pankhida",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-08-20T00:00:00",
-      "endDate": "2026-08-20T00:25:00",
-      "showTime": "00:00:00",
-      "endTime": "00:25:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2e8bd07e4f0701d4b7da3854d62c37e.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Visamo",
-      "description": "A professor, who lives a principled life, faces many challenges after he is expelled due to his old age. In order to seek help, he calls his children but they themselves are short of money and place.",
-      "startDate": "2026-08-20T00:25:00",
-      "endDate": "2026-08-20T02:25:00",
-      "showTime": "00:25:00",
-      "endTime": "02:25:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b86f226e550a15999e8085b24e0a8486.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Desi Beats",
-      "description": "A comprehensive compilation of acclaimed chart-topping Indian songs, composed by diverse artists, is played in succession.",
-      "startDate": "2026-08-20T02:25:00",
-      "endDate": "2026-08-20T05:35:00",
-      "showTime": "02:25:00",
-      "endTime": "05:35:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a952a1f715f5bf638f3e1cfb99a51ef8.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Sati Toral",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-08-20T05:35:00",
-      "endDate": "2026-08-20T08:00:00",
-      "showTime": "05:35:00",
-      "endTime": "08:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/31a35c38524f1eb59ecb1316e4cde8d2.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Desi Beats",
-      "description": "A comprehensive compilation of acclaimed chart-topping Indian songs, composed by diverse artists, is played in succession.",
-      "startDate": "2026-08-20T08:00:00",
-      "endDate": "2026-08-20T09:30:00",
-      "showTime": "08:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a952a1f715f5bf638f3e1cfb99a51ef8.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Paras Padmini",
-      "description": "An insouciant man spends his days playing pranks and wreaking havoc in his village. Soon, he is accused of being a thief and sent to jail.",
-      "startDate": "2026-08-20T09:30:00",
-      "endDate": "2026-08-20T12:50:00",
-      "showTime": "09:30:00",
-      "endTime": "12:50:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/32660b052e7ac12f5d4badcf3644d548.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Raj Ratan",
-      "description": "A married woman fails to conceive a child despite her repeated attempts. However, when her husband kicks her out of the house, she discovers that she is pregnant.",
-      "startDate": "2026-08-20T12:50:00",
-      "endDate": "2026-08-20T16:05:00",
-      "showTime": "12:50:00",
-      "endTime": "16:05:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5ed84fab64362c0b8e6a1bceed74e692.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Sharad Poonamni Raat",
-      "description": "A ruthless village head who wants to marry Radha kills her lover Kishan on their wedding day. Soon, Kishan's spirit returns to protect Radha and seek revenge on the village head.",
-      "startDate": "2026-08-20T16:05:00",
-      "endDate": "2026-08-20T19:00:00",
-      "showTime": "16:05:00",
-      "endTime": "19:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23a31178ce8bfc8e76515c992e84bd9a.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Maher Karo Maa Meldi",
-      "description": "A village headman has to face the wrath of the Almighty when he starts to torture a woman who is an ardent devotee of the goddess, despite her resistance to him.",
-      "startDate": "2026-08-20T19:00:00",
-      "endDate": "2026-08-20T21:25:00",
-      "showTime": "19:00:00",
-      "endTime": "21:25:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3886dc057f1fc3c2d085a97ada56d5e2.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Parbhav Ni Preet",
-      "description": "A princess and an old sculptor in love are separated by class differences. However, her lover takes rebirth and gets attracted to the debris of the castle.",
-      "startDate": "2026-08-20T21:25:00",
-      "endDate": "2026-08-20T23:59:59",
-      "showTime": "21:25:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f188cc13710cc9759973dbd82091533d.jpg"
-    },
-    {
       "serverDate": "2026-08-21",
       "showName": "Timli",
       "description": "When Thakur Chandraban's son, Chandan, and Timli, his servant's daughter, fall deeply in love with each other, he agrees to go to great lengths for their relationship.",
@@ -941,6 +831,116 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8ddee03a02b9755338d699b2a2a2e64.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Kya Rami Aavya Raas",
+      "description": "Deepak and Jyoti have been in love with each other since childhood. However, one day Lord Krishna, known as the saviour of the world, becomes a part of their love story.",
+      "startDate": "2026-08-28T00:00:00",
+      "endDate": "2026-08-28T00:55:00",
+      "showTime": "00:00:00",
+      "endTime": "00:55:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8ddee03a02b9755338d699b2a2a2e64.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Love Is Blind",
+      "description": "A woman unable to see her mother due to selective perception is advised by her psychiatrist to spend time with a suicidal man in love with her, whom she also can not see.",
+      "startDate": "2026-08-28T00:55:00",
+      "endDate": "2026-08-28T03:20:00",
+      "showTime": "00:55:00",
+      "endTime": "03:20:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c6d5e0e1cb6184b0a0d4f2e353ce671.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Desi Beats",
+      "description": "A comprehensive compilation of acclaimed chart-topping Indian songs, composed by diverse artists, is played in succession.",
+      "startDate": "2026-08-28T03:20:00",
+      "endDate": "2026-08-28T05:55:00",
+      "showTime": "03:20:00",
+      "endTime": "05:55:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a952a1f715f5bf638f3e1cfb99a51ef8.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Sejal Sumaro",
+      "description": "Despite being engaged to Madhavsingh, Princess Sejal reconsiders the decision of marrying him when Sumersingh saves her life. Later, she verily makes up her mind to get married to Sumersingh.",
+      "startDate": "2026-08-28T05:55:00",
+      "endDate": "2026-08-28T08:00:00",
+      "showTime": "05:55:00",
+      "endTime": "08:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d42527526021babad52a1dc18de9d461.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Desi Beats",
+      "description": "A comprehensive compilation of acclaimed chart-topping Indian songs, composed by diverse artists, is played in succession.",
+      "startDate": "2026-08-28T08:00:00",
+      "endDate": "2026-08-28T10:45:00",
+      "showTime": "08:00:00",
+      "endTime": "10:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a952a1f715f5bf638f3e1cfb99a51ef8.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Lekh Ne Mathe Mekh",
+      "description": "In order to grant the wishes of his devotee, Radha, Lord Ganesha incarnates a human and tries to shield her from a number of atrocities.",
+      "startDate": "2026-08-28T10:45:00",
+      "endDate": "2026-08-28T13:35:00",
+      "showTime": "10:45:00",
+      "endTime": "13:35:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/59031a2bd2a3bc74514267404c1e88dc.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Ramdev Peer No Vivah",
+      "description": "Baba Ramdev, a noble ruler who is committed to the welfare and upliftment of his subjects, is taken aback when he learns about the sorrows of a mother and decides to fight the evil to help her.",
+      "startDate": "2026-08-28T13:35:00",
+      "endDate": "2026-08-28T16:35:00",
+      "showTime": "13:35:00",
+      "endTime": "16:35:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/620a42afbb915443cc6c88883f78aeff.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Khamma Mara Veera",
+      "description": "Asha, an orphan, grows up amidst hardship, but finds solace and support from her brother, a snake god. Later, she marries a kind-hearted man, but is once again faced with the fear of impending doom.",
+      "startDate": "2026-08-28T16:35:00",
+      "endDate": "2026-08-28T19:00:00",
+      "showTime": "16:35:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f65fb6843108b91c0d8527c4fbed030d.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Rakhewal",
+      "description": "A young man strives to look out for the poor and underprivileged people who depend on him to fight their battles against the world.",
+      "startDate": "2026-08-28T19:00:00",
+      "endDate": "2026-08-28T22:15:00",
+      "showTime": "19:00:00",
+      "endTime": "22:15:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6ed90e225f778b572aaef3cfcd23b71f.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Rudo Rabari",
+      "description": "Bappu, a disgruntled lover, joins forces with Vaniya Seth, to destroy the lives of Rudo and Reva, as the couple decide to tie the knot.",
+      "startDate": "2026-08-28T22:15:00",
+      "endDate": "2026-08-28T23:59:59",
+      "showTime": "22:15:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/505fb883248bc3cebb35e48eb6d87867.jpg"
     }
   ]
 }

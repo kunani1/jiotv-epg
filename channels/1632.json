@@ -8,105 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ColorsKannadaCinema.png",
   "programs": [
     {
-      "serverDate": "2026-08-20",
-      "showName": "Kannad Gothilla",
-      "description": "A senior crime inspector investigates a complex case of people going missing in Bengaluru, taking every measure possible to uncover the truth.",
-      "startDate": "2026-08-20T00:00:00",
-      "endDate": "2026-08-20T02:30:00",
-      "showTime": "00:00:00",
-      "endTime": "02:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8d0a4b5be2d575e65d3d572a60bd75ae.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Shiva Shakthi",
-      "description": "Lord Shiva and Goddess Parvati fall in love at the start of the universe. Their eternal love story becomes a legendary tale of devotion for future generations.",
-      "startDate": "2026-08-20T02:30:00",
-      "endDate": "2026-08-20T03:00:00",
-      "showTime": "02:30:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0f151a06a419c92f483069f344e55118.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Gadibidi Brothers",
-      "description": "Two inseparable brothers fall head over heels in love with two women. However, their blooming romance experiences an unexpected hurdle after the girls' mother conspires to defame the naive young men.",
-      "startDate": "2026-08-20T03:00:00",
-      "endDate": "2026-08-20T06:00:00",
-      "showTime": "03:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/549e58b993e5278e9aa1683237d17e3f.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Anna Bond",
-      "description": "Bond Ravi, a martial arts champion, and Meera, a documentary film-maker, fall in love with each other. However, she gets kidnapped by a drug lord, prompting Bond to spring into action.",
-      "startDate": "2026-08-20T06:00:00",
-      "endDate": "2026-08-20T09:30:00",
-      "showTime": "06:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/558d9d8779167dfc43d150aeea9674c7.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Chandu",
-      "description": "Chandu, a college student, beats up a gangster for his unjust acts. Fearing the wrath of the gangster, his parents send him to Bengaluru, where he meets the love of his life.",
-      "startDate": "2026-08-20T09:30:00",
-      "endDate": "2026-08-20T13:00:00",
-      "showTime": "09:30:00",
-      "endTime": "13:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f5d17a81c5ecc6d8207a4609dca1253.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "F2: Fun and Frustration",
-      "description": "Two young men hope to control their wives after their respective marriages. However, their chauvinistic attitude often lands them in hilarious situations.",
-      "startDate": "2026-08-20T13:00:00",
-      "endDate": "2026-08-20T16:00:00",
-      "showTime": "13:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e68348860b7ebbbeb7f8ed68d122a4ee.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Seetharamam",
-      "description": "Afreen, a Pakistani woman, heads to India in order to deliver a love letter written in 1965 to fulfill her grandfather's dying wish. However, the journey alters her life forever.",
-      "startDate": "2026-08-20T16:00:00",
-      "endDate": "2026-08-20T19:00:00",
-      "showTime": "16:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02e6c5d66fc6aa8f534187c7bffd5f89.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Gaja",
-      "description": "A cat and mouse chase ensues between Gaja and a rival faction leader over a few startling events. Gaja tries to protect his friend, Krishna, and his lover, Shwetha, who are being targeted.",
-      "startDate": "2026-08-20T19:00:00",
-      "endDate": "2026-08-20T23:00:00",
-      "showTime": "19:00:00",
-      "endTime": "23:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4deec1d70c425371921a8b98bf92e8b7.jpg"
-    },
-    {
-      "serverDate": "2026-08-20",
-      "showName": "Alidu Ulidavaru",
-      "description": "A television host nullifies superstitions on his show but struggles to increase the TRPs. However, when he is shooting for the 100th episode of the series, he stumbles upon some disturbing truths.",
-      "startDate": "2026-08-20T23:00:00",
-      "endDate": "2026-08-20T23:59:59",
-      "showTime": "23:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/238f7c028633a0073a84b173ceac0008.jpg"
-    },
-    {
       "serverDate": "2026-08-21",
       "showName": "Alidu Ulidavaru",
       "description": "A television host nullifies superstitions on his show but struggles to increase the TRPs. However, when he is shooting for the 100th episode of the series, he stumbles upon some disturbing truths.",
@@ -252,7 +153,7 @@
     {
       "serverDate": "2026-08-22",
       "showName": "Kshetrapati",
-      "description": "After his father's suicide and witnessing the struggles of many farmers, Basav embarks on a revolutionary path in search of justice. Along the way, he takes on powerful figures, the system, and the government.",
+      "description": "Deeply affected by his father's death and the plight of farmers, Basav seeks justice. Later, he courageously stands up against corrupt authorities and powerful figures.",
       "startDate": "2026-08-22T09:30:00",
       "endDate": "2026-08-22T13:00:00",
       "showTime": "09:30:00",
@@ -798,6 +699,105 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/03e206bbd42778f363b4bbb6772bee30.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Petromax",
+      "description": "Four orphans seek refuge in a woman who offers them the motherly love they have been longing for their whole lives.",
+      "startDate": "2026-08-28T00:00:00",
+      "endDate": "2026-08-28T02:30:00",
+      "showTime": "00:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/03e206bbd42778f363b4bbb6772bee30.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Shiva Shakthi",
+      "description": "Lord Shiva and Goddess Parvati fall in love at the start of the universe. Their eternal love story becomes a legendary tale of devotion for future generations.",
+      "startDate": "2026-08-28T02:30:00",
+      "endDate": "2026-08-28T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0f151a06a419c92f483069f344e55118.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Operation Nakshatra",
+      "description": "Srikanta lives a seemingly happy life with his daughter, Roshni, and his young wife, Smitha. However, several incidents threaten to tear down their facade and reveal their true nature.",
+      "startDate": "2026-08-28T03:00:00",
+      "endDate": "2026-08-28T06:00:00",
+      "showTime": "03:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/588aedc931cc70a38c7e8c7ca8bfe1ac.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Ondagona Baa",
+      "description": "Raghu comes to his paternal village to attend his grandfather's diamond jubilee function. He finds out that due to his uncle, his family was separated, and tries to fix things.",
+      "startDate": "2026-08-28T06:00:00",
+      "endDate": "2026-08-28T09:30:00",
+      "showTime": "06:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f170ef360187c71eb9dde3c963372eb.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Thavarina Theru",
+      "description": "Sridhar, an orphaned villager with a quiet heart, finds love in Shruti, but their path forward is tangled in her deep sense of duty towards her struggling family.",
+      "startDate": "2026-08-28T09:30:00",
+      "endDate": "2026-08-28T13:00:00",
+      "showTime": "09:30:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02ff2f5567424c3cded9af4497d81b72.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Odahuttidavaru",
+      "description": "Two brothers live in harmony. However, their relationship soon begins to fall apart when the younger brother's wife starts creating clashes between them.",
+      "startDate": "2026-08-28T13:00:00",
+      "endDate": "2026-08-28T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/57778e741cf7d25c0552c2166154d971.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Mahaveera",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-08-28T16:00:00",
+      "endDate": "2026-08-28T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10af3741cdd8b2736a690c296bd254c0.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Vedha",
+      "description": "A father and daughter embark on a killing spree in a bid to seek revenge against those who have wronged them. However, a police officer seeks to put an end to their murders.",
+      "startDate": "2026-08-28T19:00:00",
+      "endDate": "2026-08-28T23:00:00",
+      "showTime": "19:00:00",
+      "endTime": "23:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5f2a4d027e7dbe4dcb5b686dd922d134.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Siliconn City",
+      "description": "Sanjay is under the illusion that he is leading the perfect life. However, he is shocked to realise that his younger brother, Karthik, is involved in illegal activities, which changes everything.",
+      "startDate": "2026-08-28T23:00:00",
+      "endDate": "2026-08-28T23:59:59",
+      "showTime": "23:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/de1e5f5ea97fb12778792a23073adf6d.jpg"
     }
   ]
 }
