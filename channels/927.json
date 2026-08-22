@@ -1200,8 +1200,19 @@
       "showName": "Khabaraa Tahsil Ree",
       "description": "The host presents the latest political, social and economic news updates and developments from different tehsils of the state.",
       "startDate": "2026-08-23T06:00:00",
-      "endDate": "2026-08-23T07:00:00",
+      "endDate": "2026-08-23T06:30:00",
       "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abb07bdc09ebdf10bb4d0869363b306e.jpg"
+    },
+    {
+      "serverDate": "2026-08-23",
+      "showName": "Khabaraa Tahsil Ree",
+      "description": "The host presents the latest political, social and economic news updates and developments from different tehsils of the state.",
+      "startDate": "2026-08-23T06:30:00",
+      "endDate": "2026-08-23T07:00:00",
+      "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abb07bdc09ebdf10bb4d0869363b306e.jpg"
@@ -1230,44 +1241,66 @@
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Bhoole Bisre Geet Nagme",
-      "description": "A comprehensive compilation of some of the finest classic musical tracks from popular movies in the Indian film industry.",
+      "showName": "First India News",
+      "description": "First India News",
       "startDate": "2026-08-23T08:00:00",
-      "endDate": "2026-08-23T09:00:00",
+      "endDate": "2026-08-23T08:30:00",
       "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4ab24ab845f3363f5d6908729765858.jpg"
+    },
+    {
+      "serverDate": "2026-08-23",
+      "showName": "First India News",
+      "description": "First India News",
+      "startDate": "2026-08-23T08:30:00",
+      "endDate": "2026-08-23T09:00:00",
+      "showTime": "08:30:00",
       "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/999cd21bf6f4c7408b5c3a6bbfdf942a.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4ab24ab845f3363f5d6908729765858.jpg"
     },
     {
       "serverDate": "2026-08-23",
       "showName": "National News",
-      "description": "The host presents the latest news updates and developments regarding social, economic and political issues from across the country.",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation.",
       "startDate": "2026-08-23T09:00:00",
       "endDate": "2026-08-23T09:30:00",
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/243eb4336cb2042c8c6f8943c87d6b4d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ac25581e286d2b502206f4994a81689f.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "News Special",
-      "description": "The host presents the latest regional and national news, updates and developments across the nation and provides information on current events.",
+      "showName": "Khel Khel Mein",
+      "description": "An analyst presents the latest updates on players and teams from the world of sports, providing details and insights into their performances.",
       "startDate": "2026-08-23T09:30:00",
       "endDate": "2026-08-23T10:00:00",
       "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/81f307f931f6f8ea26d8a1c72309634b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3f01dfc4506586ef1722fe79beb8a2b.jpg"
     },
     {
       "serverDate": "2026-08-23",
       "showName": "Rajasthan 10 Baje",
       "description": "The host presents some of the latest news stories and updates as well as the schemes undertaken by the government for the development of Rajasthan.",
       "startDate": "2026-08-23T10:00:00",
-      "endDate": "2026-08-23T11:00:00",
+      "endDate": "2026-08-23T10:30:00",
       "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/27a3ac6971d8855081278a7d3247f6bc.jpg"
+    },
+    {
+      "serverDate": "2026-08-23",
+      "showName": "Rajasthan 10 Baje",
+      "description": "The host presents some of the latest news stories and updates as well as the schemes undertaken by the government for the development of Rajasthan.",
+      "startDate": "2026-08-23T10:30:00",
+      "endDate": "2026-08-23T11:00:00",
+      "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/27a3ac6971d8855081278a7d3247f6bc.jpg"
@@ -1275,13 +1308,13 @@
     {
       "serverDate": "2026-08-23",
       "showName": "Breaking Bulletin",
-      "description": "The host presents the latest news and updates from the world of politics, sports, economics, entertainment and business.",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
       "startDate": "2026-08-23T11:00:00",
       "endDate": "2026-08-23T11:30:00",
       "showTime": "11:00:00",
       "endTime": "11:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c03c68887ab72b0010f6363b36cd826.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/42ed0da7bbac379317fe7b15755f6415.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -1292,7 +1325,7 @@
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c746b02428cb56fb91c1d8fb8fa78ba9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f3e84f559ac2798fadf78542b32f20b.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -1307,25 +1340,36 @@
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Viral Hit Live",
-      "description": "The host presents the latest news stories and recent updates on significant matters that are going viral on social media, live.",
+      "showName": "First India News",
+      "description": "First India News",
       "startDate": "2026-08-23T12:30:00",
       "endDate": "2026-08-23T13:00:00",
       "showTime": "12:30:00",
       "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3a370a5ea789157767764a38bffda51b.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4ab24ab845f3363f5d6908729765858.jpg"
     },
     {
       "serverDate": "2026-08-23",
       "showName": "Hamara Rajasthan",
-      "description": "The host presents a comprehensive and detailed coverage of the latest news and developments from the state of Rajasthan.",
+      "description": "The host sheds light on the latest political, economic, social and sports updates and top stories from the state of Rajasthan.",
       "startDate": "2026-08-23T13:00:00",
-      "endDate": "2026-08-23T14:00:00",
+      "endDate": "2026-08-23T13:30:00",
       "showTime": "13:00:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bee1dcf928fa280516b5fa5c33a6a246.jpg"
+    },
+    {
+      "serverDate": "2026-08-23",
+      "showName": "Hamara Rajasthan",
+      "description": "The host sheds light on the latest political, economic, social and sports updates and top stories from the state of Rajasthan.",
+      "startDate": "2026-08-23T13:30:00",
+      "endDate": "2026-08-23T14:00:00",
+      "showTime": "13:30:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/162fc145cd813ddbffe5412b150a53ce.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bee1dcf928fa280516b5fa5c33a6a246.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -1340,58 +1384,58 @@
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Jungle",
-      "description": "A comprehensive and detailed insight into the variety of wildlife found in India and the reasons for their population decline.",
+      "showName": "First India News",
+      "description": "First India News",
       "startDate": "2026-08-23T14:30:00",
       "endDate": "2026-08-23T15:00:00",
       "showTime": "14:30:00",
       "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2972b90910f418ee40b9a94d249e13cc.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4ab24ab845f3363f5d6908729765858.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "The Property Show",
-      "description": "The host provides information about the latest trends in the world of real estate and guides viewers about buying and selling property.",
+      "showName": "First India News",
+      "description": "First India News",
       "startDate": "2026-08-23T15:00:00",
       "endDate": "2026-08-23T15:30:00",
       "showTime": "15:00:00",
       "endTime": "15:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ffc7146039ed068f9dcfdea2e21b4ff9.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4ab24ab845f3363f5d6908729765858.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Ghoomar Nakhrali",
-      "description": "The host presents a compilation of traditional Rajasthani folk songs and dance while also providing interesting facts pertaining to Rajasthani folk music.",
+      "showName": "First India News",
+      "description": "First India News",
       "startDate": "2026-08-23T15:30:00",
       "endDate": "2026-08-23T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abe5c585772a9cfce5d8bcb03bb87ae0.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4ab24ab845f3363f5d6908729765858.jpg"
     },
     {
       "serverDate": "2026-08-23",
       "showName": "Hamara Rajasthan",
-      "description": "The host presents a comprehensive and detailed coverage of the latest news and developments from the state of Rajasthan.",
+      "description": "The host sheds light on the latest political, economic, social and sports updates and top stories from the state of Rajasthan.",
       "startDate": "2026-08-23T16:00:00",
       "endDate": "2026-08-23T16:30:00",
       "showTime": "16:00:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/162fc145cd813ddbffe5412b150a53ce.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bee1dcf928fa280516b5fa5c33a6a246.jpg"
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Shakhsiyat 2022",
-      "description": "The host engages in insightful conversations with prominent personalities from various fields, uncovering their personal experiences, views and contributions to society.",
+      "showName": "Hamara Rajasthan",
+      "description": "The host sheds light on the latest political, economic, social and sports updates and top stories from the state of Rajasthan.",
       "startDate": "2026-08-23T16:30:00",
       "endDate": "2026-08-23T17:00:00",
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a053cf014dfb53639a13157af6e5d669.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bee1dcf928fa280516b5fa5c33a6a246.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -1402,15 +1446,26 @@
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c746b02428cb56fb91c1d8fb8fa78ba9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f3e84f559ac2798fadf78542b32f20b.jpg"
     },
     {
       "serverDate": "2026-08-23",
       "showName": "Khabaraa Tahsil Ree",
       "description": "The host presents the latest political, social and economic news updates and developments from different tehsils of the state.",
       "startDate": "2026-08-23T17:30:00",
-      "endDate": "2026-08-23T18:30:00",
+      "endDate": "2026-08-23T18:00:00",
       "showTime": "17:30:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abb07bdc09ebdf10bb4d0869363b306e.jpg"
+    },
+    {
+      "serverDate": "2026-08-23",
+      "showName": "Khabaraa Tahsil Ree",
+      "description": "The host presents the latest political, social and economic news updates and developments from different tehsils of the state.",
+      "startDate": "2026-08-23T18:00:00",
+      "endDate": "2026-08-23T18:30:00",
+      "showTime": "18:00:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abb07bdc09ebdf10bb4d0869363b306e.jpg"
@@ -1429,13 +1484,24 @@
     {
       "serverDate": "2026-08-23",
       "showName": "Hamara Rajasthan",
-      "description": "The host presents a comprehensive and detailed coverage of the latest news and developments from the state of Rajasthan.",
+      "description": "The host sheds light on the latest political, economic, social and sports updates and top stories from the state of Rajasthan.",
       "startDate": "2026-08-23T19:00:00",
-      "endDate": "2026-08-23T20:00:00",
+      "endDate": "2026-08-23T19:30:00",
       "showTime": "19:00:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bee1dcf928fa280516b5fa5c33a6a246.jpg"
+    },
+    {
+      "serverDate": "2026-08-23",
+      "showName": "Hamara Rajasthan",
+      "description": "The host sheds light on the latest political, economic, social and sports updates and top stories from the state of Rajasthan.",
+      "startDate": "2026-08-23T19:30:00",
+      "endDate": "2026-08-23T20:00:00",
+      "showTime": "19:30:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/162fc145cd813ddbffe5412b150a53ce.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bee1dcf928fa280516b5fa5c33a6a246.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -1446,18 +1512,18 @@
       "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c746b02428cb56fb91c1d8fb8fa78ba9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f3e84f559ac2798fadf78542b32f20b.jpg"
     },
     {
       "serverDate": "2026-08-23",
       "showName": "Speed News",
-      "description": "The host presents the latest news stories about political, economic, social and cultural topics from all around the region.",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
       "startDate": "2026-08-23T20:30:00",
       "endDate": "2026-08-23T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4392dcc873851ec84f2df68777899c22.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f03bc1b55be83264913337e17eefe8d.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -1472,14 +1538,14 @@
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Adhuri Aas",
-      "description": "The host visits different parts of the country and interacts with the locals who share the struggles and apathy they face on a day-to-day basis.",
+      "showName": "News Special",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
       "startDate": "2026-08-23T21:30:00",
       "endDate": "2026-08-23T22:00:00",
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36558ba888a0138a14397e5a54b8a48d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8b5be89b276c21b745d5add8a58aee2.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -1495,13 +1561,13 @@
     {
       "serverDate": "2026-08-23",
       "showName": "Speed News",
-      "description": "The host presents the latest news stories about political, economic, social and cultural topics from all around the region.",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
       "startDate": "2026-08-23T22:30:00",
       "endDate": "2026-08-23T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4392dcc873851ec84f2df68777899c22.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f03bc1b55be83264913337e17eefe8d.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -1516,14 +1582,14 @@
     },
     {
       "serverDate": "2026-08-23",
-      "showName": "Kya Khate Hain Mukhyamantri",
-      "description": "The host showcases a series of archival footage featuring the chief minister's addresses, highlighting his opinions on various topics.",
+      "showName": "News Live",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world, live.",
       "startDate": "2026-08-23T23:30:00",
       "endDate": "2026-08-23T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d33d5a4e0ae0c18f068077609706e436.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f3e84f559ac2798fadf78542b32f20b.jpg"
     },
     {
       "serverDate": "2026-08-24",
@@ -1538,58 +1604,69 @@
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Ghoomar Nakhrali",
-      "description": "The host presents a compilation of traditional Rajasthani folk songs and dance while also providing interesting facts pertaining to Rajasthani folk music.",
+      "showName": "First India News",
+      "description": "First India News",
       "startDate": "2026-08-24T00:30:00",
       "endDate": "2026-08-24T01:00:00",
       "showTime": "00:30:00",
       "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abe5c585772a9cfce5d8bcb03bb87ae0.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4ab24ab845f3363f5d6908729765858.jpg"
     },
     {
       "serverDate": "2026-08-24",
       "showName": "Speed News",
-      "description": "The host presents the latest news stories about political, economic, social and cultural topics from all around the region.",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
       "startDate": "2026-08-24T01:00:00",
       "endDate": "2026-08-24T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4392dcc873851ec84f2df68777899c22.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f03bc1b55be83264913337e17eefe8d.jpg"
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Bhoole Bisre Geet Nagme",
-      "description": "A comprehensive compilation of some of the finest classic musical tracks from popular movies in the Indian film industry.",
+      "showName": "First India News",
+      "description": "First India News",
       "startDate": "2026-08-24T01:30:00",
-      "endDate": "2026-08-24T02:30:00",
+      "endDate": "2026-08-24T02:00:00",
       "showTime": "01:30:00",
-      "endTime": "02:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/999cd21bf6f4c7408b5c3a6bbfdf942a.jpg"
+      "endTime": "02:00:00",
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4ab24ab845f3363f5d6908729765858.jpg"
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Ghoomar Nakhrali",
-      "description": "The host presents a compilation of traditional Rajasthani folk songs and dance while also providing interesting facts pertaining to Rajasthani folk music.",
+      "showName": "First India News",
+      "description": "First India News",
+      "startDate": "2026-08-24T02:00:00",
+      "endDate": "2026-08-24T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4ab24ab845f3363f5d6908729765858.jpg"
+    },
+    {
+      "serverDate": "2026-08-24",
+      "showName": "First India News",
+      "description": "First India News",
       "startDate": "2026-08-24T02:30:00",
       "endDate": "2026-08-24T03:00:00",
       "showTime": "02:30:00",
       "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abe5c585772a9cfce5d8bcb03bb87ae0.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4ab24ab845f3363f5d6908729765858.jpg"
     },
     {
       "serverDate": "2026-08-24",
       "showName": "Speed News",
-      "description": "The host presents the latest news stories about political, economic, social and cultural topics from all around the region.",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
       "startDate": "2026-08-24T03:00:00",
       "endDate": "2026-08-24T03:30:00",
       "showTime": "03:00:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4392dcc873851ec84f2df68777899c22.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f03bc1b55be83264913337e17eefe8d.jpg"
     },
     {
       "serverDate": "2026-08-24",
@@ -1604,14 +1681,25 @@
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Bhoole Bisre Geet Nagme",
-      "description": "A comprehensive compilation of some of the finest classic musical tracks from popular movies in the Indian film industry.",
+      "showName": "First India News",
+      "description": "First India News",
       "startDate": "2026-08-24T04:00:00",
-      "endDate": "2026-08-24T05:00:00",
+      "endDate": "2026-08-24T04:30:00",
       "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4ab24ab845f3363f5d6908729765858.jpg"
+    },
+    {
+      "serverDate": "2026-08-24",
+      "showName": "First India News",
+      "description": "First India News",
+      "startDate": "2026-08-24T04:30:00",
+      "endDate": "2026-08-24T05:00:00",
+      "showTime": "04:30:00",
       "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/999cd21bf6f4c7408b5c3a6bbfdf942a.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4ab24ab845f3363f5d6908729765858.jpg"
     },
     {
       "serverDate": "2026-08-24",
@@ -1640,8 +1728,19 @@
       "showName": "Khabaraa Tahsil Ree",
       "description": "The host presents the latest political, social and economic news updates and developments from different tehsils of the state.",
       "startDate": "2026-08-24T06:00:00",
-      "endDate": "2026-08-24T07:00:00",
+      "endDate": "2026-08-24T06:30:00",
       "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abb07bdc09ebdf10bb4d0869363b306e.jpg"
+    },
+    {
+      "serverDate": "2026-08-24",
+      "showName": "Khabaraa Tahsil Ree",
+      "description": "The host presents the latest political, social and economic news updates and developments from different tehsils of the state.",
+      "startDate": "2026-08-24T06:30:00",
+      "endDate": "2026-08-24T07:00:00",
+      "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abb07bdc09ebdf10bb4d0869363b306e.jpg"
@@ -1671,54 +1770,65 @@
     {
       "serverDate": "2026-08-24",
       "showName": "Speed News",
-      "description": "The host presents the latest news stories about political, economic, social and cultural topics from all around the region.",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
       "startDate": "2026-08-24T08:00:00",
       "endDate": "2026-08-24T08:30:00",
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4392dcc873851ec84f2df68777899c22.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f03bc1b55be83264913337e17eefe8d.jpg"
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Bhoole Bisre Nagme",
-      "description": "A comprehensive compilation of evergreen musical numbers from many years ago that are now regarded as all-time classics.",
+      "showName": "First India News",
+      "description": "First India News",
       "startDate": "2026-08-24T08:30:00",
       "endDate": "2026-08-24T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/186059143c49b5dbe407133ec6174c4e.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4ab24ab845f3363f5d6908729765858.jpg"
     },
     {
       "serverDate": "2026-08-24",
       "showName": "National News",
-      "description": "The host presents the latest news updates and developments regarding social, economic and political issues from across the country.",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation.",
       "startDate": "2026-08-24T09:00:00",
       "endDate": "2026-08-24T09:30:00",
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/243eb4336cb2042c8c6f8943c87d6b4d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ac25581e286d2b502206f4994a81689f.jpg"
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Adhuri Aas",
-      "description": "The host visits different parts of the country and interacts with the locals who share the struggles and apathy they face on a day-to-day basis.",
+      "showName": "News Special",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
       "startDate": "2026-08-24T09:30:00",
       "endDate": "2026-08-24T10:00:00",
       "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36558ba888a0138a14397e5a54b8a48d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8b5be89b276c21b745d5add8a58aee2.jpg"
     },
     {
       "serverDate": "2026-08-24",
       "showName": "Rajasthan 10 Baje",
       "description": "The host presents some of the latest news stories and updates as well as the schemes undertaken by the government for the development of Rajasthan.",
       "startDate": "2026-08-24T10:00:00",
-      "endDate": "2026-08-24T11:00:00",
+      "endDate": "2026-08-24T10:30:00",
       "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/27a3ac6971d8855081278a7d3247f6bc.jpg"
+    },
+    {
+      "serverDate": "2026-08-24",
+      "showName": "Rajasthan 10 Baje",
+      "description": "The host presents some of the latest news stories and updates as well as the schemes undertaken by the government for the development of Rajasthan.",
+      "startDate": "2026-08-24T10:30:00",
+      "endDate": "2026-08-24T11:00:00",
+      "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/27a3ac6971d8855081278a7d3247f6bc.jpg"
@@ -1726,13 +1836,13 @@
     {
       "serverDate": "2026-08-24",
       "showName": "Breaking Bulletin",
-      "description": "The host presents the latest news and updates from the world of politics, sports, economics, entertainment and business.",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
       "startDate": "2026-08-24T11:00:00",
       "endDate": "2026-08-24T11:30:00",
       "showTime": "11:00:00",
       "endTime": "11:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c03c68887ab72b0010f6363b36cd826.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/42ed0da7bbac379317fe7b15755f6415.jpg"
     },
     {
       "serverDate": "2026-08-24",
@@ -1743,7 +1853,7 @@
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c746b02428cb56fb91c1d8fb8fa78ba9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f3e84f559ac2798fadf78542b32f20b.jpg"
     },
     {
       "serverDate": "2026-08-24",
@@ -1758,25 +1868,36 @@
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Viral Hit Live",
-      "description": "The host presents the latest news stories and recent updates on significant matters that are going viral on social media, live.",
+      "showName": "First India News",
+      "description": "First India News",
       "startDate": "2026-08-24T12:30:00",
       "endDate": "2026-08-24T13:00:00",
       "showTime": "12:30:00",
       "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3a370a5ea789157767764a38bffda51b.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4ab24ab845f3363f5d6908729765858.jpg"
     },
     {
       "serverDate": "2026-08-24",
       "showName": "Hamara Rajasthan",
-      "description": "The host presents a comprehensive and detailed coverage of the latest news and developments from the state of Rajasthan.",
+      "description": "The host sheds light on the latest political, economic, social and sports updates and top stories from the state of Rajasthan.",
       "startDate": "2026-08-24T13:00:00",
-      "endDate": "2026-08-24T14:00:00",
+      "endDate": "2026-08-24T13:30:00",
       "showTime": "13:00:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bee1dcf928fa280516b5fa5c33a6a246.jpg"
+    },
+    {
+      "serverDate": "2026-08-24",
+      "showName": "Hamara Rajasthan",
+      "description": "The host sheds light on the latest political, economic, social and sports updates and top stories from the state of Rajasthan.",
+      "startDate": "2026-08-24T13:30:00",
+      "endDate": "2026-08-24T14:00:00",
+      "showTime": "13:30:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/162fc145cd813ddbffe5412b150a53ce.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bee1dcf928fa280516b5fa5c33a6a246.jpg"
     },
     {
       "serverDate": "2026-08-24",
@@ -1791,47 +1912,58 @@
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Jungle",
-      "description": "A comprehensive and detailed insight into the variety of wildlife found in India and the reasons for their population decline.",
+      "showName": "First India News",
+      "description": "First India News",
       "startDate": "2026-08-24T14:30:00",
       "endDate": "2026-08-24T15:00:00",
       "showTime": "14:30:00",
       "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2972b90910f418ee40b9a94d249e13cc.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4ab24ab845f3363f5d6908729765858.jpg"
     },
     {
       "serverDate": "2026-08-24",
       "showName": "Speed News",
-      "description": "The host presents the latest news stories about political, economic, social and cultural topics from all around the region.",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
       "startDate": "2026-08-24T15:00:00",
       "endDate": "2026-08-24T15:30:00",
       "showTime": "15:00:00",
       "endTime": "15:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4392dcc873851ec84f2df68777899c22.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f03bc1b55be83264913337e17eefe8d.jpg"
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Ghoomar Nakhrali",
-      "description": "The host presents a compilation of traditional Rajasthani folk songs and dance while also providing interesting facts pertaining to Rajasthani folk music.",
+      "showName": "First India News",
+      "description": "First India News",
       "startDate": "2026-08-24T15:30:00",
       "endDate": "2026-08-24T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abe5c585772a9cfce5d8bcb03bb87ae0.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4ab24ab845f3363f5d6908729765858.jpg"
     },
     {
       "serverDate": "2026-08-24",
       "showName": "Hamara Rajasthan",
-      "description": "The host presents a comprehensive and detailed coverage of the latest news and developments from the state of Rajasthan.",
+      "description": "The host sheds light on the latest political, economic, social and sports updates and top stories from the state of Rajasthan.",
       "startDate": "2026-08-24T16:00:00",
-      "endDate": "2026-08-24T17:00:00",
+      "endDate": "2026-08-24T16:30:00",
       "showTime": "16:00:00",
+      "endTime": "16:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bee1dcf928fa280516b5fa5c33a6a246.jpg"
+    },
+    {
+      "serverDate": "2026-08-24",
+      "showName": "Hamara Rajasthan",
+      "description": "The host sheds light on the latest political, economic, social and sports updates and top stories from the state of Rajasthan.",
+      "startDate": "2026-08-24T16:30:00",
+      "endDate": "2026-08-24T17:00:00",
+      "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/162fc145cd813ddbffe5412b150a53ce.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bee1dcf928fa280516b5fa5c33a6a246.jpg"
     },
     {
       "serverDate": "2026-08-24",
@@ -1880,13 +2012,24 @@
     {
       "serverDate": "2026-08-24",
       "showName": "Hamara Rajasthan",
-      "description": "The host presents a comprehensive and detailed coverage of the latest news and developments from the state of Rajasthan.",
+      "description": "The host sheds light on the latest political, economic, social and sports updates and top stories from the state of Rajasthan.",
       "startDate": "2026-08-24T19:00:00",
-      "endDate": "2026-08-24T20:00:00",
+      "endDate": "2026-08-24T19:30:00",
       "showTime": "19:00:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bee1dcf928fa280516b5fa5c33a6a246.jpg"
+    },
+    {
+      "serverDate": "2026-08-24",
+      "showName": "Hamara Rajasthan",
+      "description": "The host sheds light on the latest political, economic, social and sports updates and top stories from the state of Rajasthan.",
+      "startDate": "2026-08-24T19:30:00",
+      "endDate": "2026-08-24T20:00:00",
+      "showTime": "19:30:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/162fc145cd813ddbffe5412b150a53ce.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bee1dcf928fa280516b5fa5c33a6a246.jpg"
     },
     {
       "serverDate": "2026-08-24",
@@ -1902,13 +2045,13 @@
     {
       "serverDate": "2026-08-24",
       "showName": "Speed News",
-      "description": "The host presents the latest news stories about political, economic, social and cultural topics from all around the region.",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
       "startDate": "2026-08-24T20:30:00",
       "endDate": "2026-08-24T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4392dcc873851ec84f2df68777899c22.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f03bc1b55be83264913337e17eefe8d.jpg"
     },
     {
       "serverDate": "2026-08-24",
@@ -1924,13 +2067,13 @@
     {
       "serverDate": "2026-08-24",
       "showName": "News Special",
-      "description": "The host presents the latest regional and national news, updates and developments across the nation and provides information on current events.",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
       "startDate": "2026-08-24T21:30:00",
       "endDate": "2026-08-24T22:00:00",
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/81f307f931f6f8ea26d8a1c72309634b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8b5be89b276c21b745d5add8a58aee2.jpg"
     },
     {
       "serverDate": "2026-08-24",
@@ -1946,13 +2089,13 @@
     {
       "serverDate": "2026-08-24",
       "showName": "Speed News",
-      "description": "The host presents the latest news stories about political, economic, social and cultural topics from all around the region.",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
       "startDate": "2026-08-24T22:30:00",
       "endDate": "2026-08-24T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4392dcc873851ec84f2df68777899c22.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f03bc1b55be83264913337e17eefe8d.jpg"
     },
     {
       "serverDate": "2026-08-24",
@@ -1967,14 +2110,14 @@
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Kya Khate Hain Mukhyamantri",
-      "description": "The host showcases a series of archival footage featuring the chief minister's addresses, highlighting his opinions on various topics.",
+      "showName": "News Live",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world, live.",
       "startDate": "2026-08-24T23:30:00",
       "endDate": "2026-08-24T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d33d5a4e0ae0c18f068077609706e436.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f3e84f559ac2798fadf78542b32f20b.jpg"
     },
     {
       "serverDate": "2026-08-25",
@@ -1989,36 +2132,36 @@
     },
     {
       "serverDate": "2026-08-25",
-      "showName": "Ghoomar Nakhrali",
-      "description": "The host presents a compilation of traditional Rajasthani folk songs and dance while also providing interesting facts pertaining to Rajasthani folk music.",
+      "showName": "First India News",
+      "description": "First India News",
       "startDate": "2026-08-25T00:30:00",
       "endDate": "2026-08-25T01:00:00",
       "showTime": "00:30:00",
       "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abe5c585772a9cfce5d8bcb03bb87ae0.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4ab24ab845f3363f5d6908729765858.jpg"
     },
     {
       "serverDate": "2026-08-25",
       "showName": "Speed News",
-      "description": "The host presents the latest news stories about political, economic, social and cultural topics from all around the region.",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
       "startDate": "2026-08-25T01:00:00",
       "endDate": "2026-08-25T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4392dcc873851ec84f2df68777899c22.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f03bc1b55be83264913337e17eefe8d.jpg"
     },
     {
       "serverDate": "2026-08-25",
-      "showName": "Bhoole Bisre Nagme",
-      "description": "A comprehensive compilation of evergreen musical numbers from many years ago that are now regarded as all-time classics.",
+      "showName": "First India News",
+      "description": "First India News",
       "startDate": "2026-08-25T01:30:00",
       "endDate": "2026-08-25T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/186059143c49b5dbe407133ec6174c4e.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4ab24ab845f3363f5d6908729765858.jpg"
     },
     {
       "serverDate": "2026-08-25",
@@ -2033,25 +2176,25 @@
     },
     {
       "serverDate": "2026-08-25",
-      "showName": "Ghoomar Nakhrali",
-      "description": "The host presents a compilation of traditional Rajasthani folk songs and dance while also providing interesting facts pertaining to Rajasthani folk music.",
+      "showName": "First India News",
+      "description": "First India News",
       "startDate": "2026-08-25T02:30:00",
       "endDate": "2026-08-25T03:00:00",
       "showTime": "02:30:00",
       "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abe5c585772a9cfce5d8bcb03bb87ae0.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4ab24ab845f3363f5d6908729765858.jpg"
     },
     {
       "serverDate": "2026-08-25",
       "showName": "Speed News",
-      "description": "The host presents the latest news stories about political, economic, social and cultural topics from all around the region.",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
       "startDate": "2026-08-25T03:00:00",
       "endDate": "2026-08-25T03:30:00",
       "showTime": "03:00:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4392dcc873851ec84f2df68777899c22.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f03bc1b55be83264913337e17eefe8d.jpg"
     },
     {
       "serverDate": "2026-08-25",
@@ -2066,25 +2209,25 @@
     },
     {
       "serverDate": "2026-08-25",
-      "showName": "Bhoole Bisre Nagme",
-      "description": "A comprehensive compilation of evergreen musical numbers from many years ago that are now regarded as all-time classics.",
+      "showName": "First India News",
+      "description": "First India News",
       "startDate": "2026-08-25T04:00:00",
       "endDate": "2026-08-25T04:30:00",
       "showTime": "04:00:00",
       "endTime": "04:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/186059143c49b5dbe407133ec6174c4e.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4ab24ab845f3363f5d6908729765858.jpg"
     },
     {
       "serverDate": "2026-08-25",
-      "showName": "Ghoomar Nakhrali",
-      "description": "The host presents a compilation of traditional Rajasthani folk songs and dance while also providing interesting facts pertaining to Rajasthani folk music.",
+      "showName": "First India News",
+      "description": "First India News",
       "startDate": "2026-08-25T04:30:00",
       "endDate": "2026-08-25T05:00:00",
       "showTime": "04:30:00",
       "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abe5c585772a9cfce5d8bcb03bb87ae0.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4ab24ab845f3363f5d6908729765858.jpg"
     },
     {
       "serverDate": "2026-08-25",
