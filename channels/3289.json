@@ -8,171 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/qello-qello001-dhaka.png",
   "programs": [
     {
-      "serverDate": "2026-08-21",
-      "showName": "Jimi Hendrix - Blue Wild Angel: Live At The Isle Of Wight",
-      "description": "Jimi Hendrix's historic performance before 600,000 people at the Isle of Wight Festival in August 1970 marked the final time he'd play in England. The guitarist passed away less than three weeks later.",
-      "startDate": "2026-08-21T00:00:00",
-      "endDate": "2026-08-21T02:07:00",
-      "showTime": "00:00:00",
-      "endTime": "02:07:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/900d906585dee8b51e62ae07767671ad.jpg"
-    },
-    {
-      "serverDate": "2026-08-21",
-      "showName": "Green Day: Live at Fox Theater",
-      "description": "Green Day performs from \"21st Century Breakdown\", at the Fox Theater in the band's hometown, Oakland, California.",
-      "startDate": "2026-08-21T02:07:00",
-      "endDate": "2026-08-21T03:10:00",
-      "showTime": "02:07:00",
-      "endTime": "03:10:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e7f6e69e71e59af2cc56b356ff0d04e.jpg"
-    },
-    {
-      "serverDate": "2026-08-21",
-      "showName": "Qello Concerts' Best",
-      "description": "The best of Qello Concerts.",
-      "startDate": "2026-08-21T03:10:00",
-      "endDate": "2026-08-21T03:34:00",
-      "showTime": "03:10:00",
-      "endTime": "03:34:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf96246e9b9647e11322d37f97afc84c.jpg"
-    },
-    {
-      "serverDate": "2026-08-21",
-      "showName": "Maroon 5 -- Live in London 2014",
-      "description": "Filmed at Roundhouse, London, this Maroon 5 concert features songs such as \"Moves Like Jagger,\" \"Daylight,\" \"This Love\" and many more.",
-      "startDate": "2026-08-21T03:34:00",
-      "endDate": "2026-08-21T04:57:00",
-      "showTime": "03:34:00",
-      "endTime": "04:57:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/384092bdce51c73b3b35ed56be09467f.jpg"
-    },
-    {
-      "serverDate": "2026-08-21",
-      "showName": "Of Monsters and Men - Main Square Festival 2013",
-      "description": "The Icelandic band Of Monsters and Men perform a fun and entertaining set in sunny Arras, France. The folk story-tellers hit all the right notes!",
-      "startDate": "2026-08-21T04:57:00",
-      "endDate": "2026-08-21T06:05:00",
-      "showTime": "04:57:00",
-      "endTime": "06:05:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-08-21",
-      "showName": "Lana Del Rey - Live in London 2012",
-      "description": "Born to Die is the second album by singer-songwriter Lana Del Rey, and the first to be officially released on January 27, 2012 and that would lead to global success; In countries such as the United Kingdom the album was the best selling of that year.",
-      "startDate": "2026-08-21T06:05:00",
-      "endDate": "2026-08-21T07:01:00",
-      "showTime": "06:05:00",
-      "endTime": "07:01:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7640a6c6d699dd2ac7e14297e41afdfa.jpg"
-    },
-    {
-      "serverDate": "2026-08-21",
-      "showName": "The Beatles - Composing the Beatles Songbook",
-      "description": "Assessing The Beatles from the day they met in 1957 until the release of the \"Rubber Soul\" album at the end of 1965.",
-      "startDate": "2026-08-21T07:01:00",
-      "endDate": "2026-08-21T08:34:00",
-      "showTime": "07:01:00",
-      "endTime": "08:34:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b3b313dad7898380111364c9f07b7a4d.jpg"
-    },
-    {
-      "serverDate": "2026-08-21",
-      "showName": "David Gilmour - Remember That Night",
-      "description": "David Gilmour - Remember That Night: Live at the Royal Albert Hall is recorded by guitarist David Gilmour where he presents live tracks from the album On an Island and some hits from his former band Pink Floyd.",
-      "startDate": "2026-08-21T08:34:00",
-      "endDate": "2026-08-21T11:33:00",
-      "showTime": "08:34:00",
-      "endTime": "11:33:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2e94540a60134fa9e7ce0f6e08f5f48f.jpg"
-    },
-    {
-      "serverDate": "2026-08-21",
-      "showName": "Carrie Underwood -- Live in London 2015",
-      "description": "Watch Carrie Underwood performing at the Apple Music Festival; a concert experience not only for the fans at the Roundhouse, but also for fans across the globe.",
-      "startDate": "2026-08-21T11:33:00",
-      "endDate": "2026-08-21T13:04:00",
-      "showTime": "11:33:00",
-      "endTime": "13:04:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dd0eea6bab39457c8652ce5f5c0e1804.jpg"
-    },
-    {
-      "serverDate": "2026-08-21",
-      "showName": "Justin Bieber - Live at Madison Square Garden",
-      "description": "The film follows the pop star Justin Bieber during 10 days counting down to his performance at Madison Square Garden.",
-      "startDate": "2026-08-21T13:04:00",
-      "endDate": "2026-08-21T15:00:00",
-      "showTime": "13:04:00",
-      "endTime": "15:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/35a8d575d0d5d282817e3a06375045b8.jpg"
-    },
-    {
-      "serverDate": "2026-08-21",
-      "showName": "Britney Spears - Live from London",
-      "description": "Filmed at Roundhouse, London, this concert film will give all fans a spectacular Live experience from start to finish. Britney Spears performs her hits including Baby One More Time, Oops! I Did It Again, Toxic and many more.",
-      "startDate": "2026-08-21T15:00:00",
-      "endDate": "2026-08-21T16:44:00",
-      "showTime": "15:00:00",
-      "endTime": "16:44:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f93f8fae5b3a341791c398bc0fad7f7a.jpg"
-    },
-    {
-      "serverDate": "2026-08-21",
-      "showName": "Rod Stewart - Live at Hyde Park",
-      "description": "Experience the legendary Rod Stewart as he closes Radio 2's Annual Festival In A Day with a memorable performance in September 2015 at London's Hyde Park.",
-      "startDate": "2026-08-21T16:44:00",
-      "endDate": "2026-08-21T18:10:00",
-      "showTime": "16:44:00",
-      "endTime": "18:10:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-08-21",
-      "showName": "George Michael - Live in London",
-      "description": "George Michael winds down his 25 Live tour in his first-ever concert film, which finds the former Wham! leading man revisiting hits familiar and fresh in two sold-out shows at London's Earls Court.",
-      "startDate": "2026-08-21T18:10:00",
-      "endDate": "2026-08-21T20:50:00",
-      "showTime": "18:10:00",
-      "endTime": "20:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-08-21",
-      "showName": "Justin Timberlake -- Live From New York",
-      "description": "The \"FutureSex/LoveSounds\" album is one of the most awarded 2007 albums and has sold more than eight million copies worldwide.",
-      "startDate": "2026-08-21T20:50:00",
-      "endDate": "2026-08-21T23:30:00",
-      "showTime": "20:50:00",
-      "endTime": "23:30:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8723fcf6571a681bcd553e78aec90407.jpg"
-    },
-    {
-      "serverDate": "2026-08-21",
-      "showName": "Metallica - Orion Festival: Tour Through the Never",
-      "description": "Filmed at Orion Festival, Atlantic City, this concert film will give all fans a spectacular Live experience from start to finish. Classic Metallica featuring unforgettable version of their hits: 'One', 'Master Of Puppets', 'Sad But True' and more.",
-      "startDate": "2026-08-21T23:30:00",
-      "endDate": "2026-08-21T23:59:59",
-      "showTime": "23:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
       "serverDate": "2026-08-22",
       "showName": "Metallica - Orion Festival: Tour Through the Never",
       "description": "Filmed at Orion Festival, Atlantic City, this concert film will give all fans a spectacular Live experience from start to finish. Classic Metallica featuring unforgettable version of their hits: 'One', 'Master Of Puppets', 'Sad But True' and more.",
@@ -346,7 +181,7 @@
       "showTime": "00:00:00",
       "endTime": "01:49:00",
       "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d14661f726ce753f26d1f73096289926.jpg"
     },
     {
       "serverDate": "2026-08-23",
@@ -1237,7 +1072,7 @@
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8f46d42972c3d1644fd95bcb0245488.jpg"
     },
     {
       "serverDate": "2026-08-28",
@@ -1248,7 +1083,7 @@
       "showTime": "00:00:00",
       "endTime": "01:13:00",
       "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8f46d42972c3d1644fd95bcb0245488.jpg"
     },
     {
       "serverDate": "2026-08-28",
@@ -1436,6 +1271,182 @@
       "endTime": "23:59:59",
       "showCategory": "Special",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e35915d14a73d616c4455a02324c33f8.jpg"
+    },
+    {
+      "serverDate": "2026-08-29",
+      "showName": "Robert Plant - Live in London 2014",
+      "description": "ITunes Festival, is an annual music festival that takes place over a month in London. Sponsored by Apple Inc., it had its first edition in 2007.",
+      "startDate": "2026-08-29T00:00:00",
+      "endDate": "2026-08-29T01:10:00",
+      "showTime": "00:00:00",
+      "endTime": "01:10:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e35915d14a73d616c4455a02324c33f8.jpg"
+    },
+    {
+      "serverDate": "2026-08-29",
+      "showName": "Queens of the Stone Age -- Zénith Paris 2013",
+      "description": "The riff-oriented heavy rock with dark and moody performance by Queens of the Stone Age; best enjoyed with the volume turned up high.",
+      "startDate": "2026-08-29T01:10:00",
+      "endDate": "2026-08-29T03:05:00",
+      "showTime": "01:10:00",
+      "endTime": "03:05:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9cd4709a8fac54f785b872ca24be04a9.jpg"
+    },
+    {
+      "serverDate": "2026-08-29",
+      "showName": "Qello Concerts' Best",
+      "description": "The best of Qello Concerts.",
+      "startDate": "2026-08-29T03:05:00",
+      "endDate": "2026-08-29T03:29:00",
+      "showTime": "03:05:00",
+      "endTime": "03:29:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf96246e9b9647e11322d37f97afc84c.jpg"
+    },
+    {
+      "serverDate": "2026-08-29",
+      "showName": "Paul Rodgers - Free Spirit",
+      "description": "The 16-song collection, 'Free Spirit', filmed in London, England returned Paul Rodgers to his roots, bringing fans an extraordinary evening celebrating the music of Free.",
+      "startDate": "2026-08-29T03:29:00",
+      "endDate": "2026-08-29T05:03:00",
+      "showTime": "03:29:00",
+      "endTime": "05:03:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/188e1c4e33e524a362580374c78336ea.jpg"
+    },
+    {
+      "serverDate": "2026-08-29",
+      "showName": "The Black Keys - Live at Main Square Festival",
+      "description": "Main Square Festival is a music festival that takes place in Arras, France, lasting three days.",
+      "startDate": "2026-08-29T05:03:00",
+      "endDate": "2026-08-29T06:48:00",
+      "showTime": "05:03:00",
+      "endTime": "06:48:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/206909b9ed27217e67398e9fb8c3df79.jpg"
+    },
+    {
+      "serverDate": "2026-08-29",
+      "showName": "Paul Simon - Live in New York City",
+      "description": "During the first leg of Paul Simon's triumphant, 2011 U.S. tour, he thrilled hometown fans with a special club performance at New York City's historic Webster Hall.",
+      "startDate": "2026-08-29T06:48:00",
+      "endDate": "2026-08-29T08:40:00",
+      "showTime": "06:48:00",
+      "endTime": "08:40:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62c7b058c097acdabc7e09d2aabc2c54.jpg"
+    },
+    {
+      "serverDate": "2026-08-29",
+      "showName": "Radiohead - The King of Limbs: Live from the Basement",
+      "description": "The King of Limbs: Live from the Basement is a 2011 live video album by the English alternative rock band Radiohead, performing their eighth album, The King of Limbs (2011).",
+      "startDate": "2026-08-29T08:40:00",
+      "endDate": "2026-08-29T09:45:00",
+      "showTime": "08:40:00",
+      "endTime": "09:45:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ae61eecdfcc21c8a2199e0f17b40651.jpg"
+    },
+    {
+      "serverDate": "2026-08-29",
+      "showName": "Adele - iTunes Festival: Live in London",
+      "description": "Adele, a prominent English singer, performs some of her most iconic popular songs in front of a live audience in london.",
+      "startDate": "2026-08-29T09:45:00",
+      "endDate": "2026-08-29T11:25:00",
+      "showTime": "09:45:00",
+      "endTime": "11:25:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/69f03a08454556c7f1860748dc2d489c.jpg"
+    },
+    {
+      "serverDate": "2026-08-29",
+      "showName": "Eric Clapton -- The 1970s Review",
+      "description": "Clapton's bold musical journey through the 1970s; featuring new and archive interviews, rare performance footage, contributions from the likes of Bonnie Bramlett, Bobby Whitlock, The Albert Brothers, George Terry, Willie Perkins, Bill Halverson, Clapton biographer Marc Roberty and others.",
+      "startDate": "2026-08-29T11:25:00",
+      "endDate": "2026-08-29T14:23:00",
+      "showTime": "11:25:00",
+      "endTime": "14:23:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9e38771389830d0d2ef88e047e36e84.jpg"
+    },
+    {
+      "serverDate": "2026-08-29",
+      "showName": "AC/DC - Circus Krone",
+      "description": "Filmed at the Circus Krone in Munich, this concert features performances of \"Rock N Roll Damnation\" and \"What's Next to the Moon\" and more.",
+      "startDate": "2026-08-29T14:23:00",
+      "endDate": "2026-08-29T15:12:00",
+      "showTime": "14:23:00",
+      "endTime": "15:12:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f3d8f810b5a020f5fea734c3fae3991b.jpg"
+    },
+    {
+      "serverDate": "2026-08-29",
+      "showName": "Linkin Park - Live in New York",
+      "description": "Filmed at the Madison Square Garden in New York, this concert film gives all fans a spectacular live experience from start to finish; Linkin Park performs hits including \"Numb,\" \"In the End,\" \"Bleed It Out\" and many more.",
+      "startDate": "2026-08-29T15:12:00",
+      "endDate": "2026-08-29T16:50:00",
+      "showTime": "15:12:00",
+      "endTime": "16:50:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f14dcaebbdc2226a28b6fa039c3c7e0.jpg"
+    },
+    {
+      "serverDate": "2026-08-29",
+      "showName": "The Black Keys: Live at Austin City Limits",
+      "description": "The Black Keys, an American rock duo, perform their top tracks at the Austin City Limits Music Festival.",
+      "startDate": "2026-08-29T16:50:00",
+      "endDate": "2026-08-29T17:17:00",
+      "showTime": "16:50:00",
+      "endTime": "17:17:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/40ea82eb8ef1660b966acc2b64a7819f.jpg"
+    },
+    {
+      "serverDate": "2026-08-29",
+      "showName": "Jack White - Live at iTunes Festival",
+      "description": "ITunes Festival, is an annual music festival that takes place over a month in London. Sponsored by Apple Inc., it had its first edition in 2007.",
+      "startDate": "2026-08-29T17:17:00",
+      "endDate": "2026-08-29T19:20:00",
+      "showTime": "17:17:00",
+      "endTime": "19:20:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/349d815f9cee119577f502a6eb255983.jpg"
+    },
+    {
+      "serverDate": "2026-08-29",
+      "showName": "Metallica - Orion Festival: Tour Through the Never",
+      "description": "Filmed at Orion Festival, Atlantic City, this concert film will give all fans a spectacular Live experience from start to finish. Classic Metallica featuring unforgettable version of their hits: 'One', 'Master Of Puppets', 'Sad But True' and more.",
+      "startDate": "2026-08-29T19:20:00",
+      "endDate": "2026-08-29T21:58:00",
+      "showTime": "19:20:00",
+      "endTime": "21:58:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58609e544159e4e15718e1a65e99bd78.jpg"
+    },
+    {
+      "serverDate": "2026-08-29",
+      "showName": "Billy Talent: Live at Festival Rock Am Ring",
+      "description": "The Canadian rock band Billy Talent performs as part of the annual Rock Am Ring festival at Nürburgring Race Track in western Germany.",
+      "startDate": "2026-08-29T21:58:00",
+      "endDate": "2026-08-29T23:30:00",
+      "showTime": "21:58:00",
+      "endTime": "23:30:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dfdc648c4ab2e5ab3618096193885d9e.jpg"
+    },
+    {
+      "serverDate": "2026-08-29",
+      "showName": "David Gilmour - Remember That Night",
+      "description": "David Gilmour - Remember That Night: Live at the Royal Albert Hall is recorded by guitarist David Gilmour where he presents live tracks from the album On an Island and some hits from his former band Pink Floyd.",
+      "startDate": "2026-08-29T23:30:00",
+      "endDate": "2026-08-29T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/21b025fd8ec636bff04a296d02c39487.jpg"
     }
   ]
 }
