@@ -273,14 +273,25 @@
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Samundar",
+      "description": "Raiszada kills a policeman and frames Rajeshwar Nath for his murder. He adopts the cop's son, Ajit, hoping that he will kill Rajeshwar Nath to avenge his father's death.",
       "startDate": "2026-08-24T01:01:00",
-      "endDate": "2026-08-24T06:00:00",
+      "endDate": "2026-08-24T03:18:00",
       "showTime": "01:01:00",
+      "endTime": "03:18:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/feff93e92fbe5404cd253a88d5f56f41.jpg"
+    },
+    {
+      "serverDate": "2026-08-24",
+      "showName": "Rakhwala",
+      "description": "Vikram, a good man, meets a young girl from the village who has come to the city to look for her father. However, she does not have his name or photograph, which makes the search difficult.",
+      "startDate": "2026-08-24T03:18:00",
+      "endDate": "2026-08-24T06:00:00",
+      "showTime": "03:18:00",
       "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/989cd30752fbc6d8bd80f7e3654993fa.jpg"
     },
     {
       "serverDate": "2026-08-24",

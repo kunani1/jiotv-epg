@@ -639,9 +639,9 @@
       "showName": "Khatron Ke Khiladi",
       "description": "12 contestants battle it out at a number of exotic locations as they perform several hair-raising stunts to win the competition.",
       "startDate": "2026-08-24T00:00:00",
-      "endDate": "2026-08-24T01:00:00",
+      "endDate": "2026-08-24T00:40:00",
       "showTime": "00:00:00",
-      "endTime": "01:00:00",
+      "endTime": "00:40:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0dd9a7cf0de62142de57e761fcfa4add.jpg"
     },
@@ -649,10 +649,10 @@
       "serverDate": "2026-08-24",
       "showName": "Khatron Ke Khiladi",
       "description": "12 contestants battle it out at a number of exotic locations as they perform several hair-raising stunts to win the competition.",
-      "startDate": "2026-08-24T01:00:00",
-      "endDate": "2026-08-24T02:30:00",
-      "showTime": "01:00:00",
-      "endTime": "02:30:00",
+      "startDate": "2026-08-24T00:40:00",
+      "endDate": "2026-08-24T01:50:00",
+      "showTime": "00:40:00",
+      "endTime": "01:50:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0dd9a7cf0de62142de57e761fcfa4add.jpg"
     },
@@ -660,10 +660,10 @@
       "serverDate": "2026-08-24",
       "showName": "Laughter Chefs Unlimited Entertainment",
       "description": "Celebrity duos tackle culinary challenges set by a renowned chef while engaging in communal activities to captivate viewers with their cooking skills and teamwork.",
-      "startDate": "2026-08-24T02:30:00",
-      "endDate": "2026-08-24T04:00:00",
-      "showTime": "02:30:00",
-      "endTime": "04:00:00",
+      "startDate": "2026-08-24T01:50:00",
+      "endDate": "2026-08-24T03:14:00",
+      "showTime": "01:50:00",
+      "endTime": "03:14:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5932a5fe4e2d04a209eea4dd9d4d8136.jpg"
     },
@@ -671,9 +671,20 @@
       "serverDate": "2026-08-24",
       "showName": "Laughter Chefs Unlimited Entertainment",
       "description": "Celebrity duos tackle culinary challenges set by a renowned chef while engaging in communal activities to captivate viewers with their cooking skills and teamwork.",
-      "startDate": "2026-08-24T04:00:00",
+      "startDate": "2026-08-24T03:14:00",
+      "endDate": "2026-08-24T04:41:00",
+      "showTime": "03:14:00",
+      "endTime": "04:41:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5932a5fe4e2d04a209eea4dd9d4d8136.jpg"
+    },
+    {
+      "serverDate": "2026-08-24",
+      "showName": "Laughter Chefs Unlimited Entertainment",
+      "description": "Celebrity duos tackle culinary challenges set by a renowned chef while engaging in communal activities to captivate viewers with their cooking skills and teamwork.",
+      "startDate": "2026-08-24T04:41:00",
       "endDate": "2026-08-24T05:30:00",
-      "showTime": "04:00:00",
+      "showTime": "04:41:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5932a5fe4e2d04a209eea4dd9d4d8136.jpg"
@@ -2194,7 +2205,7 @@
       "showTime": "06:30:00",
       "endTime": "08:15:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5932a5fe4e2d04a209eea4dd9d4d8136.jpg"
+      "thumbnailUrl": "http://rjio.tmsimg.com/assets/p27449172_b_h10_am.jpg"
     },
     {
       "serverDate": "2026-08-29",
@@ -2205,7 +2216,7 @@
       "showTime": "08:15:00",
       "endTime": "10:15:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5932a5fe4e2d04a209eea4dd9d4d8136.jpg"
+      "thumbnailUrl": "http://rjio.tmsimg.com/assets/p27449172_b_h10_am.jpg"
     },
     {
       "serverDate": "2026-08-29",
@@ -2216,7 +2227,7 @@
       "showTime": "10:15:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0dd9a7cf0de62142de57e761fcfa4add.jpg"
+      "thumbnailUrl": "http://rjio.tmsimg.com/assets/p760343_b_h8_am.jpg"
     },
     {
       "serverDate": "2026-08-29",
@@ -2227,7 +2238,7 @@
       "showTime": "12:00:00",
       "endTime": "13:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0dd9a7cf0de62142de57e761fcfa4add.jpg"
+      "thumbnailUrl": "http://rjio.tmsimg.com/assets/p760343_b_h8_am.jpg"
     },
     {
       "serverDate": "2026-08-29",
@@ -2315,7 +2326,7 @@
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0dd9a7cf0de62142de57e761fcfa4add.jpg"
+      "thumbnailUrl": "http://rjio.tmsimg.com/assets/p760343_b_h8_am.jpg"
     }
   ]
 }
