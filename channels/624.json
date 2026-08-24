@@ -482,44 +482,11 @@
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Prag Prime Time",
-      "description": "The host presents the latest news updates and significant developments in governance, social, economic, sports, and political affairs from around the world.",
+      "showName": "Prag Pre Prime",
+      "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
       "startDate": "2026-08-24T04:00:00",
-      "endDate": "2026-08-24T04:30:00",
-      "showTime": "04:00:00",
-      "endTime": "04:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8289590cd4ebafe566ef1f5a48f7041b.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Prag Pre Prime",
-      "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
-      "startDate": "2026-08-24T04:30:00",
-      "endDate": "2026-08-24T05:00:00",
-      "showTime": "04:30:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Prag Pre Prime",
-      "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
-      "startDate": "2026-08-24T05:00:00",
-      "endDate": "2026-08-24T05:30:00",
-      "showTime": "05:00:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Prag Pre Prime",
-      "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
-      "startDate": "2026-08-24T05:30:00",
       "endDate": "2026-08-24T06:00:00",
-      "showTime": "05:30:00",
+      "showTime": "04:00:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
@@ -529,8 +496,19 @@
       "showName": "Morning Live---dihanaam",
       "description": "The host presents the latest news updates pertaining to social, political and economic issues from around the world, live.",
       "startDate": "2026-08-24T06:00:00",
-      "endDate": "2026-08-24T07:00:00",
+      "endDate": "2026-08-24T06:30:00",
       "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f63c14105c70e6977e50edbfdaecbf78.jpg"
+    },
+    {
+      "serverDate": "2026-08-24",
+      "showName": "Morning Live---dihanaam",
+      "description": "The host presents the latest news updates pertaining to social, political and economic issues from around the world, live.",
+      "startDate": "2026-08-24T06:30:00",
+      "endDate": "2026-08-24T07:00:00",
+      "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f63c14105c70e6977e50edbfdaecbf78.jpg"
@@ -551,8 +529,30 @@
       "showName": "Puwar Batori",
       "description": "The host presents latest headlines, top stories, important developments pertaining to the current affairs of the state and the country.",
       "startDate": "2026-08-24T08:00:00",
-      "endDate": "2026-08-24T10:00:00",
+      "endDate": "2026-08-24T08:30:00",
       "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb86657c2e7745215bea71872a00ea73.jpg"
+    },
+    {
+      "serverDate": "2026-08-24",
+      "showName": "Puwar Batori",
+      "description": "The host presents latest headlines, top stories, important developments pertaining to the current affairs of the state and the country.",
+      "startDate": "2026-08-24T08:30:00",
+      "endDate": "2026-08-24T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb86657c2e7745215bea71872a00ea73.jpg"
+    },
+    {
+      "serverDate": "2026-08-24",
+      "showName": "Puwar Batori",
+      "description": "The host presents latest headlines, top stories, important developments pertaining to the current affairs of the state and the country.",
+      "startDate": "2026-08-24T09:00:00",
+      "endDate": "2026-08-24T10:00:00",
+      "showTime": "09:00:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb86657c2e7745215bea71872a00ea73.jpg"
@@ -570,22 +570,33 @@
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "News Focus",
-      "description": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs.",
+      "showName": "Puwar Batori",
+      "description": "The host presents latest headlines, top stories, important developments pertaining to the current affairs of the state and the country.",
       "startDate": "2026-08-24T10:30:00",
       "endDate": "2026-08-24T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ab25c4a5b1f4b7afbd912327641a422c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb86657c2e7745215bea71872a00ea73.jpg"
     },
     {
       "serverDate": "2026-08-24",
       "showName": "Mid Day Prime",
       "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
       "startDate": "2026-08-24T11:00:00",
-      "endDate": "2026-08-24T12:00:00",
+      "endDate": "2026-08-24T11:30:00",
       "showTime": "11:00:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
+    },
+    {
+      "serverDate": "2026-08-24",
+      "showName": "Mid Day Prime",
+      "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
+      "startDate": "2026-08-24T11:30:00",
+      "endDate": "2026-08-24T12:00:00",
+      "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
@@ -595,74 +606,85 @@
       "showName": "Mid Day Prime",
       "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
       "startDate": "2026-08-24T12:00:00",
-      "endDate": "2026-08-24T13:00:00",
+      "endDate": "2026-08-24T12:30:00",
       "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
+    },
+    {
+      "serverDate": "2026-08-24",
+      "showName": "Mid Day Prime",
+      "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
+      "startDate": "2026-08-24T12:30:00",
+      "endDate": "2026-08-24T13:00:00",
+      "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Mid Day Prime",
-      "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
+      "showName": "Soru Bhoni",
+      "description": "Bringing the best in cinema.",
       "startDate": "2026-08-24T13:00:00",
       "endDate": "2026-08-24T14:00:00",
       "showTime": "13:00:00",
       "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
+      "showCategory": "Short Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ef4d94d72e25ca9d870c1f747b541b08.jpg"
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Mid Day Prime",
-      "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
+      "showName": "Soru Bhoni",
+      "description": "Bringing the best in cinema.",
       "startDate": "2026-08-24T14:00:00",
-      "endDate": "2026-08-24T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Mid Day Prime",
-      "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
-      "startDate": "2026-08-24T14:30:00",
-      "endDate": "2026-08-24T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Samridhyo Samay",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-08-24T15:00:00",
       "endDate": "2026-08-24T15:30:00",
-      "showTime": "15:00:00",
+      "showTime": "14:00:00",
       "endTime": "15:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/965d9fd752d9d872bf8cc09846a4cc47.jpg"
+      "showCategory": "Short Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ef4d94d72e25ca9d870c1f747b541b08.jpg"
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Samridhyo Samay",
-      "description": "Bringing the best in television.",
+      "showName": "Prag Health",
+      "description": "Prag Health",
       "startDate": "2026-08-24T15:30:00",
       "endDate": "2026-08-24T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/965d9fd752d9d872bf8cc09846a4cc47.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85971d398bf14000fd661a626ef45e29.jpg"
     },
     {
       "serverDate": "2026-08-24",
       "showName": "Prag Pre Prime",
       "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
       "startDate": "2026-08-24T16:00:00",
-      "endDate": "2026-08-24T18:00:00",
+      "endDate": "2026-08-24T17:00:00",
       "showTime": "16:00:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
+    },
+    {
+      "serverDate": "2026-08-24",
+      "showName": "Prag Pre Prime",
+      "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
+      "startDate": "2026-08-24T17:00:00",
+      "endDate": "2026-08-24T17:30:00",
+      "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
+    },
+    {
+      "serverDate": "2026-08-24",
+      "showName": "Prag Pre Prime",
+      "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
+      "startDate": "2026-08-24T17:30:00",
+      "endDate": "2026-08-24T18:00:00",
+      "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
@@ -680,44 +702,33 @@
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Prime @ Nite",
-      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
+      "showName": "Xobixekh",
+      "description": "The host provides in-depth insights into current regional affairs, including governance, social, political, and economic issues in the state of Assam.",
       "startDate": "2026-08-24T19:54:00",
-      "endDate": "2026-08-24T21:00:00",
+      "endDate": "2026-08-24T20:30:00",
       "showTime": "19:54:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89ca7c17bad3c2f712d8766afb64fd9c.jpg"
+    },
+    {
+      "serverDate": "2026-08-24",
+      "showName": "Xobixekh",
+      "description": "The host provides in-depth insights into current regional affairs, including governance, social, political, and economic issues in the state of Assam.",
+      "startDate": "2026-08-24T20:30:00",
+      "endDate": "2026-08-24T21:00:00",
+      "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89ca7c17bad3c2f712d8766afb64fd9c.jpg"
     },
     {
       "serverDate": "2026-08-24",
       "showName": "Prime @ Nite",
       "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
       "startDate": "2026-08-24T21:00:00",
-      "endDate": "2026-08-24T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Prime @ Nite",
-      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
-      "startDate": "2026-08-24T21:30:00",
-      "endDate": "2026-08-24T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Prime @ Nite",
-      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
-      "startDate": "2026-08-24T22:00:00",
       "endDate": "2026-08-24T22:30:00",
-      "showTime": "22:00:00",
+      "showTime": "21:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
@@ -735,55 +746,55 @@
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "Prime @ Nite",
-      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
+      "showName": "Samridhyo Samay",
+      "description": "Bringing the best in television.",
       "startDate": "2026-08-24T23:00:00",
       "endDate": "2026-08-24T23:59:59",
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/965d9fd752d9d872bf8cc09846a4cc47.jpg"
     },
     {
       "serverDate": "2026-08-25",
-      "showName": "Prag Prime Time",
-      "description": "The host presents the latest news updates and significant developments in governance, social, economic, sports, and political affairs from around the world.",
+      "showName": "Prime At Nite",
+      "description": "The host presents the latest news updates and major developments, featuring prominent personalities who are making headlines in various fields.",
       "startDate": "2026-08-25T00:00:00",
-      "endDate": "2026-08-25T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8289590cd4ebafe566ef1f5a48f7041b.jpg"
-    },
-    {
-      "serverDate": "2026-08-25",
-      "showName": "Prag Prime Time",
-      "description": "The host presents the latest news updates and significant developments in governance, social, economic, sports, and political affairs from around the world.",
-      "startDate": "2026-08-25T00:30:00",
       "endDate": "2026-08-25T01:00:00",
-      "showTime": "00:30:00",
+      "showTime": "00:00:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8289590cd4ebafe566ef1f5a48f7041b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9a6f24d03fc54efdac07d3c8a9409ef.jpg"
     },
     {
       "serverDate": "2026-08-25",
-      "showName": "Prag Prime Time",
-      "description": "The host presents the latest news updates and significant developments in governance, social, economic, sports, and political affairs from around the world.",
+      "showName": "Prime @ Nite",
+      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
       "startDate": "2026-08-25T01:00:00",
       "endDate": "2026-08-25T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8289590cd4ebafe566ef1f5a48f7041b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
     },
     {
       "serverDate": "2026-08-25",
       "showName": "Prime At Nite",
       "description": "The host presents the latest news updates and major developments, featuring prominent personalities who are making headlines in various fields.",
       "startDate": "2026-08-25T01:30:00",
-      "endDate": "2026-08-25T02:30:00",
+      "endDate": "2026-08-25T02:00:00",
       "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9a6f24d03fc54efdac07d3c8a9409ef.jpg"
+    },
+    {
+      "serverDate": "2026-08-25",
+      "showName": "Prime At Nite",
+      "description": "The host presents the latest news updates and major developments, featuring prominent personalities who are making headlines in various fields.",
+      "startDate": "2026-08-25T02:00:00",
+      "endDate": "2026-08-25T02:30:00",
+      "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9a6f24d03fc54efdac07d3c8a9409ef.jpg"
@@ -870,8 +881,19 @@
       "showName": "Morning Live---dihanaam",
       "description": "The host presents the latest news updates pertaining to social, political and economic issues from around the world, live.",
       "startDate": "2026-08-25T06:00:00",
-      "endDate": "2026-08-25T07:00:00",
+      "endDate": "2026-08-25T06:30:00",
       "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f63c14105c70e6977e50edbfdaecbf78.jpg"
+    },
+    {
+      "serverDate": "2026-08-25",
+      "showName": "Morning Live---dihanaam",
+      "description": "The host presents the latest news updates pertaining to social, political and economic issues from around the world, live.",
+      "startDate": "2026-08-25T06:30:00",
+      "endDate": "2026-08-25T07:00:00",
+      "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f63c14105c70e6977e50edbfdaecbf78.jpg"
@@ -892,8 +914,30 @@
       "showName": "Puwar Batori",
       "description": "The host presents latest headlines, top stories, important developments pertaining to the current affairs of the state and the country.",
       "startDate": "2026-08-25T08:00:00",
-      "endDate": "2026-08-25T10:00:00",
+      "endDate": "2026-08-25T08:30:00",
       "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb86657c2e7745215bea71872a00ea73.jpg"
+    },
+    {
+      "serverDate": "2026-08-25",
+      "showName": "Puwar Batori",
+      "description": "The host presents latest headlines, top stories, important developments pertaining to the current affairs of the state and the country.",
+      "startDate": "2026-08-25T08:30:00",
+      "endDate": "2026-08-25T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb86657c2e7745215bea71872a00ea73.jpg"
+    },
+    {
+      "serverDate": "2026-08-25",
+      "showName": "Puwar Batori",
+      "description": "The host presents latest headlines, top stories, important developments pertaining to the current affairs of the state and the country.",
+      "startDate": "2026-08-25T09:00:00",
+      "endDate": "2026-08-25T10:00:00",
+      "showTime": "09:00:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb86657c2e7745215bea71872a00ea73.jpg"
@@ -911,22 +955,33 @@
     },
     {
       "serverDate": "2026-08-25",
-      "showName": "News Focus",
-      "description": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs.",
+      "showName": "Puwar Batori",
+      "description": "The host presents latest headlines, top stories, important developments pertaining to the current affairs of the state and the country.",
       "startDate": "2026-08-25T10:30:00",
       "endDate": "2026-08-25T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ab25c4a5b1f4b7afbd912327641a422c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb86657c2e7745215bea71872a00ea73.jpg"
     },
     {
       "serverDate": "2026-08-25",
       "showName": "Mid Day Prime",
       "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
       "startDate": "2026-08-25T11:00:00",
-      "endDate": "2026-08-25T12:00:00",
+      "endDate": "2026-08-25T11:30:00",
       "showTime": "11:00:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
+    },
+    {
+      "serverDate": "2026-08-25",
+      "showName": "Mid Day Prime",
+      "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
+      "startDate": "2026-08-25T11:30:00",
+      "endDate": "2026-08-25T12:00:00",
+      "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
@@ -936,74 +991,85 @@
       "showName": "Mid Day Prime",
       "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
       "startDate": "2026-08-25T12:00:00",
-      "endDate": "2026-08-25T13:00:00",
+      "endDate": "2026-08-25T12:30:00",
       "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
+    },
+    {
+      "serverDate": "2026-08-25",
+      "showName": "Mid Day Prime",
+      "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
+      "startDate": "2026-08-25T12:30:00",
+      "endDate": "2026-08-25T13:00:00",
+      "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
     },
     {
       "serverDate": "2026-08-25",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Chenaidhan",
+      "description": "Bringing the best in cinema.",
       "startDate": "2026-08-25T13:00:00",
       "endDate": "2026-08-25T14:00:00",
       "showTime": "13:00:00",
       "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-08-25",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Chenaidhan",
+      "description": "Bringing the best in cinema.",
       "startDate": "2026-08-25T14:00:00",
-      "endDate": "2026-08-25T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
-    },
-    {
-      "serverDate": "2026-08-25",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-08-25T14:30:00",
-      "endDate": "2026-08-25T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
-    },
-    {
-      "serverDate": "2026-08-25",
-      "showName": "Prime @ Nite",
-      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
-      "startDate": "2026-08-25T15:00:00",
       "endDate": "2026-08-25T15:30:00",
-      "showTime": "15:00:00",
+      "showTime": "14:00:00",
       "endTime": "15:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-08-25",
-      "showName": "Prime @ Nite",
-      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
+      "showName": "Mid Day Prime",
+      "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
       "startDate": "2026-08-25T15:30:00",
       "endDate": "2026-08-25T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
     },
     {
       "serverDate": "2026-08-25",
       "showName": "Prag Pre Prime",
       "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
       "startDate": "2026-08-25T16:00:00",
-      "endDate": "2026-08-25T18:00:00",
+      "endDate": "2026-08-25T17:00:00",
       "showTime": "16:00:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
+    },
+    {
+      "serverDate": "2026-08-25",
+      "showName": "Prag Pre Prime",
+      "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
+      "startDate": "2026-08-25T17:00:00",
+      "endDate": "2026-08-25T17:30:00",
+      "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
+    },
+    {
+      "serverDate": "2026-08-25",
+      "showName": "Prag Pre Prime",
+      "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
+      "startDate": "2026-08-25T17:30:00",
+      "endDate": "2026-08-25T18:00:00",
+      "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
@@ -1021,44 +1087,33 @@
     },
     {
       "serverDate": "2026-08-25",
-      "showName": "Mezmel",
-      "description": "The host conducts debates and discussions on ongoing current issues related to governance, social, economic, and political matters in the state of Assam.",
+      "showName": "Xobixekh",
+      "description": "The host provides in-depth insights into current regional affairs, including governance, social, political, and economic issues in the state of Assam.",
       "startDate": "2026-08-25T19:54:00",
-      "endDate": "2026-08-25T21:00:00",
+      "endDate": "2026-08-25T20:30:00",
       "showTime": "19:54:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89ca7c17bad3c2f712d8766afb64fd9c.jpg"
+    },
+    {
+      "serverDate": "2026-08-25",
+      "showName": "Xobixekh",
+      "description": "The host provides in-depth insights into current regional affairs, including governance, social, political, and economic issues in the state of Assam.",
+      "startDate": "2026-08-25T20:30:00",
+      "endDate": "2026-08-25T21:00:00",
+      "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/651e89a958b5cfb3e67d21979216e269.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89ca7c17bad3c2f712d8766afb64fd9c.jpg"
     },
     {
       "serverDate": "2026-08-25",
       "showName": "Prime @ Nite",
       "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
       "startDate": "2026-08-25T21:00:00",
-      "endDate": "2026-08-25T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
-    },
-    {
-      "serverDate": "2026-08-25",
-      "showName": "Prime @ Nite",
-      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
-      "startDate": "2026-08-25T21:30:00",
-      "endDate": "2026-08-25T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
-    },
-    {
-      "serverDate": "2026-08-25",
-      "showName": "Prime @ Nite",
-      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
-      "startDate": "2026-08-25T22:00:00",
       "endDate": "2026-08-25T22:30:00",
-      "showTime": "22:00:00",
+      "showTime": "21:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
@@ -1076,69 +1131,69 @@
     },
     {
       "serverDate": "2026-08-25",
-      "showName": "Mezmel",
-      "description": "The host conducts debates and discussions on ongoing current issues related to governance, social, economic, and political matters in the state of Assam.",
+      "showName": "Xobixekh",
+      "description": "The host provides in-depth insights into current regional affairs, including governance, social, political, and economic issues in the state of Assam.",
       "startDate": "2026-08-25T23:00:00",
       "endDate": "2026-08-25T23:59:59",
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/651e89a958b5cfb3e67d21979216e269.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89ca7c17bad3c2f712d8766afb64fd9c.jpg"
     },
     {
       "serverDate": "2026-08-26",
-      "showName": "Prag Prime Time",
-      "description": "The host presents the latest news updates and significant developments in governance, social, economic, sports, and political affairs from around the world.",
+      "showName": "Prime @ Nite",
+      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
       "startDate": "2026-08-26T00:00:00",
-      "endDate": "2026-08-26T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8289590cd4ebafe566ef1f5a48f7041b.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Prag Prime Time",
-      "description": "The host presents the latest news updates and significant developments in governance, social, economic, sports, and political affairs from around the world.",
-      "startDate": "2026-08-26T00:30:00",
       "endDate": "2026-08-26T01:00:00",
-      "showTime": "00:30:00",
+      "showTime": "00:00:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8289590cd4ebafe566ef1f5a48f7041b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
     },
     {
       "serverDate": "2026-08-26",
-      "showName": "Prag Prime Time",
-      "description": "The host presents the latest news updates and significant developments in governance, social, economic, sports, and political affairs from around the world.",
+      "showName": "Prime At Nite",
+      "description": "The host presents the latest news updates and major developments, featuring prominent personalities who are making headlines in various fields.",
       "startDate": "2026-08-26T01:00:00",
       "endDate": "2026-08-26T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8289590cd4ebafe566ef1f5a48f7041b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9a6f24d03fc54efdac07d3c8a9409ef.jpg"
     },
     {
       "serverDate": "2026-08-26",
       "showName": "Prime At Nite",
       "description": "The host presents the latest news updates and major developments, featuring prominent personalities who are making headlines in various fields.",
       "startDate": "2026-08-26T01:30:00",
-      "endDate": "2026-08-26T02:30:00",
+      "endDate": "2026-08-26T02:00:00",
       "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9a6f24d03fc54efdac07d3c8a9409ef.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Prime At Nite",
+      "description": "The host presents the latest news updates and major developments, featuring prominent personalities who are making headlines in various fields.",
+      "startDate": "2026-08-26T02:00:00",
+      "endDate": "2026-08-26T02:30:00",
+      "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9a6f24d03fc54efdac07d3c8a9409ef.jpg"
     },
     {
       "serverDate": "2026-08-26",
-      "showName": "Prag Pre Prime",
-      "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
+      "showName": "Prime At Nite",
+      "description": "The host presents the latest news updates and major developments, featuring prominent personalities who are making headlines in various fields.",
       "startDate": "2026-08-26T02:30:00",
       "endDate": "2026-08-26T03:00:00",
       "showTime": "02:30:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9a6f24d03fc54efdac07d3c8a9409ef.jpg"
     },
     {
       "serverDate": "2026-08-26",
@@ -1186,14 +1241,14 @@
     },
     {
       "serverDate": "2026-08-26",
-      "showName": "Prag Pre Prime",
-      "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
+      "showName": "Prag Prime Time",
+      "description": "The host presents the latest news updates and significant developments in governance, social, economic, sports, and political affairs from around the world.",
       "startDate": "2026-08-26T05:00:00",
       "endDate": "2026-08-26T05:30:00",
       "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8289590cd4ebafe566ef1f5a48f7041b.jpg"
     },
     {
       "serverDate": "2026-08-26",
@@ -1211,8 +1266,19 @@
       "showName": "Morning Live---dihanaam",
       "description": "The host presents the latest news updates pertaining to social, political and economic issues from around the world, live.",
       "startDate": "2026-08-26T06:00:00",
-      "endDate": "2026-08-26T07:00:00",
+      "endDate": "2026-08-26T06:30:00",
       "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f63c14105c70e6977e50edbfdaecbf78.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Morning Live---dihanaam",
+      "description": "The host presents the latest news updates pertaining to social, political and economic issues from around the world, live.",
+      "startDate": "2026-08-26T06:30:00",
+      "endDate": "2026-08-26T07:00:00",
+      "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f63c14105c70e6977e50edbfdaecbf78.jpg"
@@ -1233,8 +1299,30 @@
       "showName": "Puwar Batori",
       "description": "The host presents latest headlines, top stories, important developments pertaining to the current affairs of the state and the country.",
       "startDate": "2026-08-26T08:00:00",
-      "endDate": "2026-08-26T10:00:00",
+      "endDate": "2026-08-26T08:30:00",
       "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb86657c2e7745215bea71872a00ea73.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Puwar Batori",
+      "description": "The host presents latest headlines, top stories, important developments pertaining to the current affairs of the state and the country.",
+      "startDate": "2026-08-26T08:30:00",
+      "endDate": "2026-08-26T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb86657c2e7745215bea71872a00ea73.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Puwar Batori",
+      "description": "The host presents latest headlines, top stories, important developments pertaining to the current affairs of the state and the country.",
+      "startDate": "2026-08-26T09:00:00",
+      "endDate": "2026-08-26T10:00:00",
+      "showTime": "09:00:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb86657c2e7745215bea71872a00ea73.jpg"
@@ -1252,22 +1340,33 @@
     },
     {
       "serverDate": "2026-08-26",
-      "showName": "News Focus",
-      "description": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs.",
+      "showName": "Puwar Batori",
+      "description": "The host presents latest headlines, top stories, important developments pertaining to the current affairs of the state and the country.",
       "startDate": "2026-08-26T10:30:00",
       "endDate": "2026-08-26T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ab25c4a5b1f4b7afbd912327641a422c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb86657c2e7745215bea71872a00ea73.jpg"
     },
     {
       "serverDate": "2026-08-26",
       "showName": "Mid Day Prime",
       "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
       "startDate": "2026-08-26T11:00:00",
-      "endDate": "2026-08-26T12:00:00",
+      "endDate": "2026-08-26T11:30:00",
       "showTime": "11:00:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Mid Day Prime",
+      "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
+      "startDate": "2026-08-26T11:30:00",
+      "endDate": "2026-08-26T12:00:00",
+      "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
@@ -1277,74 +1376,85 @@
       "showName": "Mid Day Prime",
       "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
       "startDate": "2026-08-26T12:00:00",
-      "endDate": "2026-08-26T13:00:00",
+      "endDate": "2026-08-26T12:30:00",
       "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Mid Day Prime",
+      "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
+      "startDate": "2026-08-26T12:30:00",
+      "endDate": "2026-08-26T13:00:00",
+      "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
     },
     {
       "serverDate": "2026-08-26",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Guti Fulor Gamusa",
+      "description": "Guti Fulor Gamusa",
       "startDate": "2026-08-26T13:00:00",
       "endDate": "2026-08-26T14:00:00",
       "showTime": "13:00:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/385f50502cee6570ecf9913995f4f791.jpg"
     },
     {
       "serverDate": "2026-08-26",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Guti Fulor Gamusa",
+      "description": "Guti Fulor Gamusa",
       "startDate": "2026-08-26T14:00:00",
-      "endDate": "2026-08-26T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-08-26T14:30:00",
-      "endDate": "2026-08-26T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Mezmel",
-      "description": "The host conducts debates and discussions on ongoing current issues related to governance, social, economic, and political matters in the state of Assam.",
-      "startDate": "2026-08-26T15:00:00",
       "endDate": "2026-08-26T15:30:00",
-      "showTime": "15:00:00",
+      "showTime": "14:00:00",
       "endTime": "15:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/651e89a958b5cfb3e67d21979216e269.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/385f50502cee6570ecf9913995f4f791.jpg"
     },
     {
       "serverDate": "2026-08-26",
-      "showName": "Mezmel",
-      "description": "The host conducts debates and discussions on ongoing current issues related to governance, social, economic, and political matters in the state of Assam.",
+      "showName": "Mid Day Prime",
+      "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
       "startDate": "2026-08-26T15:30:00",
       "endDate": "2026-08-26T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/651e89a958b5cfb3e67d21979216e269.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
     },
     {
       "serverDate": "2026-08-26",
       "showName": "Prag Pre Prime",
       "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
       "startDate": "2026-08-26T16:00:00",
-      "endDate": "2026-08-26T18:00:00",
+      "endDate": "2026-08-26T17:00:00",
       "showTime": "16:00:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Prag Pre Prime",
+      "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
+      "startDate": "2026-08-26T17:00:00",
+      "endDate": "2026-08-26T17:30:00",
+      "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Prag Pre Prime",
+      "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
+      "startDate": "2026-08-26T17:30:00",
+      "endDate": "2026-08-26T18:00:00",
+      "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
@@ -1362,44 +1472,33 @@
     },
     {
       "serverDate": "2026-08-26",
-      "showName": "Xarangxo",
-      "description": "The host presents the latest news updates and significant developments in governance, social, economic, sports, and political affairs from the state of Assam.",
+      "showName": "Ground Zero",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-08-26T19:54:00",
-      "endDate": "2026-08-26T21:00:00",
+      "endDate": "2026-08-26T20:30:00",
       "showTime": "19:54:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e102647206151d486392a8103a2346d0.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "Ground Zero",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-08-26T20:30:00",
+      "endDate": "2026-08-26T21:00:00",
+      "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd4ddc10ccb4d1c5e6c45fbd43df07e5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e102647206151d486392a8103a2346d0.jpg"
     },
     {
       "serverDate": "2026-08-26",
       "showName": "Prime @ Nite",
       "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
       "startDate": "2026-08-26T21:00:00",
-      "endDate": "2026-08-26T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Prime @ Nite",
-      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
-      "startDate": "2026-08-26T21:30:00",
-      "endDate": "2026-08-26T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Prime @ Nite",
-      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
-      "startDate": "2026-08-26T22:00:00",
       "endDate": "2026-08-26T22:30:00",
-      "showTime": "22:00:00",
+      "showTime": "21:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
@@ -1417,55 +1516,55 @@
     },
     {
       "serverDate": "2026-08-26",
-      "showName": "Xarangxo",
-      "description": "The host presents the latest news updates and significant developments in governance, social, economic, sports, and political affairs from the state of Assam.",
+      "showName": "Ground Zero",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-08-26T23:00:00",
       "endDate": "2026-08-26T23:59:59",
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd4ddc10ccb4d1c5e6c45fbd43df07e5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e102647206151d486392a8103a2346d0.jpg"
     },
     {
       "serverDate": "2026-08-27",
-      "showName": "Prag Prime Time",
-      "description": "The host presents the latest news updates and significant developments in governance, social, economic, sports, and political affairs from around the world.",
+      "showName": "Prime @ Nite",
+      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
       "startDate": "2026-08-27T00:00:00",
-      "endDate": "2026-08-27T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8289590cd4ebafe566ef1f5a48f7041b.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Prag Prime Time",
-      "description": "The host presents the latest news updates and significant developments in governance, social, economic, sports, and political affairs from around the world.",
-      "startDate": "2026-08-27T00:30:00",
       "endDate": "2026-08-27T01:00:00",
-      "showTime": "00:30:00",
+      "showTime": "00:00:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8289590cd4ebafe566ef1f5a48f7041b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
     },
     {
       "serverDate": "2026-08-27",
-      "showName": "Prag Prime Time",
-      "description": "The host presents the latest news updates and significant developments in governance, social, economic, sports, and political affairs from around the world.",
+      "showName": "Prime At Nite",
+      "description": "The host presents the latest news updates and major developments, featuring prominent personalities who are making headlines in various fields.",
       "startDate": "2026-08-27T01:00:00",
       "endDate": "2026-08-27T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8289590cd4ebafe566ef1f5a48f7041b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9a6f24d03fc54efdac07d3c8a9409ef.jpg"
     },
     {
       "serverDate": "2026-08-27",
       "showName": "Prime At Nite",
       "description": "The host presents the latest news updates and major developments, featuring prominent personalities who are making headlines in various fields.",
       "startDate": "2026-08-27T01:30:00",
-      "endDate": "2026-08-27T02:30:00",
+      "endDate": "2026-08-27T02:00:00",
       "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9a6f24d03fc54efdac07d3c8a9409ef.jpg"
+    },
+    {
+      "serverDate": "2026-08-27",
+      "showName": "Prime At Nite",
+      "description": "The host presents the latest news updates and major developments, featuring prominent personalities who are making headlines in various fields.",
+      "startDate": "2026-08-27T02:00:00",
+      "endDate": "2026-08-27T02:30:00",
+      "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9a6f24d03fc54efdac07d3c8a9409ef.jpg"
@@ -1552,8 +1651,19 @@
       "showName": "Morning Live---dihanaam",
       "description": "The host presents the latest news updates pertaining to social, political and economic issues from around the world, live.",
       "startDate": "2026-08-27T06:00:00",
-      "endDate": "2026-08-27T07:00:00",
+      "endDate": "2026-08-27T06:30:00",
       "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f63c14105c70e6977e50edbfdaecbf78.jpg"
+    },
+    {
+      "serverDate": "2026-08-27",
+      "showName": "Morning Live---dihanaam",
+      "description": "The host presents the latest news updates pertaining to social, political and economic issues from around the world, live.",
+      "startDate": "2026-08-27T06:30:00",
+      "endDate": "2026-08-27T07:00:00",
+      "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f63c14105c70e6977e50edbfdaecbf78.jpg"
@@ -1574,8 +1684,30 @@
       "showName": "Puwar Batori",
       "description": "The host presents latest headlines, top stories, important developments pertaining to the current affairs of the state and the country.",
       "startDate": "2026-08-27T08:00:00",
-      "endDate": "2026-08-27T10:00:00",
+      "endDate": "2026-08-27T08:30:00",
       "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb86657c2e7745215bea71872a00ea73.jpg"
+    },
+    {
+      "serverDate": "2026-08-27",
+      "showName": "Puwar Batori",
+      "description": "The host presents latest headlines, top stories, important developments pertaining to the current affairs of the state and the country.",
+      "startDate": "2026-08-27T08:30:00",
+      "endDate": "2026-08-27T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb86657c2e7745215bea71872a00ea73.jpg"
+    },
+    {
+      "serverDate": "2026-08-27",
+      "showName": "Puwar Batori",
+      "description": "The host presents latest headlines, top stories, important developments pertaining to the current affairs of the state and the country.",
+      "startDate": "2026-08-27T09:00:00",
+      "endDate": "2026-08-27T10:00:00",
+      "showTime": "09:00:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb86657c2e7745215bea71872a00ea73.jpg"
@@ -1593,22 +1725,33 @@
     },
     {
       "serverDate": "2026-08-27",
-      "showName": "News Focus",
-      "description": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs.",
+      "showName": "Puwar Batori",
+      "description": "The host presents latest headlines, top stories, important developments pertaining to the current affairs of the state and the country.",
       "startDate": "2026-08-27T10:30:00",
       "endDate": "2026-08-27T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ab25c4a5b1f4b7afbd912327641a422c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb86657c2e7745215bea71872a00ea73.jpg"
     },
     {
       "serverDate": "2026-08-27",
       "showName": "Mid Day Prime",
       "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
       "startDate": "2026-08-27T11:00:00",
-      "endDate": "2026-08-27T12:00:00",
+      "endDate": "2026-08-27T11:30:00",
       "showTime": "11:00:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
+    },
+    {
+      "serverDate": "2026-08-27",
+      "showName": "Mid Day Prime",
+      "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
+      "startDate": "2026-08-27T11:30:00",
+      "endDate": "2026-08-27T12:00:00",
+      "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
@@ -1618,74 +1761,85 @@
       "showName": "Mid Day Prime",
       "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
       "startDate": "2026-08-27T12:00:00",
-      "endDate": "2026-08-27T13:00:00",
+      "endDate": "2026-08-27T12:30:00",
       "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
+    },
+    {
+      "serverDate": "2026-08-27",
+      "showName": "Mid Day Prime",
+      "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
+      "startDate": "2026-08-27T12:30:00",
+      "endDate": "2026-08-27T13:00:00",
+      "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
     },
     {
       "serverDate": "2026-08-27",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Hariali Mon",
+      "description": "Brining the best in cinema.",
       "startDate": "2026-08-27T13:00:00",
       "endDate": "2026-08-27T14:00:00",
       "showTime": "13:00:00",
       "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c3045f6ab3a9c4868c4f0929a16ee809.jpg"
     },
     {
       "serverDate": "2026-08-27",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Hariali Mon",
+      "description": "Brining the best in cinema.",
       "startDate": "2026-08-27T14:00:00",
-      "endDate": "2026-08-27T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-08-27T14:30:00",
-      "endDate": "2026-08-27T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Xarangxo",
-      "description": "The host presents the latest news updates and significant developments in governance, social, economic, sports, and political affairs from the state of Assam.",
-      "startDate": "2026-08-27T15:00:00",
       "endDate": "2026-08-27T15:30:00",
-      "showTime": "15:00:00",
+      "showTime": "14:00:00",
       "endTime": "15:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd4ddc10ccb4d1c5e6c45fbd43df07e5.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c3045f6ab3a9c4868c4f0929a16ee809.jpg"
     },
     {
       "serverDate": "2026-08-27",
-      "showName": "Xarangxo",
-      "description": "The host presents the latest news updates and significant developments in governance, social, economic, sports, and political affairs from the state of Assam.",
+      "showName": "Prag Health",
+      "description": "Prag Health",
       "startDate": "2026-08-27T15:30:00",
       "endDate": "2026-08-27T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd4ddc10ccb4d1c5e6c45fbd43df07e5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85971d398bf14000fd661a626ef45e29.jpg"
     },
     {
       "serverDate": "2026-08-27",
       "showName": "Prag Pre Prime",
       "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
       "startDate": "2026-08-27T16:00:00",
-      "endDate": "2026-08-27T18:00:00",
+      "endDate": "2026-08-27T17:00:00",
       "showTime": "16:00:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
+    },
+    {
+      "serverDate": "2026-08-27",
+      "showName": "Prag Pre Prime",
+      "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
+      "startDate": "2026-08-27T17:00:00",
+      "endDate": "2026-08-27T17:30:00",
+      "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
+    },
+    {
+      "serverDate": "2026-08-27",
+      "showName": "Prag Pre Prime",
+      "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
+      "startDate": "2026-08-27T17:30:00",
+      "endDate": "2026-08-27T18:00:00",
+      "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
@@ -1703,44 +1857,33 @@
     },
     {
       "serverDate": "2026-08-27",
-      "showName": "Mezmel",
-      "description": "The host conducts debates and discussions on ongoing current issues related to governance, social, economic, and political matters in the state of Assam.",
+      "showName": "Xobixekh",
+      "description": "The host provides in-depth insights into current regional affairs, including governance, social, political, and economic issues in the state of Assam.",
       "startDate": "2026-08-27T19:54:00",
-      "endDate": "2026-08-27T21:00:00",
+      "endDate": "2026-08-27T20:30:00",
       "showTime": "19:54:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89ca7c17bad3c2f712d8766afb64fd9c.jpg"
+    },
+    {
+      "serverDate": "2026-08-27",
+      "showName": "Xobixekh",
+      "description": "The host provides in-depth insights into current regional affairs, including governance, social, political, and economic issues in the state of Assam.",
+      "startDate": "2026-08-27T20:30:00",
+      "endDate": "2026-08-27T21:00:00",
+      "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/651e89a958b5cfb3e67d21979216e269.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89ca7c17bad3c2f712d8766afb64fd9c.jpg"
     },
     {
       "serverDate": "2026-08-27",
       "showName": "Prime @ Nite",
       "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
       "startDate": "2026-08-27T21:00:00",
-      "endDate": "2026-08-27T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Prime @ Nite",
-      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
-      "startDate": "2026-08-27T21:30:00",
-      "endDate": "2026-08-27T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Prime @ Nite",
-      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
-      "startDate": "2026-08-27T22:00:00",
       "endDate": "2026-08-27T22:30:00",
-      "showTime": "22:00:00",
+      "showTime": "21:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
@@ -1769,44 +1912,44 @@
     },
     {
       "serverDate": "2026-08-28",
-      "showName": "Prag Prime Time",
-      "description": "The host presents the latest news updates and significant developments in governance, social, economic, sports, and political affairs from around the world.",
+      "showName": "Prime @ Nite",
+      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
       "startDate": "2026-08-28T00:00:00",
-      "endDate": "2026-08-28T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8289590cd4ebafe566ef1f5a48f7041b.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Prag Prime Time",
-      "description": "The host presents the latest news updates and significant developments in governance, social, economic, sports, and political affairs from around the world.",
-      "startDate": "2026-08-28T00:30:00",
       "endDate": "2026-08-28T01:00:00",
-      "showTime": "00:30:00",
+      "showTime": "00:00:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8289590cd4ebafe566ef1f5a48f7041b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
     },
     {
       "serverDate": "2026-08-28",
-      "showName": "Prag Prime Time",
-      "description": "The host presents the latest news updates and significant developments in governance, social, economic, sports, and political affairs from around the world.",
+      "showName": "Prime @ Nite",
+      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
       "startDate": "2026-08-28T01:00:00",
       "endDate": "2026-08-28T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8289590cd4ebafe566ef1f5a48f7041b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
     },
     {
       "serverDate": "2026-08-28",
       "showName": "Prime At Nite",
       "description": "The host presents the latest news updates and major developments, featuring prominent personalities who are making headlines in various fields.",
       "startDate": "2026-08-28T01:30:00",
-      "endDate": "2026-08-28T02:30:00",
+      "endDate": "2026-08-28T02:00:00",
       "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9a6f24d03fc54efdac07d3c8a9409ef.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Prime At Nite",
+      "description": "The host presents the latest news updates and major developments, featuring prominent personalities who are making headlines in various fields.",
+      "startDate": "2026-08-28T02:00:00",
+      "endDate": "2026-08-28T02:30:00",
+      "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9a6f24d03fc54efdac07d3c8a9409ef.jpg"
@@ -1893,8 +2036,19 @@
       "showName": "Morning Live---dihanaam",
       "description": "The host presents the latest news updates pertaining to social, political and economic issues from around the world, live.",
       "startDate": "2026-08-28T06:00:00",
-      "endDate": "2026-08-28T07:00:00",
+      "endDate": "2026-08-28T06:30:00",
       "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f63c14105c70e6977e50edbfdaecbf78.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Morning Live---dihanaam",
+      "description": "The host presents the latest news updates pertaining to social, political and economic issues from around the world, live.",
+      "startDate": "2026-08-28T06:30:00",
+      "endDate": "2026-08-28T07:00:00",
+      "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f63c14105c70e6977e50edbfdaecbf78.jpg"
@@ -1915,8 +2069,30 @@
       "showName": "Puwar Batori",
       "description": "The host presents latest headlines, top stories, important developments pertaining to the current affairs of the state and the country.",
       "startDate": "2026-08-28T08:00:00",
-      "endDate": "2026-08-28T10:00:00",
+      "endDate": "2026-08-28T08:30:00",
       "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb86657c2e7745215bea71872a00ea73.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Puwar Batori",
+      "description": "The host presents latest headlines, top stories, important developments pertaining to the current affairs of the state and the country.",
+      "startDate": "2026-08-28T08:30:00",
+      "endDate": "2026-08-28T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb86657c2e7745215bea71872a00ea73.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Puwar Batori",
+      "description": "The host presents latest headlines, top stories, important developments pertaining to the current affairs of the state and the country.",
+      "startDate": "2026-08-28T09:00:00",
+      "endDate": "2026-08-28T10:00:00",
+      "showTime": "09:00:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb86657c2e7745215bea71872a00ea73.jpg"
@@ -1934,22 +2110,33 @@
     },
     {
       "serverDate": "2026-08-28",
-      "showName": "News Focus",
-      "description": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs.",
+      "showName": "Puwar Batori",
+      "description": "The host presents latest headlines, top stories, important developments pertaining to the current affairs of the state and the country.",
       "startDate": "2026-08-28T10:30:00",
       "endDate": "2026-08-28T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ab25c4a5b1f4b7afbd912327641a422c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb86657c2e7745215bea71872a00ea73.jpg"
     },
     {
       "serverDate": "2026-08-28",
       "showName": "Mid Day Prime",
       "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
       "startDate": "2026-08-28T11:00:00",
-      "endDate": "2026-08-28T12:00:00",
+      "endDate": "2026-08-28T11:30:00",
       "showTime": "11:00:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Mid Day Prime",
+      "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
+      "startDate": "2026-08-28T11:30:00",
+      "endDate": "2026-08-28T12:00:00",
+      "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
@@ -1959,74 +2146,85 @@
       "showName": "Mid Day Prime",
       "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
       "startDate": "2026-08-28T12:00:00",
-      "endDate": "2026-08-28T13:00:00",
+      "endDate": "2026-08-28T12:30:00",
       "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Mid Day Prime",
+      "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
+      "startDate": "2026-08-28T12:30:00",
+      "endDate": "2026-08-28T13:00:00",
+      "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
     },
     {
       "serverDate": "2026-08-28",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Jaal",
+      "description": "Bringing the best in cinema.",
       "startDate": "2026-08-28T13:00:00",
       "endDate": "2026-08-28T14:00:00",
       "showTime": "13:00:00",
       "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dfde92ded6827eb93571ac96ef1c566c.jpg"
     },
     {
       "serverDate": "2026-08-28",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Jaal",
+      "description": "Bringing the best in cinema.",
       "startDate": "2026-08-28T14:00:00",
-      "endDate": "2026-08-28T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-08-28T14:30:00",
-      "endDate": "2026-08-28T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Mezmel",
-      "description": "The host conducts debates and discussions on ongoing current issues related to governance, social, economic, and political matters in the state of Assam.",
-      "startDate": "2026-08-28T15:00:00",
       "endDate": "2026-08-28T15:30:00",
-      "showTime": "15:00:00",
+      "showTime": "14:00:00",
       "endTime": "15:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/651e89a958b5cfb3e67d21979216e269.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dfde92ded6827eb93571ac96ef1c566c.jpg"
     },
     {
       "serverDate": "2026-08-28",
-      "showName": "Mezmel",
-      "description": "The host conducts debates and discussions on ongoing current issues related to governance, social, economic, and political matters in the state of Assam.",
+      "showName": "Prag Health",
+      "description": "Prag Health",
       "startDate": "2026-08-28T15:30:00",
       "endDate": "2026-08-28T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/651e89a958b5cfb3e67d21979216e269.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85971d398bf14000fd661a626ef45e29.jpg"
     },
     {
       "serverDate": "2026-08-28",
       "showName": "Prag Pre Prime",
       "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
       "startDate": "2026-08-28T16:00:00",
-      "endDate": "2026-08-28T18:00:00",
+      "endDate": "2026-08-28T17:00:00",
       "showTime": "16:00:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Prag Pre Prime",
+      "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
+      "startDate": "2026-08-28T17:00:00",
+      "endDate": "2026-08-28T17:30:00",
+      "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Prag Pre Prime",
+      "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
+      "startDate": "2026-08-28T17:30:00",
+      "endDate": "2026-08-28T18:00:00",
+      "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
@@ -2047,8 +2245,19 @@
       "showName": "Vision Prag",
       "description": "The host sheds light on some of the most horrific crime cases committed in the country, the modus operandi used by criminals as well as the investigations carried out by the police.",
       "startDate": "2026-08-28T19:54:00",
-      "endDate": "2026-08-28T21:00:00",
+      "endDate": "2026-08-28T20:30:00",
       "showTime": "19:54:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/13dd82b37cef4cedc27ed95da9cb7d20.jpg"
+    },
+    {
+      "serverDate": "2026-08-28",
+      "showName": "Vision Prag",
+      "description": "The host sheds light on some of the most horrific crime cases committed in the country, the modus operandi used by criminals as well as the investigations carried out by the police.",
+      "startDate": "2026-08-28T20:30:00",
+      "endDate": "2026-08-28T21:00:00",
+      "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/13dd82b37cef4cedc27ed95da9cb7d20.jpg"
@@ -2058,30 +2267,8 @@
       "showName": "Prime @ Nite",
       "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
       "startDate": "2026-08-28T21:00:00",
-      "endDate": "2026-08-28T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Prime @ Nite",
-      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
-      "startDate": "2026-08-28T21:30:00",
-      "endDate": "2026-08-28T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Prime @ Nite",
-      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
-      "startDate": "2026-08-28T22:00:00",
       "endDate": "2026-08-28T22:30:00",
-      "showTime": "22:00:00",
+      "showTime": "21:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
@@ -2110,58 +2297,58 @@
     },
     {
       "serverDate": "2026-08-29",
-      "showName": "Prag Prime Time",
-      "description": "The host presents the latest news updates and significant developments in governance, social, economic, sports, and political affairs from around the world.",
+      "showName": "Prime At Nite",
+      "description": "The host presents the latest news updates and major developments, featuring prominent personalities who are making headlines in various fields.",
       "startDate": "2026-08-29T00:00:00",
-      "endDate": "2026-08-29T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8289590cd4ebafe566ef1f5a48f7041b.jpg"
-    },
-    {
-      "serverDate": "2026-08-29",
-      "showName": "Prag Prime Time",
-      "description": "The host presents the latest news updates and significant developments in governance, social, economic, sports, and political affairs from around the world.",
-      "startDate": "2026-08-29T00:30:00",
       "endDate": "2026-08-29T01:00:00",
-      "showTime": "00:30:00",
+      "showTime": "00:00:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8289590cd4ebafe566ef1f5a48f7041b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9a6f24d03fc54efdac07d3c8a9409ef.jpg"
     },
     {
       "serverDate": "2026-08-29",
-      "showName": "Prag Prime Time",
-      "description": "The host presents the latest news updates and significant developments in governance, social, economic, sports, and political affairs from around the world.",
+      "showName": "Prime At Nite",
+      "description": "The host presents the latest news updates and major developments, featuring prominent personalities who are making headlines in various fields.",
       "startDate": "2026-08-29T01:00:00",
       "endDate": "2026-08-29T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8289590cd4ebafe566ef1f5a48f7041b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9a6f24d03fc54efdac07d3c8a9409ef.jpg"
     },
     {
       "serverDate": "2026-08-29",
       "showName": "Prime At Nite",
       "description": "The host presents the latest news updates and major developments, featuring prominent personalities who are making headlines in various fields.",
       "startDate": "2026-08-29T01:30:00",
-      "endDate": "2026-08-29T02:30:00",
+      "endDate": "2026-08-29T02:00:00",
       "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9a6f24d03fc54efdac07d3c8a9409ef.jpg"
+    },
+    {
+      "serverDate": "2026-08-29",
+      "showName": "Prime At Nite",
+      "description": "The host presents the latest news updates and major developments, featuring prominent personalities who are making headlines in various fields.",
+      "startDate": "2026-08-29T02:00:00",
+      "endDate": "2026-08-29T02:30:00",
+      "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9a6f24d03fc54efdac07d3c8a9409ef.jpg"
     },
     {
       "serverDate": "2026-08-29",
-      "showName": "Prag Pre Prime",
-      "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
+      "showName": "Prime At Nite",
+      "description": "The host presents the latest news updates and major developments, featuring prominent personalities who are making headlines in various fields.",
       "startDate": "2026-08-29T02:30:00",
       "endDate": "2026-08-29T03:00:00",
       "showTime": "02:30:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9a6f24d03fc54efdac07d3c8a9409ef.jpg"
     },
     {
       "serverDate": "2026-08-29",
@@ -2234,8 +2421,19 @@
       "showName": "Morning Live---dihanaam",
       "description": "The host presents the latest news updates pertaining to social, political and economic issues from around the world, live.",
       "startDate": "2026-08-29T06:00:00",
-      "endDate": "2026-08-29T07:00:00",
+      "endDate": "2026-08-29T06:30:00",
       "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f63c14105c70e6977e50edbfdaecbf78.jpg"
+    },
+    {
+      "serverDate": "2026-08-29",
+      "showName": "Morning Live---dihanaam",
+      "description": "The host presents the latest news updates pertaining to social, political and economic issues from around the world, live.",
+      "startDate": "2026-08-29T06:30:00",
+      "endDate": "2026-08-29T07:00:00",
+      "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f63c14105c70e6977e50edbfdaecbf78.jpg"
@@ -2256,8 +2454,30 @@
       "showName": "Puwar Batori",
       "description": "The host presents latest headlines, top stories, important developments pertaining to the current affairs of the state and the country.",
       "startDate": "2026-08-29T08:00:00",
-      "endDate": "2026-08-29T10:00:00",
+      "endDate": "2026-08-29T08:30:00",
       "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb86657c2e7745215bea71872a00ea73.jpg"
+    },
+    {
+      "serverDate": "2026-08-29",
+      "showName": "Puwar Batori",
+      "description": "The host presents latest headlines, top stories, important developments pertaining to the current affairs of the state and the country.",
+      "startDate": "2026-08-29T08:30:00",
+      "endDate": "2026-08-29T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb86657c2e7745215bea71872a00ea73.jpg"
+    },
+    {
+      "serverDate": "2026-08-29",
+      "showName": "Puwar Batori",
+      "description": "The host presents latest headlines, top stories, important developments pertaining to the current affairs of the state and the country.",
+      "startDate": "2026-08-29T09:00:00",
+      "endDate": "2026-08-29T10:00:00",
+      "showTime": "09:00:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb86657c2e7745215bea71872a00ea73.jpg"
@@ -2289,85 +2509,107 @@
       "showName": "Mid Day Prime",
       "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
       "startDate": "2026-08-29T11:00:00",
-      "endDate": "2026-08-29T12:00:00",
+      "endDate": "2026-08-29T11:30:00",
       "showTime": "11:00:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
+    },
+    {
+      "serverDate": "2026-08-29",
+      "showName": "Mid Day Prime",
+      "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
+      "startDate": "2026-08-29T11:30:00",
+      "endDate": "2026-08-29T12:00:00",
+      "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
     },
     {
       "serverDate": "2026-08-29",
-      "showName": "Vision Prag",
-      "description": "The host sheds light on some of the most horrific crime cases committed in the country, the modus operandi used by criminals as well as the investigations carried out by the police.",
+      "showName": "Mid Day Prime",
+      "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
       "startDate": "2026-08-29T12:00:00",
-      "endDate": "2026-08-29T13:00:00",
+      "endDate": "2026-08-29T12:30:00",
       "showTime": "12:00:00",
-      "endTime": "13:00:00",
+      "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/13dd82b37cef4cedc27ed95da9cb7d20.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
     },
     {
       "serverDate": "2026-08-29",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Mid Day Prime",
+      "description": "The host presents in detail the latest updates and top stories pertaining to the social, economical and political issues of the day.",
+      "startDate": "2026-08-29T12:30:00",
+      "endDate": "2026-08-29T13:00:00",
+      "showTime": "12:30:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8811df239a28565a3d5b5bc0f6be2c0.jpg"
+    },
+    {
+      "serverDate": "2026-08-29",
+      "showName": "Jaanmoni",
+      "description": "Bringing the best in cinema.",
       "startDate": "2026-08-29T13:00:00",
       "endDate": "2026-08-29T14:00:00",
       "showTime": "13:00:00",
       "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/604d71e802491f015f0ca5b4f85757db.jpg"
     },
     {
       "serverDate": "2026-08-29",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Jaanmoni",
+      "description": "Bringing the best in cinema.",
       "startDate": "2026-08-29T14:00:00",
-      "endDate": "2026-08-29T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
-    },
-    {
-      "serverDate": "2026-08-29",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-08-29T14:30:00",
-      "endDate": "2026-08-29T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
-    },
-    {
-      "serverDate": "2026-08-29",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-08-29T15:00:00",
       "endDate": "2026-08-29T15:30:00",
-      "showTime": "15:00:00",
+      "showTime": "14:00:00",
       "endTime": "15:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/604d71e802491f015f0ca5b4f85757db.jpg"
     },
     {
       "serverDate": "2026-08-29",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Jaanmoni",
+      "description": "Bringing the best in cinema.",
       "startDate": "2026-08-29T15:30:00",
       "endDate": "2026-08-29T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/604d71e802491f015f0ca5b4f85757db.jpg"
     },
     {
       "serverDate": "2026-08-29",
       "showName": "Prag Pre Prime",
       "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
       "startDate": "2026-08-29T16:00:00",
-      "endDate": "2026-08-29T18:00:00",
+      "endDate": "2026-08-29T17:00:00",
       "showTime": "16:00:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
+    },
+    {
+      "serverDate": "2026-08-29",
+      "showName": "Prag Pre Prime",
+      "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
+      "startDate": "2026-08-29T17:00:00",
+      "endDate": "2026-08-29T17:30:00",
+      "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
+    },
+    {
+      "serverDate": "2026-08-29",
+      "showName": "Prag Pre Prime",
+      "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
+      "startDate": "2026-08-29T17:30:00",
+      "endDate": "2026-08-29T18:00:00",
+      "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
@@ -2385,44 +2627,33 @@
     },
     {
       "serverDate": "2026-08-29",
-      "showName": "Samridhyo Samay",
-      "description": "Bringing the best in television.",
+      "showName": "Raag: The Melody",
+      "description": "Raag: The Melody",
       "startDate": "2026-08-29T19:54:00",
-      "endDate": "2026-08-29T21:00:00",
+      "endDate": "2026-08-29T20:30:00",
       "showTime": "19:54:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4e98e0e7cfa0652aad8d22d5234f13d9.jpg"
+    },
+    {
+      "serverDate": "2026-08-29",
+      "showName": "Raag: The Melody",
+      "description": "Raag: The Melody",
+      "startDate": "2026-08-29T20:30:00",
+      "endDate": "2026-08-29T21:00:00",
+      "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/965d9fd752d9d872bf8cc09846a4cc47.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4e98e0e7cfa0652aad8d22d5234f13d9.jpg"
     },
     {
       "serverDate": "2026-08-29",
       "showName": "Prime @ Nite",
       "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
       "startDate": "2026-08-29T21:00:00",
-      "endDate": "2026-08-29T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
-    },
-    {
-      "serverDate": "2026-08-29",
-      "showName": "Prime @ Nite",
-      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
-      "startDate": "2026-08-29T21:30:00",
-      "endDate": "2026-08-29T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
-    },
-    {
-      "serverDate": "2026-08-29",
-      "showName": "Prime @ Nite",
-      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
-      "startDate": "2026-08-29T22:00:00",
       "endDate": "2026-08-29T22:30:00",
-      "showTime": "22:00:00",
+      "showTime": "21:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
@@ -2440,69 +2671,69 @@
     },
     {
       "serverDate": "2026-08-29",
-      "showName": "Samridhyo Samay",
-      "description": "Bringing the best in television.",
+      "showName": "Raag: The Melody",
+      "description": "Raag: The Melody",
       "startDate": "2026-08-29T23:00:00",
       "endDate": "2026-08-29T23:59:59",
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/965d9fd752d9d872bf8cc09846a4cc47.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4e98e0e7cfa0652aad8d22d5234f13d9.jpg"
     },
     {
       "serverDate": "2026-08-30",
-      "showName": "Prag Prime Time",
-      "description": "The host presents the latest news updates and significant developments in governance, social, economic, sports, and political affairs from around the world.",
+      "showName": "Prime @ Nite",
+      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
       "startDate": "2026-08-30T00:00:00",
-      "endDate": "2026-08-30T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8289590cd4ebafe566ef1f5a48f7041b.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Prag Prime Time",
-      "description": "The host presents the latest news updates and significant developments in governance, social, economic, sports, and political affairs from around the world.",
-      "startDate": "2026-08-30T00:30:00",
       "endDate": "2026-08-30T01:00:00",
-      "showTime": "00:30:00",
+      "showTime": "00:00:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8289590cd4ebafe566ef1f5a48f7041b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
     },
     {
       "serverDate": "2026-08-30",
-      "showName": "Prag Prime Time",
-      "description": "The host presents the latest news updates and significant developments in governance, social, economic, sports, and political affairs from around the world.",
+      "showName": "Prime @ Nite",
+      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
       "startDate": "2026-08-30T01:00:00",
       "endDate": "2026-08-30T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8289590cd4ebafe566ef1f5a48f7041b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
     },
     {
       "serverDate": "2026-08-30",
-      "showName": "Prime At Nite",
-      "description": "The host presents the latest news updates and major developments, featuring prominent personalities who are making headlines in various fields.",
+      "showName": "Prime @ Nite",
+      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
       "startDate": "2026-08-30T01:30:00",
-      "endDate": "2026-08-30T02:30:00",
+      "endDate": "2026-08-30T02:00:00",
       "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
+    },
+    {
+      "serverDate": "2026-08-30",
+      "showName": "Prime @ Nite",
+      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
+      "startDate": "2026-08-30T02:00:00",
+      "endDate": "2026-08-30T02:30:00",
+      "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9a6f24d03fc54efdac07d3c8a9409ef.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
     },
     {
       "serverDate": "2026-08-30",
-      "showName": "Prag Pre Prime",
-      "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
+      "showName": "Prime @ Nite",
+      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
       "startDate": "2026-08-30T02:30:00",
       "endDate": "2026-08-30T03:00:00",
       "showTime": "02:30:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
     },
     {
       "serverDate": "2026-08-30",
@@ -2550,14 +2781,14 @@
     },
     {
       "serverDate": "2026-08-30",
-      "showName": "Prag Pre Prime",
-      "description": "The host presents in detail latest updates, top stories pertaining to social, political and economic issues around the globe.",
+      "showName": "Prag Prime Time",
+      "description": "The host presents the latest news updates and significant developments in governance, social, economic, sports, and political affairs from around the world.",
       "startDate": "2026-08-30T05:00:00",
       "endDate": "2026-08-30T05:30:00",
       "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97082ab4cf56780d1bb375c4fb0cdcc0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8289590cd4ebafe566ef1f5a48f7041b.jpg"
     },
     {
       "serverDate": "2026-08-30",
@@ -2649,14 +2880,14 @@
     },
     {
       "serverDate": "2026-08-30",
-      "showName": "News Focus",
-      "description": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs.",
+      "showName": "Puwar Batori",
+      "description": "The host presents latest headlines, top stories, important developments pertaining to the current affairs of the state and the country.",
       "startDate": "2026-08-30T10:30:00",
       "endDate": "2026-08-30T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ab25c4a5b1f4b7afbd912327641a422c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb86657c2e7745215bea71872a00ea73.jpg"
     },
     {
       "serverDate": "2026-08-30",
@@ -2704,36 +2935,36 @@
     },
     {
       "serverDate": "2026-08-30",
-      "showName": "Toradoi",
-      "description": "Bringing the best in television.",
+      "showName": "The Slam Book",
+      "description": "A quiet schoolboy gifts a slam book to his senior crush, sparking a heartfelt connection that lingers even as distance and time pull their lives in different directions.",
       "startDate": "2026-08-30T13:00:00",
       "endDate": "2026-08-30T14:00:00",
       "showTime": "13:00:00",
       "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/39fb52850af112d0d9c87046c57a8e56.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b1bff261439fb81610548c29d549e3b8.jpg"
     },
     {
       "serverDate": "2026-08-30",
-      "showName": "Toradoi",
-      "description": "Bringing the best in television.",
+      "showName": "The Slam Book",
+      "description": "A quiet schoolboy gifts a slam book to his senior crush, sparking a heartfelt connection that lingers even as distance and time pull their lives in different directions.",
       "startDate": "2026-08-30T14:00:00",
-      "endDate": "2026-08-30T14:30:00",
+      "endDate": "2026-08-30T15:30:00",
       "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/39fb52850af112d0d9c87046c57a8e56.jpg"
+      "endTime": "15:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b1bff261439fb81610548c29d549e3b8.jpg"
     },
     {
       "serverDate": "2026-08-30",
-      "showName": "Afternoon Express",
-      "description": "A lifestyle show that gives women an opportunity to interact and engage daily.",
-      "startDate": "2026-08-30T14:30:00",
+      "showName": "Prag Health",
+      "description": "Prag Health",
+      "startDate": "2026-08-30T15:30:00",
       "endDate": "2026-08-30T16:00:00",
-      "showTime": "14:30:00",
+      "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f5ec7e89a2ebda46d4a72ee320ca6ba3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85971d398bf14000fd661a626ef45e29.jpg"
     },
     {
       "serverDate": "2026-08-30",
@@ -2781,58 +3012,58 @@
     },
     {
       "serverDate": "2026-08-30",
-      "showName": "Prime @ Nite",
-      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
+      "showName": "Raag: The Melody",
+      "description": "Raag: The Melody",
       "startDate": "2026-08-30T19:54:00",
-      "endDate": "2026-08-30T21:00:00",
+      "endDate": "2026-08-30T20:30:00",
       "showTime": "19:54:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4e98e0e7cfa0652aad8d22d5234f13d9.jpg"
+    },
+    {
+      "serverDate": "2026-08-30",
+      "showName": "Raag: The Melody",
+      "description": "Raag: The Melody",
+      "startDate": "2026-08-30T20:30:00",
+      "endDate": "2026-08-30T21:00:00",
+      "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4e98e0e7cfa0652aad8d22d5234f13d9.jpg"
     },
     {
       "serverDate": "2026-08-30",
       "showName": "Prime @ Nite",
       "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
       "startDate": "2026-08-30T21:00:00",
-      "endDate": "2026-08-30T22:00:00",
-      "showTime": "21:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Prime @ Nite",
-      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
-      "startDate": "2026-08-30T22:00:00",
       "endDate": "2026-08-30T22:30:00",
-      "showTime": "22:00:00",
+      "showTime": "21:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
     },
     {
       "serverDate": "2026-08-30",
-      "showName": "Prime @ Nite",
-      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
+      "showName": "Raag: The Melody",
+      "description": "Raag: The Melody",
       "startDate": "2026-08-30T22:30:00",
       "endDate": "2026-08-30T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4e98e0e7cfa0652aad8d22d5234f13d9.jpg"
     },
     {
       "serverDate": "2026-08-30",
-      "showName": "Prime @ Nite",
-      "description": "The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues.",
+      "showName": "Raag: The Melody",
+      "description": "Raag: The Melody",
       "startDate": "2026-08-30T23:00:00",
       "endDate": "2026-08-30T23:59:59",
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c90c10a74ca84b02d45d3632449c83b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4e98e0e7cfa0652aad8d22d5234f13d9.jpg"
     }
   ]
 }

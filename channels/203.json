@@ -636,14 +636,14 @@
     },
     {
       "serverDate": "2026-08-24",
-      "showName": "De Code",
-      "description": "De Code",
+      "showName": "Decode",
+      "description": "Presents the latest news stories about political, economic, social, and cultural issues, along with analysis.",
       "startDate": "2026-08-24T21:00:00",
       "endDate": "2026-08-24T22:00:00",
       "showTime": "21:00:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6449b4f8e853028c4868356d6bb94cbd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/410c90408641816a7cfc9dd01121f859.jpg"
     },
     {
       "serverDate": "2026-08-24",
@@ -746,14 +746,14 @@
     },
     {
       "serverDate": "2026-08-25",
-      "showName": "Sanskrit Vaarta",
-      "description": "Presents the latest news updates on politics and the economy in Sanskrit.",
+      "showName": "Sanskrit Vaarta Samachar",
+      "description": "Bridges the ancient language and modern reportage to deliver current events and cultural insights in Sanskrit.",
       "startDate": "2026-08-25T06:30:00",
       "endDate": "2026-08-25T06:45:00",
       "showTime": "06:30:00",
       "endTime": "06:45:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/44566dd7de4d4eb3625d108892c224de.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c64886a900d14f3b8017f3a2ddc80844.jpg"
     },
     {
       "serverDate": "2026-08-25",
@@ -845,14 +845,14 @@
     },
     {
       "serverDate": "2026-08-25",
-      "showName": "11 Baje Ka Live",
-      "description": "11 Baje Ka Live",
+      "showName": "11 Baje",
+      "description": "11 Baje",
       "startDate": "2026-08-25T11:00:00",
       "endDate": "2026-08-25T12:00:00",
       "showTime": "11:00:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/47a8382b9cd69bd025048114693b54f8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ec80385fa033ff46d5ef79a625ef65ca.jpg"
     },
     {
       "serverDate": "2026-08-25",
@@ -969,33 +969,44 @@
       "showName": "Khabar Duniya Ki",
       "description": "Explores the latest events, developments, inventions and discoveries from around the world.",
       "startDate": "2026-08-25T18:30:00",
-      "endDate": "2026-08-25T19:30:00",
+      "endDate": "2026-08-25T19:00:00",
       "showTime": "18:30:00",
-      "endTime": "19:30:00",
+      "endTime": "19:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b2146a5c7645003fc3cd2e0e4e6a6953.jpg"
     },
     {
       "serverDate": "2026-08-25",
-      "showName": "Spl. Prog. On Poora Sach",
-      "description": "Spl. Prog. On Poora Sach",
+      "showName": "Creators Corner",
+      "description": "Presents unique, informative, and inventive creations, exploring subjects such as health, culture, travel, technology, and art.",
+      "startDate": "2026-08-25T19:00:00",
+      "endDate": "2026-08-25T19:30:00",
+      "showTime": "19:00:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/63215cb0bb54d49cc11bfd59cdb00bdf.jpg"
+    },
+    {
+      "serverDate": "2026-08-25",
+      "showName": "Pura Sach",
+      "description": "Delivers comprehensive reports and expert analysis on the latest news and developments across the region.",
       "startDate": "2026-08-25T19:30:00",
       "endDate": "2026-08-25T20:00:00",
       "showTime": "19:30:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8455a4c6228be3cc1c4271621e2d082c.jpg"
     },
     {
       "serverDate": "2026-08-25",
-      "showName": "News Night in Hindi",
-      "description": "Delivers latest updates and current affairs about commerce, athletics, governance and social matters globally.",
+      "showName": "News Night",
+      "description": "Offers detailed insights into significant global and domestic events, analysing major developments and their wider impact.",
       "startDate": "2026-08-25T20:00:00",
       "endDate": "2026-08-25T21:00:00",
       "showTime": "20:00:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e18e373d09cd4caa9ff45263bd874fa4.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/801b83a5748b3ca5991bc682b48feb3f.jpg"
     },
     {
       "serverDate": "2026-08-25",
@@ -1032,58 +1043,58 @@
     },
     {
       "serverDate": "2026-08-26",
-      "showName": "Samachar",
-      "description": "Presents the latest economic, social and political updates at length, from across India and the world for the viewers.",
+      "showName": "Decode",
+      "description": "Presents the latest news stories about political, economic, social, and cultural issues, along with analysis.",
       "startDate": "2026-08-26T00:00:00",
       "endDate": "2026-08-26T01:00:00",
       "showTime": "00:00:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd2b12ff8a4c58833327e7904adb4459.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/410c90408641816a7cfc9dd01121f859.jpg"
     },
     {
       "serverDate": "2026-08-26",
-      "showName": "Do Took",
-      "description": "Important figures come together to share their opinions about political and social topics from India.",
+      "showName": "News Night",
+      "description": "Offers detailed insights into significant global and domestic events, analysing major developments and their wider impact.",
       "startDate": "2026-08-26T01:00:00",
       "endDate": "2026-08-26T02:00:00",
       "showTime": "01:00:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/132c3245c571db6129c97b1329e03225.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Samachar",
-      "description": "Presents the latest economic, social and political updates at length, from across India and the world for the viewers.",
-      "startDate": "2026-08-26T02:00:00",
-      "endDate": "2026-08-26T03:00:00",
-      "showTime": "02:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd2b12ff8a4c58833327e7904adb4459.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/801b83a5748b3ca5991bc682b48feb3f.jpg"
     },
     {
       "serverDate": "2026-08-26",
       "showName": "Do Took",
       "description": "Important figures come together to share their opinions about political and social topics from India.",
-      "startDate": "2026-08-26T03:00:00",
-      "endDate": "2026-08-26T04:00:00",
-      "showTime": "03:00:00",
-      "endTime": "04:00:00",
+      "startDate": "2026-08-26T02:00:00",
+      "endDate": "2026-08-26T03:00:00",
+      "showTime": "02:00:00",
+      "endTime": "03:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/132c3245c571db6129c97b1329e03225.jpg"
     },
     {
       "serverDate": "2026-08-26",
-      "showName": "Samachar",
-      "description": "Presents the latest economic, social and political updates at length, from across India and the world for the viewers.",
+      "showName": "Decode",
+      "description": "Presents the latest news stories about political, economic, social, and cultural issues, along with analysis.",
+      "startDate": "2026-08-26T03:00:00",
+      "endDate": "2026-08-26T04:00:00",
+      "showTime": "03:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/410c90408641816a7cfc9dd01121f859.jpg"
+    },
+    {
+      "serverDate": "2026-08-26",
+      "showName": "News Night",
+      "description": "Offers detailed insights into significant global and domestic events, analysing major developments and their wider impact.",
       "startDate": "2026-08-26T04:00:00",
       "endDate": "2026-08-26T05:00:00",
       "showTime": "04:00:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd2b12ff8a4c58833327e7904adb4459.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/801b83a5748b3ca5991bc682b48feb3f.jpg"
     },
     {
       "serverDate": "2026-08-26",
