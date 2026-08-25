@@ -8,105 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png",
   "programs": [
     {
-      "serverDate": "2026-08-23",
-      "showName": "Karmegam",
-      "description": "A military officer returns home to find his village stuck in the past, under the thumb of an abusive landlord. He urges them to revolt against their oppressor and learns a dark secret about his past.",
-      "startDate": "2026-08-23T00:00:00",
-      "endDate": "2026-08-23T01:30:00",
-      "showTime": "00:00:00",
-      "endTime": "01:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a317b3e4647d7921d9c6b1aab2a18659.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Oru Kaidhiyin Diary",
-      "description": "David, a politically active person, is married to Rosy. However, when his political idol, mistreats his wife, he vows to take revenge.",
-      "startDate": "2026-08-23T01:30:00",
-      "endDate": "2026-08-23T04:00:00",
-      "showTime": "01:30:00",
-      "endTime": "04:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3b67cc07cd6a8be7e14f144914e11a60.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Narathan",
-      "description": "Vishnu is on his way to Chennai from Coimbatore to join a new company and meet his fiancée. However, his plan is jeopardised upon meeting Pavithra on a train, who is stuck in a problem.",
-      "startDate": "2026-08-23T04:00:00",
-      "endDate": "2026-08-23T07:00:00",
-      "showTime": "04:00:00",
-      "endTime": "07:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fee38e6a4cc60639443306fea22562cb.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Thavamai Thavamirunthu",
-      "description": "Saradha and Muthaiah, a village-based couple, face financial difficulties while raising their two sons, Ramanathan and Ramalingam. Problems escalate when Ramalingam gets his girlfriend pregnant.",
-      "startDate": "2026-08-23T07:00:00",
-      "endDate": "2026-08-23T10:00:00",
-      "showTime": "07:00:00",
-      "endTime": "10:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2737bed455180bfa97e22bf86bbb6ec8.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Bheeshmar",
-      "description": "Framed and jailed, honest cop Bheeshmar considers revenge after his wife dies, but ultimately decides to start anew with his child instead of seeking payback.",
-      "startDate": "2026-08-23T10:00:00",
-      "endDate": "2026-08-23T13:00:00",
-      "showTime": "10:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/854dd4aec173ad648fcf1c2924fb216f.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Thalaimagan",
-      "description": "Dheeran, an aggressive journalist, is dedicated to his work and faces many challenges while trying to expose a bottled water company that is causing harm to people.",
-      "startDate": "2026-08-23T13:00:00",
-      "endDate": "2026-08-23T16:00:00",
-      "showTime": "13:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56901de540dd43c7ed38f23d7a65cca3.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Mariyaan",
-      "description": "Mariyaan Joseph, a fisherman, is forced to take up employment in Sudan after his girlfriend faces financial issues. However, he finds himself in danger after crossing paths with some extremists.",
-      "startDate": "2026-08-23T16:00:00",
-      "endDate": "2026-08-23T19:00:00",
-      "showTime": "16:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b7957e11e9824c2fdae9486c3320e9e.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Bhooloham",
-      "description": "Boologam and Arumugam are two famous boxers whose families are arch-rivals. Taking this into consideration, Deepak, a businessman, hatches a plan to use their rivalry to his advantage.",
-      "startDate": "2026-08-23T19:00:00",
-      "endDate": "2026-08-23T22:30:00",
-      "showTime": "19:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/470633ce5db97cfc97a3a742c51d629f.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Bheeshmar",
-      "description": "Framed and jailed, honest cop Bheeshmar considers revenge after his wife dies, but ultimately decides to start anew with his child instead of seeking payback.",
-      "startDate": "2026-08-23T22:30:00",
-      "endDate": "2026-08-23T23:59:59",
-      "showTime": "22:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/854dd4aec173ad648fcf1c2924fb216f.jpg"
-    },
-    {
       "serverDate": "2026-08-24",
       "showName": "Bheeshmar",
       "description": "Framed and jailed, honest cop Bheeshmar considers revenge after his wife dies, but ultimately decides to start anew with his child instead of seeking payback.",
@@ -798,6 +699,105 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/93572679edc798a9dfc03de3c403be6e.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Yeidhavan",
+      "description": "When Krishna's sister is killed during a college protest, he vows to avenge her. However, he ends up helping the medical students to gain their rights.",
+      "startDate": "2026-08-31T00:00:00",
+      "endDate": "2026-08-31T01:30:00",
+      "showTime": "00:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/93572679edc798a9dfc03de3c403be6e.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Kaaval",
+      "description": "Anbu saves the life of his gangster friend, Karuna, from a police officer. However, a sudden turn of events leaves him running for survival when both the police and Karuna turn against him.",
+      "startDate": "2026-08-31T01:30:00",
+      "endDate": "2026-08-31T03:00:00",
+      "showTime": "01:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/864e6e2de5b699e60afaf8a4e9999507.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-08-31T03:00:00",
+      "endDate": "2026-08-31T06:00:00",
+      "showTime": "03:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-08-31T06:00:00",
+      "endDate": "2026-08-31T09:00:00",
+      "showTime": "06:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-08-31T09:00:00",
+      "endDate": "2026-08-31T12:00:00",
+      "showTime": "09:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-08-31T12:00:00",
+      "endDate": "2026-08-31T15:00:00",
+      "showTime": "12:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-08-31T15:00:00",
+      "endDate": "2026-08-31T18:00:00",
+      "showTime": "15:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-08-31T18:00:00",
+      "endDate": "2026-08-31T21:00:00",
+      "showTime": "18:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-08-31T21:00:00",
+      "endDate": "2026-08-31T23:59:59",
+      "showTime": "21:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
     }
   ]
 }

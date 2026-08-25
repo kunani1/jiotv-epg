@@ -8,534 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/KnockTV.png",
   "programs": [
     {
-      "serverDate": "2026-08-23",
-      "showName": "Dilse Music",
-      "description": "The host invites prominent artists from the music industry to learn about their life journeys, achievements and memorable experiences.",
-      "startDate": "2026-08-23T00:00:00",
-      "endDate": "2026-08-23T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7ca149c4459f0d8b4eb765c8ea8dd76e.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Reel Jaleel Show",
-      "description": "Reel Jaleel Show",
-      "startDate": "2026-08-23T00:30:00",
-      "endDate": "2026-08-23T01:00:00",
-      "showTime": "00:30:00",
-      "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee164eb7d166a9ed0adfa1700b0264db.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Crime Kahaniyaan",
-      "description": "Crime Kahaniyaan",
-      "startDate": "2026-08-23T01:00:00",
-      "endDate": "2026-08-23T01:30:00",
-      "showTime": "01:00:00",
-      "endTime": "01:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/76b79f97a3fad636c974fc30e06d5db4.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Dilse Music",
-      "description": "The host invites prominent artists from the music industry to learn about their life journeys, achievements and memorable experiences.",
-      "startDate": "2026-08-23T01:30:00",
-      "endDate": "2026-08-23T02:00:00",
-      "showTime": "01:30:00",
-      "endTime": "02:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7ca149c4459f0d8b4eb765c8ea8dd76e.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Gurudwara",
-      "description": "Gurudwara",
-      "startDate": "2026-08-23T02:00:00",
-      "endDate": "2026-08-23T02:30:00",
-      "showTime": "02:00:00",
-      "endTime": "02:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18c861e74c37f48d5283fcf6ede37c17.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Gurudwara",
-      "description": "Gurudwara",
-      "startDate": "2026-08-23T02:30:00",
-      "endDate": "2026-08-23T03:00:00",
-      "showTime": "02:30:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18c861e74c37f48d5283fcf6ede37c17.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Gurudwara",
-      "description": "Gurudwara",
-      "startDate": "2026-08-23T03:00:00",
-      "endDate": "2026-08-23T03:30:00",
-      "showTime": "03:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18c861e74c37f48d5283fcf6ede37c17.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Gurudwara",
-      "description": "Gurudwara",
-      "startDate": "2026-08-23T03:30:00",
-      "endDate": "2026-08-23T04:00:00",
-      "showTime": "03:30:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18c861e74c37f48d5283fcf6ede37c17.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "The Health Talk",
-      "description": "The Health Talk",
-      "startDate": "2026-08-23T04:00:00",
-      "endDate": "2026-08-23T04:30:00",
-      "showTime": "04:00:00",
-      "endTime": "04:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4bd77672efcb6cbc8b7bc5816d714ed0.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Political Podcast",
-      "description": "Political Podcast",
-      "startDate": "2026-08-23T04:30:00",
-      "endDate": "2026-08-23T05:00:00",
-      "showTime": "04:30:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2708d5c3b74dae18c6063abcfa5fd85f.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Bollywood Akhbaar",
-      "description": "Bollywood Akhbaar",
-      "startDate": "2026-08-23T05:00:00",
-      "endDate": "2026-08-23T05:30:00",
-      "showTime": "05:00:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7fe7e9231046fc6a4e8827f798eda629.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Reel Jaleel Show",
-      "description": "Reel Jaleel Show",
-      "startDate": "2026-08-23T05:30:00",
-      "endDate": "2026-08-23T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee164eb7d166a9ed0adfa1700b0264db.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Pollywood Akhbaar",
-      "description": "Pollywood Akhbaar",
-      "startDate": "2026-08-23T06:00:00",
-      "endDate": "2026-08-23T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/34c21eea501d82057f25d5eed59d46ae.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Bhorcast",
-      "description": "Bhorcast",
-      "startDate": "2026-08-23T06:30:00",
-      "endDate": "2026-08-23T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/70adaf19c6306528d8c196acab6b404a.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Punjabi Chaa Gaye Oye",
-      "description": "Punjabi Chaa Gaye Oye",
-      "startDate": "2026-08-23T07:00:00",
-      "endDate": "2026-08-23T07:30:00",
-      "showTime": "07:00:00",
-      "endTime": "07:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f1de925d1b4e5bfc309aa8b28b31796.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Crime Kahaniyaan",
-      "description": "Crime Kahaniyaan",
-      "startDate": "2026-08-23T07:30:00",
-      "endDate": "2026-08-23T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/76b79f97a3fad636c974fc30e06d5db4.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Bollywood Akhbaar",
-      "description": "Bollywood Akhbaar",
-      "startDate": "2026-08-23T08:00:00",
-      "endDate": "2026-08-23T08:30:00",
-      "showTime": "08:00:00",
-      "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7fe7e9231046fc6a4e8827f798eda629.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Political Podcast",
-      "description": "Political Podcast",
-      "startDate": "2026-08-23T08:30:00",
-      "endDate": "2026-08-23T09:00:00",
-      "showTime": "08:30:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2708d5c3b74dae18c6063abcfa5fd85f.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Pollywood Akhbaar",
-      "description": "Pollywood Akhbaar",
-      "startDate": "2026-08-23T09:00:00",
-      "endDate": "2026-08-23T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/34c21eea501d82057f25d5eed59d46ae.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Bhorcast",
-      "description": "Bhorcast",
-      "startDate": "2026-08-23T09:30:00",
-      "endDate": "2026-08-23T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/70adaf19c6306528d8c196acab6b404a.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Crime Kahaniyaan",
-      "description": "Crime Kahaniyaan",
-      "startDate": "2026-08-23T10:00:00",
-      "endDate": "2026-08-23T10:30:00",
-      "showTime": "10:00:00",
-      "endTime": "10:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/76b79f97a3fad636c974fc30e06d5db4.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Punjabi Chaa Gaye Oye",
-      "description": "Punjabi Chaa Gaye Oye",
-      "startDate": "2026-08-23T10:30:00",
-      "endDate": "2026-08-23T11:00:00",
-      "showTime": "10:30:00",
-      "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f1de925d1b4e5bfc309aa8b28b31796.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Reel Jaleel Show",
-      "description": "Reel Jaleel Show",
-      "startDate": "2026-08-23T11:00:00",
-      "endDate": "2026-08-23T11:30:00",
-      "showTime": "11:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee164eb7d166a9ed0adfa1700b0264db.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Music Marathon",
-      "description": "Music Marathon",
-      "startDate": "2026-08-23T11:30:00",
-      "endDate": "2026-08-23T12:00:00",
-      "showTime": "11:30:00",
-      "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2c809e06fb57e6e7accaf5e61193987.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Music Marathon",
-      "description": "Music Marathon",
-      "startDate": "2026-08-23T12:00:00",
-      "endDate": "2026-08-23T12:30:00",
-      "showTime": "12:00:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2c809e06fb57e6e7accaf5e61193987.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Music Marathon",
-      "description": "Music Marathon",
-      "startDate": "2026-08-23T12:30:00",
-      "endDate": "2026-08-23T13:00:00",
-      "showTime": "12:30:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2c809e06fb57e6e7accaf5e61193987.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Khabar Punjab Di",
-      "description": "The host sheds light on some of the most significant social, economic and political news stories and updates from the state of Punjab.",
-      "startDate": "2026-08-23T13:00:00",
-      "endDate": "2026-08-23T13:30:00",
-      "showTime": "13:00:00",
-      "endTime": "13:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/73473ac0c2c8df2ae3a5e9d49ff80191.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "The Health Talk",
-      "description": "The Health Talk",
-      "startDate": "2026-08-23T13:30:00",
-      "endDate": "2026-08-23T14:00:00",
-      "showTime": "13:30:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4bd77672efcb6cbc8b7bc5816d714ed0.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Gurudwara",
-      "description": "Gurudwara",
-      "startDate": "2026-08-23T14:00:00",
-      "endDate": "2026-08-23T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18c861e74c37f48d5283fcf6ede37c17.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Gurudwara",
-      "description": "Gurudwara",
-      "startDate": "2026-08-23T14:30:00",
-      "endDate": "2026-08-23T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18c861e74c37f48d5283fcf6ede37c17.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Gurudwara",
-      "description": "Gurudwara",
-      "startDate": "2026-08-23T15:00:00",
-      "endDate": "2026-08-23T15:30:00",
-      "showTime": "15:00:00",
-      "endTime": "15:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18c861e74c37f48d5283fcf6ede37c17.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Gurudwara",
-      "description": "Gurudwara",
-      "startDate": "2026-08-23T15:30:00",
-      "endDate": "2026-08-23T16:00:00",
-      "showTime": "15:30:00",
-      "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18c861e74c37f48d5283fcf6ede37c17.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Gurudwara",
-      "description": "Gurudwara",
-      "startDate": "2026-08-23T16:00:00",
-      "endDate": "2026-08-23T16:30:00",
-      "showTime": "16:00:00",
-      "endTime": "16:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18c861e74c37f48d5283fcf6ede37c17.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Gurudwara",
-      "description": "Gurudwara",
-      "startDate": "2026-08-23T16:30:00",
-      "endDate": "2026-08-23T17:00:00",
-      "showTime": "16:30:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18c861e74c37f48d5283fcf6ede37c17.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Astro Knock",
-      "description": "Astro Knock",
-      "startDate": "2026-08-23T17:00:00",
-      "endDate": "2026-08-23T17:30:00",
-      "showTime": "17:00:00",
-      "endTime": "17:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf460d2ad0051246b6a00da84ab6fda3.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "International Bulletin",
-      "description": "A daily news bulletin for International Viewers.",
-      "startDate": "2026-08-23T17:30:00",
-      "endDate": "2026-08-23T18:00:00",
-      "showTime": "17:30:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b5433e883ea387b825c54af099f9648b.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Knock Hits",
-      "description": "Knock Hits",
-      "startDate": "2026-08-23T18:00:00",
-      "endDate": "2026-08-23T18:30:00",
-      "showTime": "18:00:00",
-      "endTime": "18:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cda4e2b9a835bd9f6a5761d9b08df3e2.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Khabar Punjab Di",
-      "description": "The host sheds light on some of the most significant social, economic and political news stories and updates from the state of Punjab.",
-      "startDate": "2026-08-23T18:30:00",
-      "endDate": "2026-08-23T19:00:00",
-      "showTime": "18:30:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/73473ac0c2c8df2ae3a5e9d49ff80191.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Punjabi Chaa Gaye Oye",
-      "description": "Punjabi Chaa Gaye Oye",
-      "startDate": "2026-08-23T19:00:00",
-      "endDate": "2026-08-23T19:30:00",
-      "showTime": "19:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f1de925d1b4e5bfc309aa8b28b31796.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "The Health Talk",
-      "description": "The Health Talk",
-      "startDate": "2026-08-23T19:30:00",
-      "endDate": "2026-08-23T20:00:00",
-      "showTime": "19:30:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4bd77672efcb6cbc8b7bc5816d714ed0.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Astro Knock",
-      "description": "Astro Knock",
-      "startDate": "2026-08-23T20:00:00",
-      "endDate": "2026-08-23T20:30:00",
-      "showTime": "20:00:00",
-      "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf460d2ad0051246b6a00da84ab6fda3.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "International Bulletin",
-      "description": "A daily news bulletin for International Viewers.",
-      "startDate": "2026-08-23T20:30:00",
-      "endDate": "2026-08-23T21:00:00",
-      "showTime": "20:30:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b5433e883ea387b825c54af099f9648b.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Political Podcast",
-      "description": "Political Podcast",
-      "startDate": "2026-08-23T21:00:00",
-      "endDate": "2026-08-23T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2708d5c3b74dae18c6063abcfa5fd85f.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Khabar Punjab Di",
-      "description": "The host sheds light on some of the most significant social, economic and political news stories and updates from the state of Punjab.",
-      "startDate": "2026-08-23T21:30:00",
-      "endDate": "2026-08-23T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/73473ac0c2c8df2ae3a5e9d49ff80191.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Bollywood Akhbaar",
-      "description": "Bollywood Akhbaar",
-      "startDate": "2026-08-23T22:00:00",
-      "endDate": "2026-08-23T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7fe7e9231046fc6a4e8827f798eda629.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Bhorcast",
-      "description": "Bhorcast",
-      "startDate": "2026-08-23T22:30:00",
-      "endDate": "2026-08-23T23:00:00",
-      "showTime": "22:30:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/70adaf19c6306528d8c196acab6b404a.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Pollywood Akhbaar",
-      "description": "Pollywood Akhbaar",
-      "startDate": "2026-08-23T23:00:00",
-      "endDate": "2026-08-23T23:30:00",
-      "showTime": "23:00:00",
-      "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/34c21eea501d82057f25d5eed59d46ae.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "The Health Talk",
-      "description": "The Health Talk",
-      "startDate": "2026-08-23T23:30:00",
-      "endDate": "2026-08-23T23:59:59",
-      "showTime": "23:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4bd77672efcb6cbc8b7bc5816d714ed0.jpg"
-    },
-    {
       "serverDate": "2026-08-24",
       "showName": "Dilse Music",
       "description": "The host invites prominent artists from the music industry to learn about their life journeys, achievements and memorable experiences.",
@@ -1325,7 +797,7 @@
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2c809e06fb57e6e7accaf5e61193987.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23ba3599db172b83773a1ee0facc2950.jpg"
     },
     {
       "serverDate": "2026-08-25",
@@ -1336,7 +808,7 @@
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2c809e06fb57e6e7accaf5e61193987.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23ba3599db172b83773a1ee0facc2950.jpg"
     },
     {
       "serverDate": "2026-08-25",
@@ -1347,7 +819,7 @@
       "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2c809e06fb57e6e7accaf5e61193987.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23ba3599db172b83773a1ee0facc2950.jpg"
     },
     {
       "serverDate": "2026-08-25",
@@ -1853,7 +1325,7 @@
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2c809e06fb57e6e7accaf5e61193987.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23ba3599db172b83773a1ee0facc2950.jpg"
     },
     {
       "serverDate": "2026-08-26",
@@ -1864,7 +1336,7 @@
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2c809e06fb57e6e7accaf5e61193987.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23ba3599db172b83773a1ee0facc2950.jpg"
     },
     {
       "serverDate": "2026-08-26",
@@ -1875,7 +1347,7 @@
       "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2c809e06fb57e6e7accaf5e61193987.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23ba3599db172b83773a1ee0facc2950.jpg"
     },
     {
       "serverDate": "2026-08-26",
@@ -2381,7 +1853,7 @@
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2c809e06fb57e6e7accaf5e61193987.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23ba3599db172b83773a1ee0facc2950.jpg"
     },
     {
       "serverDate": "2026-08-27",
@@ -2392,7 +1864,7 @@
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2c809e06fb57e6e7accaf5e61193987.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23ba3599db172b83773a1ee0facc2950.jpg"
     },
     {
       "serverDate": "2026-08-27",
@@ -2403,7 +1875,7 @@
       "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2c809e06fb57e6e7accaf5e61193987.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23ba3599db172b83773a1ee0facc2950.jpg"
     },
     {
       "serverDate": "2026-08-27",
@@ -2909,7 +2381,7 @@
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2c809e06fb57e6e7accaf5e61193987.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23ba3599db172b83773a1ee0facc2950.jpg"
     },
     {
       "serverDate": "2026-08-28",
@@ -2920,7 +2392,7 @@
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2c809e06fb57e6e7accaf5e61193987.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23ba3599db172b83773a1ee0facc2950.jpg"
     },
     {
       "serverDate": "2026-08-28",
@@ -2931,7 +2403,7 @@
       "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2c809e06fb57e6e7accaf5e61193987.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23ba3599db172b83773a1ee0facc2950.jpg"
     },
     {
       "serverDate": "2026-08-28",
@@ -3437,7 +2909,7 @@
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2c809e06fb57e6e7accaf5e61193987.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23ba3599db172b83773a1ee0facc2950.jpg"
     },
     {
       "serverDate": "2026-08-29",
@@ -3448,7 +2920,7 @@
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2c809e06fb57e6e7accaf5e61193987.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23ba3599db172b83773a1ee0facc2950.jpg"
     },
     {
       "serverDate": "2026-08-29",
@@ -3459,7 +2931,7 @@
       "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2c809e06fb57e6e7accaf5e61193987.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23ba3599db172b83773a1ee0facc2950.jpg"
     },
     {
       "serverDate": "2026-08-29",
@@ -3965,7 +3437,7 @@
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2c809e06fb57e6e7accaf5e61193987.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23ba3599db172b83773a1ee0facc2950.jpg"
     },
     {
       "serverDate": "2026-08-30",
@@ -3976,7 +3448,7 @@
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2c809e06fb57e6e7accaf5e61193987.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23ba3599db172b83773a1ee0facc2950.jpg"
     },
     {
       "serverDate": "2026-08-30",
@@ -3987,7 +3459,7 @@
       "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2c809e06fb57e6e7accaf5e61193987.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23ba3599db172b83773a1ee0facc2950.jpg"
     },
     {
       "serverDate": "2026-08-30",
@@ -4226,6 +3698,534 @@
       "description": "The Health Talk",
       "startDate": "2026-08-30T23:30:00",
       "endDate": "2026-08-30T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4bd77672efcb6cbc8b7bc5816d714ed0.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Dilse Music",
+      "description": "The host invites prominent artists from the music industry to learn about their life journeys, achievements and memorable experiences.",
+      "startDate": "2026-08-31T00:00:00",
+      "endDate": "2026-08-31T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7ca149c4459f0d8b4eb765c8ea8dd76e.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Reel Jaleel Show",
+      "description": "Reel Jaleel Show",
+      "startDate": "2026-08-31T00:30:00",
+      "endDate": "2026-08-31T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee164eb7d166a9ed0adfa1700b0264db.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Crime Kahaniyaan",
+      "description": "Crime Kahaniyaan",
+      "startDate": "2026-08-31T01:00:00",
+      "endDate": "2026-08-31T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/76b79f97a3fad636c974fc30e06d5db4.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Dilse Music",
+      "description": "The host invites prominent artists from the music industry to learn about their life journeys, achievements and memorable experiences.",
+      "startDate": "2026-08-31T01:30:00",
+      "endDate": "2026-08-31T02:00:00",
+      "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7ca149c4459f0d8b4eb765c8ea8dd76e.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Gurudwara",
+      "description": "Gurudwara",
+      "startDate": "2026-08-31T02:00:00",
+      "endDate": "2026-08-31T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18c861e74c37f48d5283fcf6ede37c17.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Gurudwara",
+      "description": "Gurudwara",
+      "startDate": "2026-08-31T02:30:00",
+      "endDate": "2026-08-31T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18c861e74c37f48d5283fcf6ede37c17.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Gurudwara",
+      "description": "Gurudwara",
+      "startDate": "2026-08-31T03:00:00",
+      "endDate": "2026-08-31T03:30:00",
+      "showTime": "03:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18c861e74c37f48d5283fcf6ede37c17.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Gurudwara",
+      "description": "Gurudwara",
+      "startDate": "2026-08-31T03:30:00",
+      "endDate": "2026-08-31T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18c861e74c37f48d5283fcf6ede37c17.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "The Health Talk",
+      "description": "The Health Talk",
+      "startDate": "2026-08-31T04:00:00",
+      "endDate": "2026-08-31T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4bd77672efcb6cbc8b7bc5816d714ed0.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Political Podcast",
+      "description": "Political Podcast",
+      "startDate": "2026-08-31T04:30:00",
+      "endDate": "2026-08-31T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2708d5c3b74dae18c6063abcfa5fd85f.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Bollywood Akhbaar",
+      "description": "Bollywood Akhbaar",
+      "startDate": "2026-08-31T05:00:00",
+      "endDate": "2026-08-31T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7fe7e9231046fc6a4e8827f798eda629.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Reel Jaleel Show",
+      "description": "Reel Jaleel Show",
+      "startDate": "2026-08-31T05:30:00",
+      "endDate": "2026-08-31T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee164eb7d166a9ed0adfa1700b0264db.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Pollywood Akhbaar",
+      "description": "Pollywood Akhbaar",
+      "startDate": "2026-08-31T06:00:00",
+      "endDate": "2026-08-31T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/34c21eea501d82057f25d5eed59d46ae.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Bhorcast",
+      "description": "Bhorcast",
+      "startDate": "2026-08-31T06:30:00",
+      "endDate": "2026-08-31T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/70adaf19c6306528d8c196acab6b404a.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Punjabi Chaa Gaye Oye",
+      "description": "Punjabi Chaa Gaye Oye",
+      "startDate": "2026-08-31T07:00:00",
+      "endDate": "2026-08-31T07:30:00",
+      "showTime": "07:00:00",
+      "endTime": "07:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f1de925d1b4e5bfc309aa8b28b31796.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Crime Kahaniyaan",
+      "description": "Crime Kahaniyaan",
+      "startDate": "2026-08-31T07:30:00",
+      "endDate": "2026-08-31T08:00:00",
+      "showTime": "07:30:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/76b79f97a3fad636c974fc30e06d5db4.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Bollywood Akhbaar",
+      "description": "Bollywood Akhbaar",
+      "startDate": "2026-08-31T08:00:00",
+      "endDate": "2026-08-31T08:30:00",
+      "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7fe7e9231046fc6a4e8827f798eda629.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Political Podcast",
+      "description": "Political Podcast",
+      "startDate": "2026-08-31T08:30:00",
+      "endDate": "2026-08-31T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2708d5c3b74dae18c6063abcfa5fd85f.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Pollywood Akhbaar",
+      "description": "Pollywood Akhbaar",
+      "startDate": "2026-08-31T09:00:00",
+      "endDate": "2026-08-31T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/34c21eea501d82057f25d5eed59d46ae.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Bhorcast",
+      "description": "Bhorcast",
+      "startDate": "2026-08-31T09:30:00",
+      "endDate": "2026-08-31T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/70adaf19c6306528d8c196acab6b404a.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Crime Kahaniyaan",
+      "description": "Crime Kahaniyaan",
+      "startDate": "2026-08-31T10:00:00",
+      "endDate": "2026-08-31T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/76b79f97a3fad636c974fc30e06d5db4.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Punjabi Chaa Gaye Oye",
+      "description": "Punjabi Chaa Gaye Oye",
+      "startDate": "2026-08-31T10:30:00",
+      "endDate": "2026-08-31T11:00:00",
+      "showTime": "10:30:00",
+      "endTime": "11:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f1de925d1b4e5bfc309aa8b28b31796.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Reel Jaleel Show",
+      "description": "Reel Jaleel Show",
+      "startDate": "2026-08-31T11:00:00",
+      "endDate": "2026-08-31T11:30:00",
+      "showTime": "11:00:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee164eb7d166a9ed0adfa1700b0264db.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Music Marathon",
+      "description": "Music Marathon",
+      "startDate": "2026-08-31T11:30:00",
+      "endDate": "2026-08-31T12:00:00",
+      "showTime": "11:30:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23ba3599db172b83773a1ee0facc2950.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Music Marathon",
+      "description": "Music Marathon",
+      "startDate": "2026-08-31T12:00:00",
+      "endDate": "2026-08-31T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23ba3599db172b83773a1ee0facc2950.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Music Marathon",
+      "description": "Music Marathon",
+      "startDate": "2026-08-31T12:30:00",
+      "endDate": "2026-08-31T13:00:00",
+      "showTime": "12:30:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23ba3599db172b83773a1ee0facc2950.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Khabar Punjab Di",
+      "description": "The host sheds light on some of the most significant social, economic and political news stories and updates from the state of Punjab.",
+      "startDate": "2026-08-31T13:00:00",
+      "endDate": "2026-08-31T13:30:00",
+      "showTime": "13:00:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/73473ac0c2c8df2ae3a5e9d49ff80191.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "The Health Talk",
+      "description": "The Health Talk",
+      "startDate": "2026-08-31T13:30:00",
+      "endDate": "2026-08-31T14:00:00",
+      "showTime": "13:30:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4bd77672efcb6cbc8b7bc5816d714ed0.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Gurudwara",
+      "description": "Gurudwara",
+      "startDate": "2026-08-31T14:00:00",
+      "endDate": "2026-08-31T14:30:00",
+      "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18c861e74c37f48d5283fcf6ede37c17.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Gurudwara",
+      "description": "Gurudwara",
+      "startDate": "2026-08-31T14:30:00",
+      "endDate": "2026-08-31T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18c861e74c37f48d5283fcf6ede37c17.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Gurudwara",
+      "description": "Gurudwara",
+      "startDate": "2026-08-31T15:00:00",
+      "endDate": "2026-08-31T15:30:00",
+      "showTime": "15:00:00",
+      "endTime": "15:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18c861e74c37f48d5283fcf6ede37c17.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Gurudwara",
+      "description": "Gurudwara",
+      "startDate": "2026-08-31T15:30:00",
+      "endDate": "2026-08-31T16:00:00",
+      "showTime": "15:30:00",
+      "endTime": "16:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18c861e74c37f48d5283fcf6ede37c17.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Gurudwara",
+      "description": "Gurudwara",
+      "startDate": "2026-08-31T16:00:00",
+      "endDate": "2026-08-31T16:30:00",
+      "showTime": "16:00:00",
+      "endTime": "16:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18c861e74c37f48d5283fcf6ede37c17.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Gurudwara",
+      "description": "Gurudwara",
+      "startDate": "2026-08-31T16:30:00",
+      "endDate": "2026-08-31T17:00:00",
+      "showTime": "16:30:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18c861e74c37f48d5283fcf6ede37c17.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Astro Knock",
+      "description": "Astro Knock",
+      "startDate": "2026-08-31T17:00:00",
+      "endDate": "2026-08-31T17:30:00",
+      "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf460d2ad0051246b6a00da84ab6fda3.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "International Bulletin",
+      "description": "A daily news bulletin for International Viewers.",
+      "startDate": "2026-08-31T17:30:00",
+      "endDate": "2026-08-31T18:00:00",
+      "showTime": "17:30:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b5433e883ea387b825c54af099f9648b.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Knock Hits",
+      "description": "Knock Hits",
+      "startDate": "2026-08-31T18:00:00",
+      "endDate": "2026-08-31T18:30:00",
+      "showTime": "18:00:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cda4e2b9a835bd9f6a5761d9b08df3e2.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Khabar Punjab Di",
+      "description": "The host sheds light on some of the most significant social, economic and political news stories and updates from the state of Punjab.",
+      "startDate": "2026-08-31T18:30:00",
+      "endDate": "2026-08-31T19:00:00",
+      "showTime": "18:30:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/73473ac0c2c8df2ae3a5e9d49ff80191.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Punjabi Chaa Gaye Oye",
+      "description": "Punjabi Chaa Gaye Oye",
+      "startDate": "2026-08-31T19:00:00",
+      "endDate": "2026-08-31T19:30:00",
+      "showTime": "19:00:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f1de925d1b4e5bfc309aa8b28b31796.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "The Health Talk",
+      "description": "The Health Talk",
+      "startDate": "2026-08-31T19:30:00",
+      "endDate": "2026-08-31T20:00:00",
+      "showTime": "19:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4bd77672efcb6cbc8b7bc5816d714ed0.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Astro Knock",
+      "description": "Astro Knock",
+      "startDate": "2026-08-31T20:00:00",
+      "endDate": "2026-08-31T20:30:00",
+      "showTime": "20:00:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf460d2ad0051246b6a00da84ab6fda3.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "International Bulletin",
+      "description": "A daily news bulletin for International Viewers.",
+      "startDate": "2026-08-31T20:30:00",
+      "endDate": "2026-08-31T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b5433e883ea387b825c54af099f9648b.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Political Podcast",
+      "description": "Political Podcast",
+      "startDate": "2026-08-31T21:00:00",
+      "endDate": "2026-08-31T21:30:00",
+      "showTime": "21:00:00",
+      "endTime": "21:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2708d5c3b74dae18c6063abcfa5fd85f.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Khabar Punjab Di",
+      "description": "The host sheds light on some of the most significant social, economic and political news stories and updates from the state of Punjab.",
+      "startDate": "2026-08-31T21:30:00",
+      "endDate": "2026-08-31T22:00:00",
+      "showTime": "21:30:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/73473ac0c2c8df2ae3a5e9d49ff80191.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Bollywood Akhbaar",
+      "description": "Bollywood Akhbaar",
+      "startDate": "2026-08-31T22:00:00",
+      "endDate": "2026-08-31T22:30:00",
+      "showTime": "22:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7fe7e9231046fc6a4e8827f798eda629.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Bhorcast",
+      "description": "Bhorcast",
+      "startDate": "2026-08-31T22:30:00",
+      "endDate": "2026-08-31T23:00:00",
+      "showTime": "22:30:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/70adaf19c6306528d8c196acab6b404a.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Pollywood Akhbaar",
+      "description": "Pollywood Akhbaar",
+      "startDate": "2026-08-31T23:00:00",
+      "endDate": "2026-08-31T23:30:00",
+      "showTime": "23:00:00",
+      "endTime": "23:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/34c21eea501d82057f25d5eed59d46ae.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "The Health Talk",
+      "description": "The Health Talk",
+      "startDate": "2026-08-31T23:30:00",
+      "endDate": "2026-08-31T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",

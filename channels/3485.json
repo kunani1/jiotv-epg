@@ -8,94 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/NationalToday24x7.png",
   "programs": [
     {
-      "serverDate": "2026-08-23",
-      "showName": "Politics Program, Khabar Dinbhar Ki",
-      "description": "Politics Program, Khabar Dinbhar Ki",
-      "startDate": "2026-08-23T00:00:00",
-      "endDate": "2026-08-23T06:00:00",
-      "showTime": "00:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9eb09ef213916eb3fcb2a26dec98b8a3.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Vidhya Bhakti",
-      "description": "Vidhya Bhakti",
-      "startDate": "2026-08-23T06:00:00",
-      "endDate": "2026-08-23T07:00:00",
-      "showTime": "06:00:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4022847f9ed6e08b30b8b137be36a7f8.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Din Ki Shuruaat",
-      "description": "Din Ki Shuruaat",
-      "startDate": "2026-08-23T07:00:00",
-      "endDate": "2026-08-23T10:00:00",
-      "showTime": "07:00:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/43711b38fba5b1dbc476c9d063b1d812.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Politics Program",
-      "description": "Politics Program",
-      "startDate": "2026-08-23T10:00:00",
-      "endDate": "2026-08-23T17:00:00",
-      "showTime": "10:00:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8250dc017c1cd8b3347b609ad4944ba6.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Evening Bulletin",
-      "description": "Evening Bulletin",
-      "startDate": "2026-08-23T17:00:00",
-      "endDate": "2026-08-23T18:00:00",
-      "showTime": "17:00:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5e605dbe011650c7d8a1ea964968daf.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Politics Program",
-      "description": "Politics Program",
-      "startDate": "2026-08-23T18:00:00",
-      "endDate": "2026-08-23T20:00:00",
-      "showTime": "18:00:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8250dc017c1cd8b3347b609ad4944ba6.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Khabar Dinbhar ki",
-      "description": "Khabar Dinbhar ki",
-      "startDate": "2026-08-23T20:00:00",
-      "endDate": "2026-08-23T23:00:00",
-      "showTime": "20:00:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a4f2d248d093e0148dd12c00f04ebd17.jpg"
-    },
-    {
-      "serverDate": "2026-08-23",
-      "showName": "Politics Program, Khabar Dinbhar Ki",
-      "description": "Politics Program, Khabar Dinbhar Ki",
-      "startDate": "2026-08-23T23:00:00",
-      "endDate": "2026-08-23T23:59:59",
-      "showTime": "23:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9eb09ef213916eb3fcb2a26dec98b8a3.jpg"
-    },
-    {
       "serverDate": "2026-08-24",
       "showName": "Politics Program, Khabar Dinbhar Ki",
       "description": "Politics Program, Khabar Dinbhar Ki",
@@ -710,6 +622,83 @@
       "endTime": "23:59:59",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9eb09ef213916eb3fcb2a26dec98b8a3.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Politics Program, Khabar Dinbhar Ki",
+      "description": "Politics Program, Khabar Dinbhar Ki",
+      "startDate": "2026-08-31T00:00:00",
+      "endDate": "2026-08-31T06:00:00",
+      "showTime": "00:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9eb09ef213916eb3fcb2a26dec98b8a3.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "Vidhya Bhakti",
+      "description": "Vidhya Bhakti",
+      "startDate": "2026-08-31T06:00:00",
+      "endDate": "2026-08-31T09:00:00",
+      "showTime": "06:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4022847f9ed6e08b30b8b137be36a7f8.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "News",
+      "description": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
+      "startDate": "2026-08-31T09:00:00",
+      "endDate": "2026-08-31T12:00:00",
+      "showTime": "09:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3b27152e27d914edad8f61d92a239157.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "News",
+      "description": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
+      "startDate": "2026-08-31T12:00:00",
+      "endDate": "2026-08-31T15:00:00",
+      "showTime": "12:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3b27152e27d914edad8f61d92a239157.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "News",
+      "description": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
+      "startDate": "2026-08-31T15:00:00",
+      "endDate": "2026-08-31T18:00:00",
+      "showTime": "15:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3b27152e27d914edad8f61d92a239157.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "News",
+      "description": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
+      "startDate": "2026-08-31T18:00:00",
+      "endDate": "2026-08-31T21:00:00",
+      "showTime": "18:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3b27152e27d914edad8f61d92a239157.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "News",
+      "description": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
+      "startDate": "2026-08-31T21:00:00",
+      "endDate": "2026-08-31T23:59:59",
+      "showTime": "21:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3b27152e27d914edad8f61d92a239157.jpg"
     }
   ]
 }
