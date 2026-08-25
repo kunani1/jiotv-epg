@@ -1365,11 +1365,22 @@
       "showName": "One World",
       "description": "The host delivers the latest headlines from across the globe and discusses a myriad of topics with contributors and experts.",
       "startDate": "2026-08-27T21:30:00",
-      "endDate": "2026-08-27T22:30:00",
+      "endDate": "2026-08-27T22:15:00",
       "showTime": "21:30:00",
-      "endTime": "22:30:00",
+      "endTime": "22:15:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a4f72419074efbbea62a600c90e3112.jpg"
+    },
+    {
+      "serverDate": "2026-08-27",
+      "showName": "African Voices",
+      "description": "Take a look at some of Africa's most dazzling trend-setters who are making waves in the worlds of travel, fashion, art, music, technology and architecture.",
+      "startDate": "2026-08-27T22:15:00",
+      "endDate": "2026-08-27T22:30:00",
+      "showTime": "22:15:00",
+      "endTime": "22:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/87c611c04a06dd2978d65d6d2e7a3a45.jpg"
     },
     {
       "serverDate": "2026-08-27",
@@ -2232,7 +2243,7 @@
     {
       "serverDate": "2026-08-30",
       "showName": "Africa Inc",
-      "description": "Africa Inc",
+      "description": "This CNN series showcases how African businesses compete and thrive on the global stage.",
       "startDate": "2026-08-30T08:30:00",
       "endDate": "2026-08-30T09:00:00",
       "showTime": "08:30:00",
@@ -2342,7 +2353,7 @@
     {
       "serverDate": "2026-08-30",
       "showName": "Africa Inc",
-      "description": "Africa Inc",
+      "description": "This CNN series showcases how African businesses compete and thrive on the global stage.",
       "startDate": "2026-08-30T13:00:00",
       "endDate": "2026-08-30T13:30:00",
       "showTime": "13:00:00",
@@ -2375,7 +2386,7 @@
     {
       "serverDate": "2026-08-30",
       "showName": "Africa Inc",
-      "description": "Africa Inc",
+      "description": "This CNN series showcases how African businesses compete and thrive on the global stage.",
       "startDate": "2026-08-30T15:30:00",
       "endDate": "2026-08-30T16:00:00",
       "showTime": "15:30:00",
@@ -2485,7 +2496,7 @@
     {
       "serverDate": "2026-08-30",
       "showName": "Africa Inc",
-      "description": "Africa Inc",
+      "description": "This CNN series showcases how African businesses compete and thrive on the global stage.",
       "startDate": "2026-08-30T23:00:00",
       "endDate": "2026-08-30T23:30:00",
       "showTime": "23:00:00",
@@ -2575,11 +2586,22 @@
       "showName": "CNN Newsroom Sunday",
       "description": "The host presents an in-depth analysis of some of the week's top social, economic and political stories from around the world.",
       "startDate": "2026-08-31T04:30:00",
-      "endDate": "2026-08-31T06:30:00",
+      "endDate": "2026-08-31T05:30:00",
       "showTime": "04:30:00",
-      "endTime": "06:30:00",
+      "endTime": "05:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf79104eaa01eb966fdd6c2a84b17c04.jpg"
+    },
+    {
+      "serverDate": "2026-08-31",
+      "showName": "The Whole Story With Anderson Cooper",
+      "description": "Host Anderson Cooper sheds light on significant international events and invites prominent personalities to share their insights on them.",
+      "startDate": "2026-08-31T05:30:00",
+      "endDate": "2026-08-31T06:30:00",
+      "showTime": "05:30:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8938319f642a758341f0269b06db63a2.jpg"
     },
     {
       "serverDate": "2026-08-31",
@@ -2606,7 +2628,7 @@
     {
       "serverDate": "2026-08-31",
       "showName": "Africa Inc",
-      "description": "Africa Inc",
+      "description": "This CNN series showcases how African businesses compete and thrive on the global stage.",
       "startDate": "2026-08-31T08:00:00",
       "endDate": "2026-08-31T08:30:00",
       "showTime": "08:00:00",
