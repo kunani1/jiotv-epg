@@ -8,193 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/zenlife-zen001-seoul.png",
   "programs": [
     {
-      "serverDate": "2026-08-24",
-      "showName": "Zen Relaxation",
-      "description": "A mix of guitar, piano instrumentals to help you concentrate and feel relaxed.",
-      "startDate": "2026-08-24T00:00:00",
-      "endDate": "2026-08-24T01:30:00",
-      "showTime": "00:00:00",
-      "endTime": "01:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/35608f7969bc9b98e0419a70cea87967.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "The Zen Home Spa",
-      "description": "Transform your room into an oasis of wellness with ZenLIFE's Home Spa.",
-      "startDate": "2026-08-24T01:30:00",
-      "endDate": "2026-08-24T03:30:00",
-      "showTime": "01:30:00",
-      "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eb37881b18918b438d0ad8495817dc83.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Golden Hour Ambiance",
-      "description": "Kick back and unwind into sunset mode with golden light, and peaceful melodies.",
-      "startDate": "2026-08-24T03:30:00",
-      "endDate": "2026-08-24T05:30:00",
-      "showTime": "03:30:00",
-      "endTime": "05:30:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5a92ab028ed8ec9baa02f34e1df4770.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Zen Relaxation",
-      "description": "A mix of guitar, piano instrumentals to help you concentrate and feel relaxed.",
-      "startDate": "2026-08-24T05:30:00",
-      "endDate": "2026-08-24T06:30:00",
-      "showTime": "05:30:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/35608f7969bc9b98e0419a70cea87967.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Your Evening Zen",
-      "description": "Music to help you wind down and de-stress at the end of your long workday.",
-      "startDate": "2026-08-24T06:30:00",
-      "endDate": "2026-08-24T08:30:00",
-      "showTime": "06:30:00",
-      "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e427c56390d7bfe956e8ebb03134b47f.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Gentle Stroll Around the Globe",
-      "description": "Wind down after a stressful day and start your sleep journey.",
-      "startDate": "2026-08-24T08:30:00",
-      "endDate": "2026-08-24T09:30:00",
-      "showTime": "08:30:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c0c1a4f76a60fef61debd5d81678b1a.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Gentle Stroll Around the Globe",
-      "description": "Wind down after a stressful day and start your sleep journey.",
-      "startDate": "2026-08-24T09:30:00",
-      "endDate": "2026-08-24T10:30:00",
-      "showTime": "09:30:00",
-      "endTime": "10:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c0c1a4f76a60fef61debd5d81678b1a.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Gentle Stroll Around the Globe",
-      "description": "Wind down after a stressful day and start your sleep journey.",
-      "startDate": "2026-08-24T10:30:00",
-      "endDate": "2026-08-24T11:30:00",
-      "showTime": "10:30:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c0c1a4f76a60fef61debd5d81678b1a.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Deeper Sleeper",
-      "description": "Amber sunset over water that fades out to black with time.",
-      "startDate": "2026-08-24T11:30:00",
-      "endDate": "2026-08-24T13:30:00",
-      "showTime": "11:30:00",
-      "endTime": "13:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/605f4207d0f1f6805df23de8b4aff7f5.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Deeper Sleeper",
-      "description": "Amber sunset over water that fades out to black with time.",
-      "startDate": "2026-08-24T13:30:00",
-      "endDate": "2026-08-24T15:30:00",
-      "showTime": "13:30:00",
-      "endTime": "15:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/605f4207d0f1f6805df23de8b4aff7f5.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Zen Morning Positivity",
-      "description": "Start your day with positive & uplifting designed to jumpstart your day & mood.",
-      "startDate": "2026-08-24T15:30:00",
-      "endDate": "2026-08-24T17:30:00",
-      "showTime": "15:30:00",
-      "endTime": "17:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c77b4427e9e65b2de2b9a0396ca0de8f.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Floral Harmonies",
-      "description": "Experience the beauty of nature in bloom with relaxing music.",
-      "startDate": "2026-08-24T17:30:00",
-      "endDate": "2026-08-24T18:30:00",
-      "showTime": "17:30:00",
-      "endTime": "18:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/340459c2e7d327de81e0511a06bc3de9.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Forest Therapy",
-      "description": "Clear mental fog and boost your energy with therapeutic time among the trees.",
-      "startDate": "2026-08-24T18:30:00",
-      "endDate": "2026-08-24T19:30:00",
-      "showTime": "18:30:00",
-      "endTime": "19:30:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b2cfcd43af41bebdd0922c487b9e7d3e.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Zen Focus",
-      "description": "Soothing soundscapes and scenes designed to enhance focus and concentration.",
-      "startDate": "2026-08-24T19:30:00",
-      "endDate": "2026-08-24T20:30:00",
-      "showTime": "19:30:00",
-      "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c06b8528f4395e3d6d277d987fcbb13d.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Water Therapy With Calm Music",
-      "description": "Escape any Blue Monday with soothing music and meditative water-focused scenes.",
-      "startDate": "2026-08-24T20:30:00",
-      "endDate": "2026-08-24T21:30:00",
-      "showTime": "20:30:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5edc83d757d4c597b9753785205bab4.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Peaceful Piano & Guitar",
-      "description": "Selections of peaceful music and scenes that help you work and relax.",
-      "startDate": "2026-08-24T21:30:00",
-      "endDate": "2026-08-24T23:30:00",
-      "showTime": "21:30:00",
-      "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e1ffc6f5a90453e3d2aa0d940037b457.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Zen Relaxation",
-      "description": "A mix of guitar, piano instrumentals to help you concentrate and feel relaxed.",
-      "startDate": "2026-08-24T23:30:00",
-      "endDate": "2026-08-24T23:59:59",
-      "showTime": "23:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/35608f7969bc9b98e0419a70cea87967.jpg"
-    },
-    {
       "serverDate": "2026-08-25",
       "showName": "Zen Relaxation",
       "description": "A mix of guitar, piano instrumentals to help you concentrate and feel relaxed.",
@@ -1425,6 +1238,149 @@
       "endTime": "23:59:59",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/87b8ed9422d9ddca219c52e48ea1fdef.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "My Best Sleep Ever",
+      "description": "Slip into a deep and optimal sleep without light.",
+      "startDate": "2026-09-01T00:00:00",
+      "endDate": "2026-09-01T01:30:00",
+      "showTime": "00:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/87b8ed9422d9ddca219c52e48ea1fdef.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "My Best Sleep Ever",
+      "description": "Slip into a deep and optimal sleep without light.",
+      "startDate": "2026-09-01T01:30:00",
+      "endDate": "2026-09-01T09:30:00",
+      "showTime": "01:30:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/87b8ed9422d9ddca219c52e48ea1fdef.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Gentle Stroll Around the Globe",
+      "description": "Wind down after a stressful day and start your sleep journey.",
+      "startDate": "2026-09-01T09:30:00",
+      "endDate": "2026-09-01T10:30:00",
+      "showTime": "09:30:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c0c1a4f76a60fef61debd5d81678b1a.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Gentle Stroll Around the Globe",
+      "description": "Wind down after a stressful day and start your sleep journey.",
+      "startDate": "2026-09-01T10:30:00",
+      "endDate": "2026-09-01T11:30:00",
+      "showTime": "10:30:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c0c1a4f76a60fef61debd5d81678b1a.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Deeper Sleeper",
+      "description": "Amber sunset over water that fades out to black with time.",
+      "startDate": "2026-09-01T11:30:00",
+      "endDate": "2026-09-01T13:30:00",
+      "showTime": "11:30:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/605f4207d0f1f6805df23de8b4aff7f5.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Deeper Sleeper",
+      "description": "Amber sunset over water that fades out to black with time.",
+      "startDate": "2026-09-01T13:30:00",
+      "endDate": "2026-09-01T15:30:00",
+      "showTime": "13:30:00",
+      "endTime": "15:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/605f4207d0f1f6805df23de8b4aff7f5.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Zen Morning Positivity",
+      "description": "Start your day with positive & uplifting designed to jumpstart your day & mood.",
+      "startDate": "2026-09-01T15:30:00",
+      "endDate": "2026-09-01T17:30:00",
+      "showTime": "15:30:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c77b4427e9e65b2de2b9a0396ca0de8f.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Floral Harmonies",
+      "description": "Experience the beauty of nature in bloom with relaxing music.",
+      "startDate": "2026-09-01T17:30:00",
+      "endDate": "2026-09-01T18:30:00",
+      "showTime": "17:30:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/340459c2e7d327de81e0511a06bc3de9.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Forest Therapy",
+      "description": "Clear mental fog and boost your energy with therapeutic time among the trees.",
+      "startDate": "2026-09-01T18:30:00",
+      "endDate": "2026-09-01T19:30:00",
+      "showTime": "18:30:00",
+      "endTime": "19:30:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b2cfcd43af41bebdd0922c487b9e7d3e.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Zen Focus",
+      "description": "Soothing soundscapes and scenes designed to enhance focus and concentration.",
+      "startDate": "2026-09-01T19:30:00",
+      "endDate": "2026-09-01T20:30:00",
+      "showTime": "19:30:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c06b8528f4395e3d6d277d987fcbb13d.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Water Therapy With Calm Music",
+      "description": "Escape any Blue Monday with soothing music and meditative water-focused scenes.",
+      "startDate": "2026-09-01T20:30:00",
+      "endDate": "2026-09-01T21:30:00",
+      "showTime": "20:30:00",
+      "endTime": "21:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5edc83d757d4c597b9753785205bab4.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Peaceful Piano & Guitar",
+      "description": "Selections of peaceful music and scenes that help you work and relax.",
+      "startDate": "2026-09-01T21:30:00",
+      "endDate": "2026-09-01T23:30:00",
+      "showTime": "21:30:00",
+      "endTime": "23:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e1ffc6f5a90453e3d2aa0d940037b457.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Zen Relaxation",
+      "description": "A mix of guitar, piano instrumentals to help you concentrate and feel relaxed.",
+      "startDate": "2026-09-01T23:30:00",
+      "endDate": "2026-09-01T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/35608f7969bc9b98e0419a70cea87967.jpg"
     }
   ]
 }

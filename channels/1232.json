@@ -8,270 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Hi_Dost.png",
   "programs": [
     {
-      "serverDate": "2026-08-24",
-      "showName": "Love Ke Liye",
-      "description": "Love Ke Liye",
-      "startDate": "2026-08-24T00:00:00",
-      "endDate": "2026-08-24T01:00:00",
-      "showTime": "00:00:00",
-      "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/24e001b8e81b778d6f4996d7f10c5348.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Tere Liye",
-      "description": "Tere Liye",
-      "startDate": "2026-08-24T01:00:00",
-      "endDate": "2026-08-24T02:00:00",
-      "showTime": "01:00:00",
-      "endTime": "02:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Bandhan Aur Bagawat",
-      "description": "Bandhan Aur Bagawat",
-      "startDate": "2026-08-24T02:00:00",
-      "endDate": "2026-08-24T03:00:00",
-      "showTime": "02:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abb11be80c32835dd8e7372b85167ee1.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Sacchi Dosti",
-      "description": "Cheng Zhen, a real estate agent, and her colleague Shao Peng, who conceals his true identity, face challenges as they work with different families, gaining insights into love and life along the way.",
-      "startDate": "2026-08-24T03:00:00",
-      "endDate": "2026-08-24T04:00:00",
-      "showTime": "03:00:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3a8acbaf3cfe6e08e0c65ebee22ec4ef.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Love Ke Liye",
-      "description": "Love Ke Liye",
-      "startDate": "2026-08-24T04:00:00",
-      "endDate": "2026-08-24T05:00:00",
-      "showTime": "04:00:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/24e001b8e81b778d6f4996d7f10c5348.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Tere Liye",
-      "description": "Tere Liye",
-      "startDate": "2026-08-24T05:00:00",
-      "endDate": "2026-08-24T06:00:00",
-      "showTime": "05:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Bandhan Aur Bagawat",
-      "description": "Bandhan Aur Bagawat",
-      "startDate": "2026-08-24T06:00:00",
-      "endDate": "2026-08-24T07:00:00",
-      "showTime": "06:00:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abb11be80c32835dd8e7372b85167ee1.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Sacchi Dosti",
-      "description": "Cheng Zhen, a real estate agent, and her colleague Shao Peng, who conceals his true identity, face challenges as they work with different families, gaining insights into love and life along the way.",
-      "startDate": "2026-08-24T07:00:00",
-      "endDate": "2026-08-24T08:00:00",
-      "showTime": "07:00:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3a8acbaf3cfe6e08e0c65ebee22ec4ef.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Love Ke Liye",
-      "description": "Love Ke Liye",
-      "startDate": "2026-08-24T08:00:00",
-      "endDate": "2026-08-24T09:00:00",
-      "showTime": "08:00:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/24e001b8e81b778d6f4996d7f10c5348.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Tere Liye",
-      "description": "Tere Liye",
-      "startDate": "2026-08-24T09:00:00",
-      "endDate": "2026-08-24T10:00:00",
-      "showTime": "09:00:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Bandhan Aur Bagawat",
-      "description": "Bandhan Aur Bagawat",
-      "startDate": "2026-08-24T10:00:00",
-      "endDate": "2026-08-24T11:00:00",
-      "showTime": "10:00:00",
-      "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abb11be80c32835dd8e7372b85167ee1.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Sacchi Dosti",
-      "description": "Cheng Zhen, a real estate agent, and her colleague Shao Peng, who conceals his true identity, face challenges as they work with different families, gaining insights into love and life along the way.",
-      "startDate": "2026-08-24T11:00:00",
-      "endDate": "2026-08-24T12:00:00",
-      "showTime": "11:00:00",
-      "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3a8acbaf3cfe6e08e0c65ebee22ec4ef.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Love Ke Liye",
-      "description": "Love Ke Liye",
-      "startDate": "2026-08-24T12:00:00",
-      "endDate": "2026-08-24T13:00:00",
-      "showTime": "12:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/24e001b8e81b778d6f4996d7f10c5348.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Tere Liye",
-      "description": "Tere Liye",
-      "startDate": "2026-08-24T13:00:00",
-      "endDate": "2026-08-24T14:00:00",
-      "showTime": "13:00:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Bandhan Aur Bagawat",
-      "description": "Bandhan Aur Bagawat",
-      "startDate": "2026-08-24T14:00:00",
-      "endDate": "2026-08-24T15:00:00",
-      "showTime": "14:00:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abb11be80c32835dd8e7372b85167ee1.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Sacchi Dosti",
-      "description": "Cheng Zhen, a real estate agent, and her colleague Shao Peng, who conceals his true identity, face challenges as they work with different families, gaining insights into love and life along the way.",
-      "startDate": "2026-08-24T15:00:00",
-      "endDate": "2026-08-24T16:00:00",
-      "showTime": "15:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3a8acbaf3cfe6e08e0c65ebee22ec4ef.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Love Ke Liye",
-      "description": "Love Ke Liye",
-      "startDate": "2026-08-24T16:00:00",
-      "endDate": "2026-08-24T17:00:00",
-      "showTime": "16:00:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/24e001b8e81b778d6f4996d7f10c5348.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Tere Liye",
-      "description": "Tere Liye",
-      "startDate": "2026-08-24T17:00:00",
-      "endDate": "2026-08-24T18:00:00",
-      "showTime": "17:00:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Bandhan Aur Bagawat",
-      "description": "Bandhan Aur Bagawat",
-      "startDate": "2026-08-24T18:00:00",
-      "endDate": "2026-08-24T19:00:00",
-      "showTime": "18:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abb11be80c32835dd8e7372b85167ee1.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Sacchi Dosti",
-      "description": "Cheng Zhen, a real estate agent, and her colleague Shao Peng, who conceals his true identity, face challenges as they work with different families, gaining insights into love and life along the way.",
-      "startDate": "2026-08-24T19:00:00",
-      "endDate": "2026-08-24T20:00:00",
-      "showTime": "19:00:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3a8acbaf3cfe6e08e0c65ebee22ec4ef.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Love Ke Liye",
-      "description": "Love Ke Liye",
-      "startDate": "2026-08-24T20:00:00",
-      "endDate": "2026-08-24T21:00:00",
-      "showTime": "20:00:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/24e001b8e81b778d6f4996d7f10c5348.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Tere Liye",
-      "description": "Tere Liye",
-      "startDate": "2026-08-24T21:00:00",
-      "endDate": "2026-08-24T22:00:00",
-      "showTime": "21:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Bandhan Aur Bagawat",
-      "description": "Bandhan Aur Bagawat",
-      "startDate": "2026-08-24T22:00:00",
-      "endDate": "2026-08-24T23:00:00",
-      "showTime": "22:00:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abb11be80c32835dd8e7372b85167ee1.jpg"
-    },
-    {
-      "serverDate": "2026-08-24",
-      "showName": "Sacchi Dosti",
-      "description": "Cheng Zhen, a real estate agent, and her colleague Shao Peng, who conceals his true identity, face challenges as they work with different families, gaining insights into love and life along the way.",
-      "startDate": "2026-08-24T23:00:00",
-      "endDate": "2026-08-24T23:59:59",
-      "showTime": "23:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3a8acbaf3cfe6e08e0c65ebee22ec4ef.jpg"
-    },
-    {
       "serverDate": "2026-08-25",
       "showName": "Love Ke Liye",
       "description": "Love Ke Liye",
@@ -555,7 +291,7 @@
       "showTime": "01:00:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b6c8cc043a2e50b3dd2714b52fb085b.jpg"
     },
     {
       "serverDate": "2026-08-26",
@@ -599,7 +335,7 @@
       "showTime": "05:00:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b6c8cc043a2e50b3dd2714b52fb085b.jpg"
     },
     {
       "serverDate": "2026-08-26",
@@ -643,7 +379,7 @@
       "showTime": "09:00:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b6c8cc043a2e50b3dd2714b52fb085b.jpg"
     },
     {
       "serverDate": "2026-08-26",
@@ -687,7 +423,7 @@
       "showTime": "13:00:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b6c8cc043a2e50b3dd2714b52fb085b.jpg"
     },
     {
       "serverDate": "2026-08-26",
@@ -731,7 +467,7 @@
       "showTime": "17:00:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b6c8cc043a2e50b3dd2714b52fb085b.jpg"
     },
     {
       "serverDate": "2026-08-26",
@@ -775,7 +511,7 @@
       "showTime": "21:00:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b6c8cc043a2e50b3dd2714b52fb085b.jpg"
     },
     {
       "serverDate": "2026-08-26",
@@ -819,7 +555,7 @@
       "showTime": "01:00:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b6c8cc043a2e50b3dd2714b52fb085b.jpg"
     },
     {
       "serverDate": "2026-08-27",
@@ -863,7 +599,7 @@
       "showTime": "05:00:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b6c8cc043a2e50b3dd2714b52fb085b.jpg"
     },
     {
       "serverDate": "2026-08-27",
@@ -907,7 +643,7 @@
       "showTime": "09:00:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b6c8cc043a2e50b3dd2714b52fb085b.jpg"
     },
     {
       "serverDate": "2026-08-27",
@@ -951,7 +687,7 @@
       "showTime": "13:00:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b6c8cc043a2e50b3dd2714b52fb085b.jpg"
     },
     {
       "serverDate": "2026-08-27",
@@ -995,7 +731,7 @@
       "showTime": "17:00:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b6c8cc043a2e50b3dd2714b52fb085b.jpg"
     },
     {
       "serverDate": "2026-08-27",
@@ -1039,7 +775,7 @@
       "showTime": "21:00:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b6c8cc043a2e50b3dd2714b52fb085b.jpg"
     },
     {
       "serverDate": "2026-08-27",
@@ -1083,7 +819,7 @@
       "showTime": "01:00:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b6c8cc043a2e50b3dd2714b52fb085b.jpg"
     },
     {
       "serverDate": "2026-08-28",
@@ -1127,7 +863,7 @@
       "showTime": "05:00:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b6c8cc043a2e50b3dd2714b52fb085b.jpg"
     },
     {
       "serverDate": "2026-08-28",
@@ -1171,7 +907,7 @@
       "showTime": "09:00:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b6c8cc043a2e50b3dd2714b52fb085b.jpg"
     },
     {
       "serverDate": "2026-08-28",
@@ -1215,7 +951,7 @@
       "showTime": "13:00:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b6c8cc043a2e50b3dd2714b52fb085b.jpg"
     },
     {
       "serverDate": "2026-08-28",
@@ -1259,7 +995,7 @@
       "showTime": "17:00:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b6c8cc043a2e50b3dd2714b52fb085b.jpg"
     },
     {
       "serverDate": "2026-08-28",
@@ -1743,7 +1479,7 @@
       "showTime": "06:00:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b6c8cc043a2e50b3dd2714b52fb085b.jpg"
     },
     {
       "serverDate": "2026-08-30",
@@ -1754,7 +1490,7 @@
       "showTime": "07:00:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b6c8cc043a2e50b3dd2714b52fb085b.jpg"
     },
     {
       "serverDate": "2026-08-30",
@@ -1831,7 +1567,7 @@
       "showTime": "14:00:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b6c8cc043a2e50b3dd2714b52fb085b.jpg"
     },
     {
       "serverDate": "2026-08-30",
@@ -1842,7 +1578,7 @@
       "showTime": "15:00:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902e4bfd55307f71007681ae0bebdd3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b6c8cc043a2e50b3dd2714b52fb085b.jpg"
     },
     {
       "serverDate": "2026-08-30",
@@ -2279,6 +2015,336 @@
       "description": "Qin Weibai saves her art exhibition by foiling a scheme to swap a painting. Later, her colourblindness is exposed, and Lu Li is linked to a scandal about her birth.",
       "startDate": "2026-08-31T23:00:00",
       "endDate": "2026-08-31T23:59:59",
+      "showTime": "23:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e43c08673aa7b5db16153d83bdf656a5.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Love Ke Liye",
+      "description": "Love Ke Liye",
+      "startDate": "2026-09-01T00:00:00",
+      "endDate": "2026-09-01T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/24e001b8e81b778d6f4996d7f10c5348.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Uncanny Tale Of Ancient Yuezhou",
+      "description": "Uncanny Tale Of Ancient Yuezhou",
+      "startDate": "2026-09-01T01:00:00",
+      "endDate": "2026-09-01T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a68b4d7fcb8eced08637686304cccfe.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Uncanny Tale Of Ancient Yuezhou",
+      "description": "Uncanny Tale Of Ancient Yuezhou",
+      "startDate": "2026-09-01T01:30:00",
+      "endDate": "2026-09-01T02:00:00",
+      "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a68b4d7fcb8eced08637686304cccfe.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Bandhan Aur Bagawat",
+      "description": "Bandhan Aur Bagawat",
+      "startDate": "2026-09-01T02:00:00",
+      "endDate": "2026-09-01T03:00:00",
+      "showTime": "02:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abb11be80c32835dd8e7372b85167ee1.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Double Fugue",
+      "description": "Qin Weibai saves her art exhibition by foiling a scheme to swap a painting. Later, her colourblindness is exposed, and Lu Li is linked to a scandal about her birth.",
+      "startDate": "2026-09-01T03:00:00",
+      "endDate": "2026-09-01T04:00:00",
+      "showTime": "03:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e43c08673aa7b5db16153d83bdf656a5.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Love Ke Liye",
+      "description": "Love Ke Liye",
+      "startDate": "2026-09-01T04:00:00",
+      "endDate": "2026-09-01T05:00:00",
+      "showTime": "04:00:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/24e001b8e81b778d6f4996d7f10c5348.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Uncanny Tale Of Ancient Yuezhou",
+      "description": "Uncanny Tale Of Ancient Yuezhou",
+      "startDate": "2026-09-01T05:00:00",
+      "endDate": "2026-09-01T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a68b4d7fcb8eced08637686304cccfe.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Uncanny Tale Of Ancient Yuezhou",
+      "description": "Uncanny Tale Of Ancient Yuezhou",
+      "startDate": "2026-09-01T05:30:00",
+      "endDate": "2026-09-01T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a68b4d7fcb8eced08637686304cccfe.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Bandhan Aur Bagawat",
+      "description": "Bandhan Aur Bagawat",
+      "startDate": "2026-09-01T06:00:00",
+      "endDate": "2026-09-01T07:00:00",
+      "showTime": "06:00:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abb11be80c32835dd8e7372b85167ee1.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Double Fugue",
+      "description": "Qin Weibai saves her art exhibition by foiling a scheme to swap a painting. Later, her colourblindness is exposed, and Lu Li is linked to a scandal about her birth.",
+      "startDate": "2026-09-01T07:00:00",
+      "endDate": "2026-09-01T08:00:00",
+      "showTime": "07:00:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e43c08673aa7b5db16153d83bdf656a5.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Love Ke Liye",
+      "description": "Love Ke Liye",
+      "startDate": "2026-09-01T08:00:00",
+      "endDate": "2026-09-01T09:00:00",
+      "showTime": "08:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/24e001b8e81b778d6f4996d7f10c5348.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Uncanny Tale Of Ancient Yuezhou",
+      "description": "Uncanny Tale Of Ancient Yuezhou",
+      "startDate": "2026-09-01T09:00:00",
+      "endDate": "2026-09-01T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a68b4d7fcb8eced08637686304cccfe.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Uncanny Tale Of Ancient Yuezhou",
+      "description": "Uncanny Tale Of Ancient Yuezhou",
+      "startDate": "2026-09-01T09:30:00",
+      "endDate": "2026-09-01T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a68b4d7fcb8eced08637686304cccfe.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Bandhan Aur Bagawat",
+      "description": "Bandhan Aur Bagawat",
+      "startDate": "2026-09-01T10:00:00",
+      "endDate": "2026-09-01T11:00:00",
+      "showTime": "10:00:00",
+      "endTime": "11:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abb11be80c32835dd8e7372b85167ee1.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Double Fugue",
+      "description": "Qin Weibai saves her art exhibition by foiling a scheme to swap a painting. Later, her colourblindness is exposed, and Lu Li is linked to a scandal about her birth.",
+      "startDate": "2026-09-01T11:00:00",
+      "endDate": "2026-09-01T12:00:00",
+      "showTime": "11:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e43c08673aa7b5db16153d83bdf656a5.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Love Ke Liye",
+      "description": "Love Ke Liye",
+      "startDate": "2026-09-01T12:00:00",
+      "endDate": "2026-09-01T13:00:00",
+      "showTime": "12:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/24e001b8e81b778d6f4996d7f10c5348.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Uncanny Tale Of Ancient Yuezhou",
+      "description": "Uncanny Tale Of Ancient Yuezhou",
+      "startDate": "2026-09-01T13:00:00",
+      "endDate": "2026-09-01T13:30:00",
+      "showTime": "13:00:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a68b4d7fcb8eced08637686304cccfe.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Uncanny Tale Of Ancient Yuezhou",
+      "description": "Uncanny Tale Of Ancient Yuezhou",
+      "startDate": "2026-09-01T13:30:00",
+      "endDate": "2026-09-01T14:00:00",
+      "showTime": "13:30:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a68b4d7fcb8eced08637686304cccfe.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Bandhan Aur Bagawat",
+      "description": "Bandhan Aur Bagawat",
+      "startDate": "2026-09-01T14:00:00",
+      "endDate": "2026-09-01T15:00:00",
+      "showTime": "14:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abb11be80c32835dd8e7372b85167ee1.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Double Fugue",
+      "description": "Qin Weibai saves her art exhibition by foiling a scheme to swap a painting. Later, her colourblindness is exposed, and Lu Li is linked to a scandal about her birth.",
+      "startDate": "2026-09-01T15:00:00",
+      "endDate": "2026-09-01T16:00:00",
+      "showTime": "15:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e43c08673aa7b5db16153d83bdf656a5.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Love Ke Liye",
+      "description": "Love Ke Liye",
+      "startDate": "2026-09-01T16:00:00",
+      "endDate": "2026-09-01T17:00:00",
+      "showTime": "16:00:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/24e001b8e81b778d6f4996d7f10c5348.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Uncanny Tale Of Ancient Yuezhou",
+      "description": "Uncanny Tale Of Ancient Yuezhou",
+      "startDate": "2026-09-01T17:00:00",
+      "endDate": "2026-09-01T17:30:00",
+      "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a68b4d7fcb8eced08637686304cccfe.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Uncanny Tale Of Ancient Yuezhou",
+      "description": "Uncanny Tale Of Ancient Yuezhou",
+      "startDate": "2026-09-01T17:30:00",
+      "endDate": "2026-09-01T18:00:00",
+      "showTime": "17:30:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a68b4d7fcb8eced08637686304cccfe.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Bandhan Aur Bagawat",
+      "description": "Bandhan Aur Bagawat",
+      "startDate": "2026-09-01T18:00:00",
+      "endDate": "2026-09-01T19:00:00",
+      "showTime": "18:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abb11be80c32835dd8e7372b85167ee1.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Double Fugue",
+      "description": "Double Fugue",
+      "startDate": "2026-09-01T19:00:00",
+      "endDate": "2026-09-01T20:00:00",
+      "showTime": "19:00:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e43c08673aa7b5db16153d83bdf656a5.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Love Ke Liye",
+      "description": "Love Ke Liye",
+      "startDate": "2026-09-01T20:00:00",
+      "endDate": "2026-09-01T21:00:00",
+      "showTime": "20:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/24e001b8e81b778d6f4996d7f10c5348.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Uncanny Tale Of Ancient Yuezhou",
+      "description": "Uncanny Tale Of Ancient Yuezhou",
+      "startDate": "2026-09-01T21:00:00",
+      "endDate": "2026-09-01T21:30:00",
+      "showTime": "21:00:00",
+      "endTime": "21:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a68b4d7fcb8eced08637686304cccfe.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Uncanny Tale Of Ancient Yuezhou",
+      "description": "Uncanny Tale Of Ancient Yuezhou",
+      "startDate": "2026-09-01T21:30:00",
+      "endDate": "2026-09-01T22:00:00",
+      "showTime": "21:30:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a68b4d7fcb8eced08637686304cccfe.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Bandhan Aur Bagawat",
+      "description": "Bandhan Aur Bagawat",
+      "startDate": "2026-09-01T22:00:00",
+      "endDate": "2026-09-01T23:00:00",
+      "showTime": "22:00:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abb11be80c32835dd8e7372b85167ee1.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Double Fugue",
+      "description": "Double Fugue",
+      "startDate": "2026-09-01T23:00:00",
+      "endDate": "2026-09-01T23:59:59",
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
