@@ -8,468 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/newsbeatkarnataka.png",
   "programs": [
     {
-      "serverDate": "2026-08-26",
-      "showName": "KNB Express",
-      "description": "KNB Express",
-      "startDate": "2026-08-26T00:00:00",
-      "endDate": "2026-08-26T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d8b7d6ce92212823762ed2556fe31f0.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Cini Beat",
-      "description": "Cini Beat",
-      "startDate": "2026-08-26T00:30:00",
-      "endDate": "2026-08-26T01:00:00",
-      "showTime": "00:30:00",
-      "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e3435cdf1beedf854c138e9418c1c1f.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Big Beat",
-      "description": "Big Beat",
-      "startDate": "2026-08-26T01:00:00",
-      "endDate": "2026-08-26T02:00:00",
-      "showTime": "01:00:00",
-      "endTime": "02:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c529731e679f83eff5a0e259a75c0a58.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "News",
-      "description": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
-      "startDate": "2026-08-26T02:00:00",
-      "endDate": "2026-08-26T02:30:00",
-      "showTime": "02:00:00",
-      "endTime": "02:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9714400633732621fdf62d8fc920d8c3.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Crime Beat",
-      "description": "Investigating a notorious gangster's reappearance, a journalist finds himself trapped in a maze of corruption, deceit and power struggles that test his ambition and survival instincts.",
-      "startDate": "2026-08-26T02:30:00",
-      "endDate": "2026-08-26T03:00:00",
-      "showTime": "02:30:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b86ebb37eaaa287ba3006cbf641115f6.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "News",
-      "description": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
-      "startDate": "2026-08-26T03:00:00",
-      "endDate": "2026-08-26T03:30:00",
-      "showTime": "03:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9714400633732621fdf62d8fc920d8c3.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Ayur Aarogya",
-      "description": "Ayur Aarogya",
-      "startDate": "2026-08-26T03:30:00",
-      "endDate": "2026-08-26T04:00:00",
-      "showTime": "03:30:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/76bcf2dfd642055cf9bde79cea315013.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Nudi Muttu",
-      "description": "Nudi Muttu",
-      "startDate": "2026-08-26T04:00:00",
-      "endDate": "2026-08-26T04:30:00",
-      "showTime": "04:00:00",
-      "endTime": "04:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/272d8bcfa9c9bbe6dc8e0e12b08d28c6.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Cini Beat",
-      "description": "Cini Beat",
-      "startDate": "2026-08-26T04:30:00",
-      "endDate": "2026-08-26T05:00:00",
-      "showTime": "04:30:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e3435cdf1beedf854c138e9418c1c1f.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Digdarshana",
-      "description": "Digdarshana",
-      "startDate": "2026-08-26T05:00:00",
-      "endDate": "2026-08-26T05:30:00",
-      "showTime": "05:00:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/93eebde94a7f7b1e4ea096e83a4b20cb.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Yoga Yoga",
-      "description": "Yoga Yoga",
-      "startDate": "2026-08-26T05:30:00",
-      "endDate": "2026-08-26T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4e21f3151faa3cc3a92bc45b90c34d6.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Gana Sudhe",
-      "description": "Gana Sudhe",
-      "startDate": "2026-08-26T06:00:00",
-      "endDate": "2026-08-26T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e0a0c0d5a6fd6ca247bd10e31082ebe7.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Nudi Muttu",
-      "description": "Nudi Muttu",
-      "startDate": "2026-08-26T06:30:00",
-      "endDate": "2026-08-26T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/272d8bcfa9c9bbe6dc8e0e12b08d28c6.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Bharat News Beat",
-      "description": "Bharat News Beat",
-      "startDate": "2026-08-26T07:00:00",
-      "endDate": "2026-08-26T07:30:00",
-      "showTime": "07:00:00",
-      "endTime": "07:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ffee34ffb55f1ce52462aa7405e2d28f.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Big Beat",
-      "description": "Big Beat",
-      "startDate": "2026-08-26T07:30:00",
-      "endDate": "2026-08-26T08:30:00",
-      "showTime": "07:30:00",
-      "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c529731e679f83eff5a0e259a75c0a58.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Nakshatra Nadi",
-      "description": "A renowned astrologer provides personalised predictions to individuals through live phone consultations, using numerology and zodiac signs, and offers effective remedies to address their concerns.",
-      "startDate": "2026-08-26T08:30:00",
-      "endDate": "2026-08-26T09:00:00",
-      "showTime": "08:30:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b0e6b3db1379c4cfbc6f853893935ed.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "News",
-      "description": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
-      "startDate": "2026-08-26T09:00:00",
-      "endDate": "2026-08-26T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9714400633732621fdf62d8fc920d8c3.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Viral Beat",
-      "description": "Viral Beat",
-      "startDate": "2026-08-26T09:30:00",
-      "endDate": "2026-08-26T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c87e8dc82b601c24fdf15a927c7aeef0.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "News",
-      "description": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
-      "startDate": "2026-08-26T10:00:00",
-      "endDate": "2026-08-26T10:30:00",
-      "showTime": "10:00:00",
-      "endTime": "10:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9714400633732621fdf62d8fc920d8c3.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "KNB SPL News",
-      "description": "KNB SPL News",
-      "startDate": "2026-08-26T10:30:00",
-      "endDate": "2026-08-26T11:00:00",
-      "showTime": "10:30:00",
-      "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7867ac8a1c831804a4d0456f72930b06.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "KNB Express",
-      "description": "KNB Express",
-      "startDate": "2026-08-26T11:00:00",
-      "endDate": "2026-08-26T11:30:00",
-      "showTime": "11:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d8b7d6ce92212823762ed2556fe31f0.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Cini Beat",
-      "description": "Cini Beat",
-      "startDate": "2026-08-26T11:30:00",
-      "endDate": "2026-08-26T12:00:00",
-      "showTime": "11:30:00",
-      "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e3435cdf1beedf854c138e9418c1c1f.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "News",
-      "description": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
-      "startDate": "2026-08-26T12:00:00",
-      "endDate": "2026-08-26T12:30:00",
-      "showTime": "12:00:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9714400633732621fdf62d8fc920d8c3.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Crime Beat",
-      "description": "Investigating a notorious gangster's reappearance, a journalist finds himself trapped in a maze of corruption, deceit and power struggles that test his ambition and survival instincts.",
-      "startDate": "2026-08-26T12:30:00",
-      "endDate": "2026-08-26T13:00:00",
-      "showTime": "12:30:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b86ebb37eaaa287ba3006cbf641115f6.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "News",
-      "description": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
-      "startDate": "2026-08-26T13:00:00",
-      "endDate": "2026-08-26T13:30:00",
-      "showTime": "13:00:00",
-      "endTime": "13:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9714400633732621fdf62d8fc920d8c3.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Badukina Pata",
-      "description": "Badukina Pata",
-      "startDate": "2026-08-26T13:30:00",
-      "endDate": "2026-08-26T14:00:00",
-      "showTime": "13:30:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5a41b32794461e9a6aa600c292b3b262.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "News",
-      "description": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
-      "startDate": "2026-08-26T14:00:00",
-      "endDate": "2026-08-26T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9714400633732621fdf62d8fc920d8c3.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Ayur Aarogya",
-      "description": "Ayur Aarogya",
-      "startDate": "2026-08-26T14:30:00",
-      "endDate": "2026-08-26T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/76bcf2dfd642055cf9bde79cea315013.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "News",
-      "description": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
-      "startDate": "2026-08-26T15:00:00",
-      "endDate": "2026-08-26T15:30:00",
-      "showTime": "15:00:00",
-      "endTime": "15:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9714400633732621fdf62d8fc920d8c3.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Old Is Gold",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-08-26T15:30:00",
-      "endDate": "2026-08-26T16:00:00",
-      "showTime": "15:30:00",
-      "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1d383a058cd03269aa91cbcbca7c0ee1.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "KNB Express",
-      "description": "KNB Express",
-      "startDate": "2026-08-26T16:00:00",
-      "endDate": "2026-08-26T16:30:00",
-      "showTime": "16:00:00",
-      "endTime": "16:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d8b7d6ce92212823762ed2556fe31f0.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Ayur Aarogya",
-      "description": "Ayur Aarogya",
-      "startDate": "2026-08-26T16:30:00",
-      "endDate": "2026-08-26T17:00:00",
-      "showTime": "16:30:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/76bcf2dfd642055cf9bde79cea315013.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "News",
-      "description": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.",
-      "startDate": "2026-08-26T17:00:00",
-      "endDate": "2026-08-26T17:30:00",
-      "showTime": "17:00:00",
-      "endTime": "17:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9714400633732621fdf62d8fc920d8c3.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Nakshatra Nadi",
-      "description": "A renowned astrologer provides personalised predictions to individuals through live phone consultations, using numerology and zodiac signs, and offers effective remedies to address their concerns.",
-      "startDate": "2026-08-26T17:30:00",
-      "endDate": "2026-08-26T18:00:00",
-      "showTime": "17:30:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b0e6b3db1379c4cfbc6f853893935ed.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "KNB Express",
-      "description": "KNB Express",
-      "startDate": "2026-08-26T18:00:00",
-      "endDate": "2026-08-26T18:30:00",
-      "showTime": "18:00:00",
-      "endTime": "18:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d8b7d6ce92212823762ed2556fe31f0.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Cini Beat",
-      "description": "Cini Beat",
-      "startDate": "2026-08-26T18:30:00",
-      "endDate": "2026-08-26T19:00:00",
-      "showTime": "18:30:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e3435cdf1beedf854c138e9418c1c1f.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Krishi Beat",
-      "description": "Krishi Beat",
-      "startDate": "2026-08-26T19:00:00",
-      "endDate": "2026-08-26T19:30:00",
-      "showTime": "19:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c089a38a992ee5293e9746dcdabf9eaa.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Big Beat",
-      "description": "Big Beat",
-      "startDate": "2026-08-26T19:30:00",
-      "endDate": "2026-08-26T20:30:00",
-      "showTime": "19:30:00",
-      "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c529731e679f83eff5a0e259a75c0a58.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Crime Beat",
-      "description": "Investigating a notorious gangster's reappearance, a journalist finds himself trapped in a maze of corruption, deceit and power struggles that test his ambition and survival instincts.",
-      "startDate": "2026-08-26T20:30:00",
-      "endDate": "2026-08-26T21:00:00",
-      "showTime": "20:30:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b86ebb37eaaa287ba3006cbf641115f6.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Bharat News Beat",
-      "description": "Bharat News Beat",
-      "startDate": "2026-08-26T21:00:00",
-      "endDate": "2026-08-26T22:00:00",
-      "showTime": "21:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ffee34ffb55f1ce52462aa7405e2d28f.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Big Beat",
-      "description": "Big Beat",
-      "startDate": "2026-08-26T22:00:00",
-      "endDate": "2026-08-26T23:00:00",
-      "showTime": "22:00:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c529731e679f83eff5a0e259a75c0a58.jpg"
-    },
-    {
-      "serverDate": "2026-08-26",
-      "showName": "Bharat News Beat",
-      "description": "Bharat News Beat",
-      "startDate": "2026-08-26T23:00:00",
-      "endDate": "2026-08-26T23:59:59",
-      "showTime": "23:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ffee34ffb55f1ce52462aa7405e2d28f.jpg"
-    },
-    {
       "serverDate": "2026-08-27",
       "showName": "KNB Express",
       "description": "KNB Express",
@@ -2979,14 +2517,14 @@
     },
     {
       "serverDate": "2026-09-01",
-      "showName": "The News",
-      "description": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
       "startDate": "2026-09-01T09:00:00",
       "endDate": "2026-09-01T09:30:00",
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/388c03e295a70aa1876613d84bacff39.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
     },
     {
       "serverDate": "2026-09-01",
@@ -3001,14 +2539,14 @@
     },
     {
       "serverDate": "2026-09-01",
-      "showName": "The News",
-      "description": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
       "startDate": "2026-09-01T10:00:00",
       "endDate": "2026-09-01T10:30:00",
       "showTime": "10:00:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/388c03e295a70aa1876613d84bacff39.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
     },
     {
       "serverDate": "2026-09-01",
@@ -3045,14 +2583,14 @@
     },
     {
       "serverDate": "2026-09-01",
-      "showName": "The News",
-      "description": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
       "startDate": "2026-09-01T12:00:00",
       "endDate": "2026-09-01T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/388c03e295a70aa1876613d84bacff39.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
     },
     {
       "serverDate": "2026-09-01",
@@ -3067,14 +2605,14 @@
     },
     {
       "serverDate": "2026-09-01",
-      "showName": "The News",
-      "description": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
       "startDate": "2026-09-01T13:00:00",
       "endDate": "2026-09-01T13:30:00",
       "showTime": "13:00:00",
       "endTime": "13:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/388c03e295a70aa1876613d84bacff39.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
     },
     {
       "serverDate": "2026-09-01",
@@ -3089,14 +2627,14 @@
     },
     {
       "serverDate": "2026-09-01",
-      "showName": "The News",
-      "description": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
       "startDate": "2026-09-01T14:00:00",
       "endDate": "2026-09-01T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/388c03e295a70aa1876613d84bacff39.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
     },
     {
       "serverDate": "2026-09-01",
@@ -3111,14 +2649,14 @@
     },
     {
       "serverDate": "2026-09-01",
-      "showName": "The News",
-      "description": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
       "startDate": "2026-09-01T15:00:00",
       "endDate": "2026-09-01T15:30:00",
       "showTime": "15:00:00",
       "endTime": "15:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/388c03e295a70aa1876613d84bacff39.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
     },
     {
       "serverDate": "2026-09-01",
@@ -3155,14 +2693,14 @@
     },
     {
       "serverDate": "2026-09-01",
-      "showName": "The News",
-      "description": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
       "startDate": "2026-09-01T17:00:00",
       "endDate": "2026-09-01T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/388c03e295a70aa1876613d84bacff39.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
     },
     {
       "serverDate": "2026-09-01",
@@ -3199,14 +2737,14 @@
     },
     {
       "serverDate": "2026-09-01",
-      "showName": "The News",
-      "description": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
       "startDate": "2026-09-01T19:00:00",
       "endDate": "2026-09-01T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/388c03e295a70aa1876613d84bacff39.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
     },
     {
       "serverDate": "2026-09-01",
@@ -3298,14 +2836,14 @@
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "The News",
-      "description": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
       "startDate": "2026-09-02T02:00:00",
       "endDate": "2026-09-02T02:30:00",
       "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/388c03e295a70aa1876613d84bacff39.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -3320,14 +2858,14 @@
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "The News",
-      "description": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
       "startDate": "2026-09-02T03:00:00",
       "endDate": "2026-09-02T03:30:00",
       "showTime": "03:00:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/388c03e295a70aa1876613d84bacff39.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -3441,14 +2979,14 @@
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "The News",
-      "description": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
       "startDate": "2026-09-02T09:00:00",
       "endDate": "2026-09-02T09:30:00",
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/388c03e295a70aa1876613d84bacff39.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -3463,14 +3001,14 @@
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "The News",
-      "description": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
       "startDate": "2026-09-02T10:00:00",
       "endDate": "2026-09-02T10:30:00",
       "showTime": "10:00:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/388c03e295a70aa1876613d84bacff39.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -3507,14 +3045,14 @@
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "The News",
-      "description": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
       "startDate": "2026-09-02T12:00:00",
       "endDate": "2026-09-02T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/388c03e295a70aa1876613d84bacff39.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -3529,14 +3067,14 @@
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "The News",
-      "description": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
       "startDate": "2026-09-02T13:00:00",
       "endDate": "2026-09-02T13:30:00",
       "showTime": "13:00:00",
       "endTime": "13:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/388c03e295a70aa1876613d84bacff39.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -3551,14 +3089,14 @@
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "The News",
-      "description": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
       "startDate": "2026-09-02T14:00:00",
       "endDate": "2026-09-02T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/388c03e295a70aa1876613d84bacff39.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -3573,14 +3111,14 @@
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "The News",
-      "description": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
       "startDate": "2026-09-02T15:00:00",
       "endDate": "2026-09-02T15:30:00",
       "showTime": "15:00:00",
       "endTime": "15:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/388c03e295a70aa1876613d84bacff39.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -3617,14 +3155,14 @@
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "The News",
-      "description": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
       "startDate": "2026-09-02T17:00:00",
       "endDate": "2026-09-02T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/388c03e295a70aa1876613d84bacff39.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -3661,14 +3199,14 @@
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "The News",
-      "description": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
       "startDate": "2026-09-02T19:00:00",
       "endDate": "2026-09-02T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/388c03e295a70aa1876613d84bacff39.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -3720,6 +3258,468 @@
       "description": "Bharat News Beat",
       "startDate": "2026-09-02T23:00:00",
       "endDate": "2026-09-02T23:59:59",
+      "showTime": "23:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ffee34ffb55f1ce52462aa7405e2d28f.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "KNB Express",
+      "description": "KNB Express",
+      "startDate": "2026-09-03T00:00:00",
+      "endDate": "2026-09-03T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d8b7d6ce92212823762ed2556fe31f0.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Cini Beat",
+      "description": "Cini Beat",
+      "startDate": "2026-09-03T00:30:00",
+      "endDate": "2026-09-03T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e3435cdf1beedf854c138e9418c1c1f.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "News Beat",
+      "description": "News Beat",
+      "startDate": "2026-09-03T01:00:00",
+      "endDate": "2026-09-03T02:00:00",
+      "showTime": "01:00:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
+      "startDate": "2026-09-03T02:00:00",
+      "endDate": "2026-09-03T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Crime Beat",
+      "description": "Investigating a notorious gangster's reappearance, a journalist finds himself trapped in a maze of corruption, deceit and power struggles that test his ambition and survival instincts.",
+      "startDate": "2026-09-03T02:30:00",
+      "endDate": "2026-09-03T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b86ebb37eaaa287ba3006cbf641115f6.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
+      "startDate": "2026-09-03T03:00:00",
+      "endDate": "2026-09-03T03:30:00",
+      "showTime": "03:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Ayur Aarogya",
+      "description": "Ayur Aarogya",
+      "startDate": "2026-09-03T03:30:00",
+      "endDate": "2026-09-03T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/76bcf2dfd642055cf9bde79cea315013.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Nudi Muttu",
+      "description": "Nudi Muttu",
+      "startDate": "2026-09-03T04:00:00",
+      "endDate": "2026-09-03T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/272d8bcfa9c9bbe6dc8e0e12b08d28c6.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Cini Beat",
+      "description": "Cini Beat",
+      "startDate": "2026-09-03T04:30:00",
+      "endDate": "2026-09-03T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e3435cdf1beedf854c138e9418c1c1f.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Digdarshana",
+      "description": "Digdarshana",
+      "startDate": "2026-09-03T05:00:00",
+      "endDate": "2026-09-03T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/93eebde94a7f7b1e4ea096e83a4b20cb.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Yoga Yoga",
+      "description": "Yoga Yoga",
+      "startDate": "2026-09-03T05:30:00",
+      "endDate": "2026-09-03T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4e21f3151faa3cc3a92bc45b90c34d6.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Gana Sudhe",
+      "description": "Gana Sudhe",
+      "startDate": "2026-09-03T06:00:00",
+      "endDate": "2026-09-03T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e0a0c0d5a6fd6ca247bd10e31082ebe7.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Bharat News Beat",
+      "description": "Bharat News Beat",
+      "startDate": "2026-09-03T06:30:00",
+      "endDate": "2026-09-03T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ffee34ffb55f1ce52462aa7405e2d28f.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "News Beat",
+      "description": "News Beat",
+      "startDate": "2026-09-03T07:00:00",
+      "endDate": "2026-09-03T08:00:00",
+      "showTime": "07:00:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Nakshatra Nadi",
+      "description": "A renowned astrologer provides personalised predictions to individuals through live phone consultations, using numerology and zodiac signs, and offers effective remedies to address their concerns.",
+      "startDate": "2026-09-03T08:00:00",
+      "endDate": "2026-09-03T08:30:00",
+      "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b0e6b3db1379c4cfbc6f853893935ed.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Cini Beat",
+      "description": "Cini Beat",
+      "startDate": "2026-09-03T08:30:00",
+      "endDate": "2026-09-03T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e3435cdf1beedf854c138e9418c1c1f.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
+      "startDate": "2026-09-03T09:00:00",
+      "endDate": "2026-09-03T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Viral Beat",
+      "description": "Viral Beat",
+      "startDate": "2026-09-03T09:30:00",
+      "endDate": "2026-09-03T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c87e8dc82b601c24fdf15a927c7aeef0.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
+      "startDate": "2026-09-03T10:00:00",
+      "endDate": "2026-09-03T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Bharat News Beat",
+      "description": "Bharat News Beat",
+      "startDate": "2026-09-03T10:30:00",
+      "endDate": "2026-09-03T11:00:00",
+      "showTime": "10:30:00",
+      "endTime": "11:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ffee34ffb55f1ce52462aa7405e2d28f.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "KNB Express",
+      "description": "KNB Express",
+      "startDate": "2026-09-03T11:00:00",
+      "endDate": "2026-09-03T11:30:00",
+      "showTime": "11:00:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d8b7d6ce92212823762ed2556fe31f0.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Cini Beat",
+      "description": "Cini Beat",
+      "startDate": "2026-09-03T11:30:00",
+      "endDate": "2026-09-03T12:00:00",
+      "showTime": "11:30:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e3435cdf1beedf854c138e9418c1c1f.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
+      "startDate": "2026-09-03T12:00:00",
+      "endDate": "2026-09-03T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Ayur Aarogya",
+      "description": "Ayur Aarogya",
+      "startDate": "2026-09-03T12:30:00",
+      "endDate": "2026-09-03T13:00:00",
+      "showTime": "12:30:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/76bcf2dfd642055cf9bde79cea315013.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
+      "startDate": "2026-09-03T13:00:00",
+      "endDate": "2026-09-03T13:30:00",
+      "showTime": "13:00:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Viral Beat",
+      "description": "Viral Beat",
+      "startDate": "2026-09-03T13:30:00",
+      "endDate": "2026-09-03T14:00:00",
+      "showTime": "13:30:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c87e8dc82b601c24fdf15a927c7aeef0.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
+      "startDate": "2026-09-03T14:00:00",
+      "endDate": "2026-09-03T14:30:00",
+      "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Excel Academice",
+      "description": "Excel Academice",
+      "startDate": "2026-09-03T14:30:00",
+      "endDate": "2026-09-03T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
+      "startDate": "2026-09-03T15:00:00",
+      "endDate": "2026-09-03T15:30:00",
+      "showTime": "15:00:00",
+      "endTime": "15:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Old Is Gold",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-03T15:30:00",
+      "endDate": "2026-09-03T16:00:00",
+      "showTime": "15:30:00",
+      "endTime": "16:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1d383a058cd03269aa91cbcbca7c0ee1.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "KNB Express",
+      "description": "KNB Express",
+      "startDate": "2026-09-03T16:00:00",
+      "endDate": "2026-09-03T16:30:00",
+      "showTime": "16:00:00",
+      "endTime": "16:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d8b7d6ce92212823762ed2556fe31f0.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Crime Beat",
+      "description": "Investigating a notorious gangster's reappearance, a journalist finds himself trapped in a maze of corruption, deceit and power struggles that test his ambition and survival instincts.",
+      "startDate": "2026-09-03T16:30:00",
+      "endDate": "2026-09-03T17:00:00",
+      "showTime": "16:30:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b86ebb37eaaa287ba3006cbf641115f6.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
+      "startDate": "2026-09-03T17:00:00",
+      "endDate": "2026-09-03T17:30:00",
+      "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "KNB SPL News",
+      "description": "KNB SPL News",
+      "startDate": "2026-09-03T17:30:00",
+      "endDate": "2026-09-03T18:00:00",
+      "showTime": "17:30:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7867ac8a1c831804a4d0456f72930b06.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "KNB Express",
+      "description": "KNB Express",
+      "startDate": "2026-09-03T18:00:00",
+      "endDate": "2026-09-03T18:30:00",
+      "showTime": "18:00:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d8b7d6ce92212823762ed2556fe31f0.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Cini Beat",
+      "description": "Cini Beat",
+      "startDate": "2026-09-03T18:30:00",
+      "endDate": "2026-09-03T19:00:00",
+      "showTime": "18:30:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e3435cdf1beedf854c138e9418c1c1f.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
+      "startDate": "2026-09-03T19:00:00",
+      "endDate": "2026-09-03T19:30:00",
+      "showTime": "19:00:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "News Beat",
+      "description": "News Beat",
+      "startDate": "2026-09-03T19:30:00",
+      "endDate": "2026-09-03T20:30:00",
+      "showTime": "19:30:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Crime Beat",
+      "description": "Investigating a notorious gangster's reappearance, a journalist finds himself trapped in a maze of corruption, deceit and power struggles that test his ambition and survival instincts.",
+      "startDate": "2026-09-03T20:30:00",
+      "endDate": "2026-09-03T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b86ebb37eaaa287ba3006cbf641115f6.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Bharat News Beat",
+      "description": "Bharat News Beat",
+      "startDate": "2026-09-03T21:00:00",
+      "endDate": "2026-09-03T22:00:00",
+      "showTime": "21:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ffee34ffb55f1ce52462aa7405e2d28f.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "News Beat",
+      "description": "News Beat",
+      "startDate": "2026-09-03T22:00:00",
+      "endDate": "2026-09-03T23:00:00",
+      "showTime": "22:00:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Bharat News Beat",
+      "description": "Bharat News Beat",
+      "startDate": "2026-09-03T23:00:00",
+      "endDate": "2026-09-03T23:59:59",
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
