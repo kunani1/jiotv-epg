@@ -8,149 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Dsports_HD.png",
   "programs": [
     {
-      "serverDate": "2026-08-27",
-      "showName": "Big Cricket League",
-      "description": "Coverage of the professional cricket league.",
-      "startDate": "2026-08-27T00:00:00",
-      "endDate": "2026-08-27T03:30:00",
-      "showTime": "00:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3b094ee9b466b4fd07cb4948c9e8f9f3.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Speedway Review",
-      "description": "Highlights from the races held in Manchester as part of the Speedway Grand Prix, where professional motorcycle racers compete against each other for victory.",
-      "startDate": "2026-08-27T03:30:00",
-      "endDate": "2026-08-27T05:30:00",
-      "showTime": "03:30:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/64cf19b39e2b147575b352666b279c8a.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "AEW Dynamite",
-      "description": "Professional wrestlers compete against each other in the AEW Dynamite event in order to emerge victorious and win the title.",
-      "startDate": "2026-08-27T05:30:00",
-      "endDate": "2026-08-27T07:30:00",
-      "showTime": "05:30:00",
-      "endTime": "07:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e253288f0a950e0a0a098e3abba28124.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Ultimate Cricket Challenge",
-      "description": "Professional players compete against each other to emerge victorious in the Ultimate Cricket Challenge to win the title.",
-      "startDate": "2026-08-27T07:30:00",
-      "endDate": "2026-08-27T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b16a875c50b674f92d1448e27ff9ea09.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "IMPACT in 60",
-      "description": "The filmmaker highlights some of the most memorable matches, wrestlers, championships, factions and more from the 18-year history of Impact Wrestling.",
-      "startDate": "2026-08-27T08:00:00",
-      "endDate": "2026-08-27T09:00:00",
-      "showTime": "08:00:00",
-      "endTime": "09:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/60bc6739423c38778056a36fbb5d1915.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Professional Fighters League",
-      "description": "Highlights of Professional fighters from around the world compete against each other in a prestigious tournament in a bid to win the coveted title.",
-      "startDate": "2026-08-27T09:00:00",
-      "endDate": "2026-08-27T10:00:00",
-      "showTime": "09:00:00",
-      "endTime": "10:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/64e80eeee36a3f0e671733d6ee33ec6d.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "TNA Epics",
-      "description": "The host presents an exciting compilation of classic professional wrestling matches, highlighting legendary athletes and unforgettable moments from the history of the sport.",
-      "startDate": "2026-08-27T10:00:00",
-      "endDate": "2026-08-27T11:00:00",
-      "showTime": "10:00:00",
-      "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c62845d221a5eb0f6c3192a61ceb56c2.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "World Pickleball League",
-      "description": "Players from different parts of the world participate in the World Pickleball League and showcase their unique skills in order to emerge victorious.",
-      "startDate": "2026-08-27T11:00:00",
-      "endDate": "2026-08-27T13:00:00",
-      "showTime": "11:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f4d496643e1c4b6b48658842ff081a1.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Professional Fighters League",
-      "description": "Highlights of Professional fighters from around the world compete against each other in a prestigious tournament in a bid to win the coveted title.",
-      "startDate": "2026-08-27T13:00:00",
-      "endDate": "2026-08-27T16:00:00",
-      "showTime": "13:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/64e80eeee36a3f0e671733d6ee33ec6d.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "World Pickleball League",
-      "description": "Players from different parts of the world participate in the World Pickleball League and showcase their unique skills in order to emerge victorious.",
-      "startDate": "2026-08-27T16:00:00",
-      "endDate": "2026-08-27T18:00:00",
-      "showTime": "16:00:00",
-      "endTime": "18:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f4d496643e1c4b6b48658842ff081a1.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "AEW Dynamite",
-      "description": "Professional wrestlers compete against each other in the AEW Dynamite event in order to emerge victorious and win the title.",
-      "startDate": "2026-08-27T18:00:00",
-      "endDate": "2026-08-27T20:00:00",
-      "showTime": "18:00:00",
-      "endTime": "20:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e253288f0a950e0a0a098e3abba28124.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Eredivisie Soccer",
-      "description": "Professional football teams compete against each other in order to emerge victorious in the Eredivisie, a premier football tournament in the Netherlands.",
-      "startDate": "2026-08-27T20:00:00",
-      "endDate": "2026-08-27T22:00:00",
-      "showTime": "20:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c42ec8ca139cb99d6d70a363a8ee46f.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "TNA Impact",
-      "description": "Professional wrestlers compete against some of the renowned names in one of the most recognised wrestling competitions in order to win.",
-      "startDate": "2026-08-27T22:00:00",
-      "endDate": "2026-08-27T23:59:59",
-      "showTime": "22:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8b953fa1df7180f6617abb07c677a0f.jpg"
-    },
-    {
       "serverDate": "2026-08-28",
       "showName": "Trail World Series",
       "description": "Trail World Series",
@@ -1293,6 +1150,160 @@
       "endTime": "23:59:59",
       "showCategory": "Sports non-event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8b953fa1df7180f6617abb07c677a0f.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "World Pickleball League",
+      "description": "Players from different parts of the world participate in the World Pickleball League and showcase their unique skills in order to emerge victorious.",
+      "startDate": "2026-09-04T00:00:00",
+      "endDate": "2026-09-04T02:00:00",
+      "showTime": "00:00:00",
+      "endTime": "02:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f4d496643e1c4b6b48658842ff081a1.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "MLS Soccer",
+      "description": "Professional football players compete against each other in the MLS Soccer.",
+      "startDate": "2026-09-04T02:00:00",
+      "endDate": "2026-09-04T04:00:00",
+      "showTime": "02:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a30f65b358a5cb1d1a65bceeb31f9e6.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Big Cricket League",
+      "description": "Coverage of the professional cricket league.",
+      "startDate": "2026-09-04T04:00:00",
+      "endDate": "2026-09-04T07:00:00",
+      "showTime": "04:00:00",
+      "endTime": "07:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3b094ee9b466b4fd07cb4948c9e8f9f3.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "IMPACT in 60",
+      "description": "The filmmaker highlights some of the most memorable matches, wrestlers, championships, factions and more from the 18-year history of Impact Wrestling.",
+      "startDate": "2026-09-04T07:00:00",
+      "endDate": "2026-09-04T08:00:00",
+      "showTime": "07:00:00",
+      "endTime": "08:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/60bc6739423c38778056a36fbb5d1915.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "AEW Collision",
+      "description": "Popular pro-wrestlers from the AEW Roster compete against each other in fights every Saturday to win the championship title.",
+      "startDate": "2026-09-04T08:00:00",
+      "endDate": "2026-09-04T10:00:00",
+      "showTime": "08:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff02d924ee4ae092009da120672aaa1f.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "TNA British Boot Camp",
+      "description": "Documenting the careers of British professional wrestlers seeking a contract with TNA Wrestling.",
+      "startDate": "2026-09-04T10:00:00",
+      "endDate": "2026-09-04T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a116b119e588f3d71b6b872051c3e90.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Eredivisie Soccer",
+      "description": "Professional football teams compete against each other in order to emerge victorious in the Eredivisie, a premier football tournament in the Netherlands.",
+      "startDate": "2026-09-04T10:30:00",
+      "endDate": "2026-09-04T12:30:00",
+      "showTime": "10:30:00",
+      "endTime": "12:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c42ec8ca139cb99d6d70a363a8ee46f.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "TNA Lockdown",
+      "description": "TNA Lockdown",
+      "startDate": "2026-09-04T12:30:00",
+      "endDate": "2026-09-04T16:00:00",
+      "showTime": "12:30:00",
+      "endTime": "16:00:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c1091ec202a2feafe4f00a3f8ee31153.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Eredivisie Soccer",
+      "description": "Eredivisie Soccer",
+      "startDate": "2026-09-04T16:00:00",
+      "endDate": "2026-09-04T17:00:00",
+      "showTime": "16:00:00",
+      "endTime": "17:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5048ca0e14405bdd4c7b51ae9cb191f6.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "British Superbikes Motorcycle Racing",
+      "description": "Highlights and coverage of the British Superbike action.",
+      "startDate": "2026-09-04T17:00:00",
+      "endDate": "2026-09-04T18:00:00",
+      "showTime": "17:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f48eb6e1f5945da622b41d22a1ecc31.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "IMPACT in 60",
+      "description": "The filmmaker highlights some of the most memorable matches, wrestlers, championships, factions and more from the 18-year history of Impact Wrestling.",
+      "startDate": "2026-09-04T18:00:00",
+      "endDate": "2026-09-04T19:00:00",
+      "showTime": "18:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/60bc6739423c38778056a36fbb5d1915.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "TNA Wrestling: Pehalwani Patakha",
+      "description": "Highlights from the IMPACT wrestling series of TNA Wrestling, where professional wrestlers compete against each other for victory, in Hindi.",
+      "startDate": "2026-09-04T19:00:00",
+      "endDate": "2026-09-04T20:00:00",
+      "showTime": "19:00:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b513751135ee37fd96b2f29eb568c57d.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "MLS Soccer",
+      "description": "Professional football players compete against each other in the MLS Soccer.",
+      "startDate": "2026-09-04T20:00:00",
+      "endDate": "2026-09-04T22:00:00",
+      "showTime": "20:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a30f65b358a5cb1d1a65bceeb31f9e6.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "AEW Dynamite",
+      "description": "Professional wrestlers compete against each other in the AEW Dynamite event in order to emerge victorious and win the title.",
+      "startDate": "2026-09-04T22:00:00",
+      "endDate": "2026-09-04T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e253288f0a950e0a0a098e3abba28124.jpg"
     }
   ]
 }

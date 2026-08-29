@@ -8,424 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png",
   "programs": [
     {
-      "serverDate": "2026-08-27",
-      "showName": "Wow Emi Ruchi",
-      "description": "A culinary expert shares various cooking tips and recipes in a manner that is simple and easy to understand.",
-      "startDate": "2026-08-27T00:00:00",
-      "endDate": "2026-08-27T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/811f2b8d7953f0a33d3b7d779189ec14.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Indian Kitchen",
-      "description": "A culinary expert shares a variety of recipes from different cuisines, demonstrating the process of cooking the dish step by step.",
-      "startDate": "2026-08-27T00:30:00",
-      "endDate": "2026-08-27T01:00:00",
-      "showTime": "00:30:00",
-      "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/855e434039b3194b7ca672adeccfb9a0.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Only Non-veg",
-      "description": "The host prepares a variety of non-vegetarian delicacies from different parts of the world and shares cooking tips and techniques.",
-      "startDate": "2026-08-27T01:00:00",
-      "endDate": "2026-08-27T01:30:00",
-      "showTime": "01:00:00",
-      "endTime": "01:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3b6d9e5d6691b5a900660a960947c3f8.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Gorumuddalu",
-      "description": "The host prepares various healthy and tasty recipes for infants, providing insights into their nutritional value and benefits.",
-      "startDate": "2026-08-27T01:30:00",
-      "endDate": "2026-08-27T01:45:00",
-      "showTime": "01:30:00",
-      "endTime": "01:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d3a83b64b26803bd002834ee5fda0a5c.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Young Chef",
-      "description": "The chef prepares easy, mouth-watering dishes using simple recipes that can be recreated at home with the help of basic ingredients.",
-      "startDate": "2026-08-27T01:45:00",
-      "endDate": "2026-08-27T02:00:00",
-      "showTime": "01:45:00",
-      "endTime": "02:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/37e0918277cc8d759928370fe3fbde8d.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Aaharaveedhilo",
-      "description": "The host visits some of the most popular fast food restaurants and joints in the city that serve delicious street delicacies.",
-      "startDate": "2026-08-27T02:00:00",
-      "endDate": "2026-08-27T02:30:00",
-      "showTime": "02:00:00",
-      "endTime": "02:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/982bfbffea0895d0dbba70287fc751c7.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Wow Emi Ruchi",
-      "description": "A culinary expert shares various cooking tips and recipes in a manner that is simple and easy to understand.",
-      "startDate": "2026-08-27T02:30:00",
-      "endDate": "2026-08-27T03:00:00",
-      "showTime": "02:30:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/811f2b8d7953f0a33d3b7d779189ec14.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Amma Chethi Vanta",
-      "description": "The host, Bhargavi, demonstrates a delicious variety of Andhra-style cuisine and shares tips and tricks for other cooking recipes.",
-      "startDate": "2026-08-27T03:00:00",
-      "endDate": "2026-08-27T03:15:00",
-      "showTime": "03:00:00",
-      "endTime": "03:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d49d63b344a60df28a3235b827f8870.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Indian Kitchen",
-      "description": "A culinary expert shares a variety of recipes from different cuisines, demonstrating the process of cooking the dish step by step.",
-      "startDate": "2026-08-27T03:15:00",
-      "endDate": "2026-08-27T03:45:00",
-      "showTime": "03:15:00",
-      "endTime": "03:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/855e434039b3194b7ca672adeccfb9a0.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Diet Menu",
-      "description": "Various health experts share recipes of dishes that are both delicious and nutritious, thus helping one to maintain a proper diet.",
-      "startDate": "2026-08-27T03:45:00",
-      "endDate": "2026-08-27T04:00:00",
-      "showTime": "03:45:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/01dafa23bea7ff6da01b650a9c8b19a4.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Young Chef",
-      "description": "The chef prepares easy, mouth-watering dishes using simple recipes that can be recreated at home with the help of basic ingredients.",
-      "startDate": "2026-08-27T04:00:00",
-      "endDate": "2026-08-27T04:15:00",
-      "showTime": "04:00:00",
-      "endTime": "04:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/37e0918277cc8d759928370fe3fbde8d.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Wow Emi Ruchi",
-      "description": "A culinary expert shares various cooking tips and recipes in a manner that is simple and easy to understand.",
-      "startDate": "2026-08-27T04:15:00",
-      "endDate": "2026-08-27T04:45:00",
-      "showTime": "04:15:00",
-      "endTime": "04:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/811f2b8d7953f0a33d3b7d779189ec14.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Super Chef",
-      "description": "A renowned chef uses a number of ingredients and shares recipes of exotic and tasty preparations, while encouraging viewers to try them at home.",
-      "startDate": "2026-08-27T04:45:00",
-      "endDate": "2026-08-27T05:00:00",
-      "showTime": "04:45:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/761b50e6ab57c9f87679855623ec8586.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Amma Chethi Vanta",
-      "description": "The host, Bhargavi, demonstrates a delicious variety of Andhra-style cuisine and shares tips and tricks for other cooking recipes.",
-      "startDate": "2026-08-27T05:00:00",
-      "endDate": "2026-08-27T05:15:00",
-      "showTime": "05:00:00",
-      "endTime": "05:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d49d63b344a60df28a3235b827f8870.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Diet Menu",
-      "description": "Various health experts share recipes of dishes that are both delicious and nutritious, thus helping one to maintain a proper diet.",
-      "startDate": "2026-08-27T05:15:00",
-      "endDate": "2026-08-27T05:30:00",
-      "showTime": "05:15:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/01dafa23bea7ff6da01b650a9c8b19a4.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Young Chef",
-      "description": "The chef prepares easy, mouth-watering dishes using simple recipes that can be recreated at home with the help of basic ingredients.",
-      "startDate": "2026-08-27T05:30:00",
-      "endDate": "2026-08-27T05:45:00",
-      "showTime": "05:30:00",
-      "endTime": "05:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/37e0918277cc8d759928370fe3fbde8d.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Gorumuddalu",
-      "description": "The host prepares various healthy and tasty recipes for infants, providing insights into their nutritional value and benefits.",
-      "startDate": "2026-08-27T05:45:00",
-      "endDate": "2026-08-27T06:00:00",
-      "showTime": "05:45:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d3a83b64b26803bd002834ee5fda0a5c.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "At Home",
-      "description": "At Home",
-      "startDate": "2026-08-27T06:00:00",
-      "endDate": "2026-08-27T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e1a9f5761ace81e24c5ac511a7aa0845.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Prayana Phalaharalu",
-      "description": "A prominent chef demonstrates his culinary skills by preparing a variety of delicious dishes and provides tips and suggestions.",
-      "startDate": "2026-08-27T06:30:00",
-      "endDate": "2026-08-27T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e611b283db5e92c32603764b257c07df.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Ruchula Vindhu",
-      "description": "A culinary expert demonstrates ways to prepare healthy and mouth-watering dishes that can be cooked easily at home whilst providing some creative kitchen tips.",
-      "startDate": "2026-08-27T07:00:00",
-      "endDate": "2026-08-27T07:30:00",
-      "showTime": "07:00:00",
-      "endTime": "07:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c182b674b71e4631f649fb3dfef7dd2b.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Millets Magic",
-      "description": "The host creates several delectable dishes using millets, a highly nutritious food item, as the main ingredient in the recipes.",
-      "startDate": "2026-08-27T07:30:00",
-      "endDate": "2026-08-27T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7318b0b48beacde8857b4ac9697b9bd9.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Breakfast Show",
-      "description": "The expert demonstrates and creates a variety of innovative breakfast recipes within minutes, offering unlimited options from around the world.",
-      "startDate": "2026-08-27T08:00:00",
-      "endDate": "2026-08-27T08:30:00",
-      "showTime": "08:00:00",
-      "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/46e727e93708a985427178da6f84c865.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Mummys Kitchen",
-      "description": "A homemaker, who mastered the culinary art, prepares a variety of dishes to the liking of children.",
-      "startDate": "2026-08-27T08:30:00",
-      "endDate": "2026-08-27T09:00:00",
-      "showTime": "08:30:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/edc991b003a998a0b794aee65087930b.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Taste Of India",
-      "description": "Take a look at recipes from across the various states and different regions of India.",
-      "startDate": "2026-08-27T09:00:00",
-      "endDate": "2026-08-27T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8f0e173c0224ee75a3f3432d1dbf7332.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Teera Prantha Ruchulu",
-      "description": "A culinary expert demonstrates ways to prepare mouth-watering coastal dishes, whilst providing some creative kitchen tips.",
-      "startDate": "2026-08-27T09:30:00",
-      "endDate": "2026-08-27T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ea7dbfb14f55d72c57de960ab76a2409.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Maavuri Ruchulu",
-      "description": "Maavuri Ruchulu",
-      "startDate": "2026-08-27T10:00:00",
-      "endDate": "2026-08-27T11:30:00",
-      "showTime": "10:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a135c6832acdccc902cac061b412fa0.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Hits Hungama",
-      "description": "Hits Hungama",
-      "startDate": "2026-08-27T11:30:00",
-      "endDate": "2026-08-27T12:00:00",
-      "showTime": "11:30:00",
-      "endTime": "12:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Dilse",
-      "description": "The host engages the audience in interesting conversations as they phone-in to share wishes with their friends and family.",
-      "startDate": "2026-08-27T12:00:00",
-      "endDate": "2026-08-27T13:00:00",
-      "showTime": "12:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d433b2a3c13e60c43ef03c141e2a6ead.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Padutha Theeyaga",
-      "description": "Padutha Theeyaga",
-      "startDate": "2026-08-27T13:00:00",
-      "endDate": "2026-08-27T14:00:00",
-      "showTime": "13:00:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Ragam Thanam Pallavi",
-      "description": "Ragam Thanam Pallavi",
-      "startDate": "2026-08-27T14:00:00",
-      "endDate": "2026-08-27T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6cb3132dbdc7b97970efb5640c045502.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Aamani..Padave..Hayiga!",
-      "description": "Aamani..Padave..Hayiga!",
-      "startDate": "2026-08-27T14:30:00",
-      "endDate": "2026-08-27T16:30:00",
-      "showTime": "14:30:00",
-      "endTime": "16:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Hits Hungama",
-      "description": "Hits Hungama",
-      "startDate": "2026-08-27T16:30:00",
-      "endDate": "2026-08-27T17:30:00",
-      "showTime": "16:30:00",
-      "endTime": "17:30:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Music Magic",
-      "description": "The host presents a compilation of popular songs composed and performed by several artists, played back to back.",
-      "startDate": "2026-08-27T17:30:00",
-      "endDate": "2026-08-27T18:30:00",
-      "showTime": "17:30:00",
-      "endTime": "18:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/048a38d643e3ebf9b9d25e01cdd744e1.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Dilse",
-      "description": "The host engages the audience in interesting conversations as they phone-in to share wishes with their friends and family.",
-      "startDate": "2026-08-27T18:30:00",
-      "endDate": "2026-08-27T19:30:00",
-      "showTime": "18:30:00",
-      "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d433b2a3c13e60c43ef03c141e2a6ead.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Swarabhishekam",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-08-27T19:30:00",
-      "endDate": "2026-08-27T21:30:00",
-      "showTime": "19:30:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a4cf349306fa59008e704c5a80c8083.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Ragam Thanam Pallavi",
-      "description": "Ragam Thanam Pallavi",
-      "startDate": "2026-08-27T21:30:00",
-      "endDate": "2026-08-27T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6cb3132dbdc7b97970efb5640c045502.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Saragalu",
-      "description": "The host engages in insightful conversations with renowned musicians about their personal lives, creative inspirations and professional journeys in the music industry.",
-      "startDate": "2026-08-27T22:00:00",
-      "endDate": "2026-08-27T23:00:00",
-      "showTime": "22:00:00",
-      "endTime": "23:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-08-27",
-      "showName": "Viraamam Ledhu Guru",
-      "description": "Viraamam Ledhu Guru",
-      "startDate": "2026-08-27T23:00:00",
-      "endDate": "2026-08-27T23:59:59",
-      "showTime": "23:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
       "serverDate": "2026-08-28",
       "showName": "Viraamam Ledhu Guru",
       "description": "Viraamam Ledhu Guru",
@@ -665,7 +247,7 @@
       "showTime": "01:00:00",
       "endTime": "02:00:00",
       "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a426b163709035d601e608f78ff81a62.jpg"
     },
     {
       "serverDate": "2026-08-29",
@@ -714,7 +296,7 @@
     {
       "serverDate": "2026-08-29",
       "showName": "Meeku Prematho",
-      "description": "Meeku Prematho",
+      "description": "Bringing the best in television.",
       "startDate": "2026-08-29T07:00:00",
       "endDate": "2026-08-29T09:00:00",
       "showTime": "07:00:00",
@@ -731,7 +313,7 @@
       "showTime": "09:00:00",
       "endTime": "10:00:00",
       "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a426b163709035d601e608f78ff81a62.jpg"
     },
     {
       "serverDate": "2026-08-29",
@@ -797,7 +379,7 @@
       "showTime": "16:30:00",
       "endTime": "17:30:00",
       "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a426b163709035d601e608f78ff81a62.jpg"
     },
     {
       "serverDate": "2026-08-29",
@@ -885,7 +467,7 @@
       "showTime": "01:00:00",
       "endTime": "02:00:00",
       "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a426b163709035d601e608f78ff81a62.jpg"
     },
     {
       "serverDate": "2026-08-30",
@@ -934,7 +516,7 @@
     {
       "serverDate": "2026-08-30",
       "showName": "Meeku Prematho",
-      "description": "Meeku Prematho",
+      "description": "Bringing the best in television.",
       "startDate": "2026-08-30T07:00:00",
       "endDate": "2026-08-30T09:00:00",
       "showTime": "07:00:00",
@@ -951,7 +533,7 @@
       "showTime": "09:00:00",
       "endTime": "10:00:00",
       "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a426b163709035d601e608f78ff81a62.jpg"
     },
     {
       "serverDate": "2026-08-30",
@@ -1017,7 +599,7 @@
       "showTime": "16:30:00",
       "endTime": "17:30:00",
       "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a426b163709035d601e608f78ff81a62.jpg"
     },
     {
       "serverDate": "2026-08-30",
@@ -1105,7 +687,7 @@
       "showTime": "01:00:00",
       "endTime": "02:00:00",
       "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a426b163709035d601e608f78ff81a62.jpg"
     },
     {
       "serverDate": "2026-08-31",
@@ -1143,7 +725,7 @@
     {
       "serverDate": "2026-08-31",
       "showName": "Meeku Prematho",
-      "description": "Meeku Prematho",
+      "description": "Bringing the best in television.",
       "startDate": "2026-08-31T07:00:00",
       "endDate": "2026-08-31T09:00:00",
       "showTime": "07:00:00",
@@ -1160,7 +742,7 @@
       "showTime": "09:00:00",
       "endTime": "10:00:00",
       "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a426b163709035d601e608f78ff81a62.jpg"
     },
     {
       "serverDate": "2026-08-31",
@@ -1226,7 +808,7 @@
       "showTime": "16:30:00",
       "endTime": "17:30:00",
       "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a426b163709035d601e608f78ff81a62.jpg"
     },
     {
       "serverDate": "2026-08-31",
@@ -1314,7 +896,7 @@
       "showTime": "01:00:00",
       "endTime": "02:00:00",
       "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a426b163709035d601e608f78ff81a62.jpg"
     },
     {
       "serverDate": "2026-09-01",
@@ -1363,7 +945,7 @@
     {
       "serverDate": "2026-09-01",
       "showName": "Meeku Prematho",
-      "description": "Meeku Prematho",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-01T07:00:00",
       "endDate": "2026-09-01T09:00:00",
       "showTime": "07:00:00",
@@ -1380,7 +962,7 @@
       "showTime": "09:00:00",
       "endTime": "10:00:00",
       "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a426b163709035d601e608f78ff81a62.jpg"
     },
     {
       "serverDate": "2026-09-01",
@@ -1446,7 +1028,7 @@
       "showTime": "16:30:00",
       "endTime": "17:30:00",
       "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a426b163709035d601e608f78ff81a62.jpg"
     },
     {
       "serverDate": "2026-09-01",
@@ -1534,7 +1116,7 @@
       "showTime": "01:00:00",
       "endTime": "02:00:00",
       "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a426b163709035d601e608f78ff81a62.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -2767,6 +2349,655 @@
       "endTime": "23:59:59",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8bc4679f99fe434644e3aa3d804f96da.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Trendy Treats",
+      "description": "A culinary expert shares a variety of recipes from different cuisines, demonstrating the process of cooking the dish step by step.",
+      "startDate": "2026-09-04T00:00:00",
+      "endDate": "2026-09-04T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9bae5cc24353c2bfd5e8b2072f6ab3ce.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Amma Chethi Vanta",
+      "description": "The host, Bhargavi, demonstrates a delicious variety of Andhra-style cuisine and shares tips and tricks for other cooking recipes.",
+      "startDate": "2026-09-04T00:30:00",
+      "endDate": "2026-09-04T00:45:00",
+      "showTime": "00:30:00",
+      "endTime": "00:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d49d63b344a60df28a3235b827f8870.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Super food",
+      "description": "A culinary expert prepares a variety of delicious dishes and shares their recipes while providing useful cooking tips and techniques.",
+      "startDate": "2026-09-04T00:45:00",
+      "endDate": "2026-09-04T01:00:00",
+      "showTime": "00:45:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b5dc547e9fe4f577111665b01842d2b.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Ayurveda Aaharam",
+      "description": "The host invites various experts to talk about the medicinal values of different food items and demonstrate nutritional recipes that can be easily prepared at home.",
+      "startDate": "2026-09-04T01:00:00",
+      "endDate": "2026-09-04T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f36cfd3257a9d5ceedcdcfa9144c3a33.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Perati Ruchulu",
+      "description": "The host visits the houses of various people, who grow vegetables and fruits in their garden and use organic farming techniques to take care of their plants.",
+      "startDate": "2026-09-04T01:30:00",
+      "endDate": "2026-09-04T02:00:00",
+      "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5ef2769104cc0981161da0582dd17947.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Wow Emi Ruchi",
+      "description": "A culinary expert shares various cooking tips and recipes in a manner that is simple and easy to understand.",
+      "startDate": "2026-09-04T02:00:00",
+      "endDate": "2026-09-04T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/811f2b8d7953f0a33d3b7d779189ec14.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Ra Randoi Vantalu Cheddam",
+      "description": "The host invites culinary enthusiasts to demonstrate recipes for numerous delicious dishes and to share efficient tips and tricks to use in the kitchen.",
+      "startDate": "2026-09-04T02:30:00",
+      "endDate": "2026-09-04T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5fd23724ce0d28e37b47b1d2943c1c5a.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Amma Chethi Vanta",
+      "description": "The host, Bhargavi, demonstrates a delicious variety of Andhra-style cuisine and shares tips and tricks for other cooking recipes.",
+      "startDate": "2026-09-04T03:00:00",
+      "endDate": "2026-09-04T03:15:00",
+      "showTime": "03:00:00",
+      "endTime": "03:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d49d63b344a60df28a3235b827f8870.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Diet Menu",
+      "description": "Various health experts share recipes of dishes that are both delicious and nutritious, thus helping one to maintain a proper diet.",
+      "startDate": "2026-09-04T03:15:00",
+      "endDate": "2026-09-04T03:30:00",
+      "showTime": "03:15:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/01dafa23bea7ff6da01b650a9c8b19a4.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Kitchen Mantra",
+      "description": "A culinary expert shares various cooking tips and recipes to motivate viewers into cooking healthy and sumptuous meals.",
+      "startDate": "2026-09-04T03:30:00",
+      "endDate": "2026-09-04T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ffd3c721570df00e625e3989f92ba437.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Young Chef",
+      "description": "The chef prepares easy, mouth-watering dishes using simple recipes that can be recreated at home with the help of basic ingredients.",
+      "startDate": "2026-09-04T04:00:00",
+      "endDate": "2026-09-04T04:15:00",
+      "showTime": "04:00:00",
+      "endTime": "04:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/37e0918277cc8d759928370fe3fbde8d.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Ruchula Bandi",
+      "description": "Experts share an extensive range of cooking tips and recipes for various dishes in a manner that is simple and easy to understand.",
+      "startDate": "2026-09-04T04:15:00",
+      "endDate": "2026-09-04T04:30:00",
+      "showTime": "04:15:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/88563fddf4c1c962b94690a9ac4da0fc.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Ayurveda Aaharam",
+      "description": "The host invites various experts to talk about the medicinal values of different food items and demonstrate nutritional recipes that can be easily prepared at home.",
+      "startDate": "2026-09-04T04:30:00",
+      "endDate": "2026-09-04T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f36cfd3257a9d5ceedcdcfa9144c3a33.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Meekosam",
+      "description": "A culinary expert cooks up a variety of delicious dishes from different cuisines based on the mail requests sent by the viewers.",
+      "startDate": "2026-09-04T05:00:00",
+      "endDate": "2026-09-04T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4fdadc6b1c85073d8b0ba7850479a46e.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Super Chef",
+      "description": "A renowned chef uses a number of ingredients and shares recipes of exotic and tasty preparations, while encouraging viewers to try them at home.",
+      "startDate": "2026-09-04T05:30:00",
+      "endDate": "2026-09-04T05:45:00",
+      "showTime": "05:30:00",
+      "endTime": "05:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/761b50e6ab57c9f87679855623ec8586.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Super food",
+      "description": "A culinary expert prepares a variety of delicious dishes and shares their recipes while providing useful cooking tips and techniques.",
+      "startDate": "2026-09-04T05:45:00",
+      "endDate": "2026-09-04T06:00:00",
+      "showTime": "05:45:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b5dc547e9fe4f577111665b01842d2b.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Snax",
+      "description": "A culinary expert prepares nutritious and delectable snack recipes, offering helpful tips and suggestions to curb fast food cravings.",
+      "startDate": "2026-09-04T06:00:00",
+      "endDate": "2026-09-04T06:15:00",
+      "showTime": "06:00:00",
+      "endTime": "06:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/312731f010dc70397da160b9f648f5e8.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Soups & Starters",
+      "description": "The host prepares an assortment of tantalising appetisers and soups, sharing delectable step-by-step recipes and cooking tips.",
+      "startDate": "2026-09-04T06:15:00",
+      "endDate": "2026-09-04T06:30:00",
+      "showTime": "06:15:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6d0a874d0013a6e69a888e3b1520ac09.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Aayurveda Aaharam",
+      "description": "Experts and professionals share various recipes and demonstrate the medicinal benefits of various types of food.",
+      "startDate": "2026-09-04T06:30:00",
+      "endDate": "2026-09-04T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/574a66c61c28e1ca27aaddc212cf9a59.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Healthy & Tasty",
+      "description": "The hosts share recipes of an assortment of delicious dishes that are nutritious by nature and demonstrates their preparation.",
+      "startDate": "2026-09-04T07:00:00",
+      "endDate": "2026-09-04T07:30:00",
+      "showTime": "07:00:00",
+      "endTime": "07:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1dbca34a4a70769c818f3ba952c04997.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Perati Ruchulu",
+      "description": "The host visits the houses of various people, who grow vegetables and fruits in their garden and use organic farming techniques to take care of their plants.",
+      "startDate": "2026-09-04T07:30:00",
+      "endDate": "2026-09-04T08:00:00",
+      "showTime": "07:30:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5ef2769104cc0981161da0582dd17947.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Wow Emi Ruchi",
+      "description": "A culinary expert shares various cooking tips and recipes in a manner that is simple and easy to understand.",
+      "startDate": "2026-09-04T08:00:00",
+      "endDate": "2026-09-04T08:30:00",
+      "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/811f2b8d7953f0a33d3b7d779189ec14.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Babai Hotel",
+      "description": "Culinary experts prepare a wide range of delicious and nutritious Indian and international cuisine and share their recipes.",
+      "startDate": "2026-09-04T08:30:00",
+      "endDate": "2026-09-04T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f30426be2e09c0c54fe9d2219468e0ae.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Ra Randoi Vantalu Cheddam",
+      "description": "The host invites culinary enthusiasts to demonstrate recipes for numerous delicious dishes and to share efficient tips and tricks to use in the kitchen.",
+      "startDate": "2026-09-04T09:00:00",
+      "endDate": "2026-09-04T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5fd23724ce0d28e37b47b1d2943c1c5a.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Diet Menu",
+      "description": "Various health experts share recipes of dishes that are both delicious and nutritious, thus helping one to maintain a proper diet.",
+      "startDate": "2026-09-04T09:30:00",
+      "endDate": "2026-09-04T09:45:00",
+      "showTime": "09:30:00",
+      "endTime": "09:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/01dafa23bea7ff6da01b650a9c8b19a4.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Kitchen Mantra",
+      "description": "A culinary expert shares various cooking tips and recipes to motivate viewers into cooking healthy and sumptuous meals.",
+      "startDate": "2026-09-04T09:45:00",
+      "endDate": "2026-09-04T10:15:00",
+      "showTime": "09:45:00",
+      "endTime": "10:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ffd3c721570df00e625e3989f92ba437.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Amma Chethi Vanta",
+      "description": "The host, Bhargavi, demonstrates a delicious variety of Andhra-style cuisine and shares tips and tricks for other cooking recipes.",
+      "startDate": "2026-09-04T10:15:00",
+      "endDate": "2026-09-04T10:30:00",
+      "showTime": "10:15:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d49d63b344a60df28a3235b827f8870.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Indian Kitchen",
+      "description": "A culinary expert shares a variety of recipes from different cuisines, demonstrating the process of cooking the dish step by step.",
+      "startDate": "2026-09-04T10:30:00",
+      "endDate": "2026-09-04T11:00:00",
+      "showTime": "10:30:00",
+      "endTime": "11:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/855e434039b3194b7ca672adeccfb9a0.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Healthy & Tasty",
+      "description": "The hosts share recipes of an assortment of delicious dishes that are nutritious by nature and demonstrates their preparation.",
+      "startDate": "2026-09-04T11:00:00",
+      "endDate": "2026-09-04T11:30:00",
+      "showTime": "11:00:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1dbca34a4a70769c818f3ba952c04997.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Aayurveda Aaharam",
+      "description": "Experts and professionals share various recipes and demonstrate the medicinal benefits of various types of food.",
+      "startDate": "2026-09-04T11:30:00",
+      "endDate": "2026-09-04T12:00:00",
+      "showTime": "11:30:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/574a66c61c28e1ca27aaddc212cf9a59.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Athidi",
+      "description": "The host visits various homemakers and plays entertaining games with the family members and discusses the many facets of their lives.",
+      "startDate": "2026-09-04T12:00:00",
+      "endDate": "2026-09-04T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f69d2dd058ecc75da2a2264c614df72f.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Ruchula Vindhu",
+      "description": "A culinary expert demonstrates ways to prepare healthy and mouth-watering dishes that can be cooked easily at home whilst providing some creative kitchen tips.",
+      "startDate": "2026-09-04T12:30:00",
+      "endDate": "2026-09-04T13:00:00",
+      "showTime": "12:30:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c182b674b71e4631f649fb3dfef7dd2b.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Pindivantalu / Prasadalu",
+      "description": "The host invites culinary enthusiasts to demonstrate recipes for numerous delicious dishes and to share efficient tips and tricks to use in the kitchen.",
+      "startDate": "2026-09-04T13:00:00",
+      "endDate": "2026-09-04T13:30:00",
+      "showTime": "13:00:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8ce38d5fc693057777b22311c2203261.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Wow Emi Ruchi",
+      "description": "A culinary expert shares various cooking tips and recipes in a manner that is simple and easy to understand.",
+      "startDate": "2026-09-04T13:30:00",
+      "endDate": "2026-09-04T14:00:00",
+      "showTime": "13:30:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/811f2b8d7953f0a33d3b7d779189ec14.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Indian Kitchen",
+      "description": "A culinary expert shares a variety of recipes from different cuisines, demonstrating the process of cooking the dish step by step.",
+      "startDate": "2026-09-04T14:00:00",
+      "endDate": "2026-09-04T14:30:00",
+      "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/855e434039b3194b7ca672adeccfb9a0.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Aayurveda Aaharam",
+      "description": "Experts and professionals share various recipes and demonstrate the medicinal benefits of various types of food.",
+      "startDate": "2026-09-04T14:30:00",
+      "endDate": "2026-09-04T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/574a66c61c28e1ca27aaddc212cf9a59.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Gorumuddalu",
+      "description": "The host prepares various healthy and tasty recipes for infants, providing insights into their nutritional value and benefits.",
+      "startDate": "2026-09-04T15:00:00",
+      "endDate": "2026-09-04T15:15:00",
+      "showTime": "15:00:00",
+      "endTime": "15:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d3a83b64b26803bd002834ee5fda0a5c.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Young Chef",
+      "description": "The chef prepares easy, mouth-watering dishes using simple recipes that can be recreated at home with the help of basic ingredients.",
+      "startDate": "2026-09-04T15:15:00",
+      "endDate": "2026-09-04T15:30:00",
+      "showTime": "15:15:00",
+      "endTime": "15:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/37e0918277cc8d759928370fe3fbde8d.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Aaharaveedhilo",
+      "description": "The host visits some of the most popular fast food restaurants and joints in the city that serve delicious street delicacies.",
+      "startDate": "2026-09-04T15:30:00",
+      "endDate": "2026-09-04T16:00:00",
+      "showTime": "15:30:00",
+      "endTime": "16:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/982bfbffea0895d0dbba70287fc751c7.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Wow Emi Ruchi",
+      "description": "A culinary expert shares various cooking tips and recipes in a manner that is simple and easy to understand.",
+      "startDate": "2026-09-04T16:00:00",
+      "endDate": "2026-09-04T16:30:00",
+      "showTime": "16:00:00",
+      "endTime": "16:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/811f2b8d7953f0a33d3b7d779189ec14.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Amma Chethi Vanta",
+      "description": "The host, Bhargavi, demonstrates a delicious variety of Andhra-style cuisine and shares tips and tricks for other cooking recipes.",
+      "startDate": "2026-09-04T16:30:00",
+      "endDate": "2026-09-04T16:45:00",
+      "showTime": "16:30:00",
+      "endTime": "16:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d49d63b344a60df28a3235b827f8870.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Indian Kitchen",
+      "description": "A culinary expert shares a variety of recipes from different cuisines, demonstrating the process of cooking the dish step by step.",
+      "startDate": "2026-09-04T16:45:00",
+      "endDate": "2026-09-04T17:15:00",
+      "showTime": "16:45:00",
+      "endTime": "17:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/855e434039b3194b7ca672adeccfb9a0.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Diet Menu",
+      "description": "Various health experts share recipes of dishes that are both delicious and nutritious, thus helping one to maintain a proper diet.",
+      "startDate": "2026-09-04T17:15:00",
+      "endDate": "2026-09-04T17:30:00",
+      "showTime": "17:15:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/01dafa23bea7ff6da01b650a9c8b19a4.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Young Chef",
+      "description": "The chef prepares easy, mouth-watering dishes using simple recipes that can be recreated at home with the help of basic ingredients.",
+      "startDate": "2026-09-04T17:30:00",
+      "endDate": "2026-09-04T17:45:00",
+      "showTime": "17:30:00",
+      "endTime": "17:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/37e0918277cc8d759928370fe3fbde8d.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Wow Emi Ruchi",
+      "description": "A culinary expert shares various cooking tips and recipes in a manner that is simple and easy to understand.",
+      "startDate": "2026-09-04T17:45:00",
+      "endDate": "2026-09-04T18:15:00",
+      "showTime": "17:45:00",
+      "endTime": "18:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/811f2b8d7953f0a33d3b7d779189ec14.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Super Chef",
+      "description": "A renowned chef uses a number of ingredients and shares recipes of exotic and tasty preparations, while encouraging viewers to try them at home.",
+      "startDate": "2026-09-04T18:15:00",
+      "endDate": "2026-09-04T18:30:00",
+      "showTime": "18:15:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/761b50e6ab57c9f87679855623ec8586.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Amma Chethi Vanta",
+      "description": "The host, Bhargavi, demonstrates a delicious variety of Andhra-style cuisine and shares tips and tricks for other cooking recipes.",
+      "startDate": "2026-09-04T18:30:00",
+      "endDate": "2026-09-04T18:45:00",
+      "showTime": "18:30:00",
+      "endTime": "18:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d49d63b344a60df28a3235b827f8870.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Diet Menu",
+      "description": "Various health experts share recipes of dishes that are both delicious and nutritious, thus helping one to maintain a proper diet.",
+      "startDate": "2026-09-04T18:45:00",
+      "endDate": "2026-09-04T19:00:00",
+      "showTime": "18:45:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/01dafa23bea7ff6da01b650a9c8b19a4.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Young Chef",
+      "description": "The chef prepares easy, mouth-watering dishes using simple recipes that can be recreated at home with the help of basic ingredients.",
+      "startDate": "2026-09-04T19:00:00",
+      "endDate": "2026-09-04T19:15:00",
+      "showTime": "19:00:00",
+      "endTime": "19:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/37e0918277cc8d759928370fe3fbde8d.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Gorumuddalu",
+      "description": "The host prepares various healthy and tasty recipes for infants, providing insights into their nutritional value and benefits.",
+      "startDate": "2026-09-04T19:15:00",
+      "endDate": "2026-09-04T19:30:00",
+      "showTime": "19:15:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d3a83b64b26803bd002834ee5fda0a5c.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Good Morning Abhiruchi",
+      "description": "A culinary expert prepares quick and nutritious breakfast dishes that can be made with easily available ingredients and shares the recipes with the viewers.",
+      "startDate": "2026-09-04T19:30:00",
+      "endDate": "2026-09-04T20:00:00",
+      "showTime": "19:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/500311d6b6db303b2ecd9d48990b5d32.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Good Morning Abhiruchi",
+      "description": "A culinary expert prepares quick and nutritious breakfast dishes that can be made with easily available ingredients and shares the recipes with the viewers.",
+      "startDate": "2026-09-04T20:00:00",
+      "endDate": "2026-09-04T20:30:00",
+      "showTime": "20:00:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/500311d6b6db303b2ecd9d48990b5d32.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Ruchula Vindhu",
+      "description": "A culinary expert demonstrates ways to prepare healthy and mouth-watering dishes that can be cooked easily at home whilst providing some creative kitchen tips.",
+      "startDate": "2026-09-04T20:30:00",
+      "endDate": "2026-09-04T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c182b674b71e4631f649fb3dfef7dd2b.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Good Morning Abhiruchi",
+      "description": "A culinary expert prepares quick and nutritious breakfast dishes that can be made with easily available ingredients and shares the recipes with the viewers.",
+      "startDate": "2026-09-04T21:00:00",
+      "endDate": "2026-09-04T21:30:00",
+      "showTime": "21:00:00",
+      "endTime": "21:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/500311d6b6db303b2ecd9d48990b5d32.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Good Morning Abhiruchi",
+      "description": "A culinary expert prepares quick and nutritious breakfast dishes that can be made with easily available ingredients and shares the recipes with the viewers.",
+      "startDate": "2026-09-04T21:30:00",
+      "endDate": "2026-09-04T22:00:00",
+      "showTime": "21:30:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/500311d6b6db303b2ecd9d48990b5d32.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Meekosam",
+      "description": "A culinary expert cooks up a variety of delicious dishes from different cuisines based on the mail requests sent by the viewers.",
+      "startDate": "2026-09-04T22:00:00",
+      "endDate": "2026-09-04T22:30:00",
+      "showTime": "22:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4fdadc6b1c85073d8b0ba7850479a46e.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Bhala Mr. Brahmachari",
+      "description": "A culinary expert shares various cooking tips and recipes to motivate bachelors into cooking healthy and sumptuous meals.",
+      "startDate": "2026-09-04T22:30:00",
+      "endDate": "2026-09-04T23:00:00",
+      "showTime": "22:30:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/959abfcacb4e9dd1fc6468b8ac7d8d3c.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Pindivantalu / Prasadalu",
+      "description": "The host invites culinary enthusiasts to demonstrate recipes for numerous delicious dishes and to share efficient tips and tricks to use in the kitchen.",
+      "startDate": "2026-09-04T23:00:00",
+      "endDate": "2026-09-04T23:30:00",
+      "showTime": "23:00:00",
+      "endTime": "23:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8ce38d5fc693057777b22311c2203261.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Bhala Mr. Brahmachari",
+      "description": "A culinary expert shares various cooking tips and recipes to motivate bachelors into cooking healthy and sumptuous meals.",
+      "startDate": "2026-09-04T23:30:00",
+      "endDate": "2026-09-04T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/959abfcacb4e9dd1fc6468b8ac7d8d3c.jpg"
     }
   ]
 }
