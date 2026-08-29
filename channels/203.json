@@ -867,14 +867,14 @@
     },
     {
       "serverDate": "2026-08-30",
-      "showName": "Sanskrit Vaarta",
-      "description": "Presents the latest news updates on politics and the economy in Sanskrit.",
+      "showName": "Sanskrit Vaarta Samachar",
+      "description": "Bridges the ancient language and modern reportage to deliver current events and cultural insights in Sanskrit.",
       "startDate": "2026-08-30T06:30:00",
       "endDate": "2026-08-30T06:45:00",
       "showTime": "06:30:00",
       "endTime": "06:45:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/44566dd7de4d4eb3625d108892c224de.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c64886a900d14f3b8017f3a2ddc80844.jpg"
     },
     {
       "serverDate": "2026-08-30",
@@ -925,22 +925,11 @@
       "showName": "Total Health",
       "description": "Total Health",
       "startDate": "2026-08-30T09:00:00",
-      "endDate": "2026-08-30T09:30:00",
+      "endDate": "2026-08-30T10:00:00",
       "showTime": "09:00:00",
-      "endTime": "09:30:00",
+      "endTime": "10:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/42664de213d48a8fe2e8399056a04602.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "To Be Announced",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "startDate": "2026-08-30T09:30:00",
-      "endDate": "2026-08-30T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "TBA",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
     },
     {
       "serverDate": "2026-08-30",
@@ -966,69 +955,36 @@
     },
     {
       "serverDate": "2026-08-30",
-      "showName": "Vande Bharat",
-      "description": "Presents the latest updates on the Vande Bharat Express, a high-speed electric train operated by Indian Railways.",
+      "showName": "Mann ki Baat",
+      "description": "Psychiatrists lay emphasis on self-help, early intervention, social support and holistic management.",
       "startDate": "2026-08-30T11:00:00",
-      "endDate": "2026-08-30T11:30:00",
-      "showTime": "11:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/815e6fea0121ebf26cfa14ac51827db3.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Samachar",
-      "description": "Presents the latest economic, social and political updates at length, from across India and the world for the viewers.",
-      "startDate": "2026-08-30T11:30:00",
       "endDate": "2026-08-30T12:00:00",
-      "showTime": "11:30:00",
+      "showTime": "11:00:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd2b12ff8a4c58833327e7904adb4459.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f38e69abf14d2ccef4b661fd864bad0.jpg"
+    },
+    {
+      "serverDate": "2026-08-30",
+      "showName": "DD News",
+      "description": "DD News",
+      "startDate": "2026-08-30T12:00:00",
+      "endDate": "2026-08-30T14:00:00",
+      "showTime": "12:00:00",
+      "endTime": "14:00:00",
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/50919ceae9cdcb539c1575266fbffb71.jpg"
     },
     {
       "serverDate": "2026-08-30",
       "showName": "Samachar",
       "description": "Presents the latest economic, social and political updates at length, from across India and the world for the viewers.",
-      "startDate": "2026-08-30T12:00:00",
-      "endDate": "2026-08-30T12:30:00",
-      "showTime": "12:00:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd2b12ff8a4c58833327e7904adb4459.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Express 100",
-      "description": "Presents the latest breaking news and updates on various trending topics.",
-      "startDate": "2026-08-30T12:30:00",
-      "endDate": "2026-08-30T13:00:00",
-      "showTime": "12:30:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3621ff540e7972ef0eaffb738103ae07.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Mid Day Prime Hindi",
-      "description": "Presents a detailed report about some of the latest news stories about political, economic, social and cultural topics from all around the nation.",
-      "startDate": "2026-08-30T13:00:00",
-      "endDate": "2026-08-30T14:00:00",
-      "showTime": "13:00:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7343df26a069f33f49bc0b526538254f.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "News Punch",
-      "description": "Presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-08-30T14:00:00",
       "endDate": "2026-08-30T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/522a74772267977812ccc7c972be9942.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd2b12ff8a4c58833327e7904adb4459.jpg"
     },
     {
       "serverDate": "2026-08-30",
@@ -1054,14 +1010,14 @@
     },
     {
       "serverDate": "2026-08-30",
-      "showName": "Rangtarang",
-      "description": "Features news and updates on special events, celebrities and culture.",
+      "showName": "Ek Bharat Shreshtha Bharat",
+      "description": "Explores cultural topics related to traditions, tourism and cuisines to improve understanding between people.",
       "startDate": "2026-08-30T15:30:00",
       "endDate": "2026-08-30T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7acc6dab405e7e14ca419360761e18f2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dd0322846e4f28fa1f9e5a6d0104d43e.jpg"
     },
     {
       "serverDate": "2026-08-30",
@@ -1087,36 +1043,25 @@
     },
     {
       "serverDate": "2026-08-30",
-      "showName": "Rashtra Manch",
-      "description": "Provides comprehensive updates and developments on India's evolving political, social and economic issues.",
+      "showName": "DD News",
+      "description": "DD News",
       "startDate": "2026-08-30T17:00:00",
-      "endDate": "2026-08-30T18:00:00",
-      "showTime": "17:00:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d73435e7c6ea0ba385debdc242e0580.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Charcha Mein",
-      "description": "Distinguished guests from various professions and backgrounds convene to explore and debate pressing public issues.",
-      "startDate": "2026-08-30T18:00:00",
       "endDate": "2026-08-30T18:30:00",
-      "showTime": "18:00:00",
+      "showTime": "17:00:00",
       "endTime": "18:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b7d5d507495a9b14215b69bde7beabe9.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/50919ceae9cdcb539c1575266fbffb71.jpg"
     },
     {
       "serverDate": "2026-08-30",
-      "showName": "Nalanda Talkies",
-      "description": "Policymakers, visionaries and analysts discuss historical lessons that connect India's heritage to its future.",
+      "showName": "Samachar",
+      "description": "Presents the latest economic, social and political updates at length, from across India and the world for the viewers.",
       "startDate": "2026-08-30T18:30:00",
       "endDate": "2026-08-30T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ec8f58c7b70603e046ebc1af83a552b5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd2b12ff8a4c58833327e7904adb4459.jpg"
     },
     {
       "serverDate": "2026-08-30",
@@ -1142,14 +1087,25 @@
     },
     {
       "serverDate": "2026-08-30",
-      "showName": "News Night in Hindi",
-      "description": "Delivers latest updates and current affairs about commerce, athletics, governance and social matters globally.",
+      "showName": "News Night",
+      "description": "Offers detailed insights into significant global and domestic events, analysing major developments and their wider impact.",
       "startDate": "2026-08-30T20:00:00",
-      "endDate": "2026-08-30T21:30:00",
+      "endDate": "2026-08-30T21:00:00",
       "showTime": "20:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/801b83a5748b3ca5991bc682b48feb3f.jpg"
+    },
+    {
+      "serverDate": "2026-08-30",
+      "showName": "Infinite India@dd News",
+      "description": "Infinite India@dd News",
+      "startDate": "2026-08-30T21:00:00",
+      "endDate": "2026-08-30T21:30:00",
+      "showTime": "21:00:00",
       "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e18e373d09cd4caa9ff45263bd874fa4.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b2c5b1d5b29d3d90767664b6c9d1d8a5.jpg"
     },
     {
       "serverDate": "2026-08-30",
@@ -1274,14 +1230,14 @@
     },
     {
       "serverDate": "2026-08-31",
-      "showName": "Sanskrit Vaarta",
-      "description": "Presents the latest news updates on politics and the economy in Sanskrit.",
+      "showName": "Sanskrit Vaarta Samachar",
+      "description": "Bridges the ancient language and modern reportage to deliver current events and cultural insights in Sanskrit.",
       "startDate": "2026-08-31T06:30:00",
       "endDate": "2026-08-31T06:45:00",
       "showTime": "06:30:00",
       "endTime": "06:45:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/44566dd7de4d4eb3625d108892c224de.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c64886a900d14f3b8017f3a2ddc80844.jpg"
     },
     {
       "serverDate": "2026-08-31",
@@ -1362,36 +1318,14 @@
     },
     {
       "serverDate": "2026-08-31",
-      "showName": "News Punch",
-      "description": "Presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "showName": "DD News",
+      "description": "DD News",
       "startDate": "2026-08-31T10:30:00",
-      "endDate": "2026-08-31T11:00:00",
-      "showTime": "10:30:00",
-      "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/522a74772267977812ccc7c972be9942.jpg"
-    },
-    {
-      "serverDate": "2026-08-31",
-      "showName": "11 Baje Ka Live",
-      "description": "11 Baje Ka Live",
-      "startDate": "2026-08-31T11:00:00",
-      "endDate": "2026-08-31T12:00:00",
-      "showTime": "11:00:00",
-      "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/47a8382b9cd69bd025048114693b54f8.jpg"
-    },
-    {
-      "serverDate": "2026-08-31",
-      "showName": "Samachar",
-      "description": "Presents the latest economic, social and political updates at length, from across India and the world for the viewers.",
-      "startDate": "2026-08-31T12:00:00",
       "endDate": "2026-08-31T12:30:00",
-      "showTime": "12:00:00",
+      "showTime": "10:30:00",
       "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd2b12ff8a4c58833327e7904adb4459.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/50919ceae9cdcb539c1575266fbffb71.jpg"
     },
     {
       "serverDate": "2026-08-31",
@@ -1497,44 +1431,22 @@
       "showName": "Khabar Duniya Ki",
       "description": "Explores the latest events, developments, inventions and discoveries from around the world.",
       "startDate": "2026-08-31T18:30:00",
-      "endDate": "2026-08-31T19:00:00",
+      "endDate": "2026-08-31T20:00:00",
       "showTime": "18:30:00",
-      "endTime": "19:00:00",
+      "endTime": "20:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b2146a5c7645003fc3cd2e0e4e6a6953.jpg"
     },
     {
       "serverDate": "2026-08-31",
-      "showName": "Creators Corner",
-      "description": "Presents unique, informative, and inventive creations, exploring subjects such as health, culture, travel, technology, and art.",
-      "startDate": "2026-08-31T19:00:00",
-      "endDate": "2026-08-31T19:30:00",
-      "showTime": "19:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/63215cb0bb54d49cc11bfd59cdb00bdf.jpg"
-    },
-    {
-      "serverDate": "2026-08-31",
-      "showName": "Spl Prog",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-08-31T19:30:00",
-      "endDate": "2026-08-31T20:00:00",
-      "showTime": "19:30:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/82db1060a4625447efe0250957fbac01.jpg"
-    },
-    {
-      "serverDate": "2026-08-31",
-      "showName": "News Night in Hindi",
-      "description": "Delivers latest updates and current affairs about commerce, athletics, governance and social matters globally.",
+      "showName": "News Night",
+      "description": "Offers detailed insights into significant global and domestic events, analysing major developments and their wider impact.",
       "startDate": "2026-08-31T20:00:00",
       "endDate": "2026-08-31T21:00:00",
       "showTime": "20:00:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e18e373d09cd4caa9ff45263bd874fa4.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/801b83a5748b3ca5991bc682b48feb3f.jpg"
     },
     {
       "serverDate": "2026-08-31",
