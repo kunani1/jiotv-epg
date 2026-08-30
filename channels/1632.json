@@ -8,105 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ColorsKannadaCinema.png",
   "programs": [
     {
-      "serverDate": "2026-08-28",
-      "showName": "Petromax",
-      "description": "Four orphans seek refuge in a woman who offers them the motherly love they have been longing for their whole lives.",
-      "startDate": "2026-08-28T00:00:00",
-      "endDate": "2026-08-28T02:30:00",
-      "showTime": "00:00:00",
-      "endTime": "02:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/03e206bbd42778f363b4bbb6772bee30.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Shiva Shakthi",
-      "description": "Lord Shiva and Goddess Parvati fall in love at the start of the universe. Their eternal love story becomes a legendary tale of devotion for future generations.",
-      "startDate": "2026-08-28T02:30:00",
-      "endDate": "2026-08-28T03:00:00",
-      "showTime": "02:30:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0f151a06a419c92f483069f344e55118.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Operation Nakshatra",
-      "description": "Srikanta lives a seemingly happy life with his daughter, Roshni, and his young wife, Smitha. However, several incidents threaten to tear down their facade and reveal their true nature.",
-      "startDate": "2026-08-28T03:00:00",
-      "endDate": "2026-08-28T06:00:00",
-      "showTime": "03:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/588aedc931cc70a38c7e8c7ca8bfe1ac.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Ondagona Baa",
-      "description": "Raghu comes to his paternal village to attend his grandfather's diamond jubilee function. He finds out that due to his uncle, his family was separated, and tries to fix things.",
-      "startDate": "2026-08-28T06:00:00",
-      "endDate": "2026-08-28T09:30:00",
-      "showTime": "06:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f170ef360187c71eb9dde3c963372eb.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Thavarina Theru",
-      "description": "Sridhar, an orphaned villager with a quiet heart, finds love in Shruti, but their path forward is tangled in her deep sense of duty towards her struggling family.",
-      "startDate": "2026-08-28T09:30:00",
-      "endDate": "2026-08-28T13:00:00",
-      "showTime": "09:30:00",
-      "endTime": "13:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02ff2f5567424c3cded9af4497d81b72.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Odahuttidavaru",
-      "description": "Two brothers live in harmony. However, their relationship soon begins to fall apart when the younger brother's wife starts creating clashes between them.",
-      "startDate": "2026-08-28T13:00:00",
-      "endDate": "2026-08-28T16:00:00",
-      "showTime": "13:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/57778e741cf7d25c0552c2166154d971.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Mahaveera",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-08-28T16:00:00",
-      "endDate": "2026-08-28T19:00:00",
-      "showTime": "16:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10af3741cdd8b2736a690c296bd254c0.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Vedha",
-      "description": "A father and daughter embark on a killing spree in a bid to seek revenge against those who have wronged them. However, a police officer seeks to put an end to their murders.",
-      "startDate": "2026-08-28T19:00:00",
-      "endDate": "2026-08-28T23:00:00",
-      "showTime": "19:00:00",
-      "endTime": "23:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5f2a4d027e7dbe4dcb5b686dd922d134.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Siliconn City",
-      "description": "Sanjay is under the illusion that he is leading the perfect life. However, he is shocked to realise that his younger brother, Karthik, is involved in illegal activities, which changes everything.",
-      "startDate": "2026-08-28T23:00:00",
-      "endDate": "2026-08-28T23:59:59",
-      "showTime": "23:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/de1e5f5ea97fb12778792a23073adf6d.jpg"
-    },
-    {
       "serverDate": "2026-08-29",
       "showName": "Siliconn City",
       "description": "Sanjay is under the illusion that he is leading the perfect life. However, he is shocked to realise that his younger brother, Karthik, is involved in illegal activities, which changes everything.",
@@ -875,6 +776,105 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/475d16c51f5e891b1e7af4cb112b4116.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Black",
+      "description": "Five young men form a vigilante group in order to find and murder corrupt people in society. Soon, their actions escalate to such an extent that a senior police officer begins to investigate them.",
+      "startDate": "2026-09-05T00:00:00",
+      "endDate": "2026-09-05T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/475d16c51f5e891b1e7af4cb112b4116.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Dayavittu Gamanisi",
+      "description": "Four people from different fields embark on an unusual self-discovery journey, only to find their paths unexpectedly converging near the end, uniting them in transformation.",
+      "startDate": "2026-09-05T01:00:00",
+      "endDate": "2026-09-05T03:30:00",
+      "showTime": "01:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f407998a02ea7df016ad47cd02d39fdc.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Kannad Gothilla",
+      "description": "A senior crime inspector investigates a complex case of people going missing in Bengaluru, taking every measure possible to uncover the truth.",
+      "startDate": "2026-09-05T03:30:00",
+      "endDate": "2026-09-05T06:00:00",
+      "showTime": "03:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8d0a4b5be2d575e65d3d572a60bd75ae.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-05T06:00:00",
+      "endDate": "2026-09-05T09:00:00",
+      "showTime": "06:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-05T09:00:00",
+      "endDate": "2026-09-05T12:00:00",
+      "showTime": "09:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-05T12:00:00",
+      "endDate": "2026-09-05T15:00:00",
+      "showTime": "12:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-05T15:00:00",
+      "endDate": "2026-09-05T18:00:00",
+      "showTime": "15:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-05T18:00:00",
+      "endDate": "2026-09-05T21:00:00",
+      "showTime": "18:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-05T21:00:00",
+      "endDate": "2026-09-05T23:59:59",
+      "showTime": "21:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
     }
   ]
 }

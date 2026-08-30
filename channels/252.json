@@ -8,171 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Cinema.png",
   "programs": [
     {
-      "serverDate": "2026-08-28",
-      "showName": "Agni Gundam",
-      "description": "Vijay, a factory worker, exposes the misdeeds of Satyam and as revenge, Satyam gets his brother, Chinna, married to Latha, Vijay's lover. Later, Chinna is killed and Vijay is arrested for it.",
-      "startDate": "2026-08-28T00:00:00",
-      "endDate": "2026-08-28T01:00:00",
-      "showTime": "00:00:00",
-      "endTime": "01:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85d91b3f9cb29900688d01f2480ddfad.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Srivariki Prema Lekha",
-      "description": "Ananda Rao, a man who sets out to find the love of his life after receiving a blind love letter from a woman named Swarna.",
-      "startDate": "2026-08-28T01:00:00",
-      "endDate": "2026-08-28T04:00:00",
-      "showTime": "01:00:00",
-      "endTime": "04:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dbc843954fa49650de28b5b7ef6f7d9b.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Songs",
-      "description": "A comprehensive compilation of popular songs, performed by gifted artists and musicians, is played in rapid succession.",
-      "startDate": "2026-08-28T04:00:00",
-      "endDate": "2026-08-28T06:00:00",
-      "showTime": "04:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/db0c5006ecaefecf06ea1ecea2a7239b.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Yoga Based Programme",
-      "description": "Yoga experts showcase various postures and meditation methods, offering practical tools for managing everyday stress and improving wellbeing.",
-      "startDate": "2026-08-28T06:00:00",
-      "endDate": "2026-08-28T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/da965292be0bc199409f051da787a7e7.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Madhurimalu",
-      "description": "A chef shares some kitchen secrets, simple dessert recipes and demonstrates how to whip up mouthwatering treats in an easy-to-understand manner.",
-      "startDate": "2026-08-28T06:30:00",
-      "endDate": "2026-08-28T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f28e329e24e76a857892055f5ce6811.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Ishtam",
-      "description": "When Pavan realises that his friend Anjana's teacher and his widowed father were in love with each other, he resolves to reunite them.",
-      "startDate": "2026-08-28T07:00:00",
-      "endDate": "2026-08-28T09:51:00",
-      "showTime": "07:00:00",
-      "endTime": "09:51:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/383fdef9cdc022eff7dc17049538e44f.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Telugu Hits",
-      "description": "A compilation of some of the most trending Telugu hits composed by famous artists is played back-to-back to enthrall the audience.",
-      "startDate": "2026-08-28T09:51:00",
-      "endDate": "2026-08-28T10:00:00",
-      "showTime": "09:51:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/06c20f83de74209bd1d7bf469ab03f8d.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Allari Pilla",
-      "description": "Raju, a taxi driver, meets Nandini, a tourist with a mental disability, at Tirupati. When he learns that she is actually sane and her life is at stake, he decides to help her out.",
-      "startDate": "2026-08-28T10:00:00",
-      "endDate": "2026-08-28T12:38:00",
-      "showTime": "10:00:00",
-      "endTime": "12:38:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b3d70204cfe0508cd121dfc0c69437aa.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Telugu Hits",
-      "description": "A compilation of some of the most trending Telugu hits composed by famous artists is played back-to-back to enthrall the audience.",
-      "startDate": "2026-08-28T12:38:00",
-      "endDate": "2026-08-28T13:00:00",
-      "showTime": "12:38:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/06c20f83de74209bd1d7bf469ab03f8d.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Shubhakankshalu",
-      "description": "A couple with different religious backgrounds elope together. However, this results in the relationship between their families turning hostile.",
-      "startDate": "2026-08-28T13:00:00",
-      "endDate": "2026-08-28T15:53:00",
-      "showTime": "13:00:00",
-      "endTime": "15:53:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c035fac3c901ae761abf564b0cd4461.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Telugu Hits",
-      "description": "A compilation of some of the most trending Telugu hits composed by famous artists is played back-to-back to enthrall the audience.",
-      "startDate": "2026-08-28T15:53:00",
-      "endDate": "2026-08-28T16:00:00",
-      "showTime": "15:53:00",
-      "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/06c20f83de74209bd1d7bf469ab03f8d.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Joru",
-      "description": "Sundeep, a youngster from Vizag, falls in love with Anu, who has come to India to meet her father. They are attacked several times during their road trip, and he realises that Anu's life is in danger.",
-      "startDate": "2026-08-28T16:00:00",
-      "endDate": "2026-08-28T18:41:00",
-      "showTime": "16:00:00",
-      "endTime": "18:41:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/293f0c3e0107bd34fdcc9ed40179fb83.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Telugu Hits",
-      "description": "A compilation of some of the most trending Telugu hits composed by famous artists is played back-to-back to enthrall the audience.",
-      "startDate": "2026-08-28T18:41:00",
-      "endDate": "2026-08-28T19:00:00",
-      "showTime": "18:41:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/06c20f83de74209bd1d7bf469ab03f8d.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Gundamma Katha",
-      "description": "Gundamma has two children and a stepdaughter who she mistreats. She hopes to get a son-in-law who will look after the family, but two brothers decide to teach her a lesson.",
-      "startDate": "2026-08-28T19:00:00",
-      "endDate": "2026-08-28T22:21:00",
-      "showTime": "19:00:00",
-      "endTime": "22:21:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/76376539bd6ec89b9114351cb7f79353.jpg"
-    },
-    {
-      "serverDate": "2026-08-28",
-      "showName": "Jagadam",
-      "description": "Seenu dreams of becoming a thug and grows up to become a member of a local gangster's group. Things take an unexpected turn when Seenu's younger brother gets killed due to Seenu's lifestyle.",
-      "startDate": "2026-08-28T22:21:00",
-      "endDate": "2026-08-28T23:59:59",
-      "showTime": "22:21:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/35b1b8806c04a0741b8f952cfa184784.jpg"
-    },
-    {
       "serverDate": "2026-08-29",
       "showName": "Jagadam",
       "description": "Seenu dreams of becoming a thug and grows up to become a member of a local gangster's group. Things take an unexpected turn when Seenu's younger brother gets killed due to Seenu's lifestyle.",
@@ -1073,6 +908,127 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2e3562276127af3ce4af207f6c3d003d.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Sri Krishnarjuna Yuddham",
+      "description": "Krishna and Arjuna engage in a fight when the latter plans to rescue Gaya, a Gandharva king, from the wrath of Krishna. Soon, Lord Shiva decides to mediate to contain a catastrophe.",
+      "startDate": "2026-09-05T00:00:00",
+      "endDate": "2026-09-05T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2e3562276127af3ce4af207f6c3d003d.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Bala Bharatam",
+      "description": "Shakuni tries to fuel the rivalry between the Pandavas and Kauravas in their childhood days, which eventually leads to the great Kurukshetra War.",
+      "startDate": "2026-09-05T01:00:00",
+      "endDate": "2026-09-05T04:00:00",
+      "showTime": "01:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4f22aa3a01012eee3ac85ed7944aec81.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Songs",
+      "description": "A comprehensive compilation of popular songs, performed by gifted artists and musicians, is played in rapid succession.",
+      "startDate": "2026-09-05T04:00:00",
+      "endDate": "2026-09-05T06:00:00",
+      "showTime": "04:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/db0c5006ecaefecf06ea1ecea2a7239b.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Yoga Based Programme",
+      "description": "Yoga experts showcase various postures and meditation methods, offering practical tools for managing everyday stress and improving wellbeing.",
+      "startDate": "2026-09-05T06:00:00",
+      "endDate": "2026-09-05T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/da965292be0bc199409f051da787a7e7.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Madhurimalu",
+      "description": "A chef shares some kitchen secrets, simple dessert recipes and demonstrates how to whip up mouthwatering treats in an easy-to-understand manner.",
+      "startDate": "2026-09-05T06:30:00",
+      "endDate": "2026-09-05T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f28e329e24e76a857892055f5ce6811.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Hai Hai Nayaka",
+      "description": "Naresh's stagnant life as a school teacher is transformed when he's entrusted with the daunting task of redeeming a troubled young soul, forcing him to confront his own shortcomings.",
+      "startDate": "2026-09-05T07:00:00",
+      "endDate": "2026-09-05T10:00:00",
+      "showTime": "07:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/308dc56c5c45c78e69647bf80ba71a7b.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Bhale Mastaru",
+      "description": "In order to help his ailing mother, Madhu, an unemployed young man, disguises himself as an old man and starts working as a teacher, where he must try and control five rowdy children.",
+      "startDate": "2026-09-05T10:00:00",
+      "endDate": "2026-09-05T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1986ae41d28aadfb68ed0ceb28a57d85.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Yamagola",
+      "description": "Satyam, a youth leader, is killed by Rudrayya for falling in love with his daughter. However, when he goes to the afterlife, he tries everything possible to return to Earth and exact his revenge.",
+      "startDate": "2026-09-05T13:00:00",
+      "endDate": "2026-09-05T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62ce9cbae82aef5ea6a71f344b46228e.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Chitram",
+      "description": "Janaki comes to India from US and joins a college. Here she meets Ramana and the two fall in love. Soon, she gets pregnant which results in further complications.",
+      "startDate": "2026-09-05T16:00:00",
+      "endDate": "2026-09-05T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f6f5842ee6bdbd23ce48d9d4dcecc3e3.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Oh Bhama Ayyo Rama",
+      "description": "A mild-mannered man's life turns into utter chaos after he faces the consequences of falling in love with a rowdy woman.",
+      "startDate": "2026-09-05T19:00:00",
+      "endDate": "2026-09-05T22:00:00",
+      "showTime": "19:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb1bab9825897f4dd75993e5810c3bf1.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Harischandra",
+      "description": "Harishchandra falls in love with Nandani and pretends that he has no bad habits until she finds out the truth. Trouble looms when a woman walks into their lives.",
+      "startDate": "2026-09-05T22:00:00",
+      "endDate": "2026-09-05T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e465ec2b203ba7d000b3a7c49102db4.jpg"
     }
   ]
 }
