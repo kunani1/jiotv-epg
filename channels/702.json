@@ -1483,14 +1483,14 @@
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "DD Oriya",
-      "description": "DD Oriya",
+      "showName": "DDK, SBP Contribution",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-02T09:30:00",
       "endDate": "2026-09-02T09:59:00",
       "showTime": "09:30:00",
       "endTime": "09:59:00",
-      "showCategory": "",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e22ac3b93252272d822f4c08bb1a74b.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0c7d1258fe4ddc8c3154854544e6b6f4.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -1648,14 +1648,14 @@
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "DD Oriya",
-      "description": "DD Oriya",
+      "showName": "Career Calling",
+      "description": "Experts from various professional backgrounds share their experiences in their respectful fields to help the youth make informed career choices.",
       "startDate": "2026-09-02T14:30:00",
       "endDate": "2026-09-02T15:00:00",
       "showTime": "14:30:00",
       "endTime": "15:00:00",
-      "showCategory": "",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e22ac3b93252272d822f4c08bb1a74b.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2bd3431f2c453f84b39a3009647dd25a.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -1901,14 +1901,135 @@
     },
     {
       "serverDate": "2026-09-03",
-      "showName": "Tosha Nohila Mora Chita",
+      "showName": "Sakalara Mahaka",
       "description": "Bringing the best in television.",
       "startDate": "2026-09-03T00:00:00",
-      "endDate": "2026-09-03T06:00:00",
+      "endDate": "2026-09-03T00:15:00",
       "showTime": "00:00:00",
+      "endTime": "00:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f1c1cb73075f04267026acd1c55c63e7.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Sangeeta Murchhana",
+      "description": "The host explains the concept of 'murchhana' and sheds light on its significance and usage in classical Hindustani and Carnatic music.",
+      "startDate": "2026-09-03T00:15:00",
+      "endDate": "2026-09-03T00:30:00",
+      "showTime": "00:15:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6939d99a1cbb7b542daa8cb838a7f054.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Supravat",
+      "description": "The host presents the latest news stories and updates pertaining to pressing socio-economic issues across the state of Odisha.",
+      "startDate": "2026-09-03T00:30:00",
+      "endDate": "2026-09-03T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/903d59cf32e63836b8aa32504de77dab.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "From Archive",
+      "description": "Some of the most memorable and insightful shows featuring interesting segments from the archives of the channel are presented.",
+      "startDate": "2026-09-03T01:00:00",
+      "endDate": "2026-09-03T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fe31a9047ee95425dc25ec12445b8bf1.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Loka Geet / Loka Nrutya",
+      "description": "Oriya classical dancers and musicians come together on stage and entertain the audience with their mesmerising performances.",
+      "startDate": "2026-09-03T01:30:00",
+      "endDate": "2026-09-03T02:00:00",
+      "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a34ef63f038a0be471513f3bb401078c.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Teleshopping",
+      "description": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.",
+      "startDate": "2026-09-03T02:00:00",
+      "endDate": "2026-09-03T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e528aadf01426b050ac2fe8284b28288.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Ama Rosei",
+      "description": "The chef prepares a wide range of exotic and sumptuous cuisine from different parts of the world and shares their recipes.",
+      "startDate": "2026-09-03T02:30:00",
+      "endDate": "2026-09-03T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/37fef0803abe61f93a145c40946c6b10.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Teleshopping",
+      "description": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.",
+      "startDate": "2026-09-03T03:00:00",
+      "endDate": "2026-09-03T04:00:00",
+      "showTime": "03:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e528aadf01426b050ac2fe8284b28288.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Pragati",
+      "description": "The host provides a detailed report on the latest updates and developments regarding the progress made in various sectors.",
+      "startDate": "2026-09-03T04:00:00",
+      "endDate": "2026-09-03T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ee3c45bc145f0ea97490ddfafbf3c08.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Pallishree",
+      "description": "Experts share various farming techniques and discuss modern agricultural schemes introduced by the Government of India.",
+      "startDate": "2026-09-03T04:30:00",
+      "endDate": "2026-09-03T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f665aacab1798942023190d95c40817.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Krishi Darshan",
+      "description": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers.",
+      "startDate": "2026-09-03T05:00:00",
+      "endDate": "2026-09-03T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9605eed321e00470ae1234bdc1992f0d.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Bharat Nirman",
+      "description": "Experts shed light on the new and ongoing rural infrastructure projects launched by the central government to improve the standard of living of the rural masses.",
+      "startDate": "2026-09-03T05:30:00",
+      "endDate": "2026-09-03T06:00:00",
+      "showTime": "05:30:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e247eb7306621c43b0e00f8dd987c376.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d2a2216a65f5662bc8abbdff70e45a80.jpg"
     },
     {
       "serverDate": "2026-09-03",

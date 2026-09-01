@@ -658,36 +658,58 @@
     },
     {
       "serverDate": "2026-09-01",
-      "showName": "Good Luck Special",
-      "description": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
+      "showName": "Kismat Connection",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-01T10:04:00",
-      "endDate": "2026-09-01T10:34:00",
+      "endDate": "2026-09-01T10:30:00",
       "showTime": "10:04:00",
-      "endTime": "10:34:00",
+      "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/105a9dfcd0c5aa6d8a884261303ab32f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8313af66b02f6d2697199f5f552d67a2.jpg"
     },
     {
       "serverDate": "2026-09-01",
       "showName": "Achchi Baat Dhirendra Shastri Ke Saath",
       "description": "The host and spiritual leader, Dhirendra Krishna Shastri, holds conversations on various topics and issues of significance.",
-      "startDate": "2026-09-01T10:34:00",
-      "endDate": "2026-09-01T11:04:00",
-      "showTime": "10:34:00",
-      "endTime": "11:04:00",
+      "startDate": "2026-09-01T10:30:00",
+      "endDate": "2026-09-01T10:45:00",
+      "showTime": "10:30:00",
+      "endTime": "10:45:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cfda9ecf5c37e049865942a5c7f6b19.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Advt",
+      "description": "The host presents an extensive variety of miscellaneous products that can be purchased from the warm comfort of one's home.",
+      "startDate": "2026-09-01T10:45:00",
+      "endDate": "2026-09-01T11:04:00",
+      "showTime": "10:45:00",
+      "endTime": "11:04:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9788abbd952ce648ab2404ae835bd20.jpg"
     },
     {
       "serverDate": "2026-09-01",
       "showName": "GNT Express",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-01T11:04:00",
-      "endDate": "2026-09-01T11:34:00",
+      "endDate": "2026-09-01T11:15:00",
       "showTime": "11:04:00",
-      "endTime": "11:34:00",
+      "endTime": "11:15:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Advt",
+      "description": "The host presents an extensive variety of miscellaneous products that can be purchased from the warm comfort of one's home.",
+      "startDate": "2026-09-01T11:15:00",
+      "endDate": "2026-09-01T11:34:00",
+      "showTime": "11:15:00",
+      "endTime": "11:34:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9788abbd952ce648ab2404ae835bd20.jpg"
     },
     {
       "serverDate": "2026-09-01",
@@ -738,11 +760,22 @@
       "showName": "GNT Express",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-01T15:04:00",
-      "endDate": "2026-09-01T15:34:00",
+      "endDate": "2026-09-01T15:15:00",
       "showTime": "15:04:00",
-      "endTime": "15:34:00",
+      "endTime": "15:15:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "Advt",
+      "description": "The host presents an extensive variety of miscellaneous products that can be purchased from the warm comfort of one's home.",
+      "startDate": "2026-09-01T15:15:00",
+      "endDate": "2026-09-01T15:34:00",
+      "showTime": "15:15:00",
+      "endTime": "15:34:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9788abbd952ce648ab2404ae835bd20.jpg"
     },
     {
       "serverDate": "2026-09-01",
@@ -793,8 +826,19 @@
       "showName": "GNT Express",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-01T18:27:00",
-      "endDate": "2026-09-01T18:50:00",
+      "endDate": "2026-09-01T18:30:00",
       "showTime": "18:27:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
+    },
+    {
+      "serverDate": "2026-09-01",
+      "showName": "GNT Express",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-09-01T18:30:00",
+      "endDate": "2026-09-01T18:50:00",
+      "showTime": "18:30:00",
       "endTime": "18:50:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
@@ -812,14 +856,14 @@
     },
     {
       "serverDate": "2026-09-01",
-      "showName": "7 Baje 7 Sawal",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "showName": "7 Baje 7 Good News",
+      "description": "The host shares 7 uplifting stories at 7 o'clock bringing a daily dose of good news from across the globe to inspire and brighten the day.",
       "startDate": "2026-09-01T19:04:00",
       "endDate": "2026-09-01T19:34:00",
       "showTime": "19:04:00",
       "endTime": "19:34:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d3110491a469242438a4d4ef9cddf149.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3982b5a30108d8dcefaa0434c7ca39c5.jpg"
     },
     {
       "serverDate": "2026-09-01",
@@ -867,14 +911,14 @@
     },
     {
       "serverDate": "2026-09-01",
-      "showName": "Shubh Mangal Sawdhan",
+      "showName": "GNT Special",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-01T22:04:00",
       "endDate": "2026-09-01T22:34:00",
       "showTime": "22:04:00",
       "endTime": "22:34:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cb92f5518d20bc4ead54a3904101a26d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f373ccbde4fb6d8003477fdfd7f348f5.jpg"
     },
     {
       "serverDate": "2026-09-01",
@@ -933,36 +977,36 @@
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "7 Baje 7 Sawal",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "showName": "7 Baje 7 Good News",
+      "description": "The host shares 7 uplifting stories at 7 o'clock bringing a daily dose of good news from across the globe to inspire and brighten the day.",
       "startDate": "2026-09-02T02:30:00",
       "endDate": "2026-09-02T03:00:00",
       "showTime": "02:30:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d3110491a469242438a4d4ef9cddf149.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3982b5a30108d8dcefaa0434c7ca39c5.jpg"
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "Good Night",
-      "description": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+      "showName": "Good News",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-02T03:00:00",
       "endDate": "2026-09-02T03:30:00",
       "showTime": "03:00:00",
       "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e2e66d322256b0a5ef5212cfcd64de71.jpg"
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ce2446b01d0410886edcb10a1b15221b.jpg"
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "Shubh Mangal Sawdhan",
+      "showName": "GNT Special",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-02T03:30:00",
       "endDate": "2026-09-02T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cb92f5518d20bc4ead54a3904101a26d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f373ccbde4fb6d8003477fdfd7f348f5.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -1087,36 +1131,58 @@
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "Good Luck Special",
-      "description": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
+      "showName": "Kismat Connection",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-02T10:04:00",
-      "endDate": "2026-09-02T10:34:00",
+      "endDate": "2026-09-02T10:30:00",
       "showTime": "10:04:00",
-      "endTime": "10:34:00",
+      "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/105a9dfcd0c5aa6d8a884261303ab32f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8313af66b02f6d2697199f5f552d67a2.jpg"
     },
     {
       "serverDate": "2026-09-02",
       "showName": "Achchi Baat Dhirendra Shastri Ke Saath",
       "description": "The host and spiritual leader, Dhirendra Krishna Shastri, holds conversations on various topics and issues of significance.",
-      "startDate": "2026-09-02T10:34:00",
-      "endDate": "2026-09-02T11:04:00",
-      "showTime": "10:34:00",
-      "endTime": "11:04:00",
+      "startDate": "2026-09-02T10:30:00",
+      "endDate": "2026-09-02T10:45:00",
+      "showTime": "10:30:00",
+      "endTime": "10:45:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cfda9ecf5c37e049865942a5c7f6b19.jpg"
+    },
+    {
+      "serverDate": "2026-09-02",
+      "showName": "Advt",
+      "description": "The host presents an extensive variety of miscellaneous products that can be purchased from the warm comfort of one's home.",
+      "startDate": "2026-09-02T10:45:00",
+      "endDate": "2026-09-02T11:04:00",
+      "showTime": "10:45:00",
+      "endTime": "11:04:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9788abbd952ce648ab2404ae835bd20.jpg"
     },
     {
       "serverDate": "2026-09-02",
       "showName": "GNT Express",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-02T11:04:00",
-      "endDate": "2026-09-02T11:34:00",
+      "endDate": "2026-09-02T11:15:00",
       "showTime": "11:04:00",
-      "endTime": "11:34:00",
+      "endTime": "11:15:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
+    },
+    {
+      "serverDate": "2026-09-02",
+      "showName": "Advt",
+      "description": "The host presents an extensive variety of miscellaneous products that can be purchased from the warm comfort of one's home.",
+      "startDate": "2026-09-02T11:15:00",
+      "endDate": "2026-09-02T11:34:00",
+      "showTime": "11:15:00",
+      "endTime": "11:34:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9788abbd952ce648ab2404ae835bd20.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -1167,11 +1233,22 @@
       "showName": "GNT Express",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-02T15:04:00",
-      "endDate": "2026-09-02T15:34:00",
+      "endDate": "2026-09-02T15:15:00",
       "showTime": "15:04:00",
-      "endTime": "15:34:00",
+      "endTime": "15:15:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
+    },
+    {
+      "serverDate": "2026-09-02",
+      "showName": "Advt",
+      "description": "The host presents an extensive variety of miscellaneous products that can be purchased from the warm comfort of one's home.",
+      "startDate": "2026-09-02T15:15:00",
+      "endDate": "2026-09-02T15:34:00",
+      "showTime": "15:15:00",
+      "endTime": "15:34:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9788abbd952ce648ab2404ae835bd20.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -1241,14 +1318,14 @@
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "7 Baje 7 Sawal",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "showName": "7 Baje 7 Good News",
+      "description": "The host shares 7 uplifting stories at 7 o'clock bringing a daily dose of good news from across the globe to inspire and brighten the day.",
       "startDate": "2026-09-02T19:04:00",
       "endDate": "2026-09-02T19:34:00",
       "showTime": "19:04:00",
       "endTime": "19:34:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d3110491a469242438a4d4ef9cddf149.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3982b5a30108d8dcefaa0434c7ca39c5.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -1296,14 +1373,14 @@
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "Shubh Mangal Sawdhan",
+      "showName": "GNT Special",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-02T22:04:00",
       "endDate": "2026-09-02T22:34:00",
       "showTime": "22:04:00",
       "endTime": "22:34:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cb92f5518d20bc4ead54a3904101a26d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f373ccbde4fb6d8003477fdfd7f348f5.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -1362,36 +1439,36 @@
     },
     {
       "serverDate": "2026-09-03",
-      "showName": "7 Baje 7 Sawal",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "showName": "7 Baje 7 Good News",
+      "description": "The host shares 7 uplifting stories at 7 o'clock bringing a daily dose of good news from across the globe to inspire and brighten the day.",
       "startDate": "2026-09-03T02:30:00",
       "endDate": "2026-09-03T03:00:00",
       "showTime": "02:30:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d3110491a469242438a4d4ef9cddf149.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3982b5a30108d8dcefaa0434c7ca39c5.jpg"
     },
     {
       "serverDate": "2026-09-03",
-      "showName": "Good Night",
-      "description": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+      "showName": "Good News",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-03T03:00:00",
       "endDate": "2026-09-03T03:30:00",
       "showTime": "03:00:00",
       "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e2e66d322256b0a5ef5212cfcd64de71.jpg"
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ce2446b01d0410886edcb10a1b15221b.jpg"
     },
     {
       "serverDate": "2026-09-03",
-      "showName": "Shubh Mangal Sawdhan",
+      "showName": "GNT Special",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-03T03:30:00",
       "endDate": "2026-09-03T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cb92f5518d20bc4ead54a3904101a26d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f373ccbde4fb6d8003477fdfd7f348f5.jpg"
     },
     {
       "serverDate": "2026-09-03",
@@ -1516,36 +1593,58 @@
     },
     {
       "serverDate": "2026-09-03",
-      "showName": "Good Luck Special",
-      "description": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
+      "showName": "Kismat Connection",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-03T10:04:00",
-      "endDate": "2026-09-03T10:34:00",
+      "endDate": "2026-09-03T10:30:00",
       "showTime": "10:04:00",
-      "endTime": "10:34:00",
+      "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/105a9dfcd0c5aa6d8a884261303ab32f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8313af66b02f6d2697199f5f552d67a2.jpg"
     },
     {
       "serverDate": "2026-09-03",
       "showName": "Achchi Baat Dhirendra Shastri Ke Saath",
       "description": "The host and spiritual leader, Dhirendra Krishna Shastri, holds conversations on various topics and issues of significance.",
-      "startDate": "2026-09-03T10:34:00",
-      "endDate": "2026-09-03T11:04:00",
-      "showTime": "10:34:00",
-      "endTime": "11:04:00",
+      "startDate": "2026-09-03T10:30:00",
+      "endDate": "2026-09-03T10:45:00",
+      "showTime": "10:30:00",
+      "endTime": "10:45:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cfda9ecf5c37e049865942a5c7f6b19.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Advt",
+      "description": "The host presents an extensive variety of miscellaneous products that can be purchased from the warm comfort of one's home.",
+      "startDate": "2026-09-03T10:45:00",
+      "endDate": "2026-09-03T11:04:00",
+      "showTime": "10:45:00",
+      "endTime": "11:04:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9788abbd952ce648ab2404ae835bd20.jpg"
     },
     {
       "serverDate": "2026-09-03",
       "showName": "GNT Express",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-03T11:04:00",
-      "endDate": "2026-09-03T11:34:00",
+      "endDate": "2026-09-03T11:15:00",
       "showTime": "11:04:00",
-      "endTime": "11:34:00",
+      "endTime": "11:15:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Advt",
+      "description": "The host presents an extensive variety of miscellaneous products that can be purchased from the warm comfort of one's home.",
+      "startDate": "2026-09-03T11:15:00",
+      "endDate": "2026-09-03T11:34:00",
+      "showTime": "11:15:00",
+      "endTime": "11:34:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9788abbd952ce648ab2404ae835bd20.jpg"
     },
     {
       "serverDate": "2026-09-03",
@@ -1596,11 +1695,22 @@
       "showName": "GNT Express",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-03T15:04:00",
-      "endDate": "2026-09-03T15:34:00",
+      "endDate": "2026-09-03T15:15:00",
       "showTime": "15:04:00",
-      "endTime": "15:34:00",
+      "endTime": "15:15:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Advt",
+      "description": "The host presents an extensive variety of miscellaneous products that can be purchased from the warm comfort of one's home.",
+      "startDate": "2026-09-03T15:15:00",
+      "endDate": "2026-09-03T15:34:00",
+      "showTime": "15:15:00",
+      "endTime": "15:34:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9788abbd952ce648ab2404ae835bd20.jpg"
     },
     {
       "serverDate": "2026-09-03",
@@ -1670,14 +1780,14 @@
     },
     {
       "serverDate": "2026-09-03",
-      "showName": "7 Baje 7 Sawal",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "showName": "7 Baje 7 Good News",
+      "description": "The host shares 7 uplifting stories at 7 o'clock bringing a daily dose of good news from across the globe to inspire and brighten the day.",
       "startDate": "2026-09-03T19:04:00",
       "endDate": "2026-09-03T19:34:00",
       "showTime": "19:04:00",
       "endTime": "19:34:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d3110491a469242438a4d4ef9cddf149.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3982b5a30108d8dcefaa0434c7ca39c5.jpg"
     },
     {
       "serverDate": "2026-09-03",
@@ -1725,14 +1835,14 @@
     },
     {
       "serverDate": "2026-09-03",
-      "showName": "Shubh Mangal Sawdhan",
+      "showName": "GNT Special",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-03T22:04:00",
       "endDate": "2026-09-03T22:34:00",
       "showTime": "22:04:00",
       "endTime": "22:34:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cb92f5518d20bc4ead54a3904101a26d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f373ccbde4fb6d8003477fdfd7f348f5.jpg"
     },
     {
       "serverDate": "2026-09-03",
@@ -1791,36 +1901,36 @@
     },
     {
       "serverDate": "2026-09-04",
-      "showName": "7 Baje 7 Sawal",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "showName": "7 Baje 7 Good News",
+      "description": "The host shares 7 uplifting stories at 7 o'clock bringing a daily dose of good news from across the globe to inspire and brighten the day.",
       "startDate": "2026-09-04T02:30:00",
       "endDate": "2026-09-04T03:00:00",
       "showTime": "02:30:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d3110491a469242438a4d4ef9cddf149.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3982b5a30108d8dcefaa0434c7ca39c5.jpg"
     },
     {
       "serverDate": "2026-09-04",
-      "showName": "Good Night",
-      "description": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+      "showName": "Good News",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-04T03:00:00",
       "endDate": "2026-09-04T03:30:00",
       "showTime": "03:00:00",
       "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e2e66d322256b0a5ef5212cfcd64de71.jpg"
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ce2446b01d0410886edcb10a1b15221b.jpg"
     },
     {
       "serverDate": "2026-09-04",
-      "showName": "Shubh Mangal Sawdhan",
+      "showName": "GNT Special",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-04T03:30:00",
       "endDate": "2026-09-04T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cb92f5518d20bc4ead54a3904101a26d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f373ccbde4fb6d8003477fdfd7f348f5.jpg"
     },
     {
       "serverDate": "2026-09-04",
@@ -1945,36 +2055,58 @@
     },
     {
       "serverDate": "2026-09-04",
-      "showName": "Good Luck Special",
-      "description": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
+      "showName": "Kismat Connection",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-04T10:04:00",
-      "endDate": "2026-09-04T10:34:00",
+      "endDate": "2026-09-04T10:30:00",
       "showTime": "10:04:00",
-      "endTime": "10:34:00",
+      "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/105a9dfcd0c5aa6d8a884261303ab32f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8313af66b02f6d2697199f5f552d67a2.jpg"
     },
     {
       "serverDate": "2026-09-04",
       "showName": "Achchi Baat Dhirendra Shastri Ke Saath",
       "description": "The host and spiritual leader, Dhirendra Krishna Shastri, holds conversations on various topics and issues of significance.",
-      "startDate": "2026-09-04T10:34:00",
-      "endDate": "2026-09-04T11:04:00",
-      "showTime": "10:34:00",
-      "endTime": "11:04:00",
+      "startDate": "2026-09-04T10:30:00",
+      "endDate": "2026-09-04T10:45:00",
+      "showTime": "10:30:00",
+      "endTime": "10:45:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cfda9ecf5c37e049865942a5c7f6b19.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Advt",
+      "description": "The host presents an extensive variety of miscellaneous products that can be purchased from the warm comfort of one's home.",
+      "startDate": "2026-09-04T10:45:00",
+      "endDate": "2026-09-04T11:04:00",
+      "showTime": "10:45:00",
+      "endTime": "11:04:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9788abbd952ce648ab2404ae835bd20.jpg"
     },
     {
       "serverDate": "2026-09-04",
       "showName": "GNT Express",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-04T11:04:00",
-      "endDate": "2026-09-04T11:34:00",
+      "endDate": "2026-09-04T11:15:00",
       "showTime": "11:04:00",
-      "endTime": "11:34:00",
+      "endTime": "11:15:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Advt",
+      "description": "The host presents an extensive variety of miscellaneous products that can be purchased from the warm comfort of one's home.",
+      "startDate": "2026-09-04T11:15:00",
+      "endDate": "2026-09-04T11:34:00",
+      "showTime": "11:15:00",
+      "endTime": "11:34:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9788abbd952ce648ab2404ae835bd20.jpg"
     },
     {
       "serverDate": "2026-09-04",
@@ -2025,11 +2157,22 @@
       "showName": "GNT Express",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-04T15:04:00",
-      "endDate": "2026-09-04T15:34:00",
+      "endDate": "2026-09-04T15:15:00",
       "showTime": "15:04:00",
-      "endTime": "15:34:00",
+      "endTime": "15:15:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Advt",
+      "description": "The host presents an extensive variety of miscellaneous products that can be purchased from the warm comfort of one's home.",
+      "startDate": "2026-09-04T15:15:00",
+      "endDate": "2026-09-04T15:34:00",
+      "showTime": "15:15:00",
+      "endTime": "15:34:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9788abbd952ce648ab2404ae835bd20.jpg"
     },
     {
       "serverDate": "2026-09-04",
@@ -2099,14 +2242,14 @@
     },
     {
       "serverDate": "2026-09-04",
-      "showName": "7 Baje 7 Sawal",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "showName": "7 Baje 7 Good News",
+      "description": "The host shares 7 uplifting stories at 7 o'clock bringing a daily dose of good news from across the globe to inspire and brighten the day.",
       "startDate": "2026-09-04T19:04:00",
       "endDate": "2026-09-04T19:34:00",
       "showTime": "19:04:00",
       "endTime": "19:34:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d3110491a469242438a4d4ef9cddf149.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3982b5a30108d8dcefaa0434c7ca39c5.jpg"
     },
     {
       "serverDate": "2026-09-04",
@@ -2154,14 +2297,14 @@
     },
     {
       "serverDate": "2026-09-04",
-      "showName": "Shubh Mangal Sawdhan",
+      "showName": "GNT Special",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-04T22:04:00",
       "endDate": "2026-09-04T22:34:00",
       "showTime": "22:04:00",
       "endTime": "22:34:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cb92f5518d20bc4ead54a3904101a26d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f373ccbde4fb6d8003477fdfd7f348f5.jpg"
     },
     {
       "serverDate": "2026-09-04",
@@ -2220,36 +2363,36 @@
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "7 Baje 7 Sawal",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "showName": "7 Baje 7 Good News",
+      "description": "The host shares 7 uplifting stories at 7 o'clock bringing a daily dose of good news from across the globe to inspire and brighten the day.",
       "startDate": "2026-09-05T02:30:00",
       "endDate": "2026-09-05T03:00:00",
       "showTime": "02:30:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d3110491a469242438a4d4ef9cddf149.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3982b5a30108d8dcefaa0434c7ca39c5.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Good Night",
-      "description": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+      "showName": "Good News",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-05T03:00:00",
       "endDate": "2026-09-05T03:30:00",
       "showTime": "03:00:00",
       "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e2e66d322256b0a5ef5212cfcd64de71.jpg"
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ce2446b01d0410886edcb10a1b15221b.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Shubh Mangal Sawdhan",
+      "showName": "GNT Special",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-05T03:30:00",
       "endDate": "2026-09-05T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cb92f5518d20bc4ead54a3904101a26d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f373ccbde4fb6d8003477fdfd7f348f5.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -2363,45 +2506,12 @@
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Shubh Samachar",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-09-05T09:04:00",
-      "endDate": "2026-09-05T10:04:00",
-      "showTime": "09:04:00",
-      "endTime": "10:04:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dbf71518c1f9893b74366c330396f125.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "Good Luck Special",
-      "description": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
-      "startDate": "2026-09-05T10:04:00",
-      "endDate": "2026-09-05T10:34:00",
-      "showTime": "10:04:00",
-      "endTime": "10:34:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/105a9dfcd0c5aa6d8a884261303ab32f.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "Achchi Baat Dhirendra Shastri Ke Saath",
-      "description": "The host and spiritual leader, Dhirendra Krishna Shastri, holds conversations on various topics and issues of significance.",
-      "startDate": "2026-09-05T10:34:00",
-      "endDate": "2026-09-05T11:04:00",
-      "showTime": "10:34:00",
-      "endTime": "11:04:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cfda9ecf5c37e049865942a5c7f6b19.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
       "showName": "GNT Express",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-09-05T11:04:00",
-      "endDate": "2026-09-05T11:34:00",
-      "showTime": "11:04:00",
-      "endTime": "11:34:00",
+      "startDate": "2026-09-05T09:04:00",
+      "endDate": "2026-09-05T09:25:00",
+      "showTime": "09:04:00",
+      "endTime": "09:25:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
     },
@@ -2409,34 +2519,100 @@
       "serverDate": "2026-09-05",
       "showName": "GNT Special",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-09-05T11:34:00",
-      "endDate": "2026-09-05T12:04:00",
-      "showTime": "11:34:00",
-      "endTime": "12:04:00",
+      "startDate": "2026-09-05T09:25:00",
+      "endDate": "2026-09-05T10:04:00",
+      "showTime": "09:25:00",
+      "endTime": "10:04:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f373ccbde4fb6d8003477fdfd7f348f5.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Lunch Time",
-      "description": "The hosts present some of the latest news updates and developments pertaining to various social, political and economic issues.",
-      "startDate": "2026-09-05T12:04:00",
-      "endDate": "2026-09-05T13:04:00",
-      "showTime": "12:04:00",
-      "endTime": "13:04:00",
+      "showName": "Kismat Connection",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-05T10:04:00",
+      "endDate": "2026-09-05T10:30:00",
+      "showTime": "10:04:00",
+      "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2c2a611f447f5e862fcf0dc0553ddc06.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8313af66b02f6d2697199f5f552d67a2.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Achchi Baat Dhirendra Shastri Ke Saath",
+      "description": "The host and spiritual leader, Dhirendra Krishna Shastri, holds conversations on various topics and issues of significance.",
+      "startDate": "2026-09-05T10:30:00",
+      "endDate": "2026-09-05T10:45:00",
+      "showTime": "10:30:00",
+      "endTime": "10:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cfda9ecf5c37e049865942a5c7f6b19.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Advt",
+      "description": "The host presents an extensive variety of miscellaneous products that can be purchased from the warm comfort of one's home.",
+      "startDate": "2026-09-05T10:45:00",
+      "endDate": "2026-09-05T11:04:00",
+      "showTime": "10:45:00",
+      "endTime": "11:04:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9788abbd952ce648ab2404ae835bd20.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Fact Check",
+      "description": "The host sheds light on various news stories circulating on social media and verifies whether the information present is accurate or not.",
+      "startDate": "2026-09-05T11:04:00",
+      "endDate": "2026-09-05T12:04:00",
+      "showTime": "11:04:00",
+      "endTime": "12:04:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bccfdbb2874c1dc5c6930073662f948f.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Good Luck Special",
+      "description": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
+      "startDate": "2026-09-05T12:04:00",
+      "endDate": "2026-09-05T12:28:00",
+      "showTime": "12:04:00",
+      "endTime": "12:28:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/105a9dfcd0c5aa6d8a884261303ab32f.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Good Luck Special",
+      "description": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
+      "startDate": "2026-09-05T12:28:00",
+      "endDate": "2026-09-05T13:05:00",
+      "showTime": "12:28:00",
+      "endTime": "13:05:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/105a9dfcd0c5aa6d8a884261303ab32f.jpg"
     },
     {
       "serverDate": "2026-09-05",
       "showName": "GNT Express",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-09-05T13:04:00",
-      "endDate": "2026-09-05T13:28:00",
-      "showTime": "13:04:00",
-      "endTime": "13:28:00",
+      "startDate": "2026-09-05T13:05:00",
+      "endDate": "2026-09-05T13:15:00",
+      "showTime": "13:05:00",
+      "endTime": "13:15:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Advt",
+      "description": "The host presents an extensive variety of miscellaneous products that can be purchased from the warm comfort of one's home.",
+      "startDate": "2026-09-05T13:15:00",
+      "endDate": "2026-09-05T13:28:00",
+      "showTime": "13:15:00",
+      "endTime": "13:28:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9788abbd952ce648ab2404ae835bd20.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -2454,11 +2630,22 @@
       "showName": "GNT Express",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-05T15:04:00",
-      "endDate": "2026-09-05T15:34:00",
+      "endDate": "2026-09-05T15:15:00",
       "showTime": "15:04:00",
-      "endTime": "15:34:00",
+      "endTime": "15:15:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Advt",
+      "description": "The host presents an extensive variety of miscellaneous products that can be purchased from the warm comfort of one's home.",
+      "startDate": "2026-09-05T15:15:00",
+      "endDate": "2026-09-05T15:34:00",
+      "showTime": "15:15:00",
+      "endTime": "15:34:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9788abbd952ce648ab2404ae835bd20.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -2473,36 +2660,47 @@
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Ye Hui Na Baat",
-      "description": "The host converses with individuals from the world of politics, business, entertainment and more to discuss topics and issues of significance.",
+      "showName": "Paheli",
+      "description": "The host presents various unsolved mysteries and sheds light on the investigations and scientific explanations provided by experts.",
       "startDate": "2026-09-05T16:04:00",
-      "endDate": "2026-09-05T17:04:00",
+      "endDate": "2026-09-05T16:34:00",
       "showTime": "16:04:00",
-      "endTime": "17:04:00",
+      "endTime": "16:34:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f834f4b203ee3f32768c946827f86ff.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a36509dff5276c16ab9a65f8ab1a3cfb.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Chai Par Charcha",
-      "description": "The host invites experts from different walks of life to discuss important news stories, major developments and critical updates from across the country.",
+      "showName": "GNT Express",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-09-05T16:34:00",
+      "endDate": "2026-09-05T17:04:00",
+      "showTime": "16:34:00",
+      "endTime": "17:04:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Rankshetra",
+      "description": "The presenter discusses ongoing national issues of communal, political and economical natures to share relevant updates on their progress and impacts.",
       "startDate": "2026-09-05T17:04:00",
       "endDate": "2026-09-05T18:04:00",
       "showTime": "17:04:00",
       "endTime": "18:04:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aded66c2676e770959835089c84ad783.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8213a48eaf55b5f218bc858eeb35bcc6.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "GNT Special",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "showName": "Bande Me Hai Dum",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-05T18:04:00",
       "endDate": "2026-09-05T18:27:00",
       "showTime": "18:04:00",
       "endTime": "18:27:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f373ccbde4fb6d8003477fdfd7f348f5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5c2b72e77be2df521ff20c0474b8a5b0.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -2528,14 +2726,14 @@
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "7 Baje 7 Sawal",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "showName": "Fact Check",
+      "description": "The host sheds light on various news stories circulating on social media and verifies whether the information present is accurate or not.",
       "startDate": "2026-09-05T19:04:00",
       "endDate": "2026-09-05T19:34:00",
       "showTime": "19:04:00",
       "endTime": "19:34:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d3110491a469242438a4d4ef9cddf149.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bccfdbb2874c1dc5c6930073662f948f.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -2553,9 +2751,9 @@
       "showName": "Achchi Khabar Sachchi Khabar",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-05T20:04:00",
-      "endDate": "2026-09-05T20:30:00",
+      "endDate": "2026-09-05T20:34:00",
       "showTime": "20:04:00",
-      "endTime": "20:30:00",
+      "endTime": "20:34:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56d72bf5f62a7735a14c243d5c944241.jpg"
     },
@@ -2563,42 +2761,42 @@
       "serverDate": "2026-09-05",
       "showName": "Good Luck Special",
       "description": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
-      "startDate": "2026-09-05T20:30:00",
+      "startDate": "2026-09-05T20:34:00",
       "endDate": "2026-09-05T21:00:00",
-      "showTime": "20:30:00",
+      "showTime": "20:34:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/105a9dfcd0c5aa6d8a884261303ab32f.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "News Path",
-      "description": "The host presents information on the latest news stories and developments surrounding various issues and provides updates on current events.",
+      "showName": "Rankshetra",
+      "description": "The presenter discusses ongoing national issues of communal, political and economical natures to share relevant updates on their progress and impacts.",
       "startDate": "2026-09-05T21:00:00",
       "endDate": "2026-09-05T22:04:00",
       "showTime": "21:00:00",
       "endTime": "22:04:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/116015d148c627e07f0bd792378b71ef.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8213a48eaf55b5f218bc858eeb35bcc6.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Shubh Mangal Sawdhan",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "showName": "Bande Me Hai Dum",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-05T22:04:00",
-      "endDate": "2026-09-05T22:34:00",
+      "endDate": "2026-09-05T22:30:00",
       "showTime": "22:04:00",
-      "endTime": "22:34:00",
+      "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cb92f5518d20bc4ead54a3904101a26d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5c2b72e77be2df521ff20c0474b8a5b0.jpg"
     },
     {
       "serverDate": "2026-09-05",
       "showName": "GNT Express",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-09-05T22:34:00",
+      "startDate": "2026-09-05T22:30:00",
       "endDate": "2026-09-05T23:00:00",
-      "showTime": "22:34:00",
+      "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
@@ -2627,14 +2825,14 @@
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "GNT Special",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "showName": "Good News Today",
+      "description": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
       "startDate": "2026-09-06T01:00:00",
       "endDate": "2026-09-06T02:00:00",
       "showTime": "01:00:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f373ccbde4fb6d8003477fdfd7f348f5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7e2267b0a7e5887ea01e43690fbe90af.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -2649,36 +2847,36 @@
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "7 Baje 7 Sawal",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "showName": "Fact Check",
+      "description": "The host sheds light on various news stories circulating on social media and verifies whether the information present is accurate or not.",
       "startDate": "2026-09-06T02:30:00",
       "endDate": "2026-09-06T03:00:00",
       "showTime": "02:30:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d3110491a469242438a4d4ef9cddf149.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bccfdbb2874c1dc5c6930073662f948f.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Good Night",
-      "description": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+      "showName": "Good News",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-06T03:00:00",
       "endDate": "2026-09-06T03:30:00",
       "showTime": "03:00:00",
       "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e2e66d322256b0a5ef5212cfcd64de71.jpg"
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ce2446b01d0410886edcb10a1b15221b.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Shubh Mangal Sawdhan",
+      "showName": "GNT Special",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-06T03:30:00",
       "endDate": "2026-09-06T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cb92f5518d20bc4ead54a3904101a26d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f373ccbde4fb6d8003477fdfd7f348f5.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -2704,14 +2902,14 @@
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Achchi Khabar Sachchi Khabar",
+      "showName": "GNT Special",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-06T05:00:00",
       "endDate": "2026-09-06T06:00:00",
       "showTime": "05:00:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56d72bf5f62a7735a14c243d5c944241.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f373ccbde4fb6d8003477fdfd7f348f5.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -2792,45 +2990,12 @@
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Shubh Samachar",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-09-06T09:04:00",
-      "endDate": "2026-09-06T10:04:00",
-      "showTime": "09:04:00",
-      "endTime": "10:04:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dbf71518c1f9893b74366c330396f125.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Good Luck Special",
-      "description": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
-      "startDate": "2026-09-06T10:04:00",
-      "endDate": "2026-09-06T10:34:00",
-      "showTime": "10:04:00",
-      "endTime": "10:34:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/105a9dfcd0c5aa6d8a884261303ab32f.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Achchi Baat Dhirendra Shastri Ke Saath",
-      "description": "The host and spiritual leader, Dhirendra Krishna Shastri, holds conversations on various topics and issues of significance.",
-      "startDate": "2026-09-06T10:34:00",
-      "endDate": "2026-09-06T11:04:00",
-      "showTime": "10:34:00",
-      "endTime": "11:04:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cfda9ecf5c37e049865942a5c7f6b19.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
       "showName": "GNT Express",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-09-06T11:04:00",
-      "endDate": "2026-09-06T11:34:00",
-      "showTime": "11:04:00",
-      "endTime": "11:34:00",
+      "startDate": "2026-09-06T09:04:00",
+      "endDate": "2026-09-06T09:25:00",
+      "showTime": "09:04:00",
+      "endTime": "09:25:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
     },
@@ -2838,34 +3003,100 @@
       "serverDate": "2026-09-06",
       "showName": "GNT Special",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-09-06T11:34:00",
-      "endDate": "2026-09-06T12:04:00",
-      "showTime": "11:34:00",
-      "endTime": "12:04:00",
+      "startDate": "2026-09-06T09:25:00",
+      "endDate": "2026-09-06T10:04:00",
+      "showTime": "09:25:00",
+      "endTime": "10:04:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f373ccbde4fb6d8003477fdfd7f348f5.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Lunch Time",
-      "description": "The hosts present some of the latest news updates and developments pertaining to various social, political and economic issues.",
-      "startDate": "2026-09-06T12:04:00",
-      "endDate": "2026-09-06T13:04:00",
-      "showTime": "12:04:00",
-      "endTime": "13:04:00",
+      "showName": "Kismat Connection",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-06T10:04:00",
+      "endDate": "2026-09-06T10:30:00",
+      "showTime": "10:04:00",
+      "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2c2a611f447f5e862fcf0dc0553ddc06.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8313af66b02f6d2697199f5f552d67a2.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Achchi Baat Dhirendra Shastri Ke Saath",
+      "description": "The host and spiritual leader, Dhirendra Krishna Shastri, holds conversations on various topics and issues of significance.",
+      "startDate": "2026-09-06T10:30:00",
+      "endDate": "2026-09-06T10:45:00",
+      "showTime": "10:30:00",
+      "endTime": "10:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cfda9ecf5c37e049865942a5c7f6b19.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Advt",
+      "description": "The host presents an extensive variety of miscellaneous products that can be purchased from the warm comfort of one's home.",
+      "startDate": "2026-09-06T10:45:00",
+      "endDate": "2026-09-06T11:04:00",
+      "showTime": "10:45:00",
+      "endTime": "11:04:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9788abbd952ce648ab2404ae835bd20.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Fact Check",
+      "description": "The host sheds light on various news stories circulating on social media and verifies whether the information present is accurate or not.",
+      "startDate": "2026-09-06T11:04:00",
+      "endDate": "2026-09-06T12:04:00",
+      "showTime": "11:04:00",
+      "endTime": "12:04:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bccfdbb2874c1dc5c6930073662f948f.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Good Luck Special",
+      "description": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
+      "startDate": "2026-09-06T12:04:00",
+      "endDate": "2026-09-06T12:28:00",
+      "showTime": "12:04:00",
+      "endTime": "12:28:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/105a9dfcd0c5aa6d8a884261303ab32f.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Good Luck Special",
+      "description": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
+      "startDate": "2026-09-06T12:28:00",
+      "endDate": "2026-09-06T13:05:00",
+      "showTime": "12:28:00",
+      "endTime": "13:05:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/105a9dfcd0c5aa6d8a884261303ab32f.jpg"
     },
     {
       "serverDate": "2026-09-06",
       "showName": "GNT Express",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-09-06T13:04:00",
-      "endDate": "2026-09-06T13:28:00",
-      "showTime": "13:04:00",
-      "endTime": "13:28:00",
+      "startDate": "2026-09-06T13:05:00",
+      "endDate": "2026-09-06T13:15:00",
+      "showTime": "13:05:00",
+      "endTime": "13:15:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Advt",
+      "description": "The host presents an extensive variety of miscellaneous products that can be purchased from the warm comfort of one's home.",
+      "startDate": "2026-09-06T13:15:00",
+      "endDate": "2026-09-06T13:28:00",
+      "showTime": "13:15:00",
+      "endTime": "13:28:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9788abbd952ce648ab2404ae835bd20.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -2883,11 +3114,22 @@
       "showName": "GNT Express",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-06T15:04:00",
-      "endDate": "2026-09-06T15:34:00",
+      "endDate": "2026-09-06T15:15:00",
       "showTime": "15:04:00",
-      "endTime": "15:34:00",
+      "endTime": "15:15:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Advt",
+      "description": "The host presents an extensive variety of miscellaneous products that can be purchased from the warm comfort of one's home.",
+      "startDate": "2026-09-06T15:15:00",
+      "endDate": "2026-09-06T15:34:00",
+      "showTime": "15:15:00",
+      "endTime": "15:34:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9788abbd952ce648ab2404ae835bd20.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -2902,34 +3144,12 @@
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Ye Hui Na Baat",
-      "description": "The host converses with individuals from the world of politics, business, entertainment and more to discuss topics and issues of significance.",
-      "startDate": "2026-09-06T16:04:00",
-      "endDate": "2026-09-06T17:04:00",
-      "showTime": "16:04:00",
-      "endTime": "17:04:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f834f4b203ee3f32768c946827f86ff.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Chai Par Charcha",
-      "description": "The host invites experts from different walks of life to discuss important news stories, major developments and critical updates from across the country.",
-      "startDate": "2026-09-06T17:04:00",
-      "endDate": "2026-09-06T18:04:00",
-      "showTime": "17:04:00",
-      "endTime": "18:04:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aded66c2676e770959835089c84ad783.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
       "showName": "GNT Special",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-09-06T18:04:00",
-      "endDate": "2026-09-06T18:27:00",
-      "showTime": "18:04:00",
-      "endTime": "18:27:00",
+      "startDate": "2026-09-06T16:04:00",
+      "endDate": "2026-09-06T16:34:00",
+      "showTime": "16:04:00",
+      "endTime": "16:34:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f373ccbde4fb6d8003477fdfd7f348f5.jpg"
     },
@@ -2937,34 +3157,67 @@
       "serverDate": "2026-09-06",
       "showName": "GNT Express",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-09-06T18:27:00",
-      "endDate": "2026-09-06T18:50:00",
-      "showTime": "18:27:00",
-      "endTime": "18:50:00",
+      "startDate": "2026-09-06T16:34:00",
+      "endDate": "2026-09-06T17:04:00",
+      "showTime": "16:34:00",
+      "endTime": "17:04:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Good News",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-09-06T18:50:00",
-      "endDate": "2026-09-06T19:04:00",
-      "showTime": "18:50:00",
-      "endTime": "19:04:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ce2446b01d0410886edcb10a1b15221b.jpg"
+      "showName": "Bande Me Hai Dum",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-06T17:04:00",
+      "endDate": "2026-09-06T17:34:00",
+      "showTime": "17:04:00",
+      "endTime": "17:34:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5c2b72e77be2df521ff20c0474b8a5b0.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "7 Baje 7 Sawal",
+      "showName": "GNT Express",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-09-06T17:34:00",
+      "endDate": "2026-09-06T18:04:00",
+      "showTime": "17:34:00",
+      "endTime": "18:04:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Good Reporter",
+      "description": "The host presents an in-depth analysis of the recent happenings in the political and socio-economic domain from around the country.",
+      "startDate": "2026-09-06T18:04:00",
+      "endDate": "2026-09-06T18:34:00",
+      "showTime": "18:04:00",
+      "endTime": "18:34:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f97fc01e845e7021fef92f90b8017703.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "GNT Express",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-09-06T18:34:00",
+      "endDate": "2026-09-06T19:04:00",
+      "showTime": "18:34:00",
+      "endTime": "19:04:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Fact Check",
+      "description": "The host sheds light on various news stories circulating on social media and verifies whether the information present is accurate or not.",
       "startDate": "2026-09-06T19:04:00",
       "endDate": "2026-09-06T19:34:00",
       "showTime": "19:04:00",
       "endTime": "19:34:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d3110491a469242438a4d4ef9cddf149.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bccfdbb2874c1dc5c6930073662f948f.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -2982,44 +3235,44 @@
       "showName": "Achchi Khabar Sachchi Khabar",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-06T20:04:00",
-      "endDate": "2026-09-06T20:30:00",
+      "endDate": "2026-09-06T20:34:00",
       "showTime": "20:04:00",
-      "endTime": "20:30:00",
+      "endTime": "20:34:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56d72bf5f62a7735a14c243d5c944241.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Good Luck Special",
-      "description": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
-      "startDate": "2026-09-06T20:30:00",
+      "showName": "Kismat Connection",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-06T20:34:00",
       "endDate": "2026-09-06T21:00:00",
-      "showTime": "20:30:00",
+      "showTime": "20:34:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/105a9dfcd0c5aa6d8a884261303ab32f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8313af66b02f6d2697199f5f552d67a2.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "News Path",
+      "showName": "News Path Weekend Special",
       "description": "The host presents information on the latest news stories and developments surrounding various issues and provides updates on current events.",
       "startDate": "2026-09-06T21:00:00",
       "endDate": "2026-09-06T22:04:00",
       "showTime": "21:00:00",
       "endTime": "22:04:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/116015d148c627e07f0bd792378b71ef.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/69bdac3bec2247197be329932e4c52e9.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Shubh Mangal Sawdhan",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "showName": "Rankshetra",
+      "description": "The presenter discusses ongoing national issues of communal, political and economical natures to share relevant updates on their progress and impacts.",
       "startDate": "2026-09-06T22:04:00",
       "endDate": "2026-09-06T22:34:00",
       "showTime": "22:04:00",
       "endTime": "22:34:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cb92f5518d20bc4ead54a3904101a26d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8213a48eaf55b5f218bc858eeb35bcc6.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -3056,14 +3309,14 @@
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "GNT Special",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "showName": "Good News Today",
+      "description": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
       "startDate": "2026-09-07T01:00:00",
       "endDate": "2026-09-07T02:00:00",
       "showTime": "01:00:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f373ccbde4fb6d8003477fdfd7f348f5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7e2267b0a7e5887ea01e43690fbe90af.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -3078,36 +3331,36 @@
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "7 Baje 7 Sawal",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "showName": "Fact Check",
+      "description": "The host sheds light on various news stories circulating on social media and verifies whether the information present is accurate or not.",
       "startDate": "2026-09-07T02:30:00",
       "endDate": "2026-09-07T03:00:00",
       "showTime": "02:30:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d3110491a469242438a4d4ef9cddf149.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bccfdbb2874c1dc5c6930073662f948f.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Good Night",
-      "description": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+      "showName": "Good News",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-07T03:00:00",
       "endDate": "2026-09-07T03:30:00",
       "showTime": "03:00:00",
       "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e2e66d322256b0a5ef5212cfcd64de71.jpg"
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ce2446b01d0410886edcb10a1b15221b.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Shubh Mangal Sawdhan",
+      "showName": "GNT Special",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-07T03:30:00",
       "endDate": "2026-09-07T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cb92f5518d20bc4ead54a3904101a26d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f373ccbde4fb6d8003477fdfd7f348f5.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -3133,14 +3386,14 @@
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Achchi Khabar Sachchi Khabar",
+      "showName": "GNT Special",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-07T05:00:00",
       "endDate": "2026-09-07T06:00:00",
       "showTime": "05:00:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56d72bf5f62a7735a14c243d5c944241.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f373ccbde4fb6d8003477fdfd7f348f5.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -3221,88 +3474,99 @@
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "GNT Express",
+      "showName": "Shubh Samachar",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-07T09:04:00",
-      "endDate": "2026-09-07T09:25:00",
-      "showTime": "09:04:00",
-      "endTime": "09:25:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "GNT Special",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-09-07T09:25:00",
       "endDate": "2026-09-07T10:04:00",
-      "showTime": "09:25:00",
+      "showTime": "09:04:00",
       "endTime": "10:04:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f373ccbde4fb6d8003477fdfd7f348f5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dbf71518c1f9893b74366c330396f125.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Good Luck Special",
-      "description": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
+      "showName": "Kismat Connection",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-07T10:04:00",
-      "endDate": "2026-09-07T10:34:00",
+      "endDate": "2026-09-07T10:30:00",
       "showTime": "10:04:00",
-      "endTime": "10:34:00",
+      "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/105a9dfcd0c5aa6d8a884261303ab32f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8313af66b02f6d2697199f5f552d67a2.jpg"
     },
     {
       "serverDate": "2026-09-07",
       "showName": "Achchi Baat Dhirendra Shastri Ke Saath",
       "description": "The host and spiritual leader, Dhirendra Krishna Shastri, holds conversations on various topics and issues of significance.",
-      "startDate": "2026-09-07T10:34:00",
-      "endDate": "2026-09-07T11:04:00",
-      "showTime": "10:34:00",
-      "endTime": "11:04:00",
+      "startDate": "2026-09-07T10:30:00",
+      "endDate": "2026-09-07T10:45:00",
+      "showTime": "10:30:00",
+      "endTime": "10:45:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cfda9ecf5c37e049865942a5c7f6b19.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Fact Check",
-      "description": "The host sheds light on various news stories circulating on social media and verifies whether the information present is accurate or not.",
-      "startDate": "2026-09-07T11:04:00",
-      "endDate": "2026-09-07T12:04:00",
-      "showTime": "11:04:00",
-      "endTime": "12:04:00",
+      "showName": "Advt",
+      "description": "The host presents an extensive variety of miscellaneous products that can be purchased from the warm comfort of one's home.",
+      "startDate": "2026-09-07T10:45:00",
+      "endDate": "2026-09-07T11:04:00",
+      "showTime": "10:45:00",
+      "endTime": "11:04:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bccfdbb2874c1dc5c6930073662f948f.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Good Luck Special",
-      "description": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
-      "startDate": "2026-09-07T12:04:00",
-      "endDate": "2026-09-07T12:28:00",
-      "showTime": "12:04:00",
-      "endTime": "12:28:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/105a9dfcd0c5aa6d8a884261303ab32f.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Good Luck Special",
-      "description": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
-      "startDate": "2026-09-07T12:28:00",
-      "endDate": "2026-09-07T13:05:00",
-      "showTime": "12:28:00",
-      "endTime": "13:05:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/105a9dfcd0c5aa6d8a884261303ab32f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9788abbd952ce648ab2404ae835bd20.jpg"
     },
     {
       "serverDate": "2026-09-07",
       "showName": "GNT Express",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-09-07T13:05:00",
+      "startDate": "2026-09-07T11:04:00",
+      "endDate": "2026-09-07T11:15:00",
+      "showTime": "11:04:00",
+      "endTime": "11:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Advt",
+      "description": "The host presents an extensive variety of miscellaneous products that can be purchased from the warm comfort of one's home.",
+      "startDate": "2026-09-07T11:15:00",
+      "endDate": "2026-09-07T11:34:00",
+      "showTime": "11:15:00",
+      "endTime": "11:34:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9788abbd952ce648ab2404ae835bd20.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "GNT Special",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-09-07T11:34:00",
+      "endDate": "2026-09-07T12:04:00",
+      "showTime": "11:34:00",
+      "endTime": "12:04:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f373ccbde4fb6d8003477fdfd7f348f5.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Lunch Time",
+      "description": "The hosts present some of the latest news updates and developments pertaining to various social, political and economic issues.",
+      "startDate": "2026-09-07T12:04:00",
+      "endDate": "2026-09-07T13:04:00",
+      "showTime": "12:04:00",
+      "endTime": "13:04:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2c2a611f447f5e862fcf0dc0553ddc06.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "GNT Express",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-09-07T13:04:00",
       "endDate": "2026-09-07T13:28:00",
-      "showTime": "13:05:00",
+      "showTime": "13:04:00",
       "endTime": "13:28:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
@@ -3323,11 +3587,22 @@
       "showName": "GNT Express",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-07T15:04:00",
-      "endDate": "2026-09-07T15:34:00",
+      "endDate": "2026-09-07T15:15:00",
       "showTime": "15:04:00",
-      "endTime": "15:34:00",
+      "endTime": "15:15:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Advt",
+      "description": "The host presents an extensive variety of miscellaneous products that can be purchased from the warm comfort of one's home.",
+      "startDate": "2026-09-07T15:15:00",
+      "endDate": "2026-09-07T15:34:00",
+      "showTime": "15:15:00",
+      "endTime": "15:34:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9788abbd952ce648ab2404ae835bd20.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -3342,47 +3617,36 @@
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Paheli",
-      "description": "The host presents various unsolved mysteries and sheds light on the investigations and scientific explanations provided by experts.",
+      "showName": "Ye Hui Na Baat",
+      "description": "The host converses with individuals from the world of politics, business, entertainment and more to discuss topics and issues of significance.",
       "startDate": "2026-09-07T16:04:00",
-      "endDate": "2026-09-07T16:34:00",
-      "showTime": "16:04:00",
-      "endTime": "16:34:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a36509dff5276c16ab9a65f8ab1a3cfb.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "GNT Express",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-09-07T16:34:00",
       "endDate": "2026-09-07T17:04:00",
-      "showTime": "16:34:00",
+      "showTime": "16:04:00",
       "endTime": "17:04:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f834f4b203ee3f32768c946827f86ff.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Rankshetra",
-      "description": "The presenter discusses ongoing national issues of communal, political and economical natures to share relevant updates on their progress and impacts.",
+      "showName": "Chai Par Charcha",
+      "description": "The host invites experts from different walks of life to discuss important news stories, major developments and critical updates from across the country.",
       "startDate": "2026-09-07T17:04:00",
       "endDate": "2026-09-07T18:04:00",
       "showTime": "17:04:00",
       "endTime": "18:04:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8213a48eaf55b5f218bc858eeb35bcc6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aded66c2676e770959835089c84ad783.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Bande Me Hai Dum",
-      "description": "Bringing the best in television.",
+      "showName": "GNT Special",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-07T18:04:00",
       "endDate": "2026-09-07T18:27:00",
       "showTime": "18:04:00",
       "endTime": "18:27:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5c2b72e77be2df521ff20c0474b8a5b0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f373ccbde4fb6d8003477fdfd7f348f5.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -3408,14 +3672,14 @@
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Fact Check",
-      "description": "The host sheds light on various news stories circulating on social media and verifies whether the information present is accurate or not.",
+      "showName": "7 Baje 7 Good News",
+      "description": "The host shares 7 uplifting stories at 7 o'clock bringing a daily dose of good news from across the globe to inspire and brighten the day.",
       "startDate": "2026-09-07T19:04:00",
       "endDate": "2026-09-07T19:34:00",
       "showTime": "19:04:00",
       "endTime": "19:34:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bccfdbb2874c1dc5c6930073662f948f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3982b5a30108d8dcefaa0434c7ca39c5.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -3433,9 +3697,9 @@
       "showName": "Achchi Khabar Sachchi Khabar",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-07T20:04:00",
-      "endDate": "2026-09-07T20:34:00",
+      "endDate": "2026-09-07T20:30:00",
       "showTime": "20:04:00",
-      "endTime": "20:34:00",
+      "endTime": "20:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56d72bf5f62a7735a14c243d5c944241.jpg"
     },
@@ -3443,42 +3707,42 @@
       "serverDate": "2026-09-07",
       "showName": "Good Luck Special",
       "description": "An astrologer makes future predictions for the zodiac signs and provides advice on how one can attract good luck in their life.",
-      "startDate": "2026-09-07T20:34:00",
+      "startDate": "2026-09-07T20:30:00",
       "endDate": "2026-09-07T21:00:00",
-      "showTime": "20:34:00",
+      "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/105a9dfcd0c5aa6d8a884261303ab32f.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Rankshetra",
-      "description": "The presenter discusses ongoing national issues of communal, political and economical natures to share relevant updates on their progress and impacts.",
+      "showName": "News Path",
+      "description": "The host presents information on the latest news stories and developments surrounding various issues and provides updates on current events.",
       "startDate": "2026-09-07T21:00:00",
       "endDate": "2026-09-07T22:04:00",
       "showTime": "21:00:00",
       "endTime": "22:04:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8213a48eaf55b5f218bc858eeb35bcc6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/116015d148c627e07f0bd792378b71ef.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Paheli",
-      "description": "The host presents various unsolved mysteries and sheds light on the investigations and scientific explanations provided by experts.",
+      "showName": "GNT Special",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-07T22:04:00",
-      "endDate": "2026-09-07T22:30:00",
+      "endDate": "2026-09-07T22:34:00",
       "showTime": "22:04:00",
-      "endTime": "22:30:00",
+      "endTime": "22:34:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a36509dff5276c16ab9a65f8ab1a3cfb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f373ccbde4fb6d8003477fdfd7f348f5.jpg"
     },
     {
       "serverDate": "2026-09-07",
       "showName": "GNT Express",
       "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-09-07T22:30:00",
+      "startDate": "2026-09-07T22:34:00",
       "endDate": "2026-09-07T23:00:00",
-      "showTime": "22:30:00",
+      "showTime": "22:34:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25753b2f5623a8915da53da53a4698ac.jpg"

@@ -1222,11 +1222,22 @@
       "showName": "UFC 329: McGregor vs. Holloway 2",
       "description": "Brandon Royval vs. Lone'er Kavanagh, flyweight; Cory Sandhagen vs. Mario Bautista, bantamweight; Benoit Saint Denis vs. Paddy Pimblett, lightweight; Conor McGregor vs. Max Holloway, welterweight. From T-Mobile Arena in Las Vegas.",
       "startDate": "2026-09-04T15:00:00",
-      "endDate": "2026-09-04T18:30:00",
+      "endDate": "2026-09-04T18:00:00",
       "showTime": "15:00:00",
-      "endTime": "18:30:00",
+      "endTime": "18:00:00",
       "showCategory": "Sports event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e00ff4d52a99857416daf82dc438235c.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-09-04T18:00:00",
+      "endDate": "2026-09-04T18:30:00",
+      "showTime": "18:00:00",
+      "endTime": "18:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
     },
     {
       "serverDate": "2026-09-04",
@@ -1351,14 +1362,14 @@
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "UFC Fight Night: Nurmagomedov vs. Song",
-      "description": "Alex Perez vs. Sumudaerji, flyweight; Aoriqileng vs. Kai Asakura, bantamweight; Yan Xiaonan vs. Denise Gomes, strawweight; Umar Nurmagomedov vs. Song Yadong, bantamweight. From Oriental Sports Center in Shanghai.",
+      "showName": "UFC - Fight O'Clock",
+      "description": "Mixed martial artists compete in the lightweight division of Fight O'Clock 2.0 where fighters execute quick movements and strikes across several rounds of competition.",
       "startDate": "2026-09-05T07:00:00",
       "endDate": "2026-09-05T08:00:00",
       "showTime": "07:00:00",
       "endTime": "08:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b1783e1cbd9419b4c3e1b07fac3df4bc.jpg"
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b4600df81ab98f8e704f05b7ef4f1a8b.jpg"
     },
     {
       "serverDate": "2026-09-05",

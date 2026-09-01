@@ -427,14 +427,14 @@
     },
     {
       "serverDate": "2026-09-01",
-      "showName": "FIA Formula E Highlights",
-      "description": "Highlights of the FIA Formula E World Championship, where drivers compete against each other in electric open-wheel single-seater cars.",
+      "showName": "Test Cricket",
+      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
       "startDate": "2026-09-01T11:30:00",
       "endDate": "2026-09-01T12:30:00",
       "showTime": "11:30:00",
       "endTime": "12:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3a0b545d378d7c7e11049e7cf5900617.jpg"
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
     },
     {
       "serverDate": "2026-09-01",
@@ -658,14 +658,25 @@
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "FIA Formula E Highlights",
-      "description": "Highlights of the FIA Formula E World Championship, where drivers compete against each other in electric open-wheel single-seater cars.",
+      "showName": "Women's Asia Cup Highlights",
+      "description": "Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.",
       "startDate": "2026-09-02T11:30:00",
-      "endDate": "2026-09-02T12:30:00",
+      "endDate": "2026-09-02T12:00:00",
       "showTime": "11:30:00",
+      "endTime": "12:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/46cbd619a527be70c379d71cb628a059.jpg"
+    },
+    {
+      "serverDate": "2026-09-02",
+      "showName": "Women's Asia Cup Highlights",
+      "description": "Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.",
+      "startDate": "2026-09-02T12:00:00",
+      "endDate": "2026-09-02T12:30:00",
+      "showTime": "12:00:00",
       "endTime": "12:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3a0b545d378d7c7e11049e7cf5900617.jpg"
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/46cbd619a527be70c379d71cb628a059.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -1274,14 +1285,14 @@
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "FIA Formula E Highlights",
-      "description": "Highlights of the FIA Formula E World Championship, where drivers compete against each other in electric open-wheel single-seater cars.",
+      "showName": "One-Day International Cricket",
+      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
       "startDate": "2026-09-05T05:00:00",
       "endDate": "2026-09-05T06:00:00",
       "showTime": "05:00:00",
       "endTime": "06:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3a0b545d378d7c7e11049e7cf5900617.jpg"
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -1516,14 +1527,14 @@
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "FIA Formula E Highlights",
-      "description": "Highlights of the FIA Formula E World Championship, where drivers compete against each other in electric open-wheel single-seater cars.",
+      "showName": "One-Day International Cricket",
+      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
       "startDate": "2026-09-06T05:00:00",
       "endDate": "2026-09-06T06:00:00",
       "showTime": "05:00:00",
       "endTime": "06:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3a0b545d378d7c7e11049e7cf5900617.jpg"
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
     },
     {
       "serverDate": "2026-09-06",
