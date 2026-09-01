@@ -8,160 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Cinema.png",
   "programs": [
     {
-      "serverDate": "2026-08-30",
-      "showName": "Jai Bhajarangabali",
-      "description": "Ambuja meets Ajay while patching up her parents' marriage and falls in love with him. Later, they navigate through their love while also helping her parents.",
-      "startDate": "2026-08-30T00:00:00",
-      "endDate": "2026-08-30T01:00:00",
-      "showTime": "00:00:00",
-      "endTime": "01:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b5db8d673fe5db7d1093e4c45da01a1.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Neti Siddhartha",
-      "description": "Siddhartha, the son of a businessman, returns to India after spending years abroad. However, things become complicated when he discovers that his father is abetting underworld criminals.",
-      "startDate": "2026-08-30T01:00:00",
-      "endDate": "2026-08-30T04:00:00",
-      "showTime": "01:00:00",
-      "endTime": "04:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ae53b18e89696d15a7a93bfe641b08f2.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Songs",
-      "description": "A comprehensive compilation of popular songs, performed by gifted artists and musicians, is played in rapid succession.",
-      "startDate": "2026-08-30T04:00:00",
-      "endDate": "2026-08-30T06:00:00",
-      "showTime": "04:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/db0c5006ecaefecf06ea1ecea2a7239b.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Yoga Based Programme",
-      "description": "Yoga experts showcase various postures and meditation methods, offering practical tools for managing everyday stress and improving wellbeing.",
-      "startDate": "2026-08-30T06:00:00",
-      "endDate": "2026-08-30T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/da965292be0bc199409f051da787a7e7.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Madhurimalu",
-      "description": "A chef shares some kitchen secrets, simple dessert recipes and demonstrates how to whip up mouthwatering treats in an easy-to-understand manner.",
-      "startDate": "2026-08-30T06:30:00",
-      "endDate": "2026-08-30T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f28e329e24e76a857892055f5ce6811.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Preminchu Pelladu",
-      "description": "After being ostracised from her family due to her spouse's religion, a woman returns to care for her dying father and teach him a lesson.",
-      "startDate": "2026-08-30T07:00:00",
-      "endDate": "2026-08-30T09:31:00",
-      "showTime": "07:00:00",
-      "endTime": "09:31:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/657bb4ed75943ae168811abfbc77defc.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Film Based Programme",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-08-30T09:31:00",
-      "endDate": "2026-08-30T10:00:00",
-      "showTime": "09:31:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cc1b37720bb832023c108caa36bb835f.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Dhanama Daivama",
-      "description": "Ramachandra Rao, a lawyer who formerly fought for justice, loses hope after his family faces various problems due to poverty. He becomes money-minded and helps lawbreakers to escape prison.",
-      "startDate": "2026-08-30T10:00:00",
-      "endDate": "2026-08-30T13:00:00",
-      "showTime": "10:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/400238d359e46e55133986ca5ae1992e.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Ninnu Choodalani",
-      "description": "Two businessmen, Siva Reddy and Sahadeva Reddy, are sworn enemies. Things take a turn when their grandchildren, Venu and Siri, fall in love with each other.",
-      "startDate": "2026-08-30T13:00:00",
-      "endDate": "2026-08-30T15:54:00",
-      "showTime": "13:00:00",
-      "endTime": "15:54:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/db3e2b8bbcc6fc239cfbbcf17b1a4a17.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Telugu Hits",
-      "description": "A compilation of some of the most trending Telugu hits composed by famous artists is played back-to-back to enthrall the audience.",
-      "startDate": "2026-08-30T15:54:00",
-      "endDate": "2026-08-30T16:00:00",
-      "showTime": "15:54:00",
-      "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/06c20f83de74209bd1d7bf469ab03f8d.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Pelli Pandiri",
-      "description": "Prakash and Govind, inseparable childhood friends raised under one roof, share an unbreakable bond. However, their friendship faces the ultimate test when they both fall in love with the same woman.",
-      "startDate": "2026-08-30T16:00:00",
-      "endDate": "2026-08-30T18:48:00",
-      "showTime": "16:00:00",
-      "endTime": "18:48:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/91e6e600a5c410ffd73d7c7394e773cb.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Telugu Hits",
-      "description": "A compilation of some of the most trending Telugu hits composed by famous artists is played back-to-back to enthrall the audience.",
-      "startDate": "2026-08-30T18:48:00",
-      "endDate": "2026-08-30T19:00:00",
-      "showTime": "18:48:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/06c20f83de74209bd1d7bf469ab03f8d.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Missamma",
-      "description": "Nanda Gopal, a competent professional, works for one of the biggest business corporations in India. His life changes forever when he meets his employer, a psychopath who plays mind games with him.",
-      "startDate": "2026-08-30T19:00:00",
-      "endDate": "2026-08-30T22:18:00",
-      "showTime": "19:00:00",
-      "endTime": "22:18:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb827a71095057986875e695c87df6eb.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Anandam",
-      "description": "Two feuding college neighbours unknowingly become pen pals under secret aliases. Subsequently, as they share their deepest thoughts, they start liking one another.",
-      "startDate": "2026-08-30T22:18:00",
-      "endDate": "2026-08-30T23:59:59",
-      "showTime": "22:18:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0df421a921d09850d2d85dc4675f12de.jpg"
-    },
-    {
       "serverDate": "2026-08-31",
       "showName": "Anandam",
       "description": "Two feuding college neighbours unknowingly become pen pals under secret aliases. Subsequently, as they share their deepest thoughts, they start liking one another.",
@@ -1106,6 +952,94 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0c109824b6b89ba371f8a9f0a5b26efb.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Godse",
+      "description": "Terror and turmoil fill the air when many prominent leaders are held hostage by Godse. This triggers an investigation by a diligent police officer who sets off to probe Godse's motive.",
+      "startDate": "2026-09-07T00:00:00",
+      "endDate": "2026-09-07T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0c109824b6b89ba371f8a9f0a5b26efb.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Mosagadu",
+      "description": "On the day of her marriage, Jagan's fiancée is raped by a rowdy-sheeter. When she is unable to bear the humiliation and commits suicide, Jagan is determined to take revenge.",
+      "startDate": "2026-09-07T01:00:00",
+      "endDate": "2026-09-07T04:00:00",
+      "showTime": "01:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5fe3c872e67447a5be4727c12d7bee39.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Songs",
+      "description": "A comprehensive compilation of popular songs, performed by gifted artists and musicians, is played in rapid succession.",
+      "startDate": "2026-09-07T04:00:00",
+      "endDate": "2026-09-07T06:00:00",
+      "showTime": "04:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/db0c5006ecaefecf06ea1ecea2a7239b.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-07T06:00:00",
+      "endDate": "2026-09-07T10:00:00",
+      "showTime": "06:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-07T10:00:00",
+      "endDate": "2026-09-07T14:00:00",
+      "showTime": "10:00:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-07T14:00:00",
+      "endDate": "2026-09-07T18:00:00",
+      "showTime": "14:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-07T18:00:00",
+      "endDate": "2026-09-07T22:00:00",
+      "showTime": "18:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-07T22:00:00",
+      "endDate": "2026-09-07T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
     }
   ]
 }

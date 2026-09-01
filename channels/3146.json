@@ -8,138 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/AWSN.png",
   "programs": [
     {
-      "serverDate": "2026-08-30",
-      "showName": "Women's American Football",
-      "description": "Tom Benson Hall of Fame Stadium",
-      "startDate": "2026-08-30T00:00:00",
-      "endDate": "2026-08-30T03:00:00",
-      "showTime": "00:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d922514fdd4899304a3ec0766ce982e.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Collegiate Rugby Championship",
-      "description": "The top collegiate programs from across the country converge on the Maryland SoccerPlex in search of a national championship.",
-      "startDate": "2026-08-30T03:00:00",
-      "endDate": "2026-08-30T05:59:00",
-      "showTime": "03:00:00",
-      "endTime": "05:59:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f46c3d5ff9fb810db0fadd6626bbff06.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Sportswomen",
-      "description": "The host shares the latest news and developments in the world of women's sports and highlights the notable achievements and performances of top athletes.",
-      "startDate": "2026-08-30T05:59:00",
-      "endDate": "2026-08-30T06:30:00",
-      "showTime": "05:59:00",
-      "endTime": "06:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f85a8eb55e1deead0009f9090089c756.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Queen of the Ring",
-      "description": "Coverage from the premier women's boxing series, showcasing elite professional fighters in high-stakes matchups. The series delivers action-packed bouts featuring rising phenoms and former world champions battling for dominance in the ring.",
-      "startDate": "2026-08-30T06:30:00",
-      "endDate": "2026-08-30T08:00:00",
-      "showTime": "06:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e0ce5f8554f2c195bf51de18ea84d721.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Queen of the Ring",
-      "description": "Coverage from the premier women's boxing series, showcasing elite professional fighters in high-stakes matchups. The series delivers action-packed bouts featuring rising phenoms and former world champions battling for dominance in the ring.",
-      "startDate": "2026-08-30T08:00:00",
-      "endDate": "2026-08-30T09:00:00",
-      "showTime": "08:00:00",
-      "endTime": "09:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e0ce5f8554f2c195bf51de18ea84d721.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Queen of the Ring",
-      "description": "Coverage from the premier women's boxing series, showcasing elite professional fighters in high-stakes matchups. The series delivers action-packed bouts featuring rising phenoms and former world champions battling for dominance in the ring.",
-      "startDate": "2026-08-30T09:00:00",
-      "endDate": "2026-08-30T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e0ce5f8554f2c195bf51de18ea84d721.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Professional Softball League",
-      "description": "Coverage of the professional fastpitch league featuring teams from throughout the United States.",
-      "startDate": "2026-08-30T09:30:00",
-      "endDate": "2026-08-30T12:15:00",
-      "showTime": "09:30:00",
-      "endTime": "12:15:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/63a6039ce145ffd20c70438928d9ba7b.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Professional Softball League",
-      "description": "Coverage of the professional fastpitch league featuring teams from throughout the United States.",
-      "startDate": "2026-08-30T12:15:00",
-      "endDate": "2026-08-30T14:59:00",
-      "showTime": "12:15:00",
-      "endTime": "14:59:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/63a6039ce145ffd20c70438928d9ba7b.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Professional Softball League",
-      "description": "Coverage of the professional fastpitch league featuring teams from throughout the United States.",
-      "startDate": "2026-08-30T14:59:00",
-      "endDate": "2026-08-30T17:15:00",
-      "showTime": "14:59:00",
-      "endTime": "17:15:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/63a6039ce145ffd20c70438928d9ba7b.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "2026 WBSC Women's Softball World Cup",
-      "description": "2026 WBSC Women's Softball World Cup",
-      "startDate": "2026-08-30T17:15:00",
-      "endDate": "2026-08-30T19:15:00",
-      "showTime": "17:15:00",
-      "endTime": "19:15:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f70ba46e921669546a01bde4a7875aee.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "2026 Women's Decathlon World Championship",
-      "description": "2026 Women's Decathlon World Championship",
-      "startDate": "2026-08-30T19:15:00",
-      "endDate": "2026-08-30T21:15:00",
-      "showTime": "19:15:00",
-      "endTime": "21:15:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4631a86840a45b101cae6a7606c42d53.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Women's Football",
-      "description": "Tom Benson Hall of Fame Stadium",
-      "startDate": "2026-08-30T21:15:00",
-      "endDate": "2026-08-30T23:59:59",
-      "showTime": "21:15:00",
-      "endTime": "23:59:59",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d922514fdd4899304a3ec0766ce982e.jpg"
-    },
-    {
       "serverDate": "2026-08-31",
       "showName": "2026 WBSC Women's Baseball World Cup - Group Stage",
       "description": "Coverage of the group stage of the women's baseball world cup from Rockford, Ill.",
@@ -1018,6 +886,138 @@
       "endTime": "23:59:59",
       "showCategory": "Sports non-event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c6b52b48450aa0e1be45bd2d351f94f.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Sportswomen",
+      "description": "The host shares the latest news and developments in the world of women's sports and highlights the notable achievements and performances of top athletes.",
+      "startDate": "2026-09-07T00:00:00",
+      "endDate": "2026-09-07T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f85a8eb55e1deead0009f9090089c756.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "FIBA 3x3 Basketball",
+      "description": "Professional athletes compete against each other in the FIBA 3x3 basketball tournaments.",
+      "startDate": "2026-09-07T00:30:00",
+      "endDate": "2026-09-07T01:30:00",
+      "showTime": "00:30:00",
+      "endTime": "01:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2c46e1b506b3e011f4eb0bedbda0e198.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "FIBA 3x3 Basketball",
+      "description": "Professional athletes compete against each other in the FIBA 3x3 basketball tournaments.",
+      "startDate": "2026-09-07T01:30:00",
+      "endDate": "2026-09-07T02:15:00",
+      "showTime": "01:30:00",
+      "endTime": "02:15:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2c46e1b506b3e011f4eb0bedbda0e198.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "FIBA 3x3 Basketball",
+      "description": "Professional athletes compete against each other in the FIBA 3x3 basketball tournaments.",
+      "startDate": "2026-09-07T02:15:00",
+      "endDate": "2026-09-07T02:59:00",
+      "showTime": "02:15:00",
+      "endTime": "02:59:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2c46e1b506b3e011f4eb0bedbda0e198.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Invincible",
+      "description": "Discover the best times in sports when players or teams were unbeatable, including famous careers and powerful teams at the top of their game.",
+      "startDate": "2026-09-07T02:59:00",
+      "endDate": "2026-09-07T03:30:00",
+      "showTime": "02:59:00",
+      "endTime": "03:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/928ec680fd6700b216842f1c84f6a635.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Women's American Football",
+      "description": "Women's American Football",
+      "startDate": "2026-09-07T03:30:00",
+      "endDate": "2026-09-07T06:30:00",
+      "showTime": "03:30:00",
+      "endTime": "06:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d922514fdd4899304a3ec0766ce982e.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Collegiate Rugby Championship",
+      "description": "The top collegiate programs from across the country converge on the Maryland SoccerPlex in search of a national championship.",
+      "startDate": "2026-09-07T06:30:00",
+      "endDate": "2026-09-07T09:30:00",
+      "showTime": "06:30:00",
+      "endTime": "09:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f46c3d5ff9fb810db0fadd6626bbff06.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Collegiate Rugby Championship",
+      "description": "The top collegiate programs from across the country converge on the Maryland SoccerPlex in search of a national championship.",
+      "startDate": "2026-09-07T09:30:00",
+      "endDate": "2026-09-07T12:00:00",
+      "showTime": "09:30:00",
+      "endTime": "12:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f46c3d5ff9fb810db0fadd6626bbff06.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Women's American Football",
+      "description": "Tom Benson Hall of Fame Stadium",
+      "startDate": "2026-09-07T12:00:00",
+      "endDate": "2026-09-07T15:00:00",
+      "showTime": "12:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d922514fdd4899304a3ec0766ce982e.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Women's American Football",
+      "description": "Tom Benson Hall of Fame Stadium",
+      "startDate": "2026-09-07T15:00:00",
+      "endDate": "2026-09-07T18:15:00",
+      "showTime": "15:00:00",
+      "endTime": "18:15:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d922514fdd4899304a3ec0766ce982e.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Women's Football",
+      "description": "Tom Benson Hall of Fame Stadium",
+      "startDate": "2026-09-07T18:15:00",
+      "endDate": "2026-09-07T21:15:00",
+      "showTime": "18:15:00",
+      "endTime": "21:15:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d922514fdd4899304a3ec0766ce982e.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Women's American Football",
+      "description": "Tom Benson Hall of Fame Stadium",
+      "startDate": "2026-09-07T21:15:00",
+      "endDate": "2026-09-07T23:59:59",
+      "showTime": "21:15:00",
+      "endTime": "23:59:59",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d922514fdd4899304a3ec0766ce982e.jpg"
     }
   ]
 }

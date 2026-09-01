@@ -8,171 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Dsports.png",
   "programs": [
     {
-      "serverDate": "2026-08-30",
-      "showName": "FIM Speedway Grand Prix Series",
-      "description": "Coverage of stand-alone motorcycle speedway worldwide events.",
-      "startDate": "2026-08-30T00:00:00",
-      "endDate": "2026-08-30T01:45:00",
-      "showTime": "00:00:00",
-      "endTime": "01:45:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/698dc6e74d5dc92eb23f8994623f80ce.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Marathon",
-      "description": "The host presents marathon coverage, showcasing runners' journeys and race highlights.",
-      "startDate": "2026-08-30T01:45:00",
-      "endDate": "2026-08-30T04:30:00",
-      "showTime": "01:45:00",
-      "endTime": "04:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fe32ec3c8f1c9c1ec3b0a2e6a3cf474b.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "FIM Speedway Grand Prix Series",
-      "description": "Coverage of stand-alone motorcycle speedway worldwide events.",
-      "startDate": "2026-08-30T04:30:00",
-      "endDate": "2026-08-30T06:30:00",
-      "showTime": "04:30:00",
-      "endTime": "06:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/698dc6e74d5dc92eb23f8994623f80ce.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "IMPACT in 60",
-      "description": "The filmmaker highlights some of the most memorable matches, wrestlers, championships, factions and more from the 18-year history of Impact Wrestling.",
-      "startDate": "2026-08-30T06:30:00",
-      "endDate": "2026-08-30T07:30:00",
-      "showTime": "06:30:00",
-      "endTime": "07:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/60bc6739423c38778056a36fbb5d1915.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "AEW Dynamite",
-      "description": "Professional wrestlers compete against each other in the AEW Dynamite event in order to emerge victorious and win the title.",
-      "startDate": "2026-08-30T07:30:00",
-      "endDate": "2026-08-30T09:30:00",
-      "showTime": "07:30:00",
-      "endTime": "09:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e253288f0a950e0a0a098e3abba28124.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Playing With Purpose",
-      "description": "Playing With Purpose",
-      "startDate": "2026-08-30T09:30:00",
-      "endDate": "2026-08-30T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9a49e3eb0b5d86a09aaa77f85f3a8b72.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "TNA Lockdown",
-      "description": "TNA Lockdown",
-      "startDate": "2026-08-30T10:00:00",
-      "endDate": "2026-08-30T13:30:00",
-      "showTime": "10:00:00",
-      "endTime": "13:30:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c1091ec202a2feafe4f00a3f8ee31153.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "Playing With Purpose",
-      "description": "Playing With Purpose",
-      "startDate": "2026-08-30T13:30:00",
-      "endDate": "2026-08-30T14:00:00",
-      "showTime": "13:30:00",
-      "endTime": "14:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9a49e3eb0b5d86a09aaa77f85f3a8b72.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "MotoGP Racing",
-      "description": "Action from MotoGP racing.",
-      "startDate": "2026-08-30T14:00:00",
-      "endDate": "2026-08-30T14:15:00",
-      "showTime": "14:00:00",
-      "endTime": "14:15:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/09c8ae60c9c2838eb424fb0b1b7330a7.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "MotoGP Racing",
-      "description": "Coverage of motorcycle racing action from FIM sanctioned road circuits.",
-      "startDate": "2026-08-30T14:15:00",
-      "endDate": "2026-08-30T16:45:00",
-      "showTime": "14:15:00",
-      "endTime": "16:45:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77f67778768b161ebeda78f279643819.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "MotoGP Pre Show - The Warmup Lap",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-08-30T16:45:00",
-      "endDate": "2026-08-30T17:15:00",
-      "showTime": "16:45:00",
-      "endTime": "17:15:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/639af47d73a1497789bc20c0e3afecc1.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "MotoGP Racing",
-      "description": "Coverage of motorcycle racing action from FIM sanctioned road circuits.",
-      "startDate": "2026-08-30T17:15:00",
-      "endDate": "2026-08-30T18:45:00",
-      "showTime": "17:15:00",
-      "endTime": "18:45:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77f67778768b161ebeda78f279643819.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "WWE's Greatest Moments",
-      "description": "Showcasing iconic events that have shaped WWE history and thrilled fans for decades, from legendary heroes to shocking betrayals and epic battles.",
-      "startDate": "2026-08-30T18:45:00",
-      "endDate": "2026-08-30T19:15:00",
-      "showTime": "18:45:00",
-      "endTime": "19:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6800244e2e6ffd670af1383cba03865b.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "British Superbike Championship Series",
-      "description": "Action from the British Superbike Championship.",
-      "startDate": "2026-08-30T19:15:00",
-      "endDate": "2026-08-30T20:30:00",
-      "showTime": "19:15:00",
-      "endTime": "20:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/73ed9c075717887ccc405538700b6e89.jpg"
-    },
-    {
-      "serverDate": "2026-08-30",
-      "showName": "AEW All In: London",
-      "description": "Multiple titles, including the men's and women's world championships and tag team championships, are on the line in this year's edition of AEW All In. The battles are set to take place at Wembley Stadium in London.",
-      "startDate": "2026-08-30T20:30:00",
-      "endDate": "2026-08-30T23:59:59",
-      "showTime": "20:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/69b24c05663d73191c34399456da2490.jpg"
-    },
-    {
       "serverDate": "2026-08-31",
       "showName": "AEW: All In",
       "description": "Professional wrestlers compete against each other in a series of matches at AEW All In, a professional wrestling pay-per-view event, to emerge victorious.",
@@ -1304,6 +1139,83 @@
       "endTime": "23:59:59",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4fbf6bd95d61edf6cc6fd5303e6b5e00.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "AEW Revolution",
+      "description": "Professional wrestlers compete in high-stakes matches at AEW Revolution, showcasing their skills and athleticism while vying for championship titles.",
+      "startDate": "2026-09-07T00:00:00",
+      "endDate": "2026-09-07T02:00:00",
+      "showTime": "00:00:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4fbf6bd95d61edf6cc6fd5303e6b5e00.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Sports Programme",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-07T02:00:00",
+      "endDate": "2026-09-07T06:00:00",
+      "showTime": "02:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Sports Programme",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-07T06:00:00",
+      "endDate": "2026-09-07T10:00:00",
+      "showTime": "06:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Sports Programme",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-07T10:00:00",
+      "endDate": "2026-09-07T14:00:00",
+      "showTime": "10:00:00",
+      "endTime": "14:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Sports Programme",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-07T14:00:00",
+      "endDate": "2026-09-07T18:00:00",
+      "showTime": "14:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Sports Programme",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-07T18:00:00",
+      "endDate": "2026-09-07T22:00:00",
+      "showTime": "18:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Sports Programme",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-07T22:00:00",
+      "endDate": "2026-09-07T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
     }
   ]
 }
