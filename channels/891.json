@@ -595,22 +595,22 @@
       "showName": "MMA",
       "description": "Classic matches of the best Mixed Martial Arts from around the world.",
       "startDate": "2026-09-02T04:00:00",
-      "endDate": "2026-09-02T07:00:00",
+      "endDate": "2026-09-02T07:30:00",
       "showTime": "04:00:00",
-      "endTime": "07:00:00",
+      "endTime": "07:30:00",
       "showCategory": "Sports non-event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b5c3f15544ce28b170cd0c17e100ed44.jpg"
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "UFC - Fight O'Clock",
-      "description": "Mixed martial artists compete in the lightweight division of Fight O'Clock 2.0 where fighters execute quick movements and strikes across several rounds of competition.",
-      "startDate": "2026-09-02T07:00:00",
+      "showName": "UFC Connected",
+      "description": "The host, Joe Ferraro, talks about the UFC and other mixed martial arts news, interviews and event highlights from around the globe.",
+      "startDate": "2026-09-02T07:30:00",
       "endDate": "2026-09-02T08:00:00",
-      "showTime": "07:00:00",
+      "showTime": "07:30:00",
       "endTime": "08:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b4600df81ab98f8e704f05b7ef4f1a8b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/88c7cf023e6bf08625d1c968d0354b3d.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -702,14 +702,14 @@
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "UCI ProSeries Cycling",
-      "description": "Professional cyclists race against each other in the UCI ProSeries Cycling, where the cyclists compete for victory.",
+      "showName": "WSL Replay",
+      "description": "Real-time match updates and highlights keep fans informed, providing instant access to key moments and game developments throughout the exciting contest.",
       "startDate": "2026-09-02T13:00:00",
       "endDate": "2026-09-02T14:00:00",
       "showTime": "13:00:00",
       "endTime": "14:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/03b8863bd5a144996e3571ee52f9f1e5.jpg"
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/12db89aab7eac5b1c3974ebe2445a649.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -738,22 +738,44 @@
       "showName": "UFC 330: Makhachev vs. Machado Garry",
       "description": "From Xfinity Mobile Arena in Philadelphia.",
       "startDate": "2026-09-02T15:00:00",
-      "endDate": "2026-09-02T19:00:00",
+      "endDate": "2026-09-02T18:00:00",
       "showTime": "15:00:00",
-      "endTime": "19:00:00",
+      "endTime": "18:00:00",
       "showCategory": "Sports event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ab9671c178b62f72a38eaf6cc5490b04.jpg"
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "UFC Fight Night: Nurmagomedov vs. Song",
-      "description": "Alex Perez vs. Sumudaerji, flyweight; Aoriqileng vs. Kai Asakura, bantamweight; Yan Xiaonan vs. Denise Gomes, strawweight; Umar Nurmagomedov vs. Song Yadong, bantamweight. From Oriental Sports Center in Shanghai.",
+      "showName": "UCL Magazine",
+      "description": "Take a look at the latest updates and developments, interviews and best goals from the UEFA Champions League, a premier football tournament contested by European clubs.",
+      "startDate": "2026-09-02T18:00:00",
+      "endDate": "2026-09-02T18:30:00",
+      "showTime": "18:00:00",
+      "endTime": "18:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/82fb9902e321e93ade26f628c9c79045.jpg"
+    },
+    {
+      "serverDate": "2026-09-02",
+      "showName": "Women's One-Day International Cricket",
+      "description": "Women's national cricket teams compete against each other in a one-day international in a bid to emerge victorious and win the title.",
+      "startDate": "2026-09-02T18:30:00",
+      "endDate": "2026-09-02T19:00:00",
+      "showTime": "18:30:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a75733a7811c5653cc0a52750d723609.jpg"
+    },
+    {
+      "serverDate": "2026-09-02",
+      "showName": "UFC - Fight O'Clock",
+      "description": "Mixed martial artists compete in the lightweight division of Fight O'Clock 2.0 where fighters execute quick movements and strikes across several rounds of competition.",
       "startDate": "2026-09-02T19:00:00",
       "endDate": "2026-09-02T20:00:00",
       "showTime": "19:00:00",
       "endTime": "20:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b1783e1cbd9419b4c3e1b07fac3df4bc.jpg"
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b4600df81ab98f8e704f05b7ef4f1a8b.jpg"
     },
     {
       "serverDate": "2026-09-02",

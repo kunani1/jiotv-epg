@@ -878,14 +878,14 @@
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "Golden Hits",
-      "description": "A comprehensive compilation of famous old melodies from popular Kollywood movies performed by eminent artists is played in quick succession.",
+      "showName": "Jaanki",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-02T00:00:00",
       "endDate": "2026-09-02T01:00:00",
       "showTime": "00:00:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0f9b62f245d2ad59b9b422bec8ee0cc6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84c71d165eefd374024ee4c49a1542a8.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -933,23 +933,34 @@
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "Open Mic With Antakshari",
-      "description": "Participants attending a cultural event contest in a musical activity to deliver impressive renditions of renowned songs and enthral the audience.",
+      "showName": "Sehat Aapki",
+      "description": "An expert in the field of healthcare talks about various medical issues and responds to viewers' queries with suitable suggestions and advice.",
       "startDate": "2026-09-02T04:30:00",
-      "endDate": "2026-09-02T05:30:00",
+      "endDate": "2026-09-02T05:00:00",
       "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8dcc0cdf24a9415df4b39d845c687ff1.jpg"
+    },
+    {
+      "serverDate": "2026-09-02",
+      "showName": "Swaad Zara Hatke",
+      "description": "The host delivers a detailed discourse on preparing delicious dishes to enjoy in the comfort of one's home with the help of recipes.",
+      "startDate": "2026-09-02T05:00:00",
+      "endDate": "2026-09-02T05:30:00",
+      "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d6ad80fa74d6b6e193ef16550cbfb041.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be2dfe6ff6e3257485602a9b41ee5a51.jpg"
     },
     {
       "serverDate": "2026-09-02",
       "showName": "Jyoti Kalash",
       "description": "Religious leaders gather to sing and chant various spiritual as well as devotional hymns in harmonious reverence to the Almighty.",
       "startDate": "2026-09-02T05:30:00",
-      "endDate": "2026-09-02T06:30:00",
+      "endDate": "2026-09-02T06:00:00",
       "showTime": "05:30:00",
-      "endTime": "06:30:00",
+      "endTime": "06:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/efeaa3e88ccae8b0429d35658b75e9c4.jpg"
     },
@@ -957,10 +968,10 @@
       "serverDate": "2026-09-02",
       "showName": "Arti Shri Ram Mandir Ayodhya Live",
       "description": "Hindu religious leaders and devotees perform rituals and chant sacred scriptures to seek the blessings of Balak Ram at Ram Mandir in Ayodhya, live.",
-      "startDate": "2026-09-02T06:30:00",
-      "endDate": "2026-09-02T06:50:00",
-      "showTime": "06:30:00",
-      "endTime": "06:50:00",
+      "startDate": "2026-09-02T06:00:00",
+      "endDate": "2026-09-02T06:20:00",
+      "showTime": "06:00:00",
+      "endTime": "06:20:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/268f518976e8f71257058a54e60d0f50.jpg"
     },
@@ -968,9 +979,9 @@
       "serverDate": "2026-09-02",
       "showName": "Jyoti Kalash",
       "description": "Religious leaders gather to sing and chant various spiritual as well as devotional hymns in harmonious reverence to the Almighty.",
-      "startDate": "2026-09-02T06:50:00",
+      "startDate": "2026-09-02T06:20:00",
       "endDate": "2026-09-02T07:30:00",
-      "showTime": "06:50:00",
+      "showTime": "06:20:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/efeaa3e88ccae8b0429d35658b75e9c4.jpg"
@@ -999,12 +1010,23 @@
     },
     {
       "serverDate": "2026-09-02",
+      "showName": "Safar Geeton Ka",
+      "description": "A comprehensive compilation of some of the best songs sung by popular music artists and singers played in quick succession.",
+      "startDate": "2026-09-02T08:30:00",
+      "endDate": "2026-09-02T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1d51f553275b57ad95e359d5c43bd15.jpg"
+    },
+    {
+      "serverDate": "2026-09-02",
       "showName": "Namaste UP",
       "description": "The host presents the latest in political, economic, social and sports updates and stories of the day from all across the state of Uttar Pradesh.",
-      "startDate": "2026-09-02T08:30:00",
-      "endDate": "2026-09-02T09:15:00",
-      "showTime": "08:30:00",
-      "endTime": "09:15:00",
+      "startDate": "2026-09-02T09:00:00",
+      "endDate": "2026-09-02T09:45:00",
+      "showTime": "09:00:00",
+      "endTime": "09:45:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c14e939cc947bb1aa9ac7f8ae247df6e.jpg"
     },
@@ -1012,56 +1034,111 @@
       "serverDate": "2026-09-02",
       "showName": "Gumsuda",
       "description": "The host presents details of missing persons and provides their families' contact information, accompanied by relevant images.",
-      "startDate": "2026-09-02T09:15:00",
-      "endDate": "2026-09-02T09:30:00",
-      "showTime": "09:15:00",
-      "endTime": "09:30:00",
+      "startDate": "2026-09-02T09:45:00",
+      "endDate": "2026-09-02T10:00:00",
+      "showTime": "09:45:00",
+      "endTime": "10:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62c270f2ce99116173786483fd345b5d.jpg"
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "Safar Geeton Ka",
-      "description": "A comprehensive compilation of some of the best songs sung by popular music artists and singers played in quick succession.",
-      "startDate": "2026-09-02T09:30:00",
-      "endDate": "2026-09-02T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1d51f553275b57ad95e359d5c43bd15.jpg"
-    },
-    {
-      "serverDate": "2026-09-02",
       "showName": "Samachar",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "description": "The host provides insights into the latest news, current affairs and developments on various political, social and economic issues of national and global importance.",
       "startDate": "2026-09-02T10:00:00",
       "endDate": "2026-09-02T10:30:00",
       "showTime": "10:00:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/378f73363d0f282b143577d0e5b0d2a1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89ab7706f61fab07697585491dea122e.jpg"
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "Aaj ka Agenda",
-      "description": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs.",
+      "showName": "Aaj Ka Agenda",
+      "description": "The host sheds light on the latest news updates pertaining to the political, social, economic and sports fronts from around the state and the nation.",
       "startDate": "2026-09-02T10:30:00",
       "endDate": "2026-09-02T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2c59e4c50722169def4c5335c81561b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e4adbbed11dc19ee4b611ee9a319780.jpg"
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "UP Vidhan Sabha Ki Karyawahi",
-      "description": "The speaker and the members of the Uttar Pradesh Legislative Assembly discuss and debate on various crucial issues during a session.",
+      "showName": "Gorakhpur Doordarshan Ka Karyakram",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-02T11:00:00",
-      "endDate": "2026-09-02T15:00:00",
+      "endDate": "2026-09-02T12:00:00",
       "showTime": "11:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e6a253782959720707583782c5c6831a.jpg"
+    },
+    {
+      "serverDate": "2026-09-02",
+      "showName": "Superfast 100",
+      "description": "The host presents the top 100 stories, significant updates and huge developments from the national and international front.",
+      "startDate": "2026-09-02T12:00:00",
+      "endDate": "2026-09-02T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/178506a87b7f05b498e3b84a90a55bcd.jpg"
+    },
+    {
+      "serverDate": "2026-09-02",
+      "showName": "Hamare Nayak",
+      "description": "The presenter sheds light on life, professional accomplishments as well as the legacy of Indian legends from different fields.",
+      "startDate": "2026-09-02T12:30:00",
+      "endDate": "2026-09-02T13:00:00",
+      "showTime": "12:30:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a31bdd879a8bf45a44c867bfab5e6a6.jpg"
+    },
+    {
+      "serverDate": "2026-09-02",
+      "showName": "Top 20",
+      "description": "The host presents the latest updates on various social, political and economic issues and shares information on current events.",
+      "startDate": "2026-09-02T13:00:00",
+      "endDate": "2026-09-02T13:05:00",
+      "showTime": "13:00:00",
+      "endTime": "13:05:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b2374fa398659f041d34bb388a652bad.jpg"
+    },
+    {
+      "serverDate": "2026-09-02",
+      "showName": "Golden Hits",
+      "description": "A comprehensive compilation of famous old melodies performed and composed by various eminent musicians played back to back.",
+      "startDate": "2026-09-02T13:05:00",
+      "endDate": "2026-09-02T14:00:00",
+      "showTime": "13:05:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d2a71d084cbcf77abda2f9578bd24882.jpg"
+    },
+    {
+      "serverDate": "2026-09-02",
+      "showName": "Samachar",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-09-02T14:00:00",
+      "endDate": "2026-09-02T14:30:00",
+      "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/378f73363d0f282b143577d0e5b0d2a1.jpg"
+    },
+    {
+      "serverDate": "2026-09-02",
+      "showName": "Jaanki",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-02T14:30:00",
+      "endDate": "2026-09-02T15:00:00",
+      "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8cf818bae5a002c74dcd51085b12b3f0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84c71d165eefd374024ee4c49a1542a8.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -1087,14 +1164,14 @@
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "Sehat Aapki",
-      "description": "An expert in the field of healthcare talks about various medical issues and responds to viewers' queries with suitable suggestions and advice.",
+      "showName": "UP Ke Shahron Se",
+      "description": "The host talks about the developments schemes by government and culture of different cities in the Indian state of Uttar Pradesh.",
       "startDate": "2026-09-02T16:02:00",
       "endDate": "2026-09-02T16:30:00",
       "showTime": "16:02:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8dcc0cdf24a9415df4b39d845c687ff1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad07b5b76da963c27cb48bafd5169411.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -1142,14 +1219,14 @@
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "Samachar",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "showName": "Samachar Desh Pradesh",
+      "description": "The host presents the latest news updates concerning the political, social, economic and sports fronts from around the state and the nation.",
       "startDate": "2026-09-02T19:00:00",
       "endDate": "2026-09-02T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/378f73363d0f282b143577d0e5b0d2a1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ed0b15c92fe83b1a0e24278649097146.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -1165,46 +1242,57 @@
     {
       "serverDate": "2026-09-02",
       "showName": "News 360",
-      "description": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+      "description": "The host provides a comprehensive and detailed insight, elucidating on the latest news and developments from across the region.",
       "startDate": "2026-09-02T20:00:00",
-      "endDate": "2026-09-02T21:00:00",
+      "endDate": "2026-09-02T20:45:00",
       "showTime": "20:00:00",
-      "endTime": "21:00:00",
+      "endTime": "20:45:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/70046f35a08d9921c4c697807a6de6f5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/05fa1703278f91357657c04ef9139c72.jpg"
     },
     {
       "serverDate": "2026-09-02",
-      "showName": "Open Mic With Antakshari",
-      "description": "Participants attending a cultural event contest in a musical activity to deliver impressive renditions of renowned songs and enthral the audience.",
+      "showName": "Once More",
+      "description": "Talented literary figures from different parts of the country recite poems based on various themes and compete with each other to win.",
+      "startDate": "2026-09-02T20:45:00",
+      "endDate": "2026-09-02T21:00:00",
+      "showTime": "20:45:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/68dc56635b4c16d6374990cd62a0632b.jpg"
+    },
+    {
+      "serverDate": "2026-09-02",
+      "showName": "Lok Rang Suron Ke Sang",
+      "description": "A comprehensive compilation of some of the most popular soundtracks produced by various famous artists is played back-to-back.",
       "startDate": "2026-09-02T21:00:00",
       "endDate": "2026-09-02T22:00:00",
       "showTime": "21:00:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d6ad80fa74d6b6e193ef16550cbfb041.jpg"
-    },
-    {
-      "serverDate": "2026-09-02",
-      "showName": "Godaan",
-      "description": "Hori Mahato, a peasant, is desperate for a cow, a symbol of prestige in the 1930's rural India. However, his dream is shattered when he buys one after taking out a loan and his jealous brother poisons it.",
-      "startDate": "2026-09-02T22:00:00",
-      "endDate": "2026-09-02T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a4d015c34f0d484c97196dde373a1b7f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b37a5ed139260fc356a751e2a4a36fa.jpg"
     },
     {
       "serverDate": "2026-09-02",
       "showName": "UP Ke Shahron Se",
       "description": "The host talks about the developments schemes by government and culture of different cities in the Indian state of Uttar Pradesh.",
+      "startDate": "2026-09-02T22:00:00",
+      "endDate": "2026-09-02T22:30:00",
+      "showTime": "22:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad07b5b76da963c27cb48bafd5169411.jpg"
+    },
+    {
+      "serverDate": "2026-09-02",
+      "showName": "Sehat Aapki",
+      "description": "An expert in the field of healthcare talks about various medical issues and responds to viewers' queries with suitable suggestions and advice.",
       "startDate": "2026-09-02T22:30:00",
       "endDate": "2026-09-02T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad07b5b76da963c27cb48bafd5169411.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8dcc0cdf24a9415df4b39d845c687ff1.jpg"
     },
     {
       "serverDate": "2026-09-02",
@@ -1219,14 +1307,14 @@
     },
     {
       "serverDate": "2026-09-03",
-      "showName": "Golden Hits",
-      "description": "A comprehensive compilation of famous old melodies from popular Kollywood movies performed by eminent artists is played in quick succession.",
+      "showName": "Jaanki",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-03T00:00:00",
       "endDate": "2026-09-03T01:00:00",
       "showTime": "00:00:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0f9b62f245d2ad59b9b422bec8ee0cc6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84c71d165eefd374024ee4c49a1542a8.jpg"
     },
     {
       "serverDate": "2026-09-03",
@@ -1274,23 +1362,34 @@
     },
     {
       "serverDate": "2026-09-03",
-      "showName": "Open Mic With Antakshari",
-      "description": "Participants attending a cultural event contest in a musical activity to deliver impressive renditions of renowned songs and enthral the audience.",
+      "showName": "Sehat Aapki",
+      "description": "An expert in the field of healthcare talks about various medical issues and responds to viewers' queries with suitable suggestions and advice.",
       "startDate": "2026-09-03T04:30:00",
-      "endDate": "2026-09-03T05:30:00",
+      "endDate": "2026-09-03T05:00:00",
       "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8dcc0cdf24a9415df4b39d845c687ff1.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Swaad Zara Hatke",
+      "description": "The host delivers a detailed discourse on preparing delicious dishes to enjoy in the comfort of one's home with the help of recipes.",
+      "startDate": "2026-09-03T05:00:00",
+      "endDate": "2026-09-03T05:30:00",
+      "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d6ad80fa74d6b6e193ef16550cbfb041.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be2dfe6ff6e3257485602a9b41ee5a51.jpg"
     },
     {
       "serverDate": "2026-09-03",
       "showName": "Jyoti Kalash",
       "description": "Religious leaders gather to sing and chant various spiritual as well as devotional hymns in harmonious reverence to the Almighty.",
       "startDate": "2026-09-03T05:30:00",
-      "endDate": "2026-09-03T06:30:00",
+      "endDate": "2026-09-03T06:00:00",
       "showTime": "05:30:00",
-      "endTime": "06:30:00",
+      "endTime": "06:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/efeaa3e88ccae8b0429d35658b75e9c4.jpg"
     },
@@ -1298,10 +1397,10 @@
       "serverDate": "2026-09-03",
       "showName": "Arti Shri Ram Mandir Ayodhya Live",
       "description": "Hindu religious leaders and devotees perform rituals and chant sacred scriptures to seek the blessings of Balak Ram at Ram Mandir in Ayodhya, live.",
-      "startDate": "2026-09-03T06:30:00",
-      "endDate": "2026-09-03T06:50:00",
-      "showTime": "06:30:00",
-      "endTime": "06:50:00",
+      "startDate": "2026-09-03T06:00:00",
+      "endDate": "2026-09-03T06:20:00",
+      "showTime": "06:00:00",
+      "endTime": "06:20:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/268f518976e8f71257058a54e60d0f50.jpg"
     },
@@ -1309,9 +1408,9 @@
       "serverDate": "2026-09-03",
       "showName": "Jyoti Kalash",
       "description": "Religious leaders gather to sing and chant various spiritual as well as devotional hymns in harmonious reverence to the Almighty.",
-      "startDate": "2026-09-03T06:50:00",
+      "startDate": "2026-09-03T06:20:00",
       "endDate": "2026-09-03T07:30:00",
-      "showTime": "06:50:00",
+      "showTime": "06:20:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/efeaa3e88ccae8b0429d35658b75e9c4.jpg"
@@ -1340,12 +1439,23 @@
     },
     {
       "serverDate": "2026-09-03",
+      "showName": "Safar Geeton Ka",
+      "description": "A comprehensive compilation of some of the best songs sung by popular music artists and singers played in quick succession.",
+      "startDate": "2026-09-03T08:30:00",
+      "endDate": "2026-09-03T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1d51f553275b57ad95e359d5c43bd15.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
       "showName": "Namaste UP",
       "description": "The host presents the latest in political, economic, social and sports updates and stories of the day from all across the state of Uttar Pradesh.",
-      "startDate": "2026-09-03T08:30:00",
-      "endDate": "2026-09-03T09:15:00",
-      "showTime": "08:30:00",
-      "endTime": "09:15:00",
+      "startDate": "2026-09-03T09:00:00",
+      "endDate": "2026-09-03T09:45:00",
+      "showTime": "09:00:00",
+      "endTime": "09:45:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c14e939cc947bb1aa9ac7f8ae247df6e.jpg"
     },
@@ -1353,56 +1463,111 @@
       "serverDate": "2026-09-03",
       "showName": "Gumsuda",
       "description": "The host presents details of missing persons and provides their families' contact information, accompanied by relevant images.",
-      "startDate": "2026-09-03T09:15:00",
-      "endDate": "2026-09-03T09:30:00",
-      "showTime": "09:15:00",
-      "endTime": "09:30:00",
+      "startDate": "2026-09-03T09:45:00",
+      "endDate": "2026-09-03T10:00:00",
+      "showTime": "09:45:00",
+      "endTime": "10:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62c270f2ce99116173786483fd345b5d.jpg"
     },
     {
       "serverDate": "2026-09-03",
-      "showName": "Safar Geeton Ka",
-      "description": "A comprehensive compilation of some of the best songs sung by popular music artists and singers played in quick succession.",
-      "startDate": "2026-09-03T09:30:00",
-      "endDate": "2026-09-03T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1d51f553275b57ad95e359d5c43bd15.jpg"
-    },
-    {
-      "serverDate": "2026-09-03",
       "showName": "Samachar",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "description": "The host provides insights into the latest news, current affairs and developments on various political, social and economic issues of national and global importance.",
       "startDate": "2026-09-03T10:00:00",
       "endDate": "2026-09-03T10:30:00",
       "showTime": "10:00:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/378f73363d0f282b143577d0e5b0d2a1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89ab7706f61fab07697585491dea122e.jpg"
     },
     {
       "serverDate": "2026-09-03",
-      "showName": "Aaj ka Agenda",
-      "description": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs.",
+      "showName": "Aaj Ka Agenda",
+      "description": "The host sheds light on the latest news updates pertaining to the political, social, economic and sports fronts from around the state and the nation.",
       "startDate": "2026-09-03T10:30:00",
       "endDate": "2026-09-03T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2c59e4c50722169def4c5335c81561b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e4adbbed11dc19ee4b611ee9a319780.jpg"
     },
     {
       "serverDate": "2026-09-03",
-      "showName": "UP Vidhan Sabha Ki Karyawahi",
-      "description": "The speaker and the members of the Uttar Pradesh Legislative Assembly discuss and debate on various crucial issues during a session.",
+      "showName": "Gorakhpur Doordarshan Ka Karyakram",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-03T11:00:00",
-      "endDate": "2026-09-03T15:00:00",
+      "endDate": "2026-09-03T12:00:00",
       "showTime": "11:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e6a253782959720707583782c5c6831a.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Superfast 100",
+      "description": "The host presents the top 100 stories, significant updates and huge developments from the national and international front.",
+      "startDate": "2026-09-03T12:00:00",
+      "endDate": "2026-09-03T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/178506a87b7f05b498e3b84a90a55bcd.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Safar Geeton Ka",
+      "description": "A comprehensive compilation of some of the best songs sung by popular music artists and singers played in quick succession.",
+      "startDate": "2026-09-03T12:30:00",
+      "endDate": "2026-09-03T13:00:00",
+      "showTime": "12:30:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1d51f553275b57ad95e359d5c43bd15.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Top 20",
+      "description": "The host presents the latest updates on various social, political and economic issues and shares information on current events.",
+      "startDate": "2026-09-03T13:00:00",
+      "endDate": "2026-09-03T13:05:00",
+      "showTime": "13:00:00",
+      "endTime": "13:05:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b2374fa398659f041d34bb388a652bad.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Golden Hits",
+      "description": "A comprehensive compilation of famous old melodies performed and composed by various eminent musicians played back to back.",
+      "startDate": "2026-09-03T13:05:00",
+      "endDate": "2026-09-03T14:00:00",
+      "showTime": "13:05:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d2a71d084cbcf77abda2f9578bd24882.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Samachar",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-09-03T14:00:00",
+      "endDate": "2026-09-03T14:30:00",
+      "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/378f73363d0f282b143577d0e5b0d2a1.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Jaanki",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-03T14:30:00",
+      "endDate": "2026-09-03T15:00:00",
+      "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8cf818bae5a002c74dcd51085b12b3f0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84c71d165eefd374024ee4c49a1542a8.jpg"
     },
     {
       "serverDate": "2026-09-03",
@@ -1428,14 +1593,14 @@
     },
     {
       "serverDate": "2026-09-03",
-      "showName": "Sehat Aapki",
-      "description": "An expert in the field of healthcare talks about various medical issues and responds to viewers' queries with suitable suggestions and advice.",
+      "showName": "UP Ke Shahron Se",
+      "description": "The host talks about the developments schemes by government and culture of different cities in the Indian state of Uttar Pradesh.",
       "startDate": "2026-09-03T16:02:00",
       "endDate": "2026-09-03T16:30:00",
       "showTime": "16:02:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8dcc0cdf24a9415df4b39d845c687ff1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad07b5b76da963c27cb48bafd5169411.jpg"
     },
     {
       "serverDate": "2026-09-03",
@@ -1483,14 +1648,14 @@
     },
     {
       "serverDate": "2026-09-03",
-      "showName": "Samachar",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "showName": "Samachar Desh Pradesh",
+      "description": "The host presents the latest news updates concerning the political, social, economic and sports fronts from around the state and the nation.",
       "startDate": "2026-09-03T19:00:00",
       "endDate": "2026-09-03T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/378f73363d0f282b143577d0e5b0d2a1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ed0b15c92fe83b1a0e24278649097146.jpg"
     },
     {
       "serverDate": "2026-09-03",
@@ -1506,13 +1671,24 @@
     {
       "serverDate": "2026-09-03",
       "showName": "News 360",
-      "description": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+      "description": "The host provides a comprehensive and detailed insight, elucidating on the latest news and developments from across the region.",
       "startDate": "2026-09-03T20:00:00",
-      "endDate": "2026-09-03T21:00:00",
+      "endDate": "2026-09-03T20:45:00",
       "showTime": "20:00:00",
+      "endTime": "20:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/05fa1703278f91357657c04ef9139c72.jpg"
+    },
+    {
+      "serverDate": "2026-09-03",
+      "showName": "Once More",
+      "description": "Talented literary figures from different parts of the country recite poems based on various themes and compete with each other to win.",
+      "startDate": "2026-09-03T20:45:00",
+      "endDate": "2026-09-03T21:00:00",
+      "showTime": "20:45:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/70046f35a08d9921c4c697807a6de6f5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/68dc56635b4c16d6374990cd62a0632b.jpg"
     },
     {
       "serverDate": "2026-09-03",
@@ -1527,25 +1703,25 @@
     },
     {
       "serverDate": "2026-09-03",
-      "showName": "Godaan",
-      "description": "Hori Mahato, a peasant, is desperate for a cow, a symbol of prestige in the 1930's rural India. However, his dream is shattered when he buys one after taking out a loan and his jealous brother poisons it.",
+      "showName": "UP Ke Shahron Se",
+      "description": "The host talks about the developments schemes by government and culture of different cities in the Indian state of Uttar Pradesh.",
       "startDate": "2026-09-03T22:00:00",
       "endDate": "2026-09-03T22:30:00",
       "showTime": "22:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a4d015c34f0d484c97196dde373a1b7f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad07b5b76da963c27cb48bafd5169411.jpg"
     },
     {
       "serverDate": "2026-09-03",
-      "showName": "UP Ke Shahron Se",
-      "description": "The host talks about the developments schemes by government and culture of different cities in the Indian state of Uttar Pradesh.",
+      "showName": "Sehat Aapki",
+      "description": "An expert in the field of healthcare talks about various medical issues and responds to viewers' queries with suitable suggestions and advice.",
       "startDate": "2026-09-03T22:30:00",
       "endDate": "2026-09-03T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad07b5b76da963c27cb48bafd5169411.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8dcc0cdf24a9415df4b39d845c687ff1.jpg"
     },
     {
       "serverDate": "2026-09-03",
@@ -1560,14 +1736,14 @@
     },
     {
       "serverDate": "2026-09-04",
-      "showName": "Golden Hits",
-      "description": "A comprehensive compilation of famous old melodies from popular Kollywood movies performed by eminent artists is played in quick succession.",
+      "showName": "Jaanki",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-04T00:00:00",
       "endDate": "2026-09-04T01:00:00",
       "showTime": "00:00:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0f9b62f245d2ad59b9b422bec8ee0cc6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84c71d165eefd374024ee4c49a1542a8.jpg"
     },
     {
       "serverDate": "2026-09-04",
@@ -1615,23 +1791,34 @@
     },
     {
       "serverDate": "2026-09-04",
-      "showName": "Open Mic With Antakshari",
-      "description": "Participants attending a cultural event contest in a musical activity to deliver impressive renditions of renowned songs and enthral the audience.",
+      "showName": "Sehat Aapki",
+      "description": "An expert in the field of healthcare talks about various medical issues and responds to viewers' queries with suitable suggestions and advice.",
       "startDate": "2026-09-04T04:30:00",
-      "endDate": "2026-09-04T05:30:00",
+      "endDate": "2026-09-04T05:00:00",
       "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8dcc0cdf24a9415df4b39d845c687ff1.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Swaad Zara Hatke",
+      "description": "The host delivers a detailed discourse on preparing delicious dishes to enjoy in the comfort of one's home with the help of recipes.",
+      "startDate": "2026-09-04T05:00:00",
+      "endDate": "2026-09-04T05:30:00",
+      "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d6ad80fa74d6b6e193ef16550cbfb041.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be2dfe6ff6e3257485602a9b41ee5a51.jpg"
     },
     {
       "serverDate": "2026-09-04",
       "showName": "Jyoti Kalash",
       "description": "Religious leaders gather to sing and chant various spiritual as well as devotional hymns in harmonious reverence to the Almighty.",
       "startDate": "2026-09-04T05:30:00",
-      "endDate": "2026-09-04T06:30:00",
+      "endDate": "2026-09-04T06:00:00",
       "showTime": "05:30:00",
-      "endTime": "06:30:00",
+      "endTime": "06:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/efeaa3e88ccae8b0429d35658b75e9c4.jpg"
     },
@@ -1639,10 +1826,10 @@
       "serverDate": "2026-09-04",
       "showName": "Arti Shri Ram Mandir Ayodhya Live",
       "description": "Hindu religious leaders and devotees perform rituals and chant sacred scriptures to seek the blessings of Balak Ram at Ram Mandir in Ayodhya, live.",
-      "startDate": "2026-09-04T06:30:00",
-      "endDate": "2026-09-04T06:50:00",
-      "showTime": "06:30:00",
-      "endTime": "06:50:00",
+      "startDate": "2026-09-04T06:00:00",
+      "endDate": "2026-09-04T06:20:00",
+      "showTime": "06:00:00",
+      "endTime": "06:20:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/268f518976e8f71257058a54e60d0f50.jpg"
     },
@@ -1650,9 +1837,9 @@
       "serverDate": "2026-09-04",
       "showName": "Jyoti Kalash",
       "description": "Religious leaders gather to sing and chant various spiritual as well as devotional hymns in harmonious reverence to the Almighty.",
-      "startDate": "2026-09-04T06:50:00",
+      "startDate": "2026-09-04T06:20:00",
       "endDate": "2026-09-04T07:30:00",
-      "showTime": "06:50:00",
+      "showTime": "06:20:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/efeaa3e88ccae8b0429d35658b75e9c4.jpg"
@@ -1681,12 +1868,23 @@
     },
     {
       "serverDate": "2026-09-04",
+      "showName": "Safar Geeton Ka",
+      "description": "A comprehensive compilation of some of the best songs sung by popular music artists and singers played in quick succession.",
+      "startDate": "2026-09-04T08:30:00",
+      "endDate": "2026-09-04T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1d51f553275b57ad95e359d5c43bd15.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
       "showName": "Namaste UP",
       "description": "The host presents the latest in political, economic, social and sports updates and stories of the day from all across the state of Uttar Pradesh.",
-      "startDate": "2026-09-04T08:30:00",
-      "endDate": "2026-09-04T09:15:00",
-      "showTime": "08:30:00",
-      "endTime": "09:15:00",
+      "startDate": "2026-09-04T09:00:00",
+      "endDate": "2026-09-04T09:45:00",
+      "showTime": "09:00:00",
+      "endTime": "09:45:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c14e939cc947bb1aa9ac7f8ae247df6e.jpg"
     },
@@ -1694,56 +1892,45 @@
       "serverDate": "2026-09-04",
       "showName": "Gumsuda",
       "description": "The host presents details of missing persons and provides their families' contact information, accompanied by relevant images.",
-      "startDate": "2026-09-04T09:15:00",
-      "endDate": "2026-09-04T09:30:00",
-      "showTime": "09:15:00",
-      "endTime": "09:30:00",
+      "startDate": "2026-09-04T09:45:00",
+      "endDate": "2026-09-04T10:00:00",
+      "showTime": "09:45:00",
+      "endTime": "10:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62c270f2ce99116173786483fd345b5d.jpg"
     },
     {
       "serverDate": "2026-09-04",
-      "showName": "Safar Geeton Ka",
-      "description": "A comprehensive compilation of some of the best songs sung by popular music artists and singers played in quick succession.",
-      "startDate": "2026-09-04T09:30:00",
-      "endDate": "2026-09-04T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1d51f553275b57ad95e359d5c43bd15.jpg"
-    },
-    {
-      "serverDate": "2026-09-04",
       "showName": "Samachar",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "description": "The host provides insights into the latest news, current affairs and developments on various political, social and economic issues of national and global importance.",
       "startDate": "2026-09-04T10:00:00",
       "endDate": "2026-09-04T10:30:00",
       "showTime": "10:00:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/378f73363d0f282b143577d0e5b0d2a1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89ab7706f61fab07697585491dea122e.jpg"
     },
     {
       "serverDate": "2026-09-04",
-      "showName": "Aaj ka Agenda",
-      "description": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs.",
+      "showName": "Aaj Ka Agenda",
+      "description": "The host sheds light on the latest news updates pertaining to the political, social, economic and sports fronts from around the state and the nation.",
       "startDate": "2026-09-04T10:30:00",
       "endDate": "2026-09-04T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2c59e4c50722169def4c5335c81561b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e4adbbed11dc19ee4b611ee9a319780.jpg"
     },
     {
       "serverDate": "2026-09-04",
-      "showName": "YEIDA Awasiya Bhukhand Yojna",
-      "description": "The host presents the live coverage of the launch of the YEIDA Awasiya Bhukhand Yojna, a residential plot scheme by the Yamuna Expressway Industrial Development Authority.",
+      "showName": "Gorakhpur Doordarshan Ka Karyakram",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-04T11:00:00",
       "endDate": "2026-09-04T12:00:00",
       "showTime": "11:00:00",
       "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/60548f984d7a2a6261495b509399eaf8.jpg"
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e6a253782959720707583782c5c6831a.jpg"
     },
     {
       "serverDate": "2026-09-04",
@@ -1754,7 +1941,7 @@
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/178506a87b7f05b498e3b84a90a55bcd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/322819527c123eeaceed6f1e55d599c4.jpg"
     },
     {
       "serverDate": "2026-09-04",
@@ -1781,13 +1968,13 @@
     {
       "serverDate": "2026-09-04",
       "showName": "Golden Hits",
-      "description": "A comprehensive compilation of famous old melodies from popular Kollywood movies performed by eminent artists is played in quick succession.",
+      "description": "A comprehensive compilation of famous old melodies performed and composed by various eminent musicians played back to back.",
       "startDate": "2026-09-04T13:05:00",
       "endDate": "2026-09-04T14:00:00",
       "showTime": "13:05:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0f9b62f245d2ad59b9b422bec8ee0cc6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d2a71d084cbcf77abda2f9578bd24882.jpg"
     },
     {
       "serverDate": "2026-09-04",
@@ -1802,25 +1989,14 @@
     },
     {
       "serverDate": "2026-09-04",
-      "showName": "Swaad Zara Hatke",
-      "description": "The host delivers a detailed discourse on preparing delicious dishes to enjoy in the comfort of one's home with the help of recipes.",
+      "showName": "Jaanki",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-04T14:30:00",
-      "endDate": "2026-09-04T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be2dfe6ff6e3257485602a9b41ee5a51.jpg"
-    },
-    {
-      "serverDate": "2026-09-04",
-      "showName": "Kinara Ab Door Nahi",
-      "description": "A renowned religious scholar delivers a spiritual discourse and sheds light on the significance of leading an honest life.",
-      "startDate": "2026-09-04T15:00:00",
       "endDate": "2026-09-04T16:00:00",
-      "showTime": "15:00:00",
+      "showTime": "14:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/567d7463883ebbbd40e4cc55bf61fe36.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84c71d165eefd374024ee4c49a1542a8.jpg"
     },
     {
       "serverDate": "2026-09-04",
@@ -1890,47 +2066,58 @@
     },
     {
       "serverDate": "2026-09-04",
-      "showName": "Samachar",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "showName": "Samachar Desh Pradesh",
+      "description": "The host presents the latest news updates concerning the political, social, economic and sports fronts from around the state and the nation.",
       "startDate": "2026-09-04T19:00:00",
       "endDate": "2026-09-04T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/378f73363d0f282b143577d0e5b0d2a1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ed0b15c92fe83b1a0e24278649097146.jpg"
     },
     {
       "serverDate": "2026-09-04",
-      "showName": "Sehat Aur Swaad Ke Rang",
-      "description": "A chef showcases methods for making nutritious, flavourful meals, while offering inventive kitchen hacks to enhance cooking and elevate dishes.",
+      "showName": "Safar Geeton Ka",
+      "description": "A comprehensive compilation of some of the best songs sung by popular music artists and singers played in quick succession.",
       "startDate": "2026-09-04T19:30:00",
       "endDate": "2026-09-04T20:00:00",
       "showTime": "19:30:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4b27c9f7292af219f0e940f49a4fa54c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1d51f553275b57ad95e359d5c43bd15.jpg"
     },
     {
       "serverDate": "2026-09-04",
       "showName": "News 360",
-      "description": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+      "description": "The host provides a comprehensive and detailed insight, elucidating on the latest news and developments from across the region.",
       "startDate": "2026-09-04T20:00:00",
-      "endDate": "2026-09-04T21:00:00",
+      "endDate": "2026-09-04T20:45:00",
       "showTime": "20:00:00",
-      "endTime": "21:00:00",
+      "endTime": "20:45:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/70046f35a08d9921c4c697807a6de6f5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/05fa1703278f91357657c04ef9139c72.jpg"
     },
     {
       "serverDate": "2026-09-04",
-      "showName": "Open Mic With Music",
-      "description": "The host presents a platform for musical talents, showcasing their performances and giving artists the opportunity to display their skills and creativity.",
+      "showName": "Once More",
+      "description": "Talented literary figures from different parts of the country recite poems based on various themes and compete with each other to win.",
+      "startDate": "2026-09-04T20:45:00",
+      "endDate": "2026-09-04T21:00:00",
+      "showTime": "20:45:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/68dc56635b4c16d6374990cd62a0632b.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Sanskaron Ki Sargam",
+      "description": "Experience the breathtaking confluence of Indian culture, rich traditions, and wonderful melodies through exquisite performances.",
       "startDate": "2026-09-04T21:00:00",
       "endDate": "2026-09-04T22:00:00",
       "showTime": "21:00:00",
       "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d78542d65d29326adacc2563a782d53e.jpg"
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2caa465f86e649b810416f371ce09cb2.jpg"
     },
     {
       "serverDate": "2026-09-04",
@@ -1948,9 +2135,9 @@
       "showName": "Godaan",
       "description": "Hori Mahato, a peasant, is desperate for a cow, a symbol of prestige in the 1930's rural India. However, his dream is shattered when he buys one after taking out a loan and his jealous brother poisons it.",
       "startDate": "2026-09-04T22:30:00",
-      "endDate": "2026-09-04T23:00:00",
+      "endDate": "2026-09-04T23:30:00",
       "showTime": "22:30:00",
-      "endTime": "23:00:00",
+      "endTime": "23:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a4d015c34f0d484c97196dde373a1b7f.jpg"
     },
@@ -1958,23 +2145,23 @@
       "serverDate": "2026-09-04",
       "showName": "Golden Hits",
       "description": "A comprehensive compilation of famous old melodies from popular Kollywood movies performed by eminent artists is played in quick succession.",
-      "startDate": "2026-09-04T23:00:00",
+      "startDate": "2026-09-04T23:30:00",
       "endDate": "2026-09-04T23:59:59",
-      "showTime": "23:00:00",
+      "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0f9b62f245d2ad59b9b422bec8ee0cc6.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Golden Hits",
-      "description": "A comprehensive compilation of famous old melodies from popular Kollywood movies performed by eminent artists is played in quick succession.",
+      "showName": "Jaanki",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-05T00:00:00",
       "endDate": "2026-09-05T01:00:00",
       "showTime": "00:00:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0f9b62f245d2ad59b9b422bec8ee0cc6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84c71d165eefd374024ee4c49a1542a8.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -2022,23 +2209,34 @@
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Open Mic With Antakshari",
-      "description": "Participants attending a cultural event contest in a musical activity to deliver impressive renditions of renowned songs and enthral the audience.",
+      "showName": "Sehat Aapki",
+      "description": "An expert in the field of healthcare talks about various medical issues and responds to viewers' queries with suitable suggestions and advice.",
       "startDate": "2026-09-05T04:30:00",
-      "endDate": "2026-09-05T05:30:00",
+      "endDate": "2026-09-05T05:00:00",
       "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8dcc0cdf24a9415df4b39d845c687ff1.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Swaad Zara Hatke",
+      "description": "The host delivers a detailed discourse on preparing delicious dishes to enjoy in the comfort of one's home with the help of recipes.",
+      "startDate": "2026-09-05T05:00:00",
+      "endDate": "2026-09-05T05:30:00",
+      "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d6ad80fa74d6b6e193ef16550cbfb041.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be2dfe6ff6e3257485602a9b41ee5a51.jpg"
     },
     {
       "serverDate": "2026-09-05",
       "showName": "Jyoti Kalash",
       "description": "Religious leaders gather to sing and chant various spiritual as well as devotional hymns in harmonious reverence to the Almighty.",
       "startDate": "2026-09-05T05:30:00",
-      "endDate": "2026-09-05T06:30:00",
+      "endDate": "2026-09-05T06:00:00",
       "showTime": "05:30:00",
-      "endTime": "06:30:00",
+      "endTime": "06:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/efeaa3e88ccae8b0429d35658b75e9c4.jpg"
     },
@@ -2046,10 +2244,10 @@
       "serverDate": "2026-09-05",
       "showName": "Arti Shri Ram Mandir Ayodhya Live",
       "description": "Hindu religious leaders and devotees perform rituals and chant sacred scriptures to seek the blessings of Balak Ram at Ram Mandir in Ayodhya, live.",
-      "startDate": "2026-09-05T06:30:00",
-      "endDate": "2026-09-05T06:50:00",
-      "showTime": "06:30:00",
-      "endTime": "06:50:00",
+      "startDate": "2026-09-05T06:00:00",
+      "endDate": "2026-09-05T06:20:00",
+      "showTime": "06:00:00",
+      "endTime": "06:20:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/268f518976e8f71257058a54e60d0f50.jpg"
     },
@@ -2057,9 +2255,9 @@
       "serverDate": "2026-09-05",
       "showName": "Jyoti Kalash",
       "description": "Religious leaders gather to sing and chant various spiritual as well as devotional hymns in harmonious reverence to the Almighty.",
-      "startDate": "2026-09-05T06:50:00",
+      "startDate": "2026-09-05T06:20:00",
       "endDate": "2026-09-05T07:30:00",
-      "showTime": "06:50:00",
+      "showTime": "06:20:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/efeaa3e88ccae8b0429d35658b75e9c4.jpg"
@@ -2088,36 +2286,36 @@
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Awam Ki Awaaz",
-      "description": "The host facilitates discussions, allowing the public to raise their concerns and offer suggestions on issues that affect their communities, aiming to strengthen governance at the grassroots level.",
+      "showName": "Safar Geeton Ka",
+      "description": "A comprehensive compilation of some of the best songs sung by popular music artists and singers played in quick succession.",
       "startDate": "2026-09-05T08:30:00",
-      "endDate": "2026-09-05T09:15:00",
+      "endDate": "2026-09-05T09:00:00",
       "showTime": "08:30:00",
-      "endTime": "09:15:00",
+      "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/630876e278b1b1c68d1e4150d329f221.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1d51f553275b57ad95e359d5c43bd15.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Namaste UP",
+      "description": "The host presents the latest in political, economic, social and sports updates and stories of the day from all across the state of Uttar Pradesh.",
+      "startDate": "2026-09-05T09:00:00",
+      "endDate": "2026-09-05T09:45:00",
+      "showTime": "09:00:00",
+      "endTime": "09:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c14e939cc947bb1aa9ac7f8ae247df6e.jpg"
     },
     {
       "serverDate": "2026-09-05",
       "showName": "Gumsuda",
       "description": "The host presents details of missing persons and provides their families' contact information, accompanied by relevant images.",
-      "startDate": "2026-09-05T09:15:00",
-      "endDate": "2026-09-05T09:30:00",
-      "showTime": "09:15:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62c270f2ce99116173786483fd345b5d.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "Safar Geeton Ka",
-      "description": "A comprehensive compilation of some of the best songs sung by popular music artists and singers played in quick succession.",
-      "startDate": "2026-09-05T09:30:00",
+      "startDate": "2026-09-05T09:45:00",
       "endDate": "2026-09-05T10:00:00",
-      "showTime": "09:30:00",
+      "showTime": "09:45:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1d51f553275b57ad95e359d5c43bd15.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62c270f2ce99116173786483fd345b5d.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -2132,14 +2330,14 @@
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Cyber Alert",
-      "description": "The host sheds light on several instances of cybercrimes in the world in an attempt to raise awareness among the citizens.",
+      "showName": "Spot Light Vision",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-05T10:30:00",
       "endDate": "2026-09-05T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a30d7c4166f57b4287d727260fa01a2d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d99d40744e40a31733666b1131292c6c.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -2154,14 +2352,14 @@
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Samachar",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "showName": "Superfast 100",
+      "description": "The host presents the top 100 stories, significant updates and huge developments from the national and international front.",
       "startDate": "2026-09-05T12:00:00",
       "endDate": "2026-09-05T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/378f73363d0f282b143577d0e5b0d2a1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/178506a87b7f05b498e3b84a90a55bcd.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -2176,14 +2374,14 @@
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Top-20 News",
-      "description": "The host presents the top 20 news stories and developments surrounding various political and socio-economic issues around the country.",
+      "showName": "Top 20",
+      "description": "The host presents the latest updates on various social, political and economic issues and shares information on current events.",
       "startDate": "2026-09-05T13:00:00",
       "endDate": "2026-09-05T13:05:00",
       "showTime": "13:00:00",
       "endTime": "13:05:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ef7cc34ebee35c416ab6952d20cdfc2f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b2374fa398659f041d34bb388a652bad.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -2209,14 +2407,14 @@
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Swaad Zara Hatke",
-      "description": "The host delivers a detailed discourse on preparing delicious dishes to enjoy in the comfort of one's home with the help of recipes.",
+      "showName": "Jaanki",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-05T14:30:00",
       "endDate": "2026-09-05T15:00:00",
       "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be2dfe6ff6e3257485602a9b41ee5a51.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84c71d165eefd374024ee4c49a1542a8.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -2231,25 +2429,25 @@
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Top 10 News",
-      "description": "The host presents the top 10 news stories pertaining to various political, social and economic issues affecting numerous lives.",
+      "showName": "Graphic News",
+      "description": "The host provides a concise overview of current events and important news updates on political, social and cultural themes.",
       "startDate": "2026-09-05T16:00:00",
       "endDate": "2026-09-05T16:02:00",
       "showTime": "16:00:00",
       "endTime": "16:02:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/882f29854038adf1da4e54c7bc3dc5f6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a5bea68aa5c564c4d76f6eb5ba5bb1c7.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Sehat Aapki",
-      "description": "An expert in the field of healthcare talks about various medical issues and responds to viewers' queries with suitable suggestions and advice.",
+      "showName": "UP Ke Shahron Se",
+      "description": "The host talks about the developments schemes by government and culture of different cities in the Indian state of Uttar Pradesh.",
       "startDate": "2026-09-05T16:02:00",
       "endDate": "2026-09-05T16:30:00",
       "showTime": "16:02:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8dcc0cdf24a9415df4b39d845c687ff1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad07b5b76da963c27cb48bafd5169411.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -2264,47 +2462,14 @@
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "News Room Mein Neta Ji",
-      "description": "The host has a conversation with various experts regarding various political and socio-economic issues around the country.",
+      "showName": "Trilian Tracker",
+      "description": "Trilian Tracker",
       "startDate": "2026-09-05T17:00:00",
-      "endDate": "2026-09-05T17:30:00",
-      "showTime": "17:00:00",
-      "endTime": "17:30:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fe09e2a8e59c442c9c696bb4ed0bc6fe.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "Safar Geeton Ka",
-      "description": "A comprehensive compilation of some of the best songs sung by popular music artists and singers played in quick succession.",
-      "startDate": "2026-09-05T17:30:00",
-      "endDate": "2026-09-05T18:00:00",
-      "showTime": "17:30:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1d51f553275b57ad95e359d5c43bd15.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "Superfast 100",
-      "description": "The host presents the top 100 stories, significant updates and huge developments from the national and international front.",
-      "startDate": "2026-09-05T18:00:00",
-      "endDate": "2026-09-05T18:30:00",
-      "showTime": "18:00:00",
-      "endTime": "18:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/178506a87b7f05b498e3b84a90a55bcd.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "Vartavali",
-      "description": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
-      "startDate": "2026-09-05T18:30:00",
       "endDate": "2026-09-05T19:00:00",
-      "showTime": "18:30:00",
+      "showTime": "17:00:00",
       "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9125db842ef859a1bc111a2d78066247.jpg"
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7ebdbb76c143ec0669f287bb6276c493.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -2319,36 +2484,58 @@
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Mister Confused",
-      "description": "Bringing the best in television.",
+      "showName": "Jan Apekshayein",
+      "description": "The host interacts with experts who share detailed information on various government initiatives and answer questions from the viewers.",
       "startDate": "2026-09-05T19:30:00",
       "endDate": "2026-09-05T20:00:00",
       "showTime": "19:30:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/49c8b998ad0089a3657e4d5a8ac20ae3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4e49faee7aa48e69ae4199d63ba390c5.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Big News Big Analysis",
-      "description": "The host provides in-depth analysis of the latest news stories and significant developments happening in and around India.",
+      "showName": "Chalte-Chalte",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-09-05T20:00:00",
-      "endDate": "2026-09-05T21:00:00",
+      "endDate": "2026-09-05T20:30:00",
       "showTime": "20:00:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ea2023c5b5af3d3874e76034bd9f666.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Special Programme",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-05T20:30:00",
+      "endDate": "2026-09-05T21:00:00",
+      "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ddc5c806d6ee6834d066a9c954f2f050.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f4c776aa064722850207e313da62c54.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Open Mic With Music",
-      "description": "The host presents a platform for musical talents, showcasing their performances and giving artists the opportunity to display their skills and creativity.",
+      "showName": "Corporate Sarpanch Beti Desh Ki",
+      "description": "To the 24-year-old Kirti, the prosperity of her village matters more than a cushy corporate job. Armed with passion, grit and talent, she sets out to make a difference.",
       "startDate": "2026-09-05T21:00:00",
-      "endDate": "2026-09-05T22:00:00",
+      "endDate": "2026-09-05T21:30:00",
       "showTime": "21:00:00",
+      "endTime": "21:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/59f03a4bc262f22791ff8b1f870ee96f.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Bhed Bharam",
+      "description": "Surekha, a married woman, meets with an accident, but her death is a mystery. A man encounters her ghost and tells her family that she is trying to communicate with them.",
+      "startDate": "2026-09-05T21:30:00",
+      "endDate": "2026-09-05T22:00:00",
+      "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d78542d65d29326adacc2563a782d53e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02e38fdbd20508087a11557388566f53.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -2363,14 +2550,14 @@
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "UP Ke Shahron Se",
-      "description": "The host talks about the developments schemes by government and culture of different cities in the Indian state of Uttar Pradesh.",
+      "showName": "Sehat Aapki",
+      "description": "An expert in the field of healthcare talks about various medical issues and responds to viewers' queries with suitable suggestions and advice.",
       "startDate": "2026-09-05T22:30:00",
       "endDate": "2026-09-05T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad07b5b76da963c27cb48bafd5169411.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8dcc0cdf24a9415df4b39d845c687ff1.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -2385,14 +2572,14 @@
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Golden Hits",
-      "description": "A comprehensive compilation of famous old melodies from popular Kollywood movies performed by eminent artists is played in quick succession.",
+      "showName": "Jaanki",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-06T00:00:00",
       "endDate": "2026-09-06T01:00:00",
       "showTime": "00:00:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0f9b62f245d2ad59b9b422bec8ee0cc6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84c71d165eefd374024ee4c49a1542a8.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -2440,23 +2627,34 @@
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Open Mic With Antakshari",
-      "description": "Participants attending a cultural event contest in a musical activity to deliver impressive renditions of renowned songs and enthral the audience.",
+      "showName": "Sehat Aapki",
+      "description": "An expert in the field of healthcare talks about various medical issues and responds to viewers' queries with suitable suggestions and advice.",
       "startDate": "2026-09-06T04:30:00",
-      "endDate": "2026-09-06T05:30:00",
+      "endDate": "2026-09-06T05:00:00",
       "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8dcc0cdf24a9415df4b39d845c687ff1.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Swaad Zara Hatke",
+      "description": "The host delivers a detailed discourse on preparing delicious dishes to enjoy in the comfort of one's home with the help of recipes.",
+      "startDate": "2026-09-06T05:00:00",
+      "endDate": "2026-09-06T05:30:00",
+      "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d6ad80fa74d6b6e193ef16550cbfb041.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be2dfe6ff6e3257485602a9b41ee5a51.jpg"
     },
     {
       "serverDate": "2026-09-06",
       "showName": "Jyoti Kalash",
       "description": "Religious leaders gather to sing and chant various spiritual as well as devotional hymns in harmonious reverence to the Almighty.",
       "startDate": "2026-09-06T05:30:00",
-      "endDate": "2026-09-06T06:30:00",
+      "endDate": "2026-09-06T06:00:00",
       "showTime": "05:30:00",
-      "endTime": "06:30:00",
+      "endTime": "06:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/efeaa3e88ccae8b0429d35658b75e9c4.jpg"
     },
@@ -2464,10 +2662,10 @@
       "serverDate": "2026-09-06",
       "showName": "Arti Shri Ram Mandir Ayodhya Live",
       "description": "Hindu religious leaders and devotees perform rituals and chant sacred scriptures to seek the blessings of Balak Ram at Ram Mandir in Ayodhya, live.",
-      "startDate": "2026-09-06T06:30:00",
-      "endDate": "2026-09-06T06:50:00",
-      "showTime": "06:30:00",
-      "endTime": "06:50:00",
+      "startDate": "2026-09-06T06:00:00",
+      "endDate": "2026-09-06T06:20:00",
+      "showTime": "06:00:00",
+      "endTime": "06:20:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/268f518976e8f71257058a54e60d0f50.jpg"
     },
@@ -2475,9 +2673,9 @@
       "serverDate": "2026-09-06",
       "showName": "Jyoti Kalash",
       "description": "Religious leaders gather to sing and chant various spiritual as well as devotional hymns in harmonious reverence to the Almighty.",
-      "startDate": "2026-09-06T06:50:00",
+      "startDate": "2026-09-06T06:20:00",
       "endDate": "2026-09-06T07:30:00",
-      "showTime": "06:50:00",
+      "showTime": "06:20:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/efeaa3e88ccae8b0429d35658b75e9c4.jpg"
@@ -2506,36 +2704,36 @@
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Golden Hits",
-      "description": "A comprehensive compilation of famous old melodies from popular Kollywood movies performed by eminent artists is played in quick succession.",
+      "showName": "Safar Geeton Ka",
+      "description": "A comprehensive compilation of some of the best songs sung by popular music artists and singers played in quick succession.",
       "startDate": "2026-09-06T08:30:00",
-      "endDate": "2026-09-06T09:15:00",
+      "endDate": "2026-09-06T09:00:00",
       "showTime": "08:30:00",
-      "endTime": "09:15:00",
+      "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0f9b62f245d2ad59b9b422bec8ee0cc6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1d51f553275b57ad95e359d5c43bd15.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Namaste UP",
+      "description": "The host presents the latest in political, economic, social and sports updates and stories of the day from all across the state of Uttar Pradesh.",
+      "startDate": "2026-09-06T09:00:00",
+      "endDate": "2026-09-06T09:45:00",
+      "showTime": "09:00:00",
+      "endTime": "09:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c14e939cc947bb1aa9ac7f8ae247df6e.jpg"
     },
     {
       "serverDate": "2026-09-06",
       "showName": "Gumsuda",
       "description": "The host presents details of missing persons and provides their families' contact information, accompanied by relevant images.",
-      "startDate": "2026-09-06T09:15:00",
-      "endDate": "2026-09-06T09:30:00",
-      "showTime": "09:15:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62c270f2ce99116173786483fd345b5d.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Safar Geeton Ka",
-      "description": "A comprehensive compilation of some of the best songs sung by popular music artists and singers played in quick succession.",
-      "startDate": "2026-09-06T09:30:00",
+      "startDate": "2026-09-06T09:45:00",
       "endDate": "2026-09-06T10:00:00",
-      "showTime": "09:30:00",
+      "showTime": "09:45:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1d51f553275b57ad95e359d5c43bd15.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62c270f2ce99116173786483fd345b5d.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -2550,14 +2748,14 @@
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "News Room Mein Neta Ji",
-      "description": "The host has a conversation with various experts regarding various political and socio-economic issues around the country.",
+      "showName": "Special Programme",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-06T10:30:00",
       "endDate": "2026-09-06T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fe09e2a8e59c442c9c696bb4ed0bc6fe.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f4c776aa064722850207e313da62c54.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -2572,36 +2770,36 @@
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "KTB: Bharat Hain Hum",
-      "description": "Three animal storytellers, Krish, Trish and Baltiboy, share vivid stories about India's courageous and relentless fight for independence.",
+      "showName": "KTB:Bharat Hain Hum",
+      "description": "The journey of some of the most prominent yet unrecognised freedom fighters who played a pivotal role in securing independence from the British.",
       "startDate": "2026-09-06T11:30:00",
       "endDate": "2026-09-06T12:00:00",
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10feb72db5bb4a7c1703df5120a669cd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6890327b3bba467b5a5fcceb29ecc26c.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Samachar",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "showName": "Superfast 100",
+      "description": "The host presents the top 100 stories, significant updates and huge developments from the national and international front.",
       "startDate": "2026-09-06T12:00:00",
       "endDate": "2026-09-06T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/378f73363d0f282b143577d0e5b0d2a1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/178506a87b7f05b498e3b84a90a55bcd.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Safar Geeton Ka",
-      "description": "A comprehensive compilation of some of the best songs sung by popular music artists and singers played in quick succession.",
+      "showName": "Sehat Aapki",
+      "description": "An expert in the field of healthcare talks about various medical issues and responds to viewers' queries with suitable suggestions and advice.",
       "startDate": "2026-09-06T12:30:00",
       "endDate": "2026-09-06T13:00:00",
       "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1d51f553275b57ad95e359d5c43bd15.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8dcc0cdf24a9415df4b39d845c687ff1.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -2616,14 +2814,14 @@
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Ghar Pariwar",
-      "description": "The host engages in conversations with distinguished guests to discuss the importance of maintaining a harmonious and happy family and shares practical tips. Later, they present a simple yet delicious recipe for viewers to try.",
+      "showName": "Youth Junction",
+      "description": "The host engages with young people in Youth Junction, listening to their diverse opinions, aspirations and perspectives on current issues and future challenges.",
       "startDate": "2026-09-06T13:05:00",
       "endDate": "2026-09-06T14:00:00",
       "showTime": "13:05:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/52a9b7d57069cb9cbdedbc19ff899b9b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17de10e23a6f1cc76ba5172ebbbe14d7.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -2638,14 +2836,14 @@
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Swaad Zara Hatke",
-      "description": "The host delivers a detailed discourse on preparing delicious dishes to enjoy in the comfort of one's home with the help of recipes.",
+      "showName": "Safar Geeton Ka",
+      "description": "A comprehensive compilation of some of the best songs sung by popular music artists and singers played in quick succession.",
       "startDate": "2026-09-06T14:30:00",
       "endDate": "2026-09-06T15:00:00",
       "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be2dfe6ff6e3257485602a9b41ee5a51.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1d51f553275b57ad95e359d5c43bd15.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -2660,14 +2858,14 @@
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Top 10 News",
-      "description": "The host presents the top 10 news stories pertaining to various political, social and economic issues affecting numerous lives.",
+      "showName": "Graphic News",
+      "description": "The host provides a concise overview of current events and important news updates on political, social and cultural themes.",
       "startDate": "2026-09-06T16:00:00",
       "endDate": "2026-09-06T16:02:00",
       "showTime": "16:00:00",
       "endTime": "16:02:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/882f29854038adf1da4e54c7bc3dc5f6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a5bea68aa5c564c4d76f6eb5ba5bb1c7.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -2704,80 +2902,102 @@
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Golden Hits",
-      "description": "A comprehensive compilation of famous old melodies from popular Kollywood movies performed by eminent artists is played in quick succession.",
-      "startDate": "2026-09-06T17:30:00",
-      "endDate": "2026-09-06T18:30:00",
-      "showTime": "17:30:00",
-      "endTime": "18:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0f9b62f245d2ad59b9b422bec8ee0cc6.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Cyber Alert",
-      "description": "The host sheds light on several instances of cybercrimes in the world in an attempt to raise awareness among the citizens.",
-      "startDate": "2026-09-06T18:30:00",
-      "endDate": "2026-09-06T19:00:00",
-      "showTime": "18:30:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a30d7c4166f57b4287d727260fa01a2d.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Samachar",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-09-06T19:00:00",
-      "endDate": "2026-09-06T19:30:00",
-      "showTime": "19:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/378f73363d0f282b143577d0e5b0d2a1.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Mister Confused",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-06T19:30:00",
-      "endDate": "2026-09-06T20:00:00",
-      "showTime": "19:30:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/49c8b998ad0089a3657e4d5a8ac20ae3.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Sunday Special",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-06T20:00:00",
-      "endDate": "2026-09-06T20:30:00",
-      "showTime": "20:00:00",
-      "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ebf2e6c874d824cc7a1f85b1d9b35f89.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
       "showName": "Safar Geeton Ka",
       "description": "A comprehensive compilation of some of the best songs sung by popular music artists and singers played in quick succession.",
-      "startDate": "2026-09-06T20:30:00",
-      "endDate": "2026-09-06T21:00:00",
-      "showTime": "20:30:00",
-      "endTime": "21:00:00",
+      "startDate": "2026-09-06T17:30:00",
+      "endDate": "2026-09-06T18:00:00",
+      "showTime": "17:30:00",
+      "endTime": "18:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1d51f553275b57ad95e359d5c43bd15.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Awam Ki Awaaz",
-      "description": "The host facilitates discussions, allowing the public to raise their concerns and offer suggestions on issues that affect their communities, aiming to strengthen governance at the grassroots level.",
+      "showName": "Trilian Tracker",
+      "description": "Trilian Tracker",
+      "startDate": "2026-09-06T18:00:00",
+      "endDate": "2026-09-06T18:30:00",
+      "showTime": "18:00:00",
+      "endTime": "18:30:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7ebdbb76c143ec0669f287bb6276c493.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Special Programme",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-06T18:30:00",
+      "endDate": "2026-09-06T19:00:00",
+      "showTime": "18:30:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f4c776aa064722850207e313da62c54.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Samachar Desh Pradesh",
+      "description": "The host presents the latest news updates concerning the political, social, economic and sports fronts from around the state and the nation.",
+      "startDate": "2026-09-06T19:00:00",
+      "endDate": "2026-09-06T19:30:00",
+      "showTime": "19:00:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ed0b15c92fe83b1a0e24278649097146.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Hamare Nayak",
+      "description": "The presenter sheds light on life, professional accomplishments as well as the legacy of Indian legends from different fields.",
+      "startDate": "2026-09-06T19:30:00",
+      "endDate": "2026-09-06T20:00:00",
+      "showTime": "19:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a31bdd879a8bf45a44c867bfab5e6a6.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Trilian Tracker",
+      "description": "Trilian Tracker",
+      "startDate": "2026-09-06T20:00:00",
+      "endDate": "2026-09-06T20:30:00",
+      "showTime": "20:00:00",
+      "endTime": "20:30:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7ebdbb76c143ec0669f287bb6276c493.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Special Programme",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-06T20:30:00",
+      "endDate": "2026-09-06T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f4c776aa064722850207e313da62c54.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Corporate Sarpanch Beti Desh Ki",
+      "description": "To the 24-year-old Kirti, the prosperity of her village matters more than a cushy corporate job. Armed with passion, grit and talent, she sets out to make a difference.",
       "startDate": "2026-09-06T21:00:00",
-      "endDate": "2026-09-06T22:00:00",
+      "endDate": "2026-09-06T21:30:00",
       "showTime": "21:00:00",
+      "endTime": "21:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/59f03a4bc262f22791ff8b1f870ee96f.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Bhed Bharam",
+      "description": "Surekha, a married woman, meets with an accident, but her death is a mystery. A man encounters her ghost and tells her family that she is trying to communicate with them.",
+      "startDate": "2026-09-06T21:30:00",
+      "endDate": "2026-09-06T22:00:00",
+      "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/630876e278b1b1c68d1e4150d329f221.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02e38fdbd20508087a11557388566f53.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -2792,36 +3012,36 @@
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "UP Ke Shahron Se",
-      "description": "The host talks about the developments schemes by government and culture of different cities in the Indian state of Uttar Pradesh.",
+      "showName": "Once More",
+      "description": "Talented literary figures from different parts of the country recite poems based on various themes and compete with each other to win.",
       "startDate": "2026-09-06T22:30:00",
       "endDate": "2026-09-06T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad07b5b76da963c27cb48bafd5169411.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/68dc56635b4c16d6374990cd62a0632b.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Ghar Pariwar",
-      "description": "The host engages in conversations with distinguished guests to discuss the importance of maintaining a harmonious and happy family and shares practical tips. Later, they present a simple yet delicious recipe for viewers to try.",
+      "showName": "Youth Junction",
+      "description": "The host engages with young people in Youth Junction, listening to their diverse opinions, aspirations and perspectives on current issues and future challenges.",
       "startDate": "2026-09-06T23:00:00",
       "endDate": "2026-09-06T23:59:59",
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/52a9b7d57069cb9cbdedbc19ff899b9b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17de10e23a6f1cc76ba5172ebbbe14d7.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Golden Hits",
-      "description": "A comprehensive compilation of famous old melodies from popular Kollywood movies performed by eminent artists is played in quick succession.",
+      "showName": "Jaanki",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-07T00:00:00",
       "endDate": "2026-09-07T01:00:00",
       "showTime": "00:00:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0f9b62f245d2ad59b9b422bec8ee0cc6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84c71d165eefd374024ee4c49a1542a8.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -2869,23 +3089,34 @@
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Open Mic With Antakshari",
-      "description": "Participants attending a cultural event contest in a musical activity to deliver impressive renditions of renowned songs and enthral the audience.",
+      "showName": "Sehat Aapki",
+      "description": "An expert in the field of healthcare talks about various medical issues and responds to viewers' queries with suitable suggestions and advice.",
       "startDate": "2026-09-07T04:30:00",
-      "endDate": "2026-09-07T05:30:00",
+      "endDate": "2026-09-07T05:00:00",
       "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8dcc0cdf24a9415df4b39d845c687ff1.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Swaad Zara Hatke",
+      "description": "The host delivers a detailed discourse on preparing delicious dishes to enjoy in the comfort of one's home with the help of recipes.",
+      "startDate": "2026-09-07T05:00:00",
+      "endDate": "2026-09-07T05:30:00",
+      "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d6ad80fa74d6b6e193ef16550cbfb041.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be2dfe6ff6e3257485602a9b41ee5a51.jpg"
     },
     {
       "serverDate": "2026-09-07",
       "showName": "Jyoti Kalash",
       "description": "Religious leaders gather to sing and chant various spiritual as well as devotional hymns in harmonious reverence to the Almighty.",
       "startDate": "2026-09-07T05:30:00",
-      "endDate": "2026-09-07T06:30:00",
+      "endDate": "2026-09-07T06:00:00",
       "showTime": "05:30:00",
-      "endTime": "06:30:00",
+      "endTime": "06:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/efeaa3e88ccae8b0429d35658b75e9c4.jpg"
     },
@@ -2893,10 +3124,10 @@
       "serverDate": "2026-09-07",
       "showName": "Arti Shri Ram Mandir Ayodhya Live",
       "description": "Hindu religious leaders and devotees perform rituals and chant sacred scriptures to seek the blessings of Balak Ram at Ram Mandir in Ayodhya, live.",
-      "startDate": "2026-09-07T06:30:00",
-      "endDate": "2026-09-07T06:50:00",
-      "showTime": "06:30:00",
-      "endTime": "06:50:00",
+      "startDate": "2026-09-07T06:00:00",
+      "endDate": "2026-09-07T06:20:00",
+      "showTime": "06:00:00",
+      "endTime": "06:20:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/268f518976e8f71257058a54e60d0f50.jpg"
     },
@@ -2904,9 +3135,9 @@
       "serverDate": "2026-09-07",
       "showName": "Jyoti Kalash",
       "description": "Religious leaders gather to sing and chant various spiritual as well as devotional hymns in harmonious reverence to the Almighty.",
-      "startDate": "2026-09-07T06:50:00",
+      "startDate": "2026-09-07T06:20:00",
       "endDate": "2026-09-07T07:30:00",
-      "showTime": "06:50:00",
+      "showTime": "06:20:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/efeaa3e88ccae8b0429d35658b75e9c4.jpg"
@@ -2935,12 +3166,23 @@
     },
     {
       "serverDate": "2026-09-07",
+      "showName": "Safar Geeton Ka",
+      "description": "A comprehensive compilation of some of the best songs sung by popular music artists and singers played in quick succession.",
+      "startDate": "2026-09-07T08:30:00",
+      "endDate": "2026-09-07T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1d51f553275b57ad95e359d5c43bd15.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
       "showName": "Namaste UP",
       "description": "The host presents the latest in political, economic, social and sports updates and stories of the day from all across the state of Uttar Pradesh.",
-      "startDate": "2026-09-07T08:30:00",
-      "endDate": "2026-09-07T09:15:00",
-      "showTime": "08:30:00",
-      "endTime": "09:15:00",
+      "startDate": "2026-09-07T09:00:00",
+      "endDate": "2026-09-07T09:45:00",
+      "showTime": "09:00:00",
+      "endTime": "09:45:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c14e939cc947bb1aa9ac7f8ae247df6e.jpg"
     },
@@ -2948,45 +3190,34 @@
       "serverDate": "2026-09-07",
       "showName": "Gumsuda",
       "description": "The host presents details of missing persons and provides their families' contact information, accompanied by relevant images.",
-      "startDate": "2026-09-07T09:15:00",
-      "endDate": "2026-09-07T09:30:00",
-      "showTime": "09:15:00",
-      "endTime": "09:30:00",
+      "startDate": "2026-09-07T09:45:00",
+      "endDate": "2026-09-07T10:00:00",
+      "showTime": "09:45:00",
+      "endTime": "10:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62c270f2ce99116173786483fd345b5d.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Safar Geeton Ka",
-      "description": "A comprehensive compilation of some of the best songs sung by popular music artists and singers played in quick succession.",
-      "startDate": "2026-09-07T09:30:00",
-      "endDate": "2026-09-07T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1d51f553275b57ad95e359d5c43bd15.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
       "showName": "Samachar",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "description": "The host provides insights into the latest news, current affairs and developments on various political, social and economic issues of national and global importance.",
       "startDate": "2026-09-07T10:00:00",
       "endDate": "2026-09-07T10:30:00",
       "showTime": "10:00:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/378f73363d0f282b143577d0e5b0d2a1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89ab7706f61fab07697585491dea122e.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Aaj ka Agenda",
-      "description": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs.",
+      "showName": "Aaj Ka Agenda",
+      "description": "The host sheds light on the latest news updates pertaining to the political, social, economic and sports fronts from around the state and the nation.",
       "startDate": "2026-09-07T10:30:00",
       "endDate": "2026-09-07T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2c59e4c50722169def4c5335c81561b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e4adbbed11dc19ee4b611ee9a319780.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -3012,14 +3243,14 @@
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Safar Geeton Ka",
-      "description": "A comprehensive compilation of some of the best songs sung by popular music artists and singers played in quick succession.",
+      "showName": "Hamare Nayak",
+      "description": "The presenter sheds light on life, professional accomplishments as well as the legacy of Indian legends from different fields.",
       "startDate": "2026-09-07T12:30:00",
       "endDate": "2026-09-07T13:00:00",
       "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1d51f553275b57ad95e359d5c43bd15.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a31bdd879a8bf45a44c867bfab5e6a6.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -3035,13 +3266,13 @@
     {
       "serverDate": "2026-09-07",
       "showName": "Golden Hits",
-      "description": "A comprehensive compilation of famous old melodies from popular Kollywood movies performed by eminent artists is played in quick succession.",
+      "description": "A comprehensive compilation of famous old melodies performed and composed by various eminent musicians played back to back.",
       "startDate": "2026-09-07T13:05:00",
       "endDate": "2026-09-07T14:00:00",
       "showTime": "13:05:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0f9b62f245d2ad59b9b422bec8ee0cc6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d2a71d084cbcf77abda2f9578bd24882.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -3056,14 +3287,14 @@
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Swaad Zara Hatke",
-      "description": "The host delivers a detailed discourse on preparing delicious dishes to enjoy in the comfort of one's home with the help of recipes.",
+      "showName": "Jaanki",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-07T14:30:00",
       "endDate": "2026-09-07T15:00:00",
       "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be2dfe6ff6e3257485602a9b41ee5a51.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84c71d165eefd374024ee4c49a1542a8.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -3144,47 +3375,58 @@
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Samachar",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "showName": "Samachar Desh Pradesh",
+      "description": "The host presents the latest news updates concerning the political, social, economic and sports fronts from around the state and the nation.",
       "startDate": "2026-09-07T19:00:00",
       "endDate": "2026-09-07T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/378f73363d0f282b143577d0e5b0d2a1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ed0b15c92fe83b1a0e24278649097146.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Safar Geeton Ka",
-      "description": "A comprehensive compilation of some of the best songs sung by popular music artists and singers played in quick succession.",
+      "showName": "Once More",
+      "description": "Talented literary figures from different parts of the country recite poems based on various themes and compete with each other to win.",
       "startDate": "2026-09-07T19:30:00",
       "endDate": "2026-09-07T20:00:00",
       "showTime": "19:30:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1d51f553275b57ad95e359d5c43bd15.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/68dc56635b4c16d6374990cd62a0632b.jpg"
     },
     {
       "serverDate": "2026-09-07",
       "showName": "News 360",
-      "description": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+      "description": "The host provides a comprehensive and detailed insight, elucidating on the latest news and developments from across the region.",
       "startDate": "2026-09-07T20:00:00",
-      "endDate": "2026-09-07T21:00:00",
+      "endDate": "2026-09-07T20:45:00",
       "showTime": "20:00:00",
-      "endTime": "21:00:00",
+      "endTime": "20:45:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/70046f35a08d9921c4c697807a6de6f5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/05fa1703278f91357657c04ef9139c72.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Open Mic With Antakshari",
-      "description": "Participants attending a cultural event contest in a musical activity to deliver impressive renditions of renowned songs and enthral the audience.",
+      "showName": "Once More",
+      "description": "Talented literary figures from different parts of the country recite poems based on various themes and compete with each other to win.",
+      "startDate": "2026-09-07T20:45:00",
+      "endDate": "2026-09-07T21:00:00",
+      "showTime": "20:45:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/68dc56635b4c16d6374990cd62a0632b.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Open Mic With Music",
+      "description": "The host presents a platform for musical talents, showcasing their performances and giving artists the opportunity to display their skills and creativity.",
       "startDate": "2026-09-07T21:00:00",
       "endDate": "2026-09-07T22:00:00",
       "showTime": "21:00:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d6ad80fa74d6b6e193ef16550cbfb041.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d78542d65d29326adacc2563a782d53e.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -3199,22 +3441,22 @@
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "UP Ke Shahron Se",
-      "description": "The host talks about the developments schemes by government and culture of different cities in the Indian state of Uttar Pradesh.",
+      "showName": "Sehat Aapki",
+      "description": "An expert in the field of healthcare talks about various medical issues and responds to viewers' queries with suitable suggestions and advice.",
       "startDate": "2026-09-07T22:30:00",
-      "endDate": "2026-09-07T23:00:00",
+      "endDate": "2026-09-07T23:30:00",
       "showTime": "22:30:00",
-      "endTime": "23:00:00",
+      "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad07b5b76da963c27cb48bafd5169411.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8dcc0cdf24a9415df4b39d845c687ff1.jpg"
     },
     {
       "serverDate": "2026-09-07",
       "showName": "Golden Hits",
       "description": "A comprehensive compilation of famous old melodies from popular Kollywood movies performed by eminent artists is played in quick succession.",
-      "startDate": "2026-09-07T23:00:00",
+      "startDate": "2026-09-07T23:30:00",
       "endDate": "2026-09-07T23:59:59",
-      "showTime": "23:00:00",
+      "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0f9b62f245d2ad59b9b422bec8ee0cc6.jpg"
