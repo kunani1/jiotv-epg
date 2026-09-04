@@ -188,11 +188,22 @@
       "showName": "New Songs",
       "description": "A comprehensive compilation featuring popular and entertaining songs by renowned artists and musicians in a non-stop sequence.",
       "startDate": "2026-09-04T12:00:00",
-      "endDate": "2026-09-04T15:00:00",
+      "endDate": "2026-09-04T13:00:00",
       "showTime": "12:00:00",
-      "endTime": "15:00:00",
+      "endTime": "13:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/148782047d19bc5075d25dcd03daf613.jpg"
+    },
+    {
+      "serverDate": "2026-09-04",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-04T13:00:00",
+      "endDate": "2026-09-04T15:00:00",
+      "showTime": "13:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/061a3abe82d61507fa362ce9f192bc77.jpg"
     },
     {
       "serverDate": "2026-09-04",

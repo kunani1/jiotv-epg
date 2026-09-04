@@ -1046,11 +1046,22 @@
       "showName": "Maharashtrachi Hasya Jatra",
       "description": "Talented comedians bring laughter to the stage with entertaining performances, witty humour and engaging skits, offering a delightful mix of fun and satire.",
       "startDate": "2026-09-06T00:00:00",
-      "endDate": "2026-09-06T02:11:00",
+      "endDate": "2026-09-06T00:33:00",
       "showTime": "00:00:00",
-      "endTime": "02:11:00",
+      "endTime": "00:33:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/74a76377de426bb277080822e9b39170.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Maharashtrachi Hasya Jatra Special",
+      "description": "A special edition featuring extended performances by Marathi comedians and actors, blending humour and charm to deliver a dose of laughter with unforgettable skits.",
+      "startDate": "2026-09-06T00:33:00",
+      "endDate": "2026-09-06T02:11:00",
+      "showTime": "00:33:00",
+      "endTime": "02:11:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e563040cdef4fc7efbc10106286ab6c.jpg"
     },
     {
       "serverDate": "2026-09-06",
