@@ -353,253 +353,220 @@
       "showName": "Emergency Declaration",
       "description": "Korean authorities investigate an online terrorist threat, discovering a suspect boarded a US-bound flight where a passenger dies, causing onboard panic.",
       "startDate": "2026-09-05T02:24:00",
-      "endDate": "2026-09-05T06:00:00",
+      "endDate": "2026-09-05T04:41:00",
       "showTime": "02:24:00",
-      "endTime": "06:00:00",
+      "endTime": "04:41:00",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a32f3887992c5c6b81ceebe5f8972a1c.jpg"
     },
     {
       "serverDate": "2026-09-05",
+      "showName": "Tarzan",
+      "description": "Tarzan, a feral orphan raised by gorillas, encounters a beautiful woman named Jane. As he grows close to her, he faces a difficult choice between staying with his ape family and rejoining humanity.",
+      "startDate": "2026-09-05T04:41:00",
+      "endDate": "2026-09-05T06:04:00",
+      "showTime": "04:41:00",
+      "endTime": "06:04:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/113ffc99030ee2b3badc6fc35c75b658.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "The Croods",
+      "description": "Grug, the head of the Croods, is apprehensive of changes. However, when the family home of Croods is destroyed, Guy, an inventive human boy, aids them and alters Grug's perspective.",
+      "startDate": "2026-09-05T06:04:00",
+      "endDate": "2026-09-05T07:35:00",
+      "showTime": "06:04:00",
+      "endTime": "07:35:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85071454b01e7bd150cd0a92e747142c.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Maze Runner: The Death Cure",
+      "description": "Thomas and his friends attempt to break into The Last City, a stronghold controlled by the evil WCKD. Soon, they try to free a companion from being imprisoned while finding a cure for a rare disease.",
+      "startDate": "2026-09-05T07:35:00",
+      "endDate": "2026-09-05T10:06:00",
+      "showTime": "07:35:00",
+      "endTime": "10:06:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ab1f60c58019c439d2c22fce443a85b8.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Predator",
+      "description": "A team of commandos led by a Vietnam War veteran is sent to rescue hostages in a Central American jungle. They soon discover that they are being hunted by a deadly creature.",
+      "startDate": "2026-09-05T10:06:00",
+      "endDate": "2026-09-05T11:51:00",
+      "showTime": "10:06:00",
+      "endTime": "11:51:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0e34d4f6bf9c014eec5c8efbe35cedf.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Turning Red",
+      "description": "Facing a dilemma about her future, a thirteen-year-old girl's life becomes extremely exciting when she turns into a giant red panda.",
+      "startDate": "2026-09-05T11:51:00",
+      "endDate": "2026-09-05T13:28:00",
+      "showTime": "11:51:00",
+      "endTime": "13:28:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/432f81381e50e56d7222e0b1696714b5.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Avengers: Infinity War",
+      "description": "The Avengers and their allies set out to stop Thanos, an alien warlord, from acquiring the Infinity Stones as he plans to eliminate half of all life from the universe using them.",
+      "startDate": "2026-09-05T13:28:00",
+      "endDate": "2026-09-05T15:54:00",
+      "showTime": "13:28:00",
+      "endTime": "15:54:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ddfe5de4ce7612c00561f09df36f48d3.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Avengers: Endgame",
+      "description": "After Thanos, an intergalactic warlord, disintegrates half of all life in the universe, the Avengers rally together to reverse his act and defeat him once and for all.",
+      "startDate": "2026-09-05T15:54:00",
+      "endDate": "2026-09-05T18:45:00",
+      "showTime": "15:54:00",
+      "endTime": "18:45:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f34d71a281713f751691440f85cd8ce7.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "The A-Team",
+      "description": "A collective of Iraq War veterans seek to clear their name with the US military after being framed for criminal activity.",
+      "startDate": "2026-09-05T18:45:00",
+      "endDate": "2026-09-05T20:45:00",
+      "showTime": "18:45:00",
+      "endTime": "20:45:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3929f66135e831f169a719eefe8de5f6.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Baby's Day Out",
+      "description": "On a day like no other, the wealthy Cotwell couple's baby boy scrambles unaccompanied across the bustling cityscapes of Chicago, with three slow-witted kidnappers on his tail.",
+      "startDate": "2026-09-05T20:45:00",
+      "endDate": "2026-09-05T22:29:00",
+      "showTime": "20:45:00",
+      "endTime": "22:29:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a146c2917b3f85108179b27ac45b2e23.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Big Hero 6",
+      "description": "A young robotics mastermind teams up with his brother's creation, a robot, to seek justice for his untimely death. Subsequently, they work together to face an unexpected threat.",
+      "startDate": "2026-09-05T22:29:00",
+      "endDate": "2026-09-05T23:59:59",
+      "showTime": "22:29:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d3ad92b90d82e137027dd2be7cfc979.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Big Hero 6",
+      "description": "A young robotics mastermind teams up with his brother's creation, a robot, to seek justice for his untimely death. Subsequently, they work together to face an unexpected threat.",
+      "startDate": "2026-09-06T00:00:00",
+      "endDate": "2026-09-06T00:06:00",
+      "showTime": "00:00:00",
+      "endTime": "00:06:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d3ad92b90d82e137027dd2be7cfc979.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Die Hard",
+      "description": "John McClane, a police officer from New York City, tries to save a group of people who have been held hostage by terrorists during a Christmas Eve party.",
+      "startDate": "2026-09-06T00:06:00",
+      "endDate": "2026-09-06T02:12:00",
+      "showTime": "00:06:00",
+      "endTime": "02:12:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/835306999082eb5342325c4e541a5013.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Detective Di Skeleton General",
+      "description": "A village community is left reeling from the brutality of a series of mysterious killings, leading a renowned detective of the era to investigate in search of the truth.",
+      "startDate": "2026-09-06T02:12:00",
+      "endDate": "2026-09-06T06:00:00",
+      "showTime": "02:12:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4db8979a23cf9673dda25523cfc0da45.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
       "showName": "Movie",
       "description": "Bringing the best in television.",
-      "startDate": "2026-09-05T06:00:00",
-      "endDate": "2026-09-05T09:00:00",
+      "startDate": "2026-09-06T06:00:00",
+      "endDate": "2026-09-06T09:00:00",
       "showTime": "06:00:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
-      "serverDate": "2026-09-05",
+      "serverDate": "2026-09-06",
       "showName": "Movie",
       "description": "Bringing the best in television.",
-      "startDate": "2026-09-05T09:00:00",
-      "endDate": "2026-09-05T12:00:00",
+      "startDate": "2026-09-06T09:00:00",
+      "endDate": "2026-09-06T12:00:00",
       "showTime": "09:00:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-05T12:00:00",
-      "endDate": "2026-09-05T15:00:00",
-      "showTime": "12:00:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-05T15:00:00",
-      "endDate": "2026-09-05T18:00:00",
-      "showTime": "15:00:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-05T18:00:00",
-      "endDate": "2026-09-05T21:00:00",
-      "showTime": "18:00:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-05T21:00:00",
-      "endDate": "2026-09-05T23:59:59",
-      "showTime": "21:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-06T00:00:00",
-      "endDate": "2026-09-06T00:29:00",
-      "showTime": "00:00:00",
-      "endTime": "00:29:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-06T00:29:00",
-      "endDate": "2026-09-06T02:26:00",
-      "showTime": "00:29:00",
-      "endTime": "02:26:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-06T02:26:00",
-      "endDate": "2026-09-06T03:59:00",
-      "showTime": "02:26:00",
-      "endTime": "03:59:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Filler",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-06T03:59:00",
-      "endDate": "2026-09-06T04:21:00",
-      "showTime": "03:59:00",
-      "endTime": "04:21:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dfdca0c81d36c76aae93b5c0b0124d0f.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-06T04:21:00",
-      "endDate": "2026-09-06T05:43:00",
-      "showTime": "04:21:00",
-      "endTime": "05:43:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-06T05:43:00",
-      "endDate": "2026-09-06T07:03:00",
-      "showTime": "05:43:00",
-      "endTime": "07:03:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-06T07:03:00",
-      "endDate": "2026-09-06T08:31:00",
-      "showTime": "07:03:00",
-      "endTime": "08:31:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-06T08:31:00",
-      "endDate": "2026-09-06T10:12:00",
-      "showTime": "08:31:00",
-      "endTime": "10:12:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Father of the Bride",
-      "description": "George Banks, a family man, has a hard time dealing with the news of Annie's, his daughter's, engagement and dreads her forthcoming wedding.",
-      "startDate": "2026-09-06T10:12:00",
-      "endDate": "2026-09-06T12:00:00",
-      "showTime": "10:12:00",
-      "endTime": "12:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b81a49eeee30f4eb6ea7a4f7cb52ae65.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-06",
       "showName": "Movie",
       "description": "Bringing the best in television.",
       "startDate": "2026-09-06T12:00:00",
-      "endDate": "2026-09-06T13:38:00",
+      "endDate": "2026-09-06T15:00:00",
       "showTime": "12:00:00",
-      "endTime": "13:38:00",
+      "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-06",
       "showName": "Movie",
       "description": "Bringing the best in television.",
-      "startDate": "2026-09-06T13:38:00",
-      "endDate": "2026-09-06T15:38:00",
-      "showTime": "13:38:00",
-      "endTime": "15:38:00",
+      "startDate": "2026-09-06T15:00:00",
+      "endDate": "2026-09-06T18:00:00",
+      "showTime": "15:00:00",
+      "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-06",
       "showName": "Movie",
       "description": "Bringing the best in television.",
-      "startDate": "2026-09-06T15:38:00",
-      "endDate": "2026-09-06T17:46:00",
-      "showTime": "15:38:00",
-      "endTime": "17:46:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-06T17:46:00",
-      "endDate": "2026-09-06T19:16:00",
-      "showTime": "17:46:00",
-      "endTime": "19:16:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-06T19:16:00",
+      "startDate": "2026-09-06T18:00:00",
       "endDate": "2026-09-06T21:00:00",
-      "showTime": "19:16:00",
+      "showTime": "18:00:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-06",
       "showName": "Movie",
       "description": "Bringing the best in television.",
       "startDate": "2026-09-06T21:00:00",
-      "endDate": "2026-09-06T22:35:00",
-      "showTime": "21:00:00",
-      "endTime": "22:35:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-06T22:35:00",
       "endDate": "2026-09-06T23:59:59",
-      "showTime": "22:35:00",
+      "showTime": "21:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -610,7 +577,7 @@
       "showTime": "00:00:00",
       "endTime": "00:52:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -621,7 +588,7 @@
       "showTime": "00:52:00",
       "endTime": "02:36:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -643,7 +610,7 @@
       "showTime": "02:38:00",
       "endTime": "03:59:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -665,7 +632,7 @@
       "showTime": "04:03:00",
       "endTime": "05:47:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -676,7 +643,7 @@
       "showTime": "05:47:00",
       "endTime": "06:58:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -687,7 +654,7 @@
       "showTime": "06:58:00",
       "endTime": "08:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -698,7 +665,7 @@
       "showTime": "08:50:00",
       "endTime": "10:53:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -709,7 +676,7 @@
       "showTime": "10:53:00",
       "endTime": "14:04:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -720,7 +687,7 @@
       "showTime": "14:04:00",
       "endTime": "16:06:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -731,7 +698,7 @@
       "showTime": "16:06:00",
       "endTime": "17:28:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -742,7 +709,7 @@
       "showTime": "17:28:00",
       "endTime": "18:55:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -753,7 +720,7 @@
       "showTime": "18:55:00",
       "endTime": "20:45:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -764,7 +731,7 @@
       "showTime": "20:45:00",
       "endTime": "22:39:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -775,7 +742,7 @@
       "showTime": "22:39:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-08",

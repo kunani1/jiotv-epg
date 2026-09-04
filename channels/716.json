@@ -1197,11 +1197,22 @@
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Roshni",
+      "showName": "De-Linking Caption for Terrestrial Service",
       "description": "Bringing the best in television.",
       "startDate": "2026-09-05T00:00:00",
-      "endDate": "2026-09-05T00:30:00",
+      "endDate": "2026-09-05T00:01:00",
       "showTime": "00:00:00",
+      "endTime": "00:01:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3f1a7b0539b2fdf864b08b7e54263f08.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Roshni",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-05T00:01:00",
+      "endDate": "2026-09-05T00:30:00",
+      "showTime": "00:01:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d9a334b75fa38aa3585b59bd88c808f.jpg"
@@ -1266,132 +1277,99 @@
       "showName": "Aarti Shri Kashi Vishwanath Temple",
       "description": "Aarti Shri Kashi Vishwanath Temple",
       "startDate": "2026-09-05T02:30:00",
-      "endDate": "2026-09-05T03:00:00",
+      "endDate": "2026-09-05T06:00:00",
       "showTime": "02:30:00",
-      "endTime": "03:00:00",
+      "endTime": "06:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "She Tre Nov",
+      "showName": "Roshni",
       "description": "Bringing the best in television.",
-      "startDate": "2026-09-05T03:00:00",
-      "endDate": "2026-09-05T03:30:00",
-      "showTime": "03:00:00",
-      "endTime": "03:30:00",
+      "startDate": "2026-09-05T06:00:00",
+      "endDate": "2026-09-05T06:28:00",
+      "showTime": "06:00:00",
+      "endTime": "06:28:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/910d8f487e208ec6d39e841d2f425f5e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d9a334b75fa38aa3585b59bd88c808f.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Sports Programme",
+      "showName": "Promo Of DD Kashir",
       "description": "Bringing the best in television.",
-      "startDate": "2026-09-05T03:30:00",
-      "endDate": "2026-09-05T04:00:00",
-      "showTime": "03:30:00",
-      "endTime": "04:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5933375957e3bf09517a4cd005f5213b.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "News Kashmiri / Urdu",
-      "description": "An anchor reports the latest social, political and economic news stories and updates from the state of Jammu and Kashmir.",
-      "startDate": "2026-09-05T04:00:00",
-      "endDate": "2026-09-05T04:12:00",
-      "showTime": "04:00:00",
-      "endTime": "04:12:00",
+      "startDate": "2026-09-05T06:28:00",
+      "endDate": "2026-09-05T06:29:00",
+      "showTime": "06:28:00",
+      "endTime": "06:29:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/48c804997e47a3ecfdab4ddd2c02ebd6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/297dee5606af809dc1102bd271a9dfbf.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Sadai -E- Saaz",
-      "description": "A prominent singer sings some of the most popular folk songs local to the state of Kashmir, along with his fellow musicians.",
-      "startDate": "2026-09-05T04:12:00",
-      "endDate": "2026-09-05T04:30:00",
-      "showTime": "04:12:00",
-      "endTime": "04:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ea13b5e908cb628e2a98a69667144d8f.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "Ek Mulaqat",
-      "description": "The host engages in conversation with eminent personalities, who talk about their life journey, success and achievements.",
-      "startDate": "2026-09-05T04:30:00",
-      "endDate": "2026-09-05T05:00:00",
-      "showTime": "04:30:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7922298a14111c96295f43b2a32e8599.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "Daike Prain",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-05T05:00:00",
-      "endDate": "2026-09-05T05:30:00",
-      "showTime": "05:00:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1b7dd03fa2d75790a21cea78501782b4.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "Takaza",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-05T05:30:00",
+      "showName": "Caption Over To DD News",
+      "description": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the nation.",
+      "startDate": "2026-09-05T06:29:00",
       "endDate": "2026-09-05T06:30:00",
-      "showTime": "05:30:00",
+      "showTime": "06:29:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4fc8770a89f6ddb3eb19bd6a295fecde.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "Krishi Darshan",
-      "description": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers.",
-      "startDate": "2026-09-05T06:30:00",
-      "endDate": "2026-09-05T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9605eed321e00470ae1234bdc1992f0d.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "Song",
-      "description": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.",
-      "startDate": "2026-09-05T07:00:00",
-      "endDate": "2026-09-05T07:15:00",
-      "showTime": "07:00:00",
-      "endTime": "07:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f13bf29cd8a7465591cf4daa824d984.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/83b1580c6fb269fa069157fcf097672e.jpg"
     },
     {
       "serverDate": "2026-09-05",
       "showName": "Sanskrit News",
       "description": "The host presents the latest updates pertaining to various important current affairs, religious and cultural events in Sanskrit.",
-      "startDate": "2026-09-05T07:15:00",
-      "endDate": "2026-09-05T07:30:00",
-      "showTime": "07:15:00",
-      "endTime": "07:30:00",
+      "startDate": "2026-09-05T06:30:00",
+      "endDate": "2026-09-05T06:45:00",
+      "showTime": "06:30:00",
+      "endTime": "06:45:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5395f5fca08b898ce8d04ef2a5d0cba3.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Yeh Sein Kayinat",
-      "description": "The presenter reports the latest social, political and economic news stories and updates from the state of Jammu and Kashmir.",
+      "showName": "Mehfil",
+      "description": "Mehfil",
+      "startDate": "2026-09-05T06:45:00",
+      "endDate": "2026-09-05T07:09:00",
+      "showTime": "06:45:00",
+      "endTime": "07:09:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d2c92ab2e7105781bd74ff533754bfc8.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Husn-E-Kashmir",
+      "description": "The host journeys through Kashmir, showcasing its scenic beauty and highlighting the importance of various locations within the region.",
+      "startDate": "2026-09-05T07:09:00",
+      "endDate": "2026-09-05T07:30:00",
+      "showTime": "07:09:00",
+      "endTime": "07:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/faad5742357b96969efc69d597f41dc1.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Jahan Been",
+      "description": "The host pays a visit to various shopping markets, exploring the latest trends and products and interacting with customers and sellers to get their perspective.",
       "startDate": "2026-09-05T07:30:00",
-      "endDate": "2026-09-05T08:00:00",
+      "endDate": "2026-09-05T07:58:00",
       "showTime": "07:30:00",
+      "endTime": "07:58:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f23965756054ff855fe37a04f1b6b3d7.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Programme Highlights",
+      "description": "A compilation of information about the major programmes scheduled to air throughout the day that provides the latest updates from the television world.",
+      "startDate": "2026-09-05T07:58:00",
+      "endDate": "2026-09-05T08:00:00",
+      "showTime": "07:58:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9178fafebeb992108548d914e6520a97.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f7cb4980aa92c2d5ad20514a5bdf2f8.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -1417,25 +1395,25 @@
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Folk Music",
-      "description": "A compilation of popular folk songs from different parts of India, performed by various artists and musicians, is played back-to-back.",
+      "showName": "Khel Aur Khiladi",
+      "description": "The host presents the latest and important news and updates on the various sporting events held in the Indian state of Uttar Pradesh.",
       "startDate": "2026-09-05T09:10:00",
-      "endDate": "2026-09-05T09:30:00",
+      "endDate": "2026-09-05T09:40:00",
       "showTime": "09:10:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77149c68b643452a9ce1f15a9c496969.jpg"
+      "endTime": "09:40:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7de04eb954156a132e594ba4499f7dac.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Daike Prain",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-05T09:30:00",
+      "showName": "Sadai -E- Saaz",
+      "description": "Talented singers and musical artists showcase their skills as they perform a variety of folk songs and traditional music to enthrall the audience.",
+      "startDate": "2026-09-05T09:40:00",
       "endDate": "2026-09-05T10:00:00",
-      "showTime": "09:30:00",
+      "showTime": "09:40:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1b7dd03fa2d75790a21cea78501782b4.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd3149a2648d9f50daf7a6f6def8ee4a.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -1450,14 +1428,14 @@
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Ek Mulaqat",
-      "description": "The host engages in conversation with eminent personalities, who talk about their life journey, success and achievements.",
+      "showName": "DD Kashir",
+      "description": "DD Kashir",
       "startDate": "2026-09-05T10:30:00",
       "endDate": "2026-09-05T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7922298a14111c96295f43b2a32e8599.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fe38ee8d9ba520f3097381423583bf0e.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -1472,47 +1450,47 @@
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Folk Lore of Kashmir",
-      "description": "Take a look at the folklore of Kashmir, which forms an integral part of the culture and history of this region in India.",
+      "showName": "Light Music",
+      "description": "A comprehensive collection of songs that are light and soothing in style and tone in order to calm and relax discerning listeners.",
       "startDate": "2026-09-05T11:10:00",
-      "endDate": "2026-09-05T11:35:00",
+      "endDate": "2026-09-05T11:30:00",
       "showTime": "11:10:00",
-      "endTime": "11:35:00",
+      "endTime": "11:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5067ad733bbc4ad69f8a230f4503c13c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f2453f3fd846a500505a4976b312d77b.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Sadai -E- Saaz",
-      "description": "A prominent singer sings some of the most popular folk songs local to the state of Kashmir, along with his fellow musicians.",
-      "startDate": "2026-09-05T11:35:00",
+      "showName": "Tashooq",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-05T11:30:00",
       "endDate": "2026-09-05T12:00:00",
-      "showTime": "11:35:00",
+      "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ea13b5e908cb628e2a98a69667144d8f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e51cd00459a238d30a98e85ed8d78ddb.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "She Tre Nov",
-      "description": "Bringing the best in television.",
+      "showName": "Aarti From Shri Somnath Temple",
+      "description": "Aarti From Shri Somnath Temple",
       "startDate": "2026-09-05T12:00:00",
       "endDate": "2026-09-05T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/910d8f487e208ec6d39e841d2f425f5e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7bd0040375b1549cd2112610f6dfe50b.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Lole Mizrab",
-      "description": "Talented singers and instrumentalists gather to deliver renditions featuring melodious and well-arranged musical compositions.",
+      "showName": "Jead-E-Zaal",
+      "description": "Jead-E-Zaal",
       "startDate": "2026-09-05T12:30:00",
       "endDate": "2026-09-05T13:00:00",
       "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26b10fe8dc985801e7245e0403ae7b88.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fde36f6b3676c6dfb2f6efdaf9f15e48.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -1527,58 +1505,58 @@
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Neer Posh",
-      "description": "The narrator sheds light on the memorable works of renowned poets and writers and their contribution to the literature of Kashmir.",
+      "showName": "Sadai -E- Saaz",
+      "description": "Talented singers and musical artists showcase their skills as they perform a variety of folk songs and traditional music to enthrall the audience.",
       "startDate": "2026-09-05T13:10:00",
       "endDate": "2026-09-05T13:30:00",
       "showTime": "13:10:00",
       "endTime": "13:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5764e5de3d5b3334d937fdd6e2add485.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd3149a2648d9f50daf7a6f6def8ee4a.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Takaza",
+      "showName": "Mera Kasoor Kya Hai",
       "description": "Bringing the best in television.",
       "startDate": "2026-09-05T13:30:00",
       "endDate": "2026-09-05T14:00:00",
       "showTime": "13:30:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4fc8770a89f6ddb3eb19bd6a295fecde.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c6bbf5ddaa61e8300f11ef5cca119b13.jpg"
     },
     {
       "serverDate": "2026-09-05",
       "showName": "Kashmirnama",
       "description": "The host provides a detailed report on a variety of important developments taking place across the Indian state of Jammu and Kashmir.",
       "startDate": "2026-09-05T14:00:00",
-      "endDate": "2026-09-05T14:30:00",
+      "endDate": "2026-09-05T14:29:00",
       "showTime": "14:00:00",
-      "endTime": "14:30:00",
+      "endTime": "14:29:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/396583b610af47110cabcfae13559edf.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Ladakhi News",
-      "description": "The host presents some of the latest news stories, updates and developments from the region of Ladakh, a union territory in India.",
-      "startDate": "2026-09-05T14:30:00",
-      "endDate": "2026-09-05T14:35:00",
-      "showTime": "14:30:00",
-      "endTime": "14:35:00",
+      "showName": "Caption Over To DDK Leh",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-05T14:29:00",
+      "endDate": "2026-09-05T14:30:00",
+      "showTime": "14:29:00",
+      "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee7eb7fbec9d8b56ef0b0e27cc342d4e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b92f694ae2232e8eca862dddd46489f8.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Lugar Gi Gyamtso",
-      "description": "The host presents a comprehensive compilation of some of the most melodious songs performed by renowned artists and musicians.",
-      "startDate": "2026-09-05T14:35:00",
+      "showName": "Ladakhi Transmission",
+      "description": "The host sheds light on Ladakh's local cultural scene and development initiatives, while also providing updates on the region's current affairs.",
+      "startDate": "2026-09-05T14:30:00",
       "endDate": "2026-09-05T15:00:00",
-      "showTime": "14:35:00",
+      "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1db31d178f1744f4e12dffcf2e4ec045.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e29a169e0dde15fc456f49a01823808.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -1593,36 +1571,25 @@
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Folk Music",
-      "description": "A compilation of popular folk songs from different parts of India, performed by various artists and musicians, is played back-to-back.",
+      "showName": "Lokrang",
+      "description": "Talented artists from different regions of India showcase their skills in a variety of engaging folk performances and other cultural expressions.",
       "startDate": "2026-09-05T15:10:00",
-      "endDate": "2026-09-05T15:35:00",
-      "showTime": "15:10:00",
-      "endTime": "15:35:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77149c68b643452a9ce1f15a9c496969.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "Chiraag",
-      "description": "A young orphaned girl works and eventually gets hired in the royal palace to become the first female physician of the king.",
-      "startDate": "2026-09-05T15:35:00",
       "endDate": "2026-09-05T16:00:00",
-      "showTime": "15:35:00",
+      "showTime": "15:10:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a967a874f7c23a5e57a687ede7426f94.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0fba9ffa6f3e1eaf67e7f9b41fa81f56.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Virasat Kay Satoon",
+      "showName": "Girti Deewaren",
       "description": "Bringing the best in television.",
       "startDate": "2026-09-05T16:00:00",
       "endDate": "2026-09-05T16:30:00",
       "showTime": "16:00:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cb28006175b8298a920f48c4d21efa35.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9383b9ea41a73e0252c82ece6e6da60f.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -1637,58 +1604,80 @@
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Aabshar",
-      "description": "Esteemed singers and instrumentalists present a variety of soul-stirring compositions, showcasing their exceptional abilities and artistry.",
+      "showName": "Sadai -E- Saaz",
+      "description": "Talented singers and musical artists showcase their skills as they perform a variety of folk songs and traditional music to enthrall the audience.",
       "startDate": "2026-09-05T16:40:00",
       "endDate": "2026-09-05T17:00:00",
       "showTime": "16:40:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/641ad9b62cca1c6ed8d4a96833998c42.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd3149a2648d9f50daf7a6f6def8ee4a.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Funkar",
-      "description": "Bringing the best in television.",
+      "showName": "Sohni Dharti",
+      "description": "The host invites experts from different backgrounds to deliberate on various important topics and offer their unique insights.",
       "startDate": "2026-09-05T17:00:00",
       "endDate": "2026-09-05T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee659f3ccfa5f0c744e7d9f663db14ff.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28aee39bf13b94031f3b57e006cc877d.jpg"
     },
     {
       "serverDate": "2026-09-05",
       "showName": "Krishi Darshan",
       "description": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers.",
       "startDate": "2026-09-05T17:30:00",
-      "endDate": "2026-09-05T18:00:00",
+      "endDate": "2026-09-05T17:59:00",
       "showTime": "17:30:00",
-      "endTime": "18:00:00",
+      "endTime": "17:59:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9605eed321e00470ae1234bdc1992f0d.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Dogri Programme / Dogri News",
-      "description": "Talented artists perform folk dances and songs; the host delivers the latest updates on various social, political and economic issues.",
-      "startDate": "2026-09-05T18:00:00",
-      "endDate": "2026-09-05T18:30:00",
-      "showTime": "18:00:00",
-      "endTime": "18:30:00",
+      "showName": "Caption Over To Ddk Jammu",
+      "description": "The latest updates are shared regarding ongoing matters of socio-economic, political and cultural concerns transpiring in regions of Jammu and Kashmir.",
+      "startDate": "2026-09-05T17:59:00",
+      "endDate": "2026-09-05T18:00:00",
+      "showTime": "17:59:00",
+      "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8c63be5a0e730adcb085d7ba5fe7c13.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d85e7e439d7c3b3442d22e70296d183.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Ladakhi Programme / Ladakhi News",
-      "description": "The host holds insightful conversations with various experts; the host presents the latest news developments from Ladakh.",
+      "showName": "Dogri Transmission",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-05T18:00:00",
+      "endDate": "2026-09-05T18:29:00",
+      "showTime": "18:00:00",
+      "endTime": "18:29:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9d73a4338e18c7efcf094e931d43090.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Caption Over To DDK Leh",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-05T18:29:00",
+      "endDate": "2026-09-05T18:30:00",
+      "showTime": "18:29:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b92f694ae2232e8eca862dddd46489f8.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Ladakhi Transmission",
+      "description": "The host sheds light on Ladakh's local cultural scene and development initiatives, while also providing updates on the region's current affairs.",
       "startDate": "2026-09-05T18:30:00",
       "endDate": "2026-09-05T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fcf102d17b06ee8f6b4db1d5c1bbd492.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e29a169e0dde15fc456f49a01823808.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -1703,58 +1692,69 @@
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Aisi Te Banawaw Makana",
-      "description": "Bringing the best in television.",
+      "showName": "Oesh Te Aah",
+      "description": "Oesh Te Aah",
       "startDate": "2026-09-05T19:30:00",
-      "endDate": "2026-09-05T20:00:00",
+      "endDate": "2026-09-05T19:58:00",
       "showTime": "19:30:00",
-      "endTime": "20:00:00",
+      "endTime": "19:58:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/498450e7b00e1d64fc18984cc033aa10.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10ce9b5abcbf4a51366f9458ecba00c1.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Folk Music",
-      "description": "A compilation of popular folk songs from different parts of India, performed by various artists and musicians, is played back-to-back.",
+      "showName": "Programme Highlights",
+      "description": "A compilation of information about the major programmes scheduled to air throughout the day that provides the latest updates from the television world.",
+      "startDate": "2026-09-05T19:58:00",
+      "endDate": "2026-09-05T20:00:00",
+      "showTime": "19:58:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f7cb4980aa92c2d5ad20514a5bdf2f8.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "Pakwan",
+      "description": "Pakwan",
       "startDate": "2026-09-05T20:00:00",
       "endDate": "2026-09-05T20:30:00",
       "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77149c68b643452a9ce1f15a9c496969.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58075651568da79b97fdc81e6aa0cc7c.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Vaartavali",
-      "description": "The host presents the latest news, updates and developments on areas like politics, socio-economic issues and current affairs from across the nation.",
+      "showName": "Salaam Kashmir",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-05T20:30:00",
       "endDate": "2026-09-05T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7cb8f4e89371513e6f9055798fd2f5cd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/071b03f807da6bc82ecbc5fef297d234.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Sakoon",
-      "description": "An expert on mental-health issues gives valuable tips and advice on how to keep stress at bay during the COVID-19 pandemic.",
+      "showName": "Safar Fark Se Fakra Tak",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-05T21:00:00",
       "endDate": "2026-09-05T21:30:00",
       "showTime": "21:00:00",
       "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4f57ba4345cae4c45cfa1d4ba3ff0604.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b4a01f33e3a43fadcb8996ad709505c6.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Black & White",
+      "showName": "Noor",
       "description": "Bringing the best in television.",
       "startDate": "2026-09-05T21:30:00",
       "endDate": "2026-09-05T22:00:00",
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ce7a03ec3b62fd16917d9524a6bc3bc5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a51db70d7c3bd90393431ecad5fa8ca3.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -1769,245 +1769,223 @@
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Sadai -E- Saaz",
-      "description": "A prominent singer sings some of the most popular folk songs local to the state of Kashmir, along with his fellow musicians.",
+      "showName": "Programme Highlights",
+      "description": "A compilation of information about the major programmes scheduled to air throughout the day that provides the latest updates from the television world.",
       "startDate": "2026-09-05T22:10:00",
       "endDate": "2026-09-05T22:30:00",
       "showTime": "22:10:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ea13b5e908cb628e2a98a69667144d8f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f7cb4980aa92c2d5ad20514a5bdf2f8.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Ek Mulaqat",
-      "description": "The host engages in conversation with eminent personalities, who talk about their life journey, success and achievements.",
+      "showName": "Sehat Nama",
+      "description": "Sehat Nama",
       "startDate": "2026-09-05T22:30:00",
       "endDate": "2026-09-05T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7922298a14111c96295f43b2a32e8599.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d8c17f82298d7ddef4303c1034eb321.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Krooth Safar",
-      "description": "Bringing the best in television.",
+      "showName": "Puner",
+      "description": "The host interacts with a group of poets that recite their poems, songs, ghazals and shayaris to entertain the viewers.",
       "startDate": "2026-09-05T23:00:00",
       "endDate": "2026-09-05T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/094f1e97d02824edc05039066d760a3b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4f32a330b531acabed9c7c1f694a1fa9.jpg"
     },
     {
       "serverDate": "2026-09-05",
-      "showName": "Ek Paheli",
+      "showName": "Kashmkash",
       "description": "Bringing the best in television.",
       "startDate": "2026-09-05T23:30:00",
       "endDate": "2026-09-05T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/147143d91c6f70d671cdbe94fe656316.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dbdab380313deb192de15b44fa71c232.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Ek Paheli",
+      "showName": "De-Linking Caption for Terrestrial Service",
       "description": "Bringing the best in television.",
       "startDate": "2026-09-06T00:00:00",
-      "endDate": "2026-09-06T00:30:00",
+      "endDate": "2026-09-06T00:01:00",
       "showTime": "00:00:00",
-      "endTime": "00:30:00",
+      "endTime": "00:01:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/147143d91c6f70d671cdbe94fe656316.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3f1a7b0539b2fdf864b08b7e54263f08.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Krishi Darshan",
-      "description": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers.",
+      "showName": "Roshni",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-06T00:01:00",
+      "endDate": "2026-09-06T00:30:00",
+      "showTime": "00:01:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d9a334b75fa38aa3585b59bd88c808f.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Mehfil",
+      "description": "Mehfil",
       "startDate": "2026-09-06T00:30:00",
       "endDate": "2026-09-06T01:00:00",
       "showTime": "00:30:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9605eed321e00470ae1234bdc1992f0d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d2c92ab2e7105781bd74ff533754bfc8.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Song",
-      "description": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.",
+      "showName": "Husn-E-Kashmir",
+      "description": "The host journeys through Kashmir, showcasing its scenic beauty and highlighting the importance of various locations within the region.",
       "startDate": "2026-09-06T01:00:00",
-      "endDate": "2026-09-06T01:15:00",
-      "showTime": "01:00:00",
-      "endTime": "01:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f13bf29cd8a7465591cf4daa824d984.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Sanskrit News",
-      "description": "The host presents the latest updates pertaining to various important current affairs, religious and cultural events in Sanskrit.",
-      "startDate": "2026-09-06T01:15:00",
       "endDate": "2026-09-06T01:30:00",
-      "showTime": "01:15:00",
+      "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5395f5fca08b898ce8d04ef2a5d0cba3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/faad5742357b96969efc69d597f41dc1.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Yeh Sein Kayinat",
-      "description": "The presenter reports the latest social, political and economic news stories and updates from the state of Jammu and Kashmir.",
+      "showName": "Sadai -E- Saaz",
+      "description": "Talented singers and musical artists showcase their skills as they perform a variety of folk songs and traditional music to enthrall the audience.",
       "startDate": "2026-09-06T01:30:00",
       "endDate": "2026-09-06T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9178fafebeb992108548d914e6520a97.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd3149a2648d9f50daf7a6f6def8ee4a.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Folk Music",
-      "description": "A compilation of popular folk songs from different parts of India, performed by various artists and musicians, is played back-to-back.",
+      "showName": "Dateline Kashmir",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events in Kashmir.",
       "startDate": "2026-09-06T02:00:00",
-      "endDate": "2026-09-06T02:30:00",
+      "endDate": "2026-09-06T02:29:00",
       "showTime": "02:00:00",
+      "endTime": "02:29:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d288fb0ad6f7a30f4bd63b32857bf4c5.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Linking Caption for Terrestrial Service",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-06T02:29:00",
+      "endDate": "2026-09-06T02:30:00",
+      "showTime": "02:29:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77149c68b643452a9ce1f15a9c496969.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/47224a8f5bd2da21347976f7ea5bdcd0.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Vaartavali",
-      "description": "The host presents the latest news, updates and developments on areas like politics, socio-economic issues and current affairs from across the nation.",
+      "showName": "Aarti Shri Kashi Vishwanath Temple",
+      "description": "Aarti Shri Kashi Vishwanath Temple",
       "startDate": "2026-09-06T02:30:00",
-      "endDate": "2026-09-06T03:00:00",
+      "endDate": "2026-09-06T06:00:00",
       "showTime": "02:30:00",
-      "endTime": "03:00:00",
+      "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7cb8f4e89371513e6f9055798fd2f5cd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Sakoon",
-      "description": "An expert on mental-health issues gives valuable tips and advice on how to keep stress at bay during the COVID-19 pandemic.",
-      "startDate": "2026-09-06T03:00:00",
-      "endDate": "2026-09-06T03:30:00",
-      "showTime": "03:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4f57ba4345cae4c45cfa1d4ba3ff0604.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Black & White",
+      "showName": "Roshni",
       "description": "Bringing the best in television.",
-      "startDate": "2026-09-06T03:30:00",
-      "endDate": "2026-09-06T04:00:00",
-      "showTime": "03:30:00",
-      "endTime": "04:00:00",
+      "startDate": "2026-09-06T06:00:00",
+      "endDate": "2026-09-06T06:28:00",
+      "showTime": "06:00:00",
+      "endTime": "06:28:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ce7a03ec3b62fd16917d9524a6bc3bc5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d9a334b75fa38aa3585b59bd88c808f.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "News Kashmiri / Urdu",
-      "description": "An anchor reports the latest social, political and economic news stories and updates from the state of Jammu and Kashmir.",
-      "startDate": "2026-09-06T04:00:00",
-      "endDate": "2026-09-06T04:10:00",
-      "showTime": "04:00:00",
-      "endTime": "04:10:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/48c804997e47a3ecfdab4ddd2c02ebd6.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Sadai -E- Saaz",
-      "description": "A prominent singer sings some of the most popular folk songs local to the state of Kashmir, along with his fellow musicians.",
-      "startDate": "2026-09-06T04:10:00",
-      "endDate": "2026-09-06T04:30:00",
-      "showTime": "04:10:00",
-      "endTime": "04:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ea13b5e908cb628e2a98a69667144d8f.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Ek Mulaqat",
-      "description": "The host engages in conversation with eminent personalities, who talk about their life journey, success and achievements.",
-      "startDate": "2026-09-06T04:30:00",
-      "endDate": "2026-09-06T05:00:00",
-      "showTime": "04:30:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7922298a14111c96295f43b2a32e8599.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Krooth Safar",
+      "showName": "Promo Of DD Kashir",
       "description": "Bringing the best in television.",
-      "startDate": "2026-09-06T05:00:00",
-      "endDate": "2026-09-06T05:30:00",
-      "showTime": "05:00:00",
-      "endTime": "05:30:00",
+      "startDate": "2026-09-06T06:28:00",
+      "endDate": "2026-09-06T06:29:00",
+      "showTime": "06:28:00",
+      "endTime": "06:29:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/094f1e97d02824edc05039066d760a3b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/297dee5606af809dc1102bd271a9dfbf.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Ek Paheli",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-06T05:30:00",
+      "showName": "Caption Over To DD News",
+      "description": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the nation.",
+      "startDate": "2026-09-06T06:29:00",
       "endDate": "2026-09-06T06:30:00",
-      "showTime": "05:30:00",
+      "showTime": "06:29:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/147143d91c6f70d671cdbe94fe656316.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Krishi Darshan",
-      "description": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers.",
-      "startDate": "2026-09-06T06:30:00",
-      "endDate": "2026-09-06T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9605eed321e00470ae1234bdc1992f0d.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Song",
-      "description": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.",
-      "startDate": "2026-09-06T07:00:00",
-      "endDate": "2026-09-06T07:15:00",
-      "showTime": "07:00:00",
-      "endTime": "07:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f13bf29cd8a7465591cf4daa824d984.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/83b1580c6fb269fa069157fcf097672e.jpg"
     },
     {
       "serverDate": "2026-09-06",
       "showName": "Sanskrit News",
       "description": "The host presents the latest updates pertaining to various important current affairs, religious and cultural events in Sanskrit.",
-      "startDate": "2026-09-06T07:15:00",
-      "endDate": "2026-09-06T07:30:00",
-      "showTime": "07:15:00",
-      "endTime": "07:30:00",
+      "startDate": "2026-09-06T06:30:00",
+      "endDate": "2026-09-06T06:45:00",
+      "showTime": "06:30:00",
+      "endTime": "06:45:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5395f5fca08b898ce8d04ef2a5d0cba3.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Zam Zam-E-Naat",
-      "description": "Singers take the stage to perform devotional songs sung and composed by talented artists, invoking the spirit of devotion.",
+      "showName": "Krishi Darshan",
+      "description": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers.",
+      "startDate": "2026-09-06T06:45:00",
+      "endDate": "2026-09-06T07:15:00",
+      "showTime": "06:45:00",
+      "endTime": "07:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9605eed321e00470ae1234bdc1992f0d.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Mehfil",
+      "description": "Mehfil",
+      "startDate": "2026-09-06T07:15:00",
+      "endDate": "2026-09-06T07:30:00",
+      "showTime": "07:15:00",
+      "endTime": "07:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d2c92ab2e7105781bd74ff533754bfc8.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Vaartavali",
+      "description": "The host presents the latest news, updates and developments on areas like politics, socio-economic issues and current affairs from across the nation.",
       "startDate": "2026-09-06T07:30:00",
-      "endDate": "2026-09-06T08:00:00",
+      "endDate": "2026-09-06T07:58:00",
       "showTime": "07:30:00",
+      "endTime": "07:58:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7cb8f4e89371513e6f9055798fd2f5cd.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Programme Highlights",
+      "description": "A compilation of information about the major programmes scheduled to air throughout the day that provides the latest updates from the television world.",
+      "startDate": "2026-09-06T07:58:00",
+      "endDate": "2026-09-06T08:00:00",
+      "showTime": "07:58:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/14ecce2e1d12d9aad6fbd127159b8d2e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f7cb4980aa92c2d5ad20514a5bdf2f8.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -2033,25 +2011,25 @@
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Folk Music",
-      "description": "A compilation of popular folk songs from different parts of India, performed by various artists and musicians, is played back-to-back.",
+      "showName": "Pakwaan",
+      "description": "The chef prepares a variety of delicacies and shares their recipes in detail along with the essential tips and tricks to achieve perfection.",
       "startDate": "2026-09-06T09:10:00",
-      "endDate": "2026-09-06T09:30:00",
+      "endDate": "2026-09-06T09:40:00",
       "showTime": "09:10:00",
-      "endTime": "09:30:00",
+      "endTime": "09:40:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77149c68b643452a9ce1f15a9c496969.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/34c5814fb6f1a73a1b3f01c46d7b26b2.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Black & White",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-06T09:30:00",
+      "showName": "Sadai -E- Saaz",
+      "description": "Talented singers and musical artists showcase their skills as they perform a variety of folk songs and traditional music to enthrall the audience.",
+      "startDate": "2026-09-06T09:40:00",
       "endDate": "2026-09-06T10:00:00",
-      "showTime": "09:30:00",
+      "showTime": "09:40:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ce7a03ec3b62fd16917d9524a6bc3bc5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd3149a2648d9f50daf7a6f6def8ee4a.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -2066,58 +2044,69 @@
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Ek Mulaqat",
-      "description": "The host engages in conversation with eminent personalities, who talk about their life journey, success and achievements.",
+      "showName": "Lok Geet",
+      "description": "Talented musicians and singers perform a variety of popular folk songs that highlight a region's artistic and cultural traditions.",
       "startDate": "2026-09-06T10:30:00",
       "endDate": "2026-09-06T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7922298a14111c96295f43b2a32e8599.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/14446974c0eedbbdb59b163c9fa87b8d.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Mann Ki Baat",
-      "description": "The prime minister of India addresses the citizens and speaks to them about various development initiatives and solutions undertaken by the Government of India.",
+      "showName": "Azadi Ka Amrit Mahotsav",
+      "description": "The host sheds light on India and its cultural diversity, known for countless legends and traditions, while highlighting the country's advancements in various fields.",
       "startDate": "2026-09-06T11:00:00",
-      "endDate": "2026-09-06T11:30:00",
+      "endDate": "2026-09-06T11:10:00",
       "showTime": "11:00:00",
+      "endTime": "11:10:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/71be0311a4b6a35cbac0f24bfd0a2e93.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Azadi Ka Amrit Mahotsav",
+      "description": "The host sheds light on India and its cultural diversity, known for countless legends and traditions, while highlighting the country's advancements in various fields.",
+      "startDate": "2026-09-06T11:10:00",
+      "endDate": "2026-09-06T11:30:00",
+      "showTime": "11:10:00",
       "endTime": "11:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/edd1518997e7e47f68785be1a0a43142.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/71be0311a4b6a35cbac0f24bfd0a2e93.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Mann Ki Baat",
-      "description": "The prime minister of India addresses the citizens and speaks to them about various development initiatives and solutions undertaken by the Government of India.",
+      "showName": "Girti Deewaren",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-06T11:30:00",
       "endDate": "2026-09-06T12:00:00",
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/edd1518997e7e47f68785be1a0a43142.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9383b9ea41a73e0252c82ece6e6da60f.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Krooth Safar",
-      "description": "Bringing the best in television.",
+      "showName": "Aarti From Shri Somnath Temple",
+      "description": "Aarti From Shri Somnath Temple",
       "startDate": "2026-09-06T12:00:00",
       "endDate": "2026-09-06T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/094f1e97d02824edc05039066d760a3b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7bd0040375b1549cd2112610f6dfe50b.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Ek Paheli",
-      "description": "Bringing the best in television.",
+      "showName": "Jeewan Moalayoon Ki Pathshala",
+      "description": "The host illuminates dramatised re-enactments of stories centred on various circumstances involving moral ambiguity and ethics.",
       "startDate": "2026-09-06T12:30:00",
       "endDate": "2026-09-06T13:00:00",
       "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/147143d91c6f70d671cdbe94fe656316.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9abac97f0c365cb1e291a03a6a7d675c.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -2132,58 +2121,58 @@
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Athwas",
-      "description": "A comprehensive compilation of some of the most popular soundtracks produced and composed by various famous artists is played back-to-back.",
+      "showName": "Sadai -E- Saaz",
+      "description": "Talented singers and musical artists showcase their skills as they perform a variety of folk songs and traditional music to enthrall the audience.",
       "startDate": "2026-09-06T13:10:00",
       "endDate": "2026-09-06T13:30:00",
       "showTime": "13:10:00",
       "endTime": "13:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/681adc7e0457b5d8d1d3b777f1672008.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd3149a2648d9f50daf7a6f6def8ee4a.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Raj Tarangini",
-      "description": "The film-maker chronicles the legend and historical importance of the north-western region of the Indian subcontinent, especially Kashmir.",
+      "showName": "Salaam Kashmir",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-06T13:30:00",
       "endDate": "2026-09-06T14:00:00",
       "showTime": "13:30:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/31f4cb238d75b279edf92f60a9349e96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/071b03f807da6bc82ecbc5fef297d234.jpg"
     },
     {
       "serverDate": "2026-09-06",
       "showName": "Sarhad Ke Do Rukh",
       "description": "The host presents the latest new stories, updates and developments pertaining to the field of economics, politics and sports.",
       "startDate": "2026-09-06T14:00:00",
-      "endDate": "2026-09-06T14:30:00",
+      "endDate": "2026-09-06T14:29:00",
       "showTime": "14:00:00",
-      "endTime": "14:30:00",
+      "endTime": "14:29:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/60bac90beea41f16958414d27656f880.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Ladakhi News",
-      "description": "The host presents some of the latest news stories, updates and developments from the region of Ladakh, a union territory in India.",
-      "startDate": "2026-09-06T14:30:00",
-      "endDate": "2026-09-06T14:35:00",
-      "showTime": "14:30:00",
-      "endTime": "14:35:00",
+      "showName": "Caption Over To DDK Leh",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-06T14:29:00",
+      "endDate": "2026-09-06T14:30:00",
+      "showTime": "14:29:00",
+      "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee7eb7fbec9d8b56ef0b0e27cc342d4e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b92f694ae2232e8eca862dddd46489f8.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Fosdur",
-      "description": "The host converses with personalities from different walks of life to understand their stories and discuss a variety of topics.",
-      "startDate": "2026-09-06T14:35:00",
+      "showName": "Ladakhi Transmission",
+      "description": "The host sheds light on Ladakh's local cultural scene and development initiatives, while also providing updates on the region's current affairs.",
+      "startDate": "2026-09-06T14:30:00",
       "endDate": "2026-09-06T15:00:00",
-      "showTime": "14:35:00",
+      "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7fd293f8045d3237a2c4208df15ca66a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e29a169e0dde15fc456f49a01823808.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -2198,25 +2187,25 @@
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Folk Music",
-      "description": "A compilation of popular folk songs from different parts of India, performed by various artists and musicians, is played back-to-back.",
+      "showName": "Sadai -E- Saaz",
+      "description": "Talented singers and musical artists showcase their skills as they perform a variety of folk songs and traditional music to enthrall the audience.",
       "startDate": "2026-09-06T15:10:00",
-      "endDate": "2026-09-06T15:35:00",
+      "endDate": "2026-09-06T15:30:00",
       "showTime": "15:10:00",
-      "endTime": "15:35:00",
+      "endTime": "15:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77149c68b643452a9ce1f15a9c496969.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd3149a2648d9f50daf7a6f6def8ee4a.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Atha Shar",
+      "showName": "Safar Fark Se Fakra Tak",
       "description": "Bringing the best in television.",
-      "startDate": "2026-09-06T15:35:00",
+      "startDate": "2026-09-06T15:30:00",
       "endDate": "2026-09-06T16:00:00",
-      "showTime": "15:35:00",
+      "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ce1b2be36ac054d890b90a922ba1bf8c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b4a01f33e3a43fadcb8996ad709505c6.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -2242,47 +2231,69 @@
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Aabshar",
-      "description": "Esteemed singers and instrumentalists present a variety of soul-stirring compositions, showcasing their exceptional abilities and artistry.",
+      "showName": "Light Music",
+      "description": "A comprehensive collection of songs that are light and soothing in style and tone in order to calm and relax discerning listeners.",
       "startDate": "2026-09-06T16:40:00",
       "endDate": "2026-09-06T17:00:00",
       "showTime": "16:40:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/641ad9b62cca1c6ed8d4a96833998c42.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f2453f3fd846a500505a4976b312d77b.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Doctor On Line",
-      "description": "The host invites various medical professionals to shed light on various diseases and answer health queries from prospective callers.",
+      "showName": "DD Kashir",
+      "description": "DD Kashir",
       "startDate": "2026-09-06T17:00:00",
-      "endDate": "2026-09-06T18:00:00",
+      "endDate": "2026-09-06T17:59:00",
       "showTime": "17:00:00",
+      "endTime": "17:59:00",
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fe38ee8d9ba520f3097381423583bf0e.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Caption Over To Ddk Jammu",
+      "description": "The latest updates are shared regarding ongoing matters of socio-economic, political and cultural concerns transpiring in regions of Jammu and Kashmir.",
+      "startDate": "2026-09-06T17:59:00",
+      "endDate": "2026-09-06T18:00:00",
+      "showTime": "17:59:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd8deb91fb35c50899b2f403d78981e1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d85e7e439d7c3b3442d22e70296d183.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Dogri Programme / Dogri News",
-      "description": "Talented artists perform folk dances and songs; the host delivers the latest updates on various social, political and economic issues.",
+      "showName": "Dogri Transmission",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-06T18:00:00",
-      "endDate": "2026-09-06T18:30:00",
+      "endDate": "2026-09-06T18:29:00",
       "showTime": "18:00:00",
+      "endTime": "18:29:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9d73a4338e18c7efcf094e931d43090.jpg"
+    },
+    {
+      "serverDate": "2026-09-06",
+      "showName": "Caption Over To DDK Leh",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-06T18:29:00",
+      "endDate": "2026-09-06T18:30:00",
+      "showTime": "18:29:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8c63be5a0e730adcb085d7ba5fe7c13.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b92f694ae2232e8eca862dddd46489f8.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Ladakhi Programme / Ladakhi News",
-      "description": "The host holds insightful conversations with various experts; the host presents the latest news developments from Ladakh.",
+      "showName": "Ladakhi Transmission",
+      "description": "The host sheds light on Ladakh's local cultural scene and development initiatives, while also providing updates on the region's current affairs.",
       "startDate": "2026-09-06T18:30:00",
       "endDate": "2026-09-06T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fcf102d17b06ee8f6b4db1d5c1bbd492.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e29a169e0dde15fc456f49a01823808.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -2297,25 +2308,25 @@
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Zick Zick",
-      "description": "Bringing the best in television.",
+      "showName": "DD Kashir",
+      "description": "DD Kashir",
       "startDate": "2026-09-06T19:30:00",
       "endDate": "2026-09-06T20:00:00",
       "showTime": "19:30:00",
       "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4abc7333cbb729b20e56e069c37484f5.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fe38ee8d9ba520f3097381423583bf0e.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Mann Ki Baat",
-      "description": "The prime minister of India addresses the citizens and speaks to them about various development initiatives and solutions undertaken by the Government of India.",
+      "showName": "Programme Highlights",
+      "description": "A compilation of information about the major programmes scheduled to air throughout the day that provides the latest updates from the television world.",
       "startDate": "2026-09-06T20:00:00",
       "endDate": "2026-09-06T20:30:00",
       "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/edd1518997e7e47f68785be1a0a43142.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f7cb4980aa92c2d5ad20514a5bdf2f8.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -2330,25 +2341,25 @@
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Folk Music",
-      "description": "A compilation of popular folk songs from different parts of India, performed by various artists and musicians, is played back-to-back.",
+      "showName": "Sufi-Sada",
+      "description": "Listen to talented musicians, as well as singers, deliver elegant and heartfelt performances using a variety of musical instruments.",
       "startDate": "2026-09-06T21:00:00",
       "endDate": "2026-09-06T21:30:00",
       "showTime": "21:00:00",
       "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77149c68b643452a9ce1f15a9c496969.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8864875ff99bb68f54d0caeaa8e28b8b.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Meri Awaaz Suno",
-      "description": "The filmmaker aims to empower women across India to rise against various social evils and customs that leave them uneducated, vulnerable and exploitable.",
+      "showName": "DDK Podcast",
+      "description": "DDK Podcast",
       "startDate": "2026-09-06T21:30:00",
       "endDate": "2026-09-06T22:00:00",
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4fb17587d6395047feb6207c55ef59d6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a728061fe47cb83e46efdfd662305eb4.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -2363,245 +2374,245 @@
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Folk Music",
-      "description": "A compilation of popular folk songs from different parts of India, performed by various artists and musicians, is played back-to-back.",
+      "showName": "Programme Highlights",
+      "description": "A compilation of information about the major programmes scheduled to air throughout the day that provides the latest updates from the television world.",
       "startDate": "2026-09-06T22:10:00",
       "endDate": "2026-09-06T22:30:00",
       "showTime": "22:10:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77149c68b643452a9ce1f15a9c496969.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f7cb4980aa92c2d5ad20514a5bdf2f8.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Ek Mulaqat",
-      "description": "The host engages in conversation with eminent personalities, who talk about their life journey, success and achievements.",
+      "showName": "Lok Geet",
+      "description": "Talented musicians and singers perform a variety of popular folk songs that highlight a region's artistic and cultural traditions.",
       "startDate": "2026-09-06T22:30:00",
       "endDate": "2026-09-06T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7922298a14111c96295f43b2a32e8599.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/14446974c0eedbbdb59b163c9fa87b8d.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Wozli Kane Choup",
-      "description": "Bringing the best in television.",
+      "showName": "Sohni Dharti",
+      "description": "The host invites experts from different backgrounds to deliberate on various important topics and offer their unique insights.",
       "startDate": "2026-09-06T23:00:00",
       "endDate": "2026-09-06T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fe10f89fd66cf7db6774a3f909fbe9f0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28aee39bf13b94031f3b57e006cc877d.jpg"
     },
     {
       "serverDate": "2026-09-06",
-      "showName": "Ek Paisa",
-      "description": "Bringing the best in television.",
+      "showName": "Karb",
+      "description": "Hamza, a man whose deep love for Haniya drives every decision he makes, faces unexpected emotional turmoil and betrayal. As their bond is tested, both must navigate painful choices.",
       "startDate": "2026-09-06T23:30:00",
       "endDate": "2026-09-06T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ade31d55f19d18d20717c373f1354b4.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6b8e3171befdcfc0ee277dd8aefdc3e5.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Ek Paisa",
+      "showName": "Roshni",
       "description": "Bringing the best in television.",
       "startDate": "2026-09-07T00:00:00",
       "endDate": "2026-09-07T00:30:00",
       "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ade31d55f19d18d20717c373f1354b4.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d9a334b75fa38aa3585b59bd88c808f.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Krishi Darshan",
-      "description": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers.",
+      "showName": "Mehfil",
+      "description": "Writers and poets share their thoughts on the life and works of poet Shivram Deep, a significant figure in modern Dogri literature.",
       "startDate": "2026-09-07T00:30:00",
       "endDate": "2026-09-07T01:00:00",
       "showTime": "00:30:00",
       "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9605eed321e00470ae1234bdc1992f0d.jpg"
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/93ef9f3fa2bbeaafda92eaf9769b24d1.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Song",
-      "description": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.",
+      "showName": "Sadai -E- Saaz",
+      "description": "Talented singers and musical artists showcase their skills as they perform a variety of folk songs and traditional music to enthrall the audience.",
       "startDate": "2026-09-07T01:00:00",
-      "endDate": "2026-09-07T01:15:00",
-      "showTime": "01:00:00",
-      "endTime": "01:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f13bf29cd8a7465591cf4daa824d984.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Sanskrit News",
-      "description": "The host presents the latest updates pertaining to various important current affairs, religious and cultural events in Sanskrit.",
-      "startDate": "2026-09-07T01:15:00",
       "endDate": "2026-09-07T01:30:00",
-      "showTime": "01:15:00",
+      "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5395f5fca08b898ce8d04ef2a5d0cba3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd3149a2648d9f50daf7a6f6def8ee4a.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Zam Zam-E-Naat",
-      "description": "Singers take the stage to perform devotional songs sung and composed by talented artists, invoking the spirit of devotion.",
+      "showName": "Kashmirnama",
+      "description": "The host provides a detailed report on a variety of important developments taking place across the Indian state of Jammu and Kashmir.",
       "startDate": "2026-09-07T01:30:00",
       "endDate": "2026-09-07T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/14ecce2e1d12d9aad6fbd127159b8d2e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/396583b610af47110cabcfae13559edf.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Mann Ki Baat",
-      "description": "The prime minister of India addresses the citizens and speaks to them about various development initiatives and solutions undertaken by the Government of India.",
+      "showName": "Salaam Kashmir",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-07T02:00:00",
-      "endDate": "2026-09-07T02:30:00",
+      "endDate": "2026-09-07T02:29:00",
       "showTime": "02:00:00",
+      "endTime": "02:29:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/071b03f807da6bc82ecbc5fef297d234.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Linking Caption for Terrestrial Service",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-07T02:29:00",
+      "endDate": "2026-09-07T02:30:00",
+      "showTime": "02:29:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/edd1518997e7e47f68785be1a0a43142.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/47224a8f5bd2da21347976f7ea5bdcd0.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Ru-Ba-Ru",
-      "description": "The host invites various eminent personalities from different fields to discuss their personal lives, careers and achievements.",
+      "showName": "Aarti Shri Kashi Vishwanath Temple",
+      "description": "Aarti Shri Kashi Vishwanath Temple",
       "startDate": "2026-09-07T02:30:00",
-      "endDate": "2026-09-07T03:00:00",
-      "showTime": "02:30:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/55de1175cb7192feb93309d18381562e.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Folk Music",
-      "description": "A compilation of popular folk songs from different parts of India, performed by various artists and musicians, is played back-to-back.",
-      "startDate": "2026-09-07T03:00:00",
-      "endDate": "2026-09-07T03:30:00",
-      "showTime": "03:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77149c68b643452a9ce1f15a9c496969.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Meri Awaaz Suno",
-      "description": "The filmmaker aims to empower women across India to rise against various social evils and customs that leave them uneducated, vulnerable and exploitable.",
-      "startDate": "2026-09-07T03:30:00",
-      "endDate": "2026-09-07T04:00:00",
-      "showTime": "03:30:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4fb17587d6395047feb6207c55ef59d6.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "News Kashmiri / Urdu",
-      "description": "An anchor reports the latest social, political and economic news stories and updates from the state of Jammu and Kashmir.",
-      "startDate": "2026-09-07T04:00:00",
-      "endDate": "2026-09-07T04:10:00",
-      "showTime": "04:00:00",
-      "endTime": "04:10:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/48c804997e47a3ecfdab4ddd2c02ebd6.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Folk Music",
-      "description": "A compilation of popular folk songs from different parts of India, performed by various artists and musicians, is played back-to-back.",
-      "startDate": "2026-09-07T04:10:00",
       "endDate": "2026-09-07T04:30:00",
-      "showTime": "04:10:00",
+      "showTime": "02:30:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77149c68b643452a9ce1f15a9c496969.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Ek Mulaqat",
-      "description": "The host engages in conversation with eminent personalities, who talk about their life journey, success and achievements.",
+      "showName": "Aasman Muthi Mai",
+      "description": "Aasman Muthi Mai",
       "startDate": "2026-09-07T04:30:00",
       "endDate": "2026-09-07T05:00:00",
       "showTime": "04:30:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7922298a14111c96295f43b2a32e8599.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Wozli Kane Choup",
-      "description": "Bringing the best in television.",
+      "showName": "Sufi-Sada",
+      "description": "Listen to talented musicians, as well as singers, deliver elegant and heartfelt performances using a variety of musical instruments.",
       "startDate": "2026-09-07T05:00:00",
       "endDate": "2026-09-07T05:30:00",
       "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fe10f89fd66cf7db6774a3f909fbe9f0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8864875ff99bb68f54d0caeaa8e28b8b.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Ek Paisa",
-      "description": "Bringing the best in television.",
+      "showName": "Karab",
+      "description": "Karab",
       "startDate": "2026-09-07T05:30:00",
-      "endDate": "2026-09-07T06:30:00",
+      "endDate": "2026-09-07T06:00:00",
       "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ac749579da52e9b35f28f550de3b9b77.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Roshni",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-07T06:00:00",
+      "endDate": "2026-09-07T06:28:00",
+      "showTime": "06:00:00",
+      "endTime": "06:28:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d9a334b75fa38aa3585b59bd88c808f.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Promo Of DD Kashir",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-07T06:28:00",
+      "endDate": "2026-09-07T06:29:00",
+      "showTime": "06:28:00",
+      "endTime": "06:29:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/297dee5606af809dc1102bd271a9dfbf.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Caption Over To DD News",
+      "description": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the nation.",
+      "startDate": "2026-09-07T06:29:00",
+      "endDate": "2026-09-07T06:30:00",
+      "showTime": "06:29:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ade31d55f19d18d20717c373f1354b4.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Funkar",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-07T06:30:00",
-      "endDate": "2026-09-07T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee659f3ccfa5f0c744e7d9f663db14ff.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Song",
-      "description": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.",
-      "startDate": "2026-09-07T07:00:00",
-      "endDate": "2026-09-07T07:15:00",
-      "showTime": "07:00:00",
-      "endTime": "07:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f13bf29cd8a7465591cf4daa824d984.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/83b1580c6fb269fa069157fcf097672e.jpg"
     },
     {
       "serverDate": "2026-09-07",
       "showName": "Sanskrit News",
       "description": "The host presents the latest updates pertaining to various important current affairs, religious and cultural events in Sanskrit.",
-      "startDate": "2026-09-07T07:15:00",
-      "endDate": "2026-09-07T07:30:00",
-      "showTime": "07:15:00",
-      "endTime": "07:30:00",
+      "startDate": "2026-09-07T06:30:00",
+      "endDate": "2026-09-07T06:45:00",
+      "showTime": "06:30:00",
+      "endTime": "06:45:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5395f5fca08b898ce8d04ef2a5d0cba3.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Meri Awaaz Suno",
-      "description": "The filmmaker aims to empower women across India to rise against various social evils and customs that leave them uneducated, vulnerable and exploitable.",
+      "showName": "Sadai -E- Saaz",
+      "description": "Talented singers and musical artists showcase their skills as they perform a variety of folk songs and traditional music to enthrall the audience.",
+      "startDate": "2026-09-07T06:45:00",
+      "endDate": "2026-09-07T07:10:00",
+      "showTime": "06:45:00",
+      "endTime": "07:10:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd3149a2648d9f50daf7a6f6def8ee4a.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Husn-E-Kashmir",
+      "description": "The host journeys through Kashmir, showcasing its scenic beauty and highlighting the importance of various locations within the region.",
+      "startDate": "2026-09-07T07:10:00",
+      "endDate": "2026-09-07T07:30:00",
+      "showTime": "07:10:00",
+      "endTime": "07:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/faad5742357b96969efc69d597f41dc1.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Aisi Te Banawaw Makana",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-07T07:30:00",
-      "endDate": "2026-09-07T08:00:00",
+      "endDate": "2026-09-07T07:58:00",
       "showTime": "07:30:00",
+      "endTime": "07:58:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/498450e7b00e1d64fc18984cc033aa10.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Programme Highlights",
+      "description": "A compilation of information about the major programmes scheduled to air throughout the day that provides the latest updates from the television world.",
+      "startDate": "2026-09-07T07:58:00",
+      "endDate": "2026-09-07T08:00:00",
+      "showTime": "07:58:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4fb17587d6395047feb6207c55ef59d6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f7cb4980aa92c2d5ad20514a5bdf2f8.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -2627,14 +2638,14 @@
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Doctor On Line",
-      "description": "The host invites various medical professionals to shed light on various diseases and answer health queries from prospective callers.",
+      "showName": "Doctor On Line Live",
+      "description": "A medical professional answers key queries asked by callers whilst suggesting relevant treatments that help to maintain a healthy and balanced lifestyle, live.",
       "startDate": "2026-09-07T09:10:00",
       "endDate": "2026-09-07T10:10:00",
       "showTime": "09:10:00",
       "endTime": "10:10:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd8deb91fb35c50899b2f403d78981e1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e844eabe2fe7f1785ea2abdf939f417f.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -2649,14 +2660,14 @@
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Ek Mulaqat",
-      "description": "The host engages in conversation with eminent personalities, who talk about their life journey, success and achievements.",
+      "showName": "Lok Geet",
+      "description": "Talented musicians and singers perform a variety of popular folk songs that highlight a region's artistic and cultural traditions.",
       "startDate": "2026-09-07T10:30:00",
       "endDate": "2026-09-07T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7922298a14111c96295f43b2a32e8599.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/14446974c0eedbbdb59b163c9fa87b8d.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -2671,47 +2682,47 @@
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Samanbal",
-      "description": "The host invites various experts as guests in order to discuss different social problems affecting the women of our society.",
+      "showName": "Light Music",
+      "description": "A comprehensive collection of songs that are light and soothing in style and tone in order to calm and relax discerning listeners.",
       "startDate": "2026-09-07T11:10:00",
-      "endDate": "2026-09-07T11:35:00",
+      "endDate": "2026-09-07T11:30:00",
       "showTime": "11:10:00",
-      "endTime": "11:35:00",
+      "endTime": "11:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f731d0723a3c0939450450a9e7a2206e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f2453f3fd846a500505a4976b312d77b.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Atha Shar",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-07T11:35:00",
+      "showName": "DDK Podcast",
+      "description": "DDK Podcast",
+      "startDate": "2026-09-07T11:30:00",
       "endDate": "2026-09-07T12:00:00",
-      "showTime": "11:35:00",
+      "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ce1b2be36ac054d890b90a922ba1bf8c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a728061fe47cb83e46efdfd662305eb4.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Folk Music",
-      "description": "A compilation of popular folk songs from different parts of India, performed by various artists and musicians, is played back-to-back.",
+      "showName": "Aarti From Shri Somnath Temple",
+      "description": "Aarti From Shri Somnath Temple",
       "startDate": "2026-09-07T12:00:00",
       "endDate": "2026-09-07T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77149c68b643452a9ce1f15a9c496969.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7bd0040375b1549cd2112610f6dfe50b.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Ek Paisa",
-      "description": "Bringing the best in television.",
+      "showName": "DD Kashir",
+      "description": "DD Kashir",
       "startDate": "2026-09-07T12:30:00",
       "endDate": "2026-09-07T13:00:00",
       "showTime": "12:30:00",
       "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ade31d55f19d18d20717c373f1354b4.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fe38ee8d9ba520f3097381423583bf0e.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -2726,58 +2737,58 @@
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Sonzal",
-      "description": "Bringing the best in television.",
+      "showName": "Sadai -E- Saaz",
+      "description": "Talented singers and musical artists showcase their skills as they perform a variety of folk songs and traditional music to enthrall the audience.",
       "startDate": "2026-09-07T13:10:00",
-      "endDate": "2026-09-07T13:35:00",
+      "endDate": "2026-09-07T13:30:00",
       "showTime": "13:10:00",
-      "endTime": "13:35:00",
+      "endTime": "13:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b4809cc71c00260be3373f53c659e485.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd3149a2648d9f50daf7a6f6def8ee4a.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Wozli Kane Choup",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-07T13:35:00",
+      "showName": "Samanbal",
+      "description": "The host invites various experts as guests in order to discuss different social problems affecting the women of our society.",
+      "startDate": "2026-09-07T13:30:00",
       "endDate": "2026-09-07T14:00:00",
-      "showTime": "13:35:00",
+      "showTime": "13:30:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fe10f89fd66cf7db6774a3f909fbe9f0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f731d0723a3c0939450450a9e7a2206e.jpg"
     },
     {
       "serverDate": "2026-09-07",
       "showName": "Pakistan Reporter",
       "description": "The hosts deliver the latest news headlines and updates related to politics, current affairs and socio-economic issues in Pakistan and around the world.",
       "startDate": "2026-09-07T14:00:00",
-      "endDate": "2026-09-07T14:30:00",
+      "endDate": "2026-09-07T14:29:00",
       "showTime": "14:00:00",
-      "endTime": "14:30:00",
+      "endTime": "14:29:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ce11ca2b63efacf05e92ad81624355c.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Ladakhi News",
-      "description": "The host presents some of the latest news stories, updates and developments from the region of Ladakh, a union territory in India.",
-      "startDate": "2026-09-07T14:30:00",
-      "endDate": "2026-09-07T14:35:00",
-      "showTime": "14:30:00",
-      "endTime": "14:35:00",
+      "showName": "Caption Over To DDK Leh",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-07T14:29:00",
+      "endDate": "2026-09-07T14:30:00",
+      "showTime": "14:29:00",
+      "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee7eb7fbec9d8b56ef0b0e27cc342d4e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b92f694ae2232e8eca862dddd46489f8.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Kunphan",
-      "description": "The host invites an accomplished guest and engages in an insightful conversation surrounding various matters of significance.",
-      "startDate": "2026-09-07T14:35:00",
+      "showName": "Ladakhi Transmission",
+      "description": "The host sheds light on Ladakh's local cultural scene and development initiatives, while also providing updates on the region's current affairs.",
+      "startDate": "2026-09-07T14:30:00",
       "endDate": "2026-09-07T15:00:00",
-      "showTime": "14:35:00",
+      "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d53a7219d882eeef1d69281365278163.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e29a169e0dde15fc456f49a01823808.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -2792,36 +2803,36 @@
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Sadai -E- Saaz",
-      "description": "A prominent singer sings some of the most popular folk songs local to the state of Kashmir, along with his fellow musicians.",
+      "showName": "Programme Highlights",
+      "description": "A compilation of information about the major programmes scheduled to air throughout the day that provides the latest updates from the television world.",
       "startDate": "2026-09-07T15:10:00",
-      "endDate": "2026-09-07T15:35:00",
+      "endDate": "2026-09-07T15:30:00",
       "showTime": "15:10:00",
-      "endTime": "15:35:00",
+      "endTime": "15:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ea13b5e908cb628e2a98a69667144d8f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f7cb4980aa92c2d5ad20514a5bdf2f8.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Safar Nama",
-      "description": "A travelogue where each week the host embarks on a journey to a new Indian town that is known for its Urdu culture, cuisine and lifestyle.",
-      "startDate": "2026-09-07T15:35:00",
+      "showName": "Karb",
+      "description": "Hamza, a man whose deep love for Haniya drives every decision he makes, faces unexpected emotional turmoil and betrayal. As their bond is tested, both must navigate painful choices.",
+      "startDate": "2026-09-07T15:30:00",
       "endDate": "2026-09-07T16:00:00",
-      "showTime": "15:35:00",
+      "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/193bfe844ba1845c09884b9a26f21921.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6b8e3171befdcfc0ee277dd8aefdc3e5.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Adchet Gul",
-      "description": "Bringing the best in television.",
+      "showName": "Krishi Darshan",
+      "description": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers.",
       "startDate": "2026-09-07T16:00:00",
       "endDate": "2026-09-07T16:30:00",
       "showTime": "16:00:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5ce9c97a99edec0c9f190d4292f8593.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9605eed321e00470ae1234bdc1992f0d.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -2847,47 +2858,69 @@
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Song",
-      "description": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.",
+      "showName": "Song Filler",
+      "description": "A comprehensive compilation of popular movie songs performed and composed by various renowned singers is played back to back.",
       "startDate": "2026-09-07T16:50:00",
       "endDate": "2026-09-07T17:00:00",
       "showTime": "16:50:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f13bf29cd8a7465591cf4daa824d984.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/828afd81b27ffc0a87dc92e5c09b3741.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Hello DD Live",
-      "description": "The host engages in a live conversation with prominent personalities from the country to discuss various pressing social, economic and global issues, live.",
+      "showName": "Hello DD Phone-in Live",
+      "description": "A host leads a live programme where callers engage with renowned guests discussing a range of topics including health, education and regional matters for insightful conversations.",
       "startDate": "2026-09-07T17:00:00",
-      "endDate": "2026-09-07T18:00:00",
+      "endDate": "2026-09-07T17:59:00",
       "showTime": "17:00:00",
+      "endTime": "17:59:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/14910a9a22c1d17bbf3dccdaf13b76b1.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Caption Over To Ddk Jammu",
+      "description": "The latest updates are shared regarding ongoing matters of socio-economic, political and cultural concerns transpiring in regions of Jammu and Kashmir.",
+      "startDate": "2026-09-07T17:59:00",
+      "endDate": "2026-09-07T18:00:00",
+      "showTime": "17:59:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f89e573e07f63dc989fe274515f0e07.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d85e7e439d7c3b3442d22e70296d183.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Dogri Programme / Dogri News",
-      "description": "Talented artists perform folk dances and songs; the host delivers the latest updates on various social, political and economic issues.",
+      "showName": "Dogri Transmission",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-07T18:00:00",
-      "endDate": "2026-09-07T18:30:00",
+      "endDate": "2026-09-07T18:29:00",
       "showTime": "18:00:00",
+      "endTime": "18:29:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9d73a4338e18c7efcf094e931d43090.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Caption Over To DDK Ladakh",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-07T18:29:00",
+      "endDate": "2026-09-07T18:30:00",
+      "showTime": "18:29:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8c63be5a0e730adcb085d7ba5fe7c13.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c932d3950d0a83903b146f2ab52a2aed.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Ladakhi Programme / Ladakhi News",
-      "description": "The host holds insightful conversations with various experts; the host presents the latest news developments from Ladakh.",
+      "showName": "Ladakhi Transmission",
+      "description": "The host sheds light on Ladakh's local cultural scene and development initiatives, while also providing updates on the region's current affairs.",
       "startDate": "2026-09-07T18:30:00",
       "endDate": "2026-09-07T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fcf102d17b06ee8f6b4db1d5c1bbd492.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e29a169e0dde15fc456f49a01823808.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -2902,58 +2935,14 @@
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Folk Music",
-      "description": "A compilation of popular folk songs from different parts of India, performed by various artists and musicians, is played back-to-back.",
+      "showName": "Caption Over To SKICC Srinagar",
+      "description": "The host introduces SKICC Srinagar, a stunning conference center nestled in Kashmir's beauty, hosting events with breathtaking views.",
       "startDate": "2026-09-07T19:30:00",
-      "endDate": "2026-09-07T20:00:00",
-      "showTime": "19:30:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77149c68b643452a9ce1f15a9c496969.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Yeh Zindagi Hai Gulshan",
-      "description": "A progressive Muslim girl's life is affected by Shariah, which has given equal rights to women to pursue their development.",
-      "startDate": "2026-09-07T20:00:00",
-      "endDate": "2026-09-07T20:30:00",
-      "showTime": "20:00:00",
-      "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abbfe8c6931faf8fbf953fc810cc68ed.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Raaz Daar",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-07T20:30:00",
-      "endDate": "2026-09-07T21:00:00",
-      "showTime": "20:30:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02f8be55aa510c01cc2e6e1b2ed01eff.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Baat Se Baat Niklee",
-      "description": "The host sits down to converse with several eminent personalities about their personal lives as well as a variety of subjects.",
-      "startDate": "2026-09-07T21:00:00",
-      "endDate": "2026-09-07T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/151b713b07c02e40b847a6ff1463d742.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Wala Katha Boz",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-07T21:30:00",
       "endDate": "2026-09-07T22:00:00",
-      "showTime": "21:30:00",
+      "showTime": "19:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a9284c9dfd1f833159d47dc9199a15ff.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/88151f76f046ef77831860c08f4e6058.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -2968,124 +2957,135 @@
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Folk Music",
-      "description": "A compilation of popular folk songs from different parts of India, performed by various artists and musicians, is played back-to-back.",
+      "showName": "Sadai -E- Saaz",
+      "description": "Talented singers and musical artists showcase their skills as they perform a variety of folk songs and traditional music to enthrall the audience.",
       "startDate": "2026-09-07T22:10:00",
       "endDate": "2026-09-07T22:30:00",
       "showTime": "22:10:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77149c68b643452a9ce1f15a9c496969.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd3149a2648d9f50daf7a6f6def8ee4a.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Ek Mulaqat",
-      "description": "The host engages in conversation with eminent personalities, who talk about their life journey, success and achievements.",
+      "showName": "Lok Geet",
+      "description": "Talented musicians and singers perform a variety of popular folk songs that highlight a region's artistic and cultural traditions.",
       "startDate": "2026-09-07T22:30:00",
       "endDate": "2026-09-07T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7922298a14111c96295f43b2a32e8599.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/14446974c0eedbbdb59b163c9fa87b8d.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Gazab Chu Lol",
-      "description": "Bringing the best in television.",
+      "showName": "Lokrang",
+      "description": "Talented artists from different regions of India showcase their skills in a variety of engaging folk performances and other cultural expressions.",
       "startDate": "2026-09-07T23:00:00",
-      "endDate": "2026-09-07T23:30:00",
+      "endDate": "2026-09-07T23:50:00",
       "showTime": "23:00:00",
-      "endTime": "23:30:00",
+      "endTime": "23:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c7b3e1cb451de19f371eb0cc7d216da.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0fba9ffa6f3e1eaf67e7f9b41fa81f56.jpg"
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Gulistan",
-      "description": "Different families strive to overcome diverse challenges to balance their personal life and interpersonal relationships.",
-      "startDate": "2026-09-07T23:30:00",
-      "endDate": "2026-09-07T23:59:59",
-      "showTime": "23:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31d50f454fd6131feb49e7f038bf4ee.jpg"
-    },
-    {
-      "serverDate": "2026-09-08",
-      "showName": "Gulistan",
-      "description": "Different families strive to overcome diverse challenges to balance their personal life and interpersonal relationships.",
-      "startDate": "2026-09-08T00:00:00",
-      "endDate": "2026-09-08T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31d50f454fd6131feb49e7f038bf4ee.jpg"
-    },
-    {
-      "serverDate": "2026-09-08",
-      "showName": "Funkar",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-08T00:30:00",
-      "endDate": "2026-09-08T01:00:00",
-      "showTime": "00:30:00",
-      "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee659f3ccfa5f0c744e7d9f663db14ff.jpg"
-    },
-    {
-      "serverDate": "2026-09-08",
       "showName": "Song",
       "description": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.",
-      "startDate": "2026-09-08T01:00:00",
-      "endDate": "2026-09-08T01:15:00",
-      "showTime": "01:00:00",
-      "endTime": "01:15:00",
+      "startDate": "2026-09-07T23:50:00",
+      "endDate": "2026-09-07T23:59:59",
+      "showTime": "23:50:00",
+      "endTime": "23:59:59",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f13bf29cd8a7465591cf4daa824d984.jpg"
     },
     {
       "serverDate": "2026-09-08",
-      "showName": "Sanskrit News",
-      "description": "The host presents the latest updates pertaining to various important current affairs, religious and cultural events in Sanskrit.",
-      "startDate": "2026-09-08T01:15:00",
-      "endDate": "2026-09-08T01:30:00",
-      "showTime": "01:15:00",
-      "endTime": "01:30:00",
+      "showName": "De-Linking Caption for Terrestrial Service",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-08T00:00:00",
+      "endDate": "2026-09-08T00:01:00",
+      "showTime": "00:00:00",
+      "endTime": "00:01:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5395f5fca08b898ce8d04ef2a5d0cba3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3f1a7b0539b2fdf864b08b7e54263f08.jpg"
     },
     {
       "serverDate": "2026-09-08",
-      "showName": "Meri Awaaz Suno",
-      "description": "The filmmaker aims to empower women across India to rise against various social evils and customs that leave them uneducated, vulnerable and exploitable.",
+      "showName": "Roshni",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-08T00:01:00",
+      "endDate": "2026-09-08T00:30:00",
+      "showTime": "00:01:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d9a334b75fa38aa3585b59bd88c808f.jpg"
+    },
+    {
+      "serverDate": "2026-09-08",
+      "showName": "Sadai -E- Saaz",
+      "description": "Talented singers and musical artists showcase their skills as they perform a variety of folk songs and traditional music to enthrall the audience.",
+      "startDate": "2026-09-08T00:30:00",
+      "endDate": "2026-09-08T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd3149a2648d9f50daf7a6f6def8ee4a.jpg"
+    },
+    {
+      "serverDate": "2026-09-08",
+      "showName": "Husn-E-Kashmir",
+      "description": "The host journeys through Kashmir, showcasing its scenic beauty and highlighting the importance of various locations within the region.",
+      "startDate": "2026-09-08T01:00:00",
+      "endDate": "2026-09-08T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/faad5742357b96969efc69d597f41dc1.jpg"
+    },
+    {
+      "serverDate": "2026-09-08",
+      "showName": "Aisi Te Banawaw Makana",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-08T01:30:00",
       "endDate": "2026-09-08T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4fb17587d6395047feb6207c55ef59d6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/498450e7b00e1d64fc18984cc033aa10.jpg"
     },
     {
       "serverDate": "2026-09-08",
-      "showName": "Yeh Zindagi Hai Gulshan",
-      "description": "A progressive Muslim girl's life is affected by Shariah, which has given equal rights to women to pursue their development.",
+      "showName": "Light Music",
+      "description": "A comprehensive collection of songs that are light and soothing in style and tone in order to calm and relax discerning listeners.",
       "startDate": "2026-09-08T02:00:00",
-      "endDate": "2026-09-08T02:30:00",
+      "endDate": "2026-09-08T02:29:00",
       "showTime": "02:00:00",
+      "endTime": "02:29:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f2453f3fd846a500505a4976b312d77b.jpg"
+    },
+    {
+      "serverDate": "2026-09-08",
+      "showName": "Aarti Shri Kashi Vishwanath Temple",
+      "description": "Aarti Shri Kashi Vishwanath Temple",
+      "startDate": "2026-09-08T02:29:00",
+      "endDate": "2026-09-08T02:30:00",
+      "showTime": "02:29:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abbfe8c6931faf8fbf953fc810cc68ed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-09-08",
-      "showName": "Raaz Daar",
-      "description": "Bringing the best in television.",
+      "showName": "Aasman Muthi Mai",
+      "description": "Aasman Muthi Mai",
       "startDate": "2026-09-08T02:30:00",
       "endDate": "2026-09-08T03:00:00",
       "showTime": "02:30:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02f8be55aa510c01cc2e6e1b2ed01eff.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-09-08",

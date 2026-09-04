@@ -562,9 +562,9 @@
       "showName": "Ben 10",
       "description": "Ben Tennyson discovers a wristwatch which contains the Omnitrix. While he figures out its powers, he uses that to transform himself into various alien species.",
       "startDate": "2026-09-05T04:00:00",
-      "endDate": "2026-09-05T05:00:00",
+      "endDate": "2026-09-05T06:00:00",
       "showTime": "04:00:00",
-      "endTime": "05:00:00",
+      "endTime": "06:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/03118fc628ac589f89c985d6459795d0.jpg"
     },
@@ -572,9 +572,9 @@
       "serverDate": "2026-09-05",
       "showName": "Ben 10",
       "description": "Ben Tennyson discovers a wristwatch which contains the Omnitrix. While he figures out its powers, he uses that to transform himself into various alien species.",
-      "startDate": "2026-09-05T05:00:00",
+      "startDate": "2026-09-05T06:00:00",
       "endDate": "2026-09-05T07:00:00",
-      "showTime": "05:00:00",
+      "showTime": "06:00:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/03118fc628ac589f89c985d6459795d0.jpg"
@@ -617,8 +617,19 @@
       "showName": "We Bare Bears",
       "description": "Three brother bears, Grizzly, Panda, and Ice, awkwardly navigate life in the San Francisco Bay Area as they try to fit into modern human society.",
       "startDate": "2026-09-05T10:00:00",
-      "endDate": "2026-09-05T12:00:00",
+      "endDate": "2026-09-05T11:00:00",
       "showTime": "10:00:00",
+      "endTime": "11:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e8fd212d38e9722b488ed9bee3fd6602.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "We Bare Bears",
+      "description": "Three brother bears, Grizzly, Panda, and Ice, awkwardly navigate life in the San Francisco Bay Area as they try to fit into modern human society.",
+      "startDate": "2026-09-05T11:00:00",
+      "endDate": "2026-09-05T12:00:00",
+      "showTime": "11:00:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e8fd212d38e9722b488ed9bee3fd6602.jpg"
@@ -683,8 +694,19 @@
       "showName": "We Bare Bears",
       "description": "Three brother bears, Grizzly, Panda, and Ice, awkwardly navigate life in the San Francisco Bay Area as they try to fit into modern human society.",
       "startDate": "2026-09-05T16:30:00",
-      "endDate": "2026-09-05T19:00:00",
+      "endDate": "2026-09-05T18:00:00",
       "showTime": "16:30:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e8fd212d38e9722b488ed9bee3fd6602.jpg"
+    },
+    {
+      "serverDate": "2026-09-05",
+      "showName": "We Bare Bears",
+      "description": "Three brother bears, Grizzly, Panda, and Ice, awkwardly navigate life in the San Francisco Bay Area as they try to fit into modern human society.",
+      "startDate": "2026-09-05T18:00:00",
+      "endDate": "2026-09-05T19:00:00",
+      "showTime": "18:00:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e8fd212d38e9722b488ed9bee3fd6602.jpg"
@@ -815,22 +837,11 @@
       "showName": "We Baby Bears",
       "description": "Three young bear siblings, Grizzly, Panda and Ice embark on a number of adventures in order to search for the right a place to settle down.",
       "startDate": "2026-09-06T05:00:00",
-      "endDate": "2026-09-06T06:00:00",
-      "showTime": "05:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4330c9fced370af65b4cecf967d9eb11.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Ben 10",
-      "description": "Ben Tennyson discovers a wristwatch which contains the Omnitrix. While he figures out its powers, he uses that to transform himself into various alien species.",
-      "startDate": "2026-09-06T06:00:00",
       "endDate": "2026-09-06T07:00:00",
-      "showTime": "06:00:00",
+      "showTime": "05:00:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/03118fc628ac589f89c985d6459795d0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4330c9fced370af65b4cecf967d9eb11.jpg"
     },
     {
       "serverDate": "2026-09-06",
