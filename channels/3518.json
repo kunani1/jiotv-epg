@@ -8,270 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Cine_Jomjomat.png",
   "programs": [
     {
-      "serverDate": "2026-09-02",
-      "showName": "Deya Neya",
-      "description": "A wealthy businessman's son, Prasanta, dreams of becoming a famous singer. But when his ambition guides him to Kolkata, love is waiting for him around the corner.",
-      "startDate": "2026-09-02T00:00:00",
-      "endDate": "2026-09-02T00:44:00",
-      "showTime": "00:00:00",
-      "endTime": "00:44:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/93813694769457968e0ff2a8c0f0bf8b.jpg"
-    },
-    {
-      "serverDate": "2026-09-02",
-      "showName": "Ekla Mon",
-      "description": "Ekla Mon",
-      "startDate": "2026-09-02T00:44:00",
-      "endDate": "2026-09-02T01:30:00",
-      "showTime": "00:44:00",
-      "endTime": "01:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d56bc6276b7db50c9e8c47066115398.jpg"
-    },
-    {
-      "serverDate": "2026-09-02",
-      "showName": "Krishna Bhakti",
-      "description": "Krishna Bhakti",
-      "startDate": "2026-09-02T01:30:00",
-      "endDate": "2026-09-02T01:51:00",
-      "showTime": "01:30:00",
-      "endTime": "01:51:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-09-02",
-      "showName": "Rabindra Sangeet",
-      "description": "A subject-matter expert conducts an informative lecture on songs composed by Rabindranath Tagore with suitable examples in a detailed and easy-to-understand manner.",
-      "startDate": "2026-09-02T01:51:00",
-      "endDate": "2026-09-02T02:10:00",
-      "showTime": "01:51:00",
-      "endTime": "02:10:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf68e255fe7dec3e4f3248b5fc0cf07d.jpg"
-    },
-    {
-      "serverDate": "2026-09-02",
-      "showName": "Classic Song",
-      "description": "Classic Song",
-      "startDate": "2026-09-02T02:10:00",
-      "endDate": "2026-09-02T02:30:00",
-      "showTime": "02:10:00",
-      "endTime": "02:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f3dcb780f480620662aea3921cc4c9.jpg"
-    },
-    {
-      "serverDate": "2026-09-02",
-      "showName": "Hridoy Haran",
-      "description": "The story highlights love corruption power abuse class disparity and the betrayal of true intentions by traitors.",
-      "startDate": "2026-09-02T02:30:00",
-      "endDate": "2026-09-02T04:51:00",
-      "showTime": "02:30:00",
-      "endTime": "04:51:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0dcd291ca2650931b41dbeed3d49b6f0.jpg"
-    },
-    {
-      "serverDate": "2026-09-02",
-      "showName": "Sandhya Mukherjee Hits",
-      "description": "Sandhya Mukherjee Hits",
-      "startDate": "2026-09-02T04:51:00",
-      "endDate": "2026-09-02T05:00:00",
-      "showTime": "04:51:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a7889a4d33137fa8460a6139be8e773.jpg"
-    },
-    {
-      "serverDate": "2026-09-02",
-      "showName": "Gopal Bhar",
-      "description": "Gopal Bhar is appointed as a jester in Raja Krishnachandra's court in medieval Bengal. His wit and humour are well-known in the region and his exploits always have a significant social message.",
-      "startDate": "2026-09-02T05:00:00",
-      "endDate": "2026-09-02T05:06:00",
-      "showTime": "05:00:00",
-      "endTime": "05:06:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dafbbcb55c707bd3042702d5dfe94c62.jpg"
-    },
-    {
-      "serverDate": "2026-09-02",
-      "showName": "Vikram Betal",
-      "description": "Vikram Betal",
-      "startDate": "2026-09-02T05:06:00",
-      "endDate": "2026-09-02T05:30:00",
-      "showTime": "05:06:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/da32300d5f3704f473ec82297e5fca00.jpg"
-    },
-    {
-      "serverDate": "2026-09-02",
-      "showName": "Baghini",
-      "description": "Dugga, a rural girl, loses her father who owned a liquor business. She meets Chiranjib, and joins him in his new venture.",
-      "startDate": "2026-09-02T05:30:00",
-      "endDate": "2026-09-02T08:10:00",
-      "showTime": "05:30:00",
-      "endTime": "08:10:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/175753b52360fbe063713484e3f458ca.jpg"
-    },
-    {
-      "serverDate": "2026-09-02",
-      "showName": "Feel the Love",
-      "description": "Feel the Love",
-      "startDate": "2026-09-02T08:10:00",
-      "endDate": "2026-09-02T08:30:00",
-      "showTime": "08:10:00",
-      "endTime": "08:30:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0d3bd171ea27439d0ad3e65aa338ff15.jpg"
-    },
-    {
-      "serverDate": "2026-09-02",
-      "showName": "Mem Saheb",
-      "description": "Kajal falls in love with Amit, an unemployed journalist. She urges him to focus on his career and provides unconditional support, but destiny has other plans for the couple.",
-      "startDate": "2026-09-02T08:30:00",
-      "endDate": "2026-09-02T10:44:00",
-      "showTime": "08:30:00",
-      "endTime": "10:44:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8962b0daece38abfe2ba9c82b1a0cda6.jpg"
-    },
-    {
-      "serverDate": "2026-09-02",
-      "showName": "Lata Mangeshkar Hits",
-      "description": "Lata Mangeshkar Hits",
-      "startDate": "2026-09-02T10:44:00",
-      "endDate": "2026-09-02T11:20:00",
-      "showTime": "10:44:00",
-      "endTime": "11:20:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5419272eb37be3bea05fdd9a85e1ff24.jpg"
-    },
-    {
-      "serverDate": "2026-09-02",
-      "showName": "Golden Love Story",
-      "description": "Golden Love Story",
-      "startDate": "2026-09-02T11:20:00",
-      "endDate": "2026-09-02T12:00:00",
-      "showTime": "11:20:00",
-      "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f0f43cf76a2efcad2307988b6d9387c.jpg"
-    },
-    {
-      "serverDate": "2026-09-02",
-      "showName": "Chotto Gonesh",
-      "description": "Chotto Gonesh",
-      "startDate": "2026-09-02T12:00:00",
-      "endDate": "2026-09-02T12:11:00",
-      "showTime": "12:00:00",
-      "endTime": "12:11:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5237c95c1f7d33758346edd8308a6cd1.jpg"
-    },
-    {
-      "serverDate": "2026-09-02",
-      "showName": "Chintu Goyenda",
-      "description": "Chintu Goyenda",
-      "startDate": "2026-09-02T12:11:00",
-      "endDate": "2026-09-02T12:30:00",
-      "showTime": "12:11:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f9ea9d4983ba2c282f724b91fec87e74.jpg"
-    },
-    {
-      "serverDate": "2026-09-02",
-      "showName": "Bijoya Dashami",
-      "description": "A mother's disappearance in her hometown leads her son to uncover a chilling truth about a serial killer, culminating in a shocking twist that delivers a powerful social message.",
-      "startDate": "2026-09-02T12:30:00",
-      "endDate": "2026-09-02T14:33:00",
-      "showTime": "12:30:00",
-      "endTime": "14:33:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b78b0ca1a1bcef3943212f632d6018cc.jpg"
-    },
-    {
-      "serverDate": "2026-09-02",
-      "showName": "Evergreen Hits",
-      "description": "A comprehensive compilation of some of the most popular songs from evergreen Bollywood films composed by famous artists and musicians.",
-      "startDate": "2026-09-02T14:33:00",
-      "endDate": "2026-09-02T15:30:00",
-      "showTime": "14:33:00",
-      "endTime": "15:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/88883233a8773f38955bfca206684954.jpg"
-    },
-    {
-      "serverDate": "2026-09-02",
-      "showName": "Jhinder Bondi",
-      "description": "A Kolkata man impersonates a missing king to stop a conspiracy, facing danger and romance while uncovering secrets about his own past.",
-      "startDate": "2026-09-02T15:30:00",
-      "endDate": "2026-09-02T17:19:00",
-      "showTime": "15:30:00",
-      "endTime": "17:19:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c37f0c83bc6efb89318d4cf25a03591e.jpg"
-    },
-    {
-      "serverDate": "2026-09-02",
-      "showName": "Bhalobashar Sur",
-      "description": "Bhalobashar Sur",
-      "startDate": "2026-09-02T17:19:00",
-      "endDate": "2026-09-02T18:18:00",
-      "showTime": "17:19:00",
-      "endTime": "18:18:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/82945b05f4b987547b56308ac84d8e2d.jpg"
-    },
-    {
-      "serverDate": "2026-09-02",
-      "showName": "Hasi Golpo",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-02T18:18:00",
-      "endDate": "2026-09-02T19:30:00",
-      "showTime": "18:18:00",
-      "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b53d19cc9af20453189faf5512bca365.jpg"
-    },
-    {
-      "serverDate": "2026-09-02",
-      "showName": "Bijoya Dashami",
-      "description": "A mother's disappearance in her hometown leads her son to uncover a chilling truth about a serial killer, culminating in a shocking twist that delivers a powerful social message.",
-      "startDate": "2026-09-02T19:30:00",
-      "endDate": "2026-09-02T21:38:00",
-      "showTime": "19:30:00",
-      "endTime": "21:38:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b78b0ca1a1bcef3943212f632d6018cc.jpg"
-    },
-    {
-      "serverDate": "2026-09-02",
-      "showName": "Prosenjit Chatterjee Hits",
-      "description": "Prosenjit Chatterjee Hits",
-      "startDate": "2026-09-02T21:38:00",
-      "endDate": "2026-09-02T22:30:00",
-      "showTime": "21:38:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/051e402264c20754f54f4b72adda857a.jpg"
-    },
-    {
-      "serverDate": "2026-09-02",
-      "showName": "Jhinder Bondi",
-      "description": "A Kolkata man impersonates a missing king to stop a conspiracy, facing danger and romance while uncovering secrets about his own past.",
-      "startDate": "2026-09-02T22:30:00",
-      "endDate": "2026-09-02T23:59:59",
-      "showTime": "22:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c37f0c83bc6efb89318d4cf25a03591e.jpg"
-    },
-    {
       "serverDate": "2026-09-03",
       "showName": "Jhinder Bondi",
       "description": "A Kolkata man impersonates a missing king to stop a conspiracy, facing danger and romance while uncovering secrets about his own past.",
@@ -1160,7 +896,7 @@
       "showTime": "00:00:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -1171,7 +907,7 @@
       "showTime": "03:00:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -1182,7 +918,7 @@
       "showTime": "06:00:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -1193,7 +929,7 @@
       "showTime": "09:00:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -1204,7 +940,7 @@
       "showTime": "12:00:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -1215,7 +951,7 @@
       "showTime": "15:00:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -1226,7 +962,7 @@
       "showTime": "18:00:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -1237,7 +973,7 @@
       "showTime": "21:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -1248,7 +984,7 @@
       "showTime": "00:00:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -1259,7 +995,7 @@
       "showTime": "03:00:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -1270,7 +1006,7 @@
       "showTime": "06:00:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -1281,7 +1017,7 @@
       "showTime": "09:00:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -1292,7 +1028,7 @@
       "showTime": "12:00:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -1303,7 +1039,7 @@
       "showTime": "15:00:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -1314,7 +1050,7 @@
       "showTime": "18:00:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -1325,7 +1061,7 @@
       "showTime": "21:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1336,7 +1072,7 @@
       "showTime": "00:00:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1347,7 +1083,7 @@
       "showTime": "03:00:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1358,7 +1094,7 @@
       "showTime": "06:00:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1369,7 +1105,7 @@
       "showTime": "09:00:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1380,7 +1116,7 @@
       "showTime": "12:00:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1391,7 +1127,7 @@
       "showTime": "15:00:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1402,7 +1138,7 @@
       "showTime": "18:00:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1413,7 +1149,7 @@
       "showTime": "21:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1424,7 +1160,7 @@
       "showTime": "00:00:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1435,7 +1171,7 @@
       "showTime": "03:00:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1446,7 +1182,7 @@
       "showTime": "06:00:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1457,7 +1193,7 @@
       "showTime": "09:00:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1468,7 +1204,7 @@
       "showTime": "12:00:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1479,7 +1215,7 @@
       "showTime": "15:00:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1490,7 +1226,7 @@
       "showTime": "18:00:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1501,7 +1237,95 @@
       "showTime": "21:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+    },
+    {
+      "serverDate": "2026-09-10",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-10T00:00:00",
+      "endDate": "2026-09-10T03:00:00",
+      "showTime": "00:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+    },
+    {
+      "serverDate": "2026-09-10",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-10T03:00:00",
+      "endDate": "2026-09-10T06:00:00",
+      "showTime": "03:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+    },
+    {
+      "serverDate": "2026-09-10",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-10T06:00:00",
+      "endDate": "2026-09-10T09:00:00",
+      "showTime": "06:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+    },
+    {
+      "serverDate": "2026-09-10",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-10T09:00:00",
+      "endDate": "2026-09-10T12:00:00",
+      "showTime": "09:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+    },
+    {
+      "serverDate": "2026-09-10",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-10T12:00:00",
+      "endDate": "2026-09-10T15:00:00",
+      "showTime": "12:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+    },
+    {
+      "serverDate": "2026-09-10",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-10T15:00:00",
+      "endDate": "2026-09-10T18:00:00",
+      "showTime": "15:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+    },
+    {
+      "serverDate": "2026-09-10",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-10T18:00:00",
+      "endDate": "2026-09-10T21:00:00",
+      "showTime": "18:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+    },
+    {
+      "serverDate": "2026-09-10",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-10T21:00:00",
+      "endDate": "2026-09-10T23:59:59",
+      "showTime": "21:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     }
   ]
 }
