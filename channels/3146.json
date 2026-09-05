@@ -8,105 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/AWSN.png",
   "programs": [
     {
-      "serverDate": "2026-09-03",
-      "showName": "Women's Football",
-      "description": "Tom Benson Hall of Fame Stadium",
-      "startDate": "2026-09-03T00:00:00",
-      "endDate": "2026-09-03T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d922514fdd4899304a3ec0766ce982e.jpg"
-    },
-    {
-      "serverDate": "2026-09-03",
-      "showName": "2025 World Championships",
-      "description": "Global female athletes compete in 10 track & field events for the 'World's Greatest Athlete' title.",
-      "startDate": "2026-09-03T00:30:00",
-      "endDate": "2026-09-03T01:30:00",
-      "showTime": "00:30:00",
-      "endTime": "01:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-09-03",
-      "showName": "2026 Women's Decathlon World Championship",
-      "description": "2026 Women's Decathlon World Championship",
-      "startDate": "2026-09-03T01:30:00",
-      "endDate": "2026-09-03T03:30:00",
-      "showTime": "01:30:00",
-      "endTime": "03:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4631a86840a45b101cae6a7606c42d53.jpg"
-    },
-    {
-      "serverDate": "2026-09-03",
-      "showName": "Collegiate Rugby Championship",
-      "description": "The top collegiate programs from across the country converge on the Maryland SoccerPlex in search of a national championship.",
-      "startDate": "2026-09-03T03:30:00",
-      "endDate": "2026-09-03T06:29:00",
-      "showTime": "03:30:00",
-      "endTime": "06:29:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f46c3d5ff9fb810db0fadd6626bbff06.jpg"
-    },
-    {
-      "serverDate": "2026-09-03",
-      "showName": "Women's Football",
-      "description": "Tom Benson Hall of Fame Stadium",
-      "startDate": "2026-09-03T06:29:00",
-      "endDate": "2026-09-03T09:30:00",
-      "showTime": "06:29:00",
-      "endTime": "09:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d922514fdd4899304a3ec0766ce982e.jpg"
-    },
-    {
-      "serverDate": "2026-09-03",
-      "showName": "FIBA 3x3 Basketball",
-      "description": "Professional athletes compete against each other in the FIBA 3x3 basketball tournaments.",
-      "startDate": "2026-09-03T09:30:00",
-      "endDate": "2026-09-03T15:00:00",
-      "showTime": "09:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2c46e1b506b3e011f4eb0bedbda0e198.jpg"
-    },
-    {
-      "serverDate": "2026-09-03",
-      "showName": "FIBA 3x3 Basketball",
-      "description": "International 3x3 basketball teams face off in rapid, energetic matches, showcasing precision, coordination and strategic play on a compact court.",
-      "startDate": "2026-09-03T15:00:00",
-      "endDate": "2026-09-03T17:45:00",
-      "showTime": "15:00:00",
-      "endTime": "17:45:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/20afad674da895a5711227904875fe8e.jpg"
-    },
-    {
-      "serverDate": "2026-09-03",
-      "showName": "FIBA 3x3 Basketball",
-      "description": "Professional athletes compete against each other in the FIBA 3x3 basketball tournaments.",
-      "startDate": "2026-09-03T17:45:00",
-      "endDate": "2026-09-03T23:15:00",
-      "showTime": "17:45:00",
-      "endTime": "23:15:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2c46e1b506b3e011f4eb0bedbda0e198.jpg"
-    },
-    {
-      "serverDate": "2026-09-03",
-      "showName": "FIBA 3x3 Basketball",
-      "description": "International 3x3 basketball teams face off in rapid, energetic matches, showcasing precision, coordination and strategic play on a compact court.",
-      "startDate": "2026-09-03T23:15:00",
-      "endDate": "2026-09-03T23:59:59",
-      "showTime": "23:15:00",
-      "endTime": "23:59:59",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/20afad674da895a5711227904875fe8e.jpg"
-    },
-    {
       "serverDate": "2026-09-04",
       "showName": "FIBA 3x3 Basketball",
       "description": "International 3x3 basketball teams face off in rapid, energetic matches, showcasing precision, coordination and strategic play on a compact court.",
@@ -1106,6 +1007,127 @@
       "endTime": "23:59:59",
       "showCategory": "Sports event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5e97fd1920e74415e7b853002345c9cf.jpg"
+    },
+    {
+      "serverDate": "2026-09-11",
+      "showName": "Professional Softball League",
+      "description": "Coverage of the professional fastpitch league featuring teams from throughout the United States.",
+      "startDate": "2026-09-11T00:00:00",
+      "endDate": "2026-09-11T02:30:00",
+      "showTime": "00:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/63a6039ce145ffd20c70438928d9ba7b.jpg"
+    },
+    {
+      "serverDate": "2026-09-11",
+      "showName": "Professional Softball League",
+      "description": "Coverage of the professional fastpitch league featuring teams from throughout the United States.",
+      "startDate": "2026-09-11T02:30:00",
+      "endDate": "2026-09-11T04:45:00",
+      "showTime": "02:30:00",
+      "endTime": "04:45:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/63a6039ce145ffd20c70438928d9ba7b.jpg"
+    },
+    {
+      "serverDate": "2026-09-11",
+      "showName": "Professional Softball League",
+      "description": "Coverage of the professional fastpitch league featuring teams from throughout the United States.",
+      "startDate": "2026-09-11T04:45:00",
+      "endDate": "2026-09-11T07:00:00",
+      "showTime": "04:45:00",
+      "endTime": "07:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/63a6039ce145ffd20c70438928d9ba7b.jpg"
+    },
+    {
+      "serverDate": "2026-09-11",
+      "showName": "Professional Softball League",
+      "description": "Coverage of the professional fastpitch league featuring teams from throughout the United States.",
+      "startDate": "2026-09-11T07:00:00",
+      "endDate": "2026-09-11T12:00:00",
+      "showTime": "07:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/63a6039ce145ffd20c70438928d9ba7b.jpg"
+    },
+    {
+      "serverDate": "2026-09-11",
+      "showName": "Women's American Football",
+      "description": "Tom Benson Hall of Fame Stadium",
+      "startDate": "2026-09-11T12:00:00",
+      "endDate": "2026-09-11T15:00:00",
+      "showTime": "12:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d922514fdd4899304a3ec0766ce982e.jpg"
+    },
+    {
+      "serverDate": "2026-09-11",
+      "showName": "BSWW Women's Euro Beach Soccer League",
+      "description": "BSWW Women's Euro Beach Soccer League",
+      "startDate": "2026-09-11T15:00:00",
+      "endDate": "2026-09-11T16:13:00",
+      "showTime": "15:00:00",
+      "endTime": "16:13:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5e97fd1920e74415e7b853002345c9cf.jpg"
+    },
+    {
+      "serverDate": "2026-09-11",
+      "showName": "BSWW Women's Euro Beach Soccer League",
+      "description": "BSWW Women's Euro Beach Soccer League",
+      "startDate": "2026-09-11T16:13:00",
+      "endDate": "2026-09-11T17:30:00",
+      "showTime": "16:13:00",
+      "endTime": "17:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5e97fd1920e74415e7b853002345c9cf.jpg"
+    },
+    {
+      "serverDate": "2026-09-11",
+      "showName": "Sportswomen",
+      "description": "The host shares the latest news and developments in the world of women's sports and highlights the notable achievements and performances of top athletes.",
+      "startDate": "2026-09-11T17:30:00",
+      "endDate": "2026-09-11T17:45:00",
+      "showTime": "17:30:00",
+      "endTime": "17:45:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f85a8eb55e1deead0009f9090089c756.jpg"
+    },
+    {
+      "serverDate": "2026-09-11",
+      "showName": "BSWW Women's Euro Beach Soccer League",
+      "description": "BSWW Women's Euro Beach Soccer League",
+      "startDate": "2026-09-11T17:45:00",
+      "endDate": "2026-09-11T18:58:00",
+      "showTime": "17:45:00",
+      "endTime": "18:58:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5e97fd1920e74415e7b853002345c9cf.jpg"
+    },
+    {
+      "serverDate": "2026-09-11",
+      "showName": "BSWW Women's Euro Beach Soccer League",
+      "description": "BSWW Women's Euro Beach Soccer League",
+      "startDate": "2026-09-11T18:58:00",
+      "endDate": "2026-09-11T21:30:00",
+      "showTime": "18:58:00",
+      "endTime": "21:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5e97fd1920e74415e7b853002345c9cf.jpg"
+    },
+    {
+      "serverDate": "2026-09-11",
+      "showName": "Women's American Football",
+      "description": "Tom Benson Hall of Fame Stadium",
+      "startDate": "2026-09-11T21:30:00",
+      "endDate": "2026-09-11T23:59:59",
+      "showTime": "21:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d922514fdd4899304a3ec0766ce982e.jpg"
     }
   ]
 }
