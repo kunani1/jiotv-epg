@@ -275,188 +275,12 @@
       "serverDate": "2026-09-05",
       "showName": "TEST5 HD",
       "description": "TEST5 HD",
-      "startDate": "2026-09-05T00:00:00",
-      "endDate": "2026-09-05T01:00:00",
-      "showTime": "00:00:00",
-      "endTime": "01:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T01:00:00",
-      "endDate": "2026-09-05T02:00:00",
-      "showTime": "01:00:00",
-      "endTime": "02:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T02:00:00",
-      "endDate": "2026-09-05T03:00:00",
-      "showTime": "02:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T03:00:00",
-      "endDate": "2026-09-05T04:00:00",
-      "showTime": "03:00:00",
-      "endTime": "04:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T04:00:00",
-      "endDate": "2026-09-05T05:00:00",
-      "showTime": "04:00:00",
-      "endTime": "05:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T05:00:00",
-      "endDate": "2026-09-05T06:00:00",
-      "showTime": "05:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T06:00:00",
-      "endDate": "2026-09-05T07:00:00",
-      "showTime": "06:00:00",
-      "endTime": "07:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T07:00:00",
-      "endDate": "2026-09-05T08:00:00",
-      "showTime": "07:00:00",
-      "endTime": "08:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T08:00:00",
-      "endDate": "2026-09-05T09:00:00",
-      "showTime": "08:00:00",
-      "endTime": "09:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T09:00:00",
-      "endDate": "2026-09-05T10:00:00",
-      "showTime": "09:00:00",
-      "endTime": "10:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T10:00:00",
-      "endDate": "2026-09-05T11:00:00",
-      "showTime": "10:00:00",
-      "endTime": "11:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T11:00:00",
-      "endDate": "2026-09-05T12:00:00",
-      "showTime": "11:00:00",
-      "endTime": "12:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T12:00:00",
-      "endDate": "2026-09-05T13:00:00",
-      "showTime": "12:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T13:00:00",
-      "endDate": "2026-09-05T14:00:00",
-      "showTime": "13:00:00",
-      "endTime": "14:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T14:00:00",
-      "endDate": "2026-09-05T15:00:00",
-      "showTime": "14:00:00",
-      "endTime": "15:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T15:00:00",
-      "endDate": "2026-09-05T16:00:00",
-      "showTime": "15:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
       "startDate": "2026-09-05T16:00:00",
       "endDate": "2026-09-05T17:00:00",
       "showTime": "16:00:00",
       "endTime": "17:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -467,7 +291,7 @@
       "showTime": "17:00:00",
       "endTime": "18:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -478,7 +302,7 @@
       "showTime": "18:00:00",
       "endTime": "19:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -489,7 +313,7 @@
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -500,7 +324,7 @@
       "showTime": "20:00:00",
       "endTime": "21:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -511,7 +335,7 @@
       "showTime": "21:00:00",
       "endTime": "22:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -522,7 +346,7 @@
       "showTime": "22:00:00",
       "endTime": "23:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-05",
@@ -533,7 +357,7 @@
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -544,7 +368,7 @@
       "showTime": "00:00:00",
       "endTime": "01:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -555,7 +379,7 @@
       "showTime": "01:00:00",
       "endTime": "02:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -566,7 +390,7 @@
       "showTime": "02:00:00",
       "endTime": "03:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -577,7 +401,7 @@
       "showTime": "03:00:00",
       "endTime": "04:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -588,7 +412,7 @@
       "showTime": "04:00:00",
       "endTime": "05:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -599,7 +423,7 @@
       "showTime": "05:00:00",
       "endTime": "06:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -610,7 +434,7 @@
       "showTime": "06:00:00",
       "endTime": "07:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -621,7 +445,7 @@
       "showTime": "07:00:00",
       "endTime": "08:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -632,7 +456,7 @@
       "showTime": "08:00:00",
       "endTime": "09:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -643,7 +467,7 @@
       "showTime": "09:00:00",
       "endTime": "10:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -654,7 +478,7 @@
       "showTime": "10:00:00",
       "endTime": "11:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -665,7 +489,7 @@
       "showTime": "11:00:00",
       "endTime": "12:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -676,7 +500,7 @@
       "showTime": "12:00:00",
       "endTime": "13:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -687,7 +511,7 @@
       "showTime": "13:00:00",
       "endTime": "14:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -698,7 +522,7 @@
       "showTime": "14:00:00",
       "endTime": "15:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -709,7 +533,7 @@
       "showTime": "15:00:00",
       "endTime": "16:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -720,7 +544,7 @@
       "showTime": "16:00:00",
       "endTime": "17:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -731,7 +555,7 @@
       "showTime": "17:00:00",
       "endTime": "18:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -742,7 +566,7 @@
       "showTime": "18:00:00",
       "endTime": "19:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -753,7 +577,7 @@
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -764,7 +588,7 @@
       "showTime": "20:00:00",
       "endTime": "21:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -775,7 +599,7 @@
       "showTime": "21:00:00",
       "endTime": "22:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -786,7 +610,7 @@
       "showTime": "22:00:00",
       "endTime": "23:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-06",
@@ -797,7 +621,7 @@
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -808,7 +632,7 @@
       "showTime": "00:00:00",
       "endTime": "01:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -819,7 +643,7 @@
       "showTime": "01:00:00",
       "endTime": "02:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -830,7 +654,7 @@
       "showTime": "02:00:00",
       "endTime": "03:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -841,7 +665,7 @@
       "showTime": "03:00:00",
       "endTime": "04:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -852,7 +676,7 @@
       "showTime": "04:00:00",
       "endTime": "05:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -863,7 +687,7 @@
       "showTime": "05:00:00",
       "endTime": "06:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -874,7 +698,7 @@
       "showTime": "06:00:00",
       "endTime": "07:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -885,7 +709,7 @@
       "showTime": "07:00:00",
       "endTime": "08:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -896,7 +720,7 @@
       "showTime": "08:00:00",
       "endTime": "09:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -907,7 +731,7 @@
       "showTime": "09:00:00",
       "endTime": "10:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -918,7 +742,7 @@
       "showTime": "10:00:00",
       "endTime": "11:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -929,7 +753,7 @@
       "showTime": "11:00:00",
       "endTime": "12:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -940,7 +764,7 @@
       "showTime": "12:00:00",
       "endTime": "13:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -951,7 +775,7 @@
       "showTime": "13:00:00",
       "endTime": "14:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -962,7 +786,7 @@
       "showTime": "14:00:00",
       "endTime": "15:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -973,7 +797,7 @@
       "showTime": "15:00:00",
       "endTime": "16:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -984,7 +808,7 @@
       "showTime": "16:00:00",
       "endTime": "17:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -995,7 +819,7 @@
       "showTime": "17:00:00",
       "endTime": "18:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -1006,7 +830,7 @@
       "showTime": "18:00:00",
       "endTime": "19:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -1017,7 +841,7 @@
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -1028,7 +852,7 @@
       "showTime": "20:00:00",
       "endTime": "21:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -1039,7 +863,7 @@
       "showTime": "21:00:00",
       "endTime": "22:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -1050,7 +874,7 @@
       "showTime": "22:00:00",
       "endTime": "23:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -1061,7 +885,7 @@
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1072,7 +896,7 @@
       "showTime": "00:00:00",
       "endTime": "01:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1083,7 +907,7 @@
       "showTime": "01:00:00",
       "endTime": "02:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1094,7 +918,7 @@
       "showTime": "02:00:00",
       "endTime": "03:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1105,7 +929,7 @@
       "showTime": "03:00:00",
       "endTime": "04:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1116,7 +940,7 @@
       "showTime": "04:00:00",
       "endTime": "05:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1127,7 +951,7 @@
       "showTime": "05:00:00",
       "endTime": "06:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1138,7 +962,7 @@
       "showTime": "06:00:00",
       "endTime": "07:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1149,7 +973,7 @@
       "showTime": "07:00:00",
       "endTime": "08:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1160,7 +984,7 @@
       "showTime": "08:00:00",
       "endTime": "09:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1171,7 +995,7 @@
       "showTime": "09:00:00",
       "endTime": "10:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1182,7 +1006,7 @@
       "showTime": "10:00:00",
       "endTime": "11:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1193,7 +1017,7 @@
       "showTime": "11:00:00",
       "endTime": "12:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1204,7 +1028,7 @@
       "showTime": "12:00:00",
       "endTime": "13:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1215,7 +1039,7 @@
       "showTime": "13:00:00",
       "endTime": "14:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1226,7 +1050,7 @@
       "showTime": "14:00:00",
       "endTime": "15:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1237,7 +1061,7 @@
       "showTime": "15:00:00",
       "endTime": "16:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1248,7 +1072,7 @@
       "showTime": "16:00:00",
       "endTime": "17:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1259,7 +1083,7 @@
       "showTime": "17:00:00",
       "endTime": "18:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1270,7 +1094,7 @@
       "showTime": "18:00:00",
       "endTime": "19:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1281,7 +1105,7 @@
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1292,7 +1116,7 @@
       "showTime": "20:00:00",
       "endTime": "21:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1303,7 +1127,7 @@
       "showTime": "21:00:00",
       "endTime": "22:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1314,7 +1138,7 @@
       "showTime": "22:00:00",
       "endTime": "23:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-08",
@@ -1325,7 +1149,7 @@
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1336,7 +1160,7 @@
       "showTime": "00:00:00",
       "endTime": "01:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1347,7 +1171,7 @@
       "showTime": "01:00:00",
       "endTime": "02:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1358,7 +1182,7 @@
       "showTime": "02:00:00",
       "endTime": "03:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1369,7 +1193,7 @@
       "showTime": "03:00:00",
       "endTime": "04:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1380,7 +1204,7 @@
       "showTime": "04:00:00",
       "endTime": "05:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1391,7 +1215,7 @@
       "showTime": "05:00:00",
       "endTime": "06:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1402,7 +1226,7 @@
       "showTime": "06:00:00",
       "endTime": "07:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1413,7 +1237,7 @@
       "showTime": "07:00:00",
       "endTime": "08:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1424,7 +1248,7 @@
       "showTime": "08:00:00",
       "endTime": "09:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1435,7 +1259,7 @@
       "showTime": "09:00:00",
       "endTime": "10:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1446,7 +1270,7 @@
       "showTime": "10:00:00",
       "endTime": "11:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1457,7 +1281,7 @@
       "showTime": "11:00:00",
       "endTime": "12:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1468,7 +1292,7 @@
       "showTime": "12:00:00",
       "endTime": "13:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1479,7 +1303,7 @@
       "showTime": "13:00:00",
       "endTime": "14:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1490,7 +1314,7 @@
       "showTime": "14:00:00",
       "endTime": "15:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1501,7 +1325,7 @@
       "showTime": "15:00:00",
       "endTime": "16:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1512,7 +1336,7 @@
       "showTime": "16:00:00",
       "endTime": "17:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1523,7 +1347,7 @@
       "showTime": "17:00:00",
       "endTime": "18:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1534,7 +1358,7 @@
       "showTime": "18:00:00",
       "endTime": "19:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1545,7 +1369,7 @@
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1556,7 +1380,7 @@
       "showTime": "20:00:00",
       "endTime": "21:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1567,7 +1391,7 @@
       "showTime": "21:00:00",
       "endTime": "22:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1578,7 +1402,7 @@
       "showTime": "22:00:00",
       "endTime": "23:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-09",
@@ -1589,7 +1413,7 @@
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
     },
     {
       "serverDate": "2026-09-10",
