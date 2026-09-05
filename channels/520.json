@@ -331,22 +331,11 @@
       "showName": "Update @ 12",
       "description": "The host presents the latest updates pertaining to the top stories about the social, economical and political matters of the day.",
       "startDate": "2026-09-04T12:00:00",
-      "endDate": "2026-09-04T12:30:00",
-      "showTime": "12:00:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aab82a3ea67fb9a3d1d813dfdf8df6c1.jpg"
-    },
-    {
-      "serverDate": "2026-09-04",
-      "showName": "SVS",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-04T12:30:00",
       "endDate": "2026-09-04T23:59:59",
-      "showTime": "12:30:00",
+      "showTime": "12:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6b3a3ab811dd69eeb6a4a40556f0f26d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aab82a3ea67fb9a3d1d813dfdf8df6c1.jpg"
     },
     {
       "serverDate": "2026-09-05",
