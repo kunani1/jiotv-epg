@@ -617,8 +617,19 @@
       "showName": "Movie",
       "description": "Bringing the best in television.",
       "startDate": "2026-09-08T12:00:00",
-      "endDate": "2026-09-08T18:00:00",
+      "endDate": "2026-09-08T15:00:00",
       "showTime": "12:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+    },
+    {
+      "serverDate": "2026-09-08",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-08T15:00:00",
+      "endDate": "2026-09-08T18:00:00",
+      "showTime": "15:00:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
@@ -867,25 +878,25 @@
     },
     {
       "serverDate": "2026-09-09",
-      "showName": "Aata Hou De Dhingaana",
-      "description": "The host invites popular Marathi television industry superstars to compete against each other in a series of games and activities.",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-09T23:06:00",
       "endDate": "2026-09-09T23:59:59",
       "showTime": "23:06:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/35ba39bdc3a6eea02dc8f75cb4e84515.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-10",
-      "showName": "Aata Hou De Dhingaana",
-      "description": "The host invites popular Marathi television industry superstars to compete against each other in a series of games and activities.",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-10T00:00:00",
       "endDate": "2026-09-10T01:46:00",
       "showTime": "00:00:00",
       "endTime": "01:46:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/35ba39bdc3a6eea02dc8f75cb4e84515.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     },
     {
       "serverDate": "2026-09-10",
