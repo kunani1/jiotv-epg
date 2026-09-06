@@ -416,11 +416,22 @@
     },
     {
       "serverDate": "2026-09-08",
+      "showName": "Aaja Nachle",
+      "description": "Dia returns to her hometown to find her old dance theatre about to be demolished. Hoping to save it, she tries to involve the townsfolk in a dance performance.",
+      "startDate": "2026-09-08T01:46:00",
+      "endDate": "2026-09-08T03:00:00",
+      "showTime": "01:46:00",
+      "endTime": "03:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/012e962279303b2ef4b65aed9a304924.jpg"
+    },
+    {
+      "serverDate": "2026-09-08",
       "showName": "Movie",
       "description": "Bringing the best in television.",
-      "startDate": "2026-09-08T01:46:00",
+      "startDate": "2026-09-08T03:00:00",
       "endDate": "2026-09-08T06:00:00",
-      "showTime": "01:46:00",
+      "showTime": "03:00:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"

@@ -298,9 +298,9 @@
       "showName": "Alien: Romulus",
       "description": "A crew of space colonisers boards a derelict station in search of valuable resources. Their routine scavenging mission becomes a fight for survival against a deadly entity.",
       "startDate": "2026-09-06T17:26:00",
-      "endDate": "2026-09-06T19:29:00",
+      "endDate": "2026-09-06T19:20:00",
       "showTime": "17:26:00",
-      "endTime": "19:29:00",
+      "endTime": "19:20:00",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7aec6b13f73491523e690312975d5922.jpg"
     },
@@ -308,9 +308,9 @@
       "serverDate": "2026-09-06",
       "showName": "Disney's The Jungle Book",
       "description": "Mowgli, a young boy raised by wolves in the jungle, faces grave danger when Shere Khan targets him. However, a friendly panther and a bear intervene to help him escape the predator.",
-      "startDate": "2026-09-06T19:29:00",
+      "startDate": "2026-09-06T19:20:00",
       "endDate": "2026-09-06T21:00:00",
-      "showTime": "19:29:00",
+      "showTime": "19:20:00",
       "endTime": "21:00:00",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0b8569d68a4b42ddbba05b34e0a9dfd5.jpg"
@@ -493,25 +493,36 @@
     },
     {
       "serverDate": "2026-09-08",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Con Air",
+      "description": "Cameron Poe, a wrongly convicted parolee, travels in a flight to go home. However, trouble knocks on the door when the flight is hijacked by some dangerous criminals.",
       "startDate": "2026-09-08T00:04:00",
-      "endDate": "2026-09-08T01:58:00",
+      "endDate": "2026-09-08T01:53:00",
       "showTime": "00:04:00",
-      "endTime": "01:58:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "endTime": "01:53:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b5cb9f6c378b186c4847b8e1b2951b8.jpg"
     },
     {
       "serverDate": "2026-09-08",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-08T01:58:00",
+      "showName": "Die Hard 3",
+      "description": "Detective John McClane plays a twisted game with a terrorist known only as Simon, who threatens to detonate bombs across New York City if John does not comply with his demands.",
+      "startDate": "2026-09-08T01:53:00",
+      "endDate": "2026-09-08T03:53:00",
+      "showTime": "01:53:00",
+      "endTime": "03:53:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e394a42fc03a9e3c77e61d845dd7ad82.jpg"
+    },
+    {
+      "serverDate": "2026-09-08",
+      "showName": "Journey to the West: The Demons Strike Back",
+      "description": "Tang Sanzang, a monk and his three disciples strive to overcome multiple challenges and fight monsters during the course of their journey.",
+      "startDate": "2026-09-08T03:53:00",
       "endDate": "2026-09-08T09:00:00",
-      "showTime": "01:58:00",
+      "showTime": "03:53:00",
       "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/86a9d8b9525db8533ce22cae6fe8e566.jpg"
     },
     {
       "serverDate": "2026-09-08",
