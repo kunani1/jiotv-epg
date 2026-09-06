@@ -8,72 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Music.png",
   "programs": [
     {
-      "serverDate": "2026-09-04",
-      "showName": "Nuvvila",
-      "description": "Three young men, Anand, Mahesh and Raju work at the same pizza joint. They are busy pursuing their dreams until cupid strikes and things get complicated.",
-      "startDate": "2026-09-04T00:00:00",
-      "endDate": "2026-09-04T03:30:00",
-      "showTime": "00:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/082688d871ad226cdfc465adc858ddea.jpg"
-    },
-    {
-      "serverDate": "2026-09-04",
-      "showName": "Padutha Theeyaga",
-      "description": "The judges welcome various contestants from Andhra Pradesh and Telangana who showcase their unique singing skills in front of them.",
-      "startDate": "2026-09-04T03:30:00",
-      "endDate": "2026-09-04T08:00:00",
-      "showTime": "03:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58753b8de4d5edc0c2e8e013207488eb.jpg"
-    },
-    {
-      "serverDate": "2026-09-04",
-      "showName": "Hands Up",
-      "description": "Hands Up",
-      "startDate": "2026-09-04T08:00:00",
-      "endDate": "2026-09-04T11:30:00",
-      "showTime": "08:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e8063e4b9c61c2d7df313797ad0c01e7.jpg"
-    },
-    {
-      "serverDate": "2026-09-04",
-      "showName": "Padutha Theeyaga",
-      "description": "The judges welcome various contestants from Andhra Pradesh and Telangana who showcase their unique singing skills in front of them.",
-      "startDate": "2026-09-04T11:30:00",
-      "endDate": "2026-09-04T16:00:00",
-      "showTime": "11:30:00",
-      "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58753b8de4d5edc0c2e8e013207488eb.jpg"
-    },
-    {
-      "serverDate": "2026-09-04",
-      "showName": "Hands Up",
-      "description": "Hands Up",
-      "startDate": "2026-09-04T16:00:00",
-      "endDate": "2026-09-04T19:30:00",
-      "showTime": "16:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e8063e4b9c61c2d7df313797ad0c01e7.jpg"
-    },
-    {
-      "serverDate": "2026-09-04",
-      "showName": "Padutha Theeyaga",
-      "description": "The judges welcome various contestants from Andhra Pradesh and Telangana who showcase their unique singing skills in front of them.",
-      "startDate": "2026-09-04T19:30:00",
-      "endDate": "2026-09-04T23:59:59",
-      "showTime": "19:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58753b8de4d5edc0c2e8e013207488eb.jpg"
-    },
-    {
       "serverDate": "2026-09-05",
       "showName": "Hands Up",
       "description": "Hands Up",
@@ -545,6 +479,105 @@
       "endTime": "23:59:59",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58753b8de4d5edc0c2e8e013207488eb.jpg"
+    },
+    {
+      "serverDate": "2026-09-12",
+      "showName": "Todu Dongalu",
+      "description": "In prison, a man comes across two new prisoners and discovers that they are his long-lost sons. Together, the three men set out to take revenge from the people who destroyed their family.",
+      "startDate": "2026-09-12T00:00:00",
+      "endDate": "2026-09-12T03:30:00",
+      "showTime": "00:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/73abf848cf4c4ccaca82b6b267809bac.jpg"
+    },
+    {
+      "serverDate": "2026-09-12",
+      "showName": "Padutha Theeyaga",
+      "description": "The judges welcome various contestants from Andhra Pradesh and Telangana who showcase their unique singing skills in front of them.",
+      "startDate": "2026-09-12T03:30:00",
+      "endDate": "2026-09-12T05:59:00",
+      "showTime": "03:30:00",
+      "endTime": "05:59:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58753b8de4d5edc0c2e8e013207488eb.jpg"
+    },
+    {
+      "serverDate": "2026-09-12",
+      "showName": "To Be Announced",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-12T05:59:00",
+      "endDate": "2026-09-12T08:30:00",
+      "showTime": "05:59:00",
+      "endTime": "08:30:00",
+      "showCategory": "TBA",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
+    },
+    {
+      "serverDate": "2026-09-12",
+      "showName": "To Be Announced",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-12T08:30:00",
+      "endDate": "2026-09-12T11:30:00",
+      "showTime": "08:30:00",
+      "endTime": "11:30:00",
+      "showCategory": "TBA",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
+    },
+    {
+      "serverDate": "2026-09-12",
+      "showName": "To Be Announced",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-12T11:30:00",
+      "endDate": "2026-09-12T14:30:00",
+      "showTime": "11:30:00",
+      "endTime": "14:30:00",
+      "showCategory": "TBA",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
+    },
+    {
+      "serverDate": "2026-09-12",
+      "showName": "To Be Announced",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-12T14:30:00",
+      "endDate": "2026-09-12T17:30:00",
+      "showTime": "14:30:00",
+      "endTime": "17:30:00",
+      "showCategory": "TBA",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
+    },
+    {
+      "serverDate": "2026-09-12",
+      "showName": "To Be Announced",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-12T17:30:00",
+      "endDate": "2026-09-12T20:30:00",
+      "showTime": "17:30:00",
+      "endTime": "20:30:00",
+      "showCategory": "TBA",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
+    },
+    {
+      "serverDate": "2026-09-12",
+      "showName": "To Be Announced",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-12T20:30:00",
+      "endDate": "2026-09-12T23:30:00",
+      "showTime": "20:30:00",
+      "endTime": "23:30:00",
+      "showCategory": "TBA",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
+    },
+    {
+      "serverDate": "2026-09-12",
+      "showName": "To Be Announced",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-12T23:30:00",
+      "endDate": "2026-09-12T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "TBA",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
     }
   ]
 }
