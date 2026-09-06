@@ -1167,11 +1167,33 @@
       "showName": "Special Program",
       "description": "Bringing the best in television.",
       "startDate": "2026-09-07T04:30:00",
-      "endDate": "2026-09-07T06:00:00",
+      "endDate": "2026-09-07T05:00:00",
       "showTime": "04:30:00",
-      "endTime": "06:00:00",
+      "endTime": "05:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2506272f850802a96883880e8476e91e.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Worship Songs",
+      "description": "A comprehensive compilation of popular and enchanting worship songs performed by various musical artists in praise of the Almighty.",
+      "startDate": "2026-09-07T05:00:00",
+      "endDate": "2026-09-07T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5a17e3d442a539e325afd14bccd1f8df.jpg"
+    },
+    {
+      "serverDate": "2026-09-07",
+      "showName": "Prayer Songs",
+      "description": "Devotees offer their sincere prayers to the Almighty to seek his divine blessings by singing hymns and songs in his praise.",
+      "startDate": "2026-09-07T05:30:00",
+      "endDate": "2026-09-07T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c1475dc5679397d9f75561283844914.jpg"
     },
     {
       "serverDate": "2026-09-07",
@@ -1406,14 +1428,14 @@
     },
     {
       "serverDate": "2026-09-07",
-      "showName": "Superbook",
-      "description": "Three friends, Chris, Joy and Gizmo, share the importance of the Holy Bible and fascinating tales about the life of Jesus Christ.",
+      "showName": "Super Book",
+      "description": "A group of children and a robot learn insightful lessons from the Bible by visiting biblical events via a time-travelling book.",
       "startDate": "2026-09-07T16:30:00",
       "endDate": "2026-09-07T17:00:00",
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca5f13f7bcaf9fe857355c0bed6fec32.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7efc27260f9c44f24b9fac52c58e5222.jpg"
     },
     {
       "serverDate": "2026-09-07",
