@@ -8,270 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/TEST5_HD.png",
   "programs": [
     {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T00:00:00",
-      "endDate": "2026-09-05T01:00:00",
-      "showTime": "00:00:00",
-      "endTime": "01:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T01:00:00",
-      "endDate": "2026-09-05T02:00:00",
-      "showTime": "01:00:00",
-      "endTime": "02:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T02:00:00",
-      "endDate": "2026-09-05T03:00:00",
-      "showTime": "02:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T03:00:00",
-      "endDate": "2026-09-05T04:00:00",
-      "showTime": "03:00:00",
-      "endTime": "04:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T04:00:00",
-      "endDate": "2026-09-05T05:00:00",
-      "showTime": "04:00:00",
-      "endTime": "05:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T05:00:00",
-      "endDate": "2026-09-05T06:00:00",
-      "showTime": "05:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T06:00:00",
-      "endDate": "2026-09-05T07:00:00",
-      "showTime": "06:00:00",
-      "endTime": "07:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T07:00:00",
-      "endDate": "2026-09-05T08:00:00",
-      "showTime": "07:00:00",
-      "endTime": "08:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T08:00:00",
-      "endDate": "2026-09-05T09:00:00",
-      "showTime": "08:00:00",
-      "endTime": "09:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T09:00:00",
-      "endDate": "2026-09-05T10:00:00",
-      "showTime": "09:00:00",
-      "endTime": "10:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T10:00:00",
-      "endDate": "2026-09-05T11:00:00",
-      "showTime": "10:00:00",
-      "endTime": "11:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T11:00:00",
-      "endDate": "2026-09-05T12:00:00",
-      "showTime": "11:00:00",
-      "endTime": "12:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T12:00:00",
-      "endDate": "2026-09-05T13:00:00",
-      "showTime": "12:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T13:00:00",
-      "endDate": "2026-09-05T14:00:00",
-      "showTime": "13:00:00",
-      "endTime": "14:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T14:00:00",
-      "endDate": "2026-09-05T15:00:00",
-      "showTime": "14:00:00",
-      "endTime": "15:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T15:00:00",
-      "endDate": "2026-09-05T16:00:00",
-      "showTime": "15:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T16:00:00",
-      "endDate": "2026-09-05T17:00:00",
-      "showTime": "16:00:00",
-      "endTime": "17:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T17:00:00",
-      "endDate": "2026-09-05T18:00:00",
-      "showTime": "17:00:00",
-      "endTime": "18:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T18:00:00",
-      "endDate": "2026-09-05T19:00:00",
-      "showTime": "18:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T19:00:00",
-      "endDate": "2026-09-05T20:00:00",
-      "showTime": "19:00:00",
-      "endTime": "20:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T20:00:00",
-      "endDate": "2026-09-05T21:00:00",
-      "showTime": "20:00:00",
-      "endTime": "21:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T21:00:00",
-      "endDate": "2026-09-05T22:00:00",
-      "showTime": "21:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T22:00:00",
-      "endDate": "2026-09-05T23:00:00",
-      "showTime": "22:00:00",
-      "endTime": "23:00:00",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
-    },
-    {
-      "serverDate": "2026-09-05",
-      "showName": "TEST5 HD",
-      "description": "TEST5 HD",
-      "startDate": "2026-09-05T23:00:00",
-      "endDate": "2026-09-05T23:59:59",
-      "showTime": "23:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
-    },
-    {
       "serverDate": "2026-09-06",
       "showName": "TEST5 HD",
       "description": "TEST5 HD",
@@ -1600,7 +1336,7 @@
       "showTime": "00:00:00",
       "endTime": "01:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -1611,7 +1347,7 @@
       "showTime": "01:00:00",
       "endTime": "02:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -1622,7 +1358,7 @@
       "showTime": "02:00:00",
       "endTime": "03:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -1633,7 +1369,7 @@
       "showTime": "03:00:00",
       "endTime": "04:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -1644,7 +1380,7 @@
       "showTime": "04:00:00",
       "endTime": "05:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -1655,7 +1391,7 @@
       "showTime": "05:00:00",
       "endTime": "06:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -1666,7 +1402,7 @@
       "showTime": "06:00:00",
       "endTime": "07:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -1677,7 +1413,7 @@
       "showTime": "07:00:00",
       "endTime": "08:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -1688,7 +1424,7 @@
       "showTime": "08:00:00",
       "endTime": "09:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -1699,7 +1435,7 @@
       "showTime": "09:00:00",
       "endTime": "10:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -1710,7 +1446,7 @@
       "showTime": "10:00:00",
       "endTime": "11:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -1721,7 +1457,7 @@
       "showTime": "11:00:00",
       "endTime": "12:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -1732,7 +1468,7 @@
       "showTime": "12:00:00",
       "endTime": "13:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -1743,7 +1479,7 @@
       "showTime": "13:00:00",
       "endTime": "14:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -1754,7 +1490,7 @@
       "showTime": "14:00:00",
       "endTime": "15:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -1765,7 +1501,7 @@
       "showTime": "15:00:00",
       "endTime": "16:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -1776,7 +1512,7 @@
       "showTime": "16:00:00",
       "endTime": "17:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -1787,7 +1523,7 @@
       "showTime": "17:00:00",
       "endTime": "18:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -1798,7 +1534,7 @@
       "showTime": "18:00:00",
       "endTime": "19:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -1809,7 +1545,7 @@
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -1820,7 +1556,7 @@
       "showTime": "20:00:00",
       "endTime": "21:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -1831,7 +1567,7 @@
       "showTime": "21:00:00",
       "endTime": "22:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -1842,7 +1578,7 @@
       "showTime": "22:00:00",
       "endTime": "23:00:00",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -1853,7 +1589,7 @@
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Sports",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+      "thumbnailUrl": "https://img.media.jio.com/channel/c29911d4c632ca68eea73346350ce55e_16x9.jpg"
     },
     {
       "serverDate": "2026-09-12",
@@ -2114,6 +1850,270 @@
       "description": "TEST5 HD",
       "startDate": "2026-09-12T23:00:00",
       "endDate": "2026-09-12T23:59:59",
+      "showTime": "23:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Sports",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+    },
+    {
+      "serverDate": "2026-09-13",
+      "showName": "TEST5 HD",
+      "description": "TEST5 HD",
+      "startDate": "2026-09-13T00:00:00",
+      "endDate": "2026-09-13T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Sports",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+    },
+    {
+      "serverDate": "2026-09-13",
+      "showName": "TEST5 HD",
+      "description": "TEST5 HD",
+      "startDate": "2026-09-13T01:00:00",
+      "endDate": "2026-09-13T02:00:00",
+      "showTime": "01:00:00",
+      "endTime": "02:00:00",
+      "showCategory": "Sports",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+    },
+    {
+      "serverDate": "2026-09-13",
+      "showName": "TEST5 HD",
+      "description": "TEST5 HD",
+      "startDate": "2026-09-13T02:00:00",
+      "endDate": "2026-09-13T03:00:00",
+      "showTime": "02:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Sports",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+    },
+    {
+      "serverDate": "2026-09-13",
+      "showName": "TEST5 HD",
+      "description": "TEST5 HD",
+      "startDate": "2026-09-13T03:00:00",
+      "endDate": "2026-09-13T04:00:00",
+      "showTime": "03:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Sports",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+    },
+    {
+      "serverDate": "2026-09-13",
+      "showName": "TEST5 HD",
+      "description": "TEST5 HD",
+      "startDate": "2026-09-13T04:00:00",
+      "endDate": "2026-09-13T05:00:00",
+      "showTime": "04:00:00",
+      "endTime": "05:00:00",
+      "showCategory": "Sports",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+    },
+    {
+      "serverDate": "2026-09-13",
+      "showName": "TEST5 HD",
+      "description": "TEST5 HD",
+      "startDate": "2026-09-13T05:00:00",
+      "endDate": "2026-09-13T06:00:00",
+      "showTime": "05:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Sports",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+    },
+    {
+      "serverDate": "2026-09-13",
+      "showName": "TEST5 HD",
+      "description": "TEST5 HD",
+      "startDate": "2026-09-13T06:00:00",
+      "endDate": "2026-09-13T07:00:00",
+      "showTime": "06:00:00",
+      "endTime": "07:00:00",
+      "showCategory": "Sports",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+    },
+    {
+      "serverDate": "2026-09-13",
+      "showName": "TEST5 HD",
+      "description": "TEST5 HD",
+      "startDate": "2026-09-13T07:00:00",
+      "endDate": "2026-09-13T08:00:00",
+      "showTime": "07:00:00",
+      "endTime": "08:00:00",
+      "showCategory": "Sports",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+    },
+    {
+      "serverDate": "2026-09-13",
+      "showName": "TEST5 HD",
+      "description": "TEST5 HD",
+      "startDate": "2026-09-13T08:00:00",
+      "endDate": "2026-09-13T09:00:00",
+      "showTime": "08:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Sports",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+    },
+    {
+      "serverDate": "2026-09-13",
+      "showName": "TEST5 HD",
+      "description": "TEST5 HD",
+      "startDate": "2026-09-13T09:00:00",
+      "endDate": "2026-09-13T10:00:00",
+      "showTime": "09:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Sports",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+    },
+    {
+      "serverDate": "2026-09-13",
+      "showName": "TEST5 HD",
+      "description": "TEST5 HD",
+      "startDate": "2026-09-13T10:00:00",
+      "endDate": "2026-09-13T11:00:00",
+      "showTime": "10:00:00",
+      "endTime": "11:00:00",
+      "showCategory": "Sports",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+    },
+    {
+      "serverDate": "2026-09-13",
+      "showName": "TEST5 HD",
+      "description": "TEST5 HD",
+      "startDate": "2026-09-13T11:00:00",
+      "endDate": "2026-09-13T12:00:00",
+      "showTime": "11:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Sports",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+    },
+    {
+      "serverDate": "2026-09-13",
+      "showName": "TEST5 HD",
+      "description": "TEST5 HD",
+      "startDate": "2026-09-13T12:00:00",
+      "endDate": "2026-09-13T13:00:00",
+      "showTime": "12:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Sports",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+    },
+    {
+      "serverDate": "2026-09-13",
+      "showName": "TEST5 HD",
+      "description": "TEST5 HD",
+      "startDate": "2026-09-13T13:00:00",
+      "endDate": "2026-09-13T14:00:00",
+      "showTime": "13:00:00",
+      "endTime": "14:00:00",
+      "showCategory": "Sports",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+    },
+    {
+      "serverDate": "2026-09-13",
+      "showName": "TEST5 HD",
+      "description": "TEST5 HD",
+      "startDate": "2026-09-13T14:00:00",
+      "endDate": "2026-09-13T15:00:00",
+      "showTime": "14:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Sports",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+    },
+    {
+      "serverDate": "2026-09-13",
+      "showName": "TEST5 HD",
+      "description": "TEST5 HD",
+      "startDate": "2026-09-13T15:00:00",
+      "endDate": "2026-09-13T16:00:00",
+      "showTime": "15:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Sports",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+    },
+    {
+      "serverDate": "2026-09-13",
+      "showName": "TEST5 HD",
+      "description": "TEST5 HD",
+      "startDate": "2026-09-13T16:00:00",
+      "endDate": "2026-09-13T17:00:00",
+      "showTime": "16:00:00",
+      "endTime": "17:00:00",
+      "showCategory": "Sports",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+    },
+    {
+      "serverDate": "2026-09-13",
+      "showName": "TEST5 HD",
+      "description": "TEST5 HD",
+      "startDate": "2026-09-13T17:00:00",
+      "endDate": "2026-09-13T18:00:00",
+      "showTime": "17:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Sports",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+    },
+    {
+      "serverDate": "2026-09-13",
+      "showName": "TEST5 HD",
+      "description": "TEST5 HD",
+      "startDate": "2026-09-13T18:00:00",
+      "endDate": "2026-09-13T19:00:00",
+      "showTime": "18:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Sports",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+    },
+    {
+      "serverDate": "2026-09-13",
+      "showName": "TEST5 HD",
+      "description": "TEST5 HD",
+      "startDate": "2026-09-13T19:00:00",
+      "endDate": "2026-09-13T20:00:00",
+      "showTime": "19:00:00",
+      "endTime": "20:00:00",
+      "showCategory": "Sports",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+    },
+    {
+      "serverDate": "2026-09-13",
+      "showName": "TEST5 HD",
+      "description": "TEST5 HD",
+      "startDate": "2026-09-13T20:00:00",
+      "endDate": "2026-09-13T21:00:00",
+      "showTime": "20:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Sports",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+    },
+    {
+      "serverDate": "2026-09-13",
+      "showName": "TEST5 HD",
+      "description": "TEST5 HD",
+      "startDate": "2026-09-13T21:00:00",
+      "endDate": "2026-09-13T22:00:00",
+      "showTime": "21:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Sports",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+    },
+    {
+      "serverDate": "2026-09-13",
+      "showName": "TEST5 HD",
+      "description": "TEST5 HD",
+      "startDate": "2026-09-13T22:00:00",
+      "endDate": "2026-09-13T23:00:00",
+      "showTime": "22:00:00",
+      "endTime": "23:00:00",
+      "showCategory": "Sports",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg"
+    },
+    {
+      "serverDate": "2026-09-13",
+      "showName": "TEST5 HD",
+      "description": "TEST5 HD",
+      "startDate": "2026-09-13T23:00:00",
+      "endDate": "2026-09-13T23:59:59",
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Sports",
