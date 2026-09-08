@@ -8,182 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/qello-qello001-dhaka.png",
   "programs": [
     {
-      "serverDate": "2026-09-06",
-      "showName": "The Black Keys - Live at Main Square Festival",
-      "description": "Main Square Festival is a music festival that takes place in Arras, France, lasting three days.",
-      "startDate": "2026-09-06T00:00:00",
-      "endDate": "2026-09-06T01:17:00",
-      "showTime": "00:00:00",
-      "endTime": "01:17:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/206909b9ed27217e67398e9fb8c3df79.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Linkin Park - Live in New York",
-      "description": "Filmed at the Madison Square Garden in New York, this concert film gives all fans a spectacular live experience from start to finish; Linkin Park performs hits including \"Numb,\" \"In the End,\" \"Bleed It Out\" and many more.",
-      "startDate": "2026-09-06T01:17:00",
-      "endDate": "2026-09-06T02:59:00",
-      "showTime": "01:17:00",
-      "endTime": "02:59:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f14dcaebbdc2226a28b6fa039c3c7e0.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Jack White - Live at iTunes Festival",
-      "description": "ITunes Festival, is an annual music festival that takes place over a month in London. Sponsored by Apple Inc., it had its first edition in 2007.",
-      "startDate": "2026-09-06T02:59:00",
-      "endDate": "2026-09-06T05:02:00",
-      "showTime": "02:59:00",
-      "endTime": "05:02:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/349d815f9cee119577f502a6eb255983.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Rod Stewart - Live at Hyde Park",
-      "description": "Experience the legendary Rod Stewart as he closes Radio 2's Annual Festival In A Day with a memorable performance in September 2015 at London's Hyde Park.",
-      "startDate": "2026-09-06T05:02:00",
-      "endDate": "2026-09-06T06:26:00",
-      "showTime": "05:02:00",
-      "endTime": "06:26:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/527429595a4a38bd818cd0494c944f2d.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Radiohead - The King of Limbs: Live from the Basement",
-      "description": "The King of Limbs: Live from the Basement is a 2011 live video album by the English alternative rock band Radiohead, performing their eighth album, The King of Limbs (2011).",
-      "startDate": "2026-09-06T06:26:00",
-      "endDate": "2026-09-06T07:31:00",
-      "showTime": "06:26:00",
-      "endTime": "07:31:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ae61eecdfcc21c8a2199e0f17b40651.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Robert Plant - Live in London 2014",
-      "description": "ITunes Festival, is an annual music festival that takes place over a month in London. Sponsored by Apple Inc., it had its first edition in 2007.",
-      "startDate": "2026-09-06T07:31:00",
-      "endDate": "2026-09-06T09:11:00",
-      "showTime": "07:31:00",
-      "endTime": "09:11:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e35915d14a73d616c4455a02324c33f8.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Tom Petty & The Heartbreakers - Live at Soundstage",
-      "description": "Filmed live from the Vic Theatre, Chicago, Illinois, USA in April 2003 for the 'Soundstage' TV series.",
-      "startDate": "2026-09-06T09:11:00",
-      "endDate": "2026-09-06T10:14:00",
-      "showTime": "09:11:00",
-      "endTime": "10:14:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/53e4dd9ebba4a5363ee686c70328b675.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Imagine Dragons - Live At The Moody Theater",
-      "description": "Filmed at The Moody Theater, Texas, this concert film will give all fans a spectacular Live experience from start to finish. Classic Imagine Dragons featuring unforgettable version of their hits: 'Demons', 'Radioactive' and many more.",
-      "startDate": "2026-09-06T10:14:00",
-      "endDate": "2026-09-06T11:30:00",
-      "showTime": "10:14:00",
-      "endTime": "11:30:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1375dd2a9002d761630871209ca807fa.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Adele - iTunes Festival: Live in London",
-      "description": "Adele, a prominent English singer, performs some of her most iconic popular songs in front of a live audience in london.",
-      "startDate": "2026-09-06T11:30:00",
-      "endDate": "2026-09-06T13:10:00",
-      "showTime": "11:30:00",
-      "endTime": "13:10:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/69f03a08454556c7f1860748dc2d489c.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Duran Duran - Live from London",
-      "description": "Filmed at Wembley Arena, London, this concert film will give all fans a spectacular live experience from start to finish; classic Duran Duran featuring unforgettable versions of their hits: Rio, Hungry Like The Wolf, The Reflex and many more.",
-      "startDate": "2026-09-06T13:10:00",
-      "endDate": "2026-09-06T14:49:00",
-      "showTime": "13:10:00",
-      "endTime": "14:49:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2397a06084522877e9081ca73d5924a6.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "The 1975: Rock Am Ring 2019",
-      "description": "Rock im Park is a music festival that takes place in Nuremberg, Germany, lasting three days; featuring: The 1975.",
-      "startDate": "2026-09-06T14:49:00",
-      "endDate": "2026-09-06T15:46:00",
-      "showTime": "14:49:00",
-      "endTime": "15:46:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/88d80792a2be1953e17c44ec30b7d89f.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Rod Stewart - Live at Hyde Park",
-      "description": "Experience the legendary Rod Stewart as he closes Radio 2's Annual Festival In A Day with a memorable performance in September 2015 at London's Hyde Park.",
-      "startDate": "2026-09-06T15:46:00",
-      "endDate": "2026-09-06T17:13:00",
-      "showTime": "15:46:00",
-      "endTime": "17:13:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/527429595a4a38bd818cd0494c944f2d.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "The Moody Blues - Days of Future Passed Live",
-      "description": "This film, capturing an electric evening at The Sony Centre, Toronto, where the band was joined on stage by a full orchestra for the first time ever, is the definitive performance the album Days of Future Passed.",
-      "startDate": "2026-09-06T17:13:00",
-      "endDate": "2026-09-06T19:27:00",
-      "showTime": "17:13:00",
-      "endTime": "19:27:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2cd512b8d749c331e8b04a35b7e1893.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Elton John: Live in London 2013",
-      "description": "Filmed at the Roundhouse in London, this concert film gives fans a live experience from start to finish; Elton John performs his hits: \"Tiny Dancer,\" \"Rocket Man,\" \"Your Song,\" and many more.",
-      "startDate": "2026-09-06T19:27:00",
-      "endDate": "2026-09-06T21:28:00",
-      "showTime": "19:27:00",
-      "endTime": "21:28:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/24653f0c9d405ab0de1b7bc39831354f.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "Gwen Stefani - This is What The Truth Feels Like Tour 2016",
-      "description": "This is What The Truth Feels Like is a Gwen Stefani tour made to publicize her album, with the same name. The tour was done in the United States and Canada in 2016.",
-      "startDate": "2026-09-06T21:28:00",
-      "endDate": "2026-09-06T23:30:00",
-      "showTime": "21:28:00",
-      "endTime": "23:30:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b4b723854276611d28146b1ae89639d1.jpg"
-    },
-    {
-      "serverDate": "2026-09-06",
-      "showName": "The Jimi Hendrix Experience - Miami Pop Festival",
-      "description": "Spotlighting the Jimi Hendrix Experience's appearance at the Miami Pop Festival in 1968, this invaluable documentary features performance footage, home movies, interviews and more.",
-      "startDate": "2026-09-06T23:30:00",
-      "endDate": "2026-09-06T23:59:59",
-      "showTime": "23:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/379d41b95112e611c644df6bedd02e0f.jpg"
-    },
-    {
       "serverDate": "2026-09-07",
       "showName": "Bruce Springsteen: Live in Hyde Park",
       "description": "\"London Calling: Live in Hyde Park\" is a concert video of Bruce Springsteen & the E Street Band's performance during the Hard Rock Calling music festival in Hyde Park, London on June 28, 2009.",
@@ -874,7 +698,7 @@
       "showTime": "17:46:00",
       "endTime": "18:35:00",
       "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f3d8f810b5a020f5fea734c3fae3991b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/31f25e5e4c50e9669d75057bfa227f83.jpg"
     },
     {
       "serverDate": "2026-09-10",
@@ -1436,6 +1260,182 @@
       "endTime": "23:59:59",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a54071f56f75667e4c1fb4674f0a239d.jpg"
+    },
+    {
+      "serverDate": "2026-09-14",
+      "showName": "Prince - The Unauthorized Biography",
+      "description": "Documentary focusing on the legendary musician's life and work, from his troubled childhood in Minneapolis to becoming one of the most popular and innovative artists in contemporary music.",
+      "startDate": "2026-09-14T00:00:00",
+      "endDate": "2026-09-14T00:41:00",
+      "showTime": "00:00:00",
+      "endTime": "00:41:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a54071f56f75667e4c1fb4674f0a239d.jpg"
+    },
+    {
+      "serverDate": "2026-09-14",
+      "showName": "Lady Gaga -- Live in London 2013",
+      "description": "Lady Gaga's performance at the iTunes Festival in London on Sept. 1, 2013 marks her first full concert since the Born This Way Ball.",
+      "startDate": "2026-09-14T00:41:00",
+      "endDate": "2026-09-14T02:06:00",
+      "showTime": "00:41:00",
+      "endTime": "02:06:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b6bac45e917b2123631be78385a2133.jpg"
+    },
+    {
+      "serverDate": "2026-09-14",
+      "showName": "The Killers - Live at Rock Am Ring",
+      "description": "The Killers perform at Rock Am Ring, a music festival that takes place annually at the Nürburgring Race Track in Western Germany, with tracks like When You Were Young and The World We Live In.",
+      "startDate": "2026-09-14T02:06:00",
+      "endDate": "2026-09-14T03:33:00",
+      "showTime": "02:06:00",
+      "endTime": "03:33:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d5e7a11492013635c6cc6234d165c59.jpg"
+    },
+    {
+      "serverDate": "2026-09-14",
+      "showName": "Qello Concerts' Best",
+      "description": "The best of Qello Concerts.",
+      "startDate": "2026-09-14T03:33:00",
+      "endDate": "2026-09-14T03:57:00",
+      "showTime": "03:33:00",
+      "endTime": "03:57:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf96246e9b9647e11322d37f97afc84c.jpg"
+    },
+    {
+      "serverDate": "2026-09-14",
+      "showName": "Charlie Puth - Live in London 2015",
+      "description": "Charlie Puth performs during the 2015 Apple Music Festival at The Roundhouse on September 20, 2015, in London, England.",
+      "startDate": "2026-09-14T03:57:00",
+      "endDate": "2026-09-14T04:37:00",
+      "showTime": "03:57:00",
+      "endTime": "04:37:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e87d2ab0215e5a1cba2983d3f1b28da2.jpg"
+    },
+    {
+      "serverDate": "2026-09-14",
+      "showName": "Paul Rodgers - Free Spirit",
+      "description": "The 16-song collection, 'Free Spirit', filmed in London, England returned Paul Rodgers to his roots, bringing fans an extraordinary evening celebrating the music of Free.",
+      "startDate": "2026-09-14T04:37:00",
+      "endDate": "2026-09-14T06:13:00",
+      "showTime": "04:37:00",
+      "endTime": "06:13:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/188e1c4e33e524a362580374c78336ea.jpg"
+    },
+    {
+      "serverDate": "2026-09-14",
+      "showName": "Paul McCartney - The Space Within US",
+      "description": "Paul McCartney presents this special performance of the US Tour, made in the United States, 11 weeks and 34 shows, playing great compositions of his solo career along with some Wings and Beatles songs.",
+      "startDate": "2026-09-14T06:13:00",
+      "endDate": "2026-09-14T08:29:00",
+      "showTime": "06:13:00",
+      "endTime": "08:29:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dc74bb918ca04b36f343c4ffeae49b05.jpg"
+    },
+    {
+      "serverDate": "2026-09-14",
+      "showName": "Michael Kiwanuka: Garorock Festival 2017",
+      "description": "Watch Michael Kiwanuka's performance at the Garorock Festival in 2017.",
+      "startDate": "2026-09-14T08:29:00",
+      "endDate": "2026-09-14T09:34:00",
+      "showTime": "08:29:00",
+      "endTime": "09:34:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/697ae579ff3121f668a45c4eea5e7aee.jpg"
+    },
+    {
+      "serverDate": "2026-09-14",
+      "showName": "Leon Bridges -- Live in London 2015",
+      "description": "American singer-songwriter Leon Bridges performs his top tracks at the Apple Music Festival in London in 2015.",
+      "startDate": "2026-09-14T09:34:00",
+      "endDate": "2026-09-14T10:13:00",
+      "showTime": "09:34:00",
+      "endTime": "10:13:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5724b083d632bd4529ce66b1f280cb94.jpg"
+    },
+    {
+      "serverDate": "2026-09-14",
+      "showName": "John Legend - Live at the iTunes Festival",
+      "description": "ITunes Festival, is an annual music festival that takes place over a month in London. Sponsored by Apple Inc., it had its first edition in 2007. Featuring: John Legend.",
+      "startDate": "2026-09-14T10:13:00",
+      "endDate": "2026-09-14T12:09:00",
+      "showTime": "10:13:00",
+      "endTime": "12:09:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7ee76219aaf6036afe481c06229b0469.jpg"
+    },
+    {
+      "serverDate": "2026-09-14",
+      "showName": "Lenny Kravitz - Live at the iTunes Festival",
+      "description": "Lenny Kravitz has been consolidated as one of the stars that has been in force for a long time, this has led him to appear all over the world and be part of the most popular festivals in the world.",
+      "startDate": "2026-09-14T12:09:00",
+      "endDate": "2026-09-14T14:12:00",
+      "showTime": "12:09:00",
+      "endTime": "14:12:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8cb129fb8d7f1d5a53e9a4e5bdff66df.jpg"
+    },
+    {
+      "serverDate": "2026-09-14",
+      "showName": "Enrique Iglesias - Live From the Odyssey Arena",
+      "description": "Filmed at the Odyssey Arena in Belfast, this concert film offers fans a spectacular live experience from start to finish — a classic Enrique Iglesias concert featuring unforgettable performances of his hits \"Bailamos,\" \"Hero,\" and many more.",
+      "startDate": "2026-09-14T14:12:00",
+      "endDate": "2026-09-14T15:20:00",
+      "showTime": "14:12:00",
+      "endTime": "15:20:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/874f88f62bc691ce00a2350e8a51151e.jpg"
+    },
+    {
+      "serverDate": "2026-09-14",
+      "showName": "Elton John: Live in London 2013",
+      "description": "Filmed at the Roundhouse in London, this concert film gives fans a live experience from start to finish; Elton John performs his hits: \"Tiny Dancer,\" \"Rocket Man,\" \"Your Song,\" and many more.",
+      "startDate": "2026-09-14T15:20:00",
+      "endDate": "2026-09-14T17:21:00",
+      "showTime": "15:20:00",
+      "endTime": "17:21:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/24653f0c9d405ab0de1b7bc39831354f.jpg"
+    },
+    {
+      "serverDate": "2026-09-14",
+      "showName": "Eric Clapton & Steve Winwood - Live from Madison Square Garden",
+      "description": "History rocked and rock made history during a sold-out 3-gig stand at Madison Square Garden in February 2008 when Eric Clapton and Steve Winwood performed a concert together for the first time since their days in the legendary Blind Faith in 1969.",
+      "startDate": "2026-09-14T17:21:00",
+      "endDate": "2026-09-14T20:05:00",
+      "showTime": "17:21:00",
+      "endTime": "20:05:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c1ec53f7d45dc596a288143cc56609cd.jpg"
+    },
+    {
+      "serverDate": "2026-09-14",
+      "showName": "Bruce Springsteen: Live in Hyde Park",
+      "description": "\"London Calling: Live in Hyde Park\" is a concert video of Bruce Springsteen & the E Street Band's performance during the Hard Rock Calling music festival in Hyde Park, London on June 28, 2009.",
+      "startDate": "2026-09-14T20:05:00",
+      "endDate": "2026-09-14T23:30:00",
+      "showTime": "20:05:00",
+      "endTime": "23:30:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abf1b6d96b5329c6a1de97ba49b9aad1.jpg"
+    },
+    {
+      "serverDate": "2026-09-14",
+      "showName": "Beck -- Live in London 2014",
+      "description": "Filmed at Roundhouse, London, this concert film will give all fans an experience; Beck performs his hits including \"Loser,\" \"Wave,\" \"Debra\" and many more.",
+      "startDate": "2026-09-14T23:30:00",
+      "endDate": "2026-09-14T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a9093a8af7f80671768d45ea42cb15da.jpg"
     }
   ]
 }
