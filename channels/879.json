@@ -1307,14 +1307,14 @@
     },
     {
       "serverDate": "2026-09-11",
-      "showName": "Balaram Purnima Mahatmya",
-      "description": "A religious scholar sheds light on the story of the birth of an important Hindu deity, its significance and how devotees observe this day.",
+      "showName": "Bhakti Madhuri",
+      "description": "A religious leader sheds light on the teachings of the Almighty and encourages followers to take the path of spirituality.",
       "startDate": "2026-09-11T09:30:00",
       "endDate": "2026-09-11T10:00:00",
       "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ea2d3ed27664a4980555741222f587af.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bcdd25d1d25dd9a1aa5b26e22f5e5653.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -1552,33 +1552,22 @@
       "showName": "Nectar Verses",
       "description": "A religious and theological scholar elucidates the profound meanings of verses from Srimad Bhagavatam Purana, unveiling its spiritual wisdom.",
       "startDate": "2026-09-11T21:30:00",
-      "endDate": "2026-09-11T22:00:00",
+      "endDate": "2026-09-11T23:59:59",
       "showTime": "21:30:00",
-      "endTime": "22:00:00",
+      "endTime": "23:59:59",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0216aaf48ff6761ae59b51b3d97a5f3f.jpg"
     },
     {
-      "serverDate": "2026-09-11",
-      "showName": "Special Night Kirtan",
-      "description": "Special Night Kirtan",
-      "startDate": "2026-09-11T22:00:00",
-      "endDate": "2026-09-11T23:59:59",
-      "showTime": "22:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
       "serverDate": "2026-09-12",
-      "showName": "Special Night Kirtan",
-      "description": "Special Night Kirtan",
+      "showName": "Nectar Verses",
+      "description": "A religious and theological scholar elucidates the profound meanings of verses from Srimad Bhagavatam Purana, unveiling its spiritual wisdom.",
       "startDate": "2026-09-12T00:00:00",
       "endDate": "2026-09-12T01:00:00",
       "showTime": "00:00:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0216aaf48ff6761ae59b51b3d97a5f3f.jpg"
     },
     {
       "serverDate": "2026-09-12",
@@ -2355,11 +2344,66 @@
       "showName": "Special Night Kirtan",
       "description": "Special Night Kirtan",
       "startDate": "2026-09-14T00:00:00",
-      "endDate": "2026-09-14T06:30:00",
+      "endDate": "2026-09-14T01:00:00",
       "showTime": "00:00:00",
-      "endTime": "06:30:00",
+      "endTime": "01:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-09-14",
+      "showName": "Special Night Kirtan",
+      "description": "Special Night Kirtan",
+      "startDate": "2026-09-14T01:00:00",
+      "endDate": "2026-09-14T04:00:00",
+      "showTime": "01:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-09-14",
+      "showName": "Gita Parayan",
+      "description": "A religious scholar recites verses from the Holy Bhagavad Gita so that the devotees understand the universal teachings of Lord Krishna.",
+      "startDate": "2026-09-14T04:00:00",
+      "endDate": "2026-09-14T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/501f414d2c59416d39e98c74a590ff24.jpg"
+    },
+    {
+      "serverDate": "2026-09-14",
+      "showName": "Mangal Aarti Iskcon Vrindavan",
+      "description": "Hindu devotees gather at the ISKCON Temple in Vrindavan to perform a religious ritual to worship Lord Krishna and feel connected with the Almighty.",
+      "startDate": "2026-09-14T04:30:00",
+      "endDate": "2026-09-14T05:02:00",
+      "showTime": "04:30:00",
+      "endTime": "05:02:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6187b660eb1134abe7982d4989ffdb4c.jpg"
+    },
+    {
+      "serverDate": "2026-09-14",
+      "showName": "Mangal Aarti Iskcon Chowpatty",
+      "description": "Hindu priests and devotees come together to perform a religious ritual and seek blessings of the Almighty at a sacred destination.",
+      "startDate": "2026-09-14T05:02:00",
+      "endDate": "2026-09-14T05:30:00",
+      "showTime": "05:02:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/73670753b62f5f4a89149ec866dbddaa.jpg"
+    },
+    {
+      "serverDate": "2026-09-14",
+      "showName": "Tulsi Aarti & Japa",
+      "description": "A devotional hymn honours Goddess Tulsi, revered as Lord Vishnu's devoted worshipper, offering praise and seeking her divine blessings.",
+      "startDate": "2026-09-14T05:30:00",
+      "endDate": "2026-09-14T06:30:00",
+      "showTime": "05:30:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f5f72c30e1d701701127e2494429a209.jpg"
     },
     {
       "serverDate": "2026-09-14",
@@ -2429,14 +2473,14 @@
     },
     {
       "serverDate": "2026-09-14",
-      "showName": "Bhakti Me Shighra Unnati Ke Liye 9 Sopan",
-      "description": "A religious leader delivers a spiritual discourse on the principles of Hinduism and guides devotees to the path of righteousness.",
+      "showName": "Rasikeshwar Yogeshwara",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-14T09:00:00",
       "endDate": "2026-09-14T09:30:00",
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a90cf8dd1a4ef973f1c4880ba6413fe.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9cf054445b01b65dbfe7921e40673a40.jpg"
     },
     {
       "serverDate": "2026-09-14",
@@ -2487,22 +2531,11 @@
       "showName": "Katha Sagar",
       "description": "An eminent spiritual leader elucidates on various stories from religious discourses, offering guidance and enlightenment.",
       "startDate": "2026-09-14T11:30:00",
-      "endDate": "2026-09-14T14:00:00",
-      "showTime": "11:30:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f41433c3e9485a7cdd5e2ea24ef13eb4.jpg"
-    },
-    {
-      "serverDate": "2026-09-14",
-      "showName": "Naitik Kahaniya",
-      "description": "Religious leaders recount Hindu mythological tales, inspiring followers to embrace virtuous living and uphold traditional values.",
-      "startDate": "2026-09-14T14:00:00",
       "endDate": "2026-09-14T14:30:00",
-      "showTime": "14:00:00",
+      "showTime": "11:30:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8e64092517089b0bd372c93e08631513.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f41433c3e9485a7cdd5e2ea24ef13eb4.jpg"
     },
     {
       "serverDate": "2026-09-14",
@@ -2517,14 +2550,14 @@
     },
     {
       "serverDate": "2026-09-14",
-      "showName": "Samskaar",
-      "description": "The host provides a comprehensive and detailed insight into the scriptures that shed light on various matters related to pregnancy.",
+      "showName": "Radhastami",
+      "description": "Radhastami",
       "startDate": "2026-09-14T15:00:00",
       "endDate": "2026-09-14T15:30:00",
       "showTime": "15:00:00",
       "endTime": "15:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ff1a089d40363de3c65b0ee3f5d34ed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6981d77b46dcd65afd03b392766650d6.jpg"
     },
     {
       "serverDate": "2026-09-14",
@@ -2550,25 +2583,36 @@
     },
     {
       "serverDate": "2026-09-14",
-      "showName": "Aarti - Iskcon Pune",
-      "description": "Hindu spiritual leaders and devotees perform religious rituals and chant sacred texts to invoke the blessings of the gods.",
+      "showName": "Uthapan Aarti",
+      "description": "Priests perform an early morning awakening ritual as an act of worship, seeking divine blessings from the Almighty to lead a life of righteousness and fulfilment.",
       "startDate": "2026-09-14T16:30:00",
       "endDate": "2026-09-14T17:00:00",
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/79f0857d1d94e594a5070b5255176fa0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26a44c3ea35436198e1a14735684155f.jpg"
     },
     {
       "serverDate": "2026-09-14",
-      "showName": "Ek Mulakat Krishna Bhakt Ke Sath",
-      "description": "The host invites a devotee of Lord Krishna and engages in an insightful conversation surrounding key religious and spiritual matters.",
+      "showName": "Bhakti Madhuri",
+      "description": "A religious leader sheds light on the teachings of the Almighty and encourages followers to take the path of spirituality.",
       "startDate": "2026-09-14T17:00:00",
-      "endDate": "2026-09-14T18:15:00",
+      "endDate": "2026-09-14T17:30:00",
       "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bcdd25d1d25dd9a1aa5b26e22f5e5653.jpg"
+    },
+    {
+      "serverDate": "2026-09-14",
+      "showName": "Anandmay Kirtan",
+      "description": "Hindu religious leaders and devotees sing hymns and devotional songs and recite sacred verses to seek the blessings of the Almighty.",
+      "startDate": "2026-09-14T17:30:00",
+      "endDate": "2026-09-14T18:15:00",
+      "showTime": "17:30:00",
       "endTime": "18:15:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c732dd03da6d7b1505af5ce3a9e54120.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/367b8aac624e99f32bc597820a32ab34.jpg"
     },
     {
       "serverDate": "2026-09-14",
@@ -2660,135 +2704,36 @@
     },
     {
       "serverDate": "2026-09-14",
-      "showName": "Kirtan - When The Soul Sings",
-      "description": "A religious leader recites sacred devotional verses to worship the Divine while encouraging devotees to follow a spiritual path.",
+      "showName": "Special Night Kirtan",
+      "description": "Special Night Kirtan",
       "startDate": "2026-09-14T22:00:00",
-      "endDate": "2026-09-14T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/808ceee40e599b870debb02de87c5666.jpg"
-    },
-    {
-      "serverDate": "2026-09-14",
-      "showName": "Devotional Mellows",
-      "description": "A comprehensive compilation of devotional hymns and songs are played back to back, praising the Almighty and seeking divine blessings.",
-      "startDate": "2026-09-14T22:30:00",
-      "endDate": "2026-09-14T23:00:00",
-      "showTime": "22:30:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c678c359d674cbc4d0d274369757fde2.jpg"
-    },
-    {
-      "serverDate": "2026-09-14",
-      "showName": "Joy of Krishna Consciousness",
-      "description": "Religious leaders and devotees sing devotional songs and offer their sincere prayers to Lord Krishna, seeking his divine blessings.",
-      "startDate": "2026-09-14T23:00:00",
-      "endDate": "2026-09-14T23:30:00",
-      "showTime": "23:00:00",
-      "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3eadb9b0d12f8b2cc00d555f3bd62434.jpg"
-    },
-    {
-      "serverDate": "2026-09-14",
-      "showName": "Kirtan - When The Soul Sings",
-      "description": "A religious leader recites sacred devotional verses to worship the Divine while encouraging devotees to follow a spiritual path.",
-      "startDate": "2026-09-14T23:30:00",
       "endDate": "2026-09-14T23:59:59",
-      "showTime": "23:30:00",
+      "showTime": "22:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/808ceee40e599b870debb02de87c5666.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-09-15",
-      "showName": "Joy of Krishna Consciousness",
-      "description": "Religious leaders and devotees sing devotional songs and offer their sincere prayers to Lord Krishna, seeking his divine blessings.",
+      "showName": "Special Night Kirtan",
+      "description": "Special Night Kirtan",
       "startDate": "2026-09-15T00:00:00",
-      "endDate": "2026-09-15T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3eadb9b0d12f8b2cc00d555f3bd62434.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "Joy of Krishna Consciousness",
-      "description": "Religious leaders and devotees sing devotional songs and offer their sincere prayers to Lord Krishna, seeking his divine blessings.",
-      "startDate": "2026-09-15T00:30:00",
       "endDate": "2026-09-15T01:00:00",
-      "showTime": "00:30:00",
+      "showTime": "00:00:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3eadb9b0d12f8b2cc00d555f3bd62434.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-09-15",
-      "showName": "Kirtan - When The Soul Sings",
-      "description": "A religious leader recites sacred devotional verses to worship the Divine while encouraging devotees to follow a spiritual path.",
+      "showName": "Special Night Kirtan",
+      "description": "Special Night Kirtan",
       "startDate": "2026-09-15T01:00:00",
-      "endDate": "2026-09-15T01:30:00",
-      "showTime": "01:00:00",
-      "endTime": "01:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/808ceee40e599b870debb02de87c5666.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "Joy of Krishna Consciousness",
-      "description": "Religious leaders and devotees sing devotional songs and offer their sincere prayers to Lord Krishna, seeking his divine blessings.",
-      "startDate": "2026-09-15T01:30:00",
-      "endDate": "2026-09-15T02:00:00",
-      "showTime": "01:30:00",
-      "endTime": "02:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3eadb9b0d12f8b2cc00d555f3bd62434.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "Joy of Krishna Consciousness",
-      "description": "Religious leaders and devotees sing devotional songs and offer their sincere prayers to Lord Krishna, seeking his divine blessings.",
-      "startDate": "2026-09-15T02:00:00",
-      "endDate": "2026-09-15T02:30:00",
-      "showTime": "02:00:00",
-      "endTime": "02:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3eadb9b0d12f8b2cc00d555f3bd62434.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "Kirtan - When The Soul Sings",
-      "description": "A religious leader recites sacred devotional verses to worship the Divine while encouraging devotees to follow a spiritual path.",
-      "startDate": "2026-09-15T02:30:00",
-      "endDate": "2026-09-15T03:00:00",
-      "showTime": "02:30:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/808ceee40e599b870debb02de87c5666.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "Enlightened Living with Chaitanya Charan",
-      "description": "Chaitanya Charan, a monk, mentor and spiritual author, delivers a discourse on how one can incorporate the teachings of the Bhagavad Gita in their daily life.",
-      "startDate": "2026-09-15T03:00:00",
-      "endDate": "2026-09-15T03:30:00",
-      "showTime": "03:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9621ca3cf219d20dd14f10ee297d6f07.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "Joy of Krishna Consciousness",
-      "description": "Religious leaders and devotees sing devotional songs and offer their sincere prayers to Lord Krishna, seeking his divine blessings.",
-      "startDate": "2026-09-15T03:30:00",
       "endDate": "2026-09-15T04:00:00",
-      "showTime": "03:30:00",
+      "showTime": "01:00:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3eadb9b0d12f8b2cc00d555f3bd62434.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-09-15",
@@ -2902,14 +2847,14 @@
     },
     {
       "serverDate": "2026-09-15",
-      "showName": "Bhakti Me Shighra Unnati Ke Liye 9 Sopan",
-      "description": "A religious leader delivers a spiritual discourse on the principles of Hinduism and guides devotees to the path of righteousness.",
+      "showName": "Rasikeshwar Yogeshwara",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-15T09:00:00",
       "endDate": "2026-09-15T09:30:00",
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a90cf8dd1a4ef973f1c4880ba6413fe.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9cf054445b01b65dbfe7921e40673a40.jpg"
     },
     {
       "serverDate": "2026-09-15",
@@ -2960,22 +2905,44 @@
       "showName": "Katha Sagar",
       "description": "An eminent spiritual leader elucidates on various stories from religious discourses, offering guidance and enlightenment.",
       "startDate": "2026-09-15T11:30:00",
-      "endDate": "2026-09-15T14:00:00",
+      "endDate": "2026-09-15T13:08:00",
       "showTime": "11:30:00",
-      "endTime": "14:00:00",
+      "endTime": "13:08:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f41433c3e9485a7cdd5e2ea24ef13eb4.jpg"
     },
     {
       "serverDate": "2026-09-15",
-      "showName": "Naitik Kahaniya",
-      "description": "Religious leaders recount Hindu mythological tales, inspiring followers to embrace virtuous living and uphold traditional values.",
+      "showName": "Bhakti Madhuri",
+      "description": "A religious leader sheds light on the teachings of the Almighty and encourages followers to take the path of spirituality.",
+      "startDate": "2026-09-15T13:08:00",
+      "endDate": "2026-09-15T13:30:00",
+      "showTime": "13:08:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bcdd25d1d25dd9a1aa5b26e22f5e5653.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
+      "showName": "Satvik Rasoi",
+      "description": "The host shares recipes for dishes that follow the Indian cooking philosophy of 'Satvik Rasoi' while demonstrating how to prepare them in the correct manner.",
+      "startDate": "2026-09-15T13:30:00",
+      "endDate": "2026-09-15T14:00:00",
+      "showTime": "13:30:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5ee696c333e85c1b27922b6ffae169e7.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
+      "showName": "Anandmay Kirtan",
+      "description": "Hindu religious leaders and devotees sing hymns and devotional songs and recite sacred verses to seek the blessings of the Almighty.",
       "startDate": "2026-09-15T14:00:00",
       "endDate": "2026-09-15T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8e64092517089b0bd372c93e08631513.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/367b8aac624e99f32bc597820a32ab34.jpg"
     },
     {
       "serverDate": "2026-09-15",
@@ -2990,14 +2957,14 @@
     },
     {
       "serverDate": "2026-09-15",
-      "showName": "Samskaar",
-      "description": "The host provides a comprehensive and detailed insight into the scriptures that shed light on various matters related to pregnancy.",
+      "showName": "Radhastami",
+      "description": "Radhastami",
       "startDate": "2026-09-15T15:00:00",
       "endDate": "2026-09-15T15:30:00",
       "showTime": "15:00:00",
       "endTime": "15:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ff1a089d40363de3c65b0ee3f5d34ed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6981d77b46dcd65afd03b392766650d6.jpg"
     },
     {
       "serverDate": "2026-09-15",
@@ -3023,25 +2990,36 @@
     },
     {
       "serverDate": "2026-09-15",
-      "showName": "Aarti - Iskcon Pune",
-      "description": "Hindu spiritual leaders and devotees perform religious rituals and chant sacred texts to invoke the blessings of the gods.",
+      "showName": "Uthapan Aarti",
+      "description": "Priests perform an early morning awakening ritual as an act of worship, seeking divine blessings from the Almighty to lead a life of righteousness and fulfilment.",
       "startDate": "2026-09-15T16:30:00",
       "endDate": "2026-09-15T17:00:00",
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/79f0857d1d94e594a5070b5255176fa0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26a44c3ea35436198e1a14735684155f.jpg"
     },
     {
       "serverDate": "2026-09-15",
-      "showName": "Ek Mulakat Krishna Bhakt Ke Sath",
-      "description": "The host invites a devotee of Lord Krishna and engages in an insightful conversation surrounding key religious and spiritual matters.",
+      "showName": "Bhakti Madhuri",
+      "description": "A religious leader sheds light on the teachings of the Almighty and encourages followers to take the path of spirituality.",
       "startDate": "2026-09-15T17:00:00",
-      "endDate": "2026-09-15T18:15:00",
+      "endDate": "2026-09-15T17:30:00",
       "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bcdd25d1d25dd9a1aa5b26e22f5e5653.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
+      "showName": "Anandmay Kirtan",
+      "description": "Hindu religious leaders and devotees sing hymns and devotional songs and recite sacred verses to seek the blessings of the Almighty.",
+      "startDate": "2026-09-15T17:30:00",
+      "endDate": "2026-09-15T18:15:00",
+      "showTime": "17:30:00",
       "endTime": "18:15:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c732dd03da6d7b1505af5ce3a9e54120.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/367b8aac624e99f32bc597820a32ab34.jpg"
     },
     {
       "serverDate": "2026-09-15",
@@ -3133,47 +3111,14 @@
     },
     {
       "serverDate": "2026-09-15",
-      "showName": "Kirtan - When The Soul Sings",
-      "description": "A religious leader recites sacred devotional verses to worship the Divine while encouraging devotees to follow a spiritual path.",
+      "showName": "Special Night Kirtan",
+      "description": "Special Night Kirtan",
       "startDate": "2026-09-15T22:00:00",
-      "endDate": "2026-09-15T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/808ceee40e599b870debb02de87c5666.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "Devotional Mellows",
-      "description": "A comprehensive compilation of devotional hymns and songs are played back to back, praising the Almighty and seeking divine blessings.",
-      "startDate": "2026-09-15T22:30:00",
-      "endDate": "2026-09-15T23:00:00",
-      "showTime": "22:30:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c678c359d674cbc4d0d274369757fde2.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "Joy of Krishna Consciousness",
-      "description": "Religious leaders and devotees sing devotional songs and offer their sincere prayers to Lord Krishna, seeking his divine blessings.",
-      "startDate": "2026-09-15T23:00:00",
-      "endDate": "2026-09-15T23:30:00",
-      "showTime": "23:00:00",
-      "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3eadb9b0d12f8b2cc00d555f3bd62434.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "Kirtan - When The Soul Sings",
-      "description": "A religious leader recites sacred devotional verses to worship the Divine while encouraging devotees to follow a spiritual path.",
-      "startDate": "2026-09-15T23:30:00",
       "endDate": "2026-09-15T23:59:59",
-      "showTime": "23:30:00",
+      "showTime": "22:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/808ceee40e599b870debb02de87c5666.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     }
   ]
 }
