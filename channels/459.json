@@ -8,116 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png",
   "programs": [
     {
-      "serverDate": "2026-09-07",
-      "showName": "Pathinettam Padi",
-      "description": "The students of two schools consider each other as rivals and constantly keep fighting. However, Professor John tries to guide the students towards the right path.",
-      "startDate": "2026-09-07T00:00:00",
-      "endDate": "2026-09-07T00:50:00",
-      "showTime": "00:00:00",
-      "endTime": "00:50:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/98e7759e30a7209a71adcf8deff8b917.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Nasrani",
-      "description": "David and Sara's marriage fails due to an unexpected turn of events. Years later, they continue to love one another and also strive to prove Sara's sister's innocence in a murder case.",
-      "startDate": "2026-09-07T00:50:00",
-      "endDate": "2026-09-07T03:15:00",
-      "showTime": "00:50:00",
-      "endTime": "03:15:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0dbd5f367fc9a3c2190529b2b84e378.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Cheriya Kallanum Valiya Policum",
-      "description": "Sadasivan comes across a house where the owner, Kumaran, has committed suicide to protect his wife, Soumini. However, what is even stranger is that a man who is visually challenged is always around.",
-      "startDate": "2026-09-07T03:15:00",
-      "endDate": "2026-09-07T05:00:00",
-      "showTime": "03:15:00",
-      "endTime": "05:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/685223cca12b42439a354e9eb6141dba.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Jawan of Vellimala",
-      "description": "The villagers of Vellimala force the government to build a dam in their village. However, when the dam becomes unsafe, the government decides to destroy it, leading to violent protests by the villagers.",
-      "startDate": "2026-09-07T05:00:00",
-      "endDate": "2026-09-07T07:00:00",
-      "showTime": "05:00:00",
-      "endTime": "07:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c767caaa9243f783bfd01d63cd3a13aa.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Kerala Varma Pazhassiraja",
-      "description": "In 1796, Kerala Varma, king of Pazhassi, leaves his kingdom due to the East India Company and seeks refuge in the Wayanad forests. He then uses guerrilla warfare tactics against his enemies.",
-      "startDate": "2026-09-07T07:00:00",
-      "endDate": "2026-09-07T10:20:00",
-      "showTime": "07:00:00",
-      "endTime": "10:20:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5187249e966e7bea52d36d31e1c35793.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Nerariyan CBI",
-      "description": "Years after a young woman, Mythili, is murdered in a supposedly haunted mansion, Sethurama Iyer, a CBI officer, decides to find the culprit and solve the mystery.",
-      "startDate": "2026-09-07T10:20:00",
-      "endDate": "2026-09-07T13:00:00",
-      "showTime": "10:20:00",
-      "endTime": "13:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cb468a7aad28ce9ad752ba713e9ee03.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "One",
-      "description": "An aspiring policeman embarks on an unauthorised mission to investigate a devious scientist. However, he confronts various challenges when his actions are exposed.",
-      "startDate": "2026-09-07T13:00:00",
-      "endDate": "2026-09-07T16:00:00",
-      "showTime": "13:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dbfb27295c935ba93fd2f513ac4dbf79.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Bramayugam",
-      "description": "A folk singer in 17th-century Kerala flees slavery and discovers a mansion. Inside, he encounters an enigmatic cook and a powerful master, setting in motion a chain of events that changes his life.",
-      "startDate": "2026-09-07T16:00:00",
-      "endDate": "2026-09-07T19:00:00",
-      "showTime": "16:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/82bdf62a443b1099e56148985d8c90c1.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Bheeshmaparvam",
-      "description": "Michael, the third son of the Anjootti family in Kochi, takes over the business. Moreover, a few house members join with foes to clamp down on him.",
-      "startDate": "2026-09-07T19:00:00",
-      "endDate": "2026-09-07T22:00:00",
-      "showTime": "19:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1859cc98ed728a4e5717364145fe0109.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Kannur Squad",
-      "description": "Determined to catch a notorious criminal, a police officer and his team undergoes several challenges as they scale the lengths of the country.",
-      "startDate": "2026-09-07T22:00:00",
-      "endDate": "2026-09-07T23:59:59",
-      "showTime": "22:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/64f295400eb5b9d8c4ec45ab91506d19.jpg"
-    },
-    {
       "serverDate": "2026-09-08",
       "showName": "Kannur Squad",
       "description": "Determined to catch a notorious criminal, a police officer and his team undergoes several challenges as they scale the lengths of the country.",
@@ -886,6 +776,94 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1961f05c01a0548c6f782354798f871e.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
+      "showName": "Vellimoonga",
+      "description": "A middle-aged politician falls in love with a girl who is half his age, only to discover later that she is the daughter of the woman whom he loved in his childhood.",
+      "startDate": "2026-09-15T00:00:00",
+      "endDate": "2026-09-15T03:00:00",
+      "showTime": "00:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1961f05c01a0548c6f782354798f871e.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-15T03:00:00",
+      "endDate": "2026-09-15T06:00:00",
+      "showTime": "03:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-15T06:00:00",
+      "endDate": "2026-09-15T09:00:00",
+      "showTime": "06:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-15T09:00:00",
+      "endDate": "2026-09-15T12:00:00",
+      "showTime": "09:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-15T12:00:00",
+      "endDate": "2026-09-15T15:00:00",
+      "showTime": "12:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-15T15:00:00",
+      "endDate": "2026-09-15T18:00:00",
+      "showTime": "15:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-15T18:00:00",
+      "endDate": "2026-09-15T21:00:00",
+      "showTime": "18:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-15T21:00:00",
+      "endDate": "2026-09-15T23:59:59",
+      "showTime": "21:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
     }
   ]
 }

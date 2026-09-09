@@ -8,116 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Movies.png",
   "programs": [
     {
-      "serverDate": "2026-09-07",
-      "showName": "Nenapideya",
-      "description": "A carefree young man appointed to manage an expansive estate gets thrust into facing the presence of a vengeful otherworldly entity.",
-      "startDate": "2026-09-07T00:00:00",
-      "endDate": "2026-09-07T03:00:00",
-      "showTime": "00:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a322990680f64ea7ad5682b597402f16.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Kappu Bilupu",
-      "description": "Two contrasting sisters endure the tyranny of their malevolent stepmother. Eventually, Kalpana, one of the siblings, resolves to retaliate against the oppression.",
-      "startDate": "2026-09-07T03:00:00",
-      "endDate": "2026-09-07T06:00:00",
-      "showTime": "03:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dd3e6337e16cec0fa8834071e49ae46d.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Movie Filler",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-07T06:00:00",
-      "endDate": "2026-09-07T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Movie Filler",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-07T06:30:00",
-      "endDate": "2026-09-07T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Thayi Kotta Seere",
-      "description": "Girija's father marries her off to a rich man. Her life takes a turn for the worse when her in-laws start treating her unfairly.",
-      "startDate": "2026-09-07T07:00:00",
-      "endDate": "2026-09-07T10:00:00",
-      "showTime": "07:00:00",
-      "endTime": "10:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/01a94968f9e2025ee9a18d8b61c0210d.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Mavanige Thakka Aliya",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-09-07T10:00:00",
-      "endDate": "2026-09-07T13:00:00",
-      "showTime": "10:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/15de28985766676dfc241aef4c9dbac4.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Sye Raa Narasimha Reddy",
-      "description": "Uyyalawada Narasimha Reddy, the ruler of the Rayalaseema region, resists the tyranny of the East India Company and sparks a revolution in the process.",
-      "startDate": "2026-09-07T13:00:00",
-      "endDate": "2026-09-07T16:00:00",
-      "showTime": "13:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/95c33493694f23f206b02b4c075416ab.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Usssh!",
-      "description": "A film crew arrives at a secluded estate to shoot their movie, only to encounter eerie supernatural forces. Later, the estate owner's brother-in-law vanishes without a trace.",
-      "startDate": "2026-09-07T16:00:00",
-      "endDate": "2026-09-07T19:00:00",
-      "showTime": "16:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ab5d0fa329582ed488030f44e9f6feb6.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Mythri",
-      "description": "Siddarama is one step away from winning a sum of INR one crore in a game show hosted by his favourite actor Puneeth Rajkumar. However, scientist Mahadev Godke attempts to ruin his plans.",
-      "startDate": "2026-09-07T19:00:00",
-      "endDate": "2026-09-07T22:00:00",
-      "showTime": "19:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/546de3aef404ee63546225cc543752a6.jpg"
-    },
-    {
-      "serverDate": "2026-09-07",
-      "showName": "Apoorva",
-      "description": "Rajashekar, a 61-year-old man, and Apoorva, a 19-year-old girl, get stuck in an elevator in a mall following a terror attack. He is pleasantly surprised when Apoorva professes her love for him.",
-      "startDate": "2026-09-07T22:00:00",
-      "endDate": "2026-09-07T23:59:59",
-      "showTime": "22:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/413d9c18f992faf996c7338ff4405f77.jpg"
-    },
-    {
       "serverDate": "2026-09-08",
       "showName": "Veeradhi Veera",
       "description": "Veeradhi Veera",
@@ -886,6 +776,116 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a150144825530b83717d06986ce10eb.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
+      "showName": "Manashanti",
+      "description": "Movie starring TN Balakrishna, Pandari Bai, KS Ashwath and is directed by M S Nayak.",
+      "startDate": "2026-09-15T00:00:00",
+      "endDate": "2026-09-15T03:00:00",
+      "showTime": "00:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/145010d3768116970b2b151c7b9e7ee5.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
+      "showName": "Pattathu Arasan",
+      "description": "Poththaari, a former kabaddi player, lives a happy life with his extended family. However, a tragic death sparks a severing of familial bonds and a fight over Poththaari's land.",
+      "startDate": "2026-09-15T03:00:00",
+      "endDate": "2026-09-15T06:00:00",
+      "showTime": "03:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af8cc4f6b4e7eefa803cbd9584684d73.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
+      "showName": "Movie Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-15T06:00:00",
+      "endDate": "2026-09-15T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
+      "showName": "Movie Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-15T06:30:00",
+      "endDate": "2026-09-15T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
+      "showName": "Kadima Kallaru",
+      "description": "Two thieves attempt to purloin a diamond necklace from Usha. However, in a wild turn of events, one of them ends up falling for her.",
+      "startDate": "2026-09-15T07:00:00",
+      "endDate": "2026-09-15T10:00:00",
+      "showTime": "07:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0d4eba276f43323ef34fe18bc6be8a85.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
+      "showName": "Hendthi Helidare Kelabeku",
+      "description": "Ishwara murders his daughter-in-law Vani as her family is unable to pay him a suitable dowry. Her cousin Mala seeks the help of the police and tries to get him arrested.",
+      "startDate": "2026-09-15T10:00:00",
+      "endDate": "2026-09-15T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4e8f8a477808e4f1ffbb165a0c81d0d.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
+      "showName": "Sahukara",
+      "description": "Muthu, a faithful servant, works for Sahukara. However, when Sahukara realises that Ranganayaki, the one he loves, likes Muthu, he throws Muthu out of the house.",
+      "startDate": "2026-09-15T13:00:00",
+      "endDate": "2026-09-15T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4f96176f8ff5d1d2688fe85a7bda2b18.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
+      "showName": "Olavina Udugare",
+      "description": "Suresh protects Suma from public disgrace during a medical camp, and she falls in love with him. However, one of their classmates becomes envious and tries to break their relationship.",
+      "startDate": "2026-09-15T16:00:00",
+      "endDate": "2026-09-15T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18b5ba242430ee160aced72cbc021468.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
+      "showName": "Jai Maruthi 800",
+      "description": "Jeeva's quest to find his friend's family brings him to a village where two hamlets are warring over a piece of land. He decides to solve their problems by installing a statue of Lord Hanuman.",
+      "startDate": "2026-09-15T19:00:00",
+      "endDate": "2026-09-15T22:00:00",
+      "showTime": "19:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84be9c4d31b236f0a0910a0089ed7255.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
+      "showName": "Antha",
+      "description": "An honest police officer's life takes a drastic turn when he is tasked with a mission to gather intelligence on a criminal gang led by his doppelgänger.",
+      "startDate": "2026-09-15T22:00:00",
+      "endDate": "2026-09-15T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/39e21ca7943023b59a7de01940f1db88.jpg"
     }
   ]
 }
