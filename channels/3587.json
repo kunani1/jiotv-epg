@@ -8,138 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/jojotv.png",
   "programs": [
     {
-      "serverDate": "2026-09-09",
-      "showName": "Super Stand Up",
-      "description": "Super Stand Up",
-      "startDate": "2026-09-09T00:00:00",
-      "endDate": "2026-09-09T03:03:00",
-      "showTime": "00:00:00",
-      "endTime": "03:03:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18563a8438ba29c05aa2579fbf87051e.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Moti Na Chowkre Sapna Man Ditha",
-      "description": "A woman works hard to support her family and longs to find someone she can be with. However, things worsen when she falls in love with a man only to learn he loves her sister.",
-      "startDate": "2026-09-09T03:03:00",
-      "endDate": "2026-09-09T03:13:00",
-      "showTime": "03:03:00",
-      "endTime": "03:13:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/871bb14764951037f8bf4ceff2e14f53.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Super Stand Up",
-      "description": "Super Stand Up",
-      "startDate": "2026-09-09T03:13:00",
-      "endDate": "2026-09-09T04:01:00",
-      "showTime": "03:13:00",
-      "endTime": "04:01:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18563a8438ba29c05aa2579fbf87051e.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Avu Aey Thay!",
-      "description": "Avu Aey Thay!",
-      "startDate": "2026-09-09T04:01:00",
-      "endDate": "2026-09-09T04:12:00",
-      "showTime": "04:01:00",
-      "endTime": "04:12:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cab8641ade610128feae761be97f6f94.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Aagaman",
-      "description": "Aagaman",
-      "startDate": "2026-09-09T04:12:00",
-      "endDate": "2026-09-09T04:27:00",
-      "showTime": "04:12:00",
-      "endTime": "04:27:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6312f2ea306f22a97421973b9be2731a.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Avu Aey Thay!",
-      "description": "Avu Aey Thay!",
-      "startDate": "2026-09-09T04:27:00",
-      "endDate": "2026-09-09T04:37:00",
-      "showTime": "04:27:00",
-      "endTime": "04:37:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cab8641ade610128feae761be97f6f94.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Avu Aey Thay!",
-      "description": "Avu Aey Thay!",
-      "startDate": "2026-09-09T04:37:00",
-      "endDate": "2026-09-09T04:52:00",
-      "showTime": "04:37:00",
-      "endTime": "04:52:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cab8641ade610128feae761be97f6f94.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Avu Aey Thay!",
-      "description": "Avu Aey Thay!",
-      "startDate": "2026-09-09T04:52:00",
-      "endDate": "2026-09-09T05:10:00",
-      "showTime": "04:52:00",
-      "endTime": "05:10:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cab8641ade610128feae761be97f6f94.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Avu Aey Thay!",
-      "description": "A small misunderstanding turns into a bigger conflict between Sagar and Dhwani. Emotions take over, and what seemed simple now feels complicated.",
-      "startDate": "2026-09-09T05:10:00",
-      "endDate": "2026-09-09T05:31:00",
-      "showTime": "05:10:00",
-      "endTime": "05:31:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cab8641ade610128feae761be97f6f94.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Avu Aey Thay!",
-      "description": "Avu Aey Thay!",
-      "startDate": "2026-09-09T05:31:00",
-      "endDate": "2026-09-09T05:54:00",
-      "showTime": "05:31:00",
-      "endTime": "05:54:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cab8641ade610128feae761be97f6f94.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Gujju Bhai Girish Kumar",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-09T05:54:00",
-      "endDate": "2026-09-09T17:54:00",
-      "showTime": "05:54:00",
-      "endTime": "17:54:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b96c66ce6f304530b31e3fb87d13e5.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Gujju Bhai Girish Kumar",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-09T17:54:00",
-      "endDate": "2026-09-09T23:59:59",
-      "showTime": "17:54:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b96c66ce6f304530b31e3fb87d13e5.jpg"
-    },
-    {
       "serverDate": "2026-09-10",
       "showName": "Gujju Bhai Girish Kumar",
       "description": "Bringing the best in television.",
@@ -166,9 +34,9 @@
       "showName": "Kal Aaj Kal",
       "description": "Kal Aaj Kal",
       "startDate": "2026-09-10T03:48:00",
-      "endDate": "2026-09-10T04:28:00",
+      "endDate": "2026-09-10T04:57:00",
       "showTime": "03:48:00",
-      "endTime": "04:28:00",
+      "endTime": "04:57:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a74a5ff93479215e8d733a5221c3654.jpg"
     },
@@ -176,9 +44,9 @@
       "serverDate": "2026-09-10",
       "showName": "Kal Aaj Kal",
       "description": "Kal Aaj Kal",
-      "startDate": "2026-09-10T04:28:00",
+      "startDate": "2026-09-10T04:57:00",
       "endDate": "2026-09-10T05:18:00",
-      "showTime": "04:28:00",
+      "showTime": "04:57:00",
       "endTime": "05:18:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a74a5ff93479215e8d733a5221c3654.jpg"
@@ -199,22 +67,11 @@
       "showName": "Panchat Podcast",
       "description": "Panchat Podcast",
       "startDate": "2026-09-10T05:37:00",
-      "endDate": "2026-09-10T09:55:00",
-      "showTime": "05:37:00",
-      "endTime": "09:55:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/54c2dac0c1b8973c6c02d63bd09051c9.jpg"
-    },
-    {
-      "serverDate": "2026-09-10",
-      "showName": "Aadat",
-      "description": "Aadat",
-      "startDate": "2026-09-10T09:55:00",
       "endDate": "2026-09-10T15:51:00",
-      "showTime": "09:55:00",
+      "showTime": "05:37:00",
       "endTime": "15:51:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f5fe6a19db12cdebc48cdf4c689455c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/54c2dac0c1b8973c6c02d63bd09051c9.jpg"
     },
     {
       "serverDate": "2026-09-10",
