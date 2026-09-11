@@ -8,270 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Amrita_TV.png",
   "programs": [
     {
-      "serverDate": "2026-09-09",
-      "showName": "Amrita News Middle East",
-      "description": "An exclusive Amrita News bulletin with the middle east perspective.",
-      "startDate": "2026-09-09T00:00:00",
-      "endDate": "2026-09-09T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Comedy Masters",
-      "description": "Talented comedians perform humorous acts and satirical sketches to entertain a special guest and make them burst with laughter.",
-      "startDate": "2026-09-09T00:30:00",
-      "endDate": "2026-09-09T01:30:00",
-      "showTime": "00:30:00",
-      "endTime": "01:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0008f414ec749d72e8de68ec445e4202.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Dhe Pinneem",
-      "description": "Life with Prakashan Paappadi and his family is lively, with simple daily events often creating humorous situations. Soon, arguments and misunderstandings result in stronger emotional bonds.",
-      "startDate": "2026-09-09T01:30:00",
-      "endDate": "2026-09-09T02:00:00",
-      "showTime": "01:30:00",
-      "endTime": "02:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbd3746780bbfbf4c111561e9e93db4a.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Nila",
-      "description": "Nila",
-      "startDate": "2026-09-09T02:00:00",
-      "endDate": "2026-09-09T02:30:00",
-      "showTime": "02:00:00",
-      "endTime": "02:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6802348a0d76941662c5adcd20547a4b.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Thulladha Manamum Thullum",
-      "description": "Kutty is a good-hearted soul, but unfortunate incidents tend to portray his ruffian side whenever he encounters the girl he loves. A bizarre incident brings them closer and yet keeps them apart.",
-      "startDate": "2026-09-09T02:30:00",
-      "endDate": "2026-09-09T05:00:00",
-      "showTime": "02:30:00",
-      "endTime": "05:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f3701b41dc5463c5736644963681b753.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Amridotayam",
-      "description": "Amridotayam",
-      "startDate": "2026-09-09T05:00:00",
-      "endDate": "2026-09-09T05:30:00",
-      "showTime": "05:00:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/71ac417b672f893eb0dd49e29b8c2c40.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Sandhya Deepam",
-      "description": "Religious leaders and scholars deliver a discourse on various aspects of Kerala's rich cultural heritage and spiritual observances.",
-      "startDate": "2026-09-09T05:30:00",
-      "endDate": "2026-09-09T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/66e5f0be241e84f821b22f639ec33642.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Swararchana",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-09T06:00:00",
-      "endDate": "2026-09-09T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/056c8ab2dff64707dda7e786c112b884.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Amridotayam",
-      "description": "Amridotayam",
-      "startDate": "2026-09-09T06:30:00",
-      "endDate": "2026-09-09T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/71ac417b672f893eb0dd49e29b8c2c40.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Good Morning Keralam",
-      "description": "The host interacts with various eminent personalities, who shed light on their personal life and professional achievements.",
-      "startDate": "2026-09-09T07:00:00",
-      "endDate": "2026-09-09T08:00:00",
-      "showTime": "07:00:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7277d31202f434bc1442a5d25f3757bb.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Super Star Senior",
-      "description": "Several people take the centre stage to showcase their talents of singing and other aspects to a panel of judges and audiences.",
-      "startDate": "2026-09-09T08:00:00",
-      "endDate": "2026-09-09T09:00:00",
-      "showTime": "08:00:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4456e40a97634551a4500a2b7f788cd6.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Dhe Pinneem",
-      "description": "Life with Prakashan Paappadi and his family is lively, with simple daily events often creating humorous situations. Soon, arguments and misunderstandings result in stronger emotional bonds.",
-      "startDate": "2026-09-09T09:00:00",
-      "endDate": "2026-09-09T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbd3746780bbfbf4c111561e9e93db4a.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Nila",
-      "description": "Nila",
-      "startDate": "2026-09-09T09:30:00",
-      "endDate": "2026-09-09T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6802348a0d76941662c5adcd20547a4b.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Janathipathyam",
-      "description": "A former police officer rises to the post of chief minister in a state. Driven by a deep-seated desire for vengeance, he leverages his new authority to confront those who caused his downfall.",
-      "startDate": "2026-09-09T10:00:00",
-      "endDate": "2026-09-09T13:00:00",
-      "showTime": "10:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/73db6531d8764ddd4730c5a78d1cee79.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Ucha Vartha",
-      "description": "The host talks about some of the latest news stories about political, economic, social and cultural topics from all around the region.",
-      "startDate": "2026-09-09T13:00:00",
-      "endDate": "2026-09-09T13:30:00",
-      "showTime": "13:00:00",
-      "endTime": "13:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cd523dba0f0327078ba4d80debe10d1.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Sound of Boot",
-      "description": "SP Siddharth arrives at a holiday home to investigate the death of a woman. However, his investigation becomes complicated when the people involved provide their own versions of the story.",
-      "startDate": "2026-09-09T13:30:00",
-      "endDate": "2026-09-09T16:00:00",
-      "showTime": "13:30:00",
-      "endTime": "16:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/169a6e54e7564d4042518d23bbf46065.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Dheena",
-      "description": "Dheena is the adopted brother of a local gangster, Aathi, and together they rule over a town. However, their relationship turns sour because of a misunderstanding between them.",
-      "startDate": "2026-09-09T16:00:00",
-      "endDate": "2026-09-09T18:30:00",
-      "showTime": "16:00:00",
-      "endTime": "18:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2bc51c9e6c95c95e1d3b5c7d0041500.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Sandhya Deepam",
-      "description": "Religious leaders and scholars deliver a discourse on various aspects of Kerala's rich cultural heritage and spiritual observances.",
-      "startDate": "2026-09-09T18:30:00",
-      "endDate": "2026-09-09T19:00:00",
-      "showTime": "18:30:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/66e5f0be241e84f821b22f639ec33642.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Nila",
-      "description": "Nila",
-      "startDate": "2026-09-09T19:00:00",
-      "endDate": "2026-09-09T19:30:00",
-      "showTime": "19:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6802348a0d76941662c5adcd20547a4b.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Dhe Pinneem",
-      "description": "Life with Prakashan Paappadi and his family is lively, with simple daily events often creating humorous situations. Soon, arguments and misunderstandings result in stronger emotional bonds.",
-      "startDate": "2026-09-09T19:30:00",
-      "endDate": "2026-09-09T20:00:00",
-      "showTime": "19:30:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbd3746780bbfbf4c111561e9e93db4a.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Super Star Senior",
-      "description": "Several people take the centre stage to showcase their talents of singing and other aspects to a panel of judges and audiences.",
-      "startDate": "2026-09-09T20:00:00",
-      "endDate": "2026-09-09T21:00:00",
-      "showTime": "20:00:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4456e40a97634551a4500a2b7f788cd6.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Comedy Masters",
-      "description": "Talented comedians perform humorous acts and satirical sketches to entertain a special guest and make them burst with laughter.",
-      "startDate": "2026-09-09T21:00:00",
-      "endDate": "2026-09-09T22:00:00",
-      "showTime": "21:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0008f414ec749d72e8de68ec445e4202.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Top 10 at Ten",
-      "description": "The host presents a summary of ten of the most important news updates and developments from the nation and around the world.",
-      "startDate": "2026-09-09T22:00:00",
-      "endDate": "2026-09-09T23:00:00",
-      "showTime": "22:00:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e554f4a4a10829063c29213d944be610.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Super Star Senior",
-      "description": "Several people take the centre stage to showcase their talents of singing and other aspects to a panel of judges and audiences.",
-      "startDate": "2026-09-09T23:00:00",
-      "endDate": "2026-09-09T23:59:59",
-      "showTime": "23:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4456e40a97634551a4500a2b7f788cd6.jpg"
-    },
-    {
       "serverDate": "2026-09-10",
       "showName": "Amrita News Middle East",
       "description": "An exclusive Amrita News bulletin with the middle east perspective.",
@@ -538,7 +274,7 @@
     {
       "serverDate": "2026-09-11",
       "showName": "Amrita News Middle East",
-      "description": "An exclusive Amrita News bulletin with the middle east perspective.",
+      "description": "An exclusive Amrita News bulletin with the Middle East perspective.",
       "startDate": "2026-09-11T00:00:00",
       "endDate": "2026-09-11T00:30:00",
       "showTime": "00:00:00",
@@ -780,7 +516,7 @@
     {
       "serverDate": "2026-09-12",
       "showName": "Amrita News Middle East",
-      "description": "An exclusive Amrita News bulletin with the middle east perspective.",
+      "description": "An exclusive Amrita News bulletin with the Middle East perspective.",
       "startDate": "2026-09-12T00:00:00",
       "endDate": "2026-09-12T00:30:00",
       "showTime": "00:00:00",
@@ -984,7 +720,7 @@
       "showTime": "18:00:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f020f284c0864f19f00782788c1e48b5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f3376630894ff20ae214319fd8600460.jpg"
     },
     {
       "serverDate": "2026-09-12",
@@ -1044,7 +780,7 @@
     {
       "serverDate": "2026-09-13",
       "showName": "Amrita News Middle East",
-      "description": "An exclusive Amrita News bulletin with the middle east perspective.",
+      "description": "An exclusive Amrita News bulletin with the Middle East perspective.",
       "startDate": "2026-09-13T00:00:00",
       "endDate": "2026-09-13T00:30:00",
       "showTime": "00:00:00",
@@ -1094,7 +830,7 @@
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f020f284c0864f19f00782788c1e48b5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f3376630894ff20ae214319fd8600460.jpg"
     },
     {
       "serverDate": "2026-09-13",
@@ -1259,7 +995,7 @@
       "showTime": "18:00:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f020f284c0864f19f00782788c1e48b5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f3376630894ff20ae214319fd8600460.jpg"
     },
     {
       "serverDate": "2026-09-13",
@@ -1319,7 +1055,7 @@
     {
       "serverDate": "2026-09-14",
       "showName": "Amrita News Middle East",
-      "description": "An exclusive Amrita News bulletin with the middle east perspective.",
+      "description": "An exclusive Amrita News bulletin with the Middle East perspective.",
       "startDate": "2026-09-14T00:00:00",
       "endDate": "2026-09-14T00:30:00",
       "showTime": "00:00:00",
@@ -1369,7 +1105,7 @@
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f020f284c0864f19f00782788c1e48b5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f3376630894ff20ae214319fd8600460.jpg"
     },
     {
       "serverDate": "2026-09-14",
@@ -1605,7 +1341,7 @@
     {
       "serverDate": "2026-09-15",
       "showName": "Amrita News Middle East",
-      "description": "An exclusive Amrita News bulletin with the middle east perspective.",
+      "description": "An exclusive Amrita News bulletin with the Middle East perspective.",
       "startDate": "2026-09-15T00:00:00",
       "endDate": "2026-09-15T00:30:00",
       "showTime": "00:00:00",
@@ -1869,7 +1605,7 @@
     {
       "serverDate": "2026-09-16",
       "showName": "Amrita News Middle East",
-      "description": "An exclusive Amrita News bulletin with the middle east perspective.",
+      "description": "An exclusive Amrita News bulletin with the Middle East perspective.",
       "startDate": "2026-09-16T00:00:00",
       "endDate": "2026-09-16T00:30:00",
       "showTime": "00:00:00",
@@ -2129,6 +1865,270 @@
       "endTime": "23:59:59",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4456e40a97634551a4500a2b7f788cd6.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Amrita News Middle East",
+      "description": "An exclusive Amrita News bulletin with the Middle East perspective.",
+      "startDate": "2026-09-17T00:00:00",
+      "endDate": "2026-09-17T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Comedy Masters",
+      "description": "Talented comedians perform humorous acts and satirical sketches to entertain a special guest and make them burst with laughter.",
+      "startDate": "2026-09-17T00:30:00",
+      "endDate": "2026-09-17T01:30:00",
+      "showTime": "00:30:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0008f414ec749d72e8de68ec445e4202.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Dhe Pinneem",
+      "description": "Life with Prakashan Paappadi and his family is lively, with simple daily events often creating humorous situations. Soon, arguments and misunderstandings result in stronger emotional bonds.",
+      "startDate": "2026-09-17T01:30:00",
+      "endDate": "2026-09-17T02:00:00",
+      "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbd3746780bbfbf4c111561e9e93db4a.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Nila",
+      "description": "Nila",
+      "startDate": "2026-09-17T02:00:00",
+      "endDate": "2026-09-17T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6802348a0d76941662c5adcd20547a4b.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Mugavaree",
+      "description": "Sridhar, an aspiring music director, has been struggling to get a foothold in the music industry for many years. He falls in love but is willing to put his relationship on a back burner for success.",
+      "startDate": "2026-09-17T02:30:00",
+      "endDate": "2026-09-17T05:00:00",
+      "showTime": "02:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a16f9d1bc93ea23cbba297f948260.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Amritodayam",
+      "description": "Amritodayam",
+      "startDate": "2026-09-17T05:00:00",
+      "endDate": "2026-09-17T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1f3a10560d49868ccbbc26ea5639834.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Sandhya Deepam",
+      "description": "Religious leaders and scholars deliver a discourse on various aspects of Kerala's rich cultural heritage and spiritual observances.",
+      "startDate": "2026-09-17T05:30:00",
+      "endDate": "2026-09-17T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/66e5f0be241e84f821b22f639ec33642.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Swararchana",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-17T06:00:00",
+      "endDate": "2026-09-17T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/056c8ab2dff64707dda7e786c112b884.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Amritodayam",
+      "description": "Amritodayam",
+      "startDate": "2026-09-17T06:30:00",
+      "endDate": "2026-09-17T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d1f3a10560d49868ccbbc26ea5639834.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Good Morning Keralam",
+      "description": "The host interacts with various eminent personalities, who shed light on their personal life and professional achievements.",
+      "startDate": "2026-09-17T07:00:00",
+      "endDate": "2026-09-17T08:00:00",
+      "showTime": "07:00:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7277d31202f434bc1442a5d25f3757bb.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Amrita Sangeetham",
+      "description": "Amrita Sangeetham",
+      "startDate": "2026-09-17T08:00:00",
+      "endDate": "2026-09-17T09:00:00",
+      "showTime": "08:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f3376630894ff20ae214319fd8600460.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Dhe Pinneem",
+      "description": "Life with Prakashan Paappadi and his family is lively, with simple daily events often creating humorous situations. Soon, arguments and misunderstandings result in stronger emotional bonds.",
+      "startDate": "2026-09-17T09:00:00",
+      "endDate": "2026-09-17T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbd3746780bbfbf4c111561e9e93db4a.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Nila",
+      "description": "Nila",
+      "startDate": "2026-09-17T09:30:00",
+      "endDate": "2026-09-17T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6802348a0d76941662c5adcd20547a4b.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Valleem Thetti Pulleem Thetti",
+      "description": "Vinayan, a technician, and Sridevi, a rich man's daughter, fall in love with each other. However, when her father learns about their love affair, he tries every possible way to separate them.",
+      "startDate": "2026-09-17T10:00:00",
+      "endDate": "2026-09-17T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/93b0c8cf398bd6e65eec2c2fe07bb6cb.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Ucha Vartha",
+      "description": "The host talks about some of the latest news stories about political, economic, social and cultural topics from all around the region.",
+      "startDate": "2026-09-17T13:00:00",
+      "endDate": "2026-09-17T13:30:00",
+      "showTime": "13:00:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cd523dba0f0327078ba4d80debe10d1.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Superman",
+      "description": "Nithya, a deputy commissioner, is investigating an assassination attempt on the home minister by Superman. Later, she falls in love with this man without having a clue that he is the assassin.",
+      "startDate": "2026-09-17T13:30:00",
+      "endDate": "2026-09-17T16:00:00",
+      "showTime": "13:30:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/90f384421f2ea29e8e999444759917f4.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Aarodum Parayaruthe",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-09-17T16:00:00",
+      "endDate": "2026-09-17T18:30:00",
+      "showTime": "16:00:00",
+      "endTime": "18:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/90f2ac91bb0cf65d4cf3f7834188ac04.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Sandhya Deepam",
+      "description": "Religious leaders and scholars deliver a discourse on various aspects of Kerala's rich cultural heritage and spiritual observances.",
+      "startDate": "2026-09-17T18:30:00",
+      "endDate": "2026-09-17T19:00:00",
+      "showTime": "18:30:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/66e5f0be241e84f821b22f639ec33642.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Nila",
+      "description": "Nila",
+      "startDate": "2026-09-17T19:00:00",
+      "endDate": "2026-09-17T19:30:00",
+      "showTime": "19:00:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6802348a0d76941662c5adcd20547a4b.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Dhe Pinneem",
+      "description": "Life with Prakashan Paappadi and his family is lively, with simple daily events often creating humorous situations. Soon, arguments and misunderstandings result in stronger emotional bonds.",
+      "startDate": "2026-09-17T19:30:00",
+      "endDate": "2026-09-17T20:00:00",
+      "showTime": "19:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbd3746780bbfbf4c111561e9e93db4a.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Amrita Sangeetham",
+      "description": "Amrita Sangeetham",
+      "startDate": "2026-09-17T20:00:00",
+      "endDate": "2026-09-17T21:00:00",
+      "showTime": "20:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f3376630894ff20ae214319fd8600460.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Annie's Kitchen",
+      "description": "The host prepares tasty and simple dishes from different cuisines and provides easy to follow recipes for everyone to follow along.",
+      "startDate": "2026-09-17T21:00:00",
+      "endDate": "2026-09-17T22:00:00",
+      "showTime": "21:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/83d142354118b3e58dd91c5b497cb845.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Top 10 at Ten",
+      "description": "The host presents a summary of ten of the most important news updates and developments from the nation and around the world.",
+      "startDate": "2026-09-17T22:00:00",
+      "endDate": "2026-09-17T23:00:00",
+      "showTime": "22:00:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e554f4a4a10829063c29213d944be610.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Amrita Sangeetham",
+      "description": "Amrita Sangeetham",
+      "startDate": "2026-09-17T23:00:00",
+      "endDate": "2026-09-17T23:59:59",
+      "showTime": "23:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f3376630894ff20ae214319fd8600460.jpg"
     }
   ]
 }

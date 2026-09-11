@@ -8,160 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Alankar_TV.png",
   "programs": [
     {
-      "serverDate": "2026-09-09",
-      "showName": "Chal Kariba Thiapala",
-      "description": "Several talented artists take on the centre stage to showcase their performances in a detailed play that portrays various events.",
-      "startDate": "2026-09-09T00:00:00",
-      "endDate": "2026-09-09T01:00:00",
-      "showTime": "00:00:00",
-      "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff493533f6a11c81882d8b774852b428.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Jaha Munhare Kapada Tara Besi Lafada",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-09T01:00:00",
-      "endDate": "2026-09-09T05:00:00",
-      "showTime": "01:00:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/13c6579e06b33839bfc8152b99b59c03.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Stars Choice",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-09T05:00:00",
-      "endDate": "2026-09-09T06:00:00",
-      "showTime": "05:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c1d74eeca38a81f116dd16d25f49f67.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Jatra Comedy Tadka",
-      "description": "The host interviews guests and presents stand-up comedy routines and satirical skits. The show also features comedy scenes from popular movies.",
-      "startDate": "2026-09-09T06:00:00",
-      "endDate": "2026-09-09T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b70ff0a9835e867b93569f0d8ad12868.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Tele Shopping",
-      "description": "The host provides the features and specifications of a wide range of products which can be purchased from the comforts of one's home.",
-      "startDate": "2026-09-09T06:30:00",
-      "endDate": "2026-09-09T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad0e13ea98570622706f1b7daa8aaa09.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Alankar Hits",
-      "description": "A comprehensive compilation of popular songs composed by renowned musical artists is played back to back to enthrall the audience.",
-      "startDate": "2026-09-09T07:00:00",
-      "endDate": "2026-09-09T07:30:00",
-      "showTime": "07:00:00",
-      "endTime": "07:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/674afa8dc18a35bcadf4eb9e2a358f1e.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Alankar Hits",
-      "description": "A comprehensive compilation of popular songs composed by renowned musical artists is played back to back to enthrall the audience.",
-      "startDate": "2026-09-09T07:30:00",
-      "endDate": "2026-09-09T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/674afa8dc18a35bcadf4eb9e2a358f1e.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Tu Kahibu Na Mu",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-09-09T08:00:00",
-      "endDate": "2026-09-09T11:00:00",
-      "showTime": "08:00:00",
-      "endTime": "11:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8240686e8e3669b60d5570e3837d8cee.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Thukool",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-09-09T11:00:00",
-      "endDate": "2026-09-09T14:00:00",
-      "showTime": "11:00:00",
-      "endTime": "14:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dde14f97a20ec5cf591b9ebac7ab3a0b.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Chori Chori Bohu Chori",
-      "description": "Bringing the best of cinema.",
-      "startDate": "2026-09-09T14:00:00",
-      "endDate": "2026-09-09T16:50:00",
-      "showTime": "14:00:00",
-      "endTime": "16:50:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1227691a07f4f66eb55fddf010df150e.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Tele Shopping",
-      "description": "The host provides the features and specifications of a wide range of products which can be purchased from the comforts of one's home.",
-      "startDate": "2026-09-09T16:50:00",
-      "endDate": "2026-09-09T17:00:00",
-      "showTime": "16:50:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad0e13ea98570622706f1b7daa8aaa09.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Sindura",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-09-09T17:00:00",
-      "endDate": "2026-09-09T19:50:00",
-      "showTime": "17:00:00",
-      "endTime": "19:50:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/82fbcfa7a648c79455ff8b0baa24432e.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Tele Shopping",
-      "description": "The host provides the features and specifications of a wide range of products which can be purchased from the comforts of one's home.",
-      "startDate": "2026-09-09T19:50:00",
-      "endDate": "2026-09-09T20:00:00",
-      "showTime": "19:50:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad0e13ea98570622706f1b7daa8aaa09.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Kala Ratira Kala Manisha",
-      "description": "Kala Ratira Kala Manisha",
-      "startDate": "2026-09-09T20:00:00",
-      "endDate": "2026-09-09T23:59:59",
-      "showTime": "20:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/700983ecdd4c7eb33b48540e17fe1247.jpg"
-    },
-    {
       "serverDate": "2026-09-10",
       "showName": "Kala Ratira Kala Manisha",
       "description": "Kala Ratira Kala Manisha",
@@ -720,7 +566,7 @@
       "showTime": "11:00:00",
       "endTime": "14:00:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b0e67f5d7ab8fce43ebb2b0231db6548.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f5ca9dbbe8b7797806949284265dea6e.jpg"
     },
     {
       "serverDate": "2026-09-13",
@@ -731,7 +577,7 @@
       "showTime": "14:00:00",
       "endTime": "16:50:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/055d32cebdad72de1622b5b90efb33e5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4f03cdad4534620ea17bbc5a6d487260.jpg"
     },
     {
       "serverDate": "2026-09-13",
@@ -1201,6 +1047,149 @@
       "description": "Bringing the best in television.",
       "startDate": "2026-09-16T20:00:00",
       "endDate": "2026-09-16T23:59:59",
+      "showTime": "20:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/472c1b61588bb3c3bd4f9becc52282f0.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "JATRA JATRA",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-17T00:00:00",
+      "endDate": "2026-09-17T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/472c1b61588bb3c3bd4f9becc52282f0.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "MID NIGHT JATRA",
+      "description": "Talented theatre artists perform interesting and thought-provoking skits and engage in dance performances to keep the audience entertained at midnight.",
+      "startDate": "2026-09-17T01:00:00",
+      "endDate": "2026-09-17T05:00:00",
+      "showTime": "01:00:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ae0256df7aa7376dce6fbcec7100089.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Non Stop Masti",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-17T05:00:00",
+      "endDate": "2026-09-17T06:00:00",
+      "showTime": "05:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/895469cf565a3908d0e3298b3c1c477f.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Jatra Comedy Tadka",
+      "description": "The host interviews guests and presents stand-up comedy routines and satirical skits. The show also features comedy scenes from popular movies.",
+      "startDate": "2026-09-17T06:00:00",
+      "endDate": "2026-09-17T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b70ff0a9835e867b93569f0d8ad12868.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Alankar Hits",
+      "description": "A comprehensive compilation of some of the most popular songs recorded by renowned musicians and artists, played back to back.",
+      "startDate": "2026-09-17T06:30:00",
+      "endDate": "2026-09-17T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0d77a3dfe6cec5c8273170c01a3cc3f2.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Alankar Hits",
+      "description": "A comprehensive compilation of some of the most popular songs recorded by renowned musicians and artists, played back to back.",
+      "startDate": "2026-09-17T07:00:00",
+      "endDate": "2026-09-17T08:00:00",
+      "showTime": "07:00:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0d77a3dfe6cec5c8273170c01a3cc3f2.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "MORNING SHOW",
+      "description": "The host interacts with a renowned singer about his personal and professional life and requests him to sing some of his popular compositions.",
+      "startDate": "2026-09-17T08:00:00",
+      "endDate": "2026-09-17T11:00:00",
+      "showTime": "08:00:00",
+      "endTime": "11:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/74a98ad320f6580c64d0d9e97c6f6f2e.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "ALANKAR NOON SHOW",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-17T11:00:00",
+      "endDate": "2026-09-17T14:00:00",
+      "showTime": "11:00:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4e41ff8e892c125cc13ca5b2ba6b4536.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "ALANKAR MATINEE SHOW",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-17T14:00:00",
+      "endDate": "2026-09-17T16:50:00",
+      "showTime": "14:00:00",
+      "endTime": "16:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/551f0b391795f456fbf3028fdad7d78e.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Tele Shopping",
+      "description": "The host provides the features and specifications of a wide range of products which can be purchased from the comforts of one's home.",
+      "startDate": "2026-09-17T16:50:00",
+      "endDate": "2026-09-17T17:00:00",
+      "showTime": "16:50:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad0e13ea98570622706f1b7daa8aaa09.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "ALANKAR EVENING SHOW",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-17T17:00:00",
+      "endDate": "2026-09-17T19:50:00",
+      "showTime": "17:00:00",
+      "endTime": "19:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/602efcbd249795d9cf0338ae212e3ac5.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Tele Shopping",
+      "description": "The host provides the features and specifications of a wide range of products which can be purchased from the comforts of one's home.",
+      "startDate": "2026-09-17T19:50:00",
+      "endDate": "2026-09-17T20:00:00",
+      "showTime": "19:50:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad0e13ea98570622706f1b7daa8aaa09.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "JATRA JATRA",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-17T20:00:00",
+      "endDate": "2026-09-17T23:59:59",
       "showTime": "20:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
