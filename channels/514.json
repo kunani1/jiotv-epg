@@ -8,358 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png",
   "programs": [
     {
-      "serverDate": "2026-09-09",
-      "showName": "Asia Cup Highlights",
-      "description": "Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.",
-      "startDate": "2026-09-09T00:00:00",
-      "endDate": "2026-09-09T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c51b7ea5b521bacdbec09a3e10270f2.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "UEFA Champions League Soccer",
-      "description": "Professional football clubs from around Europe compete against each other in the UEFA Champions League to win the prestigious trophy.",
-      "startDate": "2026-09-09T00:30:00",
-      "endDate": "2026-09-09T02:30:00",
-      "showTime": "00:30:00",
-      "endTime": "02:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d7471057f1a1c3d2dda2636fea8a80c9.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Lords Of England",
-      "description": "A compilation of some of the most iconic innings played by players from all around the world at the Lord's Cricket Ground, England.",
-      "startDate": "2026-09-09T02:30:00",
-      "endDate": "2026-09-09T03:00:00",
-      "showTime": "02:30:00",
-      "endTime": "03:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2e5b3c85b4390ca89cc20b6f17194e3f.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Commonwealth Games 2026",
-      "description": "Professional athletes across various disciplines engage in fierce competition to claim victory at the 2026 Commonwealth Games.",
-      "startDate": "2026-09-09T03:00:00",
-      "endDate": "2026-09-09T03:30:00",
-      "showTime": "03:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89b1805d09ce3279b8b0308cab6ba75e.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Commonwealth Games 2026",
-      "description": "Professional athletes across various disciplines engage in fierce competition to claim victory at the 2026 Commonwealth Games.",
-      "startDate": "2026-09-09T03:30:00",
-      "endDate": "2026-09-09T04:00:00",
-      "showTime": "03:30:00",
-      "endTime": "04:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89b1805d09ce3279b8b0308cab6ba75e.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "The Grid",
-      "description": "The GRID is the ultimate team competition, a captivating and exciting co-ed spectator sport where speed, endurance, and strength all come together to challenge the best of athletes and test their limits.",
-      "startDate": "2026-09-09T04:00:00",
-      "endDate": "2026-09-09T04:30:00",
-      "showTime": "04:00:00",
-      "endTime": "04:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/067c76a118238ba1b7867e1fc7d1166d.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Asia Cup 2025",
-      "description": "Powerplay Recap - India vs Pakistan - Super Four - 2nd Innings",
-      "startDate": "2026-09-09T04:30:00",
-      "endDate": "2026-09-09T05:30:00",
-      "showTime": "04:30:00",
-      "endTime": "05:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/33a3d5c9a4ce4195cd67fbf26f347745.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "FA Community Shield 2026",
-      "description": "Arsenal Seal Community Shield Glory With A Convincing 3-0 Win",
-      "startDate": "2026-09-09T05:30:00",
-      "endDate": "2026-09-09T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ed61df6529fc1edbc84befe827b3e7bd.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "FA Community Shield 2026",
-      "description": "Arsenal Seal Community Shield Glory With A Convincing 3-0 Win",
-      "startDate": "2026-09-09T06:00:00",
-      "endDate": "2026-09-09T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ed61df6529fc1edbc84befe827b3e7bd.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "India Women's Tour of England 2025",
-      "description": "England(W) vs. India(W) - 2nd Innings Highlights",
-      "startDate": "2026-09-09T06:30:00",
-      "endDate": "2026-09-09T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e7723a55ac63606dde3879c0927ad435.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "DP World Women's Asia Cup 2026",
-      "description": "Watch the full match replay of India Women vs Pakistan Women as India secured a dominant win in the DP World Women's Asia Cup 2026, only on Sony LIV.",
-      "startDate": "2026-09-09T07:00:00",
-      "endDate": "2026-09-09T07:30:00",
-      "showTime": "07:00:00",
-      "endTime": "07:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c689f01ceb2677b178f08472cb78dab1.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "UEFA Champions League Highlights",
-      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
-      "startDate": "2026-09-09T07:30:00",
-      "endDate": "2026-09-09T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Asia Cup 2025",
-      "description": "Powerplay Recap - India vs Pakistan - Super Four - 2nd Innings",
-      "startDate": "2026-09-09T08:00:00",
-      "endDate": "2026-09-09T09:00:00",
-      "showTime": "08:00:00",
-      "endTime": "09:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/33a3d5c9a4ce4195cd67fbf26f347745.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "DP World Women's Asia Cup 2026",
-      "description": "Watch the full match replay of India Women vs Pakistan Women as India secured a dominant win in the DP World Women's Asia Cup 2026, only on Sony LIV.",
-      "startDate": "2026-09-09T09:00:00",
-      "endDate": "2026-09-09T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c689f01ceb2677b178f08472cb78dab1.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "UEFA Champions League Highlights",
-      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
-      "startDate": "2026-09-09T09:30:00",
-      "endDate": "2026-09-09T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "FA Community Shield 2026",
-      "description": "Arsenal Seal Community Shield Glory With A Convincing 3-0 Win",
-      "startDate": "2026-09-09T10:00:00",
-      "endDate": "2026-09-09T10:30:00",
-      "showTime": "10:00:00",
-      "endTime": "10:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ed61df6529fc1edbc84befe827b3e7bd.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "FA Community Shield 2026",
-      "description": "Arsenal Seal Community Shield Glory With A Convincing 3-0 Win",
-      "startDate": "2026-09-09T10:30:00",
-      "endDate": "2026-09-09T11:00:00",
-      "showTime": "10:30:00",
-      "endTime": "11:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ed61df6529fc1edbc84befe827b3e7bd.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Asia Cup 2025",
-      "description": "Powerplay Recap - India vs Pakistan - Super Four - 2nd Innings",
-      "startDate": "2026-09-09T11:00:00",
-      "endDate": "2026-09-09T12:00:00",
-      "showTime": "11:00:00",
-      "endTime": "12:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/33a3d5c9a4ce4195cd67fbf26f347745.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "DP World Women's Asia Cup 2026",
-      "description": "Watch the full match replay of India Women vs Pakistan Women as India secured a dominant win in the DP World Women's Asia Cup 2026, only on Sony LIV.",
-      "startDate": "2026-09-09T12:00:00",
-      "endDate": "2026-09-09T12:30:00",
-      "showTime": "12:00:00",
-      "endTime": "12:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c689f01ceb2677b178f08472cb78dab1.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "UEFA Champions League Highlights",
-      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
-      "startDate": "2026-09-09T12:30:00",
-      "endDate": "2026-09-09T13:00:00",
-      "showTime": "12:30:00",
-      "endTime": "13:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "The Grid",
-      "description": "The GRID is the ultimate team competition, a captivating and exciting co-ed spectator sport where speed, endurance, and strength all come together to challenge the best of athletes and test their limits.",
-      "startDate": "2026-09-09T13:00:00",
-      "endDate": "2026-09-09T14:00:00",
-      "showTime": "13:00:00",
-      "endTime": "14:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/067c76a118238ba1b7867e1fc7d1166d.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "World Sailing Show 2023",
-      "description": "Watch the eighth episode of The World Sailing Show as we present you with the global sailing series featuring the best action from around the world here, only on Sony LIV.",
-      "startDate": "2026-09-09T14:00:00",
-      "endDate": "2026-09-09T15:00:00",
-      "showTime": "14:00:00",
-      "endTime": "15:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dab265b070e68b4c954e9c2e01fee649.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "Asia Cup 2025",
-      "description": "Powerplay Recap - India vs Pakistan - Super Four - 2nd Innings",
-      "startDate": "2026-09-09T15:00:00",
-      "endDate": "2026-09-09T16:00:00",
-      "showTime": "15:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/33a3d5c9a4ce4195cd67fbf26f347745.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "The Grid",
-      "description": "The GRID is the ultimate team competition, a captivating and exciting co-ed spectator sport where speed, endurance, and strength all come together to challenge the best of athletes and test their limits.",
-      "startDate": "2026-09-09T16:00:00",
-      "endDate": "2026-09-09T17:00:00",
-      "showTime": "16:00:00",
-      "endTime": "17:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/067c76a118238ba1b7867e1fc7d1166d.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "DP World Women's Asia Cup 2026",
-      "description": "Watch the full match replay of India Women vs Pakistan Women as India secured a dominant win in the DP World Women's Asia Cup 2026, only on Sony LIV.",
-      "startDate": "2026-09-09T17:00:00",
-      "endDate": "2026-09-09T17:30:00",
-      "showTime": "17:00:00",
-      "endTime": "17:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c689f01ceb2677b178f08472cb78dab1.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "DP World Women's Asia Cup 2026",
-      "description": "Watch the full match replay of India Women vs Pakistan Women as India secured a dominant win in the DP World Women's Asia Cup 2026, only on Sony LIV.",
-      "startDate": "2026-09-09T17:30:00",
-      "endDate": "2026-09-09T18:00:00",
-      "showTime": "17:30:00",
-      "endTime": "18:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c689f01ceb2677b178f08472cb78dab1.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "DP World Women's Asia Cup 2026",
-      "description": "Watch the full match replay of India Women vs Pakistan Women as India secured a dominant win in the DP World Women's Asia Cup 2026, only on Sony LIV.",
-      "startDate": "2026-09-09T18:00:00",
-      "endDate": "2026-09-09T18:30:00",
-      "showTime": "18:00:00",
-      "endTime": "18:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c689f01ceb2677b178f08472cb78dab1.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "FA Community Shield 2026",
-      "description": "Arsenal Seal Community Shield Glory With A Convincing 3-0 Win",
-      "startDate": "2026-09-09T18:30:00",
-      "endDate": "2026-09-09T19:00:00",
-      "showTime": "18:30:00",
-      "endTime": "19:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ed61df6529fc1edbc84befe827b3e7bd.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "FA Community Shield 2026",
-      "description": "Arsenal Seal Community Shield Glory With A Convincing 3-0 Win",
-      "startDate": "2026-09-09T19:00:00",
-      "endDate": "2026-09-09T19:30:00",
-      "showTime": "19:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ed61df6529fc1edbc84befe827b3e7bd.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "UEFA Youth League 2025-26",
-      "description": "SL Benfica Youth fell to a 1-3 defeat against Club Brugge Youth in the UEFA Youth League semi-final first leg.",
-      "startDate": "2026-09-09T19:30:00",
-      "endDate": "2026-09-09T21:30:00",
-      "showTime": "19:30:00",
-      "endTime": "21:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a83b50b9d4c5e50cfdf37fa0c0d5b2b2.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "DP World Women's Asia Cup 2026",
-      "description": "Watch the full match replay of India Women vs Pakistan Women as India secured a dominant win in the DP World Women's Asia Cup 2026, only on Sony LIV.",
-      "startDate": "2026-09-09T21:30:00",
-      "endDate": "2026-09-09T22:15:00",
-      "showTime": "21:30:00",
-      "endTime": "22:15:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c689f01ceb2677b178f08472cb78dab1.jpg"
-    },
-    {
-      "serverDate": "2026-09-09",
-      "showName": "UEFA Champions League 2024-25",
-      "description": "Watch the UEFA Champions League 2024-25 Mid-Show, only on Sony LIV.",
-      "startDate": "2026-09-09T22:15:00",
-      "endDate": "2026-09-09T23:59:59",
-      "showTime": "22:15:00",
-      "endTime": "23:59:59",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/96158516efe799be122764d0af254989.jpg"
-    },
-    {
       "serverDate": "2026-09-10",
       "showName": "UEFA Champions League Soccer",
       "description": "Professional football clubs from around Europe compete against each other in the UEFA Champions League to win the prestigious trophy.",
@@ -559,14 +207,14 @@
     },
     {
       "serverDate": "2026-09-10",
-      "showName": "Asia Cup 2025",
-      "description": "Powerplay Recap - India vs Bangladesh - Super Four - 1st Innings",
+      "showName": "Asia Cup Highlights",
+      "description": "Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.",
       "startDate": "2026-09-10T11:00:00",
       "endDate": "2026-09-10T12:00:00",
       "showTime": "11:00:00",
       "endTime": "12:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9e8e6623405deeb9abdeec3c624dc8e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c51b7ea5b521bacdbec09a3e10270f2.jpg"
     },
     {
       "serverDate": "2026-09-10",
@@ -592,135 +240,124 @@
     },
     {
       "serverDate": "2026-09-10",
-      "showName": "The Grid",
-      "description": "The GRID is the ultimate team competition, a captivating and exciting co-ed spectator sport where speed, endurance, and strength all come together to challenge the best of athletes and test their limits.",
+      "showName": "Test Cricket",
+      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
       "startDate": "2026-09-10T13:00:00",
       "endDate": "2026-09-10T14:00:00",
       "showTime": "13:00:00",
       "endTime": "14:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/067c76a118238ba1b7867e1fc7d1166d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
     },
     {
       "serverDate": "2026-09-10",
-      "showName": "FA Community Shield 2026",
-      "description": "Arsenal Seal Community Shield Glory With A Convincing 3-0 Win",
+      "showName": "Commonwealth Games 2026",
+      "description": "Professional athletes across various disciplines engage in fierce competition to claim victory at the 2026 Commonwealth Games.",
       "startDate": "2026-09-10T14:00:00",
       "endDate": "2026-09-10T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ed61df6529fc1edbc84befe827b3e7bd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89b1805d09ce3279b8b0308cab6ba75e.jpg"
     },
     {
       "serverDate": "2026-09-10",
-      "showName": "FA Community Shield 2026",
-      "description": "Arsenal Seal Community Shield Glory With A Convincing 3-0 Win",
+      "showName": "Commonwealth Games 2026",
+      "description": "Professional athletes across various disciplines engage in fierce competition to claim victory at the 2026 Commonwealth Games.",
       "startDate": "2026-09-10T14:30:00",
       "endDate": "2026-09-10T15:00:00",
       "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ed61df6529fc1edbc84befe827b3e7bd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89b1805d09ce3279b8b0308cab6ba75e.jpg"
     },
     {
       "serverDate": "2026-09-10",
-      "showName": "Asia Cup 2025",
-      "description": "Powerplay Recap - India vs Bangladesh - Super Four - 1st Innings",
+      "showName": "Asia Cup Highlights",
+      "description": "Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.",
       "startDate": "2026-09-10T15:00:00",
       "endDate": "2026-09-10T16:00:00",
       "showTime": "15:00:00",
       "endTime": "16:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9e8e6623405deeb9abdeec3c624dc8e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c51b7ea5b521bacdbec09a3e10270f2.jpg"
     },
     {
       "serverDate": "2026-09-10",
-      "showName": "The Grid",
-      "description": "The GRID is the ultimate team competition, a captivating and exciting co-ed spectator sport where speed, endurance, and strength all come together to challenge the best of athletes and test their limits.",
+      "showName": "Test Cricket",
+      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
       "startDate": "2026-09-10T16:00:00",
       "endDate": "2026-09-10T17:00:00",
       "showTime": "16:00:00",
       "endTime": "17:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/067c76a118238ba1b7867e1fc7d1166d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
     },
     {
       "serverDate": "2026-09-10",
-      "showName": "DP World Women's Asia Cup 2026",
-      "description": "Watch the full match replay of India Women vs Pakistan Women as India secured a dominant win in the DP World Women's Asia Cup 2026, only on Sony LIV.",
+      "showName": "Women's Asia Cup Highlights",
+      "description": "Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.",
       "startDate": "2026-09-10T17:00:00",
       "endDate": "2026-09-10T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c689f01ceb2677b178f08472cb78dab1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/46cbd619a527be70c379d71cb628a059.jpg"
     },
     {
       "serverDate": "2026-09-10",
-      "showName": "DP World Women's Asia Cup 2026",
-      "description": "Watch the full match replay of India Women vs Pakistan Women as India secured a dominant win in the DP World Women's Asia Cup 2026, only on Sony LIV.",
+      "showName": "Women's Asia Cup Highlights",
+      "description": "Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.",
       "startDate": "2026-09-10T17:30:00",
       "endDate": "2026-09-10T18:00:00",
       "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c689f01ceb2677b178f08472cb78dab1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/46cbd619a527be70c379d71cb628a059.jpg"
     },
     {
       "serverDate": "2026-09-10",
-      "showName": "DP World Women's Asia Cup 2026",
-      "description": "Watch the full match replay of India Women vs Pakistan Women as India secured a dominant win in the DP World Women's Asia Cup 2026, only on Sony LIV.",
+      "showName": "Women's Asia Cup Highlights",
+      "description": "Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.",
       "startDate": "2026-09-10T18:00:00",
       "endDate": "2026-09-10T18:30:00",
       "showTime": "18:00:00",
       "endTime": "18:30:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c689f01ceb2677b178f08472cb78dab1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/46cbd619a527be70c379d71cb628a059.jpg"
     },
     {
       "serverDate": "2026-09-10",
-      "showName": "FA Community Shield 2026",
-      "description": "Arsenal Seal Community Shield Glory With A Convincing 3-0 Win",
+      "showName": "Women's Asia Cup Highlights",
+      "description": "Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.",
       "startDate": "2026-09-10T18:30:00",
       "endDate": "2026-09-10T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ed61df6529fc1edbc84befe827b3e7bd.jpg"
-    },
-    {
-      "serverDate": "2026-09-10",
-      "showName": "DP World Women's Asia Cup 2026",
-      "description": "Watch the full match replay of India Women vs Pakistan Women as India secured a dominant win in the DP World Women's Asia Cup 2026, only on Sony LIV.",
-      "startDate": "2026-09-10T19:00:00",
-      "endDate": "2026-09-10T19:30:00",
-      "showTime": "19:00:00",
-      "endTime": "19:30:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c689f01ceb2677b178f08472cb78dab1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/46cbd619a527be70c379d71cb628a059.jpg"
     },
     {
       "serverDate": "2026-09-10",
-      "showName": "UEFA International Friendlies",
-      "description": "Portugal vs Chile - Match Highlights",
-      "startDate": "2026-09-10T19:30:00",
+      "showName": "Extraaa Innings",
+      "description": "Experts discuss the varied facets of international cricket matches, including the strategies adopted by the teams and the mistakes made by them on the field, live.",
+      "startDate": "2026-09-10T19:00:00",
       "endDate": "2026-09-10T20:00:00",
-      "showTime": "19:30:00",
+      "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/253bd58d164cd92eab2b7add353bdd64.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f889bc7af75af9f3003a93cb6f917c98.jpg"
     },
     {
       "serverDate": "2026-09-10",
-      "showName": "DP World Women's Asia Cup 2026",
-      "description": "Watch the full match replay of India Women vs Pakistan Women as India secured a dominant win in the DP World Women's Asia Cup 2026, only on Sony LIV.",
+      "showName": "2026 Women's Asia Cup Cricket",
+      "description": "Professional cricketers compete in the biennial international cricket tournament. From host country United Arab Emirates.",
       "startDate": "2026-09-10T20:00:00",
       "endDate": "2026-09-10T23:45:00",
       "showTime": "20:00:00",
       "endTime": "23:45:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c689f01ceb2677b178f08472cb78dab1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-09-10",
@@ -738,33 +375,22 @@
       "showName": "UEFA International Friendlies",
       "description": "Portugal vs Chile - Match Highlights",
       "startDate": "2026-09-11T00:00:00",
-      "endDate": "2026-09-11T00:15:00",
+      "endDate": "2026-09-11T00:30:00",
       "showTime": "00:00:00",
-      "endTime": "00:15:00",
+      "endTime": "00:30:00",
       "showCategory": "Sports non-event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/253bd58d164cd92eab2b7add353bdd64.jpg"
     },
     {
       "serverDate": "2026-09-11",
-      "showName": "UEFA Champions League 2025-26",
-      "description": "Dusan Vlahovic scored twice and had one assist as Juventus drew 4-4 with Borussia Dortmund in UEFA Champions League 2025-26.",
-      "startDate": "2026-09-11T00:15:00",
-      "endDate": "2026-09-11T00:30:00",
-      "showTime": "00:15:00",
-      "endTime": "00:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c3e0fee1a960d15149329ce2fbf0729a.jpg"
-    },
-    {
-      "serverDate": "2026-09-11",
-      "showName": "UEFA Champions League 2024-25",
-      "description": "Watch the UEFA Champions League 2024-25 Mid-Show, only on Sony LIV.",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
       "startDate": "2026-09-11T00:30:00",
       "endDate": "2026-09-11T02:30:00",
       "showTime": "00:30:00",
       "endTime": "02:30:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/96158516efe799be122764d0af254989.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -779,25 +405,25 @@
     },
     {
       "serverDate": "2026-09-11",
-      "showName": "Commonwealth Games 2026",
-      "description": "Professional athletes across various disciplines engage in fierce competition to claim victory at the 2026 Commonwealth Games.",
+      "showName": "FA Community Shield 2026",
+      "description": "Arsenal Seal Community Shield Glory With A Convincing 3-0 Win",
       "startDate": "2026-09-11T03:00:00",
       "endDate": "2026-09-11T03:30:00",
       "showTime": "03:00:00",
       "endTime": "03:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89b1805d09ce3279b8b0308cab6ba75e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ed61df6529fc1edbc84befe827b3e7bd.jpg"
     },
     {
       "serverDate": "2026-09-11",
-      "showName": "Commonwealth Games 2026",
-      "description": "Professional athletes across various disciplines engage in fierce competition to claim victory at the 2026 Commonwealth Games.",
+      "showName": "FA Community Shield 2026",
+      "description": "Arsenal Seal Community Shield Glory With A Convincing 3-0 Win",
       "startDate": "2026-09-11T03:30:00",
       "endDate": "2026-09-11T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89b1805d09ce3279b8b0308cab6ba75e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ed61df6529fc1edbc84befe827b3e7bd.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -812,58 +438,58 @@
     },
     {
       "serverDate": "2026-09-11",
-      "showName": "Asia Cup Highlights",
-      "description": "Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.",
+      "showName": "Asia Cup 2025",
+      "description": "Powerplay Recap - India vs Bangladesh - Super Four - 1st Innings",
       "startDate": "2026-09-11T04:30:00",
       "endDate": "2026-09-11T05:30:00",
       "showTime": "04:30:00",
       "endTime": "05:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c51b7ea5b521bacdbec09a3e10270f2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9e8e6623405deeb9abdeec3c624dc8e.jpg"
     },
     {
       "serverDate": "2026-09-11",
-      "showName": "Commonwealth Games 2026",
-      "description": "Professional athletes across various disciplines engage in fierce competition to claim victory at the 2026 Commonwealth Games.",
+      "showName": "FA Community Shield 2026",
+      "description": "Arsenal Seal Community Shield Glory With A Convincing 3-0 Win",
       "startDate": "2026-09-11T05:30:00",
       "endDate": "2026-09-11T06:00:00",
       "showTime": "05:30:00",
       "endTime": "06:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89b1805d09ce3279b8b0308cab6ba75e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ed61df6529fc1edbc84befe827b3e7bd.jpg"
     },
     {
       "serverDate": "2026-09-11",
-      "showName": "Commonwealth Games 2026",
-      "description": "Professional athletes across various disciplines engage in fierce competition to claim victory at the 2026 Commonwealth Games.",
+      "showName": "FA Community Shield 2026",
+      "description": "Arsenal Seal Community Shield Glory With A Convincing 3-0 Win",
       "startDate": "2026-09-11T06:00:00",
       "endDate": "2026-09-11T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89b1805d09ce3279b8b0308cab6ba75e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ed61df6529fc1edbc84befe827b3e7bd.jpg"
     },
     {
       "serverDate": "2026-09-11",
-      "showName": "Lords Of England",
-      "description": "A compilation of some of the most iconic innings played by players from all around the world at the Lord's Cricket Ground, England.",
+      "showName": "India Women's Tour of England 2025",
+      "description": "England(W) vs. India(W) - 2nd Innings Highlights",
       "startDate": "2026-09-11T06:30:00",
       "endDate": "2026-09-11T07:00:00",
       "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2e5b3c85b4390ca89cc20b6f17194e3f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e7723a55ac63606dde3879c0927ad435.jpg"
     },
     {
       "serverDate": "2026-09-11",
-      "showName": "Women's Asia Cup Highlights",
-      "description": "Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.",
+      "showName": "DP World Women's Asia Cup 2026",
+      "description": "Watch the full match replay of India Women vs Pakistan Women as India secured a dominant win in the DP World Women's Asia Cup 2026, only on Sony LIV.",
       "startDate": "2026-09-11T07:00:00",
       "endDate": "2026-09-11T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/46cbd619a527be70c379d71cb628a059.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c689f01ceb2677b178f08472cb78dab1.jpg"
     },
     {
       "serverDate": "2026-09-11",
@@ -1068,9 +694,9 @@
       "showName": "Women's Asia Cup Highlights",
       "description": "Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.",
       "startDate": "2026-09-11T19:30:00",
-      "endDate": "2026-09-11T20:00:00",
+      "endDate": "2026-09-11T19:50:00",
       "showTime": "19:30:00",
-      "endTime": "20:00:00",
+      "endTime": "19:50:00",
       "showCategory": "Sports event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/46cbd619a527be70c379d71cb628a059.jpg"
     },
@@ -1078,9 +704,9 @@
       "serverDate": "2026-09-11",
       "showName": "2026 Women's Asia Cup Cricket",
       "description": "Professional cricketers compete in the biennial international cricket tournament. From host country United Arab Emirates.",
-      "startDate": "2026-09-11T20:00:00",
+      "startDate": "2026-09-11T19:50:00",
       "endDate": "2026-09-11T23:45:00",
-      "showTime": "20:00:00",
+      "showTime": "19:50:00",
       "endTime": "23:45:00",
       "showCategory": "Sports event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
@@ -1109,25 +735,36 @@
     },
     {
       "serverDate": "2026-09-12",
-      "showName": "Snippets",
-      "description": "Bringing the best in television.",
+      "showName": "Asia Cup Highlights",
+      "description": "Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.",
       "startDate": "2026-09-12T00:15:00",
-      "endDate": "2026-09-12T00:30:00",
+      "endDate": "2026-09-12T01:15:00",
       "showTime": "00:15:00",
-      "endTime": "00:30:00",
+      "endTime": "01:15:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8616b83ce09b64ec5c252387e196aef.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c51b7ea5b521bacdbec09a3e10270f2.jpg"
     },
     {
       "serverDate": "2026-09-12",
-      "showName": "UEFA Champions League Soccer",
-      "description": "Professional football clubs from around Europe compete against each other in the UEFA Champions League to win the prestigious trophy.",
-      "startDate": "2026-09-12T00:30:00",
+      "showName": "Snippet",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-12T01:15:00",
+      "endDate": "2026-09-12T01:30:00",
+      "showTime": "01:15:00",
+      "endTime": "01:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d842d379fcfd33c8abefeba980d1c7bd.jpg"
+    },
+    {
+      "serverDate": "2026-09-12",
+      "showName": "Asia Cup Highlights",
+      "description": "Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.",
+      "startDate": "2026-09-12T01:30:00",
       "endDate": "2026-09-12T02:30:00",
-      "showTime": "00:30:00",
+      "showTime": "01:30:00",
       "endTime": "02:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d7471057f1a1c3d2dda2636fea8a80c9.jpg"
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c51b7ea5b521bacdbec09a3e10270f2.jpg"
     },
     {
       "serverDate": "2026-09-12",
