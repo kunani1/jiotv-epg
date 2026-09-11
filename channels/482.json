@@ -8,6 +8,127 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png",
   "programs": [
     {
+      "serverDate": "2026-09-10",
+      "showName": "Siren",
+      "description": "After serving 14 years in prison, a man is released on parole. As he tries to reconnect with his family, he vows revenge against those who wronged him.",
+      "startDate": "2026-09-10T00:00:00",
+      "endDate": "2026-09-10T01:40:00",
+      "showTime": "00:00:00",
+      "endTime": "01:40:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/031657e4efe6d32c5e8192a24675806c.jpg"
+    },
+    {
+      "serverDate": "2026-09-10",
+      "showName": "Return of Hanuman",
+      "description": "A young boy, Minku, ridiculed by his friends, begs the gods to send him down to Earth, and his wish is granted.",
+      "startDate": "2026-09-10T01:40:00",
+      "endDate": "2026-09-10T04:00:00",
+      "showTime": "01:40:00",
+      "endTime": "04:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/350504614987a515d59f16453f860dde.jpg"
+    },
+    {
+      "serverDate": "2026-09-10",
+      "showName": "Santa",
+      "description": "A carefree young man earns the wrath of a gangster after he helps the thug's sister elope. Already on the gangster's target, he finds himself in greater danger after he falls in love with another of the thug's sisters.",
+      "startDate": "2026-09-10T04:00:00",
+      "endDate": "2026-09-10T05:45:00",
+      "showTime": "04:00:00",
+      "endTime": "05:45:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c6d164ae2a88ef8e8601269c64bbec36.jpg"
+    },
+    {
+      "serverDate": "2026-09-10",
+      "showName": "Sharafat Gayi Tel Lene",
+      "description": "A mysterious source deposits 100 crores into Prithvi's account. A top-notch henchman calls him asking him to deliver the sum to various places from time-to-time.",
+      "startDate": "2026-09-10T05:45:00",
+      "endDate": "2026-09-10T07:30:00",
+      "showTime": "05:45:00",
+      "endTime": "07:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ee7183e3b20f9beba43911171a1046a.jpg"
+    },
+    {
+      "serverDate": "2026-09-10",
+      "showName": "Harom Hara",
+      "description": "When a man loses job and faces financial ruin, he enters the illegal arms trade, eventually becoming South India's most notorious arms dealer.",
+      "startDate": "2026-09-10T07:30:00",
+      "endDate": "2026-09-10T10:30:00",
+      "showTime": "07:30:00",
+      "endTime": "10:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/74ae528e7aef515dafc238559112bb3e.jpg"
+    },
+    {
+      "serverDate": "2026-09-10",
+      "showName": "DD Returns",
+      "description": "A group of friends hides a bag full of money and jewels in a haunted bungalow to ditch the police. When they try to retrieve the bag, a ghost makes them play a survival game.",
+      "startDate": "2026-09-10T10:30:00",
+      "endDate": "2026-09-10T13:00:00",
+      "showTime": "10:30:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61a60f465be3ae6692b52c9fb493479f.jpg"
+    },
+    {
+      "serverDate": "2026-09-10",
+      "showName": "Inspector Vijay",
+      "description": "Vijay, an honest police officer, meets Samyukta at a café and falls in love with her. However, his life changes when he witnesses a kidnapping and ends up helping a lonely woman, Lavanya.",
+      "startDate": "2026-09-10T13:00:00",
+      "endDate": "2026-09-10T15:00:00",
+      "showTime": "13:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7331ca417ce8e4611e1a4e88db6a9d24.jpg"
+    },
+    {
+      "serverDate": "2026-09-10",
+      "showName": "Mohini",
+      "description": "Vaishnavi falls in love with Sandeep and they get engaged. Things take a turn when Vaishnavi is possessed by the spirit of Mohini, her look-alike, who wants vengeance from Sandeep's family.",
+      "startDate": "2026-09-10T15:00:00",
+      "endDate": "2026-09-10T17:45:00",
+      "showTime": "15:00:00",
+      "endTime": "17:45:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1504f0d0ffe18e03e32e76d61e1a8442.jpg"
+    },
+    {
+      "serverDate": "2026-09-10",
+      "showName": "The Ghazi Attack",
+      "description": "In 1971, an Indian naval submarine, S21, intercepts a Pakistani submarine, PNS Ghazi, in Indian waters during a routine surveillance and thwarts its mission of destroying INS Vikrant.",
+      "startDate": "2026-09-10T17:45:00",
+      "endDate": "2026-09-10T20:30:00",
+      "showTime": "17:45:00",
+      "endTime": "20:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2fb88e621c7f443bc2457defad71e14.jpg"
+    },
+    {
+      "serverDate": "2026-09-10",
+      "showName": "Hanu Man",
+      "description": "A man who accidentally attains superpowers clashes with one who is desperate to get his own.",
+      "startDate": "2026-09-10T20:30:00",
+      "endDate": "2026-09-10T23:30:00",
+      "showTime": "20:30:00",
+      "endTime": "23:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/294a1258341c6c09fbb4785ea19d0836.jpg"
+    },
+    {
+      "serverDate": "2026-09-10",
+      "showName": "The Masterpiece",
+      "description": "Yuva beats up a drug lord while trying to help the woman he loves and faces various threats aimed at his family.",
+      "startDate": "2026-09-10T23:30:00",
+      "endDate": "2026-09-10T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a182cf83fd0bfbc270f47d7de07efb6.jpg"
+    },
+    {
       "serverDate": "2026-09-11",
       "showName": "The Masterpiece",
       "description": "Yuva beats up a drug lord while trying to help the woman he loves and faces various threats aimed at his family.",
