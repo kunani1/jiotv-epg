@@ -2300,9 +2300,9 @@
       "showName": "Market Catalysts",
       "description": "A deeper understanding of what's driving the market action to help guide your investment decisions.",
       "startDate": "2026-09-14T19:30:00",
-      "endDate": "2026-09-14T20:30:00",
+      "endDate": "2026-09-14T20:00:00",
       "showTime": "19:30:00",
-      "endTime": "20:30:00",
+      "endTime": "20:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/270cc54e22d35db432b2ea585628d2eb.jpg"
     },
@@ -2310,10 +2310,10 @@
       "serverDate": "2026-09-14",
       "showName": "Power Players with Brian Sozzi",
       "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
-      "startDate": "2026-09-14T20:30:00",
-      "endDate": "2026-09-14T21:00:00",
-      "showTime": "20:30:00",
-      "endTime": "21:00:00",
+      "startDate": "2026-09-14T20:00:00",
+      "endDate": "2026-09-14T20:30:00",
+      "showTime": "20:00:00",
+      "endTime": "20:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
     },
@@ -2321,12 +2321,23 @@
       "serverDate": "2026-09-14",
       "showName": "Trader Talk",
       "description": "Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.",
+      "startDate": "2026-09-14T20:30:00",
+      "endDate": "2026-09-14T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d9a746914247a82ded34c8e3839701b.jpg"
+    },
+    {
+      "serverDate": "2026-09-14",
+      "showName": "The Big Idea",
+      "description": "Big ideas for small businesses. Elizabeth Gore shares tools,trends & tactics to grow in any economy.",
       "startDate": "2026-09-14T21:00:00",
       "endDate": "2026-09-14T21:30:00",
       "showTime": "21:00:00",
       "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d9a746914247a82ded34c8e3839701b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7432f01f76e5f2e1c30e38a3a21869d8.jpg"
     },
     {
       "serverDate": "2026-09-14",
@@ -2374,25 +2385,25 @@
     },
     {
       "serverDate": "2026-09-14",
-      "showName": "Opening Bid",
-      "description": "Brian Sozzi decodes market moves and shares scoops to get you thinking about your portfolio differently.",
+      "showName": "Morning Brief",
+      "description": "Morning Brief",
       "startDate": "2026-09-14T23:00:00",
       "endDate": "2026-09-14T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f363d1f21bf4270ce518049a81d1dcab.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dc06ddc1d0c1cae42104987d37ec420d.jpg"
     },
     {
       "serverDate": "2026-09-14",
-      "showName": "Market Catalysts",
-      "description": "A deeper understanding of what's driving the market action to help guide your investment decisions.",
+      "showName": "Opening Bid",
+      "description": "Brian Sozzi decodes market moves and shares scoops to get you thinking about your portfolio differently.",
       "startDate": "2026-09-14T23:30:00",
       "endDate": "2026-09-14T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/270cc54e22d35db432b2ea585628d2eb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f363d1f21bf4270ce518049a81d1dcab.jpg"
     },
     {
       "serverDate": "2026-09-15",
@@ -2407,11 +2418,22 @@
     },
     {
       "serverDate": "2026-09-15",
+      "showName": "Power Players with Brian Sozzi",
+      "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
+      "startDate": "2026-09-15T00:30:00",
+      "endDate": "2026-09-15T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
       "showName": "Market Domination",
       "description": "Yahoo Finance breaks down the market moves, play-by-play, to give you the essential scorecard.",
-      "startDate": "2026-09-15T00:30:00",
+      "startDate": "2026-09-15T01:00:00",
       "endDate": "2026-09-15T01:30:00",
-      "showTime": "00:30:00",
+      "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/19b0e4f278d174701cd509a3bb2c6ff5.jpg"
@@ -2487,9 +2509,9 @@
       "showName": "Market Domination",
       "description": "Yahoo Finance breaks down the market moves, play-by-play, to give you the essential scorecard.",
       "startDate": "2026-09-15T04:30:00",
-      "endDate": "2026-09-15T05:30:00",
+      "endDate": "2026-09-15T05:00:00",
       "showTime": "04:30:00",
-      "endTime": "05:30:00",
+      "endTime": "05:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/19b0e4f278d174701cd509a3bb2c6ff5.jpg"
     },
@@ -2497,12 +2519,23 @@
       "serverDate": "2026-09-15",
       "showName": "Market Domination: Overtime",
       "description": "The market may have closed, but the action continues. We analyze the day's top takeaways.",
+      "startDate": "2026-09-15T05:00:00",
+      "endDate": "2026-09-15T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2ab68623632e4357ec334e9242ee811.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
+      "showName": "Asking for a Trend",
+      "description": "Yahoo Finance covers trends driving tomorrow's market, offering insights to help you stay ahead of the curve.",
       "startDate": "2026-09-15T05:30:00",
       "endDate": "2026-09-15T06:00:00",
       "showTime": "05:30:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2ab68623632e4357ec334e9242ee811.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5151bc1875403d8624ad5d8fbadcb320.jpg"
     },
     {
       "serverDate": "2026-09-15",
@@ -2517,91 +2550,80 @@
     },
     {
       "serverDate": "2026-09-15",
-      "showName": "The Daily Wolf With Scott Melker",
-      "description": "Scott Melker leverages real-time data and key stories to give you the upper hand in the crypto markets.",
+      "showName": "Built Different With Ian Schwartzman",
+      "description": "Ian Schwartzman interviews business operators, breaking down the plans and journeys behind their success.",
       "startDate": "2026-09-15T06:30:00",
-      "endDate": "2026-09-15T06:45:00",
-      "showTime": "06:30:00",
-      "endTime": "06:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-09-15T06:45:00",
       "endDate": "2026-09-15T07:00:00",
-      "showTime": "06:45:00",
+      "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb6549c37023474d4ebdae0a104cc32e.jpg"
     },
     {
       "serverDate": "2026-09-15",
-      "showName": "Morning Brew Daily",
-      "description": "A daily talk show that covers the latest news on business, the economy & everything else.",
+      "showName": "The Big Idea",
+      "description": "Big ideas for small businesses. Elizabeth Gore shares tools,trends & tactics to grow in any economy.",
       "startDate": "2026-09-15T07:00:00",
       "endDate": "2026-09-15T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c8aa09c87eb87098dc4da7791c990b35.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7432f01f76e5f2e1c30e38a3a21869d8.jpg"
     },
     {
       "serverDate": "2026-09-15",
-      "showName": "Market Movers",
-      "description": "Yahoo Finance highlights key moments in the previous trading session.",
+      "showName": "Power Players with Brian Sozzi",
+      "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
       "startDate": "2026-09-15T07:30:00",
-      "endDate": "2026-09-15T08:30:00",
+      "endDate": "2026-09-15T08:00:00",
       "showTime": "07:30:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
+      "showName": "Power Players with Brian Sozzi",
+      "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
+      "startDate": "2026-09-15T08:00:00",
+      "endDate": "2026-09-15T08:30:00",
+      "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/caa02c448a3cec6887822ff6566050d4.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
     },
     {
       "serverDate": "2026-09-15",
-      "showName": "Entrepreneur Elevator Pitch",
-      "description": "Fast-paced pitch show, where entrepreneurs seek investment from a panel judges.",
+      "showName": "Trader Talk",
+      "description": "Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.",
       "startDate": "2026-09-15T08:30:00",
       "endDate": "2026-09-15T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75ecd0891361dcc967a3117731f8b8c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d9a746914247a82ded34c8e3839701b.jpg"
     },
     {
       "serverDate": "2026-09-15",
-      "showName": "Entrepreneur Elevator Pitch",
-      "description": "Fast-paced pitch show, where entrepreneurs seek investment from a panel judges.",
+      "showName": "Market Movers",
+      "description": "Yahoo Finance highlights key moments in the previous trading session.",
       "startDate": "2026-09-15T09:00:00",
-      "endDate": "2026-09-15T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75ecd0891361dcc967a3117731f8b8c.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "Entrepreneur Elevator Pitch",
-      "description": "Fast-paced pitch show, where entrepreneurs seek investment from a panel judges.",
-      "startDate": "2026-09-15T09:30:00",
       "endDate": "2026-09-15T10:00:00",
-      "showTime": "09:30:00",
+      "showTime": "09:00:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75ecd0891361dcc967a3117731f8b8c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/caa02c448a3cec6887822ff6566050d4.jpg"
     },
     {
       "serverDate": "2026-09-15",
-      "showName": "Entrepreneur Elevator Pitch",
-      "description": "Fast-paced pitch show, where entrepreneurs seek investment from a panel judges.",
+      "showName": "Morning Brew Daily",
+      "description": "A daily talk show that covers the latest news on business, the economy & everything else.",
       "startDate": "2026-09-15T10:00:00",
       "endDate": "2026-09-15T10:30:00",
       "showTime": "10:00:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75ecd0891361dcc967a3117731f8b8c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c8aa09c87eb87098dc4da7791c990b35.jpg"
     },
     {
       "serverDate": "2026-09-15",
@@ -2630,11 +2652,22 @@
       "showName": "Market Catalysts",
       "description": "A deeper understanding of what's driving the market action to help guide your investment decisions.",
       "startDate": "2026-09-15T11:30:00",
-      "endDate": "2026-09-15T12:30:00",
+      "endDate": "2026-09-15T12:00:00",
       "showTime": "11:30:00",
-      "endTime": "12:30:00",
+      "endTime": "12:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/270cc54e22d35db432b2ea585628d2eb.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
+      "showName": "Trader Talk",
+      "description": "Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.",
+      "startDate": "2026-09-15T12:00:00",
+      "endDate": "2026-09-15T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d9a746914247a82ded34c8e3839701b.jpg"
     },
     {
       "serverDate": "2026-09-15",
@@ -2649,11 +2682,22 @@
     },
     {
       "serverDate": "2026-09-15",
+      "showName": "Power Players with Brian Sozzi",
+      "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
+      "startDate": "2026-09-15T13:30:00",
+      "endDate": "2026-09-15T14:00:00",
+      "showTime": "13:30:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
       "showName": "Market Domination",
       "description": "Yahoo Finance breaks down the market moves, play-by-play, to give you the essential scorecard.",
-      "startDate": "2026-09-15T13:30:00",
+      "startDate": "2026-09-15T14:00:00",
       "endDate": "2026-09-15T14:30:00",
-      "showTime": "13:30:00",
+      "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/19b0e4f278d174701cd509a3bb2c6ff5.jpg"
@@ -2762,9 +2806,9 @@
       "showName": "Market Catalysts",
       "description": "A deeper understanding of what's driving the market action to help guide your investment decisions.",
       "startDate": "2026-09-15T19:30:00",
-      "endDate": "2026-09-15T20:30:00",
+      "endDate": "2026-09-15T20:00:00",
       "showTime": "19:30:00",
-      "endTime": "20:30:00",
+      "endTime": "20:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/270cc54e22d35db432b2ea585628d2eb.jpg"
     },
@@ -2772,10 +2816,10 @@
       "serverDate": "2026-09-15",
       "showName": "Power Players with Brian Sozzi",
       "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
-      "startDate": "2026-09-15T20:30:00",
-      "endDate": "2026-09-15T21:00:00",
-      "showTime": "20:30:00",
-      "endTime": "21:00:00",
+      "startDate": "2026-09-15T20:00:00",
+      "endDate": "2026-09-15T20:30:00",
+      "showTime": "20:00:00",
+      "endTime": "20:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
     },
@@ -2783,12 +2827,23 @@
       "serverDate": "2026-09-15",
       "showName": "Trader Talk",
       "description": "Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.",
+      "startDate": "2026-09-15T20:30:00",
+      "endDate": "2026-09-15T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d9a746914247a82ded34c8e3839701b.jpg"
+    },
+    {
+      "serverDate": "2026-09-15",
+      "showName": "The Big Idea",
+      "description": "Big ideas for small businesses. Elizabeth Gore shares tools,trends & tactics to grow in any economy.",
       "startDate": "2026-09-15T21:00:00",
       "endDate": "2026-09-15T21:30:00",
       "showTime": "21:00:00",
       "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d9a746914247a82ded34c8e3839701b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7432f01f76e5f2e1c30e38a3a21869d8.jpg"
     },
     {
       "serverDate": "2026-09-15",
@@ -2814,14 +2869,14 @@
     },
     {
       "serverDate": "2026-09-15",
-      "showName": "Power Players with Brian Sozzi",
-      "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
+      "showName": "The Big Idea",
+      "description": "Big ideas for small businesses. Elizabeth Gore shares tools,trends & tactics to grow in any economy.",
       "startDate": "2026-09-15T22:00:00",
       "endDate": "2026-09-15T22:30:00",
       "showTime": "22:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7432f01f76e5f2e1c30e38a3a21869d8.jpg"
     },
     {
       "serverDate": "2026-09-15",
@@ -2836,25 +2891,25 @@
     },
     {
       "serverDate": "2026-09-15",
-      "showName": "Opening Bid",
-      "description": "Brian Sozzi decodes market moves and shares scoops to get you thinking about your portfolio differently.",
+      "showName": "Morning Brief",
+      "description": "Morning Brief",
       "startDate": "2026-09-15T23:00:00",
       "endDate": "2026-09-15T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f363d1f21bf4270ce518049a81d1dcab.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dc06ddc1d0c1cae42104987d37ec420d.jpg"
     },
     {
       "serverDate": "2026-09-15",
-      "showName": "Market Catalysts",
-      "description": "A deeper understanding of what's driving the market action to help guide your investment decisions.",
+      "showName": "Opening Bid",
+      "description": "Brian Sozzi decodes market moves and shares scoops to get you thinking about your portfolio differently.",
       "startDate": "2026-09-15T23:30:00",
       "endDate": "2026-09-15T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/270cc54e22d35db432b2ea585628d2eb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f363d1f21bf4270ce518049a81d1dcab.jpg"
     },
     {
       "serverDate": "2026-09-16",
@@ -2869,11 +2924,22 @@
     },
     {
       "serverDate": "2026-09-16",
+      "showName": "The Big Idea",
+      "description": "Big ideas for small businesses. Elizabeth Gore shares tools,trends & tactics to grow in any economy.",
+      "startDate": "2026-09-16T00:30:00",
+      "endDate": "2026-09-16T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7432f01f76e5f2e1c30e38a3a21869d8.jpg"
+    },
+    {
+      "serverDate": "2026-09-16",
       "showName": "Market Domination",
       "description": "Yahoo Finance breaks down the market moves, play-by-play, to give you the essential scorecard.",
-      "startDate": "2026-09-16T00:30:00",
+      "startDate": "2026-09-16T01:00:00",
       "endDate": "2026-09-16T01:30:00",
-      "showTime": "00:30:00",
+      "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/19b0e4f278d174701cd509a3bb2c6ff5.jpg"
@@ -2924,14 +2990,14 @@
     },
     {
       "serverDate": "2026-09-16",
-      "showName": "Power Players with Brian Sozzi",
-      "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
+      "showName": "The Big Idea",
+      "description": "Big ideas for small businesses. Elizabeth Gore shares tools,trends & tactics to grow in any economy.",
       "startDate": "2026-09-16T03:00:00",
       "endDate": "2026-09-16T03:30:00",
       "showTime": "03:00:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7432f01f76e5f2e1c30e38a3a21869d8.jpg"
     },
     {
       "serverDate": "2026-09-16",
@@ -2949,9 +3015,9 @@
       "showName": "Market Domination",
       "description": "Yahoo Finance breaks down the market moves, play-by-play, to give you the essential scorecard.",
       "startDate": "2026-09-16T04:30:00",
-      "endDate": "2026-09-16T05:30:00",
+      "endDate": "2026-09-16T05:00:00",
       "showTime": "04:30:00",
-      "endTime": "05:30:00",
+      "endTime": "05:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/19b0e4f278d174701cd509a3bb2c6ff5.jpg"
     },
@@ -2959,12 +3025,23 @@
       "serverDate": "2026-09-16",
       "showName": "Market Domination: Overtime",
       "description": "The market may have closed, but the action continues. We analyze the day's top takeaways.",
+      "startDate": "2026-09-16T05:00:00",
+      "endDate": "2026-09-16T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2ab68623632e4357ec334e9242ee811.jpg"
+    },
+    {
+      "serverDate": "2026-09-16",
+      "showName": "Asking for a Trend",
+      "description": "Yahoo Finance covers trends driving tomorrow's market, offering insights to help you stay ahead of the curve.",
       "startDate": "2026-09-16T05:30:00",
       "endDate": "2026-09-16T06:00:00",
       "showTime": "05:30:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2ab68623632e4357ec334e9242ee811.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5151bc1875403d8624ad5d8fbadcb320.jpg"
     },
     {
       "serverDate": "2026-09-16",
@@ -2979,91 +3056,80 @@
     },
     {
       "serverDate": "2026-09-16",
-      "showName": "The Daily Wolf With Scott Melker",
-      "description": "Scott Melker leverages real-time data and key stories to give you the upper hand in the crypto markets.",
+      "showName": "Built Different With Ian Schwartzman",
+      "description": "Ian Schwartzman interviews business operators, breaking down the plans and journeys behind their success.",
       "startDate": "2026-09-16T06:30:00",
-      "endDate": "2026-09-16T06:45:00",
-      "showTime": "06:30:00",
-      "endTime": "06:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
-    },
-    {
-      "serverDate": "2026-09-16",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-09-16T06:45:00",
       "endDate": "2026-09-16T07:00:00",
-      "showTime": "06:45:00",
+      "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb6549c37023474d4ebdae0a104cc32e.jpg"
     },
     {
       "serverDate": "2026-09-16",
-      "showName": "Morning Brew Daily",
-      "description": "A daily talk show that covers the latest news on business, the economy & everything else.",
+      "showName": "The Big Idea",
+      "description": "Big ideas for small businesses. Elizabeth Gore shares tools,trends & tactics to grow in any economy.",
       "startDate": "2026-09-16T07:00:00",
       "endDate": "2026-09-16T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c8aa09c87eb87098dc4da7791c990b35.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7432f01f76e5f2e1c30e38a3a21869d8.jpg"
     },
     {
       "serverDate": "2026-09-16",
-      "showName": "Market Movers",
-      "description": "Yahoo Finance highlights key moments in the previous trading session.",
+      "showName": "The Big Idea",
+      "description": "Big ideas for small businesses. Elizabeth Gore shares tools,trends & tactics to grow in any economy.",
       "startDate": "2026-09-16T07:30:00",
-      "endDate": "2026-09-16T08:30:00",
+      "endDate": "2026-09-16T08:00:00",
       "showTime": "07:30:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7432f01f76e5f2e1c30e38a3a21869d8.jpg"
+    },
+    {
+      "serverDate": "2026-09-16",
+      "showName": "Power Players with Brian Sozzi",
+      "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
+      "startDate": "2026-09-16T08:00:00",
+      "endDate": "2026-09-16T08:30:00",
+      "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/caa02c448a3cec6887822ff6566050d4.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
     },
     {
       "serverDate": "2026-09-16",
-      "showName": "Entrepreneur Elevator Pitch",
-      "description": "Fast-paced pitch show, where entrepreneurs seek investment from a panel judges.",
+      "showName": "Trader Talk",
+      "description": "Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.",
       "startDate": "2026-09-16T08:30:00",
       "endDate": "2026-09-16T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75ecd0891361dcc967a3117731f8b8c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d9a746914247a82ded34c8e3839701b.jpg"
     },
     {
       "serverDate": "2026-09-16",
-      "showName": "Entrepreneur Elevator Pitch",
-      "description": "Fast-paced pitch show, where entrepreneurs seek investment from a panel judges.",
+      "showName": "Market Movers",
+      "description": "Yahoo Finance highlights key moments in the previous trading session.",
       "startDate": "2026-09-16T09:00:00",
-      "endDate": "2026-09-16T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75ecd0891361dcc967a3117731f8b8c.jpg"
-    },
-    {
-      "serverDate": "2026-09-16",
-      "showName": "Entrepreneur Elevator Pitch",
-      "description": "Fast-paced pitch show, where entrepreneurs seek investment from a panel judges.",
-      "startDate": "2026-09-16T09:30:00",
       "endDate": "2026-09-16T10:00:00",
-      "showTime": "09:30:00",
+      "showTime": "09:00:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75ecd0891361dcc967a3117731f8b8c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/caa02c448a3cec6887822ff6566050d4.jpg"
     },
     {
       "serverDate": "2026-09-16",
-      "showName": "Entrepreneur Elevator Pitch",
-      "description": "Fast-paced pitch show, where entrepreneurs seek investment from a panel judges.",
+      "showName": "Morning Brew Daily",
+      "description": "A daily talk show that covers the latest news on business, the economy & everything else.",
       "startDate": "2026-09-16T10:00:00",
       "endDate": "2026-09-16T10:30:00",
       "showTime": "10:00:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75ecd0891361dcc967a3117731f8b8c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c8aa09c87eb87098dc4da7791c990b35.jpg"
     },
     {
       "serverDate": "2026-09-16",
@@ -3092,11 +3158,22 @@
       "showName": "Market Catalysts",
       "description": "A deeper understanding of what's driving the market action to help guide your investment decisions.",
       "startDate": "2026-09-16T11:30:00",
-      "endDate": "2026-09-16T12:30:00",
+      "endDate": "2026-09-16T12:00:00",
       "showTime": "11:30:00",
-      "endTime": "12:30:00",
+      "endTime": "12:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/270cc54e22d35db432b2ea585628d2eb.jpg"
+    },
+    {
+      "serverDate": "2026-09-16",
+      "showName": "Trader Talk",
+      "description": "Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.",
+      "startDate": "2026-09-16T12:00:00",
+      "endDate": "2026-09-16T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d9a746914247a82ded34c8e3839701b.jpg"
     },
     {
       "serverDate": "2026-09-16",
@@ -3111,11 +3188,22 @@
     },
     {
       "serverDate": "2026-09-16",
+      "showName": "The Big Idea",
+      "description": "Big ideas for small businesses. Elizabeth Gore shares tools,trends & tactics to grow in any economy.",
+      "startDate": "2026-09-16T13:30:00",
+      "endDate": "2026-09-16T14:00:00",
+      "showTime": "13:30:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7432f01f76e5f2e1c30e38a3a21869d8.jpg"
+    },
+    {
+      "serverDate": "2026-09-16",
       "showName": "Market Domination",
       "description": "Yahoo Finance breaks down the market moves, play-by-play, to give you the essential scorecard.",
-      "startDate": "2026-09-16T13:30:00",
+      "startDate": "2026-09-16T14:00:00",
       "endDate": "2026-09-16T14:30:00",
-      "showTime": "13:30:00",
+      "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/19b0e4f278d174701cd509a3bb2c6ff5.jpg"
@@ -3224,9 +3312,9 @@
       "showName": "Market Catalysts",
       "description": "A deeper understanding of what's driving the market action to help guide your investment decisions.",
       "startDate": "2026-09-16T19:30:00",
-      "endDate": "2026-09-16T20:30:00",
+      "endDate": "2026-09-16T20:00:00",
       "showTime": "19:30:00",
-      "endTime": "20:30:00",
+      "endTime": "20:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/270cc54e22d35db432b2ea585628d2eb.jpg"
     },
@@ -3234,10 +3322,10 @@
       "serverDate": "2026-09-16",
       "showName": "Power Players with Brian Sozzi",
       "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
-      "startDate": "2026-09-16T20:30:00",
-      "endDate": "2026-09-16T21:00:00",
-      "showTime": "20:30:00",
-      "endTime": "21:00:00",
+      "startDate": "2026-09-16T20:00:00",
+      "endDate": "2026-09-16T20:30:00",
+      "showTime": "20:00:00",
+      "endTime": "20:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
     },
@@ -3245,12 +3333,23 @@
       "serverDate": "2026-09-16",
       "showName": "Trader Talk",
       "description": "Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.",
+      "startDate": "2026-09-16T20:30:00",
+      "endDate": "2026-09-16T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d9a746914247a82ded34c8e3839701b.jpg"
+    },
+    {
+      "serverDate": "2026-09-16",
+      "showName": "The Big Idea",
+      "description": "Big ideas for small businesses. Elizabeth Gore shares tools,trends & tactics to grow in any economy.",
       "startDate": "2026-09-16T21:00:00",
       "endDate": "2026-09-16T21:30:00",
       "showTime": "21:00:00",
       "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d9a746914247a82ded34c8e3839701b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7432f01f76e5f2e1c30e38a3a21869d8.jpg"
     },
     {
       "serverDate": "2026-09-16",
@@ -3276,14 +3375,25 @@
     },
     {
       "serverDate": "2026-09-16",
-      "showName": "Power Players with Brian Sozzi",
-      "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
+      "showName": "How They Run with Ryan Patel",
+      "description": "How They Run with Ryan Patel goes behind the scenes to reveal how today's business leaders actually operate.",
       "startDate": "2026-09-16T22:00:00",
-      "endDate": "2026-09-16T22:30:00",
+      "endDate": "2026-09-16T22:20:00",
       "showTime": "22:00:00",
+      "endTime": "22:20:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-09-16",
+      "showName": "Best of Yahoo Finance",
+      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
+      "startDate": "2026-09-16T22:20:00",
+      "endDate": "2026-09-16T22:30:00",
+      "showTime": "22:20:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
     },
     {
       "serverDate": "2026-09-16",
@@ -3298,36 +3408,36 @@
     },
     {
       "serverDate": "2026-09-16",
-      "showName": "Opening Bid",
-      "description": "Brian Sozzi decodes market moves and shares scoops to get you thinking about your portfolio differently.",
+      "showName": "Morning Brief",
+      "description": "Morning Brief",
       "startDate": "2026-09-16T23:00:00",
-      "endDate": "2026-09-16T23:30:00",
+      "endDate": "2026-09-16T23:25:00",
       "showTime": "23:00:00",
-      "endTime": "23:30:00",
+      "endTime": "23:25:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f363d1f21bf4270ce518049a81d1dcab.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dc06ddc1d0c1cae42104987d37ec420d.jpg"
     },
     {
       "serverDate": "2026-09-16",
-      "showName": "Market Catalysts",
-      "description": "A deeper understanding of what's driving the market action to help guide your investment decisions.",
-      "startDate": "2026-09-16T23:30:00",
+      "showName": "Fed Decision",
+      "description": "Yahoo Finance decodes the meeting of the world's most influential central bank.",
+      "startDate": "2026-09-16T23:25:00",
       "endDate": "2026-09-16T23:59:59",
-      "showTime": "23:30:00",
+      "showTime": "23:25:00",
       "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/270cc54e22d35db432b2ea585628d2eb.jpg"
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c89fdbdb440e21df760853d25bb3b082.jpg"
     },
     {
       "serverDate": "2026-09-17",
-      "showName": "Market Catalysts",
-      "description": "A deeper understanding of what's driving the market action to help guide your investment decisions.",
+      "showName": "Fed Decision",
+      "description": "Yahoo Finance decodes the meeting of the world's most influential central bank.",
       "startDate": "2026-09-17T00:00:00",
       "endDate": "2026-09-17T00:30:00",
       "showTime": "00:00:00",
       "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/270cc54e22d35db432b2ea585628d2eb.jpg"
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c89fdbdb440e21df760853d25bb3b082.jpg"
     },
     {
       "serverDate": "2026-09-17",
@@ -3386,14 +3496,25 @@
     },
     {
       "serverDate": "2026-09-17",
-      "showName": "Power Players with Brian Sozzi",
-      "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
+      "showName": "How They Run with Ryan Patel",
+      "description": "How They Run with Ryan Patel goes behind the scenes to reveal how today's business leaders actually operate.",
       "startDate": "2026-09-17T03:00:00",
-      "endDate": "2026-09-17T03:30:00",
+      "endDate": "2026-09-17T03:20:00",
       "showTime": "03:00:00",
+      "endTime": "03:20:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Best of Yahoo Finance",
+      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
+      "startDate": "2026-09-17T03:20:00",
+      "endDate": "2026-09-17T03:30:00",
+      "showTime": "03:20:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
     },
     {
       "serverDate": "2026-09-17",
@@ -3411,9 +3532,9 @@
       "showName": "Market Domination",
       "description": "Yahoo Finance breaks down the market moves, play-by-play, to give you the essential scorecard.",
       "startDate": "2026-09-17T04:30:00",
-      "endDate": "2026-09-17T05:30:00",
+      "endDate": "2026-09-17T05:00:00",
       "showTime": "04:30:00",
-      "endTime": "05:30:00",
+      "endTime": "05:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/19b0e4f278d174701cd509a3bb2c6ff5.jpg"
     },
@@ -3421,12 +3542,23 @@
       "serverDate": "2026-09-17",
       "showName": "Market Domination: Overtime",
       "description": "The market may have closed, but the action continues. We analyze the day's top takeaways.",
+      "startDate": "2026-09-17T05:00:00",
+      "endDate": "2026-09-17T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2ab68623632e4357ec334e9242ee811.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Asking for a Trend",
+      "description": "Yahoo Finance covers trends driving tomorrow's market, offering insights to help you stay ahead of the curve.",
       "startDate": "2026-09-17T05:30:00",
       "endDate": "2026-09-17T06:00:00",
       "showTime": "05:30:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2ab68623632e4357ec334e9242ee811.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5151bc1875403d8624ad5d8fbadcb320.jpg"
     },
     {
       "serverDate": "2026-09-17",
@@ -3441,91 +3573,91 @@
     },
     {
       "serverDate": "2026-09-17",
-      "showName": "The Daily Wolf With Scott Melker",
-      "description": "Scott Melker leverages real-time data and key stories to give you the upper hand in the crypto markets.",
+      "showName": "Built Different With Ian Schwartzman",
+      "description": "Ian Schwartzman interviews business operators, breaking down the plans and journeys behind their success.",
       "startDate": "2026-09-17T06:30:00",
-      "endDate": "2026-09-17T06:45:00",
-      "showTime": "06:30:00",
-      "endTime": "06:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
-    },
-    {
-      "serverDate": "2026-09-17",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-09-17T06:45:00",
       "endDate": "2026-09-17T07:00:00",
-      "showTime": "06:45:00",
+      "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb6549c37023474d4ebdae0a104cc32e.jpg"
     },
     {
       "serverDate": "2026-09-17",
-      "showName": "Morning Brew Daily",
-      "description": "A daily talk show that covers the latest news on business, the economy & everything else.",
+      "showName": "The Big Idea",
+      "description": "Big ideas for small businesses. Elizabeth Gore shares tools,trends & tactics to grow in any economy.",
       "startDate": "2026-09-17T07:00:00",
       "endDate": "2026-09-17T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c8aa09c87eb87098dc4da7791c990b35.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7432f01f76e5f2e1c30e38a3a21869d8.jpg"
     },
     {
       "serverDate": "2026-09-17",
-      "showName": "Market Movers",
-      "description": "Yahoo Finance highlights key moments in the previous trading session.",
+      "showName": "How They Run with Ryan Patel",
+      "description": "How They Run with Ryan Patel goes behind the scenes to reveal how today's business leaders actually operate.",
       "startDate": "2026-09-17T07:30:00",
-      "endDate": "2026-09-17T08:30:00",
+      "endDate": "2026-09-17T07:50:00",
       "showTime": "07:30:00",
+      "endTime": "07:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Best of Yahoo Finance",
+      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
+      "startDate": "2026-09-17T07:50:00",
+      "endDate": "2026-09-17T08:00:00",
+      "showTime": "07:50:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Power Players with Brian Sozzi",
+      "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
+      "startDate": "2026-09-17T08:00:00",
+      "endDate": "2026-09-17T08:30:00",
+      "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/caa02c448a3cec6887822ff6566050d4.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
     },
     {
       "serverDate": "2026-09-17",
-      "showName": "Entrepreneur Elevator Pitch",
-      "description": "Fast-paced pitch show, where entrepreneurs seek investment from a panel judges.",
+      "showName": "Trader Talk",
+      "description": "Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.",
       "startDate": "2026-09-17T08:30:00",
       "endDate": "2026-09-17T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75ecd0891361dcc967a3117731f8b8c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d9a746914247a82ded34c8e3839701b.jpg"
     },
     {
       "serverDate": "2026-09-17",
-      "showName": "Entrepreneur Elevator Pitch",
-      "description": "Fast-paced pitch show, where entrepreneurs seek investment from a panel judges.",
+      "showName": "Market Movers",
+      "description": "Yahoo Finance highlights key moments in the previous trading session.",
       "startDate": "2026-09-17T09:00:00",
-      "endDate": "2026-09-17T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75ecd0891361dcc967a3117731f8b8c.jpg"
-    },
-    {
-      "serverDate": "2026-09-17",
-      "showName": "Entrepreneur Elevator Pitch",
-      "description": "Fast-paced pitch show, where entrepreneurs seek investment from a panel judges.",
-      "startDate": "2026-09-17T09:30:00",
       "endDate": "2026-09-17T10:00:00",
-      "showTime": "09:30:00",
+      "showTime": "09:00:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75ecd0891361dcc967a3117731f8b8c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/caa02c448a3cec6887822ff6566050d4.jpg"
     },
     {
       "serverDate": "2026-09-17",
-      "showName": "Entrepreneur Elevator Pitch",
-      "description": "Fast-paced pitch show, where entrepreneurs seek investment from a panel judges.",
+      "showName": "Morning Brew Daily",
+      "description": "A daily talk show that covers the latest news on business, the economy & everything else.",
       "startDate": "2026-09-17T10:00:00",
       "endDate": "2026-09-17T10:30:00",
       "showTime": "10:00:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75ecd0891361dcc967a3117731f8b8c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c8aa09c87eb87098dc4da7791c990b35.jpg"
     },
     {
       "serverDate": "2026-09-17",
@@ -3554,11 +3686,22 @@
       "showName": "Market Catalysts",
       "description": "A deeper understanding of what's driving the market action to help guide your investment decisions.",
       "startDate": "2026-09-17T11:30:00",
-      "endDate": "2026-09-17T12:30:00",
+      "endDate": "2026-09-17T12:00:00",
       "showTime": "11:30:00",
-      "endTime": "12:30:00",
+      "endTime": "12:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/270cc54e22d35db432b2ea585628d2eb.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Trader Talk",
+      "description": "Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.",
+      "startDate": "2026-09-17T12:00:00",
+      "endDate": "2026-09-17T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d9a746914247a82ded34c8e3839701b.jpg"
     },
     {
       "serverDate": "2026-09-17",
@@ -3573,11 +3716,22 @@
     },
     {
       "serverDate": "2026-09-17",
+      "showName": "Trader Talk",
+      "description": "Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.",
+      "startDate": "2026-09-17T13:30:00",
+      "endDate": "2026-09-17T14:00:00",
+      "showTime": "13:30:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d9a746914247a82ded34c8e3839701b.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
       "showName": "Market Domination",
       "description": "Yahoo Finance breaks down the market moves, play-by-play, to give you the essential scorecard.",
-      "startDate": "2026-09-17T13:30:00",
+      "startDate": "2026-09-17T14:00:00",
       "endDate": "2026-09-17T14:30:00",
-      "showTime": "13:30:00",
+      "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/19b0e4f278d174701cd509a3bb2c6ff5.jpg"
@@ -3686,9 +3840,9 @@
       "showName": "Market Catalysts",
       "description": "A deeper understanding of what's driving the market action to help guide your investment decisions.",
       "startDate": "2026-09-17T19:30:00",
-      "endDate": "2026-09-17T20:30:00",
+      "endDate": "2026-09-17T20:00:00",
       "showTime": "19:30:00",
-      "endTime": "20:30:00",
+      "endTime": "20:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/270cc54e22d35db432b2ea585628d2eb.jpg"
     },
@@ -3696,10 +3850,10 @@
       "serverDate": "2026-09-17",
       "showName": "Power Players with Brian Sozzi",
       "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
-      "startDate": "2026-09-17T20:30:00",
-      "endDate": "2026-09-17T21:00:00",
-      "showTime": "20:30:00",
-      "endTime": "21:00:00",
+      "startDate": "2026-09-17T20:00:00",
+      "endDate": "2026-09-17T20:30:00",
+      "showTime": "20:00:00",
+      "endTime": "20:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
     },
@@ -3707,12 +3861,23 @@
       "serverDate": "2026-09-17",
       "showName": "Trader Talk",
       "description": "Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.",
+      "startDate": "2026-09-17T20:30:00",
+      "endDate": "2026-09-17T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d9a746914247a82ded34c8e3839701b.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "The Big Idea",
+      "description": "Big ideas for small businesses. Elizabeth Gore shares tools,trends & tactics to grow in any economy.",
       "startDate": "2026-09-17T21:00:00",
       "endDate": "2026-09-17T21:30:00",
       "showTime": "21:00:00",
       "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d9a746914247a82ded34c8e3839701b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7432f01f76e5f2e1c30e38a3a21869d8.jpg"
     },
     {
       "serverDate": "2026-09-17",
@@ -3738,14 +3903,14 @@
     },
     {
       "serverDate": "2026-09-17",
-      "showName": "Power Players with Brian Sozzi",
-      "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
+      "showName": "The Big Idea",
+      "description": "Big ideas for small businesses. Elizabeth Gore shares tools,trends & tactics to grow in any economy.",
       "startDate": "2026-09-17T22:00:00",
       "endDate": "2026-09-17T22:30:00",
       "showTime": "22:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7432f01f76e5f2e1c30e38a3a21869d8.jpg"
     },
     {
       "serverDate": "2026-09-17",
@@ -3760,25 +3925,25 @@
     },
     {
       "serverDate": "2026-09-17",
-      "showName": "Opening Bid",
-      "description": "Brian Sozzi decodes market moves and shares scoops to get you thinking about your portfolio differently.",
+      "showName": "Morning Brief",
+      "description": "Morning Brief",
       "startDate": "2026-09-17T23:00:00",
       "endDate": "2026-09-17T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f363d1f21bf4270ce518049a81d1dcab.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dc06ddc1d0c1cae42104987d37ec420d.jpg"
     },
     {
       "serverDate": "2026-09-17",
-      "showName": "Market Catalysts",
-      "description": "A deeper understanding of what's driving the market action to help guide your investment decisions.",
+      "showName": "Opening Bid",
+      "description": "Brian Sozzi decodes market moves and shares scoops to get you thinking about your portfolio differently.",
       "startDate": "2026-09-17T23:30:00",
       "endDate": "2026-09-17T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/270cc54e22d35db432b2ea585628d2eb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f363d1f21bf4270ce518049a81d1dcab.jpg"
     }
   ]
 }

@@ -8,149 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/rojatv.png",
   "programs": [
     {
-      "serverDate": "2026-09-10",
-      "showName": "Rajadhi Raja",
-      "description": "Raja, a rich estate owner's son, comes back from abroad in order to avenge his dead father. However, things get complicated when he is framed, and he finds his doppelgänger in his village.",
-      "startDate": "2026-09-10T00:00:00",
-      "endDate": "2026-09-10T01:00:00",
-      "showTime": "00:00:00",
-      "endTime": "01:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/335ab1e43be55e0591396ae7f82b105e.jpg"
-    },
-    {
-      "serverDate": "2026-09-10",
-      "showName": "Iravum Isaiyum",
-      "description": "A comprehensive compilation of peaceful melodious songs from evergreen movies is played to make the viewers fall into a blissful sleep.",
-      "startDate": "2026-09-10T01:00:00",
-      "endDate": "2026-09-10T03:30:00",
-      "showTime": "01:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/44dfbb46b915df5e2db3cf9e1e82bc58.jpg"
-    },
-    {
-      "serverDate": "2026-09-10",
-      "showName": "Isai Mazhai",
-      "description": "Isai Mazhai",
-      "startDate": "2026-09-10T03:30:00",
-      "endDate": "2026-09-10T06:00:00",
-      "showTime": "03:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a82ab0e822eec22cda19d3cf377b2b87.jpg"
-    },
-    {
-      "serverDate": "2026-09-10",
-      "showName": "Anbodu Aanmeegam",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-10T06:00:00",
-      "endDate": "2026-09-10T07:00:00",
-      "showTime": "06:00:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2cadac71b9bb9d9268a24786127fcc8c.jpg"
-    },
-    {
-      "serverDate": "2026-09-10",
-      "showName": "Kaalai Thendral",
-      "description": "A comprehensive compilation of renowned songs from movies are played back to back.",
-      "startDate": "2026-09-10T07:00:00",
-      "endDate": "2026-09-10T08:00:00",
-      "showTime": "07:00:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-09-10",
-      "showName": "Kalakkal Paadalgal",
-      "description": "Kalakkal Paadalgal",
-      "startDate": "2026-09-10T08:00:00",
-      "endDate": "2026-09-10T09:00:00",
-      "showTime": "08:00:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d65e23688b1532348ed04dd5c9d9640d.jpg"
-    },
-    {
-      "serverDate": "2026-09-10",
-      "showName": "Kadhal Kottai",
-      "description": "Suriya finds Kamali's lost bag and mails it to her. Love blossoms between them through letters and phone calls, but destiny never favours them to meet each other in person.",
-      "startDate": "2026-09-10T09:00:00",
-      "endDate": "2026-09-10T12:00:00",
-      "showTime": "09:00:00",
-      "endTime": "12:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b5cff9faee8562c51707d920a5938aa.jpg"
-    },
-    {
-      "serverDate": "2026-09-10",
-      "showName": "Kadhal Kadhal",
-      "description": "A comprehensive compilation of romantic songs written and composed by a number of talented artists is played back-to-back.",
-      "startDate": "2026-09-10T12:00:00",
-      "endDate": "2026-09-10T13:00:00",
-      "showTime": "12:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa8685e6c7b77a23a125243d698d9184.jpg"
-    },
-    {
-      "serverDate": "2026-09-10",
-      "showName": "Kaalam Maari Pochu",
-      "description": "Indra and her three sisters are married off to mediocre men by their patriarchal father. However, he realises their importance when his son stirs discord in the family.",
-      "startDate": "2026-09-10T13:00:00",
-      "endDate": "2026-09-10T16:00:00",
-      "showTime": "13:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/952f0672123b367128d6c3f5e93cd853.jpg"
-    },
-    {
-      "serverDate": "2026-09-10",
-      "showName": "Songs Of The Day",
-      "description": "A comprehensive compilation of movie songs is played in quick succession.",
-      "startDate": "2026-09-10T16:00:00",
-      "endDate": "2026-09-10T18:00:00",
-      "showTime": "16:00:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/257fe64fb601e6ad0e928515c347150e.jpg"
-    },
-    {
-      "serverDate": "2026-09-10",
-      "showName": "Devotional Time",
-      "description": "30 minutes of Beautiful scenery and a cappella singing to enrich your day.",
-      "startDate": "2026-09-10T18:00:00",
-      "endDate": "2026-09-10T19:00:00",
-      "showTime": "18:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1eb1c5035e018081c6c7d8a45dc633be.jpg"
-    },
-    {
-      "serverDate": "2026-09-10",
-      "showName": "Pandiya Naadu",
-      "description": "Sivakumar, a young man, lives in a close-knit family. When a criminal kills his brother, he and his father decide to take revenge but in their own separate ways.",
-      "startDate": "2026-09-10T19:00:00",
-      "endDate": "2026-09-10T22:00:00",
-      "showTime": "19:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ea0516ec09d658cbf50e469b702b6428.jpg"
-    },
-    {
-      "serverDate": "2026-09-10",
-      "showName": "Vandi",
-      "description": "Three roommates struggle to make a living in the city. Eventually, a simple misunderstanding between a missing and stolen bike pushes them into a sea of complex problems.",
-      "startDate": "2026-09-10T22:00:00",
-      "endDate": "2026-09-10T23:59:59",
-      "showTime": "22:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbf4d7a2cf861c7c54bb0fff340acce4.jpg"
-    },
-    {
       "serverDate": "2026-09-11",
       "showName": "Vandi",
       "description": "Three roommates struggle to make a living in the city. Eventually, a simple misunderstanding between a missing and stolen bike pushes them into a sea of complex problems.",
@@ -361,14 +218,14 @@
     },
     {
       "serverDate": "2026-09-12",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Parthiban Kanavu",
+      "description": "Parthiban, a marketing executive, discovers that the woman he has fallen in love with is the same one that his parents want him to marry. However, after marriage, he discovers an unexpected truth.",
       "startDate": "2026-09-12T09:00:00",
       "endDate": "2026-09-12T12:00:00",
       "showTime": "09:00:00",
       "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/98ca74492628e914a804bdc7984f2ebd.jpg"
     },
     {
       "serverDate": "2026-09-12",
@@ -383,14 +240,14 @@
     },
     {
       "serverDate": "2026-09-12",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Naan Sigappu Manithan",
+      "description": "A Tamil professor and his friend try to stop the prostitution and illicit liquor trade in their neighbourhood. However, due to their work, a criminal gang begins to attack their families.",
       "startDate": "2026-09-12T13:00:00",
       "endDate": "2026-09-12T16:00:00",
       "showTime": "13:00:00",
       "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9925d0afe3b0bcade1c690c85947475.jpg"
     },
     {
       "serverDate": "2026-09-12",
@@ -416,36 +273,36 @@
     },
     {
       "serverDate": "2026-09-12",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Thotti Jaya",
+      "description": "An orphan named Thotti Jaya is hired by a mobster after he is spotted thrashing a dishonest man. However, his troubles begin when he falls in love with his boss' daughter.",
       "startDate": "2026-09-12T19:00:00",
       "endDate": "2026-09-12T22:00:00",
       "showTime": "19:00:00",
       "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4c50dc13355fb5d75aa227ebd78e2bc.jpg"
     },
     {
       "serverDate": "2026-09-12",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Pithamagan",
+      "description": "An imposter befriends a social outcast convicted in a drug-peddling case in prison. However, when they are released from jail, they get entangled in a local drug lord's vicious scheme.",
       "startDate": "2026-09-12T22:00:00",
       "endDate": "2026-09-12T23:59:59",
       "showTime": "22:00:00",
       "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/796890c59863af6ae23871d6df991ec3.jpg"
     },
     {
       "serverDate": "2026-09-13",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Pithamagan",
+      "description": "An imposter befriends a social outcast convicted in a drug-peddling case in prison. However, when they are released from jail, they get entangled in a local drug lord's vicious scheme.",
       "startDate": "2026-09-13T00:00:00",
       "endDate": "2026-09-13T01:00:00",
       "showTime": "00:00:00",
       "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/796890c59863af6ae23871d6df991ec3.jpg"
     },
     {
       "serverDate": "2026-09-13",
