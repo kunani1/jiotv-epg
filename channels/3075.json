@@ -8,127 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/smrbol.png",
   "programs": [
     {
-      "serverDate": "2026-09-10",
-      "showName": "Auzaar",
-      "description": "Suraj, a police officer, is assigned to arrest his friend Yash, whose father runs an illegal business. He must now persuade his friend to make his father change his ways to avoid the consequences.",
-      "startDate": "2026-09-10T00:00:00",
-      "endDate": "2026-09-10T01:00:00",
-      "showTime": "00:00:00",
-      "endTime": "01:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0c5ec53651335be6bdd396ffde2ad94e.jpg"
-    },
-    {
-      "serverDate": "2026-09-10",
-      "showName": "Waqt Hamara Hai",
-      "description": "Friends Vikas and Sunil, along with their girlfriends, Ayesha and Mamta, unknowingly become a part of an awful terrorist plot to kill a minister.",
-      "startDate": "2026-09-10T01:00:00",
-      "endDate": "2026-09-10T03:30:00",
-      "showTime": "01:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6cdb24841da021cedf1695e5695bda54.jpg"
-    },
-    {
-      "serverDate": "2026-09-10",
-      "showName": "Road to Sangam",
-      "description": "A devout Muslim Indian man is tasked with repairing a lorry in order to transport the ashes of Mahatma Gandhi. However, when communal violence strikes, he is left with a troubling dilemma.",
-      "startDate": "2026-09-10T03:30:00",
-      "endDate": "2026-09-10T05:00:00",
-      "showTime": "03:30:00",
-      "endTime": "05:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f9170121e34db7a704050dc794e379f0.jpg"
-    },
-    {
-      "serverDate": "2026-09-10",
-      "showName": "Andolan",
-      "description": "Adarsh and Aniket are two brothers who study in the same college. However, when they graduate and plan to establish a career, both of them choose different paths and gradually drift apart.",
-      "startDate": "2026-09-10T05:00:00",
-      "endDate": "2026-09-10T07:30:00",
-      "showTime": "05:00:00",
-      "endTime": "07:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4ebed19ff347c073eadbd095184f0efb.jpg"
-    },
-    {
-      "serverDate": "2026-09-10",
-      "showName": "Fredrick",
-      "description": "A suspended policeman, Vikram Dixit, along with his wife, looks for Fredrick, the prime suspect in his sister's kidnapping. However, he cannot find anybody who knows him or has seen him in a while.",
-      "startDate": "2026-09-10T07:30:00",
-      "endDate": "2026-09-10T10:00:00",
-      "showTime": "07:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fda53c44eda9ec1eac469b44a6eebaf6.jpg"
-    },
-    {
-      "serverDate": "2026-09-10",
-      "showName": "Soldier",
-      "description": "After Major Vijay Malhotra's colleagues betray him, he is branded as a traitor and subsequently killed. But his son, Vicky, vows to take revenge on his father's murderers and prove his innocence.",
-      "startDate": "2026-09-10T10:00:00",
-      "endDate": "2026-09-10T12:30:00",
-      "showTime": "10:00:00",
-      "endTime": "12:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abf12d407f2bb02aab62df0f5c6955a7.jpg"
-    },
-    {
-      "serverDate": "2026-09-10",
-      "showName": "Hera Pheri",
-      "description": "Vijay and Ajay make a living by stealing money from people. Their friendship is affected when Vijay discovers that Ajay's father may have been his father's killer.",
-      "startDate": "2026-09-10T12:30:00",
-      "endDate": "2026-09-10T15:00:00",
-      "showTime": "12:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a75ac2a253c83378c05d262043ddde0.jpg"
-    },
-    {
-      "serverDate": "2026-09-10",
-      "showName": "Chalta Hai Yaar",
-      "description": "Frustrated with his wife, Namdev, a businessman, decides to end his life. However, things take a turn when he envisions his dead father who encourages him to rethink his decision.",
-      "startDate": "2026-09-10T15:00:00",
-      "endDate": "2026-09-10T17:30:00",
-      "showTime": "15:00:00",
-      "endTime": "17:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dff129c8580a0512fbfb57d99b2597a6.jpg"
-    },
-    {
-      "serverDate": "2026-09-10",
-      "showName": "Kaagaz Ke Fools",
-      "description": "After a big fight with his nagging wife Nikki, Purushottam Tripathi, an aspiring writer, leaves his home. However, his life takes a drastic turn when he meets Rubina, a prostitute.",
-      "startDate": "2026-09-10T17:30:00",
-      "endDate": "2026-09-10T20:00:00",
-      "showTime": "17:30:00",
-      "endTime": "20:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d50e85917a63d4092041230a8e7c681.jpg"
-    },
-    {
-      "serverDate": "2026-09-10",
-      "showName": "Achanak",
-      "description": "A man is determined to prove his lover's innocence after she is suddenly accused of murdering his family.",
-      "startDate": "2026-09-10T20:00:00",
-      "endDate": "2026-09-10T22:30:00",
-      "showTime": "20:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a0bf38c673f7052c4a7dea283403c801.jpg"
-    },
-    {
-      "serverDate": "2026-09-10",
-      "showName": "Gone Kesh",
-      "description": "After being diagnosed with alopecia, a condition that causes rapid hair loss, Enakshi, a young girl, navigates through the trials and tribulations of life.",
-      "startDate": "2026-09-10T22:30:00",
-      "endDate": "2026-09-10T23:59:59",
-      "showTime": "22:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f41aa0c420843be849c126ff6f7471e0.jpg"
-    },
-    {
       "serverDate": "2026-09-11",
       "showName": "Gone Kesh",
       "description": "After being diagnosed with alopecia, a condition that causes rapid hair loss, Enakshi, a young girl, navigates through the trials and tribulations of life.",
@@ -974,6 +853,127 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/40d7148c30ab34735690aa62e044bd68.jpg"
+    },
+    {
+      "serverDate": "2026-09-18",
+      "showName": "Gair Kaanooni",
+      "description": "Police Inspector Kapil Khanna realises that his baby boy has been switched with a girl child by the hospital and files a lawsuit against the owner, Robert Decosta, while trying to find his missing son.",
+      "startDate": "2026-09-18T00:00:00",
+      "endDate": "2026-09-18T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/40d7148c30ab34735690aa62e044bd68.jpg"
+    },
+    {
+      "serverDate": "2026-09-18",
+      "showName": "Dream Girl",
+      "description": "A young woman, conning people to run an orphanage, falls in love with a rich man under the disguise of a princess. However, their romance crumbles when her truth comes out.",
+      "startDate": "2026-09-18T01:00:00",
+      "endDate": "2026-09-18T03:30:00",
+      "showTime": "01:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4ab77455616426c9242f1e00bf0304e.jpg"
+    },
+    {
+      "serverDate": "2026-09-18",
+      "showName": "Banjaran",
+      "description": "The universe offers a Banjara tribe leader's daughter an opportunity to turn her doomed love story into a happily-ever-after with her soulmate.",
+      "startDate": "2026-09-18T03:30:00",
+      "endDate": "2026-09-18T05:00:00",
+      "showTime": "03:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0b1912e6acb230143abf579107db072e.jpg"
+    },
+    {
+      "serverDate": "2026-09-18",
+      "showName": "Anita",
+      "description": "When Anita commits suicide, Neeraj suspects foul play and decides to investigate the truth. However, things take a turn when he starts seeing Anita everywhere.",
+      "startDate": "2026-09-18T05:00:00",
+      "endDate": "2026-09-18T07:30:00",
+      "showTime": "05:00:00",
+      "endTime": "07:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/895c60cd16bcab0033c6f705272db598.jpg"
+    },
+    {
+      "serverDate": "2026-09-18",
+      "showName": "Avtaar",
+      "description": "Avatar leads a happy life with his wife, Radha, and his sons, Chander and Ramesh. However, consumed by their greed and ambitions, Avatar's sons betray him, but he soon reaches new heights of success.",
+      "startDate": "2026-09-18T07:30:00",
+      "endDate": "2026-09-18T10:00:00",
+      "showTime": "07:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/74a5574c683773009bad8a7ad01e8176.jpg"
+    },
+    {
+      "serverDate": "2026-09-18",
+      "showName": "Sparsh",
+      "description": "A sweet bond blossoms when Anirudh crosses paths with Kavita, a recently widowed woman. However, their incompatible outlooks on life complicate their relationship.",
+      "startDate": "2026-09-18T10:00:00",
+      "endDate": "2026-09-18T12:30:00",
+      "showTime": "10:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bcaa1826abfa6a96c46973f2dd390f84.jpg"
+    },
+    {
+      "serverDate": "2026-09-18",
+      "showName": "Blue Mountains",
+      "description": "Som's mother sees her son's selection for a singing reality show as a second chance to fulfil her own dreams. However, complications arise when he faces a quick defeat.",
+      "startDate": "2026-09-18T12:30:00",
+      "endDate": "2026-09-18T15:00:00",
+      "showTime": "12:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b6536b6c4b9fd8bc872867d866f5548.jpg"
+    },
+    {
+      "serverDate": "2026-09-18",
+      "showName": "Nishant",
+      "description": "After his wife Rukmini is abducted by his cruel brother, Vishwam is forced to confront the deep-rooted issues of power and control that plague their village, leading to tragic consequences.",
+      "startDate": "2026-09-18T15:00:00",
+      "endDate": "2026-09-18T17:30:00",
+      "showTime": "15:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0722b7ce6a8e4c3637f848199d8a32cd.jpg"
+    },
+    {
+      "serverDate": "2026-09-18",
+      "showName": "Mandi",
+      "description": "Rukmini Bai runs a brothel that is visited by some of the most prominent men in the society. However, when one of the prostitutes has an illicit affair, the establishment is put at risk.",
+      "startDate": "2026-09-18T17:30:00",
+      "endDate": "2026-09-18T20:00:00",
+      "showTime": "17:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7fe119621bdc72b79184eb3dfa189092.jpg"
+    },
+    {
+      "serverDate": "2026-09-18",
+      "showName": "Masoom",
+      "description": "D K Malhotra leads a peaceful life with his wife and two daughters. But all of this changes when he is forced to bring a boy, who is his son from a previous relationship, home after his mother dies.",
+      "startDate": "2026-09-18T20:00:00",
+      "endDate": "2026-09-18T22:30:00",
+      "showTime": "20:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a1e5d502c7e40657db8a1e2eeb3b12f.jpg"
+    },
+    {
+      "serverDate": "2026-09-18",
+      "showName": "Shatranj Ke Khilari",
+      "description": "In 1856, General Outram declares that the kingdom of Oudh in Lucknow is under British rule. Meanwhile, two noblemen fail to notice this massive political change, obsessing over a game of chess.",
+      "startDate": "2026-09-18T22:30:00",
+      "endDate": "2026-09-18T23:59:59",
+      "showTime": "22:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2770f59cef5961a6d9b0879081a9910e.jpg"
     }
   ]
 }
