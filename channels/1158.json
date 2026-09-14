@@ -2690,6 +2690,28 @@
       "endTime": "23:59:59",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a6677b99191d1de72d29298d76d8d33.jpg"
+    },
+    {
+      "serverDate": "2026-09-20",
+      "showName": "Entourage",
+      "description": "Vince, Eric, Turtle and Johnny lead an adventure-filled, lavish life when Vince's film career takes off in Los Angeles. Among other challenges, they also deal with Vince's obnoxious but hardworking agent, Ari.",
+      "startDate": "2026-09-20T00:00:00",
+      "endDate": "2026-09-20T17:15:00",
+      "showTime": "00:00:00",
+      "endTime": "17:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a6677b99191d1de72d29298d76d8d33.jpg"
+    },
+    {
+      "serverDate": "2026-09-20",
+      "showName": "Better Call Saul",
+      "description": "Ex-con artist Jimmy McGill turns into a small-time attorney and goes through a series of trials and tragedies, as he transforms into his alter ego Saul Goodman, a morally challenged criminal lawyer.",
+      "startDate": "2026-09-20T17:15:00",
+      "endDate": "2026-09-20T23:59:59",
+      "showTime": "17:15:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/59be1274e60c023f454ff86cf027e2fd.jpg"
     }
   ]
 }
