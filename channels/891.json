@@ -1483,14 +1483,14 @@
     },
     {
       "serverDate": "2026-09-18",
-      "showName": "UEFA Champions League Football",
-      "description": "Coverage of a match from a prestigious club competition in European football.",
+      "showName": "UEFA Europa League",
+      "description": "Professional European football clubs compete against each other in the UEFA Europa League to emerge victorious and win the prestigious title.",
       "startDate": "2026-09-18T07:30:00",
       "endDate": "2026-09-18T08:00:00",
       "showTime": "07:30:00",
       "endTime": "08:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ea4bfb35903e754d4f60ea30385d771.jpg"
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2fb0238ead7a15d55bdc5a7a645db613.jpg"
     },
     {
       "serverDate": "2026-09-18",
@@ -1527,14 +1527,14 @@
     },
     {
       "serverDate": "2026-09-18",
-      "showName": "UEFA Champions League Football",
-      "description": "Coverage of a match from a prestigious club competition in European football.",
+      "showName": "UEFA Europa League",
+      "description": "Professional European football clubs compete against each other in the UEFA Europa League to emerge victorious and win the prestigious title.",
       "startDate": "2026-09-18T09:30:00",
       "endDate": "2026-09-18T10:00:00",
       "showTime": "09:30:00",
       "endTime": "10:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ea4bfb35903e754d4f60ea30385d771.jpg"
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2fb0238ead7a15d55bdc5a7a645db613.jpg"
     },
     {
       "serverDate": "2026-09-18",
@@ -1637,14 +1637,14 @@
     },
     {
       "serverDate": "2026-09-18",
-      "showName": "UEFA Champions League Football",
-      "description": "Coverage of a match from a prestigious club competition in European football.",
+      "showName": "UEFA Europa League",
+      "description": "Professional European football clubs compete against each other in the UEFA Europa League to emerge victorious and win the prestigious title.",
       "startDate": "2026-09-18T18:30:00",
       "endDate": "2026-09-18T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ea4bfb35903e754d4f60ea30385d771.jpg"
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2fb0238ead7a15d55bdc5a7a645db613.jpg"
     },
     {
       "serverDate": "2026-09-18",
@@ -1824,14 +1824,14 @@
     },
     {
       "serverDate": "2026-09-19",
-      "showName": "UEFA Champions League Football",
-      "description": "Coverage of a match from a prestigious club competition in European football.",
+      "showName": "UEFA Europa League",
+      "description": "Professional European football clubs compete against each other in the UEFA Europa League to emerge victorious and win the prestigious title.",
       "startDate": "2026-09-19T13:00:00",
       "endDate": "2026-09-19T13:30:00",
       "showTime": "13:00:00",
       "endTime": "13:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ea4bfb35903e754d4f60ea30385d771.jpg"
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2fb0238ead7a15d55bdc5a7a645db613.jpg"
     },
     {
       "serverDate": "2026-09-19",
@@ -2033,102 +2033,201 @@
     },
     {
       "serverDate": "2026-09-20",
-      "showName": "UFC 331: Van vs. Pantoja 2",
-      "description": "From Crypto.com Arena in Los Angeles.",
+      "showName": "UCL Magazine",
+      "description": "Take a look at the latest updates and developments, interviews and best goals from the UEFA Champions League, a premier football tournament contested by European clubs.",
       "startDate": "2026-09-20T06:30:00",
-      "endDate": "2026-09-20T10:30:00",
+      "endDate": "2026-09-20T07:00:00",
       "showTime": "06:30:00",
-      "endTime": "10:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/961a26d0444ea9620f161bc58f7009c7.jpg"
+      "endTime": "07:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/82fb9902e321e93ade26f628c9c79045.jpg"
     },
     {
       "serverDate": "2026-09-20",
-      "showName": "2026 Asian Games",
-      "description": "2026 Asian Games",
-      "startDate": "2026-09-20T10:30:00",
+      "showName": "Test Cricket",
+      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
+      "startDate": "2026-09-20T07:00:00",
+      "endDate": "2026-09-20T07:30:00",
+      "showTime": "07:00:00",
+      "endTime": "07:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
+    },
+    {
+      "serverDate": "2026-09-20",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-09-20T07:30:00",
+      "endDate": "2026-09-20T08:00:00",
+      "showTime": "07:30:00",
+      "endTime": "08:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
+    },
+    {
+      "serverDate": "2026-09-20",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-09-20T08:00:00",
+      "endDate": "2026-09-20T08:30:00",
+      "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
+    },
+    {
+      "serverDate": "2026-09-20",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-09-20T08:30:00",
+      "endDate": "2026-09-20T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
+    },
+    {
+      "serverDate": "2026-09-20",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-09-20T09:00:00",
+      "endDate": "2026-09-20T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
+    },
+    {
+      "serverDate": "2026-09-20",
+      "showName": "Test Cricket",
+      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
+      "startDate": "2026-09-20T09:30:00",
+      "endDate": "2026-09-20T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
+    },
+    {
+      "serverDate": "2026-09-20",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-09-20T10:00:00",
+      "endDate": "2026-09-20T11:00:00",
+      "showTime": "10:00:00",
+      "endTime": "11:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
+    },
+    {
+      "serverDate": "2026-09-20",
+      "showName": "Noche UFC: Silva vs. Delgado (in English)",
+      "description": "From Desert Diamond Arena in Glendale, Ariz.",
+      "startDate": "2026-09-20T11:00:00",
+      "endDate": "2026-09-20T14:00:00",
+      "showTime": "11:00:00",
+      "endTime": "14:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fd5eefe0f4c565be945feaffd752b7a5.jpg"
+    },
+    {
+      "serverDate": "2026-09-20",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-09-20T14:00:00",
+      "endDate": "2026-09-20T14:30:00",
+      "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
+    },
+    {
+      "serverDate": "2026-09-20",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-09-20T14:30:00",
+      "endDate": "2026-09-20T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
+    },
+    {
+      "serverDate": "2026-09-20",
+      "showName": "Test Cricket",
+      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
+      "startDate": "2026-09-20T15:00:00",
+      "endDate": "2026-09-20T15:30:00",
+      "showTime": "15:00:00",
+      "endTime": "15:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
+    },
+    {
+      "serverDate": "2026-09-20",
+      "showName": "UEFA Champions League Soccer",
+      "description": "Professional football clubs from around Europe compete against each other in the UEFA Champions League to win the prestigious trophy.",
+      "startDate": "2026-09-20T15:30:00",
+      "endDate": "2026-09-20T17:30:00",
+      "showTime": "15:30:00",
+      "endTime": "17:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d7471057f1a1c3d2dda2636fea8a80c9.jpg"
+    },
+    {
+      "serverDate": "2026-09-20",
+      "showName": "Test Cricket",
+      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
+      "startDate": "2026-09-20T17:30:00",
       "endDate": "2026-09-20T18:30:00",
-      "showTime": "10:30:00",
+      "showTime": "17:30:00",
       "endTime": "18:30:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
     },
     {
       "serverDate": "2026-09-20",
-      "showName": "Sports Extraaa",
-      "description": "Prominent sportscasters and sports personalities present their expert opinions, in-depth breakdowns and discipline-specific analysis.",
+      "showName": "T20 Cricket",
+      "description": "A comprehensive and detailed insight into Twenty20 cricket, where professional cricketing teams from across the globe compete to win.",
       "startDate": "2026-09-20T18:30:00",
-      "endDate": "2026-09-20T19:00:00",
-      "showTime": "18:30:00",
-      "endTime": "19:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/884fb4f933d7f870ab0d1fd8a3768de3.jpg"
-    },
-    {
-      "serverDate": "2026-09-20",
-      "showName": "UFC 331: Van vs. Pantoja 2",
-      "description": "From Crypto.com Arena in Los Angeles.",
-      "startDate": "2026-09-20T19:00:00",
-      "endDate": "2026-09-20T20:00:00",
-      "showTime": "19:00:00",
-      "endTime": "20:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/961a26d0444ea9620f161bc58f7009c7.jpg"
-    },
-    {
-      "serverDate": "2026-09-20",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-09-20T20:00:00",
-      "endDate": "2026-09-20T21:00:00",
-      "showTime": "20:00:00",
-      "endTime": "21:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
-    },
-    {
-      "serverDate": "2026-09-20",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-09-20T21:00:00",
-      "endDate": "2026-09-20T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
-    },
-    {
-      "serverDate": "2026-09-20",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-09-20T21:30:00",
       "endDate": "2026-09-20T22:00:00",
-      "showTime": "21:30:00",
+      "showTime": "18:30:00",
       "endTime": "22:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
-    },
-    {
-      "serverDate": "2026-09-20",
-      "showName": "UFC 331: Van vs. Pantoja 2",
-      "description": "From Crypto.com Arena in Los Angeles.",
-      "startDate": "2026-09-20T22:00:00",
-      "endDate": "2026-09-20T23:00:00",
-      "showTime": "22:00:00",
-      "endTime": "23:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/961a26d0444ea9620f161bc58f7009c7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/641b9330a67e0f15fd888df2e6b2a70c.jpg"
     },
     {
       "serverDate": "2026-09-20",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-09-20T23:00:00",
-      "endDate": "2026-09-20T23:59:59",
-      "showTime": "23:00:00",
-      "endTime": "23:59:59",
+      "showName": "WWE: EVOLVE",
+      "description": "Fresh WWE hopefuls embark on their wrestling careers, striving to become the next iconic superstar in the high-octane world of sports entertainment.",
+      "startDate": "2026-09-20T22:00:00",
+      "endDate": "2026-09-20T22:30:00",
+      "showTime": "22:00:00",
+      "endTime": "22:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8ff98638bc5e6b3a72b824f7f10230f0.jpg"
+    },
+    {
+      "serverDate": "2026-09-20",
+      "showName": "Noche UFC: Silva vs. Delgado (in English)",
+      "description": "From Desert Diamond Arena in Glendale, Ariz.",
+      "startDate": "2026-09-20T22:30:00",
+      "endDate": "2026-09-20T23:30:00",
+      "showTime": "22:30:00",
+      "endTime": "23:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fd5eefe0f4c565be945feaffd752b7a5.jpg"
+    },
+    {
+      "serverDate": "2026-09-20",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-09-20T23:30:00",
+      "endDate": "2026-09-20T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
     }
   ]
 }
