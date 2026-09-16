@@ -518,9 +518,9 @@
       "showName": "Gujju Bhai Girish Kumar",
       "description": "Bringing the best in television.",
       "startDate": "2026-09-16T20:25:00",
-      "endDate": "2026-09-16T20:30:00",
+      "endDate": "2026-09-16T21:51:00",
       "showTime": "20:25:00",
-      "endTime": "20:30:00",
+      "endTime": "21:51:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b96c66ce6f304530b31e3fb87d13e5.jpg"
     },
@@ -528,9 +528,9 @@
       "serverDate": "2026-09-16",
       "showName": "Family Album",
       "description": "Family Album",
-      "startDate": "2026-09-16T20:30:00",
+      "startDate": "2026-09-16T21:51:00",
       "endDate": "2026-09-16T22:45:00",
-      "showTime": "20:30:00",
+      "showTime": "21:51:00",
       "endTime": "22:45:00",
       "showCategory": "Special",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/55bc6c0f92a7872e35df9b7eee7b13d5.jpg"
@@ -559,11 +559,22 @@
     },
     {
       "serverDate": "2026-09-17",
+      "showName": "Super Stand Up",
+      "description": "Super Stand Up",
+      "startDate": "2026-09-17T00:00:00",
+      "endDate": "2026-09-17T01:52:00",
+      "showTime": "00:00:00",
+      "endTime": "01:52:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18563a8438ba29c05aa2579fbf87051e.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
       "showName": "Pardeshi Maniyaro",
       "description": "Greedy for power under the influence of a wicked politician, a village sarpanch murders his brother and separates his family.",
-      "startDate": "2026-09-17T00:00:00",
+      "startDate": "2026-09-17T01:52:00",
       "endDate": "2026-09-17T02:47:00",
-      "showTime": "00:00:00",
+      "showTime": "01:52:00",
       "endTime": "02:47:00",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3f83ab57271eaaec6c8a59479dc8ff8c.jpg"
