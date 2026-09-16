@@ -295,33 +295,55 @@
     },
     {
       "serverDate": "2026-09-16",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Dharmika Phala",
+      "description": "An astrologer offers live predictions and insights for each zodiac sign, based on planetary movements and their impact on people's lives.",
       "startDate": "2026-09-16T13:00:00",
-      "endDate": "2026-09-16T18:00:00",
+      "endDate": "2026-09-16T14:00:00",
       "showTime": "13:00:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c87226da3e5b00ba568b8339fa3bdcd.jpg"
+    },
+    {
+      "serverDate": "2026-09-16",
+      "showName": "Bari Comedy",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-16T14:00:00",
+      "endDate": "2026-09-16T15:00:00",
+      "showTime": "14:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d8f7fc56a75774eaa8165a94014e81c8.jpg"
+    },
+    {
+      "serverDate": "2026-09-16",
+      "showName": "Preethi Vatsalya",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-09-16T15:00:00",
+      "endDate": "2026-09-16T18:00:00",
+      "showTime": "15:00:00",
       "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/061a3abe82d61507fa362ce9f192bc77.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/66411b1cb8b46cbf4e60890ec64cc2b7.jpg"
     },
     {
       "serverDate": "2026-09-16",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Nigooda Rahasya",
+      "description": "When several residents start disappearing mysteriously, Mohan sets out to find the truth. Though many believe a paranormal entity is responsible, Mohan's investigation reveals a different story.",
       "startDate": "2026-09-16T18:00:00",
-      "endDate": "2026-09-16T21:00:00",
+      "endDate": "2026-09-16T21:30:00",
       "showTime": "18:00:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/061a3abe82d61507fa362ce9f192bc77.jpg"
+      "endTime": "21:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8111669f0da53947a6f6dbb466ac2234.jpg"
     },
     {
       "serverDate": "2026-09-16",
       "showName": "Movie",
       "description": "Bringing the best in television.",
-      "startDate": "2026-09-16T21:00:00",
+      "startDate": "2026-09-16T21:30:00",
       "endDate": "2026-09-16T23:59:59",
-      "showTime": "21:00:00",
+      "showTime": "21:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/061a3abe82d61507fa362ce9f192bc77.jpg"
