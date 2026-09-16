@@ -8,160 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Junior.png",
   "programs": [
     {
-      "serverDate": "2026-09-14",
-      "showName": "The Lion Guard",
-      "description": "Kion, Simba's son, becomes the leader of the Lion Guard, striving to protect the wildlife from dangerous powers and attempts to maintain peace.",
-      "startDate": "2026-09-14T00:00:00",
-      "endDate": "2026-09-14T03:00:00",
-      "showTime": "00:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4903f11a8119cd9df8a37fa36aa913ce.jpg"
-    },
-    {
-      "serverDate": "2026-09-14",
-      "showName": "Mickey Mouse Clubhouse",
-      "description": "Mickey, Minnie, Pluto, Goofy, Daisy, Donald and many other clubhouse friends go on educational adventures and impart important lessons in a fun way.",
-      "startDate": "2026-09-14T03:00:00",
-      "endDate": "2026-09-14T06:00:00",
-      "showTime": "03:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/669d178e33ff850c29d9c4a0b80e9640.jpg"
-    },
-    {
-      "serverDate": "2026-09-14",
-      "showName": "PJ Masks",
-      "description": "During the day, Amaya, Connor and Greg lead totally normal lives, but they transform into superheroes during the night and use their powers to fight villains and solve mysteries.",
-      "startDate": "2026-09-14T06:00:00",
-      "endDate": "2026-09-14T07:00:00",
-      "showTime": "06:00:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5fc758cdea451b7d0ba6477b7dbcd208.jpg"
-    },
-    {
-      "serverDate": "2026-09-14",
-      "showName": "The Lion Guard",
-      "description": "Kion, Simba's son, becomes the leader of the Lion Guard, striving to protect the wildlife from dangerous powers and attempts to maintain peace.",
-      "startDate": "2026-09-14T07:00:00",
-      "endDate": "2026-09-14T08:00:00",
-      "showTime": "07:00:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4903f11a8119cd9df8a37fa36aa913ce.jpg"
-    },
-    {
-      "serverDate": "2026-09-14",
-      "showName": "The Lion Guard",
-      "description": "Kion, Simba's son, becomes the leader of the Lion Guard, striving to protect the wildlife from dangerous powers and attempts to maintain peace.",
-      "startDate": "2026-09-14T08:00:00",
-      "endDate": "2026-09-14T08:30:00",
-      "showTime": "08:00:00",
-      "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4903f11a8119cd9df8a37fa36aa913ce.jpg"
-    },
-    {
-      "serverDate": "2026-09-14",
-      "showName": "The Lion Guard",
-      "description": "Kion, Simba's son, becomes the leader of the Lion Guard, striving to protect the wildlife from dangerous powers and attempts to maintain peace.",
-      "startDate": "2026-09-14T08:30:00",
-      "endDate": "2026-09-14T10:30:00",
-      "showTime": "08:30:00",
-      "endTime": "10:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4903f11a8119cd9df8a37fa36aa913ce.jpg"
-    },
-    {
-      "serverDate": "2026-09-14",
-      "showName": "Bluey",
-      "description": "Bluey, an exuberant and creative Blue Heeler puppy, sets off on adventures with her younger sibling, Bingo, which drives them into hilarious situations.",
-      "startDate": "2026-09-14T10:30:00",
-      "endDate": "2026-09-14T11:30:00",
-      "showTime": "10:30:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b1ff1dbd627bc79aee9214fa2ef7b646.jpg"
-    },
-    {
-      "serverDate": "2026-09-14",
-      "showName": "Bluey",
-      "description": "Bluey, an exuberant and creative Blue Heeler puppy, sets off on adventures with her younger sibling, Bingo, which drives them into hilarious situations.",
-      "startDate": "2026-09-14T11:30:00",
-      "endDate": "2026-09-14T12:00:00",
-      "showTime": "11:30:00",
-      "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b1ff1dbd627bc79aee9214fa2ef7b646.jpg"
-    },
-    {
-      "serverDate": "2026-09-14",
-      "showName": "Bluey",
-      "description": "Bluey, an exuberant and creative Blue Heeler puppy, sets off on adventures with her younger sibling, Bingo, which drives them into hilarious situations.",
-      "startDate": "2026-09-14T12:00:00",
-      "endDate": "2026-09-14T14:00:00",
-      "showTime": "12:00:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b1ff1dbd627bc79aee9214fa2ef7b646.jpg"
-    },
-    {
-      "serverDate": "2026-09-14",
-      "showName": "The Lion Guard",
-      "description": "Kion, Simba's son, becomes the leader of the Lion Guard, striving to protect the wildlife from dangerous powers and attempts to maintain peace.",
-      "startDate": "2026-09-14T14:00:00",
-      "endDate": "2026-09-14T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4903f11a8119cd9df8a37fa36aa913ce.jpg"
-    },
-    {
-      "serverDate": "2026-09-14",
-      "showName": "The Lion Guard",
-      "description": "Kion, Simba's son, becomes the leader of the Lion Guard, striving to protect the wildlife from dangerous powers and attempts to maintain peace.",
-      "startDate": "2026-09-14T14:30:00",
-      "endDate": "2026-09-14T17:00:00",
-      "showTime": "14:30:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4903f11a8119cd9df8a37fa36aa913ce.jpg"
-    },
-    {
-      "serverDate": "2026-09-14",
-      "showName": "Bluey",
-      "description": "Bluey, an exuberant and creative Blue Heeler puppy, sets off on adventures with her younger sibling, Bingo, which drives them into hilarious situations.",
-      "startDate": "2026-09-14T17:00:00",
-      "endDate": "2026-09-14T20:30:00",
-      "showTime": "17:00:00",
-      "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b1ff1dbd627bc79aee9214fa2ef7b646.jpg"
-    },
-    {
-      "serverDate": "2026-09-14",
-      "showName": "The Lion Guard",
-      "description": "Kion, Simba's son, becomes the leader of the Lion Guard, striving to protect the wildlife from dangerous powers and attempts to maintain peace.",
-      "startDate": "2026-09-14T20:30:00",
-      "endDate": "2026-09-14T23:00:00",
-      "showTime": "20:30:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4903f11a8119cd9df8a37fa36aa913ce.jpg"
-    },
-    {
-      "serverDate": "2026-09-14",
-      "showName": "The Lion Guard",
-      "description": "Kion, Simba's son, becomes the leader of the Lion Guard, striving to protect the wildlife from dangerous powers and attempts to maintain peace.",
-      "startDate": "2026-09-14T23:00:00",
-      "endDate": "2026-09-14T23:59:59",
-      "showTime": "23:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4903f11a8119cd9df8a37fa36aa913ce.jpg"
-    },
-    {
       "serverDate": "2026-09-15",
       "showName": "The Lion Guard",
       "description": "Kion, Simba's son, becomes the leader of the Lion Guard, striving to protect the wildlife from dangerous powers and attempts to maintain peace.",
@@ -192,7 +38,7 @@
       "showTime": "06:00:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5fc758cdea451b7d0ba6477b7dbcd208.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f93cb45f59f1aa59c1afcce46b34194.jpg"
     },
     {
       "serverDate": "2026-09-15",
@@ -240,44 +86,22 @@
     },
     {
       "serverDate": "2026-09-15",
-      "showName": "Bluey",
-      "description": "Bluey, an exuberant and creative Blue Heeler puppy, sets off on adventures with her younger sibling, Bingo, which drives them into hilarious situations.",
+      "showName": "Roar And Play With Lion Guard & Bluey",
+      "description": "Roar And Play With Lion Guard & Bluey",
       "startDate": "2026-09-15T11:30:00",
-      "endDate": "2026-09-15T12:00:00",
+      "endDate": "2026-09-15T15:00:00",
       "showTime": "11:30:00",
-      "endTime": "12:00:00",
+      "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b1ff1dbd627bc79aee9214fa2ef7b646.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "Bluey",
-      "description": "Bluey, an exuberant and creative Blue Heeler puppy, sets off on adventures with her younger sibling, Bingo, which drives them into hilarious situations.",
-      "startDate": "2026-09-15T12:00:00",
-      "endDate": "2026-09-15T14:00:00",
-      "showTime": "12:00:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b1ff1dbd627bc79aee9214fa2ef7b646.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-09-15",
       "showName": "The Lion Guard",
       "description": "Kion, Simba's son, becomes the leader of the Lion Guard, striving to protect the wildlife from dangerous powers and attempts to maintain peace.",
-      "startDate": "2026-09-15T14:00:00",
-      "endDate": "2026-09-15T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4903f11a8119cd9df8a37fa36aa913ce.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "The Lion Guard",
-      "description": "Kion, Simba's son, becomes the leader of the Lion Guard, striving to protect the wildlife from dangerous powers and attempts to maintain peace.",
-      "startDate": "2026-09-15T14:30:00",
+      "startDate": "2026-09-15T15:00:00",
       "endDate": "2026-09-15T17:00:00",
-      "showTime": "14:30:00",
+      "showTime": "15:00:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4903f11a8119cd9df8a37fa36aa913ce.jpg"
@@ -394,44 +218,22 @@
     },
     {
       "serverDate": "2026-09-16",
-      "showName": "Bluey",
-      "description": "Bluey, an exuberant and creative Blue Heeler puppy, sets off on adventures with her younger sibling, Bingo, which drives them into hilarious situations.",
+      "showName": "Roar And Play With Lion Guard & Bluey",
+      "description": "Roar And Play With Lion Guard & Bluey",
       "startDate": "2026-09-16T11:30:00",
-      "endDate": "2026-09-16T12:00:00",
+      "endDate": "2026-09-16T15:00:00",
       "showTime": "11:30:00",
-      "endTime": "12:00:00",
+      "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b1ff1dbd627bc79aee9214fa2ef7b646.jpg"
-    },
-    {
-      "serverDate": "2026-09-16",
-      "showName": "Bluey",
-      "description": "Bluey, an exuberant and creative Blue Heeler puppy, sets off on adventures with her younger sibling, Bingo, which drives them into hilarious situations.",
-      "startDate": "2026-09-16T12:00:00",
-      "endDate": "2026-09-16T14:00:00",
-      "showTime": "12:00:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b1ff1dbd627bc79aee9214fa2ef7b646.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-09-16",
       "showName": "The Lion Guard",
       "description": "Kion, Simba's son, becomes the leader of the Lion Guard, striving to protect the wildlife from dangerous powers and attempts to maintain peace.",
-      "startDate": "2026-09-16T14:00:00",
-      "endDate": "2026-09-16T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4903f11a8119cd9df8a37fa36aa913ce.jpg"
-    },
-    {
-      "serverDate": "2026-09-16",
-      "showName": "The Lion Guard",
-      "description": "Kion, Simba's son, becomes the leader of the Lion Guard, striving to protect the wildlife from dangerous powers and attempts to maintain peace.",
-      "startDate": "2026-09-16T14:30:00",
+      "startDate": "2026-09-16T15:00:00",
       "endDate": "2026-09-16T17:00:00",
-      "showTime": "14:30:00",
+      "showTime": "15:00:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4903f11a8119cd9df8a37fa36aa913ce.jpg"
@@ -548,44 +350,22 @@
     },
     {
       "serverDate": "2026-09-17",
-      "showName": "Bluey",
-      "description": "Bluey, an exuberant and creative Blue Heeler puppy, sets off on adventures with her younger sibling, Bingo, which drives them into hilarious situations.",
+      "showName": "Roar And Play With Lion Guard & Bluey",
+      "description": "Roar And Play With Lion Guard & Bluey",
       "startDate": "2026-09-17T11:30:00",
-      "endDate": "2026-09-17T12:00:00",
+      "endDate": "2026-09-17T15:00:00",
       "showTime": "11:30:00",
-      "endTime": "12:00:00",
+      "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b1ff1dbd627bc79aee9214fa2ef7b646.jpg"
-    },
-    {
-      "serverDate": "2026-09-17",
-      "showName": "Bluey",
-      "description": "Bluey, an exuberant and creative Blue Heeler puppy, sets off on adventures with her younger sibling, Bingo, which drives them into hilarious situations.",
-      "startDate": "2026-09-17T12:00:00",
-      "endDate": "2026-09-17T14:00:00",
-      "showTime": "12:00:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b1ff1dbd627bc79aee9214fa2ef7b646.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-09-17",
       "showName": "The Lion Guard",
       "description": "Kion, Simba's son, becomes the leader of the Lion Guard, striving to protect the wildlife from dangerous powers and attempts to maintain peace.",
-      "startDate": "2026-09-17T14:00:00",
-      "endDate": "2026-09-17T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4903f11a8119cd9df8a37fa36aa913ce.jpg"
-    },
-    {
-      "serverDate": "2026-09-17",
-      "showName": "The Lion Guard",
-      "description": "Kion, Simba's son, becomes the leader of the Lion Guard, striving to protect the wildlife from dangerous powers and attempts to maintain peace.",
-      "startDate": "2026-09-17T14:30:00",
+      "startDate": "2026-09-17T15:00:00",
       "endDate": "2026-09-17T17:00:00",
-      "showTime": "14:30:00",
+      "showTime": "15:00:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4903f11a8119cd9df8a37fa36aa913ce.jpg"
@@ -654,7 +434,7 @@
       "showTime": "06:00:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5fc758cdea451b7d0ba6477b7dbcd208.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f93cb45f59f1aa59c1afcce46b34194.jpg"
     },
     {
       "serverDate": "2026-09-18",
@@ -702,33 +482,22 @@
     },
     {
       "serverDate": "2026-09-18",
-      "showName": "Bluey & Bingo #Sister Goals",
-      "description": "Bluey and Bingo share adorable and funny sister moments in their heartwarming and hilarious moments, from squabbles to comforting each other.",
+      "showName": "Roar And Play With Lion Guard & Bluey",
+      "description": "Roar And Play With Lion Guard & Bluey",
       "startDate": "2026-09-18T11:30:00",
-      "endDate": "2026-09-18T12:00:00",
+      "endDate": "2026-09-18T15:00:00",
       "showTime": "11:30:00",
-      "endTime": "12:00:00",
+      "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f83604d8b874ad6ca9170020bc3531d2.jpg"
-    },
-    {
-      "serverDate": "2026-09-18",
-      "showName": "Bluey",
-      "description": "Bluey, an exuberant and creative Blue Heeler puppy, sets off on adventures with her younger sibling, Bingo, which drives them into hilarious situations.",
-      "startDate": "2026-09-18T12:00:00",
-      "endDate": "2026-09-18T14:00:00",
-      "showTime": "12:00:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b1ff1dbd627bc79aee9214fa2ef7b646.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-09-18",
       "showName": "The Lion Guard",
       "description": "Kion, Simba's son, becomes the leader of the Lion Guard, striving to protect the wildlife from dangerous powers and attempts to maintain peace.",
-      "startDate": "2026-09-18T14:00:00",
+      "startDate": "2026-09-18T15:00:00",
       "endDate": "2026-09-18T17:00:00",
-      "showTime": "14:00:00",
+      "showTime": "15:00:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4903f11a8119cd9df8a37fa36aa913ce.jpg"
@@ -845,14 +614,14 @@
     },
     {
       "serverDate": "2026-09-19",
-      "showName": "Bluey Mini Racers",
-      "description": "Bringing the best in television.",
+      "showName": "Bluey's School Time",
+      "description": "Bluey's School Time",
       "startDate": "2026-09-19T11:30:00",
       "endDate": "2026-09-19T12:00:00",
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/640ba654fb7bb658d0a047b2138724b7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-09-19",
@@ -966,14 +735,14 @@
     },
     {
       "serverDate": "2026-09-20",
-      "showName": "Return Of The Roar",
-      "description": "Return Of The Roar",
+      "showName": "The Lion Guard: Rise of Scar",
+      "description": "In anger, Kion uses the Roar of the Elders, and in so doing unwittingly summons the greatest villain the Pride Lands have ever known: Scar.",
       "startDate": "2026-09-20T08:00:00",
       "endDate": "2026-09-20T08:30:00",
       "showTime": "08:00:00",
       "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/137460fd86585ec052575350cc1ebeae.jpg"
     },
     {
       "serverDate": "2026-09-20",
@@ -999,14 +768,14 @@
     },
     {
       "serverDate": "2026-09-20",
-      "showName": "Go Bluey Go",
-      "description": "Go Bluey Go",
+      "showName": "Bluey's Grandparents",
+      "description": "Bluey's Grandparents",
       "startDate": "2026-09-20T11:30:00",
       "endDate": "2026-09-20T12:00:00",
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1dc2ea966acbb77947c3f4435dc5c25b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b5122b930cb36a9cbf864e9afab569c2.jpg"
     },
     {
       "serverDate": "2026-09-20",
@@ -1021,14 +790,14 @@
     },
     {
       "serverDate": "2026-09-20",
-      "showName": "Return Of The Roar",
-      "description": "Return Of The Roar",
+      "showName": "The Lion Guard: Rise of Scar",
+      "description": "In anger, Kion uses the Roar of the Elders, and in so doing unwittingly summons the greatest villain the Pride Lands have ever known: Scar.",
       "startDate": "2026-09-20T14:00:00",
       "endDate": "2026-09-20T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/137460fd86585ec052575350cc1ebeae.jpg"
     },
     {
       "serverDate": "2026-09-20",
@@ -1223,6 +992,160 @@
       "description": "Kion, Simba's son, becomes the leader of the Lion Guard, striving to protect the wildlife from dangerous powers and attempts to maintain peace.",
       "startDate": "2026-09-21T23:00:00",
       "endDate": "2026-09-21T23:59:59",
+      "showTime": "23:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4903f11a8119cd9df8a37fa36aa913ce.jpg"
+    },
+    {
+      "serverDate": "2026-09-22",
+      "showName": "The Lion Guard",
+      "description": "Kion, Simba's son, becomes the leader of the Lion Guard, striving to protect the wildlife from dangerous powers and attempts to maintain peace.",
+      "startDate": "2026-09-22T00:00:00",
+      "endDate": "2026-09-22T03:00:00",
+      "showTime": "00:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4903f11a8119cd9df8a37fa36aa913ce.jpg"
+    },
+    {
+      "serverDate": "2026-09-22",
+      "showName": "Mickey Mouse Clubhouse",
+      "description": "Mickey, Minnie, Pluto, Goofy, Daisy, Donald and many other clubhouse friends go on educational adventures and impart important lessons in a fun way.",
+      "startDate": "2026-09-22T03:00:00",
+      "endDate": "2026-09-22T06:00:00",
+      "showTime": "03:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/669d178e33ff850c29d9c4a0b80e9640.jpg"
+    },
+    {
+      "serverDate": "2026-09-22",
+      "showName": "PJ Masks",
+      "description": "During the day, Amaya, Connor and Greg lead totally normal lives, but they transform into superheroes during the night and use their powers to fight villains and solve mysteries.",
+      "startDate": "2026-09-22T06:00:00",
+      "endDate": "2026-09-22T07:00:00",
+      "showTime": "06:00:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5fc758cdea451b7d0ba6477b7dbcd208.jpg"
+    },
+    {
+      "serverDate": "2026-09-22",
+      "showName": "The Lion Guard",
+      "description": "Kion, Simba's son, becomes the leader of the Lion Guard, striving to protect the wildlife from dangerous powers and attempts to maintain peace.",
+      "startDate": "2026-09-22T07:00:00",
+      "endDate": "2026-09-22T08:00:00",
+      "showTime": "07:00:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4903f11a8119cd9df8a37fa36aa913ce.jpg"
+    },
+    {
+      "serverDate": "2026-09-22",
+      "showName": "The Lion Guard",
+      "description": "Kion, Simba's son, becomes the leader of the Lion Guard, striving to protect the wildlife from dangerous powers and attempts to maintain peace.",
+      "startDate": "2026-09-22T08:00:00",
+      "endDate": "2026-09-22T08:30:00",
+      "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4903f11a8119cd9df8a37fa36aa913ce.jpg"
+    },
+    {
+      "serverDate": "2026-09-22",
+      "showName": "The Lion Guard",
+      "description": "Kion, Simba's son, becomes the leader of the Lion Guard, striving to protect the wildlife from dangerous powers and attempts to maintain peace.",
+      "startDate": "2026-09-22T08:30:00",
+      "endDate": "2026-09-22T10:30:00",
+      "showTime": "08:30:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4903f11a8119cd9df8a37fa36aa913ce.jpg"
+    },
+    {
+      "serverDate": "2026-09-22",
+      "showName": "Bluey",
+      "description": "Bluey, an exuberant and creative Blue Heeler puppy, sets off on adventures with her younger sibling, Bingo, which drives them into hilarious situations.",
+      "startDate": "2026-09-22T10:30:00",
+      "endDate": "2026-09-22T11:30:00",
+      "showTime": "10:30:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b1ff1dbd627bc79aee9214fa2ef7b646.jpg"
+    },
+    {
+      "serverDate": "2026-09-22",
+      "showName": "Bluey",
+      "description": "Bluey, an exuberant and creative Blue Heeler puppy, sets off on adventures with her younger sibling, Bingo, which drives them into hilarious situations.",
+      "startDate": "2026-09-22T11:30:00",
+      "endDate": "2026-09-22T12:00:00",
+      "showTime": "11:30:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b1ff1dbd627bc79aee9214fa2ef7b646.jpg"
+    },
+    {
+      "serverDate": "2026-09-22",
+      "showName": "Bluey",
+      "description": "Bluey, an exuberant and creative Blue Heeler puppy, sets off on adventures with her younger sibling, Bingo, which drives them into hilarious situations.",
+      "startDate": "2026-09-22T12:00:00",
+      "endDate": "2026-09-22T14:00:00",
+      "showTime": "12:00:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b1ff1dbd627bc79aee9214fa2ef7b646.jpg"
+    },
+    {
+      "serverDate": "2026-09-22",
+      "showName": "The Lion Guard",
+      "description": "Kion, Simba's son, becomes the leader of the Lion Guard, striving to protect the wildlife from dangerous powers and attempts to maintain peace.",
+      "startDate": "2026-09-22T14:00:00",
+      "endDate": "2026-09-22T14:30:00",
+      "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4903f11a8119cd9df8a37fa36aa913ce.jpg"
+    },
+    {
+      "serverDate": "2026-09-22",
+      "showName": "The Lion Guard",
+      "description": "Kion, Simba's son, becomes the leader of the Lion Guard, striving to protect the wildlife from dangerous powers and attempts to maintain peace.",
+      "startDate": "2026-09-22T14:30:00",
+      "endDate": "2026-09-22T17:00:00",
+      "showTime": "14:30:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4903f11a8119cd9df8a37fa36aa913ce.jpg"
+    },
+    {
+      "serverDate": "2026-09-22",
+      "showName": "Bluey",
+      "description": "Bluey, an exuberant and creative Blue Heeler puppy, sets off on adventures with her younger sibling, Bingo, which drives them into hilarious situations.",
+      "startDate": "2026-09-22T17:00:00",
+      "endDate": "2026-09-22T20:30:00",
+      "showTime": "17:00:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b1ff1dbd627bc79aee9214fa2ef7b646.jpg"
+    },
+    {
+      "serverDate": "2026-09-22",
+      "showName": "The Lion Guard",
+      "description": "Kion, Simba's son, becomes the leader of the Lion Guard, striving to protect the wildlife from dangerous powers and attempts to maintain peace.",
+      "startDate": "2026-09-22T20:30:00",
+      "endDate": "2026-09-22T23:00:00",
+      "showTime": "20:30:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4903f11a8119cd9df8a37fa36aa913ce.jpg"
+    },
+    {
+      "serverDate": "2026-09-22",
+      "showName": "The Lion Guard",
+      "description": "Kion, Simba's son, becomes the leader of the Lion Guard, striving to protect the wildlife from dangerous powers and attempts to maintain peace.",
+      "startDate": "2026-09-22T23:00:00",
+      "endDate": "2026-09-22T23:59:59",
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
