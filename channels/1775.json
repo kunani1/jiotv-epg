@@ -8,314 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Telugu.png",
   "programs": [
     {
-      "serverDate": "2026-09-15",
-      "showName": "One-Day International Cricket",
-      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
-      "startDate": "2026-09-15T00:00:00",
-      "endDate": "2026-09-15T01:00:00",
-      "showTime": "00:00:00",
-      "endTime": "01:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "UFC - Fight O'Clock",
-      "description": "UFC - Fight O'Clock",
-      "startDate": "2026-09-15T01:00:00",
-      "endDate": "2026-09-15T02:00:00",
-      "showTime": "01:00:00",
-      "endTime": "02:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b4600df81ab98f8e704f05b7ef4f1a8b.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "UFC Fight Night: Hooker vs. Parnasse",
-      "description": "From Bercy Arena in Paris.",
-      "startDate": "2026-09-15T01:30:00",
-      "endDate": "2026-09-15T02:30:00",
-      "showTime": "01:30:00",
-      "endTime": "02:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6fdcf340d67147a317a587256f9cde23.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "Test Cricket",
-      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
-      "startDate": "2026-09-15T02:00:00",
-      "endDate": "2026-09-15T03:00:00",
-      "showTime": "02:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6fdcf340d67147a317a587256f9cde23.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "Commonwealth Games 2026",
-      "description": "Professional athletes across various disciplines engage in fierce competition to claim victory at the 2026 Commonwealth Games.",
-      "startDate": "2026-09-15T03:00:00",
-      "endDate": "2026-09-15T04:00:00",
-      "showTime": "03:00:00",
-      "endTime": "04:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89b1805d09ce3279b8b0308cab6ba75e.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "UEFA Champions League Football",
-      "description": "Professional football clubs from around Europe compete against each other in the UEFA Champions League to win the prestigious trophy.",
-      "startDate": "2026-09-15T04:00:00",
-      "endDate": "2026-09-15T06:00:00",
-      "showTime": "04:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10dab3cd6e56c72d875cc56f1cc2105b.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "Asia Cup Highlights",
-      "description": "Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.",
-      "startDate": "2026-09-15T06:00:00",
-      "endDate": "2026-09-15T07:00:00",
-      "showTime": "06:00:00",
-      "endTime": "07:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a58391cbf6630bed1c6f33f4b452fc7d.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "T20 Cricket",
-      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
-      "startDate": "2026-09-15T07:00:00",
-      "endDate": "2026-09-15T08:00:00",
-      "showTime": "07:00:00",
-      "endTime": "08:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c15c5668b56b72a827a93be0c00c1e3.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "UEFA Champions League Highlights",
-      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
-      "startDate": "2026-09-15T08:00:00",
-      "endDate": "2026-09-15T08:30:00",
-      "showTime": "08:00:00",
-      "endTime": "08:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "UFC Fight Night: Nurmagomedov vs. Song",
-      "description": "Alex Perez vs. Sumudaerji, flyweight; Aoriqileng vs. Kai Asakura, bantamweight; Yan Xiaonan vs. Denise Gomes, strawweight; Umar Nurmagomedov vs. Song Yadong, bantamweight. From Oriental Sports Center in Shanghai.",
-      "startDate": "2026-09-15T08:30:00",
-      "endDate": "2026-09-15T09:30:00",
-      "showTime": "08:30:00",
-      "endTime": "09:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b1783e1cbd9419b4c3e1b07fac3df4bc.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "T20 Cricket",
-      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
-      "startDate": "2026-09-15T09:30:00",
-      "endDate": "2026-09-15T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c15c5668b56b72a827a93be0c00c1e3.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "UEFA Champions League Highlights",
-      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
-      "startDate": "2026-09-15T10:00:00",
-      "endDate": "2026-09-15T10:30:00",
-      "showTime": "10:00:00",
-      "endTime": "10:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "UFC Fight Night: Adesanya vs. Pyfer - Highlights",
-      "description": "Highlights of the intense clash between Israel Adesanya and Joe Pyfer as they vie for victory at the UFC Fight Night event.",
-      "startDate": "2026-09-15T10:30:00",
-      "endDate": "2026-09-15T11:30:00",
-      "showTime": "10:30:00",
-      "endTime": "11:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "Women's Asia Cup Highlights",
-      "description": "Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.",
-      "startDate": "2026-09-15T11:30:00",
-      "endDate": "2026-09-15T12:00:00",
-      "showTime": "11:30:00",
-      "endTime": "12:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/46cbd619a527be70c379d71cb628a059.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "UEFA Champions League Highlights",
-      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
-      "startDate": "2026-09-15T12:00:00",
-      "endDate": "2026-09-15T12:30:00",
-      "showTime": "12:00:00",
-      "endTime": "12:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "Women's Asia Cup Highlights",
-      "description": "Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.",
-      "startDate": "2026-09-15T12:30:00",
-      "endDate": "2026-09-15T13:00:00",
-      "showTime": "12:30:00",
-      "endTime": "13:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/46cbd619a527be70c379d71cb628a059.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "Noche UFC : Silva vs Delgado - Main Card",
-      "description": "From Desert Diamond Arena in Glendale, Ariz.",
-      "startDate": "2026-09-15T13:00:00",
-      "endDate": "2026-09-15T14:00:00",
-      "showTime": "13:00:00",
-      "endTime": "14:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fd5eefe0f4c565be945feaffd752b7a5.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "T20 Cricket",
-      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
-      "startDate": "2026-09-15T14:00:00",
-      "endDate": "2026-09-15T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c15c5668b56b72a827a93be0c00c1e3.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "UEFA Champions League Highlights",
-      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
-      "startDate": "2026-09-15T14:30:00",
-      "endDate": "2026-09-15T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "UFC Fight Night: Adesanya vs. Pyfer - Highlights",
-      "description": "Highlights of the intense clash between Israel Adesanya and Joe Pyfer as they vie for victory at the UFC Fight Night event.",
-      "startDate": "2026-09-15T15:00:00",
-      "endDate": "2026-09-15T16:00:00",
-      "showTime": "15:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "One-Day International Cricket",
-      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
-      "startDate": "2026-09-15T16:00:00",
-      "endDate": "2026-09-15T17:00:00",
-      "showTime": "16:00:00",
-      "endTime": "17:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "UFC Fight Night: Adesanya vs. Pyfer - Highlights",
-      "description": "Highlights of the intense clash between Israel Adesanya and Joe Pyfer as they vie for victory at the UFC Fight Night event.",
-      "startDate": "2026-09-15T17:00:00",
-      "endDate": "2026-09-15T18:00:00",
-      "showTime": "17:00:00",
-      "endTime": "18:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "T20 Cricket",
-      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
-      "startDate": "2026-09-15T18:00:00",
-      "endDate": "2026-09-15T18:30:00",
-      "showTime": "18:00:00",
-      "endTime": "18:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c15c5668b56b72a827a93be0c00c1e3.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "Extraaa Innings",
-      "description": "Experts discuss the varied facets of international cricket matches, including the strategies adopted by the teams and the mistakes made by them on the field, live.",
-      "startDate": "2026-09-15T18:30:00",
-      "endDate": "2026-09-15T19:30:00",
-      "showTime": "18:30:00",
-      "endTime": "19:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/71191111ddb2150900866dbf0b12e6c8.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "T20 Cricket",
-      "description": "A comprehensive and detailed insight into Twenty20 cricket, where professional cricketing teams from across the globe compete to win.",
-      "startDate": "2026-09-15T19:30:00",
-      "endDate": "2026-09-15T21:15:00",
-      "showTime": "19:30:00",
-      "endTime": "21:15:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/641b9330a67e0f15fd888df2e6b2a70c.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "UEFA International Friendlies",
-      "description": "The Netherlands beat Iceland 4-0 in a Euro 2024 warmup at Feyenoord Stadium, heading to Germany with momentum.",
-      "startDate": "2026-09-15T21:15:00",
-      "endDate": "2026-09-15T21:30:00",
-      "showTime": "21:15:00",
-      "endTime": "21:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a11bc925efc267d7f732cc97394830c.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "Bangladesh Tour of Sri Lanka 2025",
-      "description": "Bangladesh, under Najmul Hossain Shanto's leadership, posted 495 in the first innings, with the skipper scoring 148. Sri Lanka replied with 485",
-      "startDate": "2026-09-15T21:30:00",
-      "endDate": "2026-09-15T23:15:00",
-      "showTime": "21:30:00",
-      "endTime": "23:15:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bfd57cf20b98cb5e9ecb5e872efa22b7.jpg"
-    },
-    {
-      "serverDate": "2026-09-15",
-      "showName": "UEFA International Friendlies",
-      "description": "The Netherlands beat Iceland 4-0 in a Euro 2024 warmup at Feyenoord Stadium, heading to Germany with momentum.",
-      "startDate": "2026-09-15T23:15:00",
-      "endDate": "2026-09-15T23:59:59",
-      "showTime": "23:15:00",
-      "endTime": "23:59:59",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a11bc925efc267d7f732cc97394830c.jpg"
-    },
-    {
       "serverDate": "2026-09-16",
       "showName": "Extraaa Innings",
       "description": "Experts discuss the varied facets of international cricket matches, including the strategies adopted by the teams and the mistakes made by them on the field, live.",
@@ -658,69 +350,69 @@
     },
     {
       "serverDate": "2026-09-17",
-      "showName": "Zimbabwe Tour of England 2025",
-      "description": "Zak Crawley, Ben Duckett and Ollie Pope starred as England piled up 498/3 on Day 1 vs Zimbabwe.",
+      "showName": "UFC Fight Night: Adesanya vs. Pyfer - Highlights",
+      "description": "Highlights of the intense clash between Israel Adesanya and Joe Pyfer as they vie for victory at the UFC Fight Night event.",
       "startDate": "2026-09-17T01:00:00",
       "endDate": "2026-09-17T02:00:00",
       "showTime": "01:00:00",
       "endTime": "02:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b121e87d8bd2838eb55d4d3bbf5f1585.jpg"
-    },
-    {
-      "serverDate": "2026-09-17",
-      "showName": "The Grid",
-      "description": "The GRID is the ultimate team competition, a captivating and exciting co-ed spectator sport where speed, endurance, and strength all come together to challenge the best of athletes and test their limits.",
-      "startDate": "2026-09-17T02:00:00",
-      "endDate": "2026-09-17T03:00:00",
-      "showTime": "02:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/067c76a118238ba1b7867e1fc7d1166d.jpg"
-    },
-    {
-      "serverDate": "2026-09-17",
-      "showName": "India Tour of Sri Lanka 2026",
-      "description": "Watch Best Of The Test: Sri Lanka vs India, only on Sony LIV.",
-      "startDate": "2026-09-17T03:00:00",
-      "endDate": "2026-09-17T04:00:00",
-      "showTime": "03:00:00",
-      "endTime": "04:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6426ba516974654a914599d43eb11e9c.jpg"
-    },
-    {
-      "serverDate": "2026-09-17",
-      "showName": "West Indies Tour Of England 2025",
-      "description": "West Indies' 308 was not enough as England chased it down, with Joe Root's 166* sealing the series in the 2nd ODI.",
-      "startDate": "2026-09-17T04:00:00",
-      "endDate": "2026-09-17T06:00:00",
-      "showTime": "04:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/805bd7a77e6fb9c0765ef1940aa7f169.jpg"
-    },
-    {
-      "serverDate": "2026-09-17",
-      "showName": "Asia Cup Highlights",
-      "description": "Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.",
-      "startDate": "2026-09-17T06:00:00",
-      "endDate": "2026-09-17T07:00:00",
-      "showTime": "06:00:00",
-      "endTime": "07:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a58391cbf6630bed1c6f33f4b452fc7d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-09-17",
       "showName": "Test Cricket",
       "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
+      "startDate": "2026-09-17T02:00:00",
+      "endDate": "2026-09-17T03:00:00",
+      "showTime": "02:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "Commonwealth Games 2026",
+      "description": "Professional athletes across various disciplines engage in fierce competition to claim victory at the 2026 Commonwealth Games.",
+      "startDate": "2026-09-17T03:00:00",
+      "endDate": "2026-09-17T04:00:00",
+      "showTime": "03:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89b1805d09ce3279b8b0308cab6ba75e.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "UEFA Super Cup Soccer",
+      "description": "From Red Bull Arena (Salzburg) in Salzburg, Salzburg, Austria.",
+      "startDate": "2026-09-17T04:00:00",
+      "endDate": "2026-09-17T06:00:00",
+      "showTime": "04:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10faae77a44f5a5e208867a549646fd2.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "India Tour of Sri Lanka 2026",
+      "description": "Watch Best Of The Test: Sri Lanka vs India, only on Sony LIV.",
+      "startDate": "2026-09-17T06:00:00",
+      "endDate": "2026-09-17T07:00:00",
+      "showTime": "06:00:00",
+      "endTime": "07:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6426ba516974654a914599d43eb11e9c.jpg"
+    },
+    {
+      "serverDate": "2026-09-17",
+      "showName": "The Grid",
+      "description": "The GRID is the ultimate team competition, a captivating and exciting co-ed spectator sport where speed, endurance, and strength all come together to challenge the best of athletes and test their limits.",
       "startDate": "2026-09-17T07:00:00",
       "endDate": "2026-09-17T08:00:00",
       "showTime": "07:00:00",
       "endTime": "08:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/067c76a118238ba1b7867e1fc7d1166d.jpg"
     },
     {
       "serverDate": "2026-09-17",
@@ -735,25 +427,25 @@
     },
     {
       "serverDate": "2026-09-17",
-      "showName": "Noche UFC : Silva vs Delgado - Main Card",
-      "description": "From Desert Diamond Arena in Glendale, Ariz.",
+      "showName": "Bangladesh Tour of Sri Lanka 2025",
+      "description": "Najmul Hossain Shanto's second century helped Bangladesh declare and set Sri Lanka a target, but Sri Lanka ran out of time to force a result.",
       "startDate": "2026-09-17T08:30:00",
       "endDate": "2026-09-17T09:30:00",
       "showTime": "08:30:00",
       "endTime": "09:30:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fd5eefe0f4c565be945feaffd752b7a5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0549465da77da21b6dee335dfaf22705.jpg"
     },
     {
       "serverDate": "2026-09-17",
-      "showName": "Women's Asia Cup Highlights",
-      "description": "Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.",
+      "showName": "Bangladesh Tour of Sri Lanka 2025",
+      "description": "Pathum Nissanka's 187 lifted Sri Lanka to 368/4, cutting Bangladesh's lead to 127 after day 3 of the first Test.",
       "startDate": "2026-09-17T09:30:00",
       "endDate": "2026-09-17T10:00:00",
       "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/46cbd619a527be70c379d71cb628a059.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/70e4b701f9f9afd33da28e0ab4563670.jpg"
     },
     {
       "serverDate": "2026-09-17",
@@ -768,14 +460,14 @@
     },
     {
       "serverDate": "2026-09-17",
-      "showName": "UFC Fight Night: Adesanya vs. Pyfer - Highlights",
-      "description": "Highlights of the intense clash between Israel Adesanya and Joe Pyfer as they vie for victory at the UFC Fight Night event.",
+      "showName": "Bharat Tum Chale Chalo - Kahani 2021-22 Ki",
+      "description": "Kohli vs Anderson, KL Rahul vs perception, Rohit vs legacy: sometimes the rival is within, and human spirit drives you to rise.",
       "startDate": "2026-09-17T10:30:00",
       "endDate": "2026-09-17T11:30:00",
       "showTime": "10:30:00",
       "endTime": "11:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8ef9d33e2d262280e9d913957e7e524f.jpg"
     },
     {
       "serverDate": "2026-09-17",
@@ -801,25 +493,25 @@
     },
     {
       "serverDate": "2026-09-17",
-      "showName": "Women's Asia Cup Highlights",
-      "description": "Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.",
+      "showName": "Bangladesh Tour of Sri Lanka 2025",
+      "description": "Bangladesh reached 292/3 on Day 1 as Najmul Hossain Shanto hit a century after Sri Lanka took 3 early wickets.",
       "startDate": "2026-09-17T12:30:00",
       "endDate": "2026-09-17T13:00:00",
       "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/46cbd619a527be70c379d71cb628a059.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/befb1d2adb7fbec9d77074e07f75f484.jpg"
     },
     {
       "serverDate": "2026-09-17",
-      "showName": "UFC Fight Night: Hernandez vs. Rodrigues",
-      "description": "From Golden 1 Center in Sacramento, Calif.",
+      "showName": "Zimbabwe Tour of England 2025",
+      "description": "Day 2 saw 16 wickets as England declared at 565/6 and bowled Zimbabwe out for 265 to enforce a follow-on.",
       "startDate": "2026-09-17T13:00:00",
       "endDate": "2026-09-17T14:00:00",
       "showTime": "13:00:00",
       "endTime": "14:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b772701791e4883246f0b3037de47911.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e2cc8bfd281595eba489c3dc6296d484.jpg"
     },
     {
       "serverDate": "2026-09-17",
@@ -1083,7 +775,7 @@
       "showTime": "10:30:00",
       "endTime": "12:15:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/010bc06f04ebb8d56e529c31925792ba.jpg"
     },
     {
       "serverDate": "2026-09-18",
@@ -1105,7 +797,7 @@
       "showTime": "12:30:00",
       "endTime": "13:45:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/010bc06f04ebb8d56e529c31925792ba.jpg"
     },
     {
       "serverDate": "2026-09-18",
@@ -1457,7 +1149,7 @@
       "showTime": "14:30:00",
       "endTime": "17:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/010bc06f04ebb8d56e529c31925792ba.jpg"
     },
     {
       "serverDate": "2026-09-19",
@@ -1677,7 +1369,7 @@
       "showTime": "05:30:00",
       "endTime": "10:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/010bc06f04ebb8d56e529c31925792ba.jpg"
     },
     {
       "serverDate": "2026-09-20",
@@ -1699,7 +1391,7 @@
       "showTime": "10:30:00",
       "endTime": "12:15:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/010bc06f04ebb8d56e529c31925792ba.jpg"
     },
     {
       "serverDate": "2026-09-20",
@@ -1721,7 +1413,7 @@
       "showTime": "12:30:00",
       "endTime": "13:45:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/010bc06f04ebb8d56e529c31925792ba.jpg"
     },
     {
       "serverDate": "2026-09-20",
@@ -1743,7 +1435,7 @@
       "showTime": "14:15:00",
       "endTime": "18:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/010bc06f04ebb8d56e529c31925792ba.jpg"
     },
     {
       "serverDate": "2026-09-20",
@@ -2503,6 +2195,358 @@
       "endTime": "23:59:59",
       "showCategory": "Sports non-event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/71191111ddb2150900866dbf0b12e6c8.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "Extraaa Innings",
+      "description": "Experts discuss the varied facets of international cricket matches, including the strategies adopted by the teams and the mistakes made by them on the field, live.",
+      "startDate": "2026-09-23T00:00:00",
+      "endDate": "2026-09-23T00:15:00",
+      "showTime": "00:00:00",
+      "endTime": "00:15:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/71191111ddb2150900866dbf0b12e6c8.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "One-Day International Cricket",
+      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
+      "startDate": "2026-09-23T00:15:00",
+      "endDate": "2026-09-23T01:00:00",
+      "showTime": "00:15:00",
+      "endTime": "01:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "UFC Fight Night: Adesanya vs. Pyfer - Highlights",
+      "description": "Highlights of the intense clash between Israel Adesanya and Joe Pyfer as they vie for victory at the UFC Fight Night event.",
+      "startDate": "2026-09-23T01:00:00",
+      "endDate": "2026-09-23T02:00:00",
+      "showTime": "01:00:00",
+      "endTime": "02:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "Test Cricket",
+      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
+      "startDate": "2026-09-23T02:00:00",
+      "endDate": "2026-09-23T03:00:00",
+      "showTime": "02:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "Commonwealth Games 2026",
+      "description": "Professional athletes across various disciplines engage in fierce competition to claim victory at the 2026 Commonwealth Games.",
+      "startDate": "2026-09-23T03:00:00",
+      "endDate": "2026-09-23T04:00:00",
+      "showTime": "03:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89b1805d09ce3279b8b0308cab6ba75e.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "UEFA Champions League Soccer",
+      "description": "Professional football clubs from around Europe compete against each other in the UEFA Champions League to win the prestigious trophy.",
+      "startDate": "2026-09-23T04:00:00",
+      "endDate": "2026-09-23T06:00:00",
+      "showTime": "04:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10dab3cd6e56c72d875cc56f1cc2105b.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "Asia Cup Highlights",
+      "description": "Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.",
+      "startDate": "2026-09-23T06:00:00",
+      "endDate": "2026-09-23T07:00:00",
+      "showTime": "06:00:00",
+      "endTime": "07:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a58391cbf6630bed1c6f33f4b452fc7d.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "Test Cricket",
+      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
+      "startDate": "2026-09-23T07:00:00",
+      "endDate": "2026-09-23T08:00:00",
+      "showTime": "07:00:00",
+      "endTime": "08:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-09-23T08:00:00",
+      "endDate": "2026-09-23T08:30:00",
+      "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "UFC Fight Night: Hernandez vs. Rodrigues",
+      "description": "From Golden 1 Center in Sacramento, Calif.",
+      "startDate": "2026-09-23T08:30:00",
+      "endDate": "2026-09-23T09:30:00",
+      "showTime": "08:30:00",
+      "endTime": "09:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b772701791e4883246f0b3037de47911.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "T20 Cricket",
+      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
+      "startDate": "2026-09-23T09:30:00",
+      "endDate": "2026-09-23T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c15c5668b56b72a827a93be0c00c1e3.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-09-23T10:00:00",
+      "endDate": "2026-09-23T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "UFC Fight Night: Adesanya vs. Pyfer - Highlights",
+      "description": "Highlights of the intense clash between Israel Adesanya and Joe Pyfer as they vie for victory at the UFC Fight Night event.",
+      "startDate": "2026-09-23T10:30:00",
+      "endDate": "2026-09-23T11:30:00",
+      "showTime": "10:30:00",
+      "endTime": "11:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "T20 Cricket",
+      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
+      "startDate": "2026-09-23T11:30:00",
+      "endDate": "2026-09-23T12:00:00",
+      "showTime": "11:30:00",
+      "endTime": "12:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c15c5668b56b72a827a93be0c00c1e3.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-09-23T12:00:00",
+      "endDate": "2026-09-23T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "Women's Asia Cup Highlights",
+      "description": "Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.",
+      "startDate": "2026-09-23T12:30:00",
+      "endDate": "2026-09-23T13:00:00",
+      "showTime": "12:30:00",
+      "endTime": "13:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/46cbd619a527be70c379d71cb628a059.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "UFC Fight Night: Nurmagomedov vs. Song",
+      "description": "Alex Perez vs. Sumudaerji, flyweight; Aoriqileng vs. Kai Asakura, bantamweight; Yan Xiaonan vs. Denise Gomes, strawweight; Umar Nurmagomedov vs. Song Yadong, bantamweight. From Oriental Sports Center in Shanghai.",
+      "startDate": "2026-09-23T13:00:00",
+      "endDate": "2026-09-23T14:00:00",
+      "showTime": "13:00:00",
+      "endTime": "14:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b1783e1cbd9419b4c3e1b07fac3df4bc.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "T20 Cricket",
+      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
+      "startDate": "2026-09-23T14:00:00",
+      "endDate": "2026-09-23T14:30:00",
+      "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c15c5668b56b72a827a93be0c00c1e3.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-09-23T14:30:00",
+      "endDate": "2026-09-23T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "UFC Fight Night: Adesanya vs. Pyfer - Highlights",
+      "description": "Highlights of the intense clash between Israel Adesanya and Joe Pyfer as they vie for victory at the UFC Fight Night event.",
+      "startDate": "2026-09-23T15:00:00",
+      "endDate": "2026-09-23T16:00:00",
+      "showTime": "15:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "One-Day International Cricket",
+      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
+      "startDate": "2026-09-23T16:00:00",
+      "endDate": "2026-09-23T17:00:00",
+      "showTime": "16:00:00",
+      "endTime": "17:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "UFC Fight Night: Adesanya vs. Pyfer - Highlights",
+      "description": "Highlights of the intense clash between Israel Adesanya and Joe Pyfer as they vie for victory at the UFC Fight Night event.",
+      "startDate": "2026-09-23T17:00:00",
+      "endDate": "2026-09-23T18:00:00",
+      "showTime": "17:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "Women's Asia Cup Highlights",
+      "description": "Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.",
+      "startDate": "2026-09-23T18:00:00",
+      "endDate": "2026-09-23T18:30:00",
+      "showTime": "18:00:00",
+      "endTime": "18:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/46cbd619a527be70c379d71cb628a059.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "T20 Cricket",
+      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
+      "startDate": "2026-09-23T18:30:00",
+      "endDate": "2026-09-23T19:00:00",
+      "showTime": "18:30:00",
+      "endTime": "19:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c15c5668b56b72a827a93be0c00c1e3.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "Commonwealth Games 2026",
+      "description": "Professional athletes across various disciplines engage in fierce competition to claim victory at the 2026 Commonwealth Games.",
+      "startDate": "2026-09-23T19:00:00",
+      "endDate": "2026-09-23T19:30:00",
+      "showTime": "19:00:00",
+      "endTime": "19:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89b1805d09ce3279b8b0308cab6ba75e.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-09-23T19:30:00",
+      "endDate": "2026-09-23T20:00:00",
+      "showTime": "19:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "Women's Asia Cup Highlights",
+      "description": "Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.",
+      "startDate": "2026-09-23T20:00:00",
+      "endDate": "2026-09-23T20:30:00",
+      "showTime": "20:00:00",
+      "endTime": "20:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/46cbd619a527be70c379d71cb628a059.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "One-Day International Cricket",
+      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
+      "startDate": "2026-09-23T20:30:00",
+      "endDate": "2026-09-23T21:30:00",
+      "showTime": "20:30:00",
+      "endTime": "21:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "Sunday Night's Main Event",
+      "description": "Top superstars from WWE's RAW and SmackDown brands compete in the squared-circle for pride and championships.",
+      "startDate": "2026-09-23T21:30:00",
+      "endDate": "2026-09-23T22:30:00",
+      "showTime": "21:30:00",
+      "endTime": "22:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b0cf7d7e21ed0c2fda5b8b28443bad3.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "Women's Asia Cup Highlights",
+      "description": "Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.",
+      "startDate": "2026-09-23T22:30:00",
+      "endDate": "2026-09-23T23:00:00",
+      "showTime": "22:30:00",
+      "endTime": "23:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/46cbd619a527be70c379d71cb628a059.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-09-23T23:00:00",
+      "endDate": "2026-09-23T23:30:00",
+      "showTime": "23:00:00",
+      "endTime": "23:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "T20 Cricket",
+      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
+      "startDate": "2026-09-23T23:30:00",
+      "endDate": "2026-09-23T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c15c5668b56b72a827a93be0c00c1e3.jpg"
     }
   ]
 }
