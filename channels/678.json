@@ -8,116 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Movies.png",
   "programs": [
     {
-      "serverDate": "2026-09-16",
-      "showName": "Prema Jyothi",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-09-16T00:00:00",
-      "endDate": "2026-09-16T03:00:00",
-      "showTime": "00:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f43492a67bc8588272e320621a0c301e.jpg"
-    },
-    {
-      "serverDate": "2026-09-16",
-      "showName": "Undu Hoda Kondu Hoda",
-      "description": "A cunning cow inspector arrives in a village where he misleads the righteous villagers and earns their loyalty through deceit.",
-      "startDate": "2026-09-16T03:00:00",
-      "endDate": "2026-09-16T06:00:00",
-      "showTime": "03:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff1f844c5c90fbe8d88bf60f253ec18d.jpg"
-    },
-    {
-      "serverDate": "2026-09-16",
-      "showName": "Movie Filler",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-16T06:00:00",
-      "endDate": "2026-09-16T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
-    },
-    {
-      "serverDate": "2026-09-16",
-      "showName": "Movie Filler",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-16T06:30:00",
-      "endDate": "2026-09-16T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
-    },
-    {
-      "serverDate": "2026-09-16",
-      "showName": "Muthanna",
-      "description": "A man and his sister are held at ransom when a rich lookalike, who moonlights as a diamond thief, forces him to take his place at social events so that the thief can carry out his illegal activities.",
-      "startDate": "2026-09-16T07:00:00",
-      "endDate": "2026-09-16T10:00:00",
-      "showTime": "07:00:00",
-      "endTime": "10:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b7a6afa63998d546ba9546488f87bb16.jpg"
-    },
-    {
-      "serverDate": "2026-09-16",
-      "showName": "Mr. 420",
-      "description": "Krishna, a young man, emulates his uncle and takes up pickpocketing as his profession. However, his life becomes complicated when he falls in love.",
-      "startDate": "2026-09-16T10:00:00",
-      "endDate": "2026-09-16T13:00:00",
-      "showTime": "10:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d815e9872e9525d027594423fe8f9fb4.jpg"
-    },
-    {
-      "serverDate": "2026-09-16",
-      "showName": "Neenandre Ishta",
-      "description": "To pursue her education, Gayatri moves to her childhood friend Ajay's house in the city. However, problems arise when she falls in love with her classmate.",
-      "startDate": "2026-09-16T13:00:00",
-      "endDate": "2026-09-16T16:00:00",
-      "showTime": "13:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d39835892b6a8e4a8f3cfaab7d17d30e.jpg"
-    },
-    {
-      "serverDate": "2026-09-16",
-      "showName": "Kanasina Rani",
-      "description": "Raja meets Prabha and creates a false impression of being wealthy to win her heart, but a sudden turn of events makes him realise that honesty is important in a relationship.",
-      "startDate": "2026-09-16T16:00:00",
-      "endDate": "2026-09-16T19:00:00",
-      "showTime": "16:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/efb36dc46883ca580ae8da64608bbe84.jpg"
-    },
-    {
-      "serverDate": "2026-09-16",
-      "showName": "Midida Shruti",
-      "description": "Balu is in love with his classmate Sujata and plans to get married to her. However, things take an unexpected turn when his father plans to separate them.",
-      "startDate": "2026-09-16T19:00:00",
-      "endDate": "2026-09-16T22:00:00",
-      "showTime": "19:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/30436799c6ed0b1500e395e39501d011.jpg"
-    },
-    {
-      "serverDate": "2026-09-16",
-      "showName": "Soorarai Pottru",
-      "description": "A young man from a remote village dreams of launching his own airline service and must overcome various challenges in his quest.",
-      "startDate": "2026-09-16T22:00:00",
-      "endDate": "2026-09-16T23:59:59",
-      "showTime": "22:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/09ffc5332ae174d80c92975c7b13bb65.jpg"
-    },
-    {
       "serverDate": "2026-09-17",
       "showName": "Aasha",
       "description": "College mates Asha and Mohan love each other and decide to get married. However, Mohan's father refuses to let them marry as he accuses Asha's father of molesting a woman many years back.",
@@ -241,7 +131,7 @@
     {
       "serverDate": "2026-09-18",
       "showName": "Kunidu Kunidu Baare",
-      "description": "Kunidu Kunidu Baare",
+      "description": "Bringing the best in cinema.",
       "startDate": "2026-09-18T03:00:00",
       "endDate": "2026-09-18T06:00:00",
       "showTime": "03:00:00",
@@ -467,7 +357,7 @@
       "showTime": "03:00:00",
       "endTime": "06:00:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/35a0ab15fb3921eb157f6fdf2d8378bf.jpg"
     },
     {
       "serverDate": "2026-09-20",
@@ -886,6 +776,116 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c141655082b20738092b7b96b8d1893.jpg"
+    },
+    {
+      "serverDate": "2026-09-24",
+      "showName": "Garuda Rekhe",
+      "description": "Three men steal a treasure guarded by snakes. However, in the process, when the male snake dies, a female snake follows them to seek revenge.",
+      "startDate": "2026-09-24T00:00:00",
+      "endDate": "2026-09-24T03:00:00",
+      "showTime": "00:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/248fbce99b68efcb847a679e1aa685b9.jpg"
+    },
+    {
+      "serverDate": "2026-09-24",
+      "showName": "Bayalu Deepa",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-09-24T03:00:00",
+      "endDate": "2026-09-24T06:00:00",
+      "showTime": "03:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6ffb3233242dd4bf37eaf5b16865d6a2.jpg"
+    },
+    {
+      "serverDate": "2026-09-24",
+      "showName": "Movie Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-24T06:00:00",
+      "endDate": "2026-09-24T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
+    },
+    {
+      "serverDate": "2026-09-24",
+      "showName": "Movie Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-24T06:30:00",
+      "endDate": "2026-09-24T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
+    },
+    {
+      "serverDate": "2026-09-24",
+      "showName": "Kittu Puttu",
+      "description": "Kittu and Puttu, sons of a rich businessman, want to become detectives. However, things take a turn when Puttu gets kidnapped.",
+      "startDate": "2026-09-24T07:00:00",
+      "endDate": "2026-09-24T10:00:00",
+      "showTime": "07:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b1a67cc9a6acf177d8c38760c808978.jpg"
+    },
+    {
+      "serverDate": "2026-09-24",
+      "showName": "Guru Sarvabhowma Shri Raghavendra Karune",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-09-24T10:00:00",
+      "endDate": "2026-09-24T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/45c362da399ebedfdc51476714dbc122.jpg"
+    },
+    {
+      "serverDate": "2026-09-24",
+      "showName": "Sangliana",
+      "description": "An upright police officer is determined to wipe out corruption in the society. Putting his life at risk, he has to fend off several obstacles that come his way.",
+      "startDate": "2026-09-24T13:00:00",
+      "endDate": "2026-09-24T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a908b8e6f9d64d0d9d69881d6b1e6210.jpg"
+    },
+    {
+      "serverDate": "2026-09-24",
+      "showName": "Bhujanga",
+      "description": "A petty thief robs houses to make ends meet. But his life takes a new direction when he falls in love with a young college girl, Rachana.",
+      "startDate": "2026-09-24T16:00:00",
+      "endDate": "2026-09-24T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a3615426231b25c04d8599eaba4db7b.jpg"
+    },
+    {
+      "serverDate": "2026-09-24",
+      "showName": "Power",
+      "description": "A politician falls into a coma after an attack by criminals. He wakes up several years later to find his son has taken over his responsibilities. However, things are not what they seem to be.",
+      "startDate": "2026-09-24T19:00:00",
+      "endDate": "2026-09-24T22:00:00",
+      "showTime": "19:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/50ff45da1e95fb23f939300c416b1007.jpg"
+    },
+    {
+      "serverDate": "2026-09-24",
+      "showName": "Devara Teerpu",
+      "description": "A man feels guilty about using a fake name for a passport to fly to London and tries to rectify his fraudulence by searching for a woman with a similar name.",
+      "startDate": "2026-09-24T22:00:00",
+      "endDate": "2026-09-24T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/44196e9c2a9b9c1a42aa443ccb180806.jpg"
     }
   ]
 }
