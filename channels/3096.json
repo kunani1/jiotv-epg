@@ -265,33 +265,44 @@
       "showName": "Super 30",
       "description": "A mathematician selects thirty underprivileged students and tutors them to pass one of the toughest entrance exams in India.",
       "startDate": "2026-09-19T00:00:00",
-      "endDate": "2026-09-19T03:00:00",
+      "endDate": "2026-09-19T01:39:00",
       "showTime": "00:00:00",
-      "endTime": "03:00:00",
+      "endTime": "01:39:00",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3c9c7ed6f5040a50a80d165f7afdcee6.jpg"
     },
     {
       "serverDate": "2026-09-19",
+      "showName": "The Burning Train",
+      "description": "Vinod, a railway engineer, launches the Super Express, a dream project that is India's fastest passenger train. However, it goes out of control on its maiden journey due to a bomb planted by a rival.",
+      "startDate": "2026-09-19T01:39:00",
+      "endDate": "2026-09-19T04:00:00",
+      "showTime": "01:39:00",
+      "endTime": "04:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7277dbf37d196f67a56189d5bc55ee3b.jpg"
+    },
+    {
+      "serverDate": "2026-09-19",
       "showName": "Movie",
       "description": "Bringing the best in television.",
-      "startDate": "2026-09-19T03:00:00",
+      "startDate": "2026-09-19T04:00:00",
       "endDate": "2026-09-19T06:00:00",
-      "showTime": "03:00:00",
+      "showTime": "04:00:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"
     },
     {
       "serverDate": "2026-09-19",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "To Be Announced",
+      "description": "Programming to be announced.",
       "startDate": "2026-09-19T06:00:00",
       "endDate": "2026-09-19T09:00:00",
       "showTime": "06:00:00",
       "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"
+      "showCategory": "TBA",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
     },
     {
       "serverDate": "2026-09-19",

@@ -485,11 +485,22 @@
       "showName": "Elysium",
       "description": "In 2154, where the rich reside in an advanced space station and the rest of the people thrive in poverty on Earth, a former criminal sets off on a mission to reinstate equality.",
       "startDate": "2026-09-20T00:00:00",
-      "endDate": "2026-09-20T02:30:00",
+      "endDate": "2026-09-20T00:15:00",
       "showTime": "00:00:00",
-      "endTime": "02:30:00",
+      "endTime": "00:15:00",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3c3a17fdf01304f68c74fa02a7f51fe7.jpg"
+    },
+    {
+      "serverDate": "2026-09-20",
+      "showName": "Aliens vs. Predator: Requiem",
+      "description": "A small town in Colorado becomes a battleground for two warring species of aliens. One of them is a hybrid called the Predalien while the other is a veteran Predator dispatched to stop it.",
+      "startDate": "2026-09-20T00:15:00",
+      "endDate": "2026-09-20T02:30:00",
+      "showTime": "00:15:00",
+      "endTime": "02:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1aaad51bcba61fa54b0dc975475b5515.jpg"
     },
     {
       "serverDate": "2026-09-20",

@@ -713,14 +713,102 @@
     },
     {
       "serverDate": "2026-09-19",
-      "showName": "2026 Asian Games",
-      "description": "Coverage of the 20th edition of the multi-sport event. From Aichi Prefecture and Nagoya, Japan.",
+      "showName": "T20 Cricket",
+      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
       "startDate": "2026-09-19T05:30:00",
-      "endDate": "2026-09-19T11:30:00",
+      "endDate": "2026-09-19T06:00:00",
       "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3bd907a139e61a689bbde89266428f6c.jpg"
+    },
+    {
+      "serverDate": "2026-09-19",
+      "showName": "2026 Asian Games Highlights",
+      "description": "2026 Asian Games Highlights",
+      "startDate": "2026-09-19T06:00:00",
+      "endDate": "2026-09-19T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+    },
+    {
+      "serverDate": "2026-09-19",
+      "showName": "2026 Asian Games Highlights",
+      "description": "2026 Asian Games Highlights",
+      "startDate": "2026-09-19T06:30:00",
+      "endDate": "2026-09-19T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+    },
+    {
+      "serverDate": "2026-09-19",
+      "showName": "2022 Hangzhou Asian Games Highlights",
+      "description": "Highlights from the 19th multi-sport competition held in Hangzhou, China.",
+      "startDate": "2026-09-19T07:00:00",
+      "endDate": "2026-09-19T07:30:00",
+      "showTime": "07:00:00",
+      "endTime": "07:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d4c4dec795eb45ca2576c388737d1434.jpg"
+    },
+    {
+      "serverDate": "2026-09-19",
+      "showName": "2022 Hangzhou Asian Games Highlights",
+      "description": "Highlights from the 19th multi-sport competition held in Hangzhou, China.",
+      "startDate": "2026-09-19T07:30:00",
+      "endDate": "2026-09-19T08:00:00",
+      "showTime": "07:30:00",
+      "endTime": "08:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d4c4dec795eb45ca2576c388737d1434.jpg"
+    },
+    {
+      "serverDate": "2026-09-19",
+      "showName": "2022 Hangzhou Asian Games Highlights",
+      "description": "Highlights from the 19th multi-sport competition held in Hangzhou, China.",
+      "startDate": "2026-09-19T08:00:00",
+      "endDate": "2026-09-19T08:30:00",
+      "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d4c4dec795eb45ca2576c388737d1434.jpg"
+    },
+    {
+      "serverDate": "2026-09-19",
+      "showName": "2022 Hangzhou Asian Games Highlights",
+      "description": "Highlights from the 19th multi-sport competition held in Hangzhou, China.",
+      "startDate": "2026-09-19T08:30:00",
+      "endDate": "2026-09-19T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d4c4dec795eb45ca2576c388737d1434.jpg"
+    },
+    {
+      "serverDate": "2026-09-19",
+      "showName": "UEFA Nations League 2026-27 - Magazine Programme",
+      "description": "UEFA Nations League 2026-27 - Magazine Programme",
+      "startDate": "2026-09-19T09:00:00",
+      "endDate": "2026-09-19T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-09-19",
+      "showName": "2022 Asian Games",
+      "description": "Coverage of the 19th edition of the multi-sport event. From Hangzhou, China.",
+      "startDate": "2026-09-19T09:30:00",
+      "endDate": "2026-09-19T11:30:00",
+      "showTime": "09:30:00",
       "endTime": "11:30:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/010bc06f04ebb8d56e529c31925792ba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5e6395fd751be8d8b9c55f71a6654d5c.jpg"
     },
     {
       "serverDate": "2026-09-19",
@@ -966,12 +1054,23 @@
     },
     {
       "serverDate": "2026-09-20",
+      "showName": "2026 Asian Games Highlights",
+      "description": "2026 Asian Games Highlights",
+      "startDate": "2026-09-20T05:30:00",
+      "endDate": "2026-09-20T06:30:00",
+      "showTime": "05:30:00",
+      "endTime": "06:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+    },
+    {
+      "serverDate": "2026-09-20",
       "showName": "2026 Asian Games",
       "description": "Coverage of the 20th edition of the multi-sport event. From Aichi Prefecture and Nagoya, Japan.",
-      "startDate": "2026-09-20T05:30:00",
-      "endDate": "2026-09-20T11:30:00",
-      "showTime": "05:30:00",
-      "endTime": "11:30:00",
+      "startDate": "2026-09-20T06:30:00",
+      "endDate": "2026-09-20T12:30:00",
+      "showTime": "06:30:00",
+      "endTime": "12:30:00",
       "showCategory": "Sports event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/010bc06f04ebb8d56e529c31925792ba.jpg"
     },
@@ -979,9 +1078,9 @@
       "serverDate": "2026-09-20",
       "showName": "2026 Asian Games",
       "description": "Coverage of the 20th edition of the multi-sport event. From Aichi Prefecture and Nagoya, Japan.",
-      "startDate": "2026-09-20T11:30:00",
+      "startDate": "2026-09-20T12:30:00",
       "endDate": "2026-09-20T18:30:00",
-      "showTime": "11:30:00",
+      "showTime": "12:30:00",
       "endTime": "18:30:00",
       "showCategory": "Sports event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/010bc06f04ebb8d56e529c31925792ba.jpg"
@@ -1054,14 +1153,14 @@
     },
     {
       "serverDate": "2026-09-20",
-      "showName": "T20 Cricket",
-      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
+      "showName": "UEFA Nations League 2026-27 - Magazine Programme",
+      "description": "UEFA Nations League 2026-27 - Magazine Programme",
       "startDate": "2026-09-20T22:30:00",
       "endDate": "2026-09-20T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3bd907a139e61a689bbde89266428f6c.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-09-20",
