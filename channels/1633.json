@@ -229,44 +229,55 @@
     },
     {
       "serverDate": "2026-09-19",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Dharmika Phala",
+      "description": "An astrologer offers live predictions and insights for each zodiac sign, based on planetary movements and their impact on people's lives.",
       "startDate": "2026-09-19T13:00:00",
-      "endDate": "2026-09-19T15:00:00",
+      "endDate": "2026-09-19T14:00:00",
       "showTime": "13:00:00",
-      "endTime": "15:00:00",
+      "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/061a3abe82d61507fa362ce9f192bc77.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c87226da3e5b00ba568b8339fa3bdcd.jpg"
     },
     {
       "serverDate": "2026-09-19",
-      "showName": "Movie",
+      "showName": "Bari Comedy",
       "description": "Bringing the best in television.",
+      "startDate": "2026-09-19T14:00:00",
+      "endDate": "2026-09-19T15:00:00",
+      "showTime": "14:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d8f7fc56a75774eaa8165a94014e81c8.jpg"
+    },
+    {
+      "serverDate": "2026-09-19",
+      "showName": "Shivanaga",
+      "description": "Shiva and his wife, Nagamma, are held captive by his evil uncles who want to acquire his wealth. Soon, two snakes assume the form of Shiva and Nagamma to save them from their abusive family.",
       "startDate": "2026-09-19T15:00:00",
       "endDate": "2026-09-19T18:00:00",
       "showTime": "15:00:00",
       "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/061a3abe82d61507fa362ce9f192bc77.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5f189f1a87c8e6ac118c5f197b5c657f.jpg"
     },
     {
       "serverDate": "2026-09-19",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Karmika Kallanalla",
+      "description": "Mohan, a factory worker, tries to give his brother a good education with his minimal wages. When he is falsely accused of a crime and dismissed from work, he resorts to illegal means to earn money.",
       "startDate": "2026-09-19T18:00:00",
-      "endDate": "2026-09-19T21:00:00",
+      "endDate": "2026-09-19T21:30:00",
       "showTime": "18:00:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/061a3abe82d61507fa362ce9f192bc77.jpg"
+      "endTime": "21:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61518899aa8bc3ab58e1b9b00e5469e6.jpg"
     },
     {
       "serverDate": "2026-09-19",
       "showName": "Movie",
       "description": "Bringing the best in television.",
-      "startDate": "2026-09-19T21:00:00",
+      "startDate": "2026-09-19T21:30:00",
       "endDate": "2026-09-19T23:59:59",
-      "showTime": "21:00:00",
+      "showTime": "21:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/061a3abe82d61507fa362ce9f192bc77.jpg"
