@@ -1274,56 +1274,45 @@
     },
     {
       "serverDate": "2026-09-21",
-      "showName": "DocFilm",
-      "description": "Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.",
+      "showName": "Reporter",
+      "description": "Cameras at the ready, reporters present in-depth portraits and stories from across the world.",
       "startDate": "2026-09-21T12:45:00",
-      "endDate": "2026-09-21T13:30:00",
+      "endDate": "2026-09-21T13:00:00",
       "showTime": "12:45:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/94a375bd8e6a3010d1c1527bc2f84b4a.jpg"
+    },
+    {
+      "serverDate": "2026-09-21",
+      "showName": "The Scene",
+      "description": "The Beach Channel goes behind the scenes at some of the best events in South Florida.",
+      "startDate": "2026-09-21T13:00:00",
+      "endDate": "2026-09-21T13:15:00",
+      "showTime": "13:00:00",
+      "endTime": "13:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fdeffe098d540212a257acaa22a2032e.jpg"
+    },
+    {
+      "serverDate": "2026-09-21",
+      "showName": "Planet A",
+      "description": "The host highlights the shift towards going green and sustainable while addressing the challenges posed by climate change.",
+      "startDate": "2026-09-21T13:15:00",
+      "endDate": "2026-09-21T13:30:00",
+      "showTime": "13:15:00",
       "endTime": "13:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a05fe6bc6bd78c44ed6df66de6f0d727.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c177e10e050718424c8b9d052392c9f8.jpg"
     },
     {
       "serverDate": "2026-09-21",
       "showName": "DW News",
       "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
       "startDate": "2026-09-21T13:30:00",
-      "endDate": "2026-09-21T13:32:00",
+      "endDate": "2026-09-21T15:00:00",
       "showTime": "13:30:00",
-      "endTime": "13:32:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
-    },
-    {
-      "serverDate": "2026-09-21",
-      "showName": "DocFilm",
-      "description": "Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.",
-      "startDate": "2026-09-21T13:32:00",
-      "endDate": "2026-09-21T14:00:00",
-      "showTime": "13:32:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a05fe6bc6bd78c44ed6df66de6f0d727.jpg"
-    },
-    {
-      "serverDate": "2026-09-21",
-      "showName": "Under the Baobab",
-      "description": "Africa's biggest issues meet real talk, sharp minds, and bold solutions. Mimi Mefo Newuh and George Okachi are joined by experts and everyday change-makers from Africa.",
-      "startDate": "2026-09-21T14:00:00",
-      "endDate": "2026-09-21T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/42712bd891608f2057c7c2c819974887.jpg"
-    },
-    {
-      "serverDate": "2026-09-21",
-      "showName": "DW News",
-      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
-      "startDate": "2026-09-21T14:30:00",
-      "endDate": "2026-09-21T14:32:00",
-      "showTime": "14:30:00",
-      "endTime": "14:32:00",
+      "endTime": "15:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
     },
@@ -1331,23 +1320,23 @@
       "serverDate": "2026-09-21",
       "showName": "DW News Focus",
       "description": "News, off-beat stories and analysis of German and international affairs.",
-      "startDate": "2026-09-21T14:32:00",
-      "endDate": "2026-09-21T14:45:00",
-      "showTime": "14:32:00",
-      "endTime": "14:45:00",
+      "startDate": "2026-09-21T15:00:00",
+      "endDate": "2026-09-21T15:15:00",
+      "showTime": "15:00:00",
+      "endTime": "15:15:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/084ab89d61a3dbab25a9ebd8028612f6.jpg"
     },
     {
       "serverDate": "2026-09-21",
-      "showName": "DocFilm",
-      "description": "Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.",
-      "startDate": "2026-09-21T14:45:00",
+      "showName": "DW News Focus",
+      "description": "News, off-beat stories and analysis of German and international affairs.",
+      "startDate": "2026-09-21T15:15:00",
       "endDate": "2026-09-21T15:30:00",
-      "showTime": "14:45:00",
+      "showTime": "15:15:00",
       "endTime": "15:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a05fe6bc6bd78c44ed6df66de6f0d727.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/084ab89d61a3dbab25a9ebd8028612f6.jpg"
     },
     {
       "serverDate": "2026-09-21",
@@ -1395,58 +1384,36 @@
     },
     {
       "serverDate": "2026-09-21",
-      "showName": "Eco Africa",
-      "description": "Focusing on environmental issues facing the African continent, with close-ups on sustainability projects, technology, and social change.",
-      "startDate": "2026-09-21T16:32:00",
-      "endDate": "2026-09-21T17:00:00",
-      "showTime": "16:32:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd5e870824134bd86de9919fed31aea9.jpg"
-    },
-    {
-      "serverDate": "2026-09-21",
-      "showName": "The Dip",
-      "description": "Presenting stories, analyses and debates on the forces that shape the global economy, including expert insight, developments in global trade, changes in finance and technology, and more.",
-      "startDate": "2026-09-21T17:00:00",
-      "endDate": "2026-09-21T17:30:00",
-      "showTime": "17:00:00",
-      "endTime": "17:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/12c739aa5fd8a01b7552aa4ffad11ab1.jpg"
-    },
-    {
-      "serverDate": "2026-09-21",
-      "showName": "DW News",
-      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
-      "startDate": "2026-09-21T17:30:00",
-      "endDate": "2026-09-21T17:32:00",
-      "showTime": "17:30:00",
-      "endTime": "17:32:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
-    },
-    {
-      "serverDate": "2026-09-21",
       "showName": "DW News Focus",
       "description": "News, off-beat stories and analysis of German and international affairs.",
-      "startDate": "2026-09-21T17:32:00",
-      "endDate": "2026-09-21T17:45:00",
-      "showTime": "17:32:00",
-      "endTime": "17:45:00",
+      "startDate": "2026-09-21T16:32:00",
+      "endDate": "2026-09-21T16:45:00",
+      "showTime": "16:32:00",
+      "endTime": "16:45:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/084ab89d61a3dbab25a9ebd8028612f6.jpg"
     },
     {
       "serverDate": "2026-09-21",
-      "showName": "DocFilm",
-      "description": "Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.",
-      "startDate": "2026-09-21T17:45:00",
+      "showName": "DW News",
+      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
+      "startDate": "2026-09-21T16:45:00",
+      "endDate": "2026-09-21T18:00:00",
+      "showTime": "16:45:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-09-21",
+      "showName": "The Dip",
+      "description": "Presenting stories, analyses and debates on the forces that shape the global economy, including expert insight, developments in global trade, changes in finance and technology, and more.",
+      "startDate": "2026-09-21T18:00:00",
       "endDate": "2026-09-21T18:30:00",
-      "showTime": "17:45:00",
+      "showTime": "18:00:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a05fe6bc6bd78c44ed6df66de6f0d727.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/12c739aa5fd8a01b7552aa4ffad11ab1.jpg"
     },
     {
       "serverDate": "2026-09-21",
@@ -2605,14 +2572,14 @@
     },
     {
       "serverDate": "2026-09-23",
-      "showName": "Global Us",
-      "description": "Investigates whether sound can revive dying coral ecosystems and examines South Africa's worsening water crisis.",
+      "showName": "Berlin Briefing",
+      "description": "Diving deep into how Germany - the world's third-largest economy - is navigating major geopolitical challenges.",
       "startDate": "2026-09-23T05:00:00",
       "endDate": "2026-09-23T05:30:00",
       "showTime": "05:00:00",
       "endTime": "05:30:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fdeffe098d540212a257acaa22a2032e.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1cd14977abb4c6f49912d2871352512b.jpg"
     },
     {
       "serverDate": "2026-09-23",
@@ -2748,14 +2715,14 @@
     },
     {
       "serverDate": "2026-09-23",
-      "showName": "Eco Africa",
-      "description": "Focusing on environmental issues facing the African continent, with close-ups on sustainability projects, technology, and social change.",
+      "showName": "Berlin Briefing",
+      "description": "Diving deep into how Germany - the world's third-largest economy - is navigating major geopolitical challenges.",
       "startDate": "2026-09-23T09:00:00",
       "endDate": "2026-09-23T09:30:00",
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd5e870824134bd86de9919fed31aea9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1cd14977abb4c6f49912d2871352512b.jpg"
     },
     {
       "serverDate": "2026-09-23",
@@ -2858,14 +2825,14 @@
     },
     {
       "serverDate": "2026-09-23",
-      "showName": "In Good Shape",
-      "description": "How can we lead a healthy life? What is good for our body and soul? What kind of exercise can keep us fit?",
+      "showName": "Berlin Briefing",
+      "description": "Diving deep into how Germany - the world's third-largest economy - is navigating major geopolitical challenges.",
       "startDate": "2026-09-23T12:00:00",
       "endDate": "2026-09-23T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/60bc5c830ffa59a870df789abfd1aa7a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1cd14977abb4c6f49912d2871352512b.jpg"
     },
     {
       "serverDate": "2026-09-23",
@@ -2935,14 +2902,14 @@
     },
     {
       "serverDate": "2026-09-23",
-      "showName": "dw",
-      "description": "dw",
+      "showName": "Eco India",
+      "description": "Featuring stories focused on creative and high-tech solutions to various environmental and socio-economic challenges faced by people across India and beyond.",
       "startDate": "2026-09-23T14:00:00",
       "endDate": "2026-09-23T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
-      "showCategory": "",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fdeffe098d540212a257acaa22a2032e.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/313b47cccefc44c42f4359c2e91a8d67.jpg"
     },
     {
       "serverDate": "2026-09-23",
@@ -3034,14 +3001,14 @@
     },
     {
       "serverDate": "2026-09-23",
-      "showName": "Made in Germany",
-      "description": "In a rapidly changing world, we examine the risks and benefits of digitalisation and its impact on the way we work, what we earn and how we live.",
+      "showName": "Berlin Briefing",
+      "description": "Diving deep into how Germany - the world's third-largest economy - is navigating major geopolitical challenges.",
       "startDate": "2026-09-23T17:00:00",
       "endDate": "2026-09-23T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fb33ce433b981c4670869f8986f15057.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1cd14977abb4c6f49912d2871352512b.jpg"
     },
     {
       "serverDate": "2026-09-23",
@@ -3155,14 +3122,14 @@
     },
     {
       "serverDate": "2026-09-23",
-      "showName": "dw",
-      "description": "dw",
+      "showName": "Eco India",
+      "description": "Featuring stories focused on creative and high-tech solutions to various environmental and socio-economic challenges faced by people across India and beyond.",
       "startDate": "2026-09-23T21:00:00",
       "endDate": "2026-09-23T21:30:00",
       "showTime": "21:00:00",
       "endTime": "21:30:00",
-      "showCategory": "",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fdeffe098d540212a257acaa22a2032e.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/313b47cccefc44c42f4359c2e91a8d67.jpg"
     },
     {
       "serverDate": "2026-09-23",
@@ -3540,14 +3507,14 @@
     },
     {
       "serverDate": "2026-09-24",
-      "showName": "dw",
-      "description": "dw",
+      "showName": "Eco India",
+      "description": "Featuring stories focused on creative and high-tech solutions to various environmental and socio-economic challenges faced by people across India and beyond.",
       "startDate": "2026-09-24T09:00:00",
       "endDate": "2026-09-24T09:30:00",
       "showTime": "09:00:00",
       "endTime": "09:30:00",
-      "showCategory": "",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fdeffe098d540212a257acaa22a2032e.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/313b47cccefc44c42f4359c2e91a8d67.jpg"
     },
     {
       "serverDate": "2026-09-24",
@@ -4189,14 +4156,14 @@
     },
     {
       "serverDate": "2026-09-25",
-      "showName": "Best of DW Podcasts",
-      "description": "Featuring a selection of DW podcasts that contain analyses of world politics and its influence on our daily lives, and discussions about social standards and taboos.",
+      "showName": "Global Us",
+      "description": "Investigates whether sound can revive dying coral ecosystems and examines South Africa's worsening water crisis.",
       "startDate": "2026-09-25T05:00:00",
       "endDate": "2026-09-25T05:30:00",
       "showTime": "05:00:00",
       "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9a9096b45664b28d09862c1d28f04eb.jpg"
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fdeffe098d540212a257acaa22a2032e.jpg"
     },
     {
       "serverDate": "2026-09-25",
@@ -4442,14 +4409,14 @@
     },
     {
       "serverDate": "2026-09-25",
-      "showName": "Best of DW Podcasts",
-      "description": "Featuring a selection of DW podcasts that contain analyses of world politics and its influence on our daily lives, and discussions about social standards and taboos.",
+      "showName": "In Good Shape",
+      "description": "How can we lead a healthy life? What is good for our body and soul? What kind of exercise can keep us fit?",
       "startDate": "2026-09-25T12:00:00",
       "endDate": "2026-09-25T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9a9096b45664b28d09862c1d28f04eb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/60bc5c830ffa59a870df789abfd1aa7a.jpg"
     },
     {
       "serverDate": "2026-09-25",
@@ -4607,14 +4574,14 @@
     },
     {
       "serverDate": "2026-09-25",
-      "showName": "Best of DW Podcasts",
-      "description": "Featuring a selection of DW podcasts that contain analyses of world politics and its influence on our daily lives, and discussions about social standards and taboos.",
+      "showName": "REV",
+      "description": "An examination of the world of cars and the constant evolution of mobility in modern society with climate-friendly solutions.",
       "startDate": "2026-09-25T17:00:00",
       "endDate": "2026-09-25T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9a9096b45664b28d09862c1d28f04eb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b9d55eda74728ba25dde75d478fd588.jpg"
     },
     {
       "serverDate": "2026-09-25",
@@ -4816,14 +4783,14 @@
     },
     {
       "serverDate": "2026-09-26",
-      "showName": "Best of DW Podcasts",
-      "description": "Featuring a selection of DW podcasts that contain analyses of world politics and its influence on our daily lives, and discussions about social standards and taboos.",
+      "showName": "To the Point",
+      "description": "A panel of experts analyses international issues that are making the news headlines.",
       "startDate": "2026-09-26T00:00:00",
       "endDate": "2026-09-26T00:30:00",
       "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9a9096b45664b28d09862c1d28f04eb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ea75568048e49a81dc3aa918b8118fc8.jpg"
     },
     {
       "serverDate": "2026-09-26",
@@ -5025,14 +4992,14 @@
     },
     {
       "serverDate": "2026-09-26",
-      "showName": "REV",
-      "description": "An examination of the world of cars and the constant evolution of mobility in modern society with climate-friendly solutions.",
+      "showName": "The Rev",
+      "description": "Soul singer Johnny was adopted by an African-American family and raised by a strong, no-nonsense black woman. As his career is slowing down, Johnny returns home for the reading of his father's will and learns that he will inherit his father's church.",
       "startDate": "2026-09-26T06:00:00",
       "endDate": "2026-09-26T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b9d55eda74728ba25dde75d478fd588.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84eafde2d5c6d7706f56787ddf74c88d.jpg"
     },
     {
       "serverDate": "2026-09-26",
@@ -5267,14 +5234,14 @@
     },
     {
       "serverDate": "2026-09-26",
-      "showName": "REV",
-      "description": "An examination of the world of cars and the constant evolution of mobility in modern society with climate-friendly solutions.",
+      "showName": "The Rev",
+      "description": "Soul singer Johnny was adopted by an African-American family and raised by a strong, no-nonsense black woman. As his career is slowing down, Johnny returns home for the reading of his father's will and learns that he will inherit his father's church.",
       "startDate": "2026-09-26T12:00:00",
       "endDate": "2026-09-26T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b9d55eda74728ba25dde75d478fd588.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84eafde2d5c6d7706f56787ddf74c88d.jpg"
     },
     {
       "serverDate": "2026-09-26",
@@ -5774,7 +5741,7 @@
     {
       "serverDate": "2026-09-27",
       "showName": "Global Us",
-      "description": "Global Us",
+      "description": "Investigates whether sound can revive dying coral ecosystems and examines South Africa's worsening water crisis.",
       "startDate": "2026-09-27T02:32:00",
       "endDate": "2026-09-27T03:00:00",
       "showTime": "02:32:00",
@@ -6037,14 +6004,14 @@
     },
     {
       "serverDate": "2026-09-27",
-      "showName": "REV",
-      "description": "An examination of the world of cars and the constant evolution of mobility in modern society with climate-friendly solutions.",
+      "showName": "The Rev",
+      "description": "Soul singer Johnny was adopted by an African-American family and raised by a strong, no-nonsense black woman. As his career is slowing down, Johnny returns home for the reading of his father's will and learns that he will inherit his father's church.",
       "startDate": "2026-09-27T10:00:00",
       "endDate": "2026-09-27T10:30:00",
       "showTime": "10:00:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b9d55eda74728ba25dde75d478fd588.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84eafde2d5c6d7706f56787ddf74c88d.jpg"
     },
     {
       "serverDate": "2026-09-27",
@@ -6257,14 +6224,14 @@
     },
     {
       "serverDate": "2026-09-27",
-      "showName": "REV",
-      "description": "An examination of the world of cars and the constant evolution of mobility in modern society with climate-friendly solutions.",
+      "showName": "The Rev",
+      "description": "Soul singer Johnny was adopted by an African-American family and raised by a strong, no-nonsense black woman. As his career is slowing down, Johnny returns home for the reading of his father's will and learns that he will inherit his father's church.",
       "startDate": "2026-09-27T16:00:00",
       "endDate": "2026-09-27T16:30:00",
       "showTime": "16:00:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b9d55eda74728ba25dde75d478fd588.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84eafde2d5c6d7706f56787ddf74c88d.jpg"
     },
     {
       "serverDate": "2026-09-27",
