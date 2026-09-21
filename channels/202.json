@@ -1211,9 +1211,9 @@
       "showName": "Lalia",
       "description": "Bringing the best in cinema.",
       "startDate": "2026-09-23T04:00:00",
-      "endDate": "2026-09-23T05:00:00",
+      "endDate": "2026-09-23T05:31:00",
       "showTime": "04:00:00",
-      "endTime": "05:00:00",
+      "endTime": "05:31:00",
       "showCategory": "Short Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26df64f3795858d45dc9b6e55437a4a9.jpg"
     },
@@ -1221,12 +1221,23 @@
       "serverDate": "2026-09-23",
       "showName": "Aaradhana",
       "description": "A comprehensive compilation of various devotional songs and hymns, praising the Almighty, chanted by renowned artists from across the region.",
-      "startDate": "2026-09-23T05:00:00",
-      "endDate": "2026-09-23T17:00:00",
-      "showTime": "05:00:00",
-      "endTime": "17:00:00",
+      "startDate": "2026-09-23T05:31:00",
+      "endDate": "2026-09-23T13:31:00",
+      "showTime": "05:31:00",
+      "endTime": "13:31:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/199c178f2bdf72398ae4ac042571f7b2.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "To Be Announced",
+      "description": "Programming to be announced.",
+      "startDate": "2026-09-23T13:31:00",
+      "endDate": "2026-09-23T17:00:00",
+      "showTime": "13:31:00",
+      "endTime": "17:00:00",
+      "showCategory": "TBA",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
     },
     {
       "serverDate": "2026-09-23",
@@ -2194,7 +2205,7 @@
       "showTime": "13:00:00",
       "endTime": "15:30:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6bfc61a678c8477c3d88281403350862.jpg"
     },
     {
       "serverDate": "2026-09-26",
