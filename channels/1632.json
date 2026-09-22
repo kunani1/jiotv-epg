@@ -8,6 +8,116 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ColorsKannadaCinema.png",
   "programs": [
     {
+      "serverDate": "2026-09-21",
+      "showName": "Maharaja",
+      "description": "Rajashekhar has two sons, Surya and Kiran, but Surya is adopted. Surya is very hardworking and makes many sacrifices for the family, thereby inciting jealousy in his brother Kiran's heart.",
+      "startDate": "2026-09-21T00:00:00",
+      "endDate": "2026-09-21T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be07ed8ab8d059b51ac83df950acc1de.jpg"
+    },
+    {
+      "serverDate": "2026-09-21",
+      "showName": "Gharbada Gudi",
+      "description": "A wealthy couple abandons their infant daughter in their quest to beget a son. However, a shocking revelation awaits them after their son abandons them in their twilight years.",
+      "startDate": "2026-09-21T01:00:00",
+      "endDate": "2026-09-21T03:30:00",
+      "showTime": "01:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3c1d9a0a6efda7595435fdece112d294.jpg"
+    },
+    {
+      "serverDate": "2026-09-21",
+      "showName": "Jessie",
+      "description": "Nandini, a young doctor, falls in love with Jessie, a happy-go-lucky man. But when Nandini gets married to Shyam Prasad at her parents' insistence, Jessie comes back in her life as a ghost.",
+      "startDate": "2026-09-21T03:30:00",
+      "endDate": "2026-09-21T06:00:00",
+      "showTime": "03:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5ad34c327cabb45d24a1721ec723345.jpg"
+    },
+    {
+      "serverDate": "2026-09-21",
+      "showName": "Shiva Shakthi",
+      "description": "Lord Shiva and Goddess Parvati fall in love at the start of the universe. Their eternal love story becomes a legendary tale of devotion for future generations.",
+      "startDate": "2026-09-21T06:00:00",
+      "endDate": "2026-09-21T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0f151a06a419c92f483069f344e55118.jpg"
+    },
+    {
+      "serverDate": "2026-09-21",
+      "showName": "Bhikshuka 2",
+      "description": "After being falsely accused, an ex-convict, looking of his sister, finds himself in trouble when his brain is transplanted into a wealthy man's body.",
+      "startDate": "2026-09-21T06:30:00",
+      "endDate": "2026-09-21T10:00:00",
+      "showTime": "06:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4b784cd6336cd956bbeb8a1c17331bff.jpg"
+    },
+    {
+      "serverDate": "2026-09-21",
+      "showName": "Sampathige Saval",
+      "description": "Siddappa, a cruel landlord, refuses to pay the funeral expenses of his servant after his accidental death. Angered by the betrayal, the worker's son, Veerabhadra, grows up to resent Siddappa.",
+      "startDate": "2026-09-21T10:00:00",
+      "endDate": "2026-09-21T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ec8ac2dc40f2cfc645d0c4b9b84dc81b.jpg"
+    },
+    {
+      "serverDate": "2026-09-21",
+      "showName": "Paramashiva",
+      "description": "Three brothers, Shiva, Raghu and Shankar, dote on their sister, Swati, and strive for her happiness. Problems arise when Swati gets married to a cunning, rich man who has ulterior motives.",
+      "startDate": "2026-09-21T13:00:00",
+      "endDate": "2026-09-21T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/328e0e88a4f5f5a3e52fa24c2a3c8049.jpg"
+    },
+    {
+      "serverDate": "2026-09-21",
+      "showName": "Police Story - 2",
+      "description": "Police Story - 2",
+      "startDate": "2026-09-21T16:00:00",
+      "endDate": "2026-09-21T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8f96e1ac8bd5c6e89ad53124e816e074.jpg"
+    },
+    {
+      "serverDate": "2026-09-21",
+      "showName": "Mahaveera",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-09-21T19:00:00",
+      "endDate": "2026-09-21T22:30:00",
+      "showTime": "19:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10af3741cdd8b2736a690c296bd254c0.jpg"
+    },
+    {
+      "serverDate": "2026-09-21",
+      "showName": "Brave Man",
+      "description": "An intelligent and ambitious youngster arrives in Mumbai and becomes a mafia don, but one day, things take turn when he falls in love with a cop's daughter.",
+      "startDate": "2026-09-21T22:30:00",
+      "endDate": "2026-09-21T23:59:59",
+      "showTime": "22:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8e686a76db1abed47ab40df056848814.jpg"
+    },
+    {
       "serverDate": "2026-09-22",
       "showName": "Brave Man",
       "description": "An intelligent and ambitious youngster arrives in Mumbai and becomes a mafia don, but one day, things take turn when he falls in love with a cop's daughter.",
@@ -666,6 +776,116 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be3fcd6acca3a5ecd631f2eb5ac607b8.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Seetharam Benoy: Case No. 18",
+      "description": "Transferred to a district notorious for its crime, Inspector Seetharam Benoy's diligence and determination have tragic consequences on his personal life.",
+      "startDate": "2026-09-28T00:00:00",
+      "endDate": "2026-09-28T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be3fcd6acca3a5ecd631f2eb5ac607b8.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Jigarthanda",
+      "description": "A budding director tries to research a merciless gangster for making a film on gangsterism. But his secret attempts to conduct the research fail when he gets caught for snooping.",
+      "startDate": "2026-09-28T01:00:00",
+      "endDate": "2026-09-28T03:30:00",
+      "showTime": "01:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/76d4115e8cdda09eb226f48a59232bc2.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Mungaru Male 2",
+      "description": "Preetham, the son of Suryakanth, a millionaire, is driven by excitement and easily gets bored when it comes to relationships. He understands love after he meets Nandini.",
+      "startDate": "2026-09-28T03:30:00",
+      "endDate": "2026-09-28T06:00:00",
+      "showTime": "03:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cfb147e0da7831ee30ae0090dac16532.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Shiva Shakthi",
+      "description": "Lord Shiva and Goddess Parvati fall in love at the start of the universe. Their eternal love story becomes a legendary tale of devotion for future generations.",
+      "startDate": "2026-09-28T06:00:00",
+      "endDate": "2026-09-28T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0f151a06a419c92f483069f344e55118.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Jeevana Chaitra",
+      "description": "A man discovers that alcohol is a major problem in the villages, where men buy alcohol with the minimal money they have and do not work, while the wives and children get neglected and abused.",
+      "startDate": "2026-09-28T06:30:00",
+      "endDate": "2026-09-28T10:00:00",
+      "showTime": "06:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9376e4c20ebac9a914e3c45b9cbc3b39.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Grama Devathe",
+      "description": "Angala Parameswari, an avatar of Goddess Parvati, wants to protect the people of Earth. Kaveri, her ardent follower, seeks her help when her life is in danger.",
+      "startDate": "2026-09-28T10:00:00",
+      "endDate": "2026-09-28T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/efdd3f713875771ed7238afea87c548c.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Thavarina Theru",
+      "description": "Sridhar, an orphaned villager with a quiet heart, finds love in Shruti, but their path forward is tangled in her deep sense of duty towards her struggling family.",
+      "startDate": "2026-09-28T13:00:00",
+      "endDate": "2026-09-28T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02ff2f5567424c3cded9af4497d81b72.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Maryade Ramanna",
+      "description": "With the hope of beginning anew, a man returns to his village to sell a piece of his land. On the way, he falls in love with a young woman, only to find out later that her parents want him dead.",
+      "startDate": "2026-09-28T16:00:00",
+      "endDate": "2026-09-28T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b88afb76d0c31e8941e3b0bf19e854e.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Neelambari",
+      "description": "Vinod and his TV channel crew arrive in a village for a crucial assignment. A series of spooky events is set in motion after they interview a mysterious woman who lives there.",
+      "startDate": "2026-09-28T19:00:00",
+      "endDate": "2026-09-28T22:30:00",
+      "showTime": "19:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fa126fe551a13dce735e4727df4aa2f0.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Mukunda",
+      "description": "Mukunda and Arjun are close friends, with the latter being in love with a powerful bureaucrat's niece. Whenever the bureaucrat tries to exterminate Arjun, Mukunda protects him with all his might.",
+      "startDate": "2026-09-28T22:30:00",
+      "endDate": "2026-09-28T23:59:59",
+      "showTime": "22:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/47428c4224e233905952504d9ad72406.jpg"
     }
   ]
 }
