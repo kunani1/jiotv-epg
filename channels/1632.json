@@ -8,6 +8,116 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ColorsKannadaCinema.png",
   "programs": [
     {
+      "serverDate": "2026-09-22",
+      "showName": "Brave Man",
+      "description": "An intelligent and ambitious youngster arrives in Mumbai and becomes a mafia don, but one day, things take turn when he falls in love with a cop's daughter.",
+      "startDate": "2026-09-22T00:00:00",
+      "endDate": "2026-09-22T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8e686a76db1abed47ab40df056848814.jpg"
+    },
+    {
+      "serverDate": "2026-09-22",
+      "showName": "Sneha",
+      "description": "Murali saves Lakshmi from an abusive marriage and shelters her at his house. However, all hell breaks loose when Murali's girlfriend finds out about their living situation.",
+      "startDate": "2026-09-22T01:00:00",
+      "endDate": "2026-09-22T03:30:00",
+      "showTime": "01:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5c676e05ac44ae991893be1eb572133e.jpg"
+    },
+    {
+      "serverDate": "2026-09-22",
+      "showName": "Hello Yama",
+      "description": "After an untimely death, Suri encounters Yama and Chitragupta, sparking a series of hilarious events as he attempts to navigate the complexities of the afterlife.",
+      "startDate": "2026-09-22T03:30:00",
+      "endDate": "2026-09-22T06:00:00",
+      "showTime": "03:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3457845da7c7b4d059c87f5825b878cb.jpg"
+    },
+    {
+      "serverDate": "2026-09-22",
+      "showName": "Shiva Shakthi",
+      "description": "Lord Shiva and Goddess Parvati fall in love at the start of the universe. Their eternal love story becomes a legendary tale of devotion for future generations.",
+      "startDate": "2026-09-22T06:00:00",
+      "endDate": "2026-09-22T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0f151a06a419c92f483069f344e55118.jpg"
+    },
+    {
+      "serverDate": "2026-09-22",
+      "showName": "Mahaveera",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-09-22T06:30:00",
+      "endDate": "2026-09-22T10:00:00",
+      "showTime": "06:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10af3741cdd8b2736a690c296bd254c0.jpg"
+    },
+    {
+      "serverDate": "2026-09-22",
+      "showName": "Shwetha Nagara",
+      "description": "Madhumati ventures into the Nallamala Forest to procure an ancient book written by priests. Later, she encounters a shape-shifting snake that intends to kill her.",
+      "startDate": "2026-09-22T10:00:00",
+      "endDate": "2026-09-22T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a0ed5ab7ebb4e20c435777e0d44fe64c.jpg"
+    },
+    {
+      "serverDate": "2026-09-22",
+      "showName": "Panchakshari",
+      "description": "After being possessed by Goddess Durga, a devotee predicts her own death. However, the truth of her demise is unravelled when the devotee's look-alike arrives in the village.",
+      "startDate": "2026-09-22T13:00:00",
+      "endDate": "2026-09-22T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/869e86716fdafa54d4a780cb96a2f58e.jpg"
+    },
+    {
+      "serverDate": "2026-09-22",
+      "showName": "Deadly Soma",
+      "description": "Somasekhara, a bright student, clashes with a gangster's brother post a kabaddi match. This rivalry unexpectedly pulls him into a crime spree.",
+      "startDate": "2026-09-22T16:00:00",
+      "endDate": "2026-09-22T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56664900765493fbb508864865936e77.jpg"
+    },
+    {
+      "serverDate": "2026-09-22",
+      "showName": "Attahaasa",
+      "description": "Veerappan, a poacher, chooses the path of crime and becomes a dangerous criminal. He systematically kills all the policemen who try to stop his evil ways and nab him.",
+      "startDate": "2026-09-22T19:00:00",
+      "endDate": "2026-09-22T22:30:00",
+      "showTime": "19:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5a6ce48e42516d7da6bbc7632f47f5b.jpg"
+    },
+    {
+      "serverDate": "2026-09-22",
+      "showName": "Maragatha Mani",
+      "description": "Two thieves take on an audacious task to acquire an antique emerald medallion. In their pursuit, they seek the help of a priest to protect them from an ancient curse.",
+      "startDate": "2026-09-22T22:30:00",
+      "endDate": "2026-09-22T23:59:59",
+      "showTime": "22:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4427a3d6ae1fa661bc3c922dab7260e.jpg"
+    },
+    {
       "serverDate": "2026-09-23",
       "showName": "Maragatha Mani",
       "description": "Two thieves take on an audacious task to acquire an antique emerald medallion. In their pursuit, they seek the help of a priest to protect them from an ancient curse.",
