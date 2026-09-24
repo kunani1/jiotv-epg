@@ -8,116 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Movies.png",
   "programs": [
     {
-      "serverDate": "2026-09-22",
-      "showName": "Dhruva IPS",
-      "description": "A police officer strives to solve the case of a missing newborn child. As he unravels the mystery, a larger criminal network is exposed.",
-      "startDate": "2026-09-22T00:00:00",
-      "endDate": "2026-09-22T03:00:00",
-      "showTime": "00:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0f00b6620e053a45508d6e8e77c706d6.jpg"
-    },
-    {
-      "serverDate": "2026-09-22",
-      "showName": "Apoorva Samsaara",
-      "description": "A father and his son become estranged after certain unfortunate circumstances. However, they soon realise the importance of their relationship.",
-      "startDate": "2026-09-22T03:00:00",
-      "endDate": "2026-09-22T06:00:00",
-      "showTime": "03:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/013b3c9e086bbd535f9c313d28f7e92d.jpg"
-    },
-    {
-      "serverDate": "2026-09-22",
-      "showName": "Movie Filler",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-22T06:00:00",
-      "endDate": "2026-09-22T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
-    },
-    {
-      "serverDate": "2026-09-22",
-      "showName": "Movie Filler",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-22T06:30:00",
-      "endDate": "2026-09-22T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
-    },
-    {
-      "serverDate": "2026-09-22",
-      "showName": "Thaliya Aane",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-09-22T07:00:00",
-      "endDate": "2026-09-22T10:00:00",
-      "showTime": "07:00:00",
-      "endTime": "10:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b984b1b420b4483252eaa3b7ea16230d.jpg"
-    },
-    {
-      "serverDate": "2026-09-22",
-      "showName": "Gowri Shankara",
-      "description": "Shankar, an educated man from rural India, sets out to eradicate superstitions from his village and ends up rectifying several social problems.",
-      "startDate": "2026-09-22T10:00:00",
-      "endDate": "2026-09-22T13:00:00",
-      "showTime": "10:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fd2243107b8747bdba3daf53baee3d83.jpg"
-    },
-    {
-      "serverDate": "2026-09-22",
-      "showName": "Navibbaru Namagibbaru",
-      "description": "In a bid to turn their lives around, two lookalikes, who have different personalities, switch places to find true love in their partners.",
-      "startDate": "2026-09-22T13:00:00",
-      "endDate": "2026-09-22T16:00:00",
-      "showTime": "13:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5e8acd538b213c2402eb3627d7e60d7b.jpg"
-    },
-    {
-      "serverDate": "2026-09-22",
-      "showName": "Raja Nanna Raja",
-      "description": "Geetha searches for a suitor and believes she's found her match. However, a stalker disrupts her plans, claiming to be her lover from a past life.",
-      "startDate": "2026-09-22T16:00:00",
-      "endDate": "2026-09-22T19:00:00",
-      "showTime": "16:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/416a7d9f8b423e084ae6f33d42a54751.jpg"
-    },
-    {
-      "serverDate": "2026-09-22",
-      "showName": "Anjada Gandu",
-      "description": "A reckless hellion ignores his father's advice and squanders his money. Subsequently, in order to discipline him, his father sends him to his strict army friend.",
-      "startDate": "2026-09-22T19:00:00",
-      "endDate": "2026-09-22T22:00:00",
-      "showTime": "19:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd8fb540e6d5cde114d8e6f8bc9158f9.jpg"
-    },
-    {
-      "serverDate": "2026-09-22",
-      "showName": "Satyam Shivam Sundaram",
-      "description": "A family disowns their son after he is accused of murder. However, his father grows suspicious about the veracity of the accusation and embarks on a quest to uncover the truth.",
-      "startDate": "2026-09-22T22:00:00",
-      "endDate": "2026-09-22T23:59:59",
-      "showTime": "22:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c8b204b708296e5777f322695479e53.jpg"
-    },
-    {
       "serverDate": "2026-09-23",
       "showName": "Mugdha Manava",
       "description": "A movie starring Shubha and Srinath, directed by K S L Swamy.",
@@ -886,6 +776,116 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cab99d63e1a15f7a530e35e156a31773.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Black & White",
+      "description": "Black & White",
+      "startDate": "2026-09-30T00:00:00",
+      "endDate": "2026-09-30T03:00:00",
+      "showTime": "00:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/250b5a9d036b90c0ac3d3b52195c530b.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Hrudayanjali",
+      "description": "Movie starring Raj Kamal, Mandya Ramesh, Charulata directed by Bhaskar.",
+      "startDate": "2026-09-30T03:00:00",
+      "endDate": "2026-09-30T06:00:00",
+      "showTime": "03:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e28a0b6a14728ad56f58a59960b4d72d.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Movie Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-30T06:00:00",
+      "endDate": "2026-09-30T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Movie Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-30T06:30:00",
+      "endDate": "2026-09-30T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Rasika",
+      "description": "Rekha is in love with the village simpleton Krishna. However, the rivalry between Krishna's mother and Rekha's father poses a hurdle.",
+      "startDate": "2026-09-30T07:00:00",
+      "endDate": "2026-09-30T10:00:00",
+      "showTime": "07:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6685863ad90377a5b7ee672e13f17661.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Nee Nanna Gellare",
+      "description": "Srikanth wins challenges against Hayavadhan Rao which enrages Nalini. However, when Nalini attempts to make Srikanth lose, the two eventually fall in love and attempt to solve various family issues.",
+      "startDate": "2026-09-30T10:00:00",
+      "endDate": "2026-09-30T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e11939e637a46f2e6a8b9e448d7eac31.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Lucky",
+      "description": "Lucky goes for a job interview where the woman who rejected him turns out to be his employer. Afraid that she will not hire him, he decides to change his identity.",
+      "startDate": "2026-09-30T13:00:00",
+      "endDate": "2026-09-30T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b6ee05fb8f2a4fcf8846005fc1f5baa.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Dasharatha",
+      "description": "Dasharatha, a righteous lawyer, leads a happy life with his wife, son and daughter who gets a job after college. However, trouble begins when his daughter falls in love with her employer.",
+      "startDate": "2026-09-30T16:00:00",
+      "endDate": "2026-09-30T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/46535494247eee67160029ef30719d1a.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Banda Namma Sarrainodu",
+      "description": "An ex-army vigilante attacks corrupt individuals who have escaped justice. However, he faces a dilemma when his lover agrees to marry him only if he gives up his vigilante ways.",
+      "startDate": "2026-09-30T19:00:00",
+      "endDate": "2026-09-30T22:00:00",
+      "showTime": "19:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f9fc517ff3e3c2c7e19e86ad27a837bd.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Akka",
+      "description": "Two sisters build a peaceful life after their alcoholic father kills their mother and goes to prison. Years later, his sudden return threatens to destroy everything they built.",
+      "startDate": "2026-09-30T22:00:00",
+      "endDate": "2026-09-30T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84ba75f39297960f3e56cda07496282a.jpg"
     }
   ]
 }

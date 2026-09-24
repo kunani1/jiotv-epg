@@ -8,6 +8,160 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Kairali_TV.png",
   "programs": [
     {
+      "serverDate": "2026-09-23",
+      "showName": "Kadha Parayumbol",
+      "description": "Balan, a barber, struggles to give his family a better living. However, his life changes when his old friend, who is a film star, comes to his village for a film shoot.",
+      "startDate": "2026-09-23T00:00:00",
+      "endDate": "2026-09-23T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ad9fbe724e1ec47283f77928a8ea75d.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "Janaki Nayakan",
+      "description": "Ram, a young boy, lives in a monastery waiting for Sita to return and take care of him. However, Sita returns, years later, but with an ulterior motive.",
+      "startDate": "2026-09-23T01:00:00",
+      "endDate": "2026-09-23T03:00:00",
+      "showTime": "01:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28ec9d0f7c5aaa408c80f744c129ab80.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "Siruthai",
+      "description": "Rocket Raja, a small-time thief, comes across a young girl who calls him father. However, when Raja finds the truth about the girl's past, he turns into a vigilante.",
+      "startDate": "2026-09-23T03:00:00",
+      "endDate": "2026-09-23T05:00:00",
+      "showTime": "03:00:00",
+      "endTime": "05:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2326405f6966af5738d6e68939b158df.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "Pokkiri",
+      "description": "Thamizh, an undercover officer posing as a hitman, falls for Shruthi, who disapproves of his violent lifestyle. Their growing bond faces risks from his hidden mission.",
+      "startDate": "2026-09-23T05:00:00",
+      "endDate": "2026-09-23T06:00:00",
+      "showTime": "05:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d556e7b6c7a80757d373bcbfb558d73.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "Doctor's Talk",
+      "description": "Dr. Eeppan, the host, interacts and discusses various health problems with guest doctors and gives remedial tips for the viewers.",
+      "startDate": "2026-09-23T06:00:00",
+      "endDate": "2026-09-23T06:15:00",
+      "showTime": "06:00:00",
+      "endTime": "06:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f27501ff6d37abc762886d29fa24136.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "Pokkiri",
+      "description": "Thamizh, an undercover officer posing as a hitman, falls for Shruthi, who disapproves of his violent lifestyle. Their growing bond faces risks from his hidden mission.",
+      "startDate": "2026-09-23T06:15:00",
+      "endDate": "2026-09-23T07:30:00",
+      "showTime": "06:15:00",
+      "endTime": "07:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d556e7b6c7a80757d373bcbfb558d73.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "24",
+      "description": "Sethuraman, a scientist, invents a time-travelling gadget that his evil twin Athreya wants to get hold of. Soon, a bitter battle arises between Sethuraman's son and Athreya.",
+      "startDate": "2026-09-23T07:30:00",
+      "endDate": "2026-09-23T09:30:00",
+      "showTime": "07:30:00",
+      "endTime": "09:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/20a55affae11be67266eddab8c0332ae.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "Kochi Rajavu",
+      "description": "Unni and Ashwathy's life takes a turn after he accidentally kills her cousin in a tussle. After spending time in prison, he moves to Chennai with his family, hoping to start a fresh chapter, but his past catches up with him.",
+      "startDate": "2026-09-23T09:30:00",
+      "endDate": "2026-09-23T13:00:00",
+      "showTime": "09:30:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a31e5944115d52de059b9783c137b189.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "Madurai",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-09-23T13:00:00",
+      "endDate": "2026-09-23T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4f1d74b9cc668fb4f975ac0af3722bf.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "Osthe",
+      "description": "Velan dislikes his father and his half-brother Balan. As a police officer, he locks horns with a local politician who uses the hostility between the brothers as an advantage.",
+      "startDate": "2026-09-23T16:00:00",
+      "endDate": "2026-09-23T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cfa8c3842209edcf676cf0e4dbd3bdb0.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "International Series",
+      "description": "International Series",
+      "startDate": "2026-09-23T19:00:00",
+      "endDate": "2026-09-23T19:30:00",
+      "showTime": "19:00:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "International Series",
+      "description": "International Series",
+      "startDate": "2026-09-23T19:30:00",
+      "endDate": "2026-09-23T20:00:00",
+      "showTime": "19:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "Company",
+      "description": "Chandu, a henchman, and Malik, a local hothead, join hands to form a gang. As their gang gains a reputation, tension arises between them, and they eventually fall apart.",
+      "startDate": "2026-09-23T20:00:00",
+      "endDate": "2026-09-23T22:30:00",
+      "showTime": "20:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a08e81bb13746d22dba49a1daf57ecc5.jpg"
+    },
+    {
+      "serverDate": "2026-09-23",
+      "showName": "7aum Arivu",
+      "description": "Dong Lee from China arrives in India to start a biological war. However, a genetic engineering student tries to revive the skills of Bodhidharma with the help of his descendant to defeat Dong Lee.",
+      "startDate": "2026-09-23T22:30:00",
+      "endDate": "2026-09-23T23:59:59",
+      "showTime": "22:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af5eaac4ab88f3d0f00b8239b8848686.jpg"
+    },
+    {
       "serverDate": "2026-09-24",
       "showName": "7aum Arivu",
       "description": "Dong Lee from China arrives in India to start a biological war. However, a genetic engineering student tries to revive the skills of Bodhidharma with the help of his descendant to defeat Dong Lee.",
@@ -908,6 +1062,160 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/889a81e01c0a539bed4b41bef6929a6a.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Kaashmora",
+      "description": "Kaashmora, a fraudster, gets locked inside a haunted bungalow, along with his clan. Soon, the family faces an army of ghosts who will let them leave only if their wishes are granted.",
+      "startDate": "2026-09-30T00:00:00",
+      "endDate": "2026-09-30T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/889a81e01c0a539bed4b41bef6929a6a.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Bandhukkal Sathrukkal",
+      "description": "Two brothers, both moneylenders, hate each other and extend their mutual hatred to their families as well. However, they face several obstacles that intensify after their estrangement.",
+      "startDate": "2026-09-30T00:30:00",
+      "endDate": "2026-09-30T02:30:00",
+      "showTime": "00:30:00",
+      "endTime": "02:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df765ab004de788c026a64809ae74d1b.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Maharaja",
+      "description": "After his home is broken into, a barber sets out to get revenge and informs the police about the incident. However, the police are unsure about the missing entity in question.",
+      "startDate": "2026-09-30T02:30:00",
+      "endDate": "2026-09-30T05:00:00",
+      "showTime": "02:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17a2751978a9036f495ceae27f90021d.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Andhaghaaram",
+      "description": "The lives of a blind librarian, dispirited cricketer and desolate psychiatrist seek retribution as their lives coincide under unsettling circumstances.",
+      "startDate": "2026-09-30T05:00:00",
+      "endDate": "2026-09-30T06:00:00",
+      "showTime": "05:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/316f894777f087cc45178cadf678fc88.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Doctor's Talk",
+      "description": "Dr. Eeppan, the host, interacts and discusses various health problems with guest doctors and gives remedial tips for the viewers.",
+      "startDate": "2026-09-30T06:00:00",
+      "endDate": "2026-09-30T06:15:00",
+      "showTime": "06:00:00",
+      "endTime": "06:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f27501ff6d37abc762886d29fa24136.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Andhaghaaram",
+      "description": "The lives of a blind librarian, dispirited cricketer and desolate psychiatrist seek retribution as their lives coincide under unsettling circumstances.",
+      "startDate": "2026-09-30T06:15:00",
+      "endDate": "2026-09-30T08:30:00",
+      "showTime": "06:15:00",
+      "endTime": "08:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/316f894777f087cc45178cadf678fc88.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Boss Engira Baskaran",
+      "description": "A college student decides to start a coaching class to capture the attention of a young teacher he has fallen in love with.",
+      "startDate": "2026-09-30T08:30:00",
+      "endDate": "2026-09-30T11:30:00",
+      "showTime": "08:30:00",
+      "endTime": "11:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/048a5ed614a50d8ab31541d8076d3ee2.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "7:11 PM",
+      "description": "Humans from the future come to earth in order to understand the survival of humans species. Meanwhile, forces are at work to eliminate the human race.",
+      "startDate": "2026-09-30T11:30:00",
+      "endDate": "2026-09-30T14:00:00",
+      "showTime": "11:30:00",
+      "endTime": "14:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4af3ee45dfe2c8e7505e36317a7c80c9.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Ghost",
+      "description": "A gangster and his team hijack a prison in the city on a quest for justice. Eventually, they threaten to release all the criminals.",
+      "startDate": "2026-09-30T14:00:00",
+      "endDate": "2026-09-30T16:30:00",
+      "showTime": "14:00:00",
+      "endTime": "16:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e92d6e1fd1484c0a9d9951a823dc39a9.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Joseph",
+      "description": "Following the death of his ex-wife, a retired police officer, who is known for his investigative prowess, unexpectedly gets pulled into a criminal case involving organ harvesting.",
+      "startDate": "2026-09-30T16:30:00",
+      "endDate": "2026-09-30T19:00:00",
+      "showTime": "16:30:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be16703b60b8e32c9821fd1d0e4cfe32.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "International Series",
+      "description": "International Series",
+      "startDate": "2026-09-30T19:00:00",
+      "endDate": "2026-09-30T19:30:00",
+      "showTime": "19:00:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "International Series",
+      "description": "International Series",
+      "startDate": "2026-09-30T19:30:00",
+      "endDate": "2026-09-30T20:00:00",
+      "showTime": "19:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Maragadha Naanayam",
+      "description": "Senguttuvan and Elango work for a smuggler who hires them to retrieve an emerald medallion, a cursed treasure linked to many deaths. Seeking help, they consult a priest and summon three spirits to locate it.",
+      "startDate": "2026-09-30T20:00:00",
+      "endDate": "2026-09-30T22:30:00",
+      "showTime": "20:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b29242b80281b2384da5c1b6a2672876.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Poojai",
+      "description": "A temple priest gives evidence in court about a murder that he has witnessed. Unfortunately for him, he bears witness against an influential landlord.",
+      "startDate": "2026-09-30T22:30:00",
+      "endDate": "2026-09-30T23:59:59",
+      "showTime": "22:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b5480270f8ef6ad598701f407ec59bb2.jpg"
     }
   ]
 }
