@@ -3642,11 +3642,88 @@
       "showName": "7 PM News",
       "description": "The host invites a panel of experts from different fields to discuss the latest updates and significant events related to current affairs.",
       "startDate": "2026-09-30T18:58:00",
-      "endDate": "2026-09-30T23:59:59",
+      "endDate": "2026-09-30T19:30:00",
       "showTime": "18:58:00",
-      "endTime": "23:59:59",
+      "endTime": "19:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cac2ededc9df69e0cc8bc719cb951a51.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "CHITCHAT",
+      "description": "The host engages in conversations with various famous personalities regarding their careers and experiences in their respective fields of work.",
+      "startDate": "2026-09-30T19:30:00",
+      "endDate": "2026-09-30T20:00:00",
+      "showTime": "19:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56ce13a178eb57d71d916f13f5956776.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Discussion",
+      "description": "The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.",
+      "startDate": "2026-09-30T20:00:00",
+      "endDate": "2026-09-30T20:58:00",
+      "showTime": "20:00:00",
+      "endTime": "20:58:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e0e54e87dadb7409fce8924b710e510.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "News Junction",
+      "description": "The host presents a comprehensive news bulletin comprising the latest regional and national events, updates and developments.",
+      "startDate": "2026-09-30T20:58:00",
+      "endDate": "2026-09-30T21:30:00",
+      "showTime": "20:58:00",
+      "endTime": "21:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/07037c45fce193748f9b024c8a2e6ae8.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Teenmaar Vaarthalu",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-09-30T21:30:00",
+      "endDate": "2026-09-30T21:58:00",
+      "showTime": "21:30:00",
+      "endTime": "21:58:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c6fef5332f10163daf0109b8f7771771.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Hamara Hyderabad",
+      "description": "Citizens from the city of Hyderabad talk about their co-existence in peace and harmony despite their diverse histories, cultures, and religions.",
+      "startDate": "2026-09-30T21:58:00",
+      "endDate": "2026-09-30T22:58:00",
+      "showTime": "21:58:00",
+      "endTime": "22:58:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1b9cf1ae06b4efa8d5279fef3bcb831b.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Late Night News",
+      "description": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+      "startDate": "2026-09-30T22:58:00",
+      "endDate": "2026-09-30T23:30:00",
+      "showTime": "22:58:00",
+      "endTime": "23:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f073c42d3359b82a061ecdc55841db09.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Cinema Talkies",
+      "description": "The host sheds light on the latest happenings, new releases and information about actors in the South Indian film industry.",
+      "startDate": "2026-09-30T23:30:00",
+      "endDate": "2026-09-30T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf7736aa2ed405f575ec6cbe9dd8759c.jpg"
     }
   ]
 }

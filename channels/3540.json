@@ -2982,11 +2982,22 @@
       "showName": "Tendance XXI",
       "description": "Émission dédiée à l'art, la mode, les nouvelles tendances.",
       "startDate": "2026-09-27T01:00:00",
-      "endDate": "2026-09-27T01:43:00",
+      "endDate": "2026-09-27T01:28:00",
       "showTime": "01:00:00",
-      "endTime": "01:43:00",
+      "endTime": "01:28:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee74a25368b3096c371d6f7c05c4c796.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "L'art et la matière",
+      "description": "Mode, artisanat, design, art de vivre et le savoir-faire à la française.",
+      "startDate": "2026-09-27T01:28:00",
+      "endDate": "2026-09-27T01:43:00",
+      "showTime": "01:28:00",
+      "endTime": "01:43:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba5ab1f1e6d06bc34be47b6c065170b1.jpg"
     },
     {
       "serverDate": "2026-09-27",
@@ -3257,11 +3268,33 @@
       "showName": "Tendance XXI",
       "description": "Émission dédiée à l'art, la mode, les nouvelles tendances.",
       "startDate": "2026-09-27T11:00:00",
-      "endDate": "2026-09-27T12:12:00",
+      "endDate": "2026-09-27T11:30:00",
       "showTime": "11:00:00",
-      "endTime": "12:12:00",
+      "endTime": "11:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee74a25368b3096c371d6f7c05c4c796.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "L'art et la matière",
+      "description": "Mode, artisanat, design, art de vivre et le savoir-faire à la française.",
+      "startDate": "2026-09-27T11:30:00",
+      "endDate": "2026-09-27T11:44:00",
+      "showTime": "11:30:00",
+      "endTime": "11:44:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba5ab1f1e6d06bc34be47b6c065170b1.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Passe-moi les jumelles",
+      "description": "Magazine de plein air présentant des reportages axés sur les voyages et la découverte.",
+      "startDate": "2026-09-27T11:44:00",
+      "endDate": "2026-09-27T12:12:00",
+      "showTime": "11:44:00",
+      "endTime": "12:12:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c9cb5793d62c01b879926381ff2acd8.jpg"
     },
     {
       "serverDate": "2026-09-27",
@@ -5237,11 +5270,22 @@
       "showName": "L'art et la matière",
       "description": "Mode, artisanat, design, art de vivre et le savoir-faire à la française.",
       "startDate": "2026-09-30T04:28:00",
-      "endDate": "2026-09-30T05:11:00",
+      "endDate": "2026-09-30T04:43:00",
       "showTime": "04:28:00",
-      "endTime": "05:11:00",
+      "endTime": "04:43:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba5ab1f1e6d06bc34be47b6c065170b1.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "Grandeur nature",
+      "description": "Découvertes, reportages et divertissements sous le signe de l'environnement, de la nature, du grand air. Rendez-vous avec Adrien Joveneau, micro en bandoulière.",
+      "startDate": "2026-09-30T04:43:00",
+      "endDate": "2026-09-30T05:11:00",
+      "showTime": "04:43:00",
+      "endTime": "05:11:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/019ae44b0d59e6ec847fc6a133944383.jpg"
     },
     {
       "serverDate": "2026-09-30",
