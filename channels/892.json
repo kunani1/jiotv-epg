@@ -306,23 +306,23 @@
     },
     {
       "serverDate": "2026-09-25",
-      "showName": "2026 Asian Games",
-      "description": "Coverage of the 20th edition of the multi-sport event. From Aichi Prefecture and Nagoya, Japan.",
+      "showName": "2026 Asian Games Highlights",
+      "description": "2026 Asian Games Highlights",
       "startDate": "2026-09-25T05:30:00",
-      "endDate": "2026-09-25T11:00:00",
+      "endDate": "2026-09-25T06:30:00",
       "showTime": "05:30:00",
-      "endTime": "11:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/010bc06f04ebb8d56e529c31925792ba.jpg"
+      "endTime": "06:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
     },
     {
       "serverDate": "2026-09-25",
       "showName": "2026 Asian Games",
       "description": "Coverage of the 20th edition of the multi-sport event. From Aichi Prefecture and Nagoya, Japan.",
-      "startDate": "2026-09-25T11:00:00",
-      "endDate": "2026-09-25T18:00:00",
-      "showTime": "11:00:00",
-      "endTime": "18:00:00",
+      "startDate": "2026-09-25T06:30:00",
+      "endDate": "2026-09-25T11:00:00",
+      "showTime": "06:30:00",
+      "endTime": "11:00:00",
       "showCategory": "Sports event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/010bc06f04ebb8d56e529c31925792ba.jpg"
     },
@@ -330,31 +330,53 @@
       "serverDate": "2026-09-25",
       "showName": "Sports Extraaa",
       "description": "Prominent sportscasters and sports personalities present their expert opinions, in-depth breakdowns and discipline-specific analysis.",
-      "startDate": "2026-09-25T18:00:00",
-      "endDate": "2026-09-25T19:00:00",
-      "showTime": "18:00:00",
-      "endTime": "19:00:00",
+      "startDate": "2026-09-25T11:00:00",
+      "endDate": "2026-09-25T11:15:00",
+      "showTime": "11:00:00",
+      "endTime": "11:15:00",
       "showCategory": "Sports non-event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/884fb4f933d7f870ab0d1fd8a3768de3.jpg"
     },
     {
       "serverDate": "2026-09-25",
-      "showName": "Snippet",
-      "description": "Bringing the best in television.",
+      "showName": "2026 Asian Games",
+      "description": "Coverage of the 20th edition of the multi-sport event. From Aichi Prefecture and Nagoya, Japan.",
+      "startDate": "2026-09-25T11:15:00",
+      "endDate": "2026-09-25T14:15:00",
+      "showTime": "11:15:00",
+      "endTime": "14:15:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/010bc06f04ebb8d56e529c31925792ba.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "2026 Asian Games",
+      "description": "Coverage of the 20th edition of the multi-sport event. From Aichi Prefecture and Nagoya, Japan.",
+      "startDate": "2026-09-25T14:15:00",
+      "endDate": "2026-09-25T19:00:00",
+      "showTime": "14:15:00",
+      "endTime": "19:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/010bc06f04ebb8d56e529c31925792ba.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Sports Extraaa",
+      "description": "Prominent sportscasters and sports personalities present their expert opinions, in-depth breakdowns and discipline-specific analysis.",
       "startDate": "2026-09-25T19:00:00",
-      "endDate": "2026-09-25T19:18:00",
+      "endDate": "2026-09-25T20:00:00",
       "showTime": "19:00:00",
-      "endTime": "19:18:00",
+      "endTime": "20:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d842d379fcfd33c8abefeba980d1c7bd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/884fb4f933d7f870ab0d1fd8a3768de3.jpg"
     },
     {
       "serverDate": "2026-09-25",
       "showName": "Men's International Soccer Friendlies",
       "description": "Highlights of an International Friendly soccer game where teams compete.",
-      "startDate": "2026-09-25T19:18:00",
+      "startDate": "2026-09-25T20:00:00",
       "endDate": "2026-09-25T21:30:00",
-      "showTime": "19:18:00",
+      "showTime": "20:00:00",
       "endTime": "21:30:00",
       "showCategory": "Sports event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/114d4f3bd23753ca792ace9c2c9167e7.jpg"
@@ -625,14 +647,14 @@
     },
     {
       "serverDate": "2026-09-27",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
+      "showName": "Lords Of England",
+      "description": "A compilation of some of the most iconic innings played by players from all around the world at the Lord's Cricket Ground, England.",
       "startDate": "2026-09-27T02:30:00",
       "endDate": "2026-09-27T03:00:00",
       "showTime": "02:30:00",
       "endTime": "03:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2e5b3c85b4390ca89cc20b6f17194e3f.jpg"
     },
     {
       "serverDate": "2026-09-27",
@@ -812,14 +834,14 @@
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Women's Asia Cup Highlights",
-      "description": "Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.",
+      "showName": "Lords Of England",
+      "description": "A compilation of some of the most iconic innings played by players from all around the world at the Lord's Cricket Ground, England.",
       "startDate": "2026-09-28T02:30:00",
       "endDate": "2026-09-28T03:00:00",
       "showTime": "02:30:00",
       "endTime": "03:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/46cbd619a527be70c379d71cb628a059.jpg"
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2e5b3c85b4390ca89cc20b6f17194e3f.jpg"
     },
     {
       "serverDate": "2026-09-28",
