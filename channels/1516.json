@@ -988,14 +988,25 @@
     },
     {
       "serverDate": "2026-09-26",
-      "showName": "Chitraseema 24Frames",
-      "description": "A host invites popular film personalities from Tollywood to talk about their movies and share interesting trivia from their lives.",
+      "showName": "Sign Language Bulletin",
+      "description": "Sign Language Bulletin",
       "startDate": "2026-09-26T17:00:00",
-      "endDate": "2026-09-26T18:00:00",
+      "endDate": "2026-09-26T17:30:00",
       "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-09-26",
+      "showName": "Navvu Navvinchu",
+      "description": "Renowned comedians take a humorous dig at several issues and entertain the audience with their performance and funny sketches.",
+      "startDate": "2026-09-26T17:30:00",
+      "endDate": "2026-09-26T18:00:00",
+      "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/878b01e6a9832a875f32282f0946d715.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fb28327b7aa30c634bd470d57001eb3b.jpg"
     },
     {
       "serverDate": "2026-09-26",
@@ -1043,14 +1054,25 @@
     },
     {
       "serverDate": "2026-09-26",
-      "showName": "College Days",
-      "description": "The anchors visit various college festivals and host their respective fests which comprise singing, dancing and mimicry, performed by the students.",
+      "showName": "Aapda Ka Saamna",
+      "description": "The host highlights the impact of natural disaster, focusing on relief efforts and how communities can prepare for emergencies, offering crucial readings into disaster management.",
       "startDate": "2026-09-26T20:00:00",
-      "endDate": "2026-09-26T21:00:00",
+      "endDate": "2026-09-26T20:30:00",
       "showTime": "20:00:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3c866f3489c85c87579aa665543cee61.jpg"
+    },
+    {
+      "serverDate": "2026-09-26",
+      "showName": "Indian Classics",
+      "description": "Indian Classics",
+      "startDate": "2026-09-26T20:30:00",
+      "endDate": "2026-09-26T21:00:00",
+      "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/de290d36e995149816fa1470d3c551db.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a7396f1abf421a87d3a1ec82622cebaa.jpg"
     },
     {
       "serverDate": "2026-09-26",
@@ -1285,14 +1307,14 @@
     },
     {
       "serverDate": "2026-09-27",
-      "showName": "Telefilm",
-      "description": "Bringing the best in television.",
+      "showName": "Naa Bhoomi",
+      "description": "An old farmer is pressured to sell his land for money by his family and influential men. However, the farmer is attached to his land and is reluctant to sell it.",
       "startDate": "2026-09-27T12:00:00",
       "endDate": "2026-09-27T13:00:00",
       "showTime": "12:00:00",
       "endTime": "13:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0be36d8dfc816ff7037e78fa2a18ec28.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0a34021dfbabe49e006a35ba327cf21c.jpg"
     },
     {
       "serverDate": "2026-09-27",
@@ -1321,22 +1343,11 @@
       "showName": "Aditya - 369",
       "description": "When an absent-minded professor successfully invents a time machine, Krishna, Hema and a smuggler Raja go to great lengths to procure the machine for their own reasons.",
       "startDate": "2026-09-27T14:00:00",
-      "endDate": "2026-09-27T16:30:00",
+      "endDate": "2026-09-27T17:00:00",
       "showTime": "14:00:00",
-      "endTime": "16:30:00",
+      "endTime": "17:00:00",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b6b0462ab9042ce3c0b62f1007995447.jpg"
-    },
-    {
-      "serverDate": "2026-09-27",
-      "showName": "Cine Geethalu",
-      "description": "The host presents a musical show featuring popular Telugu movie songs playing back-to-back and highlights the singers and composers.",
-      "startDate": "2026-09-27T16:30:00",
-      "endDate": "2026-09-27T17:00:00",
-      "showTime": "16:30:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8d6418e2bca68c55bc04afff1fd1bedc.jpg"
     },
     {
       "serverDate": "2026-09-27",
@@ -1440,7 +1451,7 @@
     {
       "serverDate": "2026-09-27",
       "showName": "Sankalpam",
-      "description": "Sankalpam",
+      "description": "After serving prison time, a reformed burglar lands a job as a bank security guard. Later, he risks everything to protect the bank's treasure from his former gang.",
       "startDate": "2026-09-27T21:30:00",
       "endDate": "2026-09-27T23:59:59",
       "showTime": "21:30:00",
@@ -1704,7 +1715,7 @@
     {
       "serverDate": "2026-09-28",
       "showName": "Sankalpam",
-      "description": "Sankalpam",
+      "description": "After serving prison time, a reformed burglar lands a job as a bank security guard. Later, he risks everything to protect the bank's treasure from his former gang.",
       "startDate": "2026-09-28T14:00:00",
       "endDate": "2026-09-28T16:30:00",
       "showTime": "14:00:00",
