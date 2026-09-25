@@ -8,116 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Movies.png",
   "programs": [
     {
-      "serverDate": "2026-09-23",
-      "showName": "Mugdha Manava",
-      "description": "A movie starring Shubha and Srinath, directed by K S L Swamy.",
-      "startDate": "2026-09-23T00:00:00",
-      "endDate": "2026-09-23T03:00:00",
-      "showTime": "00:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ea421444c4e38d918cdf71954c38ca9c.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "Ranachandi",
-      "description": "Sahana falls in love with Naveen. Later, she is sent to jail for a crime she did not commit and waits to exact revenge from the culprit.",
-      "startDate": "2026-09-23T03:00:00",
-      "endDate": "2026-09-23T06:00:00",
-      "showTime": "03:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/075435ab859d1ae9866fb76d31b9fbf1.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "Movie Filler",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-23T06:00:00",
-      "endDate": "2026-09-23T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "Movie Filler",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-23T06:30:00",
-      "endDate": "2026-09-23T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "Muttaide Bhagya",
-      "description": "Rajashekar, an honest police officer, puts a notorious criminal, Alexander, behind bars. However, when he is released from prison, Alexander seeks revenge by going after Rajashekar's family.",
-      "startDate": "2026-09-23T07:00:00",
-      "endDate": "2026-09-23T10:00:00",
-      "showTime": "07:00:00",
-      "endTime": "10:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e4727daa45f2a2fa035194a53321d59.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "DSP",
-      "description": "After being forced to leave his family due to an altercation with a goon, a man returns as the DSP of his hometown to seek revenge.",
-      "startDate": "2026-09-23T10:00:00",
-      "endDate": "2026-09-23T13:00:00",
-      "showTime": "10:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/361c4ecba9ebaea32e7a1fefc0e50bec.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "Rugged",
-      "description": "To look for better work opportunities, a poor villager relocates to the city, where he gets tangled in a web of crime. Soon, his world turns upside down when he meets the girl of his dreams.",
-      "startDate": "2026-09-23T13:00:00",
-      "endDate": "2026-09-23T16:00:00",
-      "showTime": "13:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/75cdeb73180a80040fa739d6e0572e33.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "Operation Antha",
-      "description": "A courageous band of vigilantes takes on the corrupt underbelly of their city. Guided by their intrepid leader, they embark on a quest to unmask powerful crime lords, risking everything to bring justice and hope to their community.",
-      "startDate": "2026-09-23T16:00:00",
-      "endDate": "2026-09-23T19:00:00",
-      "showTime": "16:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1e4e7160b102032527cd1d3a26a2a082.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "Ramachari",
-      "description": "Rama, a simple man, is appointed to protect Nandini, a rich heiress. Things take a turn when they fall in love and her brothers learn about their affair.",
-      "startDate": "2026-09-23T19:00:00",
-      "endDate": "2026-09-23T22:00:00",
-      "showTime": "19:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b45869322a0b90315cbb5b6f5895e97d.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "Shrirasthu Shubhamasthu",
-      "description": "Movie starring Ramesh Arvind, Anu Prabhakar and directed by Seetharam Karanth.",
-      "startDate": "2026-09-23T22:00:00",
-      "endDate": "2026-09-23T23:59:59",
-      "showTime": "22:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c141655082b20738092b7b96b8d1893.jpg"
-    },
-    {
       "serverDate": "2026-09-24",
       "showName": "Garuda Rekhe",
       "description": "Three men steal a treasure guarded by snakes. However, in the process, when the male snake dies, a female snake follows them to seek revenge.",
@@ -886,6 +776,116 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84ba75f39297960f3e56cda07496282a.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Amarashilpi Jakanachari",
+      "description": "An ordinary man embarks on an extraordinary journey towards becoming a reputed sculptor. Though he encounters many hurdles, it never deters him from achieving his dreams.",
+      "startDate": "2026-10-01T00:00:00",
+      "endDate": "2026-10-01T03:00:00",
+      "showTime": "00:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9bb6768db35d9b7bf7cf4091f1165327.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Dandanayaka",
+      "description": "A zamindar, who is well liked by his people, sets out to get justice for a young girl after she is brutally assaulted by someone.",
+      "startDate": "2026-10-01T03:00:00",
+      "endDate": "2026-10-01T06:00:00",
+      "showTime": "03:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a01960e13bbc93d6a42b404a502fb981.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Movie Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-01T06:00:00",
+      "endDate": "2026-10-01T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Movie Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-01T06:30:00",
+      "endDate": "2026-10-01T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Bharjari Gandu",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-10-01T07:00:00",
+      "endDate": "2026-10-01T10:00:00",
+      "showTime": "07:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6b5a8b7a56ac28f05e35b0dac9ee4f5f.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Prema Entha Madhura",
+      "description": "A young man falls in love with different women at various stages of his life and with each experience, he bears the pain and emotions of separation.",
+      "startDate": "2026-10-01T10:00:00",
+      "endDate": "2026-10-01T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d74291aed9d6f55c0f7c5427a06e7760.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Chowka",
+      "description": "After being wrongfully accused of committing a crime, four friends unite to help their school teacher who is proven guilty of an offence he did not perpetrate.",
+      "startDate": "2026-10-01T13:00:00",
+      "endDate": "2026-10-01T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dfb9193d321178416be17b46d1f2bbb7.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Premotsava",
+      "description": "Bharath is all set to get married to Bhavana, a teacher. However, uncertainty ensues when his former lover, who he believed was dead, enters his life.",
+      "startDate": "2026-10-01T16:00:00",
+      "endDate": "2026-10-01T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b1ec90b0c46cb6f937f70d422d19f4f4.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Abhay",
+      "description": "Abhay falls for Aarti, a woman who is betrothed to an unpleasant man and is running away from her engagement. Later, Aarti shares with him her woes and Abhay devises a plan to save her.",
+      "startDate": "2026-10-01T19:00:00",
+      "endDate": "2026-10-01T22:00:00",
+      "showTime": "19:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3e1563ad96f130867d4de59d3fb1fde6.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Muddina Kanmani",
+      "description": "Shivaram's mother desires a grandson. However, when her daughter-in-law gives birth to a baby girl, Shivaram decides to bring home his friend's newborn son.",
+      "startDate": "2026-10-01T22:00:00",
+      "endDate": "2026-10-01T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/276e07c538504df1e251c7e53d5e646b.jpg"
     }
   ]
 }

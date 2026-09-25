@@ -8,226 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/News18Bangla.png",
   "programs": [
     {
-      "serverDate": "2026-09-23",
-      "showName": "Advertisement",
-      "description": "The host showcases a wide range of products manufactured by popular brands can be purchased from the comfort of one's home.",
-      "startDate": "2026-09-23T00:00:00",
-      "endDate": "2026-09-23T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/04ef0a3e2a13de4564dadb69de7c3602.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "Newsroom Live",
-      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
-      "startDate": "2026-09-23T00:30:00",
-      "endDate": "2026-09-23T06:00:00",
-      "showTime": "00:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "18 Ana Khobor",
-      "description": "18 Ana Khobor",
-      "startDate": "2026-09-23T06:00:00",
-      "endDate": "2026-09-23T07:00:00",
-      "showTime": "06:00:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "Saat Sakal",
-      "description": "The host provides a comprehensive roundup of the week's top stories, covering political, social, economic and sports developments from India and around the globe.",
-      "startDate": "2026-09-23T07:00:00",
-      "endDate": "2026-09-23T08:30:00",
-      "showTime": "07:00:00",
-      "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/611f6dc0c3a488126a4ee60c8a84e3ea.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "Praner Puja Bulletin",
-      "description": "The host collates and presents important news updates and developments pertaining to the Duragapuja celebrations across the state.",
-      "startDate": "2026-09-23T08:30:00",
-      "endDate": "2026-09-23T09:00:00",
-      "showTime": "08:30:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cce112ea609c33827755400a7a103d61.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "18 Ana Khobor",
-      "description": "18 Ana Khobor",
-      "startDate": "2026-09-23T09:00:00",
-      "endDate": "2026-09-23T12:00:00",
-      "showTime": "09:00:00",
-      "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "12 Tar Boro Khabor",
-      "description": "The host presents the latest stories and updates on various areas while providing insights on events and issues in the country and around the world.",
-      "startDate": "2026-09-23T12:00:00",
-      "endDate": "2026-09-23T13:00:00",
-      "showTime": "12:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a18d79e00c6469b17b2a1a30533fbd8f.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "18 Ana Khobor",
-      "description": "18 Ana Khobor",
-      "startDate": "2026-09-23T13:00:00",
-      "endDate": "2026-09-23T16:30:00",
-      "showTime": "13:00:00",
-      "endTime": "16:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "Khobor Fatafat",
-      "description": "Khobor Fatafat",
-      "startDate": "2026-09-23T16:30:00",
-      "endDate": "2026-09-23T17:00:00",
-      "showTime": "16:30:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "Duare Didi",
-      "description": "Duare Didi",
-      "startDate": "2026-09-23T17:00:00",
-      "endDate": "2026-09-23T17:30:00",
-      "showTime": "17:00:00",
-      "endTime": "17:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "Praner Puja Bulletin",
-      "description": "The host collates and presents important news updates and developments pertaining to the Duragapuja celebrations across the state.",
-      "startDate": "2026-09-23T17:30:00",
-      "endDate": "2026-09-23T18:00:00",
-      "showTime": "17:30:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cce112ea609c33827755400a7a103d61.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "Prime Time18",
-      "description": "The host provides the latest information, advancements and developments regarding various political, economic and social issues.",
-      "startDate": "2026-09-23T18:00:00",
-      "endDate": "2026-09-23T19:00:00",
-      "showTime": "18:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c6072330ccb9f98df15de3fa941b9fb.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "Aamar Bangla",
-      "description": "The host talks about the latest socio-economic and political news and updates from various parts of the state of West Bengal.",
-      "startDate": "2026-09-23T19:00:00",
-      "endDate": "2026-09-23T19:30:00",
-      "showTime": "19:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b451d3867abdb7cc9519646bb504fed.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "Aamar Bangla",
-      "description": "The host talks about the latest socio-economic and political news and updates from various parts of the state of West Bengal.",
-      "startDate": "2026-09-23T19:30:00",
-      "endDate": "2026-09-23T20:00:00",
-      "showTime": "19:30:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b451d3867abdb7cc9519646bb504fed.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "18 Ana Khobor",
-      "description": "18 Ana Khobor",
-      "startDate": "2026-09-23T20:00:00",
-      "endDate": "2026-09-23T21:00:00",
-      "showTime": "20:00:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "Newsroom Live",
-      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
-      "startDate": "2026-09-23T21:00:00",
-      "endDate": "2026-09-23T22:00:00",
-      "showTime": "21:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "18 Ana Khobor",
-      "description": "18 Ana Khobor",
-      "startDate": "2026-09-23T22:00:00",
-      "endDate": "2026-09-23T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "Khobordar 2026",
-      "description": "Khobordar 2026",
-      "startDate": "2026-09-23T22:30:00",
-      "endDate": "2026-09-23T23:00:00",
-      "showTime": "22:30:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "Sera 11",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-09-23T23:00:00",
-      "endDate": "2026-09-23T23:30:00",
-      "showTime": "23:00:00",
-      "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d51e1aa0b49dcb20d0b5c1f3732a64db.jpg"
-    },
-    {
-      "serverDate": "2026-09-23",
-      "showName": "18 Ana Khobor",
-      "description": "18 Ana Khobor",
-      "startDate": "2026-09-23T23:30:00",
-      "endDate": "2026-09-23T23:59:59",
-      "showTime": "23:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
       "serverDate": "2026-09-24",
       "showName": "Advertisement",
       "description": "The host showcases a wide range of products manufactured by popular brands can be purchased from the comfort of one's home.",
@@ -544,7 +324,7 @@
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a9ab2a82f03e9d8379d470157ff18d73.jpg"
     },
     {
       "serverDate": "2026-09-25",
@@ -588,7 +368,7 @@
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b451d3867abdb7cc9519646bb504fed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/196bccb9449010bbf381b5d7c8bb1f0c.jpg"
     },
     {
       "serverDate": "2026-09-25",
@@ -599,7 +379,7 @@
       "showTime": "19:30:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b451d3867abdb7cc9519646bb504fed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/196bccb9449010bbf381b5d7c8bb1f0c.jpg"
     },
     {
       "serverDate": "2026-09-25",
@@ -764,7 +544,7 @@
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a9ab2a82f03e9d8379d470157ff18d73.jpg"
     },
     {
       "serverDate": "2026-09-26",
@@ -808,7 +588,7 @@
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b451d3867abdb7cc9519646bb504fed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/196bccb9449010bbf381b5d7c8bb1f0c.jpg"
     },
     {
       "serverDate": "2026-09-26",
@@ -984,7 +764,7 @@
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a9ab2a82f03e9d8379d470157ff18d73.jpg"
     },
     {
       "serverDate": "2026-09-27",
@@ -1028,7 +808,7 @@
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b451d3867abdb7cc9519646bb504fed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/196bccb9449010bbf381b5d7c8bb1f0c.jpg"
     },
     {
       "serverDate": "2026-09-27",
@@ -1424,7 +1204,7 @@
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b451d3867abdb7cc9519646bb504fed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/196bccb9449010bbf381b5d7c8bb1f0c.jpg"
     },
     {
       "serverDate": "2026-09-28",
@@ -1435,7 +1215,7 @@
       "showTime": "19:30:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b451d3867abdb7cc9519646bb504fed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/196bccb9449010bbf381b5d7c8bb1f0c.jpg"
     },
     {
       "serverDate": "2026-09-28",
@@ -1952,7 +1732,7 @@
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b451d3867abdb7cc9519646bb504fed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/196bccb9449010bbf381b5d7c8bb1f0c.jpg"
     },
     {
       "serverDate": "2026-09-29",
@@ -1963,7 +1743,7 @@
       "showTime": "19:30:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b451d3867abdb7cc9519646bb504fed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/196bccb9449010bbf381b5d7c8bb1f0c.jpg"
     },
     {
       "serverDate": "2026-09-29",
@@ -2480,7 +2260,7 @@
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b451d3867abdb7cc9519646bb504fed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/196bccb9449010bbf381b5d7c8bb1f0c.jpg"
     },
     {
       "serverDate": "2026-09-30",
@@ -2491,7 +2271,7 @@
       "showTime": "19:30:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b451d3867abdb7cc9519646bb504fed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/196bccb9449010bbf381b5d7c8bb1f0c.jpg"
     },
     {
       "serverDate": "2026-09-30",
@@ -2580,6 +2360,534 @@
       "endTime": "23:59:59",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/685f503eb321eeae88a94bf747c9346d.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Advertisement",
+      "description": "The host showcases a wide range of products manufactured by popular brands can be purchased from the comfort of one's home.",
+      "startDate": "2026-10-01T00:00:00",
+      "endDate": "2026-10-01T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/04ef0a3e2a13de4564dadb69de7c3602.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Newsroom Live",
+      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
+      "startDate": "2026-10-01T00:30:00",
+      "endDate": "2026-10-01T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Newsroom Live",
+      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
+      "startDate": "2026-10-01T01:00:00",
+      "endDate": "2026-10-01T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Newsroom Live",
+      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
+      "startDate": "2026-10-01T01:30:00",
+      "endDate": "2026-10-01T02:00:00",
+      "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Newsroom Live",
+      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
+      "startDate": "2026-10-01T02:00:00",
+      "endDate": "2026-10-01T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Newsroom Live",
+      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
+      "startDate": "2026-10-01T02:30:00",
+      "endDate": "2026-10-01T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Newsroom Live",
+      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
+      "startDate": "2026-10-01T03:00:00",
+      "endDate": "2026-10-01T03:30:00",
+      "showTime": "03:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Newsroom Live",
+      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
+      "startDate": "2026-10-01T03:30:00",
+      "endDate": "2026-10-01T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Newsroom Live",
+      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
+      "startDate": "2026-10-01T04:00:00",
+      "endDate": "2026-10-01T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Newsroom Live",
+      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
+      "startDate": "2026-10-01T04:30:00",
+      "endDate": "2026-10-01T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Newsroom Live",
+      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
+      "startDate": "2026-10-01T05:00:00",
+      "endDate": "2026-10-01T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Newsroom Live",
+      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
+      "startDate": "2026-10-01T05:30:00",
+      "endDate": "2026-10-01T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Khobor Dinbhor",
+      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city.",
+      "startDate": "2026-10-01T06:00:00",
+      "endDate": "2026-10-01T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/685f503eb321eeae88a94bf747c9346d.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Speed News",
+      "description": "The host presents a quick update on the top stories of the day ranging from politics and business to sports and entertainment.",
+      "startDate": "2026-10-01T06:30:00",
+      "endDate": "2026-10-01T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1d5b4b4146903d1f4d4a09fa5ce5951e.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Khobor Dinbhor",
+      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city.",
+      "startDate": "2026-10-01T07:00:00",
+      "endDate": "2026-10-01T07:30:00",
+      "showTime": "07:00:00",
+      "endTime": "07:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/685f503eb321eeae88a94bf747c9346d.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Speed News",
+      "description": "The host presents a quick update on the top stories of the day ranging from politics and business to sports and entertainment.",
+      "startDate": "2026-10-01T07:30:00",
+      "endDate": "2026-10-01T08:00:00",
+      "showTime": "07:30:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1d5b4b4146903d1f4d4a09fa5ce5951e.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Ek Phone-E Bangla",
+      "description": "The host presents information on the latest news stories and developments pertaining to socio-economic and political issues and provides updates on current events.",
+      "startDate": "2026-10-01T08:00:00",
+      "endDate": "2026-10-01T08:30:00",
+      "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5fe4c32c6a0ed5411c7880fd4e12a801.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Morning Superfast",
+      "description": "The host presents the latest news updates and development pertaining to various events from the world of business, politics, entertainment and sports.",
+      "startDate": "2026-10-01T08:30:00",
+      "endDate": "2026-10-01T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5ebab90f50179cf5dfed46f2b239d307.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Najare Bangla",
+      "description": "The host presents the latest news, updates and cutting-edge developments to offer insights on the most pressing issues of the day.",
+      "startDate": "2026-10-01T09:00:00",
+      "endDate": "2026-10-01T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5f25446f5e858974b9548ce793641af9.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Morning Superfast",
+      "description": "The host presents the latest news updates and development pertaining to various events from the world of business, politics, entertainment and sports.",
+      "startDate": "2026-10-01T09:30:00",
+      "endDate": "2026-10-01T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5ebab90f50179cf5dfed46f2b239d307.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Top News@10",
+      "description": "The host presents information on the latest news stories and developments pertaining to socio-economic and political issues and provides updates on current events.",
+      "startDate": "2026-10-01T10:00:00",
+      "endDate": "2026-10-01T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b2632728ee07d8054a1f9343338c53de.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Jhoro Ponero",
+      "description": "The host presents information on the latest news stories and developments pertaining to socio-economic and political issues and provides updates on current events.",
+      "startDate": "2026-10-01T10:30:00",
+      "endDate": "2026-10-01T11:00:00",
+      "showTime": "10:30:00",
+      "endTime": "11:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4926b766cecda1773a1f00fc6cb4202a.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Khobor Dinbhor",
+      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city.",
+      "startDate": "2026-10-01T11:00:00",
+      "endDate": "2026-10-01T11:30:00",
+      "showTime": "11:00:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/685f503eb321eeae88a94bf747c9346d.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Jhoro Ponero",
+      "description": "The host presents information on the latest news stories and developments pertaining to socio-economic and political issues and provides updates on current events.",
+      "startDate": "2026-10-01T11:30:00",
+      "endDate": "2026-10-01T12:00:00",
+      "showTime": "11:30:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4926b766cecda1773a1f00fc6cb4202a.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Khobor Dinbhor",
+      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city.",
+      "startDate": "2026-10-01T12:00:00",
+      "endDate": "2026-10-01T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/685f503eb321eeae88a94bf747c9346d.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Khobor Dinbhor",
+      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city.",
+      "startDate": "2026-10-01T12:30:00",
+      "endDate": "2026-10-01T13:00:00",
+      "showTime": "12:30:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/685f503eb321eeae88a94bf747c9346d.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Khobor Dinbhor",
+      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city.",
+      "startDate": "2026-10-01T13:00:00",
+      "endDate": "2026-10-01T13:30:00",
+      "showTime": "13:00:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/685f503eb321eeae88a94bf747c9346d.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Khobor Dinbhor",
+      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city.",
+      "startDate": "2026-10-01T13:30:00",
+      "endDate": "2026-10-01T14:00:00",
+      "showTime": "13:30:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/685f503eb321eeae88a94bf747c9346d.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Jela Express",
+      "description": "The host presents an analysis of the latest news stories, updates and developments from the various districts of West Bengal in a quick succession.",
+      "startDate": "2026-10-01T14:00:00",
+      "endDate": "2026-10-01T14:30:00",
+      "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/95be50df7c29a4bca5165f3faef0cfe3.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Khobor Dinbhor",
+      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city.",
+      "startDate": "2026-10-01T14:30:00",
+      "endDate": "2026-10-01T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/685f503eb321eeae88a94bf747c9346d.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Khobor Dinbhor",
+      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city.",
+      "startDate": "2026-10-01T15:00:00",
+      "endDate": "2026-10-01T15:30:00",
+      "showTime": "15:00:00",
+      "endTime": "15:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/685f503eb321eeae88a94bf747c9346d.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Khobor Dinbhor",
+      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city.",
+      "startDate": "2026-10-01T15:30:00",
+      "endDate": "2026-10-01T16:00:00",
+      "showTime": "15:30:00",
+      "endTime": "16:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/685f503eb321eeae88a94bf747c9346d.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "News18 Prime",
+      "description": "The host sheds light on the latest and most important socio-economic and political news, updates and developments.",
+      "startDate": "2026-10-01T16:00:00",
+      "endDate": "2026-10-01T16:30:00",
+      "showTime": "16:00:00",
+      "endTime": "16:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/efce35e9db81a248cd075b037009b4ac.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "News18 Prime",
+      "description": "The host sheds light on the latest and most important socio-economic and political news, updates and developments.",
+      "startDate": "2026-10-01T16:30:00",
+      "endDate": "2026-10-01T17:00:00",
+      "showTime": "16:30:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/efce35e9db81a248cd075b037009b4ac.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "5 Tar 5 Meshali",
+      "description": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country.",
+      "startDate": "2026-10-01T17:00:00",
+      "endDate": "2026-10-01T17:30:00",
+      "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5d473794cf78350ec276922f294bd1f9.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Jela Express",
+      "description": "The host presents an analysis of the latest news stories, updates and developments from the various districts of West Bengal in a quick succession.",
+      "startDate": "2026-10-01T17:30:00",
+      "endDate": "2026-10-01T18:00:00",
+      "showTime": "17:30:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/95be50df7c29a4bca5165f3faef0cfe3.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Jela Theke Sarasari",
+      "description": "The host presents the latest news updates and stories pertaining to events of social, political and economic significance.",
+      "startDate": "2026-10-01T18:00:00",
+      "endDate": "2026-10-01T18:30:00",
+      "showTime": "18:00:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c50536b1a81e086f6e2bde08999eeda.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Speed News",
+      "description": "The host presents a quick update on the top stories of the day ranging from politics and business to sports and entertainment.",
+      "startDate": "2026-10-01T18:30:00",
+      "endDate": "2026-10-01T19:00:00",
+      "showTime": "18:30:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1d5b4b4146903d1f4d4a09fa5ce5951e.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Aamar Bangla",
+      "description": "The host talks about the latest socio-economic and political news and updates from various parts of the state of West Bengal.",
+      "startDate": "2026-10-01T19:00:00",
+      "endDate": "2026-10-01T19:30:00",
+      "showTime": "19:00:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/196bccb9449010bbf381b5d7c8bb1f0c.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Speed News",
+      "description": "The host presents a quick update on the top stories of the day ranging from politics and business to sports and entertainment.",
+      "startDate": "2026-10-01T19:30:00",
+      "endDate": "2026-10-01T20:00:00",
+      "showTime": "19:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1d5b4b4146903d1f4d4a09fa5ce5951e.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Duare Reporter",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-10-01T20:00:00",
+      "endDate": "2026-10-01T20:30:00",
+      "showTime": "20:00:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/69dbcaa362bd7176116873c95f5873af.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Duare Reporter",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-10-01T20:30:00",
+      "endDate": "2026-10-01T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/69dbcaa362bd7176116873c95f5873af.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Newsroom Live",
+      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
+      "startDate": "2026-10-01T21:00:00",
+      "endDate": "2026-10-01T21:30:00",
+      "showTime": "21:00:00",
+      "endTime": "21:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Newsroom Live",
+      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
+      "startDate": "2026-10-01T21:30:00",
+      "endDate": "2026-10-01T22:00:00",
+      "showTime": "21:30:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Khobor Dinbhor",
+      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city.",
+      "startDate": "2026-10-01T22:00:00",
+      "endDate": "2026-10-01T22:30:00",
+      "showTime": "22:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/685f503eb321eeae88a94bf747c9346d.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Speed News",
+      "description": "The host presents a quick update on the top stories of the day ranging from politics and business to sports and entertainment.",
+      "startDate": "2026-10-01T22:30:00",
+      "endDate": "2026-10-01T23:00:00",
+      "showTime": "22:30:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1d5b4b4146903d1f4d4a09fa5ce5951e.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Sera 11",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-10-01T23:00:00",
+      "endDate": "2026-10-01T23:30:00",
+      "showTime": "23:00:00",
+      "endTime": "23:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d51e1aa0b49dcb20d0b5c1f3732a64db.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "Speed News",
+      "description": "The host presents a quick update on the top stories of the day ranging from politics and business to sports and entertainment.",
+      "startDate": "2026-10-01T23:30:00",
+      "endDate": "2026-10-01T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1d5b4b4146903d1f4d4a09fa5ce5951e.jpg"
     }
   ]
 }
