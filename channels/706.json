@@ -8,6 +8,435 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Saptagiri.png",
   "programs": [
     {
+      "serverDate": "2026-09-25",
+      "showName": "Classical Music",
+      "description": "A comprehensive compilation of melodious songs composed and performed by renowned composers and artists in classical music.",
+      "startDate": "2026-09-25T00:00:00",
+      "endDate": "2026-09-25T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/49287101b09322355d1c83ee49be790a.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Ee Prasnaku Baduledi",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-25T01:00:00",
+      "endDate": "2026-09-25T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f651291a753f0feb01363236ad70a55b.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Srinivasa Kalyanam",
+      "description": "Srinivas, a simple man, falls in love with Mahalakshmi. However, in order to keep his family happy and united, he has to abandon his love and marry the girl of their choosing.",
+      "startDate": "2026-09-25T01:30:00",
+      "endDate": "2026-09-25T02:00:00",
+      "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58548da797f960f34cab2ce78d724b00.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Vivahabandham",
+      "description": "A girl from a middle class family and a rich boy with extremely opposite lifestyle fall for each other. However, their journey unfolds several challenges.",
+      "startDate": "2026-09-25T02:00:00",
+      "endDate": "2026-09-25T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fabec6ff363d9118b034d0a956b21c84.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Naalugomudi",
+      "description": "Naalugomudi",
+      "startDate": "2026-09-25T02:30:00",
+      "endDate": "2026-09-25T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6bf51cb3391458a2f960db7481f130fc.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Classical Music",
+      "description": "A comprehensive compilation of melodious songs composed and performed by renowned composers and artists in classical music.",
+      "startDate": "2026-09-25T03:00:00",
+      "endDate": "2026-09-25T05:00:00",
+      "showTime": "03:00:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/49287101b09322355d1c83ee49be790a.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Vandemataram Song",
+      "description": "A compilation of patriotic songs glorifying the greatness and unity of India and performed by various artists is played back to back.",
+      "startDate": "2026-09-25T05:00:00",
+      "endDate": "2026-09-25T05:03:00",
+      "showTime": "05:00:00",
+      "endTime": "05:03:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/520d42365460c6be10cfc9144676a85e.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Nadaswaram",
+      "description": "Professional musicians play classical compositions on the nadaswaram, a traditional South Indian wind instrument, and enthrall the viewers.",
+      "startDate": "2026-09-25T05:03:00",
+      "endDate": "2026-09-25T05:30:00",
+      "showTime": "05:03:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2c6b52dfc8daf97c257425dc3c3f7663.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Devotional Music",
+      "description": "A comprehensive compilation of popular melodious hymns in praise of different gods and goddesses is played back to back.",
+      "startDate": "2026-09-25T05:30:00",
+      "endDate": "2026-09-25T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5311c67ee81009f02c07709d448cd44.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Archana",
+      "description": "Religious priests and devotees offer prayers and perform sacred rituals to seek the blessings of the Almighty at a place of worship.",
+      "startDate": "2026-09-25T06:00:00",
+      "endDate": "2026-09-25T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d25c8aadef00937c8ef95049c4bfeab.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Sanskrit News",
+      "description": "The host presents the latest updates pertaining to various important current affairs, religious and cultural events in Sanskrit.",
+      "startDate": "2026-09-25T06:30:00",
+      "endDate": "2026-09-25T06:45:00",
+      "showTime": "06:30:00",
+      "endTime": "06:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/15cb6286f4a3b9df2df1ecb3ad9d5b00.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Yogaandhra",
+      "description": "Yogaandhra",
+      "startDate": "2026-09-25T06:45:00",
+      "endDate": "2026-09-25T07:00:00",
+      "showTime": "06:45:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/00243fd808f07aa9e0ac47c74d405a60.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Pasidipantalu",
+      "description": "The host talks about the latest tools, methods and technology used in agriculture and shares helpful and insightful farming tips.",
+      "startDate": "2026-09-25T07:00:00",
+      "endDate": "2026-09-25T07:30:00",
+      "showTime": "07:00:00",
+      "endTime": "07:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1e940a8dfa38f58a4656946274f11da8.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Pravachanalu",
+      "description": "Different religious scholars provide insight on an array of topics concerning Hinduism, including how to seek God in daily life.",
+      "startDate": "2026-09-25T07:30:00",
+      "endDate": "2026-09-25T08:00:00",
+      "showTime": "07:30:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/75c63808116adf1e7eb6ba001f29231a.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Vartalu",
+      "description": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+      "startDate": "2026-09-25T08:00:00",
+      "endDate": "2026-09-25T08:30:00",
+      "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/727dfc02e1b4597a33074d263eae5566.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Sankata Mochana Hanuman",
+      "description": "Lord Hanuman grows up to become a devout follower of Lord Rama and is fiercely loyal to him. He helps Lord Rama defeat Ravana, a wicked king.",
+      "startDate": "2026-09-25T08:30:00",
+      "endDate": "2026-09-25T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a3424bc36f1004b7fe46f5db1580ae58.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Ee Prasnaku Baduledi",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-25T09:00:00",
+      "endDate": "2026-09-25T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f651291a753f0feb01363236ad70a55b.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Srinivasa Kalyanam",
+      "description": "Srinivas, a simple man, falls in love with Mahalakshmi. However, in order to keep his family happy and united, he has to abandon his love and marry the girl of their choosing.",
+      "startDate": "2026-09-25T09:30:00",
+      "endDate": "2026-09-25T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58548da797f960f34cab2ce78d724b00.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Classical Dance",
+      "description": "Artists adept in the various forms of Indian classical dance perform an inspiring and captivating recital to enthrall the audience.",
+      "startDate": "2026-09-25T10:00:00",
+      "endDate": "2026-09-25T11:00:00",
+      "showTime": "10:00:00",
+      "endTime": "11:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/42fdb37804e3f815b4c8a932305a9752.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Career Guidance",
+      "description": "The host interacts with experts to shed light on employment opportunities, offering an extensive career guide based on skills and interests.",
+      "startDate": "2026-09-25T11:00:00",
+      "endDate": "2026-09-25T12:00:00",
+      "showTime": "11:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5f9797d3b4f732043abb28979423b114.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Hellosaptagiri Phone In",
+      "description": "Experts from different fields answer phone calls from viewers and clarify their queries regarding various issues and topics.",
+      "startDate": "2026-09-25T12:00:00",
+      "endDate": "2026-09-25T13:00:00",
+      "showTime": "12:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8414883678639571c08dca53f0421e53.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Vartalu",
+      "description": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+      "startDate": "2026-09-25T13:00:00",
+      "endDate": "2026-09-25T13:30:00",
+      "showTime": "13:00:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/727dfc02e1b4597a33074d263eae5566.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Amma Ko Muddu",
+      "description": "Join us to witness the lives of mothers, their importance in everyday life and how their presence in the household changes everything.",
+      "startDate": "2026-09-25T13:30:00",
+      "endDate": "2026-09-25T14:00:00",
+      "showTime": "13:30:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1fb066dbf1ac8bacd79e1fe333ff2547.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Vivahabandham",
+      "description": "A girl from a middle class family and a rich boy with extremely opposite lifestyle fall for each other. However, their journey unfolds several challenges.",
+      "startDate": "2026-09-25T14:00:00",
+      "endDate": "2026-09-25T14:30:00",
+      "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fabec6ff363d9118b034d0a956b21c84.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Naalugomudi",
+      "description": "Naalugomudi",
+      "startDate": "2026-09-25T14:30:00",
+      "endDate": "2026-09-25T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6bf51cb3391458a2f960db7481f130fc.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Nyayavedika",
+      "description": "The host engages in a conversation with legal experts, who provide a comprehensive insight into various matters pertaining to the law.",
+      "startDate": "2026-09-25T15:00:00",
+      "endDate": "2026-09-25T16:00:00",
+      "showTime": "15:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df8779477a85d4c4294adfeffd99c3f3.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Hellosaptagiri Phone In",
+      "description": "Experts from different fields answer phone calls from viewers and clarify their queries regarding various issues and topics.",
+      "startDate": "2026-09-25T16:00:00",
+      "endDate": "2026-09-25T17:00:00",
+      "showTime": "16:00:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8414883678639571c08dca53f0421e53.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "District News Bulletin",
+      "description": "The host presents the latest news updates concerning the political, social, economic and sports fronts from across all the districts of the state.",
+      "startDate": "2026-09-25T17:00:00",
+      "endDate": "2026-09-25T17:10:00",
+      "showTime": "17:00:00",
+      "endTime": "17:10:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ac61d94d7bc2c22d50041581e958515.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Maryada Ramanna",
+      "description": "A man appointed at the royal court solves inadvertent problems cropping up across the kingdom and is appreciated by the ruler for his wit and wisdom.",
+      "startDate": "2026-09-25T17:10:00",
+      "endDate": "2026-09-25T17:30:00",
+      "showTime": "17:10:00",
+      "endTime": "17:30:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cf557902d74cf72df8ec95cc8b9dcf7c.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Navya",
+      "description": "The anchor explores the world of women's interests, highlighting their diverse tastes and preferences such as beauty, health as well as cooking.",
+      "startDate": "2026-09-25T17:30:00",
+      "endDate": "2026-09-25T18:00:00",
+      "showTime": "17:30:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3dc66487a3bf1f6ac043eddf14a864a4.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Pasidipantalu",
+      "description": "The host talks about the latest tools, methods and technology used in agriculture and shares helpful and insightful farming tips.",
+      "startDate": "2026-09-25T18:00:00",
+      "endDate": "2026-09-25T19:00:00",
+      "showTime": "18:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1e940a8dfa38f58a4656946274f11da8.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Vartalu",
+      "description": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+      "startDate": "2026-09-25T19:00:00",
+      "endDate": "2026-09-25T19:30:00",
+      "showTime": "19:00:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/727dfc02e1b4597a33074d263eae5566.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Vivahabandham",
+      "description": "A girl from a middle class family and a rich boy with extremely opposite lifestyle fall for each other. However, their journey unfolds several challenges.",
+      "startDate": "2026-09-25T19:30:00",
+      "endDate": "2026-09-25T20:00:00",
+      "showTime": "19:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fabec6ff363d9118b034d0a956b21c84.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Naalugomudi",
+      "description": "Naalugomudi",
+      "startDate": "2026-09-25T20:00:00",
+      "endDate": "2026-09-25T20:30:00",
+      "showTime": "20:00:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6bf51cb3391458a2f960db7481f130fc.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Sankata Mochana Hanuman",
+      "description": "Lord Hanuman grows up to become a devout follower of Lord Rama and is fiercely loyal to him. He helps Lord Rama defeat Ravana, a wicked king.",
+      "startDate": "2026-09-25T20:30:00",
+      "endDate": "2026-09-25T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a3424bc36f1004b7fe46f5db1580ae58.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Amma Ko Muddu",
+      "description": "Join us to witness the lives of mothers, their importance in everyday life and how their presence in the household changes everything.",
+      "startDate": "2026-09-25T21:00:00",
+      "endDate": "2026-09-25T21:30:00",
+      "showTime": "21:00:00",
+      "endTime": "21:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1fb066dbf1ac8bacd79e1fe333ff2547.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Vartalu",
+      "description": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+      "startDate": "2026-09-25T21:30:00",
+      "endDate": "2026-09-25T22:00:00",
+      "showTime": "21:30:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/727dfc02e1b4597a33074d263eae5566.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Career Guidance",
+      "description": "The host interacts with experts to shed light on employment opportunities, offering an extensive career guide based on skills and interests.",
+      "startDate": "2026-09-25T22:00:00",
+      "endDate": "2026-09-25T23:00:00",
+      "showTime": "22:00:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5f9797d3b4f732043abb28979423b114.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Hellosaptagiri Phone In",
+      "description": "Experts from different fields answer phone calls from viewers and clarify their queries regarding various issues and topics.",
+      "startDate": "2026-09-25T23:00:00",
+      "endDate": "2026-09-25T23:59:59",
+      "showTime": "23:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8414883678639571c08dca53f0421e53.jpg"
+    },
+    {
       "serverDate": "2026-09-26",
       "showName": "Classical Dance",
       "description": "Artists adept in the various forms of Indian classical dance perform an inspiring and captivating recital to enthrall the audience.",
@@ -570,25 +999,25 @@
     },
     {
       "serverDate": "2026-09-27",
-      "showName": "Maryada Ramanna",
-      "description": "A man appointed at the royal court solves inadvertent problems cropping up across the kingdom and is appreciated by the ruler for his wit and wisdom.",
+      "showName": "Pasidipantalu",
+      "description": "The host talks about the latest tools, methods and technology used in agriculture and shares helpful and insightful farming tips.",
       "startDate": "2026-09-27T07:00:00",
       "endDate": "2026-09-27T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cf557902d74cf72df8ec95cc8b9dcf7c.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1e940a8dfa38f58a4656946274f11da8.jpg"
     },
     {
       "serverDate": "2026-09-27",
-      "showName": "Darshaniyasthalalu",
-      "description": "Devotees from different parts of the country visit various temples to offer their prayers and seek blessings of the deities.",
+      "showName": "Pravachanalu",
+      "description": "Different religious scholars provide insight on an array of topics concerning Hinduism, including how to seek God in daily life.",
       "startDate": "2026-09-27T07:30:00",
       "endDate": "2026-09-27T08:00:00",
       "showTime": "07:30:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b0345c1c8debb195f756a1fe41c9ad49.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/75c63808116adf1e7eb6ba001f29231a.jpg"
     },
     {
       "serverDate": "2026-09-27",
@@ -614,80 +1043,91 @@
     },
     {
       "serverDate": "2026-09-27",
-      "showName": "Sabash Andhrapradesh",
-      "description": "The host sheds light on the rich history, unique art forms, diverse culture, and delicious cuisines of the state of Andhra Pradesh.",
+      "showName": "Puranalu And Modern Science",
+      "description": "The host delves into the fascinating connections between ancient Indian literature and modern scientific discoveries, bridging past wisdom with current knowledge.",
       "startDate": "2026-09-27T09:00:00",
-      "endDate": "2026-09-27T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2039589ac93e7f645abd577c55f2838d.jpg"
-    },
-    {
-      "serverDate": "2026-09-27",
-      "showName": "Mana Amaravathi Kathalu",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-27T09:30:00",
       "endDate": "2026-09-27T10:00:00",
-      "showTime": "09:30:00",
+      "showTime": "09:00:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4ba6529a125d5aea5a5a10d8051bf3cb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5ed2c9b524d7f375d6b87aafb3f583c.jpg"
     },
     {
       "serverDate": "2026-09-27",
-      "showName": "Hellosaptagiri Phone In",
-      "description": "Experts from different fields answer phone calls from viewers and clarify their queries regarding various issues and topics.",
+      "showName": "Maryada Ramanna",
+      "description": "A man appointed at the royal court solves inadvertent problems cropping up across the kingdom and is appreciated by the ruler for his wit and wisdom.",
       "startDate": "2026-09-27T10:00:00",
-      "endDate": "2026-09-27T11:00:00",
+      "endDate": "2026-09-27T10:20:00",
       "showTime": "10:00:00",
+      "endTime": "10:20:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cf557902d74cf72df8ec95cc8b9dcf7c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Career Guidance",
+      "description": "The host interacts with experts to shed light on employment opportunities, offering an extensive career guide based on skills and interests.",
+      "startDate": "2026-09-27T10:20:00",
+      "endDate": "2026-09-27T11:00:00",
+      "showTime": "10:20:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8414883678639571c08dca53f0421e53.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5f9797d3b4f732043abb28979423b114.jpg"
     },
     {
       "serverDate": "2026-09-27",
-      "showName": "KTB: Bharat Hain Hum",
-      "description": "Three animal storytellers, Krish, Trish and Baltiboy, share vivid stories about India's courageous and relentless fight for independence.",
+      "showName": "Mann Ki Baat",
+      "description": "The prime minister of India addresses the citizens and speaks to them about various development initiatives and solutions undertaken by the Government of India.",
       "startDate": "2026-09-27T11:00:00",
-      "endDate": "2026-09-27T11:15:00",
-      "showTime": "11:00:00",
-      "endTime": "11:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10feb72db5bb4a7c1703df5120a669cd.jpg"
-    },
-    {
-      "serverDate": "2026-09-27",
-      "showName": "KTB: Bharat Hain Hum",
-      "description": "Three animal storytellers, Krish, Trish and Baltiboy, share vivid stories about India's courageous and relentless fight for independence.",
-      "startDate": "2026-09-27T11:15:00",
       "endDate": "2026-09-27T11:30:00",
-      "showTime": "11:15:00",
+      "showTime": "11:00:00",
       "endTime": "11:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10feb72db5bb4a7c1703df5120a669cd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/edd1518997e7e47f68785be1a0a43142.jpg"
     },
     {
       "serverDate": "2026-09-27",
-      "showName": "Vivaha Bandham",
-      "description": "Despite their extremely different lifestyles, a girl from a middle-class family and a rich boy fall for each other. However, their journey unfolds several challenges.",
+      "showName": "Mann Ki Baat",
+      "description": "The prime minister of India addresses the citizens and speaks to them about various development initiatives and solutions undertaken by the Government of India.",
       "startDate": "2026-09-27T11:30:00",
       "endDate": "2026-09-27T12:00:00",
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cc1ae4d92f3b469844bb14b7dba24703.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/edd1518997e7e47f68785be1a0a43142.jpg"
     },
     {
       "serverDate": "2026-09-27",
-      "showName": "Pm Schemes",
-      "description": "The host highlights government schemes, raising awareness about initiatives that provide free education, housing and job opportunities for citizens across different sectors.",
+      "showName": "Mann Ki Baat",
+      "description": "The prime minister of India addresses the citizens and speaks to them about various development initiatives and solutions undertaken by the Government of India.",
       "startDate": "2026-09-27T12:00:00",
-      "endDate": "2026-09-27T13:00:00",
+      "endDate": "2026-09-27T12:15:00",
       "showTime": "12:00:00",
+      "endTime": "12:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/edd1518997e7e47f68785be1a0a43142.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Bhamidipati Ramagopalam Kathalu",
+      "description": "A compilation of short stories by Telugu writer Bhamidipati Ramagopalam that revolve around human emotions and experiences is presented.",
+      "startDate": "2026-09-27T12:15:00",
+      "endDate": "2026-09-27T12:30:00",
+      "showTime": "12:15:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18e0532fcb982f83dacb9787e5cf8b38.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Mutyalaharam",
+      "description": "A religious practitioner provides a detailed discourse on various spiritual teachings to devotees and encourages them to lead a faithful life.",
+      "startDate": "2026-09-27T12:30:00",
+      "endDate": "2026-09-27T13:00:00",
+      "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9385eb67034b829a8e63f722323141c7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84075ef93f122a480124e534a9651bae.jpg"
     },
     {
       "serverDate": "2026-09-27",
@@ -702,47 +1142,58 @@
     },
     {
       "serverDate": "2026-09-27",
-      "showName": "Youth Programme",
+      "showName": "Sports Programme",
       "description": "Bringing the best in television.",
       "startDate": "2026-09-27T13:30:00",
       "endDate": "2026-09-27T14:00:00",
       "showTime": "13:30:00",
       "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ae626efe27f4a068fc6272aa6d1b9f45.jpg"
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5933375957e3bf09517a4cd005f5213b.jpg"
     },
     {
       "serverDate": "2026-09-27",
-      "showName": "Quiz",
-      "description": "Charles Ingram, a former army major, ends up winning a million pounds cash prize on a popular game show. However, soon, his fraud comes to light, making him face criminal charges.",
+      "showName": "Cinema Quiz",
+      "description": "The host asks callers a wide range of questions related to popular regional films and those who give correct answers win attractive prizes.",
       "startDate": "2026-09-27T14:00:00",
       "endDate": "2026-09-27T15:00:00",
       "showTime": "14:00:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a8d434e389d033b146823497708a60a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/51d8b19849eba593e4c55092e70c3536.jpg"
     },
     {
       "serverDate": "2026-09-27",
       "showName": "Tarane Purane",
       "description": "A comprehensive compilation of some of the most famous old Bollywood songs, composed by well-known artists and singers are played.",
       "startDate": "2026-09-27T15:00:00",
-      "endDate": "2026-09-27T15:20:00",
+      "endDate": "2026-09-27T15:30:00",
       "showTime": "15:00:00",
-      "endTime": "15:20:00",
+      "endTime": "15:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/424cc8b5ae2648b855fd1672f5158f88.jpg"
     },
     {
       "serverDate": "2026-09-27",
-      "showName": "Om Namah Shivaya",
-      "description": "Religious leaders and devotees chant a powerful mantra sung in respect and adoration of Lord Shiva and seek his blessings.",
-      "startDate": "2026-09-27T15:20:00",
+      "showName": "Meet Mr Anjaneyulu",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-27T15:30:00",
+      "endDate": "2026-09-27T16:00:00",
+      "showTime": "15:30:00",
+      "endTime": "16:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29cd877397630ba0997ca1120b8c80ef.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Pm Schemes",
+      "description": "The host highlights government schemes, raising awareness about initiatives that provide free education, housing and job opportunities for citizens across different sectors.",
+      "startDate": "2026-09-27T16:00:00",
       "endDate": "2026-09-27T17:00:00",
-      "showTime": "15:20:00",
+      "showTime": "16:00:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/591344e3023b7157c581fcc1adc5191b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9385eb67034b829a8e63f722323141c7.jpg"
     },
     {
       "serverDate": "2026-09-27",
@@ -779,14 +1230,14 @@
     },
     {
       "serverDate": "2026-09-27",
-      "showName": "Vartalu",
-      "description": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+      "showName": "Varthalu News In Telugu",
+      "description": "The presenter provides the latest updates on various socio-political and economic events occurring around the nation and globe.",
       "startDate": "2026-09-27T19:00:00",
       "endDate": "2026-09-27T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/727dfc02e1b4597a33074d263eae5566.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/07a6fd1db9275e539dfdb72231e2e325.jpg"
     },
     {
       "serverDate": "2026-09-27",
@@ -801,25 +1252,25 @@
     },
     {
       "serverDate": "2026-09-27",
-      "showName": "Comedy Kaja",
-      "description": "Bringing the best in television.",
+      "showName": "Mann Ki Baat",
+      "description": "The prime minister of India addresses the citizens and speaks to them about various development initiatives and solutions undertaken by the Government of India.",
       "startDate": "2026-09-27T20:00:00",
       "endDate": "2026-09-27T20:30:00",
       "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/330ac80ebb71d704587ab5f6591332d1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/edd1518997e7e47f68785be1a0a43142.jpg"
     },
     {
       "serverDate": "2026-09-27",
-      "showName": "Navvu Navvinchu",
-      "description": "Renowned comedians take a humorous dig at several issues and entertain the audience with their performance and funny sketches.",
+      "showName": "Nyayavedika",
+      "description": "The host engages in a conversation with legal experts, who provide a comprehensive insight into various matters pertaining to the law.",
       "startDate": "2026-09-27T20:30:00",
       "endDate": "2026-09-27T21:30:00",
       "showTime": "20:30:00",
       "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fb28327b7aa30c634bd470d57001eb3b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df8779477a85d4c4294adfeffd99c3f3.jpg"
     },
     {
       "serverDate": "2026-09-27",
@@ -834,91 +1285,91 @@
     },
     {
       "serverDate": "2026-09-27",
-      "showName": "Hello Saptagiri",
-      "description": "Mimicry artist Bapiraji interacts with callers and encourages them to sing or crack and also entertains the audience by impersonating various personalities.",
+      "showName": "Navvu Navinchu",
+      "description": "A group of professional actors perform a series of humorous sketches on stage in order to entertain the audience and guests.",
       "startDate": "2026-09-27T22:00:00",
       "endDate": "2026-09-27T23:00:00",
       "showTime": "22:00:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/20901ec3d46af3fdd7a98eed7e8ed958.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/448f17e202854aac0d67ade7b4fee9a3.jpg"
     },
     {
       "serverDate": "2026-09-27",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Tarane Purane",
+      "description": "A comprehensive compilation of some of the most famous old Bollywood songs, composed by well-known artists and singers are played.",
       "startDate": "2026-09-27T23:00:00",
-      "endDate": "2026-09-27T23:59:59",
+      "endDate": "2026-09-27T23:30:00",
       "showTime": "23:00:00",
+      "endTime": "23:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/424cc8b5ae2648b855fd1672f5158f88.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Parivarthanam",
+      "description": "Bringing the best in movies.",
+      "startDate": "2026-09-27T23:30:00",
+      "endDate": "2026-09-27T23:59:59",
+      "showTime": "23:30:00",
       "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/45c5e9a15327b3c9416e00293516c18b.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bfded2ff682f728689adcc61e6b98b03.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Parivarthanam",
+      "description": "Bringing the best in movies.",
       "startDate": "2026-09-28T00:00:00",
-      "endDate": "2026-09-28T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/45c5e9a15327b3c9416e00293516c18b.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Youth Programme",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-28T00:30:00",
       "endDate": "2026-09-28T01:00:00",
-      "showTime": "00:30:00",
+      "showTime": "00:00:00",
       "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ae626efe27f4a068fc6272aa6d1b9f45.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bfded2ff682f728689adcc61e6b98b03.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Quiz",
-      "description": "Charles Ingram, a former army major, ends up winning a million pounds cash prize on a popular game show. However, soon, his fraud comes to light, making him face criminal charges.",
+      "showName": "Cinema Quiz",
+      "description": "The host asks callers a wide range of questions related to popular regional films and those who give correct answers win attractive prizes.",
       "startDate": "2026-09-28T01:00:00",
       "endDate": "2026-09-28T02:00:00",
       "showTime": "01:00:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a8d434e389d033b146823497708a60a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/51d8b19849eba593e4c55092e70c3536.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Pm Schemes",
-      "description": "The host highlights government schemes, raising awareness about initiatives that provide free education, housing and job opportunities for citizens across different sectors.",
+      "showName": "Career Guidance",
+      "description": "The host interacts with experts to shed light on employment opportunities, offering an extensive career guide based on skills and interests.",
       "startDate": "2026-09-28T02:00:00",
       "endDate": "2026-09-28T03:00:00",
       "showTime": "02:00:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9385eb67034b829a8e63f722323141c7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5f9797d3b4f732043abb28979423b114.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Gajendra Moksham",
-      "description": "A subject-matter expert delivers a detailed lecture on Gajendra Moksha, a sacred text in Hinduism, in a simple and easy-to-understand manner.",
+      "showName": "Nartanasala",
+      "description": "Nartanasala",
       "startDate": "2026-09-28T03:00:00",
       "endDate": "2026-09-28T04:00:00",
       "showTime": "03:00:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c3464af3818856bfe82d511917ad96a0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/658da04911bbacf7c190622a5f64f267.jpg"
     },
     {
       "serverDate": "2026-09-28",
       "showName": "Classical Music",
-      "description": "A comprehensive compilation of melodious songs is composed and performed by renowned composers and artists in classical music.",
+      "description": "A comprehensive compilation of melodious songs composed and performed by renowned composers and artists in classical music.",
       "startDate": "2026-09-28T04:00:00",
       "endDate": "2026-09-28T05:00:00",
       "showTime": "04:00:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/81c8640861c031f568dd744d79d63cee.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/49287101b09322355d1c83ee49be790a.jpg"
     },
     {
       "serverDate": "2026-09-28",
@@ -966,47 +1417,47 @@
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Vartalu",
-      "description": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+      "showName": "Sanskrit News",
+      "description": "The host presents the latest updates pertaining to various important current affairs, religious and cultural events in Sanskrit.",
       "startDate": "2026-09-28T06:30:00",
       "endDate": "2026-09-28T06:45:00",
       "showTime": "06:30:00",
       "endTime": "06:45:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/727dfc02e1b4597a33074d263eae5566.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/15cb6286f4a3b9df2df1ecb3ad9d5b00.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Maryada Ramanna",
-      "description": "A man appointed at the royal court solves inadvertent problems cropping up across the kingdom and is appreciated by the ruler for his wit and wisdom.",
+      "showName": "Yogaandhra",
+      "description": "Yogaandhra",
       "startDate": "2026-09-28T06:45:00",
       "endDate": "2026-09-28T07:00:00",
       "showTime": "06:45:00",
       "endTime": "07:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cf557902d74cf72df8ec95cc8b9dcf7c.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/00243fd808f07aa9e0ac47c74d405a60.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Devotional Songs",
-      "description": "A religious leader and devotees sing songs to praise the teachings of the Almighty and encourages followers to take the path of spirituality.",
+      "showName": "Pasidipantalu",
+      "description": "The host talks about the latest tools, methods and technology used in agriculture and shares helpful and insightful farming tips.",
       "startDate": "2026-09-28T07:00:00",
       "endDate": "2026-09-28T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2c4d1eb6d62c3ff7cb7e9bd818e21d3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1e940a8dfa38f58a4656946274f11da8.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Sankata Mochana Hanuman",
-      "description": "Lord Hanuman grows up to become a devout follower of Lord Rama and is fiercely loyal to him. He helps Lord Rama defeat Ravana, a wicked king.",
+      "showName": "Pravachanalu",
+      "description": "Different religious scholars provide insight on an array of topics concerning Hinduism, including how to seek God in daily life.",
       "startDate": "2026-09-28T07:30:00",
       "endDate": "2026-09-28T08:00:00",
       "showTime": "07:30:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a3424bc36f1004b7fe46f5db1580ae58.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/75c63808116adf1e7eb6ba001f29231a.jpg"
     },
     {
       "serverDate": "2026-09-28",
@@ -1021,69 +1472,80 @@
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Om Namah Shivaya",
-      "description": "Religious leaders and devotees chant a powerful mantra sung in respect and adoration of Lord Shiva and seek his blessings.",
+      "showName": "Sankata Mochana Hanuman",
+      "description": "Lord Hanuman grows up to become a devout follower of Lord Rama and is fiercely loyal to him. He helps Lord Rama defeat Ravana, a wicked king.",
       "startDate": "2026-09-28T08:30:00",
       "endDate": "2026-09-28T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/591344e3023b7157c581fcc1adc5191b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a3424bc36f1004b7fe46f5db1580ae58.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Aanimutyalu",
+      "showName": "Ee Prasnaku Baduledi",
       "description": "Bringing the best in television.",
       "startDate": "2026-09-28T09:00:00",
       "endDate": "2026-09-28T09:30:00",
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5136be3668575966a2d764de22640070.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f651291a753f0feb01363236ad70a55b.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Niveditha",
-      "description": "Nivedita, a young married woman, discovers that she is HIV-positive due to her husband's unfaithfulness. Undeterred by criticism, she sets out to educate other women about the disease.",
+      "showName": "Srinivasa Kalyanam",
+      "description": "Srinivas, a simple man, falls in love with Mahalakshmi. However, in order to keep his family happy and united, he has to abandon his love and marry the girl of their choosing.",
       "startDate": "2026-09-28T09:30:00",
       "endDate": "2026-09-28T10:00:00",
       "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cfce8126f1e3ed9db66f10aae2c16750.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58548da797f960f34cab2ce78d724b00.jpg"
     },
     {
       "serverDate": "2026-09-28",
       "showName": "Classical Music",
-      "description": "A comprehensive compilation of melodious songs is composed and performed by renowned composers and artists in classical music.",
+      "description": "A comprehensive compilation of melodious songs composed and performed by renowned composers and artists in classical music.",
       "startDate": "2026-09-28T10:00:00",
       "endDate": "2026-09-28T11:00:00",
       "showTime": "10:00:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/81c8640861c031f568dd744d79d63cee.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/49287101b09322355d1c83ee49be790a.jpg"
     },
     {
       "serverDate": "2026-09-28",
       "showName": "Sahiti Karyakramam",
       "description": "The host invites various guests and experts to discuss interesting topics related to literature, religion, culture, art and more.",
       "startDate": "2026-09-28T11:00:00",
-      "endDate": "2026-09-28T12:00:00",
+      "endDate": "2026-09-28T11:45:00",
       "showTime": "11:00:00",
-      "endTime": "12:00:00",
+      "endTime": "11:45:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f9b62201abf26317353974b20a06d75d.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Business Muchchatlu",
-      "description": "The host invites financial experts to provide insight and analysis on the latest news, updates and trends surrounding stock market performance.",
+      "showName": "Bhamidipati Ramagopalam Kathalu",
+      "description": "A compilation of short stories by Telugu writer Bhamidipati Ramagopalam that revolve around human emotions and experiences is presented.",
+      "startDate": "2026-09-28T11:45:00",
+      "endDate": "2026-09-28T12:00:00",
+      "showTime": "11:45:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18e0532fcb982f83dacb9787e5cf8b38.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Hellosaptagiri Phone In",
+      "description": "Experts from different fields answer phone calls from viewers and clarify their queries regarding various issues and topics.",
       "startDate": "2026-09-28T12:00:00",
       "endDate": "2026-09-28T13:00:00",
       "showTime": "12:00:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a4c70098dfcfc1fb6335cd8e110779e6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8414883678639571c08dca53f0421e53.jpg"
     },
     {
       "serverDate": "2026-09-28",
@@ -1098,36 +1560,36 @@
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Veyi Padagalu",
-      "description": "A man living in the village of Subbannapeta witnesses the gradual disappearance of the traditions, customs and values that he and his family hold dear.",
+      "showName": "Amma Ko Muddu",
+      "description": "Join us to witness the lives of mothers, their importance in everyday life and how their presence in the household changes everything.",
       "startDate": "2026-09-28T13:30:00",
       "endDate": "2026-09-28T14:00:00",
       "showTime": "13:30:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff36d7522628bbd74ec8fe6b21dc4f4d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1fb066dbf1ac8bacd79e1fe333ff2547.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Vyshali",
-      "description": "Bringing the best in television.",
+      "showName": "Vivahabandham",
+      "description": "A girl from a middle class family and a rich boy with extremely opposite lifestyle fall for each other. However, their journey unfolds several challenges.",
       "startDate": "2026-09-28T14:00:00",
       "endDate": "2026-09-28T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cf260c68c1c953938e5b202e054492e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fabec6ff363d9118b034d0a956b21c84.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Chantigadi Swyamvaram",
-      "description": "Renowned artists from the Telugu television industry perform dances as well as satirical acts in front of a huge audience.",
+      "showName": "Naalugomudi",
+      "description": "Naalugomudi",
       "startDate": "2026-09-28T14:30:00",
       "endDate": "2026-09-28T15:00:00",
       "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0dc6ece7a9c7e79c8e36fc785543c156.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6bf51cb3391458a2f960db7481f130fc.jpg"
     },
     {
       "serverDate": "2026-09-28",
@@ -1142,25 +1604,14 @@
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Velugu Needalu",
-      "description": "Bringing the best in television.",
+      "showName": "Hellosaptagiri Phone In",
+      "description": "Experts from different fields answer phone calls from viewers and clarify their queries regarding various issues and topics.",
       "startDate": "2026-09-28T16:00:00",
-      "endDate": "2026-09-28T16:30:00",
-      "showTime": "16:00:00",
-      "endTime": "16:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d726f37e5246dd4f9c1bbd738da373c5.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Niveditha",
-      "description": "Nivedita, a young married woman, discovers that she is HIV-positive due to her husband's unfaithfulness. Undeterred by criticism, she sets out to educate other women about the disease.",
-      "startDate": "2026-09-28T16:30:00",
       "endDate": "2026-09-28T17:00:00",
-      "showTime": "16:30:00",
+      "showTime": "16:00:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cfce8126f1e3ed9db66f10aae2c16750.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8414883678639571c08dca53f0421e53.jpg"
     },
     {
       "serverDate": "2026-09-28",
@@ -1186,22 +1637,33 @@
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Indradhanush",
-      "description": "Bringing the best in television.",
+      "showName": "Navya",
+      "description": "The anchor explores the world of women's interests, highlighting their diverse tastes and preferences such as beauty, health as well as cooking.",
       "startDate": "2026-09-28T17:30:00",
       "endDate": "2026-09-28T18:00:00",
       "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e25b09b1783453ae918d1b6a7be3f7b2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3dc66487a3bf1f6ac043eddf14a864a4.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Krishi Darshini",
+      "description": "Krishi Darshini",
+      "startDate": "2026-09-28T18:00:00",
+      "endDate": "2026-09-28T18:30:00",
+      "showTime": "18:00:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-09-28",
       "showName": "Pasidipantalu",
       "description": "The host talks about the latest tools, methods and technology used in agriculture and shares helpful and insightful farming tips.",
-      "startDate": "2026-09-28T18:00:00",
+      "startDate": "2026-09-28T18:30:00",
       "endDate": "2026-09-28T19:00:00",
-      "showTime": "18:00:00",
+      "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1e940a8dfa38f58a4656946274f11da8.jpg"
@@ -1219,47 +1681,47 @@
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "FSSAI's",
-      "description": "Culinary experts offer detailed insights into the nutritional benefits and exquisite flavours of different ancient grains.",
+      "showName": "Vivahabandham",
+      "description": "A girl from a middle class family and a rich boy with extremely opposite lifestyle fall for each other. However, their journey unfolds several challenges.",
       "startDate": "2026-09-28T19:30:00",
       "endDate": "2026-09-28T20:00:00",
       "showTime": "19:30:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/82eb4bf04acfa1713d57245a5c3e45b7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fabec6ff363d9118b034d0a956b21c84.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Sankata Mochana Hanuman",
-      "description": "Lord Hanuman grows up to become a devout follower of Lord Rama and is fiercely loyal to him. He helps Lord Rama defeat Ravana, a wicked king.",
+      "showName": "Naalugomudi",
+      "description": "Naalugomudi",
       "startDate": "2026-09-28T20:00:00",
       "endDate": "2026-09-28T20:30:00",
       "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a3424bc36f1004b7fe46f5db1580ae58.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6bf51cb3391458a2f960db7481f130fc.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Om Namah Shivaya",
-      "description": "Religious leaders and devotees chant a powerful mantra sung in respect and adoration of Lord Shiva and seek his blessings.",
+      "showName": "Sankata Mochana Hanuman",
+      "description": "Lord Hanuman grows up to become a devout follower of Lord Rama and is fiercely loyal to him. He helps Lord Rama defeat Ravana, a wicked king.",
       "startDate": "2026-09-28T20:30:00",
       "endDate": "2026-09-28T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/591344e3023b7157c581fcc1adc5191b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a3424bc36f1004b7fe46f5db1580ae58.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Tirudarshini",
-      "description": "Religious leaders and devotees gather at a temple to perform rituals and offer prayers to seek the blessings of the Almighty.",
+      "showName": "Amma Ko Muddu",
+      "description": "Join us to witness the lives of mothers, their importance in everyday life and how their presence in the household changes everything.",
       "startDate": "2026-09-28T21:00:00",
       "endDate": "2026-09-28T21:30:00",
       "showTime": "21:00:00",
       "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c47c09dc442ddd33b09c27fb99fe16f9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1fb066dbf1ac8bacd79e1fe333ff2547.jpg"
     },
     {
       "serverDate": "2026-09-28",
@@ -1277,88 +1739,99 @@
       "showName": "Sahiti Karyakramam",
       "description": "The host invites various guests and experts to discuss interesting topics related to literature, religion, culture, art and more.",
       "startDate": "2026-09-28T22:00:00",
-      "endDate": "2026-09-28T23:00:00",
+      "endDate": "2026-09-28T22:45:00",
       "showTime": "22:00:00",
-      "endTime": "23:00:00",
+      "endTime": "22:45:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f9b62201abf26317353974b20a06d75d.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Indradhanush",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-28T23:00:00",
-      "endDate": "2026-09-28T23:30:00",
-      "showTime": "23:00:00",
-      "endTime": "23:30:00",
+      "showName": "Bhamidipati Ramagopalam Kathalu",
+      "description": "A compilation of short stories by Telugu writer Bhamidipati Ramagopalam that revolve around human emotions and experiences is presented.",
+      "startDate": "2026-09-28T22:45:00",
+      "endDate": "2026-09-28T23:00:00",
+      "showTime": "22:45:00",
+      "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e25b09b1783453ae918d1b6a7be3f7b2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18e0532fcb982f83dacb9787e5cf8b38.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Veyi Padagalu",
-      "description": "A man living in the village of Subbannapeta witnesses the gradual disappearance of the traditions, customs and values that he and his family hold dear.",
-      "startDate": "2026-09-28T23:30:00",
-      "endDate": "2026-09-28T23:59:59",
-      "showTime": "23:30:00",
-      "endTime": "23:59:59",
+      "showName": "Puranalu And Modern Science",
+      "description": "The host delves into the fascinating connections between ancient Indian literature and modern scientific discoveries, bridging past wisdom with current knowledge.",
+      "startDate": "2026-09-28T23:00:00",
+      "endDate": "2026-09-28T23:45:00",
+      "showTime": "23:00:00",
+      "endTime": "23:45:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff36d7522628bbd74ec8fe6b21dc4f4d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5ed2c9b524d7f375d6b87aafb3f583c.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Maryada Ramanna",
+      "description": "A man appointed at the royal court solves inadvertent problems cropping up across the kingdom and is appreciated by the ruler for his wit and wisdom.",
+      "startDate": "2026-09-28T23:45:00",
+      "endDate": "2026-09-28T23:59:59",
+      "showTime": "23:45:00",
+      "endTime": "23:59:59",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cf557902d74cf72df8ec95cc8b9dcf7c.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Classical Music",
-      "description": "A comprehensive compilation of melodious songs is composed and performed by renowned composers and artists in classical music.",
+      "showName": "Kalabharathi",
+      "description": "Kalabharathi",
       "startDate": "2026-09-29T00:00:00",
       "endDate": "2026-09-29T01:00:00",
       "showTime": "00:00:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/81c8640861c031f568dd744d79d63cee.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Aanimutyalu",
+      "showName": "Ee Prasnaku Baduledi",
       "description": "Bringing the best in television.",
       "startDate": "2026-09-29T01:00:00",
       "endDate": "2026-09-29T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5136be3668575966a2d764de22640070.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f651291a753f0feb01363236ad70a55b.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Niveditha",
-      "description": "Nivedita, a young married woman, discovers that she is HIV-positive due to her husband's unfaithfulness. Undeterred by criticism, she sets out to educate other women about the disease.",
+      "showName": "Srinivasa Kalyanam",
+      "description": "Srinivas, a simple man, falls in love with Mahalakshmi. However, in order to keep his family happy and united, he has to abandon his love and marry the girl of their choosing.",
       "startDate": "2026-09-29T01:30:00",
       "endDate": "2026-09-29T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cfce8126f1e3ed9db66f10aae2c16750.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58548da797f960f34cab2ce78d724b00.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Vyshali",
-      "description": "Bringing the best in television.",
+      "showName": "Vivahabandham",
+      "description": "A girl from a middle class family and a rich boy with extremely opposite lifestyle fall for each other. However, their journey unfolds several challenges.",
       "startDate": "2026-09-29T02:00:00",
       "endDate": "2026-09-29T02:30:00",
       "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cf260c68c1c953938e5b202e054492e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fabec6ff363d9118b034d0a956b21c84.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Chantigadi Swyamvaram",
-      "description": "Renowned artists from the Telugu television industry perform dances as well as satirical acts in front of a huge audience.",
+      "showName": "Naalugomudi",
+      "description": "Naalugomudi",
       "startDate": "2026-09-29T02:30:00",
       "endDate": "2026-09-29T03:00:00",
       "showTime": "02:30:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0dc6ece7a9c7e79c8e36fc785543c156.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6bf51cb3391458a2f960db7481f130fc.jpg"
     },
     {
       "serverDate": "2026-09-29",
@@ -1374,475 +1847,112 @@
     {
       "serverDate": "2026-09-29",
       "showName": "Classical Music",
-      "description": "A comprehensive compilation of melodious songs is composed and performed by renowned composers and artists in classical music.",
+      "description": "A comprehensive compilation of melodious songs composed and performed by renowned composers and artists in classical music.",
       "startDate": "2026-09-29T04:00:00",
-      "endDate": "2026-09-29T05:00:00",
+      "endDate": "2026-09-29T11:45:00",
       "showTime": "04:00:00",
-      "endTime": "05:00:00",
+      "endTime": "11:45:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/81c8640861c031f568dd744d79d63cee.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Vandemataram Song",
-      "description": "A compilation of patriotic songs glorifying the greatness and unity of India and performed by various artists is played back to back.",
-      "startDate": "2026-09-29T05:00:00",
-      "endDate": "2026-09-29T05:03:00",
-      "showTime": "05:00:00",
-      "endTime": "05:03:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/520d42365460c6be10cfc9144676a85e.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Nadaswaram",
-      "description": "Professional musicians play classical compositions on the nadaswaram, a traditional South Indian wind instrument, and enthrall the viewers.",
-      "startDate": "2026-09-29T05:03:00",
-      "endDate": "2026-09-29T05:30:00",
-      "showTime": "05:03:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2c6b52dfc8daf97c257425dc3c3f7663.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Pasidipantalu",
-      "description": "The host talks about the latest tools, methods and technology used in agriculture and shares helpful and insightful farming tips.",
-      "startDate": "2026-09-29T05:30:00",
-      "endDate": "2026-09-29T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1e940a8dfa38f58a4656946274f11da8.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Archana",
-      "description": "Religious priests and devotees offer prayers and perform sacred rituals to seek the blessings of the Almighty at a place of worship.",
-      "startDate": "2026-09-29T06:00:00",
-      "endDate": "2026-09-29T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d25c8aadef00937c8ef95049c4bfeab.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Vartalu Sanskrit News",
-      "description": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
-      "startDate": "2026-09-29T06:30:00",
-      "endDate": "2026-09-29T06:45:00",
-      "showTime": "06:30:00",
-      "endTime": "06:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7ce100566bacdf304ffc2e7e395024fc.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/49287101b09322355d1c83ee49be790a.jpg"
     },
     {
       "serverDate": "2026-09-29",
       "showName": "Maryada Ramanna",
       "description": "A man appointed at the royal court solves inadvertent problems cropping up across the kingdom and is appreciated by the ruler for his wit and wisdom.",
-      "startDate": "2026-09-29T06:45:00",
-      "endDate": "2026-09-29T07:00:00",
-      "showTime": "06:45:00",
-      "endTime": "07:00:00",
+      "startDate": "2026-09-29T11:45:00",
+      "endDate": "2026-09-29T23:45:00",
+      "showTime": "11:45:00",
+      "endTime": "23:45:00",
       "showCategory": "Special",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cf557902d74cf72df8ec95cc8b9dcf7c.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Devi Keertanalu",
-      "description": "A comprehensive collection of soulful devotional melodies praising the Hindu deity Devi is played in order to enthrall the audience into seeking the deity's blessings.",
-      "startDate": "2026-09-29T07:00:00",
-      "endDate": "2026-09-29T07:30:00",
-      "showTime": "07:00:00",
-      "endTime": "07:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ce1ce44f78e8882fe5e4c4088098c16.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Sankata Mochana Hanuman",
-      "description": "Lord Hanuman grows up to become a devout follower of Lord Rama and is fiercely loyal to him. He helps Lord Rama defeat Ravana, a wicked king.",
-      "startDate": "2026-09-29T07:30:00",
-      "endDate": "2026-09-29T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a3424bc36f1004b7fe46f5db1580ae58.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Vartalu",
-      "description": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
-      "startDate": "2026-09-29T08:00:00",
-      "endDate": "2026-09-29T08:30:00",
-      "showTime": "08:00:00",
-      "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/727dfc02e1b4597a33074d263eae5566.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Om Namah Shivaya",
-      "description": "Religious leaders and devotees chant a powerful mantra sung in respect and adoration of Lord Shiva and seek his blessings.",
-      "startDate": "2026-09-29T08:30:00",
-      "endDate": "2026-09-29T09:00:00",
-      "showTime": "08:30:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/591344e3023b7157c581fcc1adc5191b.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Velugu Needalu",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-29T09:00:00",
-      "endDate": "2026-09-29T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d726f37e5246dd4f9c1bbd738da373c5.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Niveditha",
-      "description": "Nivedita, a young married woman, discovers that she is HIV-positive due to her husband's unfaithfulness. Undeterred by criticism, she sets out to educate other women about the disease.",
-      "startDate": "2026-09-29T09:30:00",
-      "endDate": "2026-09-29T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cfce8126f1e3ed9db66f10aae2c16750.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Classical Dance",
-      "description": "Artists adept in the various forms of Indian classical dance perform an inspiring and captivating recital to enthrall the audience.",
-      "startDate": "2026-09-29T10:00:00",
-      "endDate": "2026-09-29T11:00:00",
-      "showTime": "10:00:00",
-      "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/528bbc70cdfbdf8e70e1b939946ee061.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Classical Music",
-      "description": "A comprehensive compilation of melodious songs is composed and performed by renowned composers and artists in classical music.",
-      "startDate": "2026-09-29T11:00:00",
-      "endDate": "2026-09-29T12:00:00",
-      "showTime": "11:00:00",
-      "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/81c8640861c031f568dd744d79d63cee.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Business Muchchatlu",
-      "description": "The host invites financial experts to provide insight and analysis on the latest news, updates and trends surrounding stock market performance.",
-      "startDate": "2026-09-29T12:00:00",
-      "endDate": "2026-09-29T13:00:00",
-      "showTime": "12:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a4c70098dfcfc1fb6335cd8e110779e6.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Vartalu",
-      "description": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
-      "startDate": "2026-09-29T13:00:00",
-      "endDate": "2026-09-29T13:30:00",
-      "showTime": "13:00:00",
-      "endTime": "13:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/727dfc02e1b4597a33074d263eae5566.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Veyi Padagalu",
-      "description": "A man living in the village of Subbannapeta witnesses the gradual disappearance of the traditions, customs and values that he and his family hold dear.",
-      "startDate": "2026-09-29T13:30:00",
-      "endDate": "2026-09-29T14:00:00",
-      "showTime": "13:30:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff36d7522628bbd74ec8fe6b21dc4f4d.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Vyshali",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-29T14:00:00",
-      "endDate": "2026-09-29T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cf260c68c1c953938e5b202e054492e0.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Chantigadi Swyamvaram",
-      "description": "Renowned artists from the Telugu television industry perform dances as well as satirical acts in front of a huge audience.",
-      "startDate": "2026-09-29T14:30:00",
-      "endDate": "2026-09-29T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0dc6ece7a9c7e79c8e36fc785543c156.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Andariki Aarogyam",
-      "description": "A medical expert sheds light on various concerns raised by the viewers and talks about several illnesses that plague people.",
-      "startDate": "2026-09-29T15:00:00",
-      "endDate": "2026-09-29T16:00:00",
-      "showTime": "15:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d4b76a94590d113f74acbe62e54c1b1b.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Velugu Needalu",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-29T16:00:00",
-      "endDate": "2026-09-29T16:30:00",
-      "showTime": "16:00:00",
-      "endTime": "16:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d726f37e5246dd4f9c1bbd738da373c5.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Niveditha",
-      "description": "Nivedita, a young married woman, discovers that she is HIV-positive due to her husband's unfaithfulness. Undeterred by criticism, she sets out to educate other women about the disease.",
-      "startDate": "2026-09-29T16:30:00",
-      "endDate": "2026-09-29T17:00:00",
-      "showTime": "16:30:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cfce8126f1e3ed9db66f10aae2c16750.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "District News Bulletin",
-      "description": "The host presents the latest news updates concerning the political, social, economic and sports fronts from across all the districts of the state.",
-      "startDate": "2026-09-29T17:00:00",
-      "endDate": "2026-09-29T17:10:00",
-      "showTime": "17:00:00",
-      "endTime": "17:10:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ac61d94d7bc2c22d50041581e958515.jpg"
     },
     {
       "serverDate": "2026-09-29",
       "showName": "Maryada Ramanna",
       "description": "A man appointed at the royal court solves inadvertent problems cropping up across the kingdom and is appreciated by the ruler for his wit and wisdom.",
-      "startDate": "2026-09-29T17:10:00",
-      "endDate": "2026-09-29T17:30:00",
-      "showTime": "17:10:00",
-      "endTime": "17:30:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cf557902d74cf72df8ec95cc8b9dcf7c.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Indradhanush",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-29T17:30:00",
-      "endDate": "2026-09-29T18:00:00",
-      "showTime": "17:30:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e25b09b1783453ae918d1b6a7be3f7b2.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Pasidipantalu",
-      "description": "The host talks about the latest tools, methods and technology used in agriculture and shares helpful and insightful farming tips.",
-      "startDate": "2026-09-29T18:00:00",
-      "endDate": "2026-09-29T19:00:00",
-      "showTime": "18:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1e940a8dfa38f58a4656946274f11da8.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Vartalu",
-      "description": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
-      "startDate": "2026-09-29T19:00:00",
-      "endDate": "2026-09-29T19:30:00",
-      "showTime": "19:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/727dfc02e1b4597a33074d263eae5566.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Vyshali",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-29T19:30:00",
-      "endDate": "2026-09-29T20:00:00",
-      "showTime": "19:30:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cf260c68c1c953938e5b202e054492e0.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Sankata Mochana Hanuman",
-      "description": "Lord Hanuman grows up to become a devout follower of Lord Rama and is fiercely loyal to him. He helps Lord Rama defeat Ravana, a wicked king.",
-      "startDate": "2026-09-29T20:00:00",
-      "endDate": "2026-09-29T20:30:00",
-      "showTime": "20:00:00",
-      "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a3424bc36f1004b7fe46f5db1580ae58.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Om Namah Shivaya",
-      "description": "Religious leaders and devotees chant a powerful mantra sung in respect and adoration of Lord Shiva and seek his blessings.",
-      "startDate": "2026-09-29T20:30:00",
-      "endDate": "2026-09-29T21:00:00",
-      "showTime": "20:30:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/591344e3023b7157c581fcc1adc5191b.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Aanimutyalu",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-29T21:00:00",
-      "endDate": "2026-09-29T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5136be3668575966a2d764de22640070.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Vartalu",
-      "description": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
-      "startDate": "2026-09-29T21:30:00",
-      "endDate": "2026-09-29T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/727dfc02e1b4597a33074d263eae5566.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Classical Music",
-      "description": "A comprehensive compilation of melodious songs is composed and performed by renowned composers and artists in classical music.",
-      "startDate": "2026-09-29T22:00:00",
-      "endDate": "2026-09-29T23:00:00",
-      "showTime": "22:00:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/81c8640861c031f568dd744d79d63cee.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Indradhanush",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-29T23:00:00",
-      "endDate": "2026-09-29T23:30:00",
-      "showTime": "23:00:00",
-      "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e25b09b1783453ae918d1b6a7be3f7b2.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Veyi Padagalu",
-      "description": "A man living in the village of Subbannapeta witnesses the gradual disappearance of the traditions, customs and values that he and his family hold dear.",
-      "startDate": "2026-09-29T23:30:00",
+      "startDate": "2026-09-29T23:45:00",
       "endDate": "2026-09-29T23:59:59",
-      "showTime": "23:30:00",
+      "showTime": "23:45:00",
       "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff36d7522628bbd74ec8fe6b21dc4f4d.jpg"
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cf557902d74cf72df8ec95cc8b9dcf7c.jpg"
     },
     {
       "serverDate": "2026-09-30",
-      "showName": "Classical Dance",
-      "description": "Artists adept in the various forms of Indian classical dance perform an inspiring and captivating recital to enthrall the audience.",
+      "showName": "Kalabharathi",
+      "description": "Kalabharathi",
       "startDate": "2026-09-30T00:00:00",
       "endDate": "2026-09-30T01:00:00",
       "showTime": "00:00:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/528bbc70cdfbdf8e70e1b939946ee061.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-09-30",
-      "showName": "Vikrama Rao Betala Sastry Kathalu",
-      "description": "Vikramarao, a common man in misery, meets Betala Shastry, a spiritual being, who shares many stories with morals and life lessons with him.",
+      "showName": "Ee Prasnaku Baduledi",
+      "description": "Bringing the best in television.",
       "startDate": "2026-09-30T01:00:00",
       "endDate": "2026-09-30T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/968cacd8396aa5328bc3e4b905c5aec8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f651291a753f0feb01363236ad70a55b.jpg"
     },
     {
       "serverDate": "2026-09-30",
-      "showName": "Niveditha",
-      "description": "Nivedita, a young married woman, discovers that she is HIV-positive due to her husband's unfaithfulness. Undeterred by criticism, she sets out to educate other women about the disease.",
+      "showName": "Srinivasa Kalyanam",
+      "description": "Srinivas, a simple man, falls in love with Mahalakshmi. However, in order to keep his family happy and united, he has to abandon his love and marry the girl of their choosing.",
       "startDate": "2026-09-30T01:30:00",
       "endDate": "2026-09-30T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cfce8126f1e3ed9db66f10aae2c16750.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58548da797f960f34cab2ce78d724b00.jpg"
     },
     {
       "serverDate": "2026-09-30",
-      "showName": "Vyshali",
-      "description": "Bringing the best in television.",
+      "showName": "Vivahabandham",
+      "description": "A girl from a middle class family and a rich boy with extremely opposite lifestyle fall for each other. However, their journey unfolds several challenges.",
       "startDate": "2026-09-30T02:00:00",
       "endDate": "2026-09-30T02:30:00",
       "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cf260c68c1c953938e5b202e054492e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fabec6ff363d9118b034d0a956b21c84.jpg"
     },
     {
       "serverDate": "2026-09-30",
-      "showName": "Chantigadi Swyamvaram",
-      "description": "Renowned artists from the Telugu television industry perform dances as well as satirical acts in front of a huge audience.",
+      "showName": "Naalugomudi",
+      "description": "Naalugomudi",
       "startDate": "2026-09-30T02:30:00",
       "endDate": "2026-09-30T03:00:00",
       "showTime": "02:30:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0dc6ece7a9c7e79c8e36fc785543c156.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6bf51cb3391458a2f960db7481f130fc.jpg"
     },
     {
       "serverDate": "2026-09-30",
-      "showName": "Baktha Ambareesha - Harikatha",
-      "description": "A religious speaker delivers a spiritual discourse on the story of King Ambarisha, a great devotee of Lord Vishnu, to the followers.",
+      "showName": "Dharma Sandehalu",
+      "description": "The host invites profound religious scholars to shed light on ancient Hindu scriptures and reflect on the religious significance of rituals.",
       "startDate": "2026-09-30T03:00:00",
       "endDate": "2026-09-30T04:00:00",
       "showTime": "03:00:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0eeb6a08543a1bfd24c2edc283824a8d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a47032c9b4574c05d26057f90e70fdf1.jpg"
     },
     {
       "serverDate": "2026-09-30",
       "showName": "Classical Music",
-      "description": "A comprehensive compilation of melodious songs is composed and performed by renowned composers and artists in classical music.",
+      "description": "A comprehensive compilation of melodious songs composed and performed by renowned composers and artists in classical music.",
       "startDate": "2026-09-30T04:00:00",
       "endDate": "2026-09-30T05:00:00",
       "showTime": "04:00:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/81c8640861c031f568dd744d79d63cee.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/49287101b09322355d1c83ee49be790a.jpg"
     },
     {
       "serverDate": "2026-09-30",

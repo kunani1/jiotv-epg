@@ -8,6 +8,116 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Movies.png",
   "programs": [
     {
+      "serverDate": "2026-09-25",
+      "showName": "Chirakannika",
+      "description": "Chirakannika",
+      "startDate": "2026-09-25T00:00:00",
+      "endDate": "2026-09-25T03:00:00",
+      "showTime": "00:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Suli",
+      "description": "A saintly person, living in a village on top of a hill, transports materials required for daily life from a town down the hill. However, his peaceful life is disrupted by a whirlpool of emotions.",
+      "startDate": "2026-09-25T03:00:00",
+      "endDate": "2026-09-25T06:00:00",
+      "showTime": "03:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/05de0a7ce90b43b2211406c499006f09.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Movie Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-25T06:00:00",
+      "endDate": "2026-09-25T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Movie Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-09-25T06:30:00",
+      "endDate": "2026-09-25T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Hori",
+      "description": "Krishna, a good-hearted thief, is at loggerheads with a cruel moneylender. However, he soon falls in love with his daughter, which makes things worse for himself.",
+      "startDate": "2026-09-25T07:00:00",
+      "endDate": "2026-09-25T10:00:00",
+      "showTime": "07:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cbfed1c4a85dac537c2b3f3c41db3b54.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Inspector Vikram",
+      "description": "Because of Vikram's carefree nature, the police commissioner hires a retired army officer to discipline Vikram. Things take a tricky turn when Vikram falls in love with the officer's daughter.",
+      "startDate": "2026-09-25T10:00:00",
+      "endDate": "2026-09-25T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a197154d7feb0b353b0bbaef553baef4.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Upendra Matte Baa",
+      "description": "Prema prays for her dead husband Upendra's help during a family crisis. Later, Lord Yama sends Upendra's soul back to earth in order to fix his son's marital life.",
+      "startDate": "2026-09-25T13:00:00",
+      "endDate": "2026-09-25T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/068b51af7d49a164cb3e6dddfc6ef80b.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Kalla Malla Sulla",
+      "description": "Ramesh, a faithful husband to Ramya, is influenced by his philandering friend, Ravi, to have fun outside his marriage. Things mess up leading to a lot of confusion and chaos in Ramesh's married life.",
+      "startDate": "2026-09-25T16:00:00",
+      "endDate": "2026-09-25T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a1cbe89729743d2405d871c166c30eb.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Hrudayavantha",
+      "description": "Vishnu, a poor man, loves his sister and helps her become a doctor. However, Anu is suspicious about her brother's source of income and decides to investigate.",
+      "startDate": "2026-09-25T19:00:00",
+      "endDate": "2026-09-25T22:00:00",
+      "showTime": "19:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa5ddf12cb99ec0f2fd3bdc9ddbea924.jpg"
+    },
+    {
+      "serverDate": "2026-09-25",
+      "showName": "Balondu Chaduranga",
+      "description": "A married couple sacrifices their happiness to raise their children with love and care. However, once the children grow up, they neglect their parents and abandon them.",
+      "startDate": "2026-09-25T22:00:00",
+      "endDate": "2026-09-25T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6eeeaef1883a2106f96666bc2efde628.jpg"
+    },
+    {
       "serverDate": "2026-09-26",
       "showName": "Bala Hombale",
       "description": "When Radha and Gopi's love faces severe opposition from Radha's grandmother, Gopi and his grandfather try to convince her.",
