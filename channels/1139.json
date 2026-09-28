@@ -8,224 +8,455 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Plus.png",
   "programs": [
     {
-      "serverDate": "2026-09-29",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-29T00:00:00",
-      "endDate": "2026-09-29T03:30:00",
+      "serverDate": "2026-09-27",
+      "showName": "Kanchanam",
+      "description": "Anu leads an unhappy life as her parents are on the verge of divorce. However, Anu's life takes a turn for the better when James enters her life and they become friends.",
+      "startDate": "2026-09-27T00:00:00",
+      "endDate": "2026-09-27T02:00:00",
       "showTime": "00:00:00",
-      "endTime": "03:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f9976d1e3d05e55fcf894506f44fb7d3.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Sooryakireedam",
+      "description": "Four friends end up staying in an ancestral house which is haunted by the spirit of Urmila. By the time they realise the truth about the house, things start getting worse.",
+      "startDate": "2026-09-27T02:00:00",
+      "endDate": "2026-09-27T04:00:00",
+      "showTime": "02:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/15f2d46f49982ef21ff608c3ed67d328.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Matchbox",
+      "description": "Ambu, a carefree college student, falls in love with a woman he sees at a bus stop. However, before he can confess his feelings, unexpected complications arise.",
+      "startDate": "2026-09-27T04:00:00",
+      "endDate": "2026-09-27T06:00:00",
+      "showTime": "04:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b3a8efe283ee7fb5943f7fe37258d095.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Grama Panchayath",
+      "description": "A young man tries to break away from his poverty-ridden life as a barber's son and hopes to study further. His father, however, refuses to send him away and threatens to commit suicide.",
+      "startDate": "2026-09-27T06:00:00",
+      "endDate": "2026-09-27T08:55:00",
+      "showTime": "06:00:00",
+      "endTime": "08:55:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fb008dd82ed9c058933b00947ba2f32a.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Kannante Radha Punasamagamam",
+      "description": "Kannante Radha Punasamagamam",
+      "startDate": "2026-09-27T08:55:00",
+      "endDate": "2026-09-27T09:00:00",
+      "showTime": "08:55:00",
+      "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e45a9e2e4d1aaf35d7c2af45f51158ee.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Bandhukkal Sathrukkal",
+      "description": "Two brothers, both moneylenders, hate each other and extend their mutual hatred to their families as well. However, they face several obstacles that intensify after their estrangement.",
+      "startDate": "2026-09-27T09:00:00",
+      "endDate": "2026-09-27T12:00:00",
+      "showTime": "09:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df765ab004de788c026a64809ae74d1b.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "48th Soorya Festival 2025",
+      "description": "48th Soorya Festival 2025",
+      "startDate": "2026-09-27T12:00:00",
+      "endDate": "2026-09-27T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f80d0fe6eca6a0112a11933c6829a71f.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Kadha Thudarunnu",
+      "description": "Vidyalakshmi struggles to lead a normal life with her daughter after the sudden death of her husband. However, her world transforms after meeting Preman, an auto-rickshaw driver.",
+      "startDate": "2026-09-27T12:30:00",
+      "endDate": "2026-09-27T15:00:00",
+      "showTime": "12:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e78989d00ecd60ad75dae0bc159ac3f3.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Vaasthavam",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-09-27T15:00:00",
+      "endDate": "2026-09-27T18:00:00",
+      "showTime": "15:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b40c70575ade0eb062880d3e228b9908.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Koode",
+      "description": "Following the loss of his sister, a young man is forced to reflect on his childhood and reassess his future. However, he finds support and courage from unexpected quarters.",
+      "startDate": "2026-09-27T18:00:00",
+      "endDate": "2026-09-27T21:00:00",
+      "showTime": "18:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c4eb6884cb4598a7cbb8d4cfb98865d.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Sound Thoma",
+      "description": "Thoma belongs to the Palaparambil family, which is disliked by the locals due to his father's actions. However, he comes up with a plan to portray his greedy father as a charitable person.",
+      "startDate": "2026-09-27T21:00:00",
+      "endDate": "2026-09-27T23:59:59",
+      "showTime": "21:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9121e489c62a04fc80a733522b1d220.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Ashwaroodan",
+      "description": "Veerabhadran is a chieftain of a tribal group who goes to any extent to help his people. However, he soon realises that the enemy is within his tribe.",
+      "startDate": "2026-09-28T00:00:00",
+      "endDate": "2026-09-28T02:00:00",
+      "showTime": "00:00:00",
+      "endTime": "02:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0fbc878c9ea6b6d42739b51401b6a0ac.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Puzhayozhukum Vazhi",
+      "description": "Puzhayozhukum Vazhi",
+      "startDate": "2026-09-28T02:00:00",
+      "endDate": "2026-09-28T04:00:00",
+      "showTime": "02:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Beware of Dogs",
+      "description": "Four troublemaking friends constantly annoy their landlord in a rented house. Forced to leave, they escape to Pondicherry, where new adventures await.",
+      "startDate": "2026-09-28T04:00:00",
+      "endDate": "2026-09-28T06:00:00",
+      "showTime": "04:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9ddca845d35e424f1fc2e68436271d2d.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Rangasthalam",
+      "description": "A young man suffering from a hearing defect rises up against a corrupt local leader along with the help of his fearless older brother. Together, they defy tyranny in a fight for justice and freedom.",
+      "startDate": "2026-09-28T06:00:00",
+      "endDate": "2026-09-28T09:00:00",
+      "showTime": "06:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b7708539207a3fd500985ca5b278242f.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Udayapuram Sulthan",
+      "description": "A musically gifted man pretending to be a priest wins hearts in a royal household, but buried family secrets and a long-lost connection soon stir tension beneath the festivities.",
+      "startDate": "2026-09-28T09:00:00",
+      "endDate": "2026-09-28T12:00:00",
+      "showTime": "09:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/52ec856cfd57f5343a79e9c155970af9.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Aamayum Muyalum",
+      "description": "After a lottery ticket salesman learns that one of his customers has won INR five crores, he tries to get back the ticket. Unfortunately, he finds the customer dead and has to lie to protect himself.",
+      "startDate": "2026-09-28T12:00:00",
+      "endDate": "2026-09-28T15:00:00",
+      "showTime": "12:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/458d934fedd3a065c552a9cf20725896.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Ennu Ninte Moideen",
+      "description": "In the 1960s, when interreligious marriages were still taboo, Moideen and Kanchanamala fell in love. Even after being forced to part ways, the two lovers fight for their undying love.",
+      "startDate": "2026-09-28T15:00:00",
+      "endDate": "2026-09-28T18:00:00",
+      "showTime": "15:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c763db1b9ff62a93972ca59e806bacc1.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Premam",
+      "description": "While George's first love disappoints him, Malar, a college lecturer, restores his faith in love. His romantic journey takes him through several stages and helps him find his purpose.",
+      "startDate": "2026-09-28T18:00:00",
+      "endDate": "2026-09-28T21:00:00",
+      "showTime": "18:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4742781f031eaaae9f556473c92f385a.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Karyasthan",
+      "description": "After a past incident, two powerful clans of Krishnapuram remain estranged until one day, a man with a mysterious past decides to bring the families together.",
+      "startDate": "2026-09-28T21:00:00",
+      "endDate": "2026-09-28T23:59:59",
+      "showTime": "21:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3c9f39563555cd1b6465bce15354467e.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-29T03:30:00",
-      "endDate": "2026-09-29T05:30:00",
-      "showTime": "03:30:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "showName": "Karyasthan",
+      "description": "After a past incident, two powerful clans of Krishnapuram remain estranged until one day, a man with a mysterious past decides to bring the families together.",
+      "startDate": "2026-09-29T00:00:00",
+      "endDate": "2026-09-29T01:30:00",
+      "showTime": "00:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3c9f39563555cd1b6465bce15354467e.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-29T05:30:00",
-      "endDate": "2026-09-29T08:00:00",
-      "showTime": "05:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "showName": "Made in U.S.A.",
+      "description": "Roby, a young man, migrates to Las Vegas in hopes of earning a livelihood and starts working at a casino. Things take a turn when he loses his friend's money and struggles with mental health issues.",
+      "startDate": "2026-09-29T01:30:00",
+      "endDate": "2026-09-29T04:00:00",
+      "showTime": "01:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee0d0185fa7bf828d6fa73e427657315.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Devi Mahathmyam",
-      "description": "An anthology of stories which deal with the legends and myths related to Goddess Durga, along with the tales of her various forms and manifestations.",
-      "startDate": "2026-09-29T08:00:00",
+      "showName": "Susanna",
+      "description": "Susanna, a sex worker, earns money by being with five different men at the same time. Fortunately, the people around her do not judge her actions and find solace in her presence.",
+      "startDate": "2026-09-29T04:00:00",
+      "endDate": "2026-09-29T06:00:00",
+      "showTime": "04:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b401bb6097205f1d3f17c6426d194f9a.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
+      "showName": "Winter",
+      "description": "Fed up with the fast-paced city life, Ramdas and his wife decide to move to a quiet bungalow on the outskirts of the city. However, some strange happenings in the surrounding put their lives at risk.",
+      "startDate": "2026-09-29T06:00:00",
       "endDate": "2026-09-29T08:30:00",
-      "showTime": "08:00:00",
+      "showTime": "06:00:00",
       "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29feb54afc6e36a0a9ed35f6bd1720e8.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c8fee26bcb02f0dc85fc6dd85dcc6325.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Kailasanathan",
-      "description": "Lord Shiva navigates his transformation from ascension to supreme power, facing cosmic challenges and forming alliances that shape the universe's fate.",
+      "showName": "Malikappuram",
+      "description": "When Unnimol, a young girl child, faces dismissal from all her relatives and community, Lord Ayyappan takes the form of a school student to help her overcome obstacles.",
       "startDate": "2026-09-29T08:30:00",
       "endDate": "2026-09-29T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b2462700aa68b2aa5c7e2e97f561030.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4e8a2f6a26c65b58e7f97a8aeb4e584e.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Bala Ganapathy",
-      "description": "A young boy, who is facing many problems in school, finds inspiration in the stories of Lord Ganesha. Though he often questions his existence, he is baffled when the lord appears before him.",
+      "showName": "Congratulations Miss Anitha Menon",
+      "description": "Prakash, a successful businessman, grows suspicious of his wife Anita after he receives an anonymous letter that indicates that she has an illicit relationship with another man.",
       "startDate": "2026-09-29T09:00:00",
-      "endDate": "2026-09-29T09:30:00",
+      "endDate": "2026-09-29T12:00:00",
       "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6ba739d0f0a5b3d915c11c3b42b5b827.jpg"
+      "endTime": "12:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2265a87c93c37ef03ac3efc96ec379ec.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-29T09:30:00",
-      "endDate": "2026-09-29T12:30:00",
-      "showTime": "09:30:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Sasneham",
-      "description": "Former lovers Indira and Balachandran face neglect by their children after their respective spouses pass away. However, things take a turn when their paths cross once again.",
-      "startDate": "2026-09-29T12:30:00",
-      "endDate": "2026-09-29T13:00:00",
-      "showTime": "12:30:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df9952b4a1cc4072abdad5cfa1adabe9.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Sasneham",
-      "description": "Former lovers Indira and Balachandran face neglect by their children after their respective spouses pass away. However, things take a turn when their paths cross once again.",
-      "startDate": "2026-09-29T13:00:00",
-      "endDate": "2026-09-29T13:30:00",
-      "showTime": "13:00:00",
-      "endTime": "13:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df9952b4a1cc4072abdad5cfa1adabe9.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Muttathe Mulla",
-      "description": "An ordinary homemaker with desires of materialistic luxury decides to put on a facade of affluence. However, her pretense serves to complicate her life.",
-      "startDate": "2026-09-29T13:30:00",
-      "endDate": "2026-09-29T14:00:00",
-      "showTime": "13:30:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/65544a079b5cd6615c5ea62e1cd53060.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Koodevide",
-      "description": "When her father's business suffers tremendous losses, Soorya, a determined girl, decides to step up to support her family.",
-      "startDate": "2026-09-29T14:00:00",
-      "endDate": "2026-09-29T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/39feaade6efeae54882b8ee8162372e7.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Gouri Shankaram",
-      "description": "Sankar experiences love at first sight when he encounters Gouri, which leads to their marriage. However, doubt lies ahead when people question their compatibility.",
-      "startDate": "2026-09-29T14:30:00",
+      "showName": "The Car",
+      "description": "A car that Mahadevan wins in a contest brings him bad luck, and he soon gets involved in a murder. As he tries to find a car with the same license number as his, he unravels a shocking truth.",
+      "startDate": "2026-09-29T12:00:00",
       "endDate": "2026-09-29T15:00:00",
-      "showTime": "14:30:00",
+      "showTime": "12:00:00",
       "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5016bba730811cd3e884fb35027b1434.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3f73e319dd211fd3e48ced1b49c5607d.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Joker",
+      "description": "Babu perfects the art of being a clown and is promised the hand of Kamala, the circus owner's daughter. However, things take a turn when Sudheer Misra arrives in the troupe.",
       "startDate": "2026-09-29T15:00:00",
       "endDate": "2026-09-29T18:00:00",
       "showTime": "15:00:00",
       "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7277cef1b1b2e64fc71a032aebbf9209.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Devi Mahathmyam",
-      "description": "An anthology of stories which deal with the legends and myths related to Goddess Durga, along with the tales of her various forms and manifestations.",
+      "showName": "Malikappuram",
+      "description": "When Unnimol, a young girl child, faces dismissal from all her relatives and community, Lord Ayyappan takes the form of a school student to help her overcome obstacles.",
       "startDate": "2026-09-29T18:00:00",
       "endDate": "2026-09-29T18:30:00",
       "showTime": "18:00:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29feb54afc6e36a0a9ed35f6bd1720e8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4e8a2f6a26c65b58e7f97a8aeb4e584e.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Kailasanathan",
-      "description": "Lord Shiva navigates his transformation from ascension to supreme power, facing cosmic challenges and forming alliances that shape the universe's fate.",
+      "showName": "Etho Janma Kalpanayil",
+      "description": "Etho Janma Kalpanayil",
       "startDate": "2026-09-29T18:30:00",
       "endDate": "2026-09-29T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b2462700aa68b2aa5c7e2e97f561030.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e2e23b74af2f256a9fe2228736be32b5.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Chandrikayilaliyunna Chandrakantham",
+      "description": "Chandrikayilaliyunna Chandrakantham",
       "startDate": "2026-09-29T19:00:00",
-      "endDate": "2026-09-29T22:00:00",
+      "endDate": "2026-09-29T19:30:00",
       "showTime": "19:00:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8f635769609e2407f3c6b86042411b03.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
+      "showName": "Teacheramma",
+      "description": "While juggling her roles of being a great teacher and a devoted mother, a woman remains desperate for the affection she has always yearned for but never received.",
+      "startDate": "2026-09-29T19:30:00",
+      "endDate": "2026-09-29T20:00:00",
+      "showTime": "19:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/931cbf79d202ac2d23fdddd6d48bdfcd.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
+      "showName": "Paadatha Painkili",
+      "description": "A young woman faces constant torment and oppression from her family, but remains resilient in her search for love and happiness.",
+      "startDate": "2026-09-29T20:00:00",
+      "endDate": "2026-09-29T20:30:00",
+      "showTime": "20:00:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8401d23fd848976a8327aff7023c250d.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
+      "showName": "Snehakkoottu",
+      "description": "A father's decision to remarry brings unexpected struggles as his son Sethumadhavan steps up to care for his half-sisters, navigating shifting family relationships.",
+      "startDate": "2026-09-29T20:30:00",
+      "endDate": "2026-09-29T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7ef8c30092530048c87f36fa8fd88983.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
+      "showName": "Santhwanam",
+      "description": "Sridevi leads a peaceful and happy life with her husband, Balakrishnan, and his siblings. However, the family faces various adversities that challenge their bonding.",
+      "startDate": "2026-09-29T21:00:00",
+      "endDate": "2026-09-29T21:30:00",
+      "showTime": "21:00:00",
+      "endTime": "21:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3f5a9bae19e8fe907971af82c7fe84de.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
+      "showName": "Ishtam Mathram",
+      "description": "Mahesh loves his daughter but does not know how to relay his affection for her, while Ishita showers her with love, which drives him to envy. It is up to her to bring them closer to each other.",
+      "startDate": "2026-09-29T21:30:00",
+      "endDate": "2026-09-29T22:00:00",
+      "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/90d1ec094c72026d0dcd57b48efc967f.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Geetha Govindam",
+      "description": "When the past of a middle-aged unmarried businessman confronts him, it affects his unusual romantic relationship with a younger girl.",
       "startDate": "2026-09-29T22:00:00",
-      "endDate": "2026-09-29T23:59:59",
+      "endDate": "2026-09-29T22:30:00",
       "showTime": "22:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/52339efd7e86640dae53ec74d990a348.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
+      "showName": "Mounaragam",
+      "description": "Kalyani, who is speech impaired, is disliked by everyone in her family, except her mother. As she longs for her father's affection, Kiran enters her life.",
+      "startDate": "2026-09-29T22:30:00",
+      "endDate": "2026-09-29T23:00:00",
+      "showTime": "22:30:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56f9e75518603ea8c0cccf96ef28729a.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
+      "showName": "Keerthi Chakra",
+      "description": "When Major Mahadevan receives news of terrorists hiding inside a mosque, he and his team set out to apprehend them and then he takes help of his team member, Jai, and plans to execute the mission.",
+      "startDate": "2026-09-29T23:00:00",
+      "endDate": "2026-09-29T23:59:59",
+      "showTime": "23:00:00",
       "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c83257a3d401f32fcee6cb8634ddeea1.jpg"
     },
     {
       "serverDate": "2026-09-30",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Keerthi Chakra",
+      "description": "When Major Mahadevan receives news of terrorists hiding inside a mosque, he and his team set out to apprehend them and then he takes help of his team member, Jai, and plans to execute the mission.",
       "startDate": "2026-09-30T00:00:00",
-      "endDate": "2026-09-30T01:00:00",
+      "endDate": "2026-09-30T01:30:00",
       "showTime": "00:00:00",
-      "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "endTime": "01:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c83257a3d401f32fcee6cb8634ddeea1.jpg"
     },
     {
       "serverDate": "2026-09-30",
       "showName": "Movie",
       "description": "Bringing the best in television.",
-      "startDate": "2026-09-30T01:00:00",
-      "endDate": "2026-09-30T03:30:00",
-      "showTime": "01:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
-    },
-    {
-      "serverDate": "2026-09-30",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-30T03:30:00",
+      "startDate": "2026-09-30T01:30:00",
       "endDate": "2026-09-30T05:30:00",
-      "showTime": "03:30:00",
+      "showTime": "01:30:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-09-30",
@@ -236,7 +467,7 @@
       "showTime": "05:30:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-09-30",
@@ -280,7 +511,7 @@
       "showTime": "09:30:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-09-30",
@@ -346,7 +577,7 @@
       "showTime": "15:00:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-09-30",
@@ -401,7 +632,7 @@
       "showTime": "21:45:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-01",
@@ -412,7 +643,7 @@
       "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-01",
@@ -423,7 +654,7 @@
       "showTime": "00:30:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-01",
@@ -434,7 +665,7 @@
       "showTime": "03:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-01",
@@ -445,7 +676,7 @@
       "showTime": "05:30:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-01",
@@ -489,7 +720,7 @@
       "showTime": "09:30:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-01",
@@ -555,7 +786,7 @@
       "showTime": "15:00:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-01",
@@ -610,7 +841,7 @@
       "showTime": "21:45:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-02",
@@ -621,7 +852,7 @@
       "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-02",
@@ -632,7 +863,7 @@
       "showTime": "00:30:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-02",
@@ -643,7 +874,7 @@
       "showTime": "03:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-02",
@@ -654,7 +885,7 @@
       "showTime": "05:30:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-02",
@@ -698,7 +929,7 @@
       "showTime": "09:30:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-02",
@@ -764,7 +995,7 @@
       "showTime": "15:00:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-02",
@@ -863,7 +1094,7 @@
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-03",
@@ -874,7 +1105,7 @@
       "showTime": "00:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-03",
@@ -907,7 +1138,7 @@
       "showTime": "03:30:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-03",
@@ -918,7 +1149,7 @@
       "showTime": "05:30:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-03",
@@ -951,7 +1182,7 @@
       "showTime": "09:00:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-03",
@@ -962,7 +1193,7 @@
       "showTime": "12:00:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-03",
@@ -1039,7 +1270,7 @@
       "showTime": "21:45:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-04",
@@ -1050,7 +1281,7 @@
       "showTime": "00:00:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-04",
@@ -1061,7 +1292,7 @@
       "showTime": "01:00:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-04",
@@ -1072,7 +1303,7 @@
       "showTime": "03:30:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-04",
@@ -1083,7 +1314,7 @@
       "showTime": "05:30:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-04",
@@ -1127,7 +1358,7 @@
       "showTime": "09:00:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-04",
@@ -1149,7 +1380,7 @@
       "showTime": "12:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-04",
@@ -1160,7 +1391,7 @@
       "showTime": "15:00:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     },
     {
       "serverDate": "2026-10-04",
@@ -1215,7 +1446,7 @@
       "showTime": "21:45:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85faf54613d0c6914b11ad7c03719fb0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
     }
   ]
 }
