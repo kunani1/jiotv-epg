@@ -8,72 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Music.png",
   "programs": [
     {
-      "serverDate": "2026-09-26",
-      "showName": "Oorilo Vinayakudu",
-      "description": "Oorilo Vinayakudu",
-      "startDate": "2026-09-26T00:00:00",
-      "endDate": "2026-09-26T03:30:00",
-      "showTime": "00:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7243f0063080690d0c27fc38dadad806.jpg"
-    },
-    {
-      "serverDate": "2026-09-26",
-      "showName": "Padutha Theeyaga",
-      "description": "The judges welcome various contestants from Andhra Pradesh and Telangana who showcase their unique singing skills in front of them.",
-      "startDate": "2026-09-26T03:30:00",
-      "endDate": "2026-09-26T08:00:00",
-      "showTime": "03:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58753b8de4d5edc0c2e8e013207488eb.jpg"
-    },
-    {
-      "serverDate": "2026-09-26",
-      "showName": "Om Namo Venkatesaya",
-      "description": "Young Rama meditates for 15 years in search of God but does not recognise Lord Venkateswara when he appears to him in the form of a child. He then sets out to Tirumala after realising his mistake.",
-      "startDate": "2026-09-26T08:00:00",
-      "endDate": "2026-09-26T11:30:00",
-      "showTime": "08:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/136856c93a40f2675be68fa80e2af4b8.jpg"
-    },
-    {
-      "serverDate": "2026-09-26",
-      "showName": "Padutha Theeyaga",
-      "description": "The judges welcome various contestants from Andhra Pradesh and Telangana who showcase their unique singing skills in front of them.",
-      "startDate": "2026-09-26T11:30:00",
-      "endDate": "2026-09-26T16:00:00",
-      "showTime": "11:30:00",
-      "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58753b8de4d5edc0c2e8e013207488eb.jpg"
-    },
-    {
-      "serverDate": "2026-09-26",
-      "showName": "Om Namo Venkatesaya",
-      "description": "Young Rama meditates for 15 years in search of God but does not recognise Lord Venkateswara when he appears to him in the form of a child. He then sets out to Tirumala after realising his mistake.",
-      "startDate": "2026-09-26T16:00:00",
-      "endDate": "2026-09-26T19:30:00",
-      "showTime": "16:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/136856c93a40f2675be68fa80e2af4b8.jpg"
-    },
-    {
-      "serverDate": "2026-09-26",
-      "showName": "Padutha Theeyaga",
-      "description": "The judges welcome various contestants from Andhra Pradesh and Telangana who showcase their unique singing skills in front of them.",
-      "startDate": "2026-09-26T19:30:00",
-      "endDate": "2026-09-26T23:59:59",
-      "showTime": "19:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58753b8de4d5edc0c2e8e013207488eb.jpg"
-    },
-    {
       "serverDate": "2026-09-27",
       "showName": "Om Namo Venkatesaya",
       "description": "Young Rama meditates for 15 years in search of God but does not recognise Lord Venkateswara when he appears to him in the form of a child. He then sets out to Tirumala after realising his mistake.",
@@ -545,6 +479,105 @@
       "endTime": "23:59:59",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58753b8de4d5edc0c2e8e013207488eb.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "Simhadri",
+      "description": "Simhadri, an orphan, is taken in by the Varma family and treated as their own. When the patriarch's daughter falls in love with him, he abandons her on their wedding day for someone else.",
+      "startDate": "2026-10-04T00:00:00",
+      "endDate": "2026-10-04T03:30:00",
+      "showTime": "00:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/54a5c5077db36e7f67e4776d9e04e911.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "Padutha Theeyaga",
+      "description": "The judges welcome various contestants from Andhra Pradesh and Telangana who showcase their unique singing skills in front of them.",
+      "startDate": "2026-10-04T03:30:00",
+      "endDate": "2026-10-04T06:00:00",
+      "showTime": "03:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58753b8de4d5edc0c2e8e013207488eb.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "To Be Announced",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-04T06:00:00",
+      "endDate": "2026-10-04T08:30:00",
+      "showTime": "06:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "TBA",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "To Be Announced",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-04T08:30:00",
+      "endDate": "2026-10-04T11:30:00",
+      "showTime": "08:30:00",
+      "endTime": "11:30:00",
+      "showCategory": "TBA",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "To Be Announced",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-04T11:30:00",
+      "endDate": "2026-10-04T14:30:00",
+      "showTime": "11:30:00",
+      "endTime": "14:30:00",
+      "showCategory": "TBA",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "To Be Announced",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-04T14:30:00",
+      "endDate": "2026-10-04T17:30:00",
+      "showTime": "14:30:00",
+      "endTime": "17:30:00",
+      "showCategory": "TBA",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "To Be Announced",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-04T17:30:00",
+      "endDate": "2026-10-04T20:30:00",
+      "showTime": "17:30:00",
+      "endTime": "20:30:00",
+      "showCategory": "TBA",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "To Be Announced",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-04T20:30:00",
+      "endDate": "2026-10-04T23:30:00",
+      "showTime": "20:30:00",
+      "endTime": "23:30:00",
+      "showCategory": "TBA",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "To Be Announced",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-04T23:30:00",
+      "endDate": "2026-10-04T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "TBA",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
     }
   ]
 }

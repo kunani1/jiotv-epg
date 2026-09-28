@@ -9,14 +9,25 @@
   "programs": [
     {
       "serverDate": "2026-09-29",
-      "showName": "Mithun Chakraborty",
-      "description": "Discover the ultimate jukebox of Mithun Chakraborty's greatest musical moments, from soulful tracks to dance floor classics.",
+      "showName": "Hema Malini Parveen Babi Hit Bollywood Divas",
+      "description": "A comprehensive compilation of timeless and memorable hits featuring Bollywood's iconic stars Hema Malini and Parveen Babi.",
       "startDate": "2026-09-29T00:00:00",
-      "endDate": "2026-09-29T01:49:00",
+      "endDate": "2026-09-29T01:18:00",
       "showTime": "00:00:00",
+      "endTime": "01:18:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4cba22c316faa8df209e8e3716cb440f.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
+      "showName": "Dance Hits",
+      "description": "A comprehensive compilation of some of the most popular party songs produced and composed by famous musicians, played back-to-back to entertain the audience.",
+      "startDate": "2026-09-29T01:18:00",
+      "endDate": "2026-09-29T01:49:00",
+      "showTime": "01:18:00",
       "endTime": "01:49:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d76294d2901a71592f996b245d1102b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/33998a39e73bfb470a72c35caf966b0f.jpg"
     },
     {
       "serverDate": "2026-09-29",
@@ -776,6 +787,138 @@
       "endTime": "23:59:59",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a56823f0fcae351530a6a5a9d001db3.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "Dharmendra He Man Of Bollywood",
+      "description": "A comprehensive compilation of Dharmendra's most iconic and melodious songs honouring his legendary run in Bollywood is played one after the other.",
+      "startDate": "2026-10-04T00:00:00",
+      "endDate": "2026-10-04T01:11:00",
+      "showTime": "00:00:00",
+      "endTime": "01:11:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a56823f0fcae351530a6a5a9d001db3.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "Dimple Kapadia & Neetu Singh",
+      "description": "Dance through the disco era with Dimple & Neetu! Playful whispers, foot-tapping romance, and melodies that defined a generation's dreams.",
+      "startDate": "2026-10-04T01:11:00",
+      "endDate": "2026-10-04T03:31:00",
+      "showTime": "01:11:00",
+      "endTime": "03:31:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97c9787c130d2507b1a58dcf93c93066.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "Kumar Sanu Alka Yagnik",
+      "description": "A comprehensive compilation of legendary hit songs featuring the iconic duo Kumar Sanu and Alka Yagnik, showcasing soulful melodies and romantic tracks, is played back-to-back.",
+      "startDate": "2026-10-04T03:31:00",
+      "endDate": "2026-10-04T05:46:00",
+      "showTime": "03:31:00",
+      "endTime": "05:46:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9640bf13b0277aea45a6c35307596eb9.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "Mithun Chakraborty",
+      "description": "Discover the ultimate jukebox of Mithun Chakraborty's greatest musical moments, from soulful tracks to dance floor classics.",
+      "startDate": "2026-10-04T05:46:00",
+      "endDate": "2026-10-04T08:29:00",
+      "showTime": "05:46:00",
+      "endTime": "08:29:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d76294d2901a71592f996b245d1102b.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "Alka Yagnik Superhit Singer",
+      "description": "Alka Yagnik Superhit Singer",
+      "startDate": "2026-10-04T08:29:00",
+      "endDate": "2026-10-04T09:57:00",
+      "showTime": "08:29:00",
+      "endTime": "09:57:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7573aed4dffddc0f4ee48fb32f3e181a.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "Best Of B R Chopra",
+      "description": "A compilation of timeless tracks featured in Hindi cinema made by director and producer B R Chopra is played in succession.",
+      "startDate": "2026-10-04T09:57:00",
+      "endDate": "2026-10-04T12:12:00",
+      "showTime": "09:57:00",
+      "endTime": "12:12:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/81a9c695851035ecd9e0e331208c0fb1.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "Hema Malini Parveen Babi Hit Bollywood Divas",
+      "description": "A comprehensive compilation of timeless and memorable hits featuring Bollywood's iconic stars Hema Malini and Parveen Babi.",
+      "startDate": "2026-10-04T12:12:00",
+      "endDate": "2026-10-04T14:40:00",
+      "showTime": "12:12:00",
+      "endTime": "14:40:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4cba22c316faa8df209e8e3716cb440f.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "Prabhat Bhakti",
+      "description": "Prabhat Bhakti",
+      "startDate": "2026-10-04T14:40:00",
+      "endDate": "2026-10-04T15:47:00",
+      "showTime": "14:40:00",
+      "endTime": "15:47:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/80c80099f19dfb632933a8f8677ca1c1.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "Zindagi Ka Safar",
+      "description": "A comprehensive compilation of melodious heartfelt songs and timeless tunes is played back to back to enthral the audience.",
+      "startDate": "2026-10-04T15:47:00",
+      "endDate": "2026-10-04T17:45:00",
+      "showTime": "15:47:00",
+      "endTime": "17:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d7499147f7708b1faf0381dfb9dfef76.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "Masti Bhare Geet",
+      "description": "A comprehensive compilation of popular and melodic songs featuring a diverse range of tracks is played one after the other.",
+      "startDate": "2026-10-04T17:45:00",
+      "endDate": "2026-10-04T20:06:00",
+      "showTime": "17:45:00",
+      "endTime": "20:06:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9a9bdd36a3d1fb49ea897a3df4e2d26f.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "Blissful Beats",
+      "description": "A comprehensive compilation of some of the most rhythmic songs composed by renowned artists is played to entertain the audience.",
+      "startDate": "2026-10-04T20:06:00",
+      "endDate": "2026-10-04T22:23:00",
+      "showTime": "20:06:00",
+      "endTime": "22:23:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3cb6931263c7f2cc4ca60b54aae3968c.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "Dance Hits",
+      "description": "A comprehensive compilation of some of the most popular party songs produced and composed by famous musicians, played back-to-back to entertain the audience.",
+      "startDate": "2026-10-04T22:23:00",
+      "endDate": "2026-10-04T23:59:59",
+      "showTime": "22:23:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/33998a39e73bfb470a72c35caf966b0f.jpg"
     }
   ]
 }
