@@ -8,6 +8,116 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Dsports_HD.png",
   "programs": [
     {
+      "serverDate": "2026-09-27",
+      "showName": "FIM Speedway Grand Prix Series",
+      "description": "Coverage of stand-alone motorcycle speedway worldwide events.",
+      "startDate": "2026-09-27T00:00:00",
+      "endDate": "2026-09-27T01:30:00",
+      "showTime": "00:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/698dc6e74d5dc92eb23f8994623f80ce.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Eredivisie Soccer",
+      "description": "Professional football teams compete against each other in order to emerge victorious in the Eredivisie, a premier football tournament in the Netherlands.",
+      "startDate": "2026-09-27T01:30:00",
+      "endDate": "2026-09-27T03:30:00",
+      "showTime": "01:30:00",
+      "endTime": "03:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c42ec8ca139cb99d6d70a363a8ee46f.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "FIM EWC Highlights",
+      "description": "Professional drivers compete against each other in the FIM Endurance World Championship Motorcycle Racing event to emerge victorious.",
+      "startDate": "2026-09-27T03:30:00",
+      "endDate": "2026-09-27T04:30:00",
+      "showTime": "03:30:00",
+      "endTime": "04:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ab4248a7e829fc6d5823c88f0c47abb1.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "AEW: All Out",
+      "description": "AEW: All Out",
+      "startDate": "2026-09-27T04:30:00",
+      "endDate": "2026-09-27T10:00:00",
+      "showTime": "04:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5ee662e318d14ee98ebf8ee499eec576.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "FIA World Endurance Championship",
+      "description": "Coverage of races from the FIA World Endurance Championship (WEC).",
+      "startDate": "2026-09-27T10:00:00",
+      "endDate": "2026-09-27T11:00:00",
+      "showTime": "10:00:00",
+      "endTime": "11:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/036689feecfa697893a20c4cba263abd.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "AEW Dynamite",
+      "description": "Professional wrestlers compete against each other in the AEW Dynamite event in order to emerge victorious and win the title.",
+      "startDate": "2026-09-27T11:00:00",
+      "endDate": "2026-09-27T13:00:00",
+      "showTime": "11:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e253288f0a950e0a0a098e3abba28124.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Showtime with Yashasvi Jaiswal",
+      "description": "Showtime with Yashasvi Jaiswal",
+      "startDate": "2026-09-27T13:00:00",
+      "endDate": "2026-09-27T13:15:00",
+      "showTime": "13:00:00",
+      "endTime": "13:15:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c93cf92f691941f3d47ec70bde39405.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "One-Day International Cricket",
+      "description": "Professional cricket teams compete against each other to emerge victorious and win the title in a One Day International tournament.",
+      "startDate": "2026-09-27T13:15:00",
+      "endDate": "2026-09-27T21:30:00",
+      "showTime": "13:15:00",
+      "endTime": "21:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/efe40825427b6cfdac98052bb4a60734.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "WWE's Greatest Moments",
+      "description": "Showcasing iconic events that have shaped WWE history and thrilled fans for decades, from legendary heroes to shocking betrayals and epic battles.",
+      "startDate": "2026-09-27T21:30:00",
+      "endDate": "2026-09-27T22:00:00",
+      "showTime": "21:30:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6800244e2e6ffd670af1383cba03865b.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "AEW: All Out",
+      "description": "AEW: All Out",
+      "startDate": "2026-09-27T22:00:00",
+      "endDate": "2026-09-27T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5ee662e318d14ee98ebf8ee499eec576.jpg"
+    },
+    {
       "serverDate": "2026-09-28",
       "showName": "AEW: All Out",
       "description": "AEW: All Out",

@@ -8,81 +8,1313 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYTam.png",
   "programs": [
     {
-      "serverDate": "2026-09-28",
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Zordaar's bulldog Chacha annoys everyone, eats their food, and bosses them around, so they team up to teach him a lesson.",
+      "startDate": "2026-09-27T00:00:00",
+      "endDate": "2026-09-27T00:05:00",
+      "showTime": "00:00:00",
+      "endTime": "00:05:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/66cf17759d1ae924d10751c42d7c4303.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey Bunny and friends participate in the annual games.",
+      "startDate": "2026-09-27T00:05:00",
+      "endDate": "2026-09-27T00:12:00",
+      "showTime": "00:05:00",
+      "endTime": "00:12:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2e5590809e3c6a595ed3d3b4b2852399.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Sudha Murty's Stories of Wit & Magic",
+      "description": "Vineet and Vidur live next to each other, but their worlds are wide apart. How will they coexist?",
+      "startDate": "2026-09-27T00:12:00",
+      "endDate": "2026-09-27T00:19:00",
+      "showTime": "00:12:00",
+      "endTime": "00:19:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fec7d6b0602150f327e9c7feb215aa8e.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
       "showName": "Sudha Murty's Stories of Wit & Magic",
       "description": "After a huge business loss, Rohini and her husband's life turns upside down until Rohini asks the queen to grant her wish.",
+      "startDate": "2026-09-27T00:19:00",
+      "endDate": "2026-09-27T00:25:00",
+      "showTime": "00:19:00",
+      "endTime": "00:25:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/409aafa0e4a0f2ec8e9e6660e37f808d.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "A goon kidnaps the real commissioner and becomes a fake commissioner. What will happen now?",
+      "startDate": "2026-09-27T00:25:00",
+      "endDate": "2026-09-27T00:32:00",
+      "showTime": "00:25:00",
+      "endTime": "00:32:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f37d63e129bcf8d95ec1aad1a5a2ef0f.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Paap-O-Meter",
+      "description": "Jeenu is sad as Chamku Dhobi ruins his red Santa Claus outfit. How will Bhoot Boss deal with this?",
+      "startDate": "2026-09-27T00:32:00",
+      "endDate": "2026-09-27T00:39:00",
+      "showTime": "00:32:00",
+      "endTime": "00:39:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2c2d0a6014a03d1336d808b22a9b43a8.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Paap-O-Meter",
+      "description": "An annoying man who is getting late for the office starts honking. How will he be dealt with?",
+      "startDate": "2026-09-27T00:39:00",
+      "endDate": "2026-09-27T00:46:00",
+      "showTime": "00:39:00",
+      "endTime": "00:46:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29aa10ac3f5d8ccf7f7e5d40b030d17f.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Guru Aur Bhole",
+      "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
+      "startDate": "2026-09-27T00:46:00",
+      "endDate": "2026-09-27T00:53:00",
+      "showTime": "00:46:00",
+      "endTime": "00:53:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/844ad49e90df986e44df723abe443567.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Kicko And Super Speedo",
+      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
+      "startDate": "2026-09-27T00:53:00",
+      "endDate": "2026-09-27T01:00:00",
+      "showTime": "00:53:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eefe0202300ee041305bf2b099c1b7fd.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T01:00:00",
+      "endDate": "2026-09-27T01:11:00",
+      "showTime": "01:00:00",
+      "endTime": "01:11:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T01:11:00",
+      "endDate": "2026-09-27T01:22:00",
+      "showTime": "01:11:00",
+      "endTime": "01:22:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T01:22:00",
+      "endDate": "2026-09-27T01:33:00",
+      "showTime": "01:22:00",
+      "endTime": "01:33:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T01:33:00",
+      "endDate": "2026-09-27T01:44:00",
+      "showTime": "01:33:00",
+      "endTime": "01:44:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T01:44:00",
+      "endDate": "2026-09-27T01:54:00",
+      "showTime": "01:44:00",
+      "endTime": "01:54:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T01:54:00",
+      "endDate": "2026-09-27T02:06:00",
+      "showTime": "01:54:00",
+      "endTime": "02:06:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T02:06:00",
+      "endDate": "2026-09-27T02:16:00",
+      "showTime": "02:06:00",
+      "endTime": "02:16:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T02:16:00",
+      "endDate": "2026-09-27T02:27:00",
+      "showTime": "02:16:00",
+      "endTime": "02:27:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T02:27:00",
+      "endDate": "2026-09-27T02:38:00",
+      "showTime": "02:27:00",
+      "endTime": "02:38:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T02:38:00",
+      "endDate": "2026-09-27T02:49:00",
+      "showTime": "02:38:00",
+      "endTime": "02:49:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T02:49:00",
+      "endDate": "2026-09-27T03:00:00",
+      "showTime": "02:49:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T03:00:00",
+      "endDate": "2026-09-27T03:10:00",
+      "showTime": "03:00:00",
+      "endTime": "03:10:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T03:10:00",
+      "endDate": "2026-09-27T03:22:00",
+      "showTime": "03:10:00",
+      "endTime": "03:22:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T03:22:00",
+      "endDate": "2026-09-27T03:34:00",
+      "showTime": "03:22:00",
+      "endTime": "03:34:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T03:34:00",
+      "endDate": "2026-09-27T03:45:00",
+      "showTime": "03:34:00",
+      "endTime": "03:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T03:45:00",
+      "endDate": "2026-09-27T03:58:00",
+      "showTime": "03:45:00",
+      "endTime": "03:58:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T03:58:00",
+      "endDate": "2026-09-27T04:10:00",
+      "showTime": "03:58:00",
+      "endTime": "04:10:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T04:10:00",
+      "endDate": "2026-09-27T04:21:00",
+      "showTime": "04:10:00",
+      "endTime": "04:21:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T04:21:00",
+      "endDate": "2026-09-27T04:33:00",
+      "showTime": "04:21:00",
+      "endTime": "04:33:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T04:33:00",
+      "endDate": "2026-09-27T04:43:00",
+      "showTime": "04:33:00",
+      "endTime": "04:43:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T04:43:00",
+      "endDate": "2026-09-27T04:55:00",
+      "showTime": "04:43:00",
+      "endTime": "04:55:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T04:55:00",
+      "endDate": "2026-09-27T05:04:00",
+      "showTime": "04:55:00",
+      "endTime": "05:04:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T05:04:00",
+      "endDate": "2026-09-27T05:16:00",
+      "showTime": "05:04:00",
+      "endTime": "05:16:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T05:16:00",
+      "endDate": "2026-09-27T05:26:00",
+      "showTime": "05:16:00",
+      "endTime": "05:26:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T05:26:00",
+      "endDate": "2026-09-27T05:37:00",
+      "showTime": "05:26:00",
+      "endTime": "05:37:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T05:37:00",
+      "endDate": "2026-09-27T05:48:00",
+      "showTime": "05:37:00",
+      "endTime": "05:48:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.",
+      "startDate": "2026-09-27T05:48:00",
+      "endDate": "2026-09-27T06:00:00",
+      "showTime": "05:48:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85e9a35e29826d8d159c96fb7b68a32c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey, Bunny and friends get tangled up in crazy adventures. Watch the episode to find out.",
+      "startDate": "2026-09-27T06:00:00",
+      "endDate": "2026-09-27T06:09:00",
+      "showTime": "06:00:00",
+      "endTime": "06:09:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/38be41ba25e8010fdb784ca31b646c9c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Paap-O-Meter",
+      "description": "An old lady doesn't let people go to the park as she's working for a man who needs the park for his own use. What will Thakela and Pakela do now?",
+      "startDate": "2026-09-27T06:09:00",
+      "endDate": "2026-09-27T06:16:00",
+      "showTime": "06:09:00",
+      "endTime": "06:16:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b5b8848f1d41022f2c07fb55a32e5972.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey, Bunny and friends get tangled up in crazy adventures. Watch the episode to find out.",
+      "startDate": "2026-09-27T06:16:00",
+      "endDate": "2026-09-27T06:23:00",
+      "showTime": "06:16:00",
+      "endTime": "06:23:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/54db08e78acdc0830781e58450c1df54.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Paap-O-Meter",
+      "description": "The ghosts teach a lesson to a mimicry artist.",
+      "startDate": "2026-09-27T06:23:00",
+      "endDate": "2026-09-27T06:30:00",
+      "showTime": "06:23:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3d415912dd23d4b3c66fff8f8241bf9.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Kicko And Super Speedo",
+      "description": "Kicko and his friends hit a traffic jam when all town fuel vanishes. They hunt the fuel thief and try to stop him.",
+      "startDate": "2026-09-27T06:30:00",
+      "endDate": "2026-09-27T06:37:00",
+      "showTime": "06:30:00",
+      "endTime": "06:37:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c92cb31bc12d556035d636942569698d.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Sudha Murty's Stories of Wit & Magic",
+      "description": "Vineet and Vidur live next to each other, but their worlds are wide apart. How will they coexist?",
+      "startDate": "2026-09-27T06:37:00",
+      "endDate": "2026-09-27T06:44:00",
+      "showTime": "06:37:00",
+      "endTime": "06:44:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fec7d6b0602150f327e9c7feb215aa8e.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Kicko And Super Speedo",
+      "description": "Dodo and Twinkle wait for the train, but Kicko hasn't arrived yet. Meanwhile, a criminal plants a bomb on the train.",
+      "startDate": "2026-09-27T06:44:00",
+      "endDate": "2026-09-27T06:51:00",
+      "showTime": "06:44:00",
+      "endTime": "06:51:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/07d764c520b68f7f5a6c667f37b5cce5.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Guru Aur Bhole",
+      "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
+      "startDate": "2026-09-27T06:51:00",
+      "endDate": "2026-09-27T06:57:00",
+      "showTime": "06:51:00",
+      "endTime": "06:57:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b867ee9361e306f4a3c26396e6e4680.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey, Bunny and friends get tangled up in crazy adventures. Watch the episode to find out.",
+      "startDate": "2026-09-27T06:57:00",
+      "endDate": "2026-09-27T07:11:00",
+      "showTime": "06:57:00",
+      "endTime": "07:11:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/841078201869d96db5676085f436c181.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Kicko And Super Speedo",
+      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
+      "startDate": "2026-09-27T07:11:00",
+      "endDate": "2026-09-27T07:19:00",
+      "showTime": "07:11:00",
+      "endTime": "07:19:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a81f8c533df17552a71d9bff21821871.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Kicko And Super Speedo",
+      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
+      "startDate": "2026-09-27T07:19:00",
+      "endDate": "2026-09-27T07:26:00",
+      "showTime": "07:19:00",
+      "endTime": "07:26:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/653f10d16cef393362bb3224e90bfd2e.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey, Bunny and friends meet a casting director.",
+      "startDate": "2026-09-27T07:26:00",
+      "endDate": "2026-09-27T07:34:00",
+      "showTime": "07:26:00",
+      "endTime": "07:34:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba43913ab5c8a4bed33a94a2fd2eafa9.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Guru Aur Bhole",
+      "description": "Major asks Bhole and Guru to get his special butter for breakfast; if they succeed, he won't take rent from them for this month.",
+      "startDate": "2026-09-27T07:34:00",
+      "endDate": "2026-09-27T07:42:00",
+      "showTime": "07:34:00",
+      "endTime": "07:42:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eaad2b509f921efe4ba13d81db57d65a.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Sudha Murty's Stories of Wit & Magic",
+      "description": "Sukeshini lives in a remote village with her mother. One day, she encounters a demon at the lake. How will she manage to keep the village safe?",
+      "startDate": "2026-09-27T07:42:00",
+      "endDate": "2026-09-27T07:50:00",
+      "showTime": "07:42:00",
+      "endTime": "07:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f00ecba0287dee055bdf9debc2e4a4dd.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Sudha Murty's Stories of Wit & Magic",
+      "description": "Karan and Arjun, lifelong friends, get lost in a forest on the way home. Can they find their way back safely?",
+      "startDate": "2026-09-27T07:50:00",
+      "endDate": "2026-09-27T07:58:00",
+      "showTime": "07:50:00",
+      "endTime": "07:58:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/249b82662e9af7fa2ff67c36a73ae615.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Paap-O-Meter",
+      "description": "The villagers get mesmerised by a reality show but one of their own doesn't get selected. What is the reality behind it?",
+      "startDate": "2026-09-27T07:58:00",
+      "endDate": "2026-09-27T08:14:00",
+      "showTime": "07:58:00",
+      "endTime": "08:14:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0aea71ac1114348aaee3dbdedd3684ac.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Zordaar gets a job as delivery a pizza delivery boy and a few goons rob him.",
+      "startDate": "2026-09-27T08:14:00",
+      "endDate": "2026-09-27T08:22:00",
+      "showTime": "08:14:00",
+      "endTime": "08:22:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/38d265982ea223d838a372be68b2eda0.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Guru Aur Bhole",
+      "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
+      "startDate": "2026-09-27T08:22:00",
+      "endDate": "2026-09-27T08:37:00",
+      "showTime": "08:22:00",
+      "endTime": "08:37:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bc83c862d07b2866ebb06420a5d3209f.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey, Bunny, Zordaar and Popat take part in a fashion show.",
+      "startDate": "2026-09-27T08:37:00",
+      "endDate": "2026-09-27T08:45:00",
+      "showTime": "08:37:00",
+      "endTime": "08:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e7bff7ad09c2d0c1db9c9e9e1cfacfff.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey Bunny and friends take care of Grandma after she loses her glasses.",
+      "startDate": "2026-09-27T08:45:00",
+      "endDate": "2026-09-27T08:52:00",
+      "showTime": "08:45:00",
+      "endTime": "08:52:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/910c1f5c3cee29f5827eb7d4d59ef7eb.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Paap-O-Meter",
+      "description": "Thakela and Pakela teach a good lesson to the plane hijackers.",
+      "startDate": "2026-09-27T08:52:00",
+      "endDate": "2026-09-27T09:00:00",
+      "showTime": "08:52:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4e421c2517808b99bdfaf8eb5dc3cbc9.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Guru Aur Bhole",
+      "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
+      "startDate": "2026-09-27T09:00:00",
+      "endDate": "2026-09-27T09:17:00",
+      "showTime": "09:00:00",
+      "endTime": "09:17:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0bcb3552523e3b5d4cb5e6634ff37f6b.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Watch Honey, Bunny and his friends embark upon myriad adventures as they cruise through life.",
+      "startDate": "2026-09-27T09:17:00",
+      "endDate": "2026-09-27T09:24:00",
+      "showTime": "09:17:00",
+      "endTime": "09:24:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6b9bd987b47b6c0cbe0f3b2518db7fde.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Paap-O-Meter",
+      "description": "A mischievous boy in the neighbourhood splashes water on strangers by speeding his bike over puddles. Watch how Thakela and Pakela teach him a lesson.",
+      "startDate": "2026-09-27T09:24:00",
+      "endDate": "2026-09-27T09:31:00",
+      "showTime": "09:24:00",
+      "endTime": "09:31:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4fd44beaf13f6343f74541278755db13.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Paap-O-Meter",
+      "description": "A delivery boy deceits the customers and steals their products. How will he be taught a lesson?",
+      "startDate": "2026-09-27T09:31:00",
+      "endDate": "2026-09-27T09:39:00",
+      "showTime": "09:31:00",
+      "endTime": "09:39:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a9c502fa6b84d542c3313ee2b50ace30.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey, Bunny and friends experience a car brake fail.",
+      "startDate": "2026-09-27T09:39:00",
+      "endDate": "2026-09-27T09:46:00",
+      "showTime": "09:39:00",
+      "endTime": "09:46:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23f9949eefe77cd665765275f47692a5.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Mr. Fridge, an aggressive man, turns people into ice. How will Honey solve this?",
+      "startDate": "2026-09-27T09:46:00",
+      "endDate": "2026-09-27T09:53:00",
+      "showTime": "09:46:00",
+      "endTime": "09:53:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c65c7adff280246e9687045c353be112.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Kicko And Super Speedo",
+      "description": "Kicko, Dodo, Twinkle and the others get on a flight to visit Wonderland. The Flight gets Hijacked and everyone is in trouble.",
+      "startDate": "2026-09-27T09:53:00",
+      "endDate": "2026-09-27T10:00:00",
+      "showTime": "09:53:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f3f77a166403ad4c6059e23de7fe27ad.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Mr. Saand beats Honey up. How will his friends deal with this?",
+      "startDate": "2026-09-27T10:00:00",
+      "endDate": "2026-09-27T10:21:00",
+      "showTime": "10:00:00",
+      "endTime": "10:21:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/30ac0f7c3dee8a4afe092cb3365a806c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey, Bunny and the gang go to a garage to get a part-time job. Will they get one?",
+      "startDate": "2026-09-27T10:21:00",
+      "endDate": "2026-09-27T10:28:00",
+      "showTime": "10:21:00",
+      "endTime": "10:28:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a68bf8e100d0a6091ea78719e70882d6.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Kicko And Super Speedo",
+      "description": "Jolly Joker kidnaps Dodo and Twinkle, and Kicko and Super Speedo race to rescue them as he speeds off in his thunderbolt car.",
+      "startDate": "2026-09-27T10:28:00",
+      "endDate": "2026-09-27T10:36:00",
+      "showTime": "10:28:00",
+      "endTime": "10:36:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad66e7523c8feb47a03f268695070c50.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Sudha Murty's Stories of Wit & Magic",
+      "description": "Abhishek arrives in Sundarpur to settle, but Bella uncovers his true identity and informs the elders. How will they deal with him?",
+      "startDate": "2026-09-27T10:36:00",
+      "endDate": "2026-09-27T10:43:00",
+      "showTime": "10:36:00",
+      "endTime": "10:43:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bceca7a8fab1e832dd81e4fa76a61048.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Paap-O-Meter",
+      "description": "Thakela, Pakela and Bhoot Boss aim to stop a shopkeeper who steals money from the kids by not keeping change at his shop.",
+      "startDate": "2026-09-27T10:43:00",
+      "endDate": "2026-09-27T10:51:00",
+      "showTime": "10:43:00",
+      "endTime": "10:51:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/34e03595230a5ec43e9e2f5a999ffe79.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Sudha Murty's Stories of Wit & Magic",
+      "description": "A tale of a fisherman who comes across a golden fish and encounters a demon.",
+      "startDate": "2026-09-27T10:51:00",
+      "endDate": "2026-09-27T10:58:00",
+      "showTime": "10:51:00",
+      "endTime": "10:58:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/21a6932bb196dded77c235195af5c910.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Shin Chan 'Burst! Hot Spring Battle!",
+      "description": "Whilst the teachers of Futaba Kindergarten are relaxing in a hot spring, an earthquake shakes them to their core. Afterwards, sightings emerge of a mysterious giant.",
+      "startDate": "2026-09-27T10:58:00",
+      "endDate": "2026-09-27T12:48:00",
+      "showTime": "10:58:00",
+      "endTime": "12:48:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2527499da2ad7e0294916d3049878b28.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Kitty wins a lucky draw and another cat named Sweety tries to take her place.",
+      "startDate": "2026-09-27T12:48:00",
+      "endDate": "2026-09-27T12:53:00",
+      "showTime": "12:48:00",
+      "endTime": "12:53:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ac7d66a618275c556445dc732183d3b1.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Nandu plays a prank on Honey. How will Honey teach him a lesson?",
+      "startDate": "2026-09-27T12:53:00",
+      "endDate": "2026-09-27T13:00:00",
+      "showTime": "12:53:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9642d0cfdd3e2660e66dfe6fe9bc379.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Shin Chan: Mr. smelly's ambition",
+      "description": "Shin-chan and the Nohara family travel back in time to stop Kasukabe's villain and his notorious gang from carrying out their evil mission.",
+      "startDate": "2026-09-27T13:00:00",
+      "endDate": "2026-09-27T14:58:00",
+      "showTime": "13:00:00",
+      "endTime": "14:58:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/33f4d54797d86b3115d7855e485e07d6.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and his friends are on their way to a picnic through the jungle. Suddenly, they are stopped by a stranger lady.",
+      "startDate": "2026-09-27T14:58:00",
+      "endDate": "2026-09-27T15:05:00",
+      "showTime": "14:58:00",
+      "endTime": "15:05:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bad5d1e017aea8f081e34a8da6d14567.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Sudha Murty's Stories of Wit & Magic",
+      "description": "Once upon a time, the water from the sea would taste sweet. What could have happened that turned the sea water salty?",
+      "startDate": "2026-09-27T15:05:00",
+      "endDate": "2026-09-27T15:12:00",
+      "showTime": "15:05:00",
+      "endTime": "15:12:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/27e5107f51b36b2eec657a71fd6950a0.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Kicko And Super Speedo",
+      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
+      "startDate": "2026-09-27T15:12:00",
+      "endDate": "2026-09-27T15:19:00",
+      "showTime": "15:12:00",
+      "endTime": "15:19:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7541cfc3aec846c0b029664dbedebbfc.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Kicko And Super Speedo",
+      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
+      "startDate": "2026-09-27T15:19:00",
+      "endDate": "2026-09-27T15:27:00",
+      "showTime": "15:19:00",
+      "endTime": "15:27:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e3cc685e1b24b3c44da2058685a9f7f.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Paap-O-Meter",
+      "description": "Raka is back and wants revenge on the ghosts.",
+      "startDate": "2026-09-27T15:27:00",
+      "endDate": "2026-09-27T15:34:00",
+      "showTime": "15:27:00",
+      "endTime": "15:34:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/14710a23777873598d92bdd9e767e3cd.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Guru Aur Bhole",
+      "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
+      "startDate": "2026-09-27T15:34:00",
+      "endDate": "2026-09-27T15:40:00",
+      "showTime": "15:34:00",
+      "endTime": "15:40:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fdf48b2385890b6713ff530e771fa848.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Kicko And Super Speedo",
+      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
+      "startDate": "2026-09-27T15:40:00",
+      "endDate": "2026-09-27T15:59:00",
+      "showTime": "15:40:00",
+      "endTime": "15:59:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5db03037ce2b19a6db48a58c465c7241.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Paap-O-Meter",
+      "description": "A builder wants to build his dream project and destroys a chawl for that. Will the ghosts stop him?",
+      "startDate": "2026-09-27T15:59:00",
+      "endDate": "2026-09-27T16:08:00",
+      "showTime": "15:59:00",
+      "endTime": "16:08:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d66006fb124af62ee7d63903a182d3e.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Two pugs decide to do something that will make everyone buy water from them only. Who will catch them doing this mischief?",
+      "startDate": "2026-09-27T16:08:00",
+      "endDate": "2026-09-27T16:14:00",
+      "showTime": "16:08:00",
+      "endTime": "16:14:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ded5f8592a16f907f6b3cdb363da8121.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey Bunny and the gang meet their old nemesis, the 'Bad Monkey'.",
+      "startDate": "2026-09-27T16:14:00",
+      "endDate": "2026-09-27T16:21:00",
+      "showTime": "16:14:00",
+      "endTime": "16:21:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c02e0c1dd8dcbb74194d15e4f4850300.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Paap-O-Meter",
+      "description": "A man steals footwear and re-sells them to the same people for a price. Will Thakela and Pakela teach him a lesson?",
+      "startDate": "2026-09-27T16:21:00",
+      "endDate": "2026-09-27T16:28:00",
+      "showTime": "16:21:00",
+      "endTime": "16:28:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a15bb4327a41f2eb49a270f06c977bc7.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny start their own driving school.",
+      "startDate": "2026-09-27T16:28:00",
+      "endDate": "2026-09-27T16:35:00",
+      "showTime": "16:28:00",
+      "endTime": "16:35:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17de303abe9c2ac3ab44189dd6fa1dac.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Paap-O-Meter",
+      "description": "A man named Chepu Sultan covers up important traffic signs with his posters, and Bhoot Boss decides to teach him a lesson.",
+      "startDate": "2026-09-27T16:35:00",
+      "endDate": "2026-09-27T16:42:00",
+      "showTime": "16:35:00",
+      "endTime": "16:42:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bcb0aa81e21f6217a9e0963403b54022.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Sudha Murty's Stories of Wit & Magic",
+      "description": "Ram, mistreated by his mother, keeps strong bonds with Lakshman. Lost in a dangerous forest, he must find his way back.",
+      "startDate": "2026-09-27T16:42:00",
+      "endDate": "2026-09-27T17:00:00",
+      "showTime": "16:42:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3faacbc25e50e82544766d5f3c9746dd.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Shin chan - Dangerous Family Holiday",
+      "description": "Mitsy surprises the Nohara family with a trip to Australia. Upon their arrival, Harry gets abducted, leaving the others to rescue him.",
+      "startDate": "2026-09-27T17:00:00",
+      "endDate": "2026-09-27T18:59:00",
+      "showTime": "17:00:00",
+      "endTime": "18:59:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d85dd01b66483d7b5c11aaab9126b73f.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Paap-O-Meter",
+      "description": "A hot air balloon person scams an innocent family and Bhoot Boss, Thakela and Pakela teach him a lesson.",
+      "startDate": "2026-09-27T18:59:00",
+      "endDate": "2026-09-27T19:16:00",
+      "showTime": "18:59:00",
+      "endTime": "19:16:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f8b5fa821f035d1db1680b70763d2e3.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Guru Aur Bhole",
+      "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
+      "startDate": "2026-09-27T19:16:00",
+      "endDate": "2026-09-27T19:22:00",
+      "showTime": "19:16:00",
+      "endTime": "19:22:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/66cd74e070aa0741e565f1c6ff302484.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey, Bunny and friends go to an ice festival.",
+      "startDate": "2026-09-27T19:22:00",
+      "endDate": "2026-09-27T19:29:00",
+      "showTime": "19:22:00",
+      "endTime": "19:29:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/165dcf6d0fcf884f0bb402b6c6ec84e2.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Guru Aur Bhole",
+      "description": "MJ makes Bhole wear a black belt, which causes him to act out and causes problems for everyone.",
+      "startDate": "2026-09-27T19:29:00",
+      "endDate": "2026-09-27T19:36:00",
+      "showTime": "19:29:00",
+      "endTime": "19:36:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9202da4b72e6a0009a7e548a16d12456.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and his friends put up a fight against a group of mice.",
+      "startDate": "2026-09-27T19:36:00",
+      "endDate": "2026-09-27T19:43:00",
+      "showTime": "19:36:00",
+      "endTime": "19:43:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9d79ba13efa42b4d0f2d2909f0917e8.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Katkar receives an incomplete letter which is trying to convey an important message.",
+      "startDate": "2026-09-27T19:43:00",
+      "endDate": "2026-09-27T19:50:00",
+      "showTime": "19:43:00",
+      "endTime": "19:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/242ad894960beb7c9167c4318bef6399.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey's wisdom tooth starts aching badly. Will he get it removed?",
+      "startDate": "2026-09-27T19:50:00",
+      "endDate": "2026-09-27T19:57:00",
+      "showTime": "19:50:00",
+      "endTime": "19:57:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/113b94022b8bad40d4632a21567853f8.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey, Bunny and friends find out about the haunted pond.",
+      "startDate": "2026-09-27T19:57:00",
+      "endDate": "2026-09-27T20:04:00",
+      "showTime": "19:57:00",
+      "endTime": "20:04:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8958c4e5a4e9a275971628a6c45a85f2.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "A squirrel steals Ms Katkar's diamond ring.",
+      "startDate": "2026-09-27T20:04:00",
+      "endDate": "2026-09-27T20:11:00",
+      "showTime": "20:04:00",
+      "endTime": "20:11:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/57c4d54d6c5d4c76158f7f44158516c9.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Paap-O-Meter",
+      "description": "A few pirates take over a submarine in order to loot a treasure. Who will stop them?",
+      "startDate": "2026-09-27T20:11:00",
+      "endDate": "2026-09-27T20:18:00",
+      "showTime": "20:11:00",
+      "endTime": "20:18:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b61c8830cf9b802cbebc9f95c72357b9.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Paap-O-Meter",
+      "description": "A man named Chandu Chandpuriya starts writing his name on famous monuments and Thakela and Pakela teach him a lesson.",
+      "startDate": "2026-09-27T20:18:00",
+      "endDate": "2026-09-27T20:25:00",
+      "showTime": "20:18:00",
+      "endTime": "20:25:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0a72c8e4a9d3f6b34fd4168660a3096d.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Paap-O-Meter",
+      "description": "Bhoot Boss, Thakela and Pakela get caught up in a crazy adventure. Watch to find out.",
+      "startDate": "2026-09-27T20:25:00",
+      "endDate": "2026-09-27T20:32:00",
+      "showTime": "20:25:00",
+      "endTime": "20:32:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/797b4dd1c658c97fab9a4408578683a4.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Kicko And Super Speedo",
+      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
+      "startDate": "2026-09-27T20:32:00",
+      "endDate": "2026-09-27T20:39:00",
+      "showTime": "20:32:00",
+      "endTime": "20:39:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84de74fbab29373c839312f131763986.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey, Bunny and friends find a magic carpet",
+      "startDate": "2026-09-27T20:39:00",
+      "endDate": "2026-09-27T20:56:00",
+      "showTime": "20:39:00",
+      "endTime": "20:56:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1d67d361ac245d9d8af8ab046ddf310c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Paap-O-Meter",
+      "description": "A bird named Opa tells Thakela and Pakela that an evil man captured her partner named Popa. How will they free Popa now?",
+      "startDate": "2026-09-27T20:56:00",
+      "endDate": "2026-09-27T21:15:00",
+      "showTime": "20:56:00",
+      "endTime": "21:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dde6f869452baeb487a46ccf8a39ab9c.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey, Bunny and friends meets the househelp who joined the Khanna's.",
+      "startDate": "2026-09-27T21:15:00",
+      "endDate": "2026-09-27T21:33:00",
+      "showTime": "21:15:00",
+      "endTime": "21:33:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/42480b117432b071cc7e7200ab46e968.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey Bunny and friends meet some little people.",
+      "startDate": "2026-09-27T21:33:00",
+      "endDate": "2026-09-27T22:03:00",
+      "showTime": "21:33:00",
+      "endTime": "22:03:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a73968f0cd96f32a69e6acc1e4f2ba76.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Kicko And Super Speedo",
+      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
+      "startDate": "2026-09-27T22:03:00",
+      "endDate": "2026-09-27T22:23:00",
+      "showTime": "22:03:00",
+      "endTime": "22:23:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e71f28b05caa8df8d0c67a8b3940aba4.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Sudha Murty's Stories of Wit & Magic",
+      "description": "The king of Hansnagar is a noble and powerful one, however he has a secret. How will his populace feel when they discover the truth about their king?",
+      "startDate": "2026-09-27T22:23:00",
+      "endDate": "2026-09-27T22:58:00",
+      "showTime": "22:23:00",
+      "endTime": "22:58:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8fdee3e87b16fab4f0460f8a4d0593d4.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Kicko And Super Speedo",
+      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
+      "startDate": "2026-09-27T22:58:00",
+      "endDate": "2026-09-27T23:17:00",
+      "showTime": "22:58:00",
+      "endTime": "23:17:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/032654caee78f89d6ab5afff0849a5f5.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Sudha Murty's Stories of Wit & Magic",
+      "description": "Anil, sheltered by his loving family, is naive and mischievous. When he tries to help his father, trouble follows.",
+      "startDate": "2026-09-27T23:17:00",
+      "endDate": "2026-09-27T23:52:00",
+      "showTime": "23:17:00",
+      "endTime": "23:52:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8af4e21c3738ed7fd42da04c6bae0b34.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey offers to become an inspector and help the real Inspector Panda.",
+      "startDate": "2026-09-27T23:52:00",
+      "endDate": "2026-09-27T23:59:00",
+      "showTime": "23:52:00",
+      "endTime": "23:59:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a01583a28792e5decfa015610316c01.jpg"
+    },
+    {
+      "serverDate": "2026-09-27",
+      "showName": "Paap-O-Meter",
+      "description": "The milkman is cheating families by selling them milk diluted with water. What will Thakela and Pakela do?",
+      "startDate": "2026-09-27T23:59:00",
+      "endDate": "2026-09-27T23:59:59",
+      "showTime": "23:59:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b50e9244dc921e8894fcbbbf7e8dc463.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Mr Khanna takes Honey, Bunny and the others to the zoo. The zoo owner asks the gang to take care of the zoo in his absence.",
       "startDate": "2026-09-28T00:00:00",
       "endDate": "2026-09-28T00:06:00",
       "showTime": "00:00:00",
       "endTime": "00:06:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/409aafa0e4a0f2ec8e9e6660e37f808d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a9ce8331e8eaf9b51479f63bb1de031.jpg"
     },
     {
       "serverDate": "2026-09-28",
       "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Honey Bunny and friends help Khanna.",
+      "description": "Honey, Bunny and the gang encounter a colourful zebra. What adventure lies ahead of them?",
       "startDate": "2026-09-28T00:06:00",
       "endDate": "2026-09-28T00:13:00",
       "showTime": "00:06:00",
       "endTime": "00:13:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/60b99328cd25c6cb88d8abb144c9c8b6.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Honey, Bunny and friends catches a car thief.",
-      "startDate": "2026-09-28T00:13:00",
-      "endDate": "2026-09-28T00:19:00",
-      "showTime": "00:13:00",
-      "endTime": "00:19:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3b0921312c5d01be9d2c62ceb21cc2e7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d32fd66aab91d5662a1e888a124a0262.jpg"
     },
     {
       "serverDate": "2026-09-28",
       "showName": "Paap-O-Meter",
       "description": "Bhoot Boss, Thakela and Pakela get caught up in a crazy adventure. Watch to find out.",
+      "startDate": "2026-09-28T00:13:00",
+      "endDate": "2026-09-28T00:19:00",
+      "showTime": "00:13:00",
+      "endTime": "00:19:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4e5e004a8db58fbda7425ff3ec9d0408.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and his friends prepare for the arrival of Kitty's friend, Oolala.",
       "startDate": "2026-09-28T00:19:00",
       "endDate": "2026-09-28T00:25:00",
       "showTime": "00:19:00",
       "endTime": "00:25:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cc57c0f323c0ad35c9111c0596dbc3c7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/462e1a5890e9891d422dc1c369442785.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Paap-O-Meter",
-      "description": "Jogi cuts forest trees to make furniture and earn money. Bhoot Boss, Thakela and Pakela find out and teach him a lesson.",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey, Bunny and friends get tangled up in crazy adventures. Watch the episode to find out.",
       "startDate": "2026-09-28T00:25:00",
       "endDate": "2026-09-28T00:32:00",
       "showTime": "00:25:00",
       "endTime": "00:32:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/132fd94dec34b9822825971a2600781e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8734f10174037e22d1716f2b4967f67a.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Khanna's uncle has invited Honey, Bunny and the gang to show them his new invention. What is it?",
+      "showName": "Paap-O-Meter",
+      "description": "Bhoot Boss, Thakela and Pakela get caught up in a crazy adventure. Watch to find out.",
       "startDate": "2026-09-28T00:32:00",
       "endDate": "2026-09-28T00:39:00",
       "showTime": "00:32:00",
       "endTime": "00:39:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f864f86e051072fc6bf67f81f6fa9f91.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/88d1652550426a8288081ffddb4e820e.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Honey, Bunny and friends summon a wish-granting genie from a magical lamp they found while cleaning the garage.",
+      "showName": "Paap-O-Meter",
+      "description": "Thakela and Pakela decide to teach some people who have been wasting food a lesson.",
       "startDate": "2026-09-28T00:39:00",
       "endDate": "2026-09-28T00:46:00",
       "showTime": "00:39:00",
       "endTime": "00:46:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccf480735a9db0420806bd5add29a50f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/30ac2ac2d4e6dd16de28502ae58235e5.jpg"
     },
     {
       "serverDate": "2026-09-28",
@@ -395,178 +1627,178 @@
     {
       "serverDate": "2026-09-28",
       "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Madam gets kites for Honey, Bunny and Zordaar for the kite festival. They all want to fly their kites with Kitty. But who will get the chance?",
+      "description": "Honey, Bunny and friends take part in a marathon race.",
       "startDate": "2026-09-28T06:00:00",
       "endDate": "2026-09-28T06:10:00",
       "showTime": "06:00:00",
       "endTime": "06:10:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1b58a9dae2671fa55cd36b9d01b48a9f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/018f9154aa3b24a3b7c2153650f493dd.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Honey and his friends encounter a guide called Goofie on their holiday. How will their holiday turn out to be?",
+      "showName": "Kicko And Super Speedo",
+      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
       "startDate": "2026-09-28T06:10:00",
       "endDate": "2026-09-28T06:17:00",
       "showTime": "06:10:00",
       "endTime": "06:17:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/87ede534e5dd8f199484f218ff99cc9d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/11b2d00f3405eb7468e94badd238e5a6.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Honey, bunny and gang try to watch 'Naag Kanya' but cannot enter, then meet a cunning rat who argues with them.",
+      "showName": "Sudha Murty's Stories of Wit & Magic",
+      "description": "Vineet and Vidur live next to each other, but their worlds are wide apart. How will they coexist?",
       "startDate": "2026-09-28T06:17:00",
       "endDate": "2026-09-28T06:24:00",
       "showTime": "06:17:00",
       "endTime": "06:24:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/452b78eafd128e74a0416cdb2cbd9772.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fec7d6b0602150f327e9c7feb215aa8e.jpg"
     },
     {
       "serverDate": "2026-09-28",
       "showName": "Paap-O-Meter",
-      "description": "Guddu Guide fools foreigners and extorts money out of them. Thakela and Pakela decide to teach him a lesson.",
+      "description": "Kakkad runs a food truck and sells food to young children by lying to them.",
       "startDate": "2026-09-28T06:24:00",
       "endDate": "2026-09-28T06:30:00",
       "showTime": "06:24:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/922a3342889c77250a129eece239d6bb.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Paap-O-Meter",
-      "description": "A builder wants to build his dream project and destroys a chawl for that. Will the ghosts stop him?",
-      "startDate": "2026-09-28T06:30:00",
-      "endDate": "2026-09-28T06:37:00",
-      "showTime": "06:30:00",
-      "endTime": "06:37:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d66006fb124af62ee7d63903a182d3e.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Paap-O-Meter",
-      "description": "Raka is back and wants revenge on the ghosts.",
-      "startDate": "2026-09-28T06:37:00",
-      "endDate": "2026-09-28T06:44:00",
-      "showTime": "06:37:00",
-      "endTime": "06:44:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/14710a23777873598d92bdd9e767e3cd.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Sudha Murty's Stories of Wit & Magic",
-      "description": "After a huge business loss, Rohini and her husband's life turns upside down until Rohini asks the queen to grant her wish.",
-      "startDate": "2026-09-28T06:44:00",
-      "endDate": "2026-09-28T06:51:00",
-      "showTime": "06:44:00",
-      "endTime": "06:51:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/409aafa0e4a0f2ec8e9e6660e37f808d.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Paap-O-Meter",
-      "description": "Ronny lures visitors into his resort by making fake promises. How will Thakela and Pakela handle this?",
-      "startDate": "2026-09-28T06:51:00",
-      "endDate": "2026-09-28T06:58:00",
-      "showTime": "06:51:00",
-      "endTime": "06:58:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f9512b84931a33d6381e61089033035.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Two pugs decide to do something that will make everyone buy water from them only. Who will catch them doing this mischief?",
-      "startDate": "2026-09-28T06:58:00",
-      "endDate": "2026-09-28T07:10:00",
-      "showTime": "06:58:00",
-      "endTime": "07:10:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ded5f8592a16f907f6b3cdb363da8121.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Kicko And Super Speedo",
-      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
-      "startDate": "2026-09-28T07:10:00",
-      "endDate": "2026-09-28T07:17:00",
-      "showTime": "07:10:00",
-      "endTime": "07:17:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/029e2faa3e6e11cd085d3831688e735b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62d4b5ecfbaade92883b5055ded5930f.jpg"
     },
     {
       "serverDate": "2026-09-28",
       "showName": "Guru Aur Bhole",
       "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
-      "startDate": "2026-09-28T07:17:00",
-      "endDate": "2026-09-28T07:25:00",
-      "showTime": "07:17:00",
-      "endTime": "07:25:00",
+      "startDate": "2026-09-28T06:30:00",
+      "endDate": "2026-09-28T06:37:00",
+      "showTime": "06:30:00",
+      "endTime": "06:37:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3a4e25720db7106dd8e3f749545c1729.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f999c31b7954d8f1ae509e0b1591151d.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Paap-O-Meter",
-      "description": "Bhoot Boss, Thakela and Pakela get caught up in a crazy adventure. Watch to find out.",
-      "startDate": "2026-09-28T07:25:00",
-      "endDate": "2026-09-28T07:33:00",
-      "showTime": "07:25:00",
-      "endTime": "07:33:00",
+      "showName": "Sudha Murty's Stories of Wit & Magic",
+      "description": "Sukeshini lives in a remote village with her mother. One day, she encounters a demon at the lake. How will she manage to keep the village safe?",
+      "startDate": "2026-09-28T06:37:00",
+      "endDate": "2026-09-28T06:44:00",
+      "showTime": "06:37:00",
+      "endTime": "06:44:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b5a1b1b9f76b4479776f09a30f93b2a2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f00ecba0287dee055bdf9debc2e4a4dd.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Paap-O-Meter",
-      "description": "Saajan gets addicted to Tv and his students start suffering. A man makes children do things, which they don' t like.",
-      "startDate": "2026-09-28T07:33:00",
-      "endDate": "2026-09-28T07:41:00",
-      "showTime": "07:33:00",
-      "endTime": "07:41:00",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Gullu Khanna challenges Miss Katkar to play Kabaddi with him. Whose team will win?",
+      "startDate": "2026-09-28T06:44:00",
+      "endDate": "2026-09-28T06:51:00",
+      "showTime": "06:44:00",
+      "endTime": "06:51:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6c8c250704b1d18cb171c1c36079a00a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/758e0f60006010d33bddfec0b0da3f4f.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Paap-O-Meter",
-      "description": "A man who punctures tyres deliberately only to repair them later, falls into the radar of the papometer.",
-      "startDate": "2026-09-28T07:41:00",
-      "endDate": "2026-09-28T07:49:00",
-      "showTime": "07:41:00",
-      "endTime": "07:49:00",
+      "showName": "Guru Aur Bhole",
+      "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
+      "startDate": "2026-09-28T06:51:00",
+      "endDate": "2026-09-28T06:58:00",
+      "showTime": "06:51:00",
+      "endTime": "06:58:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5bcb0b36420dd945c8d6e8732de9a53b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf284fc2267dde4527c072e72e5b0cd3.jpg"
     },
     {
       "serverDate": "2026-09-28",
       "showName": "Kicko And Super Speedo",
       "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
+      "startDate": "2026-09-28T06:58:00",
+      "endDate": "2026-09-28T07:10:00",
+      "showTime": "06:58:00",
+      "endTime": "07:10:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a5aeb9da8f7b2224fa66c0115cf8fc0e.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey gets kidnapped by a few dacoits. How will Bunny and the gang save him?",
+      "startDate": "2026-09-28T07:10:00",
+      "endDate": "2026-09-28T07:17:00",
+      "showTime": "07:10:00",
+      "endTime": "07:17:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56a40ac8f68d325a76b184698443f6fc.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and his friends travel the world with the magical flying rug.",
+      "startDate": "2026-09-28T07:17:00",
+      "endDate": "2026-09-28T07:25:00",
+      "showTime": "07:17:00",
+      "endTime": "07:25:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5f9a375e173916c9ffd281c31d2fafea.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Ms Mehta visits Ms Katkar and says Zordaar looks like her lost dog, Preeti. Ms Katkar asks Zordaar to go with Ms Mehta and replace Preeti.",
+      "startDate": "2026-09-28T07:25:00",
+      "endDate": "2026-09-28T07:33:00",
+      "showTime": "07:25:00",
+      "endTime": "07:33:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eb3c42b68e1dbad35458235ed08d6d56.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Kicko And Super Speedo",
+      "description": "A mechanical bull destroys the basketball court, and Kicko decides to investigate this case.",
+      "startDate": "2026-09-28T07:33:00",
+      "endDate": "2026-09-28T07:41:00",
+      "showTime": "07:33:00",
+      "endTime": "07:41:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/345d5c3755357038bfa867e69abffaed.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Paap-O-Meter",
+      "description": "Little Rinku is worried as his Daadu cannot get his rightful pension. It's time for Thakela Pakela to help.",
+      "startDate": "2026-09-28T07:41:00",
+      "endDate": "2026-09-28T07:49:00",
+      "showTime": "07:41:00",
+      "endTime": "07:49:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4e0170639630e098b9fd6f37836b6b6e.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "A monkey comes to Mr Khanna's house claiming to be his ancestor.",
       "startDate": "2026-09-28T07:49:00",
       "endDate": "2026-09-28T07:57:00",
       "showTime": "07:49:00",
       "endTime": "07:57:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7fdff5347fc949750a1a6ddb8709f6f2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cccde57827f7e1a73204766c3f811e7b.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Guru Aur Bhole",
-      "description": "Bhole showcases his wrestling skills.",
+      "showName": "Paap-O-Meter",
+      "description": "Ishu is found crying at the library as his friend Mangu steals his Captain Gogo comic. Will Bhoot Boss be able to help?",
       "startDate": "2026-09-28T07:57:00",
       "endDate": "2026-09-28T08:09:00",
       "showTime": "07:57:00",
       "endTime": "08:09:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/51a20967c1cb8575aa09f5043a4dbac6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f822aa4cf590c1db774d215db7b2f5fd.jpg"
     },
     {
       "serverDate": "2026-09-28",
@@ -581,102 +1813,102 @@
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Guru Aur Bhole",
-      "description": "The entire city stays awake because of a mysterious vampire.",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Watch Honey, Bunny and his friends embark upon myriad adventures as they cruise through life.",
       "startDate": "2026-09-28T08:17:00",
       "endDate": "2026-09-28T08:25:00",
       "showTime": "08:17:00",
       "endTime": "08:25:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d8a14a339374aa3dd8713477fd1c0e56.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1fae38c68e89bfcd0fbfce1a63dc750d.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Paap-O-Meter",
-      "description": "A student who is scared of Mathematics, troubles his teacher. Will the ghosts be able to teach him a lesson?",
+      "showName": "Kicko And Super Speedo",
+      "description": "Jolly Joker kidnaps Dodo and Twinkle, and Kicko and Super Speedo race to rescue them as he speeds off in his thunderbolt car.",
       "startDate": "2026-09-28T08:25:00",
       "endDate": "2026-09-28T08:33:00",
       "showTime": "08:25:00",
       "endTime": "08:33:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f56a8af2ff861aa9f7a03d267e742c7a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad66e7523c8feb47a03f268695070c50.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Guru Aur Bhole",
-      "description": "MJ makes Bhole wear a black belt, which causes him to act out and causes problems for everyone.",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Watch Honey, Bunny and his friends embark upon myriad adventures as they cruise through life.",
       "startDate": "2026-09-28T08:33:00",
       "endDate": "2026-09-28T08:41:00",
       "showTime": "08:33:00",
       "endTime": "08:41:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9202da4b72e6a0009a7e548a16d12456.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6546673bddae8031a59e92b15cfda8ec.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Guru Aur Bhole",
-      "description": "Guru and Bhole get their hands on a magical flying broom stick.",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Kitty learns music from Chikoo Maharaj, but Honey, Bunny and the gang think he's fake and compete with him.",
       "startDate": "2026-09-28T08:41:00",
       "endDate": "2026-09-28T08:49:00",
       "showTime": "08:41:00",
       "endTime": "08:49:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/140683349d74f630db17dc7afbea1024.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/906606e7dc6b471c1d5c63aff40dad52.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Paap-O-Meter",
-      "description": "A dog named Brownie is scared of a man who takes dogs away from the city. How will Bhoot Boss and team help him?",
+      "showName": "Guru Aur Bhole",
+      "description": "Bhole and Guru have an unusual musical experience.",
       "startDate": "2026-09-28T08:49:00",
       "endDate": "2026-09-28T08:57:00",
       "showTime": "08:49:00",
       "endTime": "08:57:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97c031e93cd9dd302a0773053e4fdbaa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5f4d69f9e4c947777e66553e324af6c3.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Guru Aur Bhole",
-      "description": "Bhole gets injured and loses his memory. Bhole wakes up and thinks he is road roller. What will happen now?",
+      "showName": "Sudha Murty's Stories of Wit & Magic",
+      "description": "Sukeshini lives in a remote village with her mother. One day, she encounters a demon at the lake. How will she manage to keep the village safe?",
       "startDate": "2026-09-28T08:57:00",
       "endDate": "2026-09-28T09:08:00",
       "showTime": "08:57:00",
       "endTime": "09:08:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/630671656495a6dfca175cf060a967a0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f00ecba0287dee055bdf9debc2e4a4dd.jpg"
     },
     {
       "serverDate": "2026-09-28",
       "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Honey Bunny and friends find out about a discount at the supermarket.",
+      "description": "Honey, Bunny and friends meet a fake police.",
       "startDate": "2026-09-28T09:08:00",
       "endDate": "2026-09-28T09:16:00",
       "showTime": "09:08:00",
       "endTime": "09:16:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cb3ffa0e99bdd82e39fa6b3f15a344f7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6d688ef0eb78646ec9a97d5d6c9b4d75.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Paap-O-Meter",
-      "description": "Thakela and Pakela take on a pencil box thief.",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Nandu plays a prank on Honey. How will Honey teach him a lesson?",
       "startDate": "2026-09-28T09:16:00",
       "endDate": "2026-09-28T09:23:00",
       "showTime": "09:16:00",
       "endTime": "09:23:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9269c3f9bb24c4afa15b52325f9d6146.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9642d0cfdd3e2660e66dfe6fe9bc379.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Paap-O-Meter",
-      "description": "Bhoot Boss, Thakela and Pakela get caught up in a crazy adventure. Watch to find out.",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey Bunny and friends encounter a fake guide.",
       "startDate": "2026-09-28T09:23:00",
       "endDate": "2026-09-28T09:28:00",
       "showTime": "09:23:00",
       "endTime": "09:28:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8734beb9a1f7eba2fda7775e040bad1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4116f2ce9369cf703cb721c31fd69518.jpg"
     },
     {
       "serverDate": "2026-09-28",
@@ -691,25 +1923,25 @@
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Paap-O-Meter",
-      "description": "Bilwa the barber gets taught a lesson.",
+      "showName": "Guru Aur Bhole",
+      "description": "Bhole finds a bottle in the ocean and a genie comes out of it.",
       "startDate": "2026-09-28T09:36:00",
       "endDate": "2026-09-28T09:44:00",
       "showTime": "09:36:00",
       "endTime": "09:44:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ec47940304303f2abeabf14ec7bf902a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0253a99f01f72295b1483741b3333974.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Sudha Murty's Stories of Wit & Magic",
-      "description": "Sukeshini lives in a remote village with her mother. One day, she encounters a demon at the lake. How will she manage to keep the village safe?",
+      "showName": "Paap-O-Meter",
+      "description": "Bhoot Boss, Thakela and Pakela get caught up in a crazy adventure. Watch to find out.",
       "startDate": "2026-09-28T09:44:00",
       "endDate": "2026-09-28T09:51:00",
       "showTime": "09:44:00",
       "endTime": "09:51:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f00ecba0287dee055bdf9debc2e4a4dd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b7e904595ddf04f994ff83154522b3c.jpg"
     },
     {
       "serverDate": "2026-09-28",
@@ -725,310 +1957,310 @@
     {
       "serverDate": "2026-09-28",
       "showName": "Paap-O-Meter",
-      "description": "A librarian is cutting out superheroes from all the comic books in the library. How will Thakela and Pakela expose him?",
+      "description": "Bhoot Boss, Thakela and Pakela get caught up in a crazy adventure. Watch to find out.",
       "startDate": "2026-09-28T09:58:00",
       "endDate": "2026-09-28T10:21:00",
       "showTime": "09:58:00",
       "endTime": "10:21:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3e7b3e2d54c3d43f92333b55ce82de13.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f9d6fc3ea5145eaf5b0c9b435f069162.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Guru Aur Bhole",
-      "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey has a scary dream but a fortune teller tells him that he has a bright future.",
       "startDate": "2026-09-28T10:21:00",
       "endDate": "2026-09-28T10:28:00",
       "showTime": "10:21:00",
       "endTime": "10:28:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bc62d21a098febf5bdccb5ffda210a85.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8462742da4273319f9c7b3e66c7a16db.jpg"
     },
     {
       "serverDate": "2026-09-28",
       "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Zordaar uses voice-changing medicine in his dish; the gang and Khanna spin, fall, and swap voices while hunting the scientist for a fix.",
+      "description": "Honey falls prey to an experiment that makes him super strong. How will the others deal with this?",
       "startDate": "2026-09-28T10:28:00",
       "endDate": "2026-09-28T10:35:00",
       "showTime": "10:28:00",
       "endTime": "10:35:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4d975404057d91a476e3c67b07636d2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a19dbc65b9762dda5388a664c3af1aa0.jpg"
     },
     {
       "serverDate": "2026-09-28",
       "showName": "Paap-O-Meter",
-      "description": "Bhoot Boss, Thakela and Pakela get caught up in a crazy adventure. Watch to find out.",
+      "description": "The ghosts teach a lesson to a notorious bicycle mechanic.",
       "startDate": "2026-09-28T10:35:00",
       "endDate": "2026-09-28T10:42:00",
       "showTime": "10:35:00",
       "endTime": "10:42:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a59bedab9340790c0b3e1df86ed808d3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d02b07c0fa7a0840423d74b55f59b2c4.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Sudha Murty's Stories of Wit & Magic",
-      "description": "After a huge business loss, Rohini and her husband's life turns upside down until Rohini asks the queen to grant her wish.",
+      "showName": "Paap-O-Meter",
+      "description": "An irresponsible postman named Dinesh is late in delivering an important birthday card, and Bhoot Boss wants to teach him a lesson.",
       "startDate": "2026-09-28T10:42:00",
       "endDate": "2026-09-28T10:48:00",
       "showTime": "10:42:00",
       "endTime": "10:48:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/409aafa0e4a0f2ec8e9e6660e37f808d.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Two robbers hide stolen diamonds in Honey's bag on a plane. After landing, Bunny and the gang flee as the robbers chase them.",
-      "startDate": "2026-09-28T10:48:00",
-      "endDate": "2026-09-28T10:56:00",
-      "showTime": "10:48:00",
-      "endTime": "10:56:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6c6bfff9136470b6d21a651d503b95b1.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Popat and Totaram get into a fight when Totaram insults Popat.",
-      "startDate": "2026-09-28T10:56:00",
-      "endDate": "2026-09-28T11:02:00",
-      "showTime": "10:56:00",
-      "endTime": "11:02:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ead1fe7f493dfb1730b21e4d7a2eae0d.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Honey and Bunny In Bank Robbery",
-      "description": "Honey and Bunny In Bank Robbery is a slaptick fun riot. It is a story of 4 best friends who come together to help their neighbour Mr. Khanna to retain his job by solving a bank robbery and bringing the bad guys to justice.",
-      "startDate": "2026-09-28T11:02:00",
-      "endDate": "2026-09-28T12:44:00",
-      "showTime": "11:02:00",
-      "endTime": "12:44:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f69551658cbf4940b3903f0d2c740e5b.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Guru Aur Bhole",
-      "description": "MJ tricks Bhole and feeds him chocolates that turn him into a mouse.",
-      "startDate": "2026-09-28T12:44:00",
-      "endDate": "2026-09-28T12:51:00",
-      "showTime": "12:44:00",
-      "endTime": "12:51:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/83aeea281be5cb8d35237c815b7b5924.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Sudha Murty's Stories of Wit & Magic",
-      "description": "A long time back, there lived a prince who was fun-loving and cared for his people deeply. Take a journey through one of his exciting adventures.",
-      "startDate": "2026-09-28T12:51:00",
-      "endDate": "2026-09-28T12:59:00",
-      "showTime": "12:51:00",
-      "endTime": "12:59:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/229aeee5d802b73cf33fbfe45a2b92af.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Honey and Bunny In Bank Robbery",
-      "description": "Honey and Bunny In Bank Robbery is a slaptick fun riot. It is a story of 4 best friends who come together to help their neighbour Mr. Khanna to retain his job by solving a bank robbery and bringing the bad guys to justice.",
-      "startDate": "2026-09-28T12:59:00",
-      "endDate": "2026-09-28T14:43:00",
-      "showTime": "12:59:00",
-      "endTime": "14:43:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f69551658cbf4940b3903f0d2c740e5b.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Guru Aur Bhole",
-      "description": "Guru and Bhole get their hands on a magical book from Albatta's house.",
-      "startDate": "2026-09-28T14:43:00",
-      "endDate": "2026-09-28T14:50:00",
-      "showTime": "14:43:00",
-      "endTime": "14:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aca9d0a4e378e8fbb399421c88acef5b.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Guru Aur Bhole",
-      "description": "Guru and Bhole celebrate the new year.",
-      "startDate": "2026-09-28T14:50:00",
-      "endDate": "2026-09-28T15:01:00",
-      "showTime": "14:50:00",
-      "endTime": "15:01:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/92655a903d2e52a0cee6018fe33d27a5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3f574c9aa1e587da240b368d9031b530.jpg"
     },
     {
       "serverDate": "2026-09-28",
       "showName": "Kicko And Super Speedo",
       "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
+      "startDate": "2026-09-28T10:48:00",
+      "endDate": "2026-09-28T10:56:00",
+      "showTime": "10:48:00",
+      "endTime": "10:56:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18e27a410d33a252619dde992f97d4c7.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Guru Aur Bhole",
+      "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
+      "startDate": "2026-09-28T10:56:00",
+      "endDate": "2026-09-28T11:02:00",
+      "showTime": "10:56:00",
+      "endTime": "11:02:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bc83c862d07b2866ebb06420a5d3209f.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Crayon Shin-chan: Roar! Kasukabe Animal Kingdom",
+      "description": "Kasukabe's new mayor, Eco Loco, transforms all residents into animals, urging a return to primal roots. The Nohara family adjusts to new forms, like Misae's cat and Hiroshi's rooster.",
+      "startDate": "2026-09-28T11:02:00",
+      "endDate": "2026-09-28T12:44:00",
+      "showTime": "11:02:00",
+      "endTime": "12:44:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e27fd653a0dcc24b5adaabfacd46398.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Kitty is doing a science project in her garage. Will Honey, Bunny and the gang help her or create trouble for her?",
+      "startDate": "2026-09-28T12:44:00",
+      "endDate": "2026-09-28T12:51:00",
+      "showTime": "12:44:00",
+      "endTime": "12:51:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/76e38db3006e912b99bc185832befe34.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey suddenly becomes a Danveer. How will his friends react to this?",
+      "startDate": "2026-09-28T12:51:00",
+      "endDate": "2026-09-28T12:59:00",
+      "showTime": "12:51:00",
+      "endTime": "12:59:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/253176e1fd8faee9f3e41dc8eeca014b.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Shin Chan Blitz! Pig'S Hoof'S Secret Mission",
+      "description": "A secret agent decides to hide on a student's dinner boat and ends up getting them captured. Later, she, along with the children are held hostage.",
+      "startDate": "2026-09-28T12:59:00",
+      "endDate": "2026-09-28T14:43:00",
+      "showTime": "12:59:00",
+      "endTime": "14:43:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d6d261622b3c7e2f4e05592c907c217e.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Sudha Murty's Stories of Wit & Magic",
+      "description": "A father gives two sons four teachings. One goes bankrupt, the other profits big. What went wrong when both followed his path?",
+      "startDate": "2026-09-28T14:43:00",
+      "endDate": "2026-09-28T14:50:00",
+      "showTime": "14:43:00",
+      "endTime": "14:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a312e82b633c9446125e4a75b4c9822e.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Paap-O-Meter",
+      "description": "Chakram Chutki steals money from the town's people and Bhoot Boss decides to intervene.",
+      "startDate": "2026-09-28T14:50:00",
+      "endDate": "2026-09-28T15:01:00",
+      "showTime": "14:50:00",
+      "endTime": "15:01:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d6cbf42d222486a7231b29996c0e67a2.jpg"
+    },
+    {
+      "serverDate": "2026-09-28",
+      "showName": "Guru Aur Bhole",
+      "description": "Guru and Bhole find a magical hat that grants them their wishes.",
       "startDate": "2026-09-28T15:01:00",
       "endDate": "2026-09-28T15:09:00",
       "showTime": "15:01:00",
       "endTime": "15:09:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/45a690dd460410acf39a9835352e40be.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba44c5b48bd8c372e2fe79f6eaa86754.jpg"
     },
     {
       "serverDate": "2026-09-28",
       "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Honey, Bunny and friends get tangled up in crazy adventures. Watch the episode to find out.",
+      "description": "Honey, Bunny and the gang help catch a thief who has stolen a painting.",
       "startDate": "2026-09-28T15:09:00",
       "endDate": "2026-09-28T15:15:00",
       "showTime": "15:09:00",
       "endTime": "15:15:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9a362e8465b4a314420c6e4fe80e5dd5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77312d8a3ec72e2470caa3437be84061.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Paap-O-Meter",
-      "description": "Bhoot Boss is missing and there is chaos everywhere. Who amongst Hatela, Thakela or Pakela will take his place?",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Zordar tries his hands on some cooking.",
       "startDate": "2026-09-28T15:15:00",
       "endDate": "2026-09-28T15:21:00",
       "showTime": "15:15:00",
       "endTime": "15:21:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/14d31e75f382d99a9acb4066d7dbf7fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8cce9adc439071ef8366983876b81bd8.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Zordaar uses voice-changing medicine in his dish; the gang and Khanna spin, fall, and swap voices while hunting the scientist for a fix.",
+      "showName": "Guru Aur Bhole",
+      "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
       "startDate": "2026-09-28T15:21:00",
       "endDate": "2026-09-28T15:28:00",
       "showTime": "15:21:00",
       "endTime": "15:28:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4d975404057d91a476e3c67b07636d2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2658f93d29c0c3c6c3a302109f9c7f56.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Watch Honey, Bunny and his friends embark upon myriad adventures as they cruise through life.",
+      "showName": "Sudha Murty's Stories of Wit & Magic",
+      "description": "Sukeshini lives in a remote village with her mother. One day, she encounters a demon at the lake. How will she manage to keep the village safe?",
       "startDate": "2026-09-28T15:28:00",
       "endDate": "2026-09-28T15:35:00",
       "showTime": "15:28:00",
       "endTime": "15:35:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6546673bddae8031a59e92b15cfda8ec.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f00ecba0287dee055bdf9debc2e4a4dd.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Honey, Bunny and friends get tangled up in crazy adventures. Watch the episode to find out.",
+      "showName": "Paap-O-Meter",
+      "description": "Bhoot Boss, Thakela and Pakela try to teach Sony a lesson for pretending to sleepwalk.",
       "startDate": "2026-09-28T15:35:00",
       "endDate": "2026-09-28T15:42:00",
       "showTime": "15:35:00",
       "endTime": "15:42:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/508606ee1d193399ee54a606950210c9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af290749e375f297e97bb7a01d94f98a.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Guru Aur Bhole",
-      "description": "Guru and Bhole spend the day riding the boat but deadly alligators start following them.",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Sunny pretends to lose his memory and troubles Honey Bunny and his friends.",
       "startDate": "2026-09-28T15:42:00",
       "endDate": "2026-09-28T15:49:00",
       "showTime": "15:42:00",
       "endTime": "15:49:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9a30ea86596509136369df675a4a90fc.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/15a9a47b5e151d90bc912884d090057b.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Bhediya the goon takes his followers and creates havoc in the city.",
+      "showName": "Kicko And Super Speedo",
+      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
       "startDate": "2026-09-28T15:49:00",
       "endDate": "2026-09-28T16:03:00",
       "showTime": "15:49:00",
       "endTime": "16:03:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2133afd23f3b09250e4ba0adbcafd96e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b0d1c61dd4663fdc110b98d11f71b7f2.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Honey, Bunny and friends see a daring side of Popat.",
+      "showName": "Guru Aur Bhole",
+      "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
       "startDate": "2026-09-28T16:03:00",
       "endDate": "2026-09-28T16:10:00",
       "showTime": "16:03:00",
       "endTime": "16:10:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/924cd6f83faeaa979ebcd3ddbc956d23.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/530cf1b7acb8f2a8d0197b5c73a8cc93.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "The king's crown has been stolen. Will Honey and his friends be able to find it?",
+      "showName": "Guru Aur Bhole",
+      "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
       "startDate": "2026-09-28T16:10:00",
       "endDate": "2026-09-28T16:17:00",
       "showTime": "16:10:00",
       "endTime": "16:17:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a9ac609e6ef549aeae86e25952ec1675.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e8ca2700406fcde744d482839f9c521.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Paap-O-Meter",
-      "description": "Bhoot Boss, Thakela and Pakela get caught up in a crazy adventure. Watch to find out.",
+      "showName": "Kicko And Super Speedo",
+      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
       "startDate": "2026-09-28T16:17:00",
       "endDate": "2026-09-28T16:24:00",
       "showTime": "16:17:00",
       "endTime": "16:24:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/797b4dd1c658c97fab9a4408578683a4.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/832ea064b3970576176aad26b9acd04e.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Paap-O-Meter",
-      "description": "The ghosts decide to teach a lesson to a fake astronaut scamming little children.",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey, Bunny and friends meets an underconfident Chacha",
       "startDate": "2026-09-28T16:24:00",
       "endDate": "2026-09-28T16:31:00",
       "showTime": "16:24:00",
       "endTime": "16:31:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0281f91b48b4c06300322b5cf10238da.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d72fb6801a4754ecab8ecbb7b7ca8953.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Guru Aur Bhole",
-      "description": "Guru and Bhole go out for a picnic along with the other residents of Sultan Nagar.",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and his friends are baffled by the amount of robbery cases that come up. Will they be able to catch the thieves?",
       "startDate": "2026-09-28T16:31:00",
       "endDate": "2026-09-28T16:38:00",
       "showTime": "16:31:00",
       "endTime": "16:38:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f9c40d3e970c3c89c40c6b70b355f82.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0841c61553988bce3e8c78cb71a8b15d.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Honey, Bunny and friends catches a car thief.",
+      "showName": "Paap-O-Meter",
+      "description": "Phoolchand meets Chauka Singh, the taxi driver, and gets scammed by him. What will the Bhoots do now?",
       "startDate": "2026-09-28T16:38:00",
       "endDate": "2026-09-28T16:45:00",
       "showTime": "16:38:00",
       "endTime": "16:45:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3b0921312c5d01be9d2c62ceb21cc2e7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/551e8df13ba34831996d8284978f9e42.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Kicko And Super Speedo",
-      "description": "Kurana designs a super tuxedo and shows everyone what it does. The tuxedo fits all sizes.",
+      "showName": "Paap-O-Meter",
+      "description": "Thakela, Pakela and Bhoot Boss punish Uncle Lolo for breaking his promises.",
       "startDate": "2026-09-28T16:45:00",
       "endDate": "2026-09-28T16:59:00",
       "showTime": "16:45:00",
       "endTime": "16:59:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d806c3316f912d68c3cde794e08b8b8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/16bd950677c618ce376b6236522e23f7.jpg"
     },
     {
       "serverDate": "2026-09-28",
@@ -1043,201 +2275,201 @@
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Kicko And Super Speedo",
-      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
+      "showName": "Guru Aur Bhole",
+      "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
       "startDate": "2026-09-28T18:36:00",
       "endDate": "2026-09-28T18:43:00",
       "showTime": "18:36:00",
       "endTime": "18:43:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7fdff5347fc949750a1a6ddb8709f6f2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f85e0fdfc771ccb39de287f4143cb00e.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Guru Aur Bhole",
-      "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
+      "showName": "Paap-O-Meter",
+      "description": "Bhoot Boss trains a little girl named Riya but Riya tells him that a boy named Titu always cheats and gets everyone disqualified.",
       "startDate": "2026-09-28T18:43:00",
       "endDate": "2026-09-28T18:53:00",
       "showTime": "18:43:00",
       "endTime": "18:53:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/63b2a9b14da9ad5d9bae4dc4aa4fe751.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9ef31ac6fd05f3e67c6c1392968f52e.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Guru Aur Bhole",
-      "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
+      "showName": "Sudha Murty's Stories of Wit & Magic",
+      "description": "Viru asks his Guru what he can offer for his teachings and learns of a book of immense knowledge. What adventures await him?",
       "startDate": "2026-09-28T18:53:00",
       "endDate": "2026-09-28T19:15:00",
       "showTime": "18:53:00",
       "endTime": "19:15:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f0e90587765c8a70f00b8f6a8356786.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/22a9e18b18bee9f5ce842d8f07266cdc.jpg"
     },
     {
       "serverDate": "2026-09-28",
       "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Honey Bunny and friends encounter a Shayar Chor.",
+      "description": "As the cold takes over the city, Honey and his friend are finding it hard to stay warm due to a thief.",
       "startDate": "2026-09-28T19:15:00",
       "endDate": "2026-09-28T19:28:00",
       "showTime": "19:15:00",
       "endTime": "19:28:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/21f8668528964ddb5c1dfead9574e46e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ae97e20023f36b07bf80d17e1ad52776.jpg"
     },
     {
       "serverDate": "2026-09-28",
       "showName": "Paap-O-Meter",
-      "description": "Two kids cause property damage by throwing stones at street lights.",
+      "description": "A jinn named Jintu tells Thakela and Pakela that his owner Ronnie is using him and is trapped with him. What will they do now?",
       "startDate": "2026-09-28T19:28:00",
       "endDate": "2026-09-28T19:35:00",
       "showTime": "19:28:00",
       "endTime": "19:35:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/83041cd9e573c7cd0add35f09eefec33.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4e522832319d33df4fe4ffd356da1720.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Kicko And Super Speedo",
-      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
+      "showName": "Sudha Murty's Stories of Wit & Magic",
+      "description": "Vineet and Vidur live next to each other, but their worlds are wide apart. How will they coexist?",
       "startDate": "2026-09-28T19:35:00",
       "endDate": "2026-09-28T19:42:00",
       "showTime": "19:35:00",
       "endTime": "19:42:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/690a6bfed6729dba5a5b0d4498e9a73f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fec7d6b0602150f327e9c7feb215aa8e.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Hero Toofan requests Honey to be his bodyguard.",
+      "showName": "Paap-O-Meter",
+      "description": "A kid is troubled as his relatives have come home and are not ready to leave. How will Thakela and Pakela help him?",
       "startDate": "2026-09-28T19:42:00",
       "endDate": "2026-09-28T19:49:00",
       "showTime": "19:42:00",
       "endTime": "19:49:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b65c895e981cf8d253816634d28f9a9b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6fac240faba4d3050ca77758f9cbb51d.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Paap-O-Meter",
-      "description": "The ghosts take on the owners of Achchha Land and teach them a lesson.",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey Bunny and friends have an adventure with Dr. Rabbit.",
       "startDate": "2026-09-28T19:49:00",
       "endDate": "2026-09-28T19:56:00",
       "showTime": "19:49:00",
       "endTime": "19:56:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2ee86ed73e6610cdaf1bb82e0117e287.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2abf6ba932c485b4ead78a1cf72bdf22.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Honey, Bunny and friends get tangled up in crazy adventures. Watch the episode to find out.",
+      "showName": "Paap-O-Meter",
+      "description": "A class monitor harassed the other kids and asks them to do their homework.",
       "startDate": "2026-09-28T19:56:00",
       "endDate": "2026-09-28T20:03:00",
       "showTime": "19:56:00",
       "endTime": "20:03:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b595c3dd6b854c442cfa9e4863752e73.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b3b2f995f80e6132e1f0665e533c3453.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Kicko And Super Speedo",
-      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
+      "showName": "Paap-O-Meter",
+      "description": "The ghosts teach a lesson to a thief.",
       "startDate": "2026-09-28T20:03:00",
       "endDate": "2026-09-28T20:10:00",
       "showTime": "20:03:00",
       "endTime": "20:10:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8ca3a5da81f04d53e6b5161e52de1c5b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c167575e1b5225a401b15f0954359077.jpg"
     },
     {
       "serverDate": "2026-09-28",
       "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Honey Bunny and friends get a magic watch.",
+      "description": "Honey gets hurt while playing and Bunny calls Dr Bhalu to give an injection. What will Honey do now?",
       "startDate": "2026-09-28T20:10:00",
       "endDate": "2026-09-28T20:17:00",
       "showTime": "20:10:00",
       "endTime": "20:17:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9886c73854c739e12fd32d6e4778aa66.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7e30ec8c7bdf6bf757f4661fbb6fdc62.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Bunny's friend Vicky spends time at the house.",
+      "showName": "Sudha Murty's Stories of Wit & Magic",
+      "description": "The king of Hansnagar is a noble and powerful one, however he has a secret. How will his populace feel when they discover the truth about their king?",
       "startDate": "2026-09-28T20:17:00",
       "endDate": "2026-09-28T20:24:00",
       "showTime": "20:17:00",
       "endTime": "20:24:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7e769049a2ef5ef1df2f5999c3e0d9d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8fdee3e87b16fab4f0460f8a4d0593d4.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Kicko And Super Speedo",
-      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
+      "showName": "Paap-O-Meter",
+      "description": "Thakela and Pakela stop a waterpark from being made as it disrupts nature.",
       "startDate": "2026-09-28T20:24:00",
       "endDate": "2026-09-28T20:31:00",
       "showTime": "20:24:00",
       "endTime": "20:31:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eefe0202300ee041305bf2b099c1b7fd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f45a1c393e8d8a43e0de5c60d0ad57b3.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Guru Aur Bhole",
-      "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
+      "showName": "Sudha Murty's Stories of Wit & Magic",
+      "description": "Viru asks his Guru what he can offer for his teachings and learns of a book of immense knowledge. What adventures await him?",
       "startDate": "2026-09-28T20:31:00",
       "endDate": "2026-09-28T20:38:00",
       "showTime": "20:31:00",
       "endTime": "20:38:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/88fc979b7e7dac8eb5608f4c7db1bcef.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/22a9e18b18bee9f5ce842d8f07266cdc.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Paap-O-Meter",
-      "description": "Thakela and Pakela take on a tiffin chor.",
+      "showName": "Guru Aur Bhole",
+      "description": "Guru and Bhole break Major's remote control plane. Major tells Buru and Bhole to learn paragliding before using it again.",
       "startDate": "2026-09-28T20:38:00",
       "endDate": "2026-09-28T21:01:00",
       "showTime": "20:38:00",
       "endTime": "21:01:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1dd0d4e95d91839946d9aac951888d8d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56e8e9e57bbd4e4c1a1f8d832f5b8d87.jpg"
     },
     {
       "serverDate": "2026-09-28",
       "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Honey, Bunny and friends get tangled up in crazy adventures. Watch the episode to find out.",
+      "description": "Honey, Bunny and the gang receive a letter for the CM. Will they deliver it in time to the CM?",
       "startDate": "2026-09-28T21:01:00",
       "endDate": "2026-09-28T21:20:00",
       "showTime": "21:01:00",
       "endTime": "21:20:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/54db08e78acdc0830781e58450c1df54.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4efc974495742d9174ba6452eb15024.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "A car repairman named Chetak and a buffalo intentionally break people's cars so he can get more work.",
+      "showName": "Guru Aur Bhole",
+      "description": "Three ants called Antony, Tina and Tick steal Guru and Bhole's food. What will they do now?",
       "startDate": "2026-09-28T21:20:00",
       "endDate": "2026-09-28T21:50:00",
       "showTime": "21:20:00",
       "endTime": "21:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2a0cd1eb7219ebfb4984e6cdaa5abb9d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cea06d1d6d1c10ccb90518de8827a64d.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Kicko And Super Speedo",
-      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Watch Honey, Bunny and his friends embark upon myriad adventures as they cruise through life.",
       "startDate": "2026-09-28T21:50:00",
       "endDate": "2026-09-28T22:09:00",
       "showTime": "21:50:00",
       "endTime": "22:09:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dc4f13d8cf4d240a9c2b62b42832a22f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1fae38c68e89bfcd0fbfce1a63dc750d.jpg"
     },
     {
       "serverDate": "2026-09-28",
@@ -1252,135 +2484,135 @@
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Kicko And Super Speedo",
-      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey, Bunny and friends encounter a mischievous monkey who pranks people with his paintings.",
       "startDate": "2026-09-28T22:29:00",
       "endDate": "2026-09-28T23:04:00",
       "showTime": "22:29:00",
       "endTime": "23:04:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c23b2bb582e24707ca5253ddd18aaf89.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b92d7b9df7bf82c2acc72b6f9ebccfe5.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Kicko And Super Speedo",
-      "description": "Cloudy Rowdy appears from the sky and steals the top-secret case. Kicko asks Cloudy Rowdy to return the case but he refuses.",
+      "showName": "Paap-O-Meter",
+      "description": "Lollakullu is running an illegal pet shop and capturing dogs and cats. Will Thakela Pakela be able to rescue them all?",
       "startDate": "2026-09-28T23:04:00",
       "endDate": "2026-09-28T23:24:00",
       "showTime": "23:04:00",
       "endTime": "23:24:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/63354b14519ed83b25ce1611e9884cf0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0581e88607be146c29b006d657074888.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Paap-O-Meter",
-      "description": "A tailor scams little kids and refuses to fix their costumes.",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey, Bunny and friends get tangled up in crazy adventures. Watch the episode to find out.",
       "startDate": "2026-09-28T23:24:00",
       "endDate": "2026-09-28T23:59:00",
       "showTime": "23:24:00",
       "endTime": "23:59:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4861e8a28bbac96c7c41c1d71702d0df.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b6c2f20bf0bebc8c4b411db059f991a3.jpg"
     },
     {
       "serverDate": "2026-09-28",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Honey, Bunny and friends take part in a marathon race.",
+      "showName": "Paap-O-Meter",
+      "description": "Bhoot Boss, Thakela and Pakela get caught up in a crazy adventure. Watch to find out.",
       "startDate": "2026-09-28T23:59:00",
       "endDate": "2026-09-28T23:59:59",
       "showTime": "23:59:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/018f9154aa3b24a3b7c2153650f493dd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/37e65d8a2af3fcbaa2175cc6d85a46f6.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Paap-O-Meter",
-      "description": "Bhoot Boss, Thakela and Pakela get caught up in a crazy adventure. Watch to find out.",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey decides to participate in a rap competition so that he can attend his favourite rapper's concert. Will Honey win?",
       "startDate": "2026-09-29T00:00:00",
       "endDate": "2026-09-29T00:06:00",
       "showTime": "00:00:00",
       "endTime": "00:06:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f1ae5989b14ec2d8a6c30d3b71c35bec.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b24d1330f2788fe559250f2cf0925b6a.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Honey Bunny and friends have an adventure with Dr. Rabbit.",
+      "showName": "Guru Aur Bhole",
+      "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
       "startDate": "2026-09-29T00:06:00",
       "endDate": "2026-09-29T00:13:00",
       "showTime": "00:06:00",
       "endTime": "00:13:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2abf6ba932c485b4ead78a1cf72bdf22.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/66cd74e070aa0741e565f1c6ff302484.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Paap-O-Meter",
-      "description": "Rambo, a circus ringmaster, abuses animals. A fraud baba and his disciple pose as ghosts to scare people, then charge to drive them away.",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Miss Katkar puts Honey Bunny on a diet. Zordaar and Popat enforce it, and even a baker refuses them junk food.",
       "startDate": "2026-09-29T00:13:00",
       "endDate": "2026-09-29T00:20:00",
       "showTime": "00:13:00",
       "endTime": "00:20:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a4fb680f36f191b1aba1512f3051aff0.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Sharman the pug joins Totaram's gym, fights a bull, and both agree to a wrestling match. Honey, Bunny and friends train him.",
-      "startDate": "2026-09-29T00:20:00",
-      "endDate": "2026-09-29T00:27:00",
-      "showTime": "00:20:00",
-      "endTime": "00:27:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/389742fd211ce02443c1d4fceb642eaa.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Sudha Murty's Stories of Wit & Magic",
-      "description": "A father gives two sons four teachings. One goes bankrupt, the other profits big. What went wrong when both followed his path?",
-      "startDate": "2026-09-29T00:27:00",
-      "endDate": "2026-09-29T00:34:00",
-      "showTime": "00:27:00",
-      "endTime": "00:34:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a312e82b633c9446125e4a75b4c9822e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af55d9e25c35c22786fdff04d05c8358.jpg"
     },
     {
       "serverDate": "2026-09-29",
       "showName": "Kicko And Super Speedo",
       "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
+      "startDate": "2026-09-29T00:20:00",
+      "endDate": "2026-09-29T00:27:00",
+      "showTime": "00:20:00",
+      "endTime": "00:27:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0148ea1232c0091906a31d34da2e8ad.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
+      "showName": "Kicko And Super Speedo",
+      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
+      "startDate": "2026-09-29T00:27:00",
+      "endDate": "2026-09-29T00:34:00",
+      "showTime": "00:27:00",
+      "endTime": "00:34:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3fe9d1e003a9141b1331b35ce4ebc925.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
+      "showName": "Paap-O-Meter",
+      "description": "Kakkad runs a food truck and sells food to young children by lying to them.",
       "startDate": "2026-09-29T00:34:00",
       "endDate": "2026-09-29T00:41:00",
       "showTime": "00:34:00",
       "endTime": "00:41:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0dd4de6d7d6bbb09b1d43193d92d5c2c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62d4b5ecfbaade92883b5055ded5930f.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Kicko And Super Speedo",
-      "description": "Kicko and friends bird-watch, Twinkle finds a puppy named Jumpy, and they avoid the 'Stay Away From Manku-Banku Area' sign.",
+      "showName": "Guru Aur Bhole",
+      "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
       "startDate": "2026-09-29T00:41:00",
       "endDate": "2026-09-29T00:48:00",
       "showTime": "00:41:00",
       "endTime": "00:48:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/341b2eedf4302e741615fc44f73f32cf.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/530cf1b7acb8f2a8d0197b5c73a8cc93.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Paap-O-Meter",
-      "description": "Bhoot Boss, Thakela and Pakela get caught up in a crazy adventure. Watch to find out.",
+      "showName": "Kicko And Super Speedo",
+      "description": "Doctor Kurana creates the strongest magnetic field in the world. But a thief is stuck inside the chamber and develops magnetic properties.",
       "startDate": "2026-09-29T00:48:00",
       "endDate": "2026-09-29T00:54:00",
       "showTime": "00:48:00",
       "endTime": "00:54:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/889d6c48439274020e68884aa7afc274.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d86a6d70cf13fafaf1214143db62e020.jpg"
     },
     {
       "serverDate": "2026-09-29",
@@ -1692,179 +2924,179 @@
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Honey, Bunny and the gang meet tribal men in a forest who see Zordaar as a guru. Can they get back to the city?",
+      "showName": "Kicko And Super Speedo",
+      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
       "startDate": "2026-09-29T06:00:00",
       "endDate": "2026-09-29T06:12:00",
       "showTime": "06:00:00",
       "endTime": "06:12:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e9783c2d805bcae354bd94978f4c1ede.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Paap-O-Meter",
-      "description": "Thakela Pakela and Bhoot Boss decide to resolve the water supply issue and teach the water mafia a lesson.",
-      "startDate": "2026-09-29T06:12:00",
-      "endDate": "2026-09-29T06:19:00",
-      "showTime": "06:12:00",
-      "endTime": "06:19:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/396b8eae1f9430be496fd5a0fc18aaf0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5d8745936cb1c28f087cce8f19f1bac5.jpg"
     },
     {
       "serverDate": "2026-09-29",
       "showName": "Kicko And Super Speedo",
       "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
+      "startDate": "2026-09-29T06:12:00",
+      "endDate": "2026-09-29T06:19:00",
+      "showTime": "06:12:00",
+      "endTime": "06:19:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/12e5d7f31f6bf31282894f0fd21b7c68.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
+      "showName": "Sudha Murty's Stories of Wit & Magic",
+      "description": "A tale of a fisherman who comes across a golden fish and encounters a demon.",
       "startDate": "2026-09-29T06:19:00",
       "endDate": "2026-09-29T06:26:00",
       "showTime": "06:19:00",
       "endTime": "06:26:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b0d1c61dd4663fdc110b98d11f71b7f2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/21a6932bb196dded77c235195af5c910.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Paap-O-Meter",
-      "description": "Thakela and Pakela take on a pencil box thief.",
+      "showName": "Sudha Murty's Stories of Wit & Magic",
+      "description": "Two brothers, Ramesh and Suresh, leave to work on their family's farms early in the morning. What adventures will they face?",
       "startDate": "2026-09-29T06:26:00",
       "endDate": "2026-09-29T06:33:00",
       "showTime": "06:26:00",
       "endTime": "06:33:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9269c3f9bb24c4afa15b52325f9d6146.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bcb04f781d74fd8383f519910b8ecae8.jpg"
     },
     {
       "serverDate": "2026-09-29",
       "showName": "Paap-O-Meter",
-      "description": "Little Rinku is worried as his Daadu cannot get his rightful pension. It's time for Thakela Pakela to help.",
+      "description": "A travel guide is stealing from his tourists by placing three people as statues in a public place.",
       "startDate": "2026-09-29T06:33:00",
       "endDate": "2026-09-29T06:40:00",
       "showTime": "06:33:00",
       "endTime": "06:40:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4e0170639630e098b9fd6f37836b6b6e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/97d08c55bc68d7b009648be60a29097f.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "A director arrives in town to shoot a film.",
+      "showName": "Paap-O-Meter",
+      "description": "Sooma gets bullied by Luka and Muka in school. Will Thakela, Pakela and Boss help her out?",
       "startDate": "2026-09-29T06:40:00",
       "endDate": "2026-09-29T06:47:00",
       "showTime": "06:40:00",
       "endTime": "06:47:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/74cde831ee0347b7c78a98f422b4516a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e84ff093948bbc733e8ac929c41579c7.jpg"
     },
     {
       "serverDate": "2026-09-29",
       "showName": "Sudha Murty's Stories of Wit & Magic",
-      "description": "Jaya cares for Badri like a son, as his father asked, but Badri rejects her love. Can they resolve their differences?",
+      "description": "A tale of a fisherman who comes across a golden fish and encounters a demon.",
       "startDate": "2026-09-29T06:47:00",
       "endDate": "2026-09-29T06:54:00",
       "showTime": "06:47:00",
       "endTime": "06:54:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be235a5efe5bad55868c6c9e49b1b0a0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/21a6932bb196dded77c235195af5c910.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Honey, Bunny and Zordaar pick up a thief instead of Gullu Khanna's grandmother from the airport.",
+      "showName": "Kicko And Super Speedo",
+      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
       "startDate": "2026-09-29T06:54:00",
       "endDate": "2026-09-29T07:00:00",
       "showTime": "06:54:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0db7b5f85eec2e1ff554eefcff6100f2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b58ebd0036d49a378e230a55d192da55.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Sudha Murty's Stories of Wit & Magic",
-      "description": "Jaya cares for Badri like a son, as his father asked, but Badri rejects her love. Can they resolve their differences?",
+      "showName": "Paap-O-Meter",
+      "description": "A hunter captures and kills animals for money. How will Thakela and Pakela teach him a lesson?",
       "startDate": "2026-09-29T07:00:00",
       "endDate": "2026-09-29T07:11:00",
       "showTime": "07:00:00",
       "endTime": "07:11:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be235a5efe5bad55868c6c9e49b1b0a0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84b8b865163075ee9219bf1599ae0072.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Paap-O-Meter",
-      "description": "Bhoot Boss, Thakela and Pakela get caught up in a crazy adventure. Watch to find out.",
+      "showName": "Kicko And Super Speedo",
+      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
       "startDate": "2026-09-29T07:11:00",
       "endDate": "2026-09-29T07:18:00",
       "showTime": "07:11:00",
       "endTime": "07:18:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/79ac7a3c6d86c23879c0972c4896a602.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c23b2bb582e24707ca5253ddd18aaf89.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Paap-O-Meter",
-      "description": "A group of boys bully kids at school. How will Thakela and Pakela teach them a lesson?",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey, Bunny and friends meet a fake police.",
       "startDate": "2026-09-29T07:18:00",
       "endDate": "2026-09-29T07:25:00",
       "showTime": "07:18:00",
       "endTime": "07:25:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/12eef6eb0f9f2d1b36be51168e51c879.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6d688ef0eb78646ec9a97d5d6c9b4d75.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Guru Aur Bhole",
-      "description": "MJ kidnaps kids from a park, but Guru and Bhole stop him in his tracks.",
+      "showName": "Kicko And Super Speedo",
+      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
       "startDate": "2026-09-29T07:25:00",
       "endDate": "2026-09-29T07:32:00",
       "showTime": "07:25:00",
       "endTime": "07:32:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/248b5d5052c75c5d4807bec96d019c71.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0004452a0b50b6e9564d37980352e1f4.jpg"
     },
     {
       "serverDate": "2026-09-29",
       "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Fluty hypnotises Honey and the others and steals from a music shop.",
+      "description": "Honey, Bunny and friends get tangled up in crazy adventures. Watch the episode to find out.",
       "startDate": "2026-09-29T07:32:00",
       "endDate": "2026-09-29T07:39:00",
       "showTime": "07:32:00",
       "endTime": "07:39:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f6ec00ebbcd716632906481d0fdec7c0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/51b6f11aff7478f8626f8228328413d1.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Paap-O-Meter",
-      "description": "Bheem Bahadur, a young boy enthusiastic about pursuing a career in sports is troubled by Jaggu cheating in the games. What will the ghosts do now?",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "A priest tells Honey that he is destined to become a king.",
       "startDate": "2026-09-29T07:39:00",
       "endDate": "2026-09-29T07:46:00",
       "showTime": "07:39:00",
       "endTime": "07:46:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9358e140985da2870104eb6c188445f5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/548da6f2283a16bef5895347c3623de9.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Paap-O-Meter",
-      "description": "Thakela and Pakela help a mermaid who has lost her magical shell.",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey Bunny and his friends are terrified as they encounter a gigantic ghost.",
       "startDate": "2026-09-29T07:46:00",
       "endDate": "2026-09-29T07:53:00",
       "showTime": "07:46:00",
       "endTime": "07:53:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c66e6dff36a9bcee3005ce13d78201e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fd87e97eb9cd9c5f05aa9a640feb2a6e.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Guru Aur Bhole",
-      "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
+      "showName": "Paap-O-Meter",
+      "description": "A hair oil company is lying to their customers, so Thakela and Pakela are out to set things straight.",
       "startDate": "2026-09-29T07:53:00",
       "endDate": "2026-09-29T08:00:00",
       "showTime": "07:53:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ff30abc26ad3e6335d661f7d1210cf.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f4d1a336e81eacd2bf9ebf40bffdf3ca.jpg"
     },
     {
       "serverDate": "2026-09-29",
@@ -1880,90 +3112,90 @@
     {
       "serverDate": "2026-09-29",
       "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Katkar almost misses her flight.",
+      "description": "Khanna assigns Honey a task to deliver his house keys to Mamaji. Will he do that well?",
       "startDate": "2026-09-29T09:51:00",
       "endDate": "2026-09-29T09:58:00",
       "showTime": "09:51:00",
       "endTime": "09:58:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f200845323238ebf2c9551411ae42e1e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/defaab6fbbd391d1f492d69d44ee7fb5.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Sudha Murty's Stories of Wit & Magic",
-      "description": "Varsha and her mother live together in the outskirts of a town. Their live change after Varsha discovers a golden bird.",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Miss Katkar urges all four friends to exercise. Zordaar does, but Honey Bunny do not. Seeing Kitty admire Sunny, they start bodybuilding too.",
       "startDate": "2026-09-29T09:58:00",
       "endDate": "2026-09-29T10:05:00",
       "showTime": "09:58:00",
       "endTime": "10:05:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/da26e3682a9412b37c7b3be0d6d07ceb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e1a2d674ab64ccf8c98a009745dc9bd1.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "A dolphin is back home. What will happen now?",
+      "showName": "Sudha Murty's Stories of Wit & Magic",
+      "description": "Karan and Arjun, lifelong friends, get lost in a forest on the way home. Can they find their way back safely?",
       "startDate": "2026-09-29T10:05:00",
       "endDate": "2026-09-29T10:12:00",
       "showTime": "10:05:00",
       "endTime": "10:12:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e73d771fad845f17de5038fccbce1436.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/249b82662e9af7fa2ff67c36a73ae615.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Kicko And Super Speedo",
-      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
+      "showName": "Paap-O-Meter",
+      "description": "A cricket coach only lets one kid do the batting and makes biased decisions towards him. What will Thakela and Pakela do with him?",
       "startDate": "2026-09-29T10:12:00",
       "endDate": "2026-09-29T10:29:00",
       "showTime": "10:12:00",
       "endTime": "10:29:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8ae570a4c37f59c3443d7104436e1bc4.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f1afe12ae681bff8523ccb0c2ea2714b.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Guru Aur Bhole",
-      "description": "Guru and Bhole ride a fighter plane.",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Watch Honey, Bunny and his friends embark upon myriad adventures as they cruise through life.",
       "startDate": "2026-09-29T10:29:00",
       "endDate": "2026-09-29T10:36:00",
       "showTime": "10:29:00",
       "endTime": "10:36:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0a55dfcc0fdff4922854e9a8cfd2ce7b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/902d7f022e426bbcf61fc8f8314d4be8.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Khanna, Honey and their friends go over to King Ranjeet's palace to shoot with ghosts.",
+      "showName": "Paap-O-Meter",
+      "description": "Shambu's littering draws Bhoot Boss, Thakela and Pakela's wrath; they also stop Mac, who spreads a ghost rumor to aid his illegal business.",
       "startDate": "2026-09-29T10:36:00",
       "endDate": "2026-09-29T10:43:00",
       "showTime": "10:36:00",
       "endTime": "10:43:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4e2cf4ad98bc9cefe382268e381b1b9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9a94af1b4fda61a556281b7cb8432e7e.jpg"
     },
     {
       "serverDate": "2026-09-29",
       "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Honey Bunny and friends have an interesting encounter with extra terrestrial life.",
+      "description": "Honey and his friends go on a cruise ship but encounter scary pirates in the sea.",
       "startDate": "2026-09-29T10:43:00",
       "endDate": "2026-09-29T10:50:00",
       "showTime": "10:43:00",
       "endTime": "10:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9dfca3e503fb5e42f9776abacff9ffbd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0c460609093704887857ae8f285f31d.jpg"
     },
     {
       "serverDate": "2026-09-29",
       "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Honey Bunny and friends become cheerleaders.",
+      "description": "A courier man who can't see properly create problems for everyone.",
       "startDate": "2026-09-29T10:50:00",
       "endDate": "2026-09-29T10:59:00",
       "showTime": "10:50:00",
       "endTime": "10:59:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba0d6df4532f41259b6a2b5cb5da66f3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4b5b179b943d676f144880980a2058c.jpg"
     },
     {
       "serverDate": "2026-09-29",
@@ -1978,36 +3210,36 @@
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Kicko And Super Speedo",
-      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
+      "showName": "Sudha Murty's Stories of Wit & Magic",
+      "description": "Jaya cares for Badri like a son, as his father asked, but Badri rejects her love. Can they resolve their differences?",
       "startDate": "2026-09-29T12:34:00",
       "endDate": "2026-09-29T12:41:00",
       "showTime": "12:34:00",
       "endTime": "12:41:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e3cc685e1b24b3c44da2058685a9f7f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be235a5efe5bad55868c6c9e49b1b0a0.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Guru Aur Bhole",
-      "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey, Bunny and the gang are helping Kitty with her theatre show. Kitty gives everyone roles to play, but all of them mess up their dialogues.",
       "startDate": "2026-09-29T12:41:00",
       "endDate": "2026-09-29T12:48:00",
       "showTime": "12:41:00",
       "endTime": "12:48:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/51cd57ecc12f040e1b937098f0dbd106.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4680f29efb14e0f197357b5383535ea9.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Watch Honey, Bunny and his friends embark upon myriad adventures as they cruise through life.",
+      "showName": "Paap-O-Meter",
+      "description": "Thakela Pakela and Bhoot Boss decide to resolve the water supply issue and teach the water mafia a lesson.",
       "startDate": "2026-09-29T12:48:00",
       "endDate": "2026-09-29T12:55:00",
       "showTime": "12:48:00",
       "endTime": "12:55:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1576f0a66f9eb096b9bbd739fb9c22d4.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/396b8eae1f9430be496fd5a0fc18aaf0.jpg"
     },
     {
       "serverDate": "2026-09-29",
@@ -2023,35 +3255,35 @@
     {
       "serverDate": "2026-09-29",
       "showName": "Paap-O-Meter",
-      "description": "The ghosts take on the owners of Achchha Land and teach them a lesson.",
+      "description": "Thakela and Pakela decide to teach Gabru a lesson after he troubles the local animals.",
       "startDate": "2026-09-29T14:55:00",
       "endDate": "2026-09-29T15:03:00",
       "showTime": "14:55:00",
       "endTime": "15:03:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2ee86ed73e6610cdaf1bb82e0117e287.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aedf27c58c4dba2776e93b8cc100adfc.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Honey has a precious box that he wishes to protect. What is in that box?",
+      "showName": "Kicko And Super Speedo",
+      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
       "startDate": "2026-09-29T15:03:00",
       "endDate": "2026-09-29T15:10:00",
       "showTime": "15:03:00",
       "endTime": "15:10:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/344edf22a6c76f1b532f5023b0d5cb7d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f3338c1f8031e704c87dd0c4b818b66.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Zabardast is put in jail due to a misunderstanding. How will Honey, Bunny and the gang help him?",
+      "showName": "Paap-O-Meter",
+      "description": "A few fishermen are fishing amidst a storm and encounter a shark. Who will save them?",
       "startDate": "2026-09-29T15:10:00",
       "endDate": "2026-09-29T15:16:00",
       "showTime": "15:10:00",
       "endTime": "15:16:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/75ce067b5559f66c1f83ae9faa03744c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/213a31b660ed05079c91a90f02ba549c.jpg"
     },
     {
       "serverDate": "2026-09-29",
@@ -2062,40 +3294,40 @@
       "showTime": "15:16:00",
       "endTime": "15:25:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/345fd852942aa817bde544b976c97d0b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29828848f8947aee7a472d0a9f22949f.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Guru Aur Bhole",
-      "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Totaram joins the underworld and Honey, Bunny and the gang decide to show him the right direction.",
       "startDate": "2026-09-29T15:25:00",
       "endDate": "2026-09-29T15:32:00",
       "showTime": "15:25:00",
       "endTime": "15:32:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/19d6098bd8c571a5410d176b7150995b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e1215cc9e02d14206adc85ee168766a.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Zordaar sees two cats enter his house and walk in air. Later, they save Honey from goons chasing him.",
+      "showName": "Paap-O-Meter",
+      "description": "An old lady doesn't let people go to the park as she's working for a man who needs the park for his own use. What will Thakela and Pakela do now?",
       "startDate": "2026-09-29T15:32:00",
       "endDate": "2026-09-29T15:40:00",
       "showTime": "15:32:00",
       "endTime": "15:40:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cab74591dc1efe6e21f7d0ff9498272.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b5b8848f1d41022f2c07fb55a32e5972.jpg"
     },
     {
       "serverDate": "2026-09-29",
       "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Watch Honey, Bunny and his friends embark upon myriad adventures as they cruise through life.",
+      "description": "Tutu brings Johny, an alien whose planet is drying up. Bunny and the gang help find water and cool it down.",
       "startDate": "2026-09-29T15:40:00",
       "endDate": "2026-09-29T15:59:00",
       "showTime": "15:40:00",
       "endTime": "15:59:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ac58691b511f110024c6f6e56e6cf1e0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/154af5fa94116dc5acc7a4e0a8cf51ce.jpg"
     },
     {
       "serverDate": "2026-09-29",
@@ -2110,300 +3342,300 @@
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Seth announces a cash prize of five lakh rupees to the one who finds his lucky vase.",
+      "showName": "Guru Aur Bhole",
+      "description": "Major asks Bhole and Guru to get his special butter for breakfast; if they succeed, he won't take rent from them for this month.",
       "startDate": "2026-09-29T17:54:00",
       "endDate": "2026-09-29T18:01:00",
       "showTime": "17:54:00",
       "endTime": "18:01:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/92443f68c417f09908d5082ff21bd44b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eaad2b509f921efe4ba13d81db57d65a.jpg"
     },
     {
       "serverDate": "2026-09-29",
       "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Honey and his friends get invited for a halloween party.",
+      "description": "Honey has a precious box that he wishes to protect. What is in that box?",
       "startDate": "2026-09-29T18:01:00",
       "endDate": "2026-09-29T18:08:00",
       "showTime": "18:01:00",
       "endTime": "18:08:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9a75def4a80cff698b75b9e084efbfaa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/344edf22a6c76f1b532f5023b0d5cb7d.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Sudha Murty's Stories of Wit & Magic",
-      "description": "A tale of a fisherman who comes across a golden fish and encounters a demon.",
+      "showName": "Guru Aur Bhole",
+      "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
       "startDate": "2026-09-29T18:08:00",
       "endDate": "2026-09-29T18:15:00",
       "showTime": "18:08:00",
       "endTime": "18:15:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/21a6932bb196dded77c235195af5c910.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f85e0fdfc771ccb39de287f4143cb00e.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Paap-O-Meter",
-      "description": "Ghanshyam Bhoot is upset as his last wish is blocked by cruel nephew Jabran. Will Thakela Pakela help fulfill it?",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey, Bunny and friends take part in a short film competition.",
       "startDate": "2026-09-29T18:15:00",
       "endDate": "2026-09-29T18:22:00",
       "showTime": "18:15:00",
       "endTime": "18:22:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ffe512da8fc51ba6730927fb4070b790.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f9a123265f24a07e64692c1f7675b664.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Kitty and Sunny land an ad film offer in the park, but jealous Bunny wants in too.",
+      "showName": "Kicko And Super Speedo",
+      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
       "startDate": "2026-09-29T18:22:00",
       "endDate": "2026-09-29T18:29:00",
       "showTime": "18:22:00",
       "endTime": "18:29:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/59237bd193d40b1696546eae425cb4c7.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Paap-O-Meter",
-      "description": "A monkey is in trouble because of his master. How will Thakela and Pakela help him?",
-      "startDate": "2026-09-29T18:29:00",
-      "endDate": "2026-09-29T18:36:00",
-      "showTime": "18:29:00",
-      "endTime": "18:36:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/757f5c4360cb255fbb308c8c5978e81c.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Sudha Murty's Stories of Wit & Magic",
-      "description": "A long time back, there lived a prince who was fun-loving and cared for his people deeply. Take a journey through one of his exciting adventures.",
-      "startDate": "2026-09-29T18:36:00",
-      "endDate": "2026-09-29T19:01:00",
-      "showTime": "18:36:00",
-      "endTime": "19:01:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/229aeee5d802b73cf33fbfe45a2b92af.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Mr Khanna wants to get his house renovated but it is out of his budget. Popat, Honey, Bunny and Zordaar decide to help him.",
-      "startDate": "2026-09-29T19:01:00",
-      "endDate": "2026-09-29T19:30:00",
-      "showTime": "19:01:00",
-      "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/87e024f5dad4e45033a9a18ee2b6fe05.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "The gang visits a grocery store, but a Madari show distracts them. When audience items go missing, they suspect the fox and his friend.",
-      "startDate": "2026-09-29T19:30:00",
-      "endDate": "2026-09-29T19:37:00",
-      "showTime": "19:30:00",
-      "endTime": "19:37:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17cfaf82c9c196394b2558611e50d0da.jpg"
-    },
-    {
-      "serverDate": "2026-09-29",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Tomatoes are too expensive for the city, so a scientist donkey gives the gang seeds that grow tomatoes in one day.",
-      "startDate": "2026-09-29T19:37:00",
-      "endDate": "2026-09-29T19:44:00",
-      "showTime": "19:37:00",
-      "endTime": "19:44:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c20e20fb2e531d3fe3effb55e170868b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0dd7bbadf21c007ebb72ec80a3935143.jpg"
     },
     {
       "serverDate": "2026-09-29",
       "showName": "Sudha Murty's Stories of Wit & Magic",
       "description": "Varsha and her mother live together in the outskirts of a town. Their live change after Varsha discovers a golden bird.",
-      "startDate": "2026-09-29T19:44:00",
-      "endDate": "2026-09-29T19:51:00",
-      "showTime": "19:44:00",
-      "endTime": "19:51:00",
+      "startDate": "2026-09-29T18:29:00",
+      "endDate": "2026-09-29T18:36:00",
+      "showTime": "18:29:00",
+      "endTime": "18:36:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/da26e3682a9412b37c7b3be0d6d07ceb.jpg"
     },
     {
       "serverDate": "2026-09-29",
+      "showName": "Paap-O-Meter",
+      "description": "How will Thakela, Pakela and Bhoot Boss deal with the man who is trying to steal internet from a few kids?",
+      "startDate": "2026-09-29T18:36:00",
+      "endDate": "2026-09-29T19:01:00",
+      "showTime": "18:36:00",
+      "endTime": "19:01:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bada9217364145a1767df1199dc719dc.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
       "showName": "Honey Bunny Ka Jholmaal",
-      "description": "The animals in the poultry farm gets angry.",
+      "description": "Gullu sells toothpaste to everyone which turns teeth colourful so that only he can have white teeth.",
+      "startDate": "2026-09-29T19:01:00",
+      "endDate": "2026-09-29T19:30:00",
+      "showTime": "19:01:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d6925bcf0b476b6995e625bec3e3568f.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
+      "showName": "Guru Aur Bhole",
+      "description": "Guru and Bhole go to Alberta's house and find a special hawai brush for painting.",
+      "startDate": "2026-09-29T19:30:00",
+      "endDate": "2026-09-29T19:37:00",
+      "showTime": "19:30:00",
+      "endTime": "19:37:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e60fd72a73ba77842ecdf81e9a151499.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey Bunny and friends find a clue to a treasure.",
+      "startDate": "2026-09-29T19:37:00",
+      "endDate": "2026-09-29T19:44:00",
+      "showTime": "19:37:00",
+      "endTime": "19:44:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dcf19fd0cf2944939503fc1e8ee7a13e.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
+      "showName": "Paap-O-Meter",
+      "description": "Thakela and Pakela compete against each other while a man named Pinku Popat uses his magic and take people's belongings.",
+      "startDate": "2026-09-29T19:44:00",
+      "endDate": "2026-09-29T19:51:00",
+      "showTime": "19:44:00",
+      "endTime": "19:51:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e7ee35e0f8a9854e14fb1387922ff96e.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
+      "showName": "Kicko And Super Speedo",
+      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
       "startDate": "2026-09-29T19:51:00",
       "endDate": "2026-09-29T19:58:00",
       "showTime": "19:51:00",
       "endTime": "19:58:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f3571ec039e9ea52a8f73869b3c6855.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/029e2faa3e6e11cd085d3831688e735b.jpg"
     },
     {
       "serverDate": "2026-09-29",
       "showName": "Honey Bunny Ka Jholmaal",
-      "description": "A monkey comes to Mr Khanna's house claiming to be his ancestor.",
+      "description": "Honey wants to make a viral video. Will he succeed at this attempt?",
       "startDate": "2026-09-29T19:58:00",
       "endDate": "2026-09-29T20:05:00",
       "showTime": "19:58:00",
       "endTime": "20:05:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cccde57827f7e1a73204766c3f811e7b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e54779aff3076e814803df10f64f11bc.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Honey, Bunny and the gang take part in a photography competition. Who will win it?",
+      "showName": "Guru Aur Bhole",
+      "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
       "startDate": "2026-09-29T20:05:00",
       "endDate": "2026-09-29T20:12:00",
       "showTime": "20:05:00",
       "endTime": "20:12:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f159c3ecffe7e43cad0eb5ab2aa1c225.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9a5113bb77dd3076a79e1c05eef9f7c.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Guru Aur Bhole",
-      "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
+      "showName": "Kicko And Super Speedo",
+      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
       "startDate": "2026-09-29T20:12:00",
       "endDate": "2026-09-29T20:19:00",
       "showTime": "20:12:00",
       "endTime": "20:19:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9aef63e1f7f72a6f58dda72f3d49f28f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7541cfc3aec846c0b029664dbedebbfc.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Paap-O-Meter",
-      "description": "Two kids cause property damage by throwing stones at street lights.",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey, Bunny and friends get into some trouble with some criminals.",
       "startDate": "2026-09-29T20:19:00",
       "endDate": "2026-09-29T20:26:00",
       "showTime": "20:19:00",
       "endTime": "20:26:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/83041cd9e573c7cd0add35f09eefec33.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fd95a26cc682f4a391f4e9d9d629d0d1.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Paap-O-Meter",
-      "description": "Dhamaal Chachu ruins summer vacation for the kids by giving them a poor experience at his summer camp.",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey, Bunny and the gang go to visit Totaram's supermarket where things are being stolen. Who is the thief?",
       "startDate": "2026-09-29T20:26:00",
       "endDate": "2026-09-29T20:33:00",
       "showTime": "20:26:00",
       "endTime": "20:33:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/feddf8030e22425202e6255eb3cbe20f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02f04c984cd4bb696dc5dc4dc4a8776.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Paap-O-Meter",
-      "description": "The ghosts teach a lesson to a thief.",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey, Bunny and their friends try to solve the mystery of roses being pinned on doors of the people living in the neighbourhood.",
       "startDate": "2026-09-29T20:33:00",
       "endDate": "2026-09-29T20:40:00",
       "showTime": "20:33:00",
       "endTime": "20:40:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c167575e1b5225a401b15f0954359077.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6195c9a7de2d6158a0ba8c09bf9cd8f8.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Sudha Murty's Stories of Wit & Magic",
-      "description": "A long time back, there lived a prince who was fun-loving and cared for his people deeply. Take a journey through one of his exciting adventures.",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey and Bunny fall into a gutter and get stuck. Zordaar and Popat, while looking for them, also get stuck with them, and it starts raining.",
       "startDate": "2026-09-29T20:40:00",
       "endDate": "2026-09-29T20:59:00",
       "showTime": "20:40:00",
       "endTime": "20:59:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/229aeee5d802b73cf33fbfe45a2b92af.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8e884aabf8b9fabf2a8d03e0186320ef.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Kicko And Super Speedo",
-      "description": "While exercising in the park, the Mayor comes across a man name Belto, who manipulates him into buying belts which will make him slim and stylish.",
+      "showName": "Paap-O-Meter",
+      "description": "Dumbola Beach animals are in trouble as Evil Dcosta destroys the shore. Can Thakela Pakela save them?",
       "startDate": "2026-09-29T20:59:00",
       "endDate": "2026-09-29T21:18:00",
       "showTime": "20:59:00",
       "endTime": "21:18:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25cbc5a73502cf70b04d4d9226b35341.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5ad3d1e9ef2e6a8196c8603c627b6b00.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Kicko And Super Speedo",
-      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
+      "showName": "Paap-O-Meter",
+      "description": "A group of boys bully kids at school. How will Thakela and Pakela teach them a lesson?",
       "startDate": "2026-09-29T21:18:00",
       "endDate": "2026-09-29T21:52:00",
       "showTime": "21:18:00",
       "endTime": "21:52:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/617ae4dce19966c7f7b242fc7a214629.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/12eef6eb0f9f2d1b36be51168e51c879.jpg"
     },
     {
       "serverDate": "2026-09-29",
       "showName": "Paap-O-Meter",
-      "description": "Thakela and Pakela meet a talking tree who shares his fear towards humans as they are rampantly killing trees.",
+      "description": "How will Thakela and Pakela solve the mystery behind the ghost of Bungalow 1301?",
       "startDate": "2026-09-29T21:52:00",
       "endDate": "2026-09-29T22:11:00",
       "showTime": "21:52:00",
       "endTime": "22:11:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad59e4fb9f5513ceed2abc19c4c0d7b8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5e563db49b7332c212a8f1629f7afbb.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Guru Aur Bhole",
-      "description": "Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.",
+      "showName": "Honey Bunny Ka Jholmaal",
+      "description": "Honey, Bunny and friends get tangled up in crazy adventures. Watch the episode to find out.",
       "startDate": "2026-09-29T22:11:00",
       "endDate": "2026-09-29T22:29:00",
       "showTime": "22:11:00",
       "endTime": "22:29:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/66cd74e070aa0741e565f1c6ff302484.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/397bb030d4e1f4b57c2b67aa7d498c4a.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Sudha Murty's Stories of Wit & Magic",
-      "description": "Anil, sheltered by his loving family, is naive and mischievous. When he tries to help his father, trouble follows.",
+      "showName": "Paap-O-Meter",
+      "description": "A Few teenage boys are troubling animals for fun. How will they be reprimanded?",
       "startDate": "2026-09-29T22:29:00",
       "endDate": "2026-09-29T23:04:00",
       "showTime": "22:29:00",
       "endTime": "23:04:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8af4e21c3738ed7fd42da04c6bae0b34.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a3454a49df5fc9c2c2ecb6e45c94576.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Paap-O-Meter",
-      "description": "Somu is scared to tell his father about his dream of becoming a footballer. Will Thakela and Pakela be able to help?",
+      "showName": "Guru Aur Bhole",
+      "description": "Bhole's body becomes electrically charged after touching an open electrical wire.",
       "startDate": "2026-09-29T23:04:00",
       "endDate": "2026-09-29T23:22:00",
       "showTime": "23:04:00",
       "endTime": "23:22:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6ee4e292a169b6aace82761e0dd4df78.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ac73dad95c06b45a974442e94b0961e6.jpg"
     },
     {
       "serverDate": "2026-09-29",
       "showName": "Honey Bunny Ka Jholmaal",
-      "description": "Honey Bunny and friends have some trouble with overstaying guests.",
+      "description": "Miss Katkar asks Honey, Bunny and the gang to go to her uncle and give him medicines but they misunderstand her.",
       "startDate": "2026-09-29T23:22:00",
       "endDate": "2026-09-29T23:54:00",
       "showTime": "23:22:00",
       "endTime": "23:54:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d70190e4a47e57fa41779e9e1485102e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/42a556e8cc2a3b94674e129c8d6389b6.jpg"
     },
     {
       "serverDate": "2026-09-29",
-      "showName": "Kicko And Super Speedo",
-      "description": "Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?",
+      "showName": "Guru Aur Bhole",
+      "description": "Guru and Bhole find out that the ghost of a haunted house is terrorizing the people, and they decide to investigate.",
       "startDate": "2026-09-29T23:54:00",
       "endDate": "2026-09-29T23:59:59",
       "showTime": "23:54:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a4a310f6444416a89a64193b15f64274.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fb7b7c5a5ff6c300bbbb7b18a03a77b2.jpg"
     },
     {
       "serverDate": "2026-09-30",
