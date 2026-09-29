@@ -8,127 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Movies.png",
   "programs": [
     {
-      "serverDate": "2026-09-28",
-      "showName": "You Too Brutus",
-      "description": "Arun, Tovino and Vicky are bachelors who lead a carefree life. However, their lives are turned upside down when they fall in love with three young women.",
-      "startDate": "2026-09-28T00:00:00",
-      "endDate": "2026-09-28T01:00:00",
-      "showTime": "00:00:00",
-      "endTime": "01:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/568f4417e7c76b345bd149e35ab40cee.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Saphalam",
-      "description": "An elderly couple's immense love for each other makes it difficult for them to handle the separation after one of them goes to the US.",
-      "startDate": "2026-09-28T01:00:00",
-      "endDate": "2026-09-28T03:30:00",
-      "showTime": "01:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/78a1c7cf30107955a849549bfbded379.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Mottu",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-09-28T03:30:00",
-      "endDate": "2026-09-28T06:00:00",
-      "showTime": "03:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9efa2fff0eca72f3836534bb5b1612b.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Filler",
-      "description": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
-      "startDate": "2026-09-28T06:00:00",
-      "endDate": "2026-09-28T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eb541e1dc6b63ce4dfebe39bdc99c5b7.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Filler",
-      "description": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
-      "startDate": "2026-09-28T06:30:00",
-      "endDate": "2026-09-28T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eb541e1dc6b63ce4dfebe39bdc99c5b7.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Mamangam",
-      "description": "The Zamorin of Kozhikode takes the right of Maamakam forcefully from Vellattiri, the ruler of Valluvanad, resulting in a dispute breaking out between the two.",
-      "startDate": "2026-09-28T07:00:00",
-      "endDate": "2026-09-28T10:00:00",
-      "showTime": "07:00:00",
-      "endTime": "10:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c8cd3e51790e0800eb580924d74c2140.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Seetha Kalyanam",
-      "description": "Nimisha realises that she is in love with Sreeni, a colleague she has made fun of with her friends. However, Sreeni's mother fixes his marriage with Abhirami, a traditional young lady.",
-      "startDate": "2026-09-28T10:00:00",
-      "endDate": "2026-09-28T13:00:00",
-      "showTime": "10:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c804ba3033869e2e668d4a8bb74ff1da.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Inspector Balram",
-      "description": "Inspector Balram is wrongly suspended and jailed when he sincerely fights against the atrocities of influential dons. After the mafia kills his wife, he takes the law into his hands.",
-      "startDate": "2026-09-28T13:00:00",
-      "endDate": "2026-09-28T16:00:00",
-      "showTime": "13:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/35302125a5093ac45683968b2a082e7f.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Killadi",
-      "description": "Raju, Saroja, Ramulu, Vivek Chakravarthy and Raheemuddin Qureshi are five people whose destinies get entangled with each other when they are victims of a terrorist attack that occurs in a hospital.",
-      "startDate": "2026-09-28T16:00:00",
-      "endDate": "2026-09-28T19:00:00",
-      "showTime": "16:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/539d7a774fc0a5001be5f71e35ce3e8c.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Priyam",
-      "description": "Benny, an orphan, shares a close bond with Annie but is separated from her when her father takes her away. Years later, Annie decides to reunite with Benny, but fate has other plans for them.",
-      "startDate": "2026-09-28T19:00:00",
-      "endDate": "2026-09-28T22:00:00",
-      "showTime": "19:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/48267f391d2dacae8f65f7893419f3d9.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Karma",
-      "description": "The life of Achuthan, a village boy, turns upside down when he finds out that Sreedharan, a business tycoon, is his father.",
-      "startDate": "2026-09-28T22:00:00",
-      "endDate": "2026-09-28T23:59:59",
-      "showTime": "22:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5c14551171565b6e44d0e3af9b7cd6dc.jpg"
-    },
-    {
       "serverDate": "2026-09-29",
       "showName": "Karma",
       "description": "The life of Achuthan, a village boy, turns upside down when he finds out that Sreedharan, a business tycoon, is his father.",
@@ -581,14 +460,14 @@
     },
     {
       "serverDate": "2026-10-02",
-      "showName": "Gourav",
-      "description": "A young boy from a middle-class family endures a constant struggle out of fear of societal rejection and finally finds self-acceptance.",
+      "showName": "Ben",
+      "description": "Ben is a young boy whose life changes after he moves from a joint family to a nuclear family. He further finds himself unable to cope with his mother's unrealistic expectations.",
       "startDate": "2026-10-02T16:00:00",
       "endDate": "2026-10-02T19:00:00",
       "showTime": "16:00:00",
       "endTime": "19:00:00",
-      "showCategory": "Short Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/75718f4504aee0d60f151047fdfa0e53.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/545e1852fa8d6a706a61837a93b1a991.jpg"
     },
     {
       "serverDate": "2026-10-02",
@@ -614,14 +493,14 @@
     },
     {
       "serverDate": "2026-10-03",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Njan Marykutty",
+      "description": "A transgender man struggles to realise his sexual orientation while dealing with the social stigma and taboo related to gender transition in society.",
       "startDate": "2026-10-03T00:00:00",
       "endDate": "2026-10-03T01:00:00",
       "showTime": "00:00:00",
       "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eaff70743e1bc255093bf6049676612e.jpg"
     },
     {
       "serverDate": "2026-10-03",
