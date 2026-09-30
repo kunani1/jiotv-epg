@@ -8,237 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/jojotv.png",
   "programs": [
     {
-      "serverDate": "2026-09-28",
-      "showName": "Adventure Of Archu!",
-      "description": "Adventure Of Archu!",
-      "startDate": "2026-09-28T00:00:00",
-      "endDate": "2026-09-28T03:59:00",
-      "showTime": "00:00:00",
-      "endTime": "03:59:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a70c77588581c78b34bbcf3b0490fb1.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Gujju Bhai Girish Kumar",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-28T03:59:00",
-      "endDate": "2026-09-28T04:11:00",
-      "showTime": "03:59:00",
-      "endTime": "04:11:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b96c66ce6f304530b31e3fb87d13e5.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Gujju Bhai Girish Kumar",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-28T04:11:00",
-      "endDate": "2026-09-28T04:54:00",
-      "showTime": "04:11:00",
-      "endTime": "04:54:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b96c66ce6f304530b31e3fb87d13e5.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Kal Aaj Kal",
-      "description": "Kal Aaj Kal",
-      "startDate": "2026-09-28T04:54:00",
-      "endDate": "2026-09-28T05:04:00",
-      "showTime": "04:54:00",
-      "endTime": "05:04:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a74a5ff93479215e8d733a5221c3654.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Panchat Podcast",
-      "description": "Host Jay Raval chats with singer Purva Mantri about her creative journey, unique musical style, and insights into the indie music scene.",
-      "startDate": "2026-09-28T05:04:00",
-      "endDate": "2026-09-28T12:55:00",
-      "showTime": "05:04:00",
-      "endTime": "12:55:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/54c2dac0c1b8973c6c02d63bd09051c9.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Gujju Bhai Girish Kumar",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-28T12:55:00",
-      "endDate": "2026-09-28T13:23:00",
-      "showTime": "12:55:00",
-      "endTime": "13:23:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b96c66ce6f304530b31e3fb87d13e5.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "JOJO Rasoi",
-      "description": "JOJO Rasoi",
-      "startDate": "2026-09-28T13:23:00",
-      "endDate": "2026-09-28T13:58:00",
-      "showTime": "13:23:00",
-      "endTime": "13:58:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b84c3e4a448627d4ae328e0712577ce1.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "JOJO Rasoi",
-      "description": "JOJO Rasoi",
-      "startDate": "2026-09-28T13:58:00",
-      "endDate": "2026-09-28T14:10:00",
-      "showTime": "13:58:00",
-      "endTime": "14:10:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b84c3e4a448627d4ae328e0712577ce1.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "JOJO Rasoi",
-      "description": "JOJO Rasoi",
-      "startDate": "2026-09-28T14:10:00",
-      "endDate": "2026-09-28T14:39:00",
-      "showTime": "14:10:00",
-      "endTime": "14:39:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b84c3e4a448627d4ae328e0712577ce1.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Gujju Bhai Girish Kumar",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-28T14:39:00",
-      "endDate": "2026-09-28T14:44:00",
-      "showTime": "14:39:00",
-      "endTime": "14:44:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b96c66ce6f304530b31e3fb87d13e5.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Gujju Bhai Girish Kumar",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-28T14:44:00",
-      "endDate": "2026-09-28T14:50:00",
-      "showTime": "14:44:00",
-      "endTime": "14:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b96c66ce6f304530b31e3fb87d13e5.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Gujju Bhai Girish Kumar",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-28T14:50:00",
-      "endDate": "2026-09-28T16:59:00",
-      "showTime": "14:50:00",
-      "endTime": "16:59:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b96c66ce6f304530b31e3fb87d13e5.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Hal Bheru America",
-      "description": "Amit and Asha love each other, but the latter's father wants her to get married to an NRI. Hoping for a better future, the couple decides to enter America illegally.",
-      "startDate": "2026-09-28T16:59:00",
-      "endDate": "2026-09-28T18:56:00",
-      "showTime": "16:59:00",
-      "endTime": "18:56:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2ead7fa7e71bd83a8e36141ce7798250.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Har Ghadi Mauj",
-      "description": "Har Ghadi Mauj",
-      "startDate": "2026-09-28T18:56:00",
-      "endDate": "2026-09-28T19:59:00",
-      "showTime": "18:56:00",
-      "endTime": "19:59:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/95a6fc14b09e2772d17cd40a1e6fbc95.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Har Ghadi Mauj",
-      "description": "Har Ghadi Mauj",
-      "startDate": "2026-09-28T19:59:00",
-      "endDate": "2026-09-28T20:17:00",
-      "showTime": "19:59:00",
-      "endTime": "20:17:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/95a6fc14b09e2772d17cd40a1e6fbc95.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Adventure Of Archu!",
-      "description": "Adventure Of Archu!",
-      "startDate": "2026-09-28T20:17:00",
-      "endDate": "2026-09-28T20:23:00",
-      "showTime": "20:17:00",
-      "endTime": "20:23:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a70c77588581c78b34bbcf3b0490fb1.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Boyfriend VS Best Friend",
-      "description": "Boyfriend VS Best Friend",
-      "startDate": "2026-09-28T20:23:00",
-      "endDate": "2026-09-28T22:49:00",
-      "showTime": "20:23:00",
-      "endTime": "22:49:00",
-      "showCategory": "Miniseries",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a70c77588581c78b34bbcf3b0490fb1.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Ek Perfect Shot",
-      "description": "In 1999, five teenage boys wager with another group on a cricket match for 60 Rupees, and as they collect the money, their personal lives begin to unravel.",
-      "startDate": "2026-09-28T22:49:00",
-      "endDate": "2026-09-28T23:32:00",
-      "showTime": "22:49:00",
-      "endTime": "23:32:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7eede4bb23d4f1a0f5dd2d8eaaee242.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Gujju Bhai Girish Kumar",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-28T23:32:00",
-      "endDate": "2026-09-28T23:37:00",
-      "showTime": "23:32:00",
-      "endTime": "23:37:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b96c66ce6f304530b31e3fb87d13e5.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Gujju Bhai Girish Kumar",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-28T23:37:00",
-      "endDate": "2026-09-28T23:45:00",
-      "showTime": "23:37:00",
-      "endTime": "23:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b96c66ce6f304530b31e3fb87d13e5.jpg"
-    },
-    {
-      "serverDate": "2026-09-28",
-      "showName": "Gujju Bhai Girish Kumar",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-28T23:45:00",
-      "endDate": "2026-09-28T23:59:59",
-      "showTime": "23:45:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b96c66ce6f304530b31e3fb87d13e5.jpg"
-    },
-    {
       "serverDate": "2026-09-29",
       "showName": "Gujju Bhai Girish Kumar",
       "description": "Bringing the best in television.",
@@ -496,9 +265,9 @@
       "showName": "Gujju Bhai Girish Kumar",
       "description": "Bringing the best in television.",
       "startDate": "2026-09-30T00:00:00",
-      "endDate": "2026-09-30T00:01:00",
+      "endDate": "2026-09-30T01:59:00",
       "showTime": "00:00:00",
-      "endTime": "00:01:00",
+      "endTime": "01:59:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b96c66ce6f304530b31e3fb87d13e5.jpg"
     },
@@ -506,10 +275,10 @@
       "serverDate": "2026-09-30",
       "showName": "Hal Bheru America",
       "description": "Amit and Asha love each other, but the latter's father wants her to get married to an NRI. Hoping for a better future, the couple decides to enter America illegally.",
-      "startDate": "2026-09-30T00:01:00",
-      "endDate": "2026-09-30T02:57:00",
-      "showTime": "00:01:00",
-      "endTime": "02:57:00",
+      "startDate": "2026-09-30T01:59:00",
+      "endDate": "2026-09-30T04:55:00",
+      "showTime": "01:59:00",
+      "endTime": "04:55:00",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2ead7fa7e71bd83a8e36141ce7798250.jpg"
     },
@@ -517,9 +286,9 @@
       "serverDate": "2026-09-30",
       "showName": "Chal Chandu Parni Jaiye",
       "description": "Chal Chandu Parni Jaiye",
-      "startDate": "2026-09-30T02:57:00",
+      "startDate": "2026-09-30T04:55:00",
       "endDate": "2026-09-30T05:21:00",
-      "showTime": "02:57:00",
+      "showTime": "04:55:00",
       "endTime": "05:21:00",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
@@ -562,55 +331,11 @@
       "showName": "Gujju Bhai Girish Kumar",
       "description": "Bringing the best in television.",
       "startDate": "2026-09-30T05:52:00",
-      "endDate": "2026-09-30T07:29:00",
-      "showTime": "05:52:00",
-      "endTime": "07:29:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b96c66ce6f304530b31e3fb87d13e5.jpg"
-    },
-    {
-      "serverDate": "2026-09-30",
-      "showName": "Mangalam Bhagvan Vishnu Mantra",
-      "description": "Mangalam Bhagvan Vishnu Mantra",
-      "startDate": "2026-09-30T07:29:00",
-      "endDate": "2026-09-30T07:50:00",
-      "showTime": "07:29:00",
-      "endTime": "07:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2038e827eb81b5b7f6f60873efd9d7af.jpg"
-    },
-    {
-      "serverDate": "2026-09-30",
-      "showName": "Gujju Bhai Girish Kumar",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-30T07:50:00",
-      "endDate": "2026-09-30T07:55:00",
-      "showTime": "07:50:00",
-      "endTime": "07:55:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b96c66ce6f304530b31e3fb87d13e5.jpg"
-    },
-    {
-      "serverDate": "2026-09-30",
-      "showName": "Gujju Bhai Girish Kumar",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-09-30T07:55:00",
-      "endDate": "2026-09-30T08:04:00",
-      "showTime": "07:55:00",
-      "endTime": "08:04:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b96c66ce6f304530b31e3fb87d13e5.jpg"
-    },
-    {
-      "serverDate": "2026-09-30",
-      "showName": "VastuLogic",
-      "description": "VastuLogic",
-      "startDate": "2026-09-30T08:04:00",
       "endDate": "2026-09-30T08:48:00",
-      "showTime": "08:04:00",
+      "showTime": "05:52:00",
       "endTime": "08:48:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/68b72c0f6c4ab4545b3ab3056ef6b772.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b96c66ce6f304530b31e3fb87d13e5.jpg"
     },
     {
       "serverDate": "2026-09-30",
@@ -881,20 +606,31 @@
       "showName": "Super Dogs",
       "description": "Super Dogs",
       "startDate": "2026-10-01T00:00:00",
-      "endDate": "2026-10-01T00:02:00",
+      "endDate": "2026-10-01T00:03:00",
       "showTime": "00:00:00",
-      "endTime": "00:02:00",
+      "endTime": "00:03:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4b2f1abd0d251f9793cbef6f55d81a29.jpg"
     },
     {
       "serverDate": "2026-10-01",
+      "showName": "Jindagi Jivi Le",
+      "description": "Jindagi Jivi Le",
+      "startDate": "2026-10-01T00:03:00",
+      "endDate": "2026-10-01T02:59:00",
+      "showTime": "00:03:00",
+      "endTime": "02:59:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b648bf078c839def1bff44fbb11ba4e.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
       "showName": "Har Ghadi Mauj",
       "description": "Har Ghadi Mauj",
-      "startDate": "2026-10-01T00:02:00",
-      "endDate": "2026-10-01T00:46:00",
-      "showTime": "00:02:00",
-      "endTime": "00:46:00",
+      "startDate": "2026-10-01T02:59:00",
+      "endDate": "2026-10-01T03:53:00",
+      "showTime": "02:59:00",
+      "endTime": "03:53:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/95a6fc14b09e2772d17cd40a1e6fbc95.jpg"
     },
@@ -902,78 +638,100 @@
       "serverDate": "2026-10-01",
       "showName": "Har Ghadi Mauj",
       "description": "Har Ghadi Mauj",
-      "startDate": "2026-10-01T00:46:00",
-      "endDate": "2026-10-01T01:03:00",
-      "showTime": "00:46:00",
-      "endTime": "01:03:00",
+      "startDate": "2026-10-01T03:53:00",
+      "endDate": "2026-10-01T04:53:00",
+      "showTime": "03:53:00",
+      "endTime": "04:53:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/95a6fc14b09e2772d17cd40a1e6fbc95.jpg"
     },
     {
       "serverDate": "2026-10-01",
-      "showName": "Panchat Podcast",
-      "description": "Panchat Podcast",
-      "startDate": "2026-10-01T01:03:00",
-      "endDate": "2026-10-01T01:51:00",
-      "showTime": "01:03:00",
-      "endTime": "01:51:00",
+      "showName": "Gujju Bhai Girish Kumar",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-01T04:53:00",
+      "endDate": "2026-10-01T05:04:00",
+      "showTime": "04:53:00",
+      "endTime": "05:04:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/54c2dac0c1b8973c6c02d63bd09051c9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b96c66ce6f304530b31e3fb87d13e5.jpg"
     },
     {
       "serverDate": "2026-10-01",
-      "showName": "Aadat",
-      "description": "Aadat",
-      "startDate": "2026-10-01T01:51:00",
-      "endDate": "2026-10-01T02:25:00",
-      "showTime": "01:51:00",
-      "endTime": "02:25:00",
+      "showName": "Kal Aaj Kal",
+      "description": "Kal Aaj Kal",
+      "startDate": "2026-10-01T05:04:00",
+      "endDate": "2026-10-01T05:28:00",
+      "showTime": "05:04:00",
+      "endTime": "05:28:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f5fe6a19db12cdebc48cdf4c689455c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a74a5ff93479215e8d733a5221c3654.jpg"
     },
     {
       "serverDate": "2026-10-01",
-      "showName": "Aadat",
-      "description": "Aadat",
-      "startDate": "2026-10-01T02:25:00",
-      "endDate": "2026-10-01T03:12:00",
-      "showTime": "02:25:00",
-      "endTime": "03:12:00",
+      "showName": "Gujju Bhai Girish Kumar",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-01T05:28:00",
+      "endDate": "2026-10-01T05:34:00",
+      "showTime": "05:28:00",
+      "endTime": "05:34:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f5fe6a19db12cdebc48cdf4c689455c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2b96c66ce6f304530b31e3fb87d13e5.jpg"
     },
     {
       "serverDate": "2026-10-01",
-      "showName": "Aadat",
-      "description": "Aadat",
-      "startDate": "2026-10-01T03:12:00",
-      "endDate": "2026-10-01T04:00:00",
-      "showTime": "03:12:00",
-      "endTime": "04:00:00",
+      "showName": "Super Dogs",
+      "description": "Super Dogs",
+      "startDate": "2026-10-01T05:34:00",
+      "endDate": "2026-10-01T07:27:00",
+      "showTime": "05:34:00",
+      "endTime": "07:27:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f5fe6a19db12cdebc48cdf4c689455c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4b2f1abd0d251f9793cbef6f55d81a29.jpg"
     },
     {
       "serverDate": "2026-10-01",
-      "showName": "Aadat",
-      "description": "Aadat",
-      "startDate": "2026-10-01T04:00:00",
-      "endDate": "2026-10-01T04:55:00",
-      "showTime": "04:00:00",
-      "endTime": "04:55:00",
+      "showName": "Mangalam Bhagvan Vishnu Mantra",
+      "description": "Mangalam Bhagvan Vishnu Mantra",
+      "startDate": "2026-10-01T07:27:00",
+      "endDate": "2026-10-01T07:49:00",
+      "showTime": "07:27:00",
+      "endTime": "07:49:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f5fe6a19db12cdebc48cdf4c689455c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2038e827eb81b5b7f6f60873efd9d7af.jpg"
     },
     {
       "serverDate": "2026-10-01",
-      "showName": "Aadat",
-      "description": "Aadat",
-      "startDate": "2026-10-01T04:55:00",
+      "showName": "So Hum",
+      "description": "So Hum",
+      "startDate": "2026-10-01T07:49:00",
+      "endDate": "2026-10-01T08:09:00",
+      "showTime": "07:49:00",
+      "endTime": "08:09:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "VastuLogic",
+      "description": "VastuLogic",
+      "startDate": "2026-10-01T08:09:00",
+      "endDate": "2026-10-01T08:30:00",
+      "showTime": "08:09:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/68b72c0f6c4ab4545b3ab3056ef6b772.jpg"
+    },
+    {
+      "serverDate": "2026-10-01",
+      "showName": "VastuLogic",
+      "description": "VastuLogic",
+      "startDate": "2026-10-01T08:30:00",
       "endDate": "2026-10-01T09:55:00",
-      "showTime": "04:55:00",
+      "showTime": "08:30:00",
       "endTime": "09:55:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f5fe6a19db12cdebc48cdf4c689455c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/68b72c0f6c4ab4545b3ab3056ef6b772.jpg"
     },
     {
       "serverDate": "2026-10-01",
@@ -995,7 +753,7 @@
       "showTime": "15:51:00",
       "endTime": "16:34:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c2c8ace9baaf5e10dfc9b8d24a83818.jpg"
     },
     {
       "serverDate": "2026-10-01",
@@ -1138,7 +896,7 @@
       "showTime": "00:56:00",
       "endTime": "01:52:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c2c8ace9baaf5e10dfc9b8d24a83818.jpg"
     },
     {
       "serverDate": "2026-10-02",
@@ -1314,7 +1072,7 @@
       "showTime": "15:51:00",
       "endTime": "16:34:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c2c8ace9baaf5e10dfc9b8d24a83818.jpg"
     },
     {
       "serverDate": "2026-10-02",
@@ -1457,7 +1215,7 @@
       "showTime": "00:56:00",
       "endTime": "01:52:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c2c8ace9baaf5e10dfc9b8d24a83818.jpg"
     },
     {
       "serverDate": "2026-10-03",
@@ -1655,7 +1413,7 @@
       "showTime": "13:04:00",
       "endTime": "13:52:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b84c3e4a448627d4ae328e0712577ce1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b2f1066baa944562e980111c1725e67.jpg"
     },
     {
       "serverDate": "2026-10-03",
@@ -1666,7 +1424,7 @@
       "showTime": "13:52:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b84c3e4a448627d4ae328e0712577ce1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b2f1066baa944562e980111c1725e67.jpg"
     },
     {
       "serverDate": "2026-10-03",
@@ -1831,7 +1589,7 @@
       "showTime": "17:03:00",
       "endTime": "19:23:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c2c8ace9baaf5e10dfc9b8d24a83818.jpg"
     },
     {
       "serverDate": "2026-10-04",
@@ -1886,7 +1644,7 @@
       "showTime": "22:54:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c2c8ace9baaf5e10dfc9b8d24a83818.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -1897,7 +1655,7 @@
       "showTime": "00:00:00",
       "endTime": "00:01:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c2c8ace9baaf5e10dfc9b8d24a83818.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -1963,7 +1721,7 @@
       "showTime": "04:57:00",
       "endTime": "12:46:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c2c8ace9baaf5e10dfc9b8d24a83818.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -2029,7 +1787,7 @@
       "showTime": "18:13:00",
       "endTime": "18:46:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f4a3d5c2258b1a561436b30257bcff7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c2c8ace9baaf5e10dfc9b8d24a83818.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -2052,6 +1810,347 @@
       "endTime": "23:59:59",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/54c2dac0c1b8973c6c02d63bd09051c9.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Panchat Podcast",
+      "description": "Panchat Podcast",
+      "startDate": "2026-10-06T00:00:00",
+      "endDate": "2026-10-06T01:42:00",
+      "showTime": "00:00:00",
+      "endTime": "01:42:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/54c2dac0c1b8973c6c02d63bd09051c9.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "VastuLogic",
+      "description": "VastuLogic",
+      "startDate": "2026-10-06T01:42:00",
+      "endDate": "2026-10-06T02:13:00",
+      "showTime": "01:42:00",
+      "endTime": "02:13:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/68b72c0f6c4ab4545b3ab3056ef6b772.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "VastuLogic",
+      "description": "VastuLogic",
+      "startDate": "2026-10-06T02:13:00",
+      "endDate": "2026-10-06T02:27:00",
+      "showTime": "02:13:00",
+      "endTime": "02:27:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/68b72c0f6c4ab4545b3ab3056ef6b772.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "VastuLogic",
+      "description": "VastuLogic",
+      "startDate": "2026-10-06T02:27:00",
+      "endDate": "2026-10-06T02:51:00",
+      "showTime": "02:27:00",
+      "endTime": "02:51:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/68b72c0f6c4ab4545b3ab3056ef6b772.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Super Stand Up",
+      "description": "Super Stand Up",
+      "startDate": "2026-10-06T02:51:00",
+      "endDate": "2026-10-06T03:52:00",
+      "showTime": "02:51:00",
+      "endTime": "03:52:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18563a8438ba29c05aa2579fbf87051e.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Super Stand Up",
+      "description": "Super Stand Up",
+      "startDate": "2026-10-06T03:52:00",
+      "endDate": "2026-10-06T04:35:00",
+      "showTime": "03:52:00",
+      "endTime": "04:35:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18563a8438ba29c05aa2579fbf87051e.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-06T04:35:00",
+      "endDate": "2026-10-06T05:11:00",
+      "showTime": "04:35:00",
+      "endTime": "05:11:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c2c8ace9baaf5e10dfc9b8d24a83818.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Super Stand Up",
+      "description": "Super Stand Up",
+      "startDate": "2026-10-06T05:11:00",
+      "endDate": "2026-10-06T06:02:00",
+      "showTime": "05:11:00",
+      "endTime": "06:02:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18563a8438ba29c05aa2579fbf87051e.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Har Ghadi Mauj",
+      "description": "Har Ghadi Mauj",
+      "startDate": "2026-10-06T06:02:00",
+      "endDate": "2026-10-06T07:05:00",
+      "showTime": "06:02:00",
+      "endTime": "07:05:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/95a6fc14b09e2772d17cd40a1e6fbc95.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "JOJO Rasoi",
+      "description": "JOJO Rasoi",
+      "startDate": "2026-10-06T07:05:00",
+      "endDate": "2026-10-06T07:30:00",
+      "showTime": "07:05:00",
+      "endTime": "07:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b2f1066baa944562e980111c1725e67.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "JOJO Rasoi",
+      "description": "JOJO Rasoi",
+      "startDate": "2026-10-06T07:30:00",
+      "endDate": "2026-10-06T08:01:00",
+      "showTime": "07:30:00",
+      "endTime": "08:01:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b2f1066baa944562e980111c1725e67.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "JOJO Rasoi",
+      "description": "JOJO Rasoi",
+      "startDate": "2026-10-06T08:01:00",
+      "endDate": "2026-10-06T08:31:00",
+      "showTime": "08:01:00",
+      "endTime": "08:31:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b2f1066baa944562e980111c1725e67.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Har Ghadi Mauj",
+      "description": "Har Ghadi Mauj",
+      "startDate": "2026-10-06T08:31:00",
+      "endDate": "2026-10-06T09:10:00",
+      "showTime": "08:31:00",
+      "endTime": "09:10:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/95a6fc14b09e2772d17cd40a1e6fbc95.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-06T09:10:00",
+      "endDate": "2026-10-06T12:14:00",
+      "showTime": "09:10:00",
+      "endTime": "12:14:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c2c8ace9baaf5e10dfc9b8d24a83818.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "JOJO Rasoi",
+      "description": "JOJO Rasoi",
+      "startDate": "2026-10-06T12:14:00",
+      "endDate": "2026-10-06T12:45:00",
+      "showTime": "12:14:00",
+      "endTime": "12:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b2f1066baa944562e980111c1725e67.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "JOJO Rasoi",
+      "description": "JOJO Rasoi",
+      "startDate": "2026-10-06T12:45:00",
+      "endDate": "2026-10-06T13:12:00",
+      "showTime": "12:45:00",
+      "endTime": "13:12:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b2f1066baa944562e980111c1725e67.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Stocks: The Insider's Game",
+      "description": "Stocks: The Insider's Game",
+      "startDate": "2026-10-06T13:12:00",
+      "endDate": "2026-10-06T13:37:00",
+      "showTime": "13:12:00",
+      "endTime": "13:37:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/240a5d64bf499f911c5d7f93d7aacac1.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Stocks: The Insider's Game",
+      "description": "Stocks: The Insider's Game",
+      "startDate": "2026-10-06T13:37:00",
+      "endDate": "2026-10-06T13:59:00",
+      "showTime": "13:37:00",
+      "endTime": "13:59:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/240a5d64bf499f911c5d7f93d7aacac1.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Stocks: The Insider's Game",
+      "description": "Stocks: The Insider's Game",
+      "startDate": "2026-10-06T13:59:00",
+      "endDate": "2026-10-06T14:20:00",
+      "showTime": "13:59:00",
+      "endTime": "14:20:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/240a5d64bf499f911c5d7f93d7aacac1.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Stocks: The Insider's Game",
+      "description": "Stocks: The Insider's Game",
+      "startDate": "2026-10-06T14:20:00",
+      "endDate": "2026-10-06T14:33:00",
+      "showTime": "14:20:00",
+      "endTime": "14:33:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/240a5d64bf499f911c5d7f93d7aacac1.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Stocks: The Insider's Game",
+      "description": "Stocks: The Insider's Game",
+      "startDate": "2026-10-06T14:33:00",
+      "endDate": "2026-10-06T14:43:00",
+      "showTime": "14:33:00",
+      "endTime": "14:43:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/240a5d64bf499f911c5d7f93d7aacac1.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Har Ghadi Mauj",
+      "description": "Har Ghadi Mauj",
+      "startDate": "2026-10-06T14:43:00",
+      "endDate": "2026-10-06T15:32:00",
+      "showTime": "14:43:00",
+      "endTime": "15:32:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/95a6fc14b09e2772d17cd40a1e6fbc95.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Har Ghadi Mauj",
+      "description": "Har Ghadi Mauj",
+      "startDate": "2026-10-06T15:32:00",
+      "endDate": "2026-10-06T19:30:00",
+      "showTime": "15:32:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/95a6fc14b09e2772d17cd40a1e6fbc95.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "JOJO TV",
+      "description": "JOJO TV",
+      "startDate": "2026-10-06T19:30:00",
+      "endDate": "2026-10-06T21:55:00",
+      "showTime": "19:30:00",
+      "endTime": "21:55:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-06T21:55:00",
+      "endDate": "2026-10-06T22:23:00",
+      "showTime": "21:55:00",
+      "endTime": "22:23:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c2c8ace9baaf5e10dfc9b8d24a83818.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Stocks: The Insider's Game",
+      "description": "Stocks: The Insider's Game",
+      "startDate": "2026-10-06T22:23:00",
+      "endDate": "2026-10-06T22:47:00",
+      "showTime": "22:23:00",
+      "endTime": "22:47:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/240a5d64bf499f911c5d7f93d7aacac1.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Stocks: The Insider's Game",
+      "description": "Stocks: The Insider's Game",
+      "startDate": "2026-10-06T22:47:00",
+      "endDate": "2026-10-06T23:09:00",
+      "showTime": "22:47:00",
+      "endTime": "23:09:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/240a5d64bf499f911c5d7f93d7aacac1.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Stocks: The Insider's Game",
+      "description": "Stocks: The Insider's Game",
+      "startDate": "2026-10-06T23:09:00",
+      "endDate": "2026-10-06T23:30:00",
+      "showTime": "23:09:00",
+      "endTime": "23:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/240a5d64bf499f911c5d7f93d7aacac1.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Stocks: The Insider's Game",
+      "description": "Stocks: The Insider's Game",
+      "startDate": "2026-10-06T23:30:00",
+      "endDate": "2026-10-06T23:43:00",
+      "showTime": "23:30:00",
+      "endTime": "23:43:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/240a5d64bf499f911c5d7f93d7aacac1.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Stocks: The Insider's Game",
+      "description": "Stocks: The Insider's Game",
+      "startDate": "2026-10-06T23:43:00",
+      "endDate": "2026-10-06T23:53:00",
+      "showTime": "23:43:00",
+      "endTime": "23:53:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/240a5d64bf499f911c5d7f93d7aacac1.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-06T23:53:00",
+      "endDate": "2026-10-06T23:59:59",
+      "showTime": "23:53:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c2c8ace9baaf5e10dfc9b8d24a83818.jpg"
     }
   ]
 }
