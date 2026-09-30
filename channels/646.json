@@ -9,14 +9,113 @@
   "programs": [
     {
       "serverDate": "2026-09-29",
-      "showName": "Movie Mixture",
-      "description": "The host talks about the latest releases from Tollywood and provides updates on the most trending news and gossip from the world of cinema.",
+      "showName": "NTV Special",
+      "description": "The host presents a detailed analysis of some the major news updates and happenings of the day that has made it to the headlines.",
       "startDate": "2026-09-29T00:00:00",
-      "endDate": "2026-09-29T05:30:00",
+      "endDate": "2026-09-29T01:00:00",
       "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b90578306249ac7fd069427b7627e512.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
+      "showName": "NTV Special",
+      "description": "The host presents a detailed analysis of some the major news updates and happenings of the day that has made it to the headlines.",
+      "startDate": "2026-09-29T01:00:00",
+      "endDate": "2026-09-29T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b90578306249ac7fd069427b7627e512.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
+      "showName": "NTV Special",
+      "description": "The host presents a detailed analysis of some the major news updates and happenings of the day that has made it to the headlines.",
+      "startDate": "2026-09-29T01:30:00",
+      "endDate": "2026-09-29T02:00:00",
+      "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b90578306249ac7fd069427b7627e512.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
+      "showName": "NTV Special",
+      "description": "The host presents a detailed analysis of some the major news updates and happenings of the day that has made it to the headlines.",
+      "startDate": "2026-09-29T02:00:00",
+      "endDate": "2026-09-29T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b90578306249ac7fd069427b7627e512.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
+      "showName": "NTV Special",
+      "description": "The host presents a detailed analysis of some the major news updates and happenings of the day that has made it to the headlines.",
+      "startDate": "2026-09-29T02:30:00",
+      "endDate": "2026-09-29T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b90578306249ac7fd069427b7627e512.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
+      "showName": "NTV Special",
+      "description": "The host presents a detailed analysis of some the major news updates and happenings of the day that has made it to the headlines.",
+      "startDate": "2026-09-29T03:00:00",
+      "endDate": "2026-09-29T03:30:00",
+      "showTime": "03:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b90578306249ac7fd069427b7627e512.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
+      "showName": "NTV Special",
+      "description": "The host presents a detailed analysis of some the major news updates and happenings of the day that has made it to the headlines.",
+      "startDate": "2026-09-29T03:30:00",
+      "endDate": "2026-09-29T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b90578306249ac7fd069427b7627e512.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
+      "showName": "NTV Special",
+      "description": "The host presents a detailed analysis of some the major news updates and happenings of the day that has made it to the headlines.",
+      "startDate": "2026-09-29T04:00:00",
+      "endDate": "2026-09-29T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b90578306249ac7fd069427b7627e512.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
+      "showName": "NTV Special",
+      "description": "The host presents a detailed analysis of some the major news updates and happenings of the day that has made it to the headlines.",
+      "startDate": "2026-09-29T04:30:00",
+      "endDate": "2026-09-29T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b90578306249ac7fd069427b7627e512.jpg"
+    },
+    {
+      "serverDate": "2026-09-29",
+      "showName": "NTV Special",
+      "description": "The host presents a detailed analysis of some the major news updates and happenings of the day that has made it to the headlines.",
+      "startDate": "2026-09-29T05:00:00",
+      "endDate": "2026-09-29T05:30:00",
+      "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f6a7ceb857be33899a8f0465944bede.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b90578306249ac7fd069427b7627e512.jpg"
     },
     {
       "serverDate": "2026-09-29",
@@ -427,14 +526,113 @@
     },
     {
       "serverDate": "2026-09-30",
-      "showName": "Movie Mixture",
-      "description": "The host talks about the latest releases from Tollywood and provides updates on the most trending news and gossip from the world of cinema.",
+      "showName": "NTV Special",
+      "description": "The host presents a detailed analysis of some the major news updates and happenings of the day that has made it to the headlines.",
       "startDate": "2026-09-30T00:00:00",
-      "endDate": "2026-09-30T05:30:00",
+      "endDate": "2026-09-30T01:00:00",
       "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b90578306249ac7fd069427b7627e512.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "NTV Special",
+      "description": "The host presents a detailed analysis of some the major news updates and happenings of the day that has made it to the headlines.",
+      "startDate": "2026-09-30T01:00:00",
+      "endDate": "2026-09-30T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b90578306249ac7fd069427b7627e512.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "NTV Special",
+      "description": "The host presents a detailed analysis of some the major news updates and happenings of the day that has made it to the headlines.",
+      "startDate": "2026-09-30T01:30:00",
+      "endDate": "2026-09-30T02:00:00",
+      "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b90578306249ac7fd069427b7627e512.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "NTV Special",
+      "description": "The host presents a detailed analysis of some the major news updates and happenings of the day that has made it to the headlines.",
+      "startDate": "2026-09-30T02:00:00",
+      "endDate": "2026-09-30T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b90578306249ac7fd069427b7627e512.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "NTV Special",
+      "description": "The host presents a detailed analysis of some the major news updates and happenings of the day that has made it to the headlines.",
+      "startDate": "2026-09-30T02:30:00",
+      "endDate": "2026-09-30T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b90578306249ac7fd069427b7627e512.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "NTV Special",
+      "description": "The host presents a detailed analysis of some the major news updates and happenings of the day that has made it to the headlines.",
+      "startDate": "2026-09-30T03:00:00",
+      "endDate": "2026-09-30T03:30:00",
+      "showTime": "03:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b90578306249ac7fd069427b7627e512.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "NTV Special",
+      "description": "The host presents a detailed analysis of some the major news updates and happenings of the day that has made it to the headlines.",
+      "startDate": "2026-09-30T03:30:00",
+      "endDate": "2026-09-30T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b90578306249ac7fd069427b7627e512.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "NTV Special",
+      "description": "The host presents a detailed analysis of some the major news updates and happenings of the day that has made it to the headlines.",
+      "startDate": "2026-09-30T04:00:00",
+      "endDate": "2026-09-30T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b90578306249ac7fd069427b7627e512.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "NTV Special",
+      "description": "The host presents a detailed analysis of some the major news updates and happenings of the day that has made it to the headlines.",
+      "startDate": "2026-09-30T04:30:00",
+      "endDate": "2026-09-30T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b90578306249ac7fd069427b7627e512.jpg"
+    },
+    {
+      "serverDate": "2026-09-30",
+      "showName": "NTV Special",
+      "description": "The host presents a detailed analysis of some the major news updates and happenings of the day that has made it to the headlines.",
+      "startDate": "2026-09-30T05:00:00",
+      "endDate": "2026-09-30T05:30:00",
+      "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f6a7ceb857be33899a8f0465944bede.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b90578306249ac7fd069427b7627e512.jpg"
     },
     {
       "serverDate": "2026-09-30",

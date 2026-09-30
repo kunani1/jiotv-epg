@@ -900,36 +900,25 @@
     },
     {
       "serverDate": "2026-10-01",
-      "showName": "Morning Show Producer",
-      "description": "Morning Show Producer",
+      "showName": "Morning Show",
+      "description": "Presents a refreshing burst of information for the viewers to kickstart the day on a positive note.",
       "startDate": "2026-10-01T08:00:00",
       "endDate": "2026-10-01T09:00:00",
       "showTime": "08:00:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5c41f6d828a4f03c5015baf893de45ca.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fe701093c7560c9537abbb975536d986.jpg"
     },
     {
       "serverDate": "2026-10-01",
       "showName": "KBC Sadabahar",
       "description": "Contestants from across the region participate in a quiz competition, where they stand to win cash prizes if they answer the questions correctly.",
       "startDate": "2026-10-01T09:00:00",
-      "endDate": "2026-10-01T10:00:00",
-      "showTime": "09:00:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a15168c3fde740b76ddf03b26e6dcad8.jpg"
-    },
-    {
-      "serverDate": "2026-10-01",
-      "showName": "Jaanki",
-      "description": "A married couple is ready to welcome their first child, but their patriarchal family want it to be a boy.",
-      "startDate": "2026-10-01T10:00:00",
       "endDate": "2026-10-01T10:30:00",
-      "showTime": "10:00:00",
+      "showTime": "09:00:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84c71d165eefd374024ee4c49a1542a8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a15168c3fde740b76ddf03b26e6dcad8.jpg"
     },
     {
       "serverDate": "2026-10-01",
@@ -1024,22 +1013,11 @@
       "showName": "Jai Bharati",
       "description": "A man gets caught in a tough situation where he has to choose between becoming a star and fulfilling his father's wish for him to serve the nation.",
       "startDate": "2026-10-01T18:30:00",
-      "endDate": "2026-10-01T18:55:00",
-      "showTime": "18:30:00",
-      "endTime": "18:55:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a15ee80e6b4fb0d06cc38c3380364f0.jpg"
-    },
-    {
-      "serverDate": "2026-10-01",
-      "showName": "SOS",
-      "description": "The host facilitates a discussion that focuses on children's rights, concerns and needs by inviting a representative from SOS Children's Village, an Indian non-profit organisation.",
-      "startDate": "2026-10-01T18:55:00",
       "endDate": "2026-10-01T19:00:00",
-      "showTime": "18:55:00",
+      "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eb7b060d3eebcecffc8a8fca0519a87e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a15ee80e6b4fb0d06cc38c3380364f0.jpg"
     },
     {
       "serverDate": "2026-10-01",
@@ -1101,22 +1079,11 @@
       "showName": "Suraag 2.0",
       "description": "Shaurya tries to discover the hidden facts from 27 years ago. Therefore, he uncovers criminal connections while solving the secret mystery.",
       "startDate": "2026-10-01T22:00:00",
-      "endDate": "2026-10-01T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8df9592324ec669e5fbc60be2dfd67f.jpg"
-    },
-    {
-      "serverDate": "2026-10-01",
-      "showName": "Fillers",
-      "description": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors is played sequentially.",
-      "startDate": "2026-10-01T22:30:00",
       "endDate": "2026-10-01T23:00:00",
-      "showTime": "22:30:00",
+      "showTime": "22:00:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/86babb9a8e819dd6d8199230a77a7248.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8df9592324ec669e5fbc60be2dfd67f.jpg"
     },
     {
       "serverDate": "2026-10-01",
@@ -1142,14 +1109,102 @@
     },
     {
       "serverDate": "2026-10-02",
+      "showName": "Teen Saheliyan",
+      "description": "Matriarch Panna Bai controls her village until her strict choices spark a crisis for her family.",
+      "startDate": "2026-10-02T00:00:00",
+      "endDate": "2026-10-02T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/87c26fddcbd746e766996e9c3ab50562.jpg"
+    },
+    {
+      "serverDate": "2026-10-02",
+      "showName": "Chhotaki Chhotanki",
+      "description": "Three sisters from a middle-class family go through various challenges in a society with oppressive beliefs.",
+      "startDate": "2026-10-02T00:30:00",
+      "endDate": "2026-10-02T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df1b94440ddc7f14ed6a381e74955802.jpg"
+    },
+    {
+      "serverDate": "2026-10-02",
+      "showName": "Sanskar",
+      "description": "Bhavani executes strategic marriage plots to acquire Om Prakash's property while ignoring traditional values. However, Sameer loves Bhavani's daughter.",
+      "startDate": "2026-10-02T01:00:00",
+      "endDate": "2026-10-02T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8df9592324ec669e5fbc60be2dfd67f.jpg"
+    },
+    {
+      "serverDate": "2026-10-02",
+      "showName": "Zamana Badal Gaya",
+      "description": "A family deal with generation gaps, shifting lifestyle standards, and the amusing double standards of family members who preach for change but resist it at home.",
+      "startDate": "2026-10-02T01:30:00",
+      "endDate": "2026-10-02T02:00:00",
+      "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e64486485d2a45f016d0c69e7dce03d.jpg"
+    },
+    {
+      "serverDate": "2026-10-02",
+      "showName": "Suraag 2.0",
+      "description": "Shaurya tries to discover the hidden facts from 27 years ago. Therefore, he uncovers criminal connections while solving the secret mystery.",
+      "startDate": "2026-10-02T02:00:00",
+      "endDate": "2026-10-02T03:00:00",
+      "showTime": "02:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8df9592324ec669e5fbc60be2dfd67f.jpg"
+    },
+    {
+      "serverDate": "2026-10-02",
+      "showName": "Cyber Crime",
+      "description": "Presents the latest information about cybercrimes that take place on social media.",
+      "startDate": "2026-10-02T03:00:00",
+      "endDate": "2026-10-02T03:30:00",
+      "showTime": "03:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f096512fba9514b1befacc74e80ba4d.jpg"
+    },
+    {
+      "serverDate": "2026-10-02",
       "showName": "Fauji",
       "description": "Following new recruits as they begin their training to become commandos in the Indian Army. The daily struggles of their lives are shown, from the pranks they play on each other to the punishments they receive.",
-      "startDate": "2026-10-02T00:00:00",
-      "endDate": "2026-10-02T05:30:00",
-      "showTime": "00:00:00",
-      "endTime": "05:30:00",
+      "startDate": "2026-10-02T03:30:00",
+      "endDate": "2026-10-02T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/05dc198dd8507c0030357e0bb47e44ee.jpg"
+    },
+    {
+      "serverDate": "2026-10-02",
+      "showName": "Nee-Na",
+      "description": "Infamous for her drinking habits and being a lone wolf at work, the super talented Neena becomes a discordant chord in the marital harmony between her boss Vinay and his wife Nalini.",
+      "startDate": "2026-10-02T04:00:00",
+      "endDate": "2026-10-02T05:00:00",
+      "showTime": "04:00:00",
+      "endTime": "05:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b7acaf808bcc78d46cd40eb6644cf23.jpg"
+    },
+    {
+      "serverDate": "2026-10-02",
+      "showName": "Aaradhana",
+      "description": "A comprehensive compilation of various devotional songs and hymns, praising the Almighty, chanted by renowned artists from across the region.",
+      "startDate": "2026-10-02T05:00:00",
+      "endDate": "2026-10-02T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/199c178f2bdf72398ae4ac042571f7b2.jpg"
     },
     {
       "serverDate": "2026-10-02",
@@ -1310,11 +1365,22 @@
       "showName": "Chitrahar / Filler",
       "description": "Classic Bollywood songs play, bringing nostalgic entertainment to viewers with memorable tunes and visuals from iconic Hindi films of the past.",
       "startDate": "2026-10-02T15:30:00",
-      "endDate": "2026-10-02T18:00:00",
+      "endDate": "2026-10-02T16:00:00",
       "showTime": "15:30:00",
-      "endTime": "18:00:00",
+      "endTime": "16:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/caf9262f8a347c825e7f01a750a43bac.jpg"
+    },
+    {
+      "serverDate": "2026-10-02",
+      "showName": "Movie",
+      "description": "Movie to be announced.",
+      "startDate": "2026-10-02T16:00:00",
+      "endDate": "2026-10-02T18:00:00",
+      "showTime": "16:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3940523b279757962918e5a66560647e.jpg"
     },
     {
       "serverDate": "2026-10-02",
@@ -1593,14 +1659,14 @@
     },
     {
       "serverDate": "2026-10-03",
-      "showName": "Aarop",
-      "description": "Three friends a volatile newspaper editor, a teacher (who also works on the paper) and a lawyer/poet, in a rural hill town. Their various lives and loves bring them into conflict in different ways.",
+      "showName": "Hindi Feature Film",
+      "description": "Ramanath, the unemployed son of an honest clerk, is arrested for embezzlement and faces prison time. The only way he can set himself free is to testify against freedom fighters.",
       "startDate": "2026-10-03T13:00:00",
       "endDate": "2026-10-03T15:30:00",
       "showTime": "13:00:00",
       "endTime": "15:30:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/92236bb3a9421a523b2646a7594106eb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2692fb048b95fafbc8a7b87751121aba.jpg"
     },
     {
       "serverDate": "2026-10-03",
@@ -1692,14 +1758,14 @@
     },
     {
       "serverDate": "2026-10-03",
-      "showName": "Dil Toh Baccha Hai Ji",
-      "description": "A slice of life film about three men, namely Naren Ahuja, Milind and Abhay Suri and their encounters with love.",
+      "showName": "Dangerous Animals",
+      "description": "A shark-obsessed serial killer holds Zephyr, a rebellious surfer, captive on his boat. Racing against time, she must figure out a way to escape before he carries out a ritualistic feeding to the sharks below.",
       "startDate": "2026-10-03T20:00:00",
       "endDate": "2026-10-03T22:30:00",
       "showTime": "20:00:00",
       "endTime": "22:30:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd002cd31b6aaddee4dffb2c04e0c34c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/290532cb826790e6938f4fae77e8374d.jpg"
     },
     {
       "serverDate": "2026-10-03",
@@ -1868,14 +1934,14 @@
     },
     {
       "serverDate": "2026-10-04",
-      "showName": "Awaargi",
-      "description": "A mob enforcer rescues a lovely woman from a horrible brothel against the orders of both his boss and a rival gang leader.",
+      "showName": "Hindi Feature Film",
+      "description": "Ramanath, the unemployed son of an honest clerk, is arrested for embezzlement and faces prison time. The only way he can set himself free is to testify against freedom fighters.",
       "startDate": "2026-10-04T13:00:00",
       "endDate": "2026-10-04T15:30:00",
       "showTime": "13:00:00",
       "endTime": "15:30:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d4ea5ed9339a7eb1322c64f5ea6b90cc.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2692fb048b95fafbc8a7b87751121aba.jpg"
     },
     {
       "serverDate": "2026-10-04",
@@ -1967,14 +2033,14 @@
     },
     {
       "serverDate": "2026-10-04",
-      "showName": "Shark Zone",
-      "description": "Jimmy, who has a fear of sharks, is tasked with joining a team of divers and hunting down a pack of great white sharks who are harassing a small beachside town surrounded by sunken treasure.",
+      "showName": "Movie",
+      "description": "Movie to be announced.",
       "startDate": "2026-10-04T20:30:00",
       "endDate": "2026-10-04T22:30:00",
       "showTime": "20:30:00",
       "endTime": "22:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6872456d4dd0a898c3d4d058d4cfab82.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3940523b279757962918e5a66560647e.jpg"
     },
     {
       "serverDate": "2026-10-04",
