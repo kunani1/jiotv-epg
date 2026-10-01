@@ -2649,14 +2649,135 @@
     },
     {
       "serverDate": "2026-10-05",
-      "showName": "Story of The Day",
-      "description": "The host presents a detailed analysis of a key event, offering insights and expert opinions to help viewers understand its impact on current affairs.",
+      "showName": "24 Taas Prime",
+      "description": "The news anchor presents all the top news stories, updates and developments of social, political and economic significance.",
       "startDate": "2026-10-05T00:00:00",
-      "endDate": "2026-10-05T06:00:00",
+      "endDate": "2026-10-05T00:30:00",
       "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5424621fda401a2f8a2ed104bd65f34b.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Inside Story",
+      "description": "The host presents a comprehensive report of some of the significant news stories of the day and discusses all of its facets.",
+      "startDate": "2026-10-05T00:30:00",
+      "endDate": "2026-10-05T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd1e952ff07b27856eb4ab3e8f46dc50.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Superfast 24 Taas",
+      "description": "The host presents all the major news updates and developments pertaining to politics, society and economy from around the country.",
+      "startDate": "2026-10-05T01:00:00",
+      "endDate": "2026-10-05T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5070dd7b6cfaf470958b59948a23edd9.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Top 50 News",
+      "description": "The host presents the top 50 news stories pertaining to various socio-political and economic topics affecting the lives of the common people.",
+      "startDate": "2026-10-05T01:30:00",
+      "endDate": "2026-10-05T02:00:00",
+      "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56f9c923d9c6972c589d601ad92361e9.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "News @10",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
+      "startDate": "2026-10-05T02:00:00",
+      "endDate": "2026-10-05T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/42961c061c42011b4aaa0d2bf212cf54.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Top 50 News",
+      "description": "The host presents the top 50 news stories pertaining to various socio-political and economic topics affecting the lives of the common people.",
+      "startDate": "2026-10-05T02:30:00",
+      "endDate": "2026-10-05T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56f9c923d9c6972c589d601ad92361e9.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Mumbai Metro",
+      "description": "The host presents a detailed analysis of the latest information and developments on various important issues related to Mumbai.",
+      "startDate": "2026-10-05T03:00:00",
+      "endDate": "2026-10-05T03:30:00",
+      "showTime": "03:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df574c19b38ab2da0779fc3b7fd2763a.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Superfast 24 Taas",
+      "description": "The host presents all the major news updates and developments pertaining to politics, society and economy from around the country.",
+      "startDate": "2026-10-05T03:30:00",
+      "endDate": "2026-10-05T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5070dd7b6cfaf470958b59948a23edd9.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "News @10",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.",
+      "startDate": "2026-10-05T04:00:00",
+      "endDate": "2026-10-05T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/42961c061c42011b4aaa0d2bf212cf54.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Top 50 News",
+      "description": "The host presents the top 50 news stories pertaining to various socio-political and economic topics affecting the lives of the common people.",
+      "startDate": "2026-10-05T04:30:00",
+      "endDate": "2026-10-05T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56f9c923d9c6972c589d601ad92361e9.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Mumbai Metro",
+      "description": "The host presents a detailed analysis of the latest information and developments on various important issues related to Mumbai.",
+      "startDate": "2026-10-05T05:00:00",
+      "endDate": "2026-10-05T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df574c19b38ab2da0779fc3b7fd2763a.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Top 50 News",
+      "description": "The host presents the top 50 news stories pertaining to various socio-political and economic topics affecting the lives of the common people.",
+      "startDate": "2026-10-05T05:30:00",
+      "endDate": "2026-10-05T06:00:00",
+      "showTime": "05:30:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/92532beb6502f3b7c55836168b732d75.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56f9c923d9c6972c589d601ad92361e9.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -2671,25 +2792,25 @@
     },
     {
       "serverDate": "2026-10-05",
-      "showName": "MSF",
-      "description": "The host presents the latest news updates and developments pertaining to politics, economy and society in the state of Maharashtra.",
+      "showName": "Fast News",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-10-05T06:30:00",
       "endDate": "2026-10-05T07:00:00",
       "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca6324349ae259f41c31f96b775c588c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c95652d5216a1d5d2433b59835759522.jpg"
     },
     {
       "serverDate": "2026-10-05",
-      "showName": "24 Taas SF",
+      "showName": "Superfast 24 Taas",
       "description": "The host presents all the major news updates and developments pertaining to politics, society and economy from around the country.",
       "startDate": "2026-10-05T07:00:00",
       "endDate": "2026-10-05T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a07fdfe715befcf138feb90324dd3da5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5070dd7b6cfaf470958b59948a23edd9.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -2704,25 +2825,25 @@
     },
     {
       "serverDate": "2026-10-05",
-      "showName": "24 Taas SF",
+      "showName": "Superfast 24 Taas",
       "description": "The host presents all the major news updates and developments pertaining to politics, society and economy from around the country.",
       "startDate": "2026-10-05T08:00:00",
       "endDate": "2026-10-05T08:30:00",
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a07fdfe715befcf138feb90324dd3da5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5070dd7b6cfaf470958b59948a23edd9.jpg"
     },
     {
       "serverDate": "2026-10-05",
-      "showName": "MSF",
+      "showName": "Maharashtra Super Fast",
       "description": "The host presents the latest news updates and developments pertaining to politics, economy and society in the state of Maharashtra.",
       "startDate": "2026-10-05T08:30:00",
       "endDate": "2026-10-05T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca6324349ae259f41c31f96b775c588c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c24262d531ac95fbcccfb194570d5bf9.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -2792,14 +2913,14 @@
     },
     {
       "serverDate": "2026-10-05",
-      "showName": "MSF",
+      "showName": "Maharashtra Super Fast",
       "description": "The host presents the latest news updates and developments pertaining to politics, economy and society in the state of Maharashtra.",
       "startDate": "2026-10-05T12:00:00",
       "endDate": "2026-10-05T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca6324349ae259f41c31f96b775c588c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c24262d531ac95fbcccfb194570d5bf9.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -2979,14 +3100,14 @@
     },
     {
       "serverDate": "2026-10-05",
-      "showName": "Inside Story",
-      "description": "The host presents a comprehensive report of some of the significant news stories of the day and discusses all of its facets.",
+      "showName": "Story of The Day",
+      "description": "The host presents a detailed analysis of a key event, offering insights and expert opinions to help viewers understand its impact on current affairs.",
       "startDate": "2026-10-05T20:30:00",
       "endDate": "2026-10-05T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd1e952ff07b27856eb4ab3e8f46dc50.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/92532beb6502f3b7c55836168b732d75.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -3012,47 +3133,47 @@
     },
     {
       "serverDate": "2026-10-05",
-      "showName": "Mumbai Metro",
-      "description": "The host presents a detailed analysis of the latest information and developments on various important issues related to Mumbai.",
+      "showName": "10 Cha Top 10 Batmay",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-10-05T22:00:00",
       "endDate": "2026-10-05T22:30:00",
       "showTime": "22:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df574c19b38ab2da0779fc3b7fd2763a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/917a9e946f945c40dd5c2bb6e6f3834c.jpg"
     },
     {
       "serverDate": "2026-10-05",
-      "showName": "24 Taas Superfast",
-      "description": "The host presents the latest news stories about political, economic, social and cultural topics from all around the region in quick succession.",
+      "showName": "Superfast 24 Taas",
+      "description": "The host presents all the major news updates and developments pertaining to politics, society and economy from around the country.",
       "startDate": "2026-10-05T22:30:00",
       "endDate": "2026-10-05T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b70bcd899d95a4c640a44515e3ea95b2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5070dd7b6cfaf470958b59948a23edd9.jpg"
     },
     {
       "serverDate": "2026-10-05",
-      "showName": "Story of The Day",
-      "description": "The host presents a detailed analysis of a key event, offering insights and expert opinions to help viewers understand its impact on current affairs.",
+      "showName": "Mumbai Fast",
+      "description": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues from all around Mumbai.",
       "startDate": "2026-10-05T23:00:00",
       "endDate": "2026-10-05T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/92532beb6502f3b7c55836168b732d75.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56885813aab9b64b4bb22110d78fd323.jpg"
     },
     {
       "serverDate": "2026-10-05",
-      "showName": "Inside Story",
-      "description": "The host presents a comprehensive report of some of the significant news stories of the day and discusses all of its facets.",
+      "showName": "Story of The Day",
+      "description": "The host presents a detailed analysis of a key event, offering insights and expert opinions to help viewers understand its impact on current affairs.",
       "startDate": "2026-10-05T23:30:00",
       "endDate": "2026-10-05T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd1e952ff07b27856eb4ab3e8f46dc50.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/92532beb6502f3b7c55836168b732d75.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -3078,14 +3199,14 @@
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "24 Taas Superfast",
-      "description": "The host presents the latest news stories about political, economic, social and cultural topics from all around the region in quick succession.",
+      "showName": "Superfast 24 Taas",
+      "description": "The host presents all the major news updates and developments pertaining to politics, society and economy from around the country.",
       "startDate": "2026-10-06T01:00:00",
       "endDate": "2026-10-06T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b70bcd899d95a4c640a44515e3ea95b2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5070dd7b6cfaf470958b59948a23edd9.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -3133,14 +3254,14 @@
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "24 Taas Superfast",
-      "description": "The host presents the latest news stories about political, economic, social and cultural topics from all around the region in quick succession.",
+      "showName": "Superfast 24 Taas",
+      "description": "The host presents all the major news updates and developments pertaining to politics, society and economy from around the country.",
       "startDate": "2026-10-06T03:30:00",
       "endDate": "2026-10-06T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b70bcd899d95a4c640a44515e3ea95b2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5070dd7b6cfaf470958b59948a23edd9.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -3199,25 +3320,25 @@
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "MSF",
-      "description": "The host presents the latest news updates and developments pertaining to politics, economy and society in the state of Maharashtra.",
+      "showName": "Fast News",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-10-06T06:30:00",
       "endDate": "2026-10-06T07:00:00",
       "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca6324349ae259f41c31f96b775c588c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c95652d5216a1d5d2433b59835759522.jpg"
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "24 Taas SF",
+      "showName": "Superfast 24 Taas",
       "description": "The host presents all the major news updates and developments pertaining to politics, society and economy from around the country.",
       "startDate": "2026-10-06T07:00:00",
       "endDate": "2026-10-06T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a07fdfe715befcf138feb90324dd3da5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5070dd7b6cfaf470958b59948a23edd9.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -3232,25 +3353,25 @@
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "24 Taas SF",
+      "showName": "Superfast 24 Taas",
       "description": "The host presents all the major news updates and developments pertaining to politics, society and economy from around the country.",
       "startDate": "2026-10-06T08:00:00",
       "endDate": "2026-10-06T08:30:00",
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a07fdfe715befcf138feb90324dd3da5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5070dd7b6cfaf470958b59948a23edd9.jpg"
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "MSF",
+      "showName": "Maharashtra Super Fast",
       "description": "The host presents the latest news updates and developments pertaining to politics, economy and society in the state of Maharashtra.",
       "startDate": "2026-10-06T08:30:00",
       "endDate": "2026-10-06T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca6324349ae259f41c31f96b775c588c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c24262d531ac95fbcccfb194570d5bf9.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -3320,14 +3441,14 @@
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "MSF",
+      "showName": "Maharashtra Super Fast",
       "description": "The host presents the latest news updates and developments pertaining to politics, economy and society in the state of Maharashtra.",
       "startDate": "2026-10-06T12:00:00",
       "endDate": "2026-10-06T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca6324349ae259f41c31f96b775c588c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c24262d531ac95fbcccfb194570d5bf9.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -3507,14 +3628,14 @@
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "Inside Story",
-      "description": "The host presents a comprehensive report of some of the significant news stories of the day and discusses all of its facets.",
+      "showName": "Story of The Day",
+      "description": "The host presents a detailed analysis of a key event, offering insights and expert opinions to help viewers understand its impact on current affairs.",
       "startDate": "2026-10-06T20:30:00",
       "endDate": "2026-10-06T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd1e952ff07b27856eb4ab3e8f46dc50.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/92532beb6502f3b7c55836168b732d75.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -3540,47 +3661,47 @@
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "Mumbai Metro",
-      "description": "The host presents a detailed analysis of the latest information and developments on various important issues related to Mumbai.",
+      "showName": "10 Cha Top 10 Batmay",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-10-06T22:00:00",
       "endDate": "2026-10-06T22:30:00",
       "showTime": "22:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df574c19b38ab2da0779fc3b7fd2763a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/917a9e946f945c40dd5c2bb6e6f3834c.jpg"
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "24 Taas Superfast",
-      "description": "The host presents the latest news stories about political, economic, social and cultural topics from all around the region in quick succession.",
+      "showName": "Superfast 24 Taas",
+      "description": "The host presents all the major news updates and developments pertaining to politics, society and economy from around the country.",
       "startDate": "2026-10-06T22:30:00",
       "endDate": "2026-10-06T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b70bcd899d95a4c640a44515e3ea95b2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5070dd7b6cfaf470958b59948a23edd9.jpg"
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "Story of The Day",
-      "description": "The host presents a detailed analysis of a key event, offering insights and expert opinions to help viewers understand its impact on current affairs.",
+      "showName": "Mumbai Fast",
+      "description": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues from all around Mumbai.",
       "startDate": "2026-10-06T23:00:00",
       "endDate": "2026-10-06T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/92532beb6502f3b7c55836168b732d75.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56885813aab9b64b4bb22110d78fd323.jpg"
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "Inside Story",
-      "description": "The host presents a comprehensive report of some of the significant news stories of the day and discusses all of its facets.",
+      "showName": "Story of The Day",
+      "description": "The host presents a detailed analysis of a key event, offering insights and expert opinions to help viewers understand its impact on current affairs.",
       "startDate": "2026-10-06T23:30:00",
       "endDate": "2026-10-06T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd1e952ff07b27856eb4ab3e8f46dc50.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/92532beb6502f3b7c55836168b732d75.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -3606,14 +3727,14 @@
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "24 Taas Superfast",
-      "description": "The host presents the latest news stories about political, economic, social and cultural topics from all around the region in quick succession.",
+      "showName": "Superfast 24 Taas",
+      "description": "The host presents all the major news updates and developments pertaining to politics, society and economy from around the country.",
       "startDate": "2026-10-07T01:00:00",
       "endDate": "2026-10-07T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b70bcd899d95a4c640a44515e3ea95b2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5070dd7b6cfaf470958b59948a23edd9.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -3661,14 +3782,14 @@
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "24 Taas Superfast",
-      "description": "The host presents the latest news stories about political, economic, social and cultural topics from all around the region in quick succession.",
+      "showName": "Superfast 24 Taas",
+      "description": "The host presents all the major news updates and developments pertaining to politics, society and economy from around the country.",
       "startDate": "2026-10-07T03:30:00",
       "endDate": "2026-10-07T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b70bcd899d95a4c640a44515e3ea95b2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5070dd7b6cfaf470958b59948a23edd9.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -3727,25 +3848,25 @@
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "MSF",
-      "description": "The host presents the latest news updates and developments pertaining to politics, economy and society in the state of Maharashtra.",
+      "showName": "Fast News",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-10-07T06:30:00",
       "endDate": "2026-10-07T07:00:00",
       "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca6324349ae259f41c31f96b775c588c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c95652d5216a1d5d2433b59835759522.jpg"
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "24 Taas SF",
+      "showName": "Superfast 24 Taas",
       "description": "The host presents all the major news updates and developments pertaining to politics, society and economy from around the country.",
       "startDate": "2026-10-07T07:00:00",
       "endDate": "2026-10-07T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a07fdfe715befcf138feb90324dd3da5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5070dd7b6cfaf470958b59948a23edd9.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -3760,25 +3881,25 @@
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "24 Taas SF",
+      "showName": "Superfast 24 Taas",
       "description": "The host presents all the major news updates and developments pertaining to politics, society and economy from around the country.",
       "startDate": "2026-10-07T08:00:00",
       "endDate": "2026-10-07T08:30:00",
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a07fdfe715befcf138feb90324dd3da5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5070dd7b6cfaf470958b59948a23edd9.jpg"
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "MSF",
+      "showName": "Maharashtra Super Fast",
       "description": "The host presents the latest news updates and developments pertaining to politics, economy and society in the state of Maharashtra.",
       "startDate": "2026-10-07T08:30:00",
       "endDate": "2026-10-07T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca6324349ae259f41c31f96b775c588c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c24262d531ac95fbcccfb194570d5bf9.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -3848,14 +3969,14 @@
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "MSF",
+      "showName": "Maharashtra Super Fast",
       "description": "The host presents the latest news updates and developments pertaining to politics, economy and society in the state of Maharashtra.",
       "startDate": "2026-10-07T12:00:00",
       "endDate": "2026-10-07T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca6324349ae259f41c31f96b775c588c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c24262d531ac95fbcccfb194570d5bf9.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -4035,14 +4156,14 @@
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Inside Story",
-      "description": "The host presents a comprehensive report of some of the significant news stories of the day and discusses all of its facets.",
+      "showName": "Story of The Day",
+      "description": "The host presents a detailed analysis of a key event, offering insights and expert opinions to help viewers understand its impact on current affairs.",
       "startDate": "2026-10-07T20:30:00",
       "endDate": "2026-10-07T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd1e952ff07b27856eb4ab3e8f46dc50.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/92532beb6502f3b7c55836168b732d75.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -4068,47 +4189,47 @@
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Mumbai Metro",
-      "description": "The host presents a detailed analysis of the latest information and developments on various important issues related to Mumbai.",
+      "showName": "10 Cha Top 10 Batmay",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
       "startDate": "2026-10-07T22:00:00",
       "endDate": "2026-10-07T22:30:00",
       "showTime": "22:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df574c19b38ab2da0779fc3b7fd2763a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/917a9e946f945c40dd5c2bb6e6f3834c.jpg"
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "24 Taas Superfast",
-      "description": "The host presents the latest news stories about political, economic, social and cultural topics from all around the region in quick succession.",
+      "showName": "Superfast 24 Taas",
+      "description": "The host presents all the major news updates and developments pertaining to politics, society and economy from around the country.",
       "startDate": "2026-10-07T22:30:00",
       "endDate": "2026-10-07T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b70bcd899d95a4c640a44515e3ea95b2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5070dd7b6cfaf470958b59948a23edd9.jpg"
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Story of The Day",
-      "description": "The host presents a detailed analysis of a key event, offering insights and expert opinions to help viewers understand its impact on current affairs.",
+      "showName": "Mumbai Fast",
+      "description": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues from all around Mumbai.",
       "startDate": "2026-10-07T23:00:00",
       "endDate": "2026-10-07T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/92532beb6502f3b7c55836168b732d75.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56885813aab9b64b4bb22110d78fd323.jpg"
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Inside Story",
-      "description": "The host presents a comprehensive report of some of the significant news stories of the day and discusses all of its facets.",
+      "showName": "Story of The Day",
+      "description": "The host presents a detailed analysis of a key event, offering insights and expert opinions to help viewers understand its impact on current affairs.",
       "startDate": "2026-10-07T23:30:00",
       "endDate": "2026-10-07T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd1e952ff07b27856eb4ab3e8f46dc50.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/92532beb6502f3b7c55836168b732d75.jpg"
     }
   ]
 }
