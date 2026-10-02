@@ -988,14 +988,25 @@
     },
     {
       "serverDate": "2026-10-04",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "K.G.F: Chapter 1",
+      "description": "Rocky, a young man, seeks power and wealth in order to fulfil a promise to his dying mother. His quest takes him to Mumbai, where he gets involved with the notorious gold mafia.",
       "startDate": "2026-10-04T14:00:00",
-      "endDate": "2026-10-04T18:00:00",
+      "endDate": "2026-10-04T17:30:00",
       "showTime": "14:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e06c5417dd5b66f34f4c465e38ef477a.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "Radha Krushna",
+      "description": "Radha's unwavering devotion to Krishna is tested as their love story evolves, with Krishna guiding her through life's challenges while revealing the deeper meanings of love, duty and spirituality.",
+      "startDate": "2026-10-04T17:30:00",
+      "endDate": "2026-10-04T18:00:00",
+      "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c2c8ace9baaf5e10dfc9b8d24a83818.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/532163829016032354bea84ef9839cde.jpg"
     },
     {
       "serverDate": "2026-10-04",

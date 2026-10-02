@@ -1065,25 +1065,69 @@
     },
     {
       "serverDate": "2026-10-05",
-      "showName": "Top 25 News",
-      "description": "Top 25 News",
+      "showName": "Headlines",
+      "description": "Headlines",
       "startDate": "2026-10-05T00:00:00",
-      "endDate": "2026-10-05T02:00:00",
+      "endDate": "2026-10-05T01:00:00",
       "showTime": "00:00:00",
-      "endTime": "02:00:00",
+      "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b2a418d99172dcf5c1e835448acb7ea1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f48600d4a1d7c1ff45373e58e96b40f8.jpg"
     },
     {
       "serverDate": "2026-10-05",
-      "showName": "ITN National",
-      "description": "ITN National",
+      "showName": "Breaking News",
+      "description": "The host presents a detailed analysis of some of the latest news stories, socio-economic updates and political developments.",
+      "startDate": "2026-10-05T01:00:00",
+      "endDate": "2026-10-05T02:00:00",
+      "showTime": "01:00:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/14e1f56a4a53b52f0f2e3846f3fa94ea.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Khabre Fatafat",
+      "description": "Khabre Fatafat",
       "startDate": "2026-10-05T02:00:00",
-      "endDate": "2026-10-05T06:00:00",
+      "endDate": "2026-10-05T03:00:00",
       "showTime": "02:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c6ef204c2ea24d6ce907fe6a21d08d57.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Crime Bulletin",
+      "description": "Crime Bulletin",
+      "startDate": "2026-10-05T03:00:00",
+      "endDate": "2026-10-05T04:00:00",
+      "showTime": "03:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/54704d4e99544bbb457a6de5b03a8ab6.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "National News",
+      "description": "National News",
+      "startDate": "2026-10-05T04:00:00",
+      "endDate": "2026-10-05T05:00:00",
+      "showTime": "04:00:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6096a8e2adce490995489f262e172783.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "ITN Special",
+      "description": "The host presents the latest news and updates in the country and around the world.",
+      "startDate": "2026-10-05T05:00:00",
+      "endDate": "2026-10-05T06:00:00",
+      "showTime": "05:00:00",
       "endTime": "06:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/506f41db320a6aa6971d36df73e1a15d.jpg"
     },
     {
       "serverDate": "2026-10-05",
