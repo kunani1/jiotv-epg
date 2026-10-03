@@ -8,6 +8,138 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Dsports.png",
   "programs": [
     {
+      "serverDate": "2026-10-02",
+      "showName": "FIM Speedway Grand Prix Series",
+      "description": "Coverage of stand-alone motorcycle speedway worldwide events.",
+      "startDate": "2026-10-02T00:00:00",
+      "endDate": "2026-10-02T02:00:00",
+      "showTime": "00:00:00",
+      "endTime": "02:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/698dc6e74d5dc92eb23f8994623f80ce.jpg"
+    },
+    {
+      "serverDate": "2026-10-02",
+      "showName": "Eredivisie Soccer",
+      "description": "Professional football teams compete against each other in order to emerge victorious in the Eredivisie, a premier football tournament in the Netherlands.",
+      "startDate": "2026-10-02T02:00:00",
+      "endDate": "2026-10-02T04:00:00",
+      "showTime": "02:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c42ec8ca139cb99d6d70a363a8ee46f.jpg"
+    },
+    {
+      "serverDate": "2026-10-02",
+      "showName": "Big Cricket League",
+      "description": "Coverage of the professional cricket league.",
+      "startDate": "2026-10-02T04:00:00",
+      "endDate": "2026-10-02T07:00:00",
+      "showTime": "04:00:00",
+      "endTime": "07:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3b094ee9b466b4fd07cb4948c9e8f9f3.jpg"
+    },
+    {
+      "serverDate": "2026-10-02",
+      "showName": "IMPACT in 60",
+      "description": "The filmmaker highlights some of the most memorable matches, wrestlers, championships, factions and more from the 18-year history of Impact Wrestling.",
+      "startDate": "2026-10-02T07:00:00",
+      "endDate": "2026-10-02T08:00:00",
+      "showTime": "07:00:00",
+      "endTime": "08:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/60bc6739423c38778056a36fbb5d1915.jpg"
+    },
+    {
+      "serverDate": "2026-10-02",
+      "showName": "TNA Impact",
+      "description": "Professional wrestlers compete against some of the renowned names in one of the most recognised wrestling competitions in order to win.",
+      "startDate": "2026-10-02T08:00:00",
+      "endDate": "2026-10-02T10:00:00",
+      "showTime": "08:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8b953fa1df7180f6617abb07c677a0f.jpg"
+    },
+    {
+      "serverDate": "2026-10-02",
+      "showName": "Golden Trail World Series",
+      "description": "The world's top trail-runners experience local culture and are challenged by spectacular landscapes.",
+      "startDate": "2026-10-02T10:00:00",
+      "endDate": "2026-10-02T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e00e8f27e19f5e005383b5d85cecfe8f.jpg"
+    },
+    {
+      "serverDate": "2026-10-02",
+      "showName": "TNA Wrestling: Lockdown",
+      "description": "From Credit Union 1 Arena in Chicago.",
+      "startDate": "2026-10-02T13:00:00",
+      "endDate": "2026-10-02T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-02",
+      "showName": "FIM EWC Highlights",
+      "description": "Professional drivers compete against each other in the FIM Endurance World Championship Motorcycle Racing event to emerge victorious.",
+      "startDate": "2026-10-02T16:00:00",
+      "endDate": "2026-10-02T17:00:00",
+      "showTime": "16:00:00",
+      "endTime": "17:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ab4248a7e829fc6d5823c88f0c47abb1.jpg"
+    },
+    {
+      "serverDate": "2026-10-02",
+      "showName": "IMPACT in 60",
+      "description": "The filmmaker highlights some of the most memorable matches, wrestlers, championships, factions and more from the 18-year history of Impact Wrestling.",
+      "startDate": "2026-10-02T17:00:00",
+      "endDate": "2026-10-02T18:00:00",
+      "showTime": "17:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/60bc6739423c38778056a36fbb5d1915.jpg"
+    },
+    {
+      "serverDate": "2026-10-02",
+      "showName": "TNA Wrestling: Pehalwani Patakha",
+      "description": "Highlights from the IMPACT wrestling series of TNA Wrestling, where professional wrestlers compete against each other for victory, in Hindi.",
+      "startDate": "2026-10-02T18:00:00",
+      "endDate": "2026-10-02T19:00:00",
+      "showTime": "18:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b513751135ee37fd96b2f29eb568c57d.jpg"
+    },
+    {
+      "serverDate": "2026-10-02",
+      "showName": "One-Day International Cricket",
+      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
+      "startDate": "2026-10-02T19:00:00",
+      "endDate": "2026-10-02T19:30:00",
+      "showTime": "19:00:00",
+      "endTime": "19:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
+    },
+    {
+      "serverDate": "2026-10-02",
+      "showName": "Professional Fighters League Mena",
+      "description": "Talented MMA players from around the world compete in the Professional Fighters League with the hopes of emerging victorious.",
+      "startDate": "2026-10-02T19:30:00",
+      "endDate": "2026-10-02T23:59:59",
+      "showTime": "19:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8ee93013ab25a52023652c38e3adf582.jpg"
+    },
+    {
       "serverDate": "2026-10-03",
       "showName": "Professional Fighters League Mena",
       "description": "Talented MMA players from around the world compete in the Professional Fighters League with the hopes of emerging victorious.",
