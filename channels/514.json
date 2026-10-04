@@ -8,215 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png",
   "programs": [
     {
-      "serverDate": "2026-10-02",
-      "showName": "UEFA Nations League Soccer",
-      "description": "European national football teams compete with each other to clinch the top title at the UEFA Nations League, an international football competition.",
-      "startDate": "2026-10-02T00:00:00",
-      "endDate": "2026-10-02T02:15:00",
-      "showTime": "00:00:00",
-      "endTime": "02:15:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f11784ee89b0a07beb3f2f5ae84c5ef1.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Snippet",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-02T02:15:00",
-      "endDate": "2026-10-02T02:30:00",
-      "showTime": "02:15:00",
-      "endTime": "02:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d842d379fcfd33c8abefeba980d1c7bd.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "One-Day International Cricket",
-      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
-      "startDate": "2026-10-02T02:30:00",
-      "endDate": "2026-10-02T03:30:00",
-      "showTime": "02:30:00",
-      "endTime": "03:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "UEFA Champions League Highlights",
-      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
-      "startDate": "2026-10-02T03:30:00",
-      "endDate": "2026-10-02T04:00:00",
-      "showTime": "03:30:00",
-      "endTime": "04:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Lords Of England",
-      "description": "A compilation of some of the most iconic innings played by players from all around the world at the Lord's Cricket Ground, England.",
-      "startDate": "2026-10-02T04:00:00",
-      "endDate": "2026-10-02T04:30:00",
-      "showTime": "04:00:00",
-      "endTime": "04:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2e5b3c85b4390ca89cc20b6f17194e3f.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-02T04:30:00",
-      "endDate": "2026-10-02T05:30:00",
-      "showTime": "04:30:00",
-      "endTime": "05:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-02T05:30:00",
-      "endDate": "2026-10-02T06:30:00",
-      "showTime": "05:30:00",
-      "endTime": "06:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Live Asian Games 2026",
-      "description": "Coverage of the 20th edition of the multi-sport event. From Aichi Prefecture and Nagoya, Japan.",
-      "startDate": "2026-10-02T06:30:00",
-      "endDate": "2026-10-02T11:00:00",
-      "showTime": "06:30:00",
-      "endTime": "11:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ed4d429271fa4548d1372260a5f32fb2.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Live Asian Games 2026",
-      "description": "Coverage of the 20th edition of the multi-sport event. From Aichi Prefecture and Nagoya, Japan.",
-      "startDate": "2026-10-02T11:00:00",
-      "endDate": "2026-10-02T17:00:00",
-      "showTime": "11:00:00",
-      "endTime": "17:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ed4d429271fa4548d1372260a5f32fb2.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-02T17:00:00",
-      "endDate": "2026-10-02T17:30:00",
-      "showTime": "17:00:00",
-      "endTime": "17:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-02T17:30:00",
-      "endDate": "2026-10-02T18:00:00",
-      "showTime": "17:30:00",
-      "endTime": "18:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-02T18:00:00",
-      "endDate": "2026-10-02T18:30:00",
-      "showTime": "18:00:00",
-      "endTime": "18:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-02T18:30:00",
-      "endDate": "2026-10-02T19:00:00",
-      "showTime": "18:30:00",
-      "endTime": "19:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "UEFA Nations League:",
-      "description": "Highlights and summaries of the UEFA Nations League matches.",
-      "startDate": "2026-10-02T19:00:00",
-      "endDate": "2026-10-02T19:30:00",
-      "showTime": "19:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ed6db16b6a81f0a019a8e82e915f7be.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "UEFA Nations League Soccer",
-      "description": "European national football teams compete with each other to clinch the top title at the UEFA Nations League, an international football competition.",
-      "startDate": "2026-10-02T19:30:00",
-      "endDate": "2026-10-02T21:30:00",
-      "showTime": "19:30:00",
-      "endTime": "21:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f11784ee89b0a07beb3f2f5ae84c5ef1.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "UEFA Nations League:",
-      "description": "Highlights and summaries of the UEFA Nations League matches.",
-      "startDate": "2026-10-02T21:30:00",
-      "endDate": "2026-10-02T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ed6db16b6a81f0a019a8e82e915f7be.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Women's Test Cricket",
-      "description": "Highlights and classic replays of women's test cricket matches.",
-      "startDate": "2026-10-02T22:00:00",
-      "endDate": "2026-10-02T23:00:00",
-      "showTime": "22:00:00",
-      "endTime": "23:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/971060a51ec363b460abb68440c6db67.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-02T23:00:00",
-      "endDate": "2026-10-02T23:30:00",
-      "showTime": "23:00:00",
-      "endTime": "23:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-02T23:30:00",
-      "endDate": "2026-10-02T23:59:59",
-      "showTime": "23:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
-    },
-    {
       "serverDate": "2026-10-03",
       "showName": "UEFA Nations League Soccer",
       "description": "European national football teams compete with each other to clinch the top title at the UEFA Nations League, an international football competition.",
@@ -416,25 +207,25 @@
     },
     {
       "serverDate": "2026-10-04",
-      "showName": "UEFA Nations League 2024-25",
-      "description": "Watch all the matchnight highlights of UEFA Nations League 2024-25 here, only on Sony LIV.",
+      "showName": "UEFA Nations League Soccer",
+      "description": "European national football teams compete with each other to clinch the top title at the UEFA Nations League, an international football competition.",
       "startDate": "2026-10-04T00:00:00",
       "endDate": "2026-10-04T02:15:00",
       "showTime": "00:00:00",
       "endTime": "02:15:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ffc6f8ba09d88a0adfdc5f8d6625e441.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f11784ee89b0a07beb3f2f5ae84c5ef1.jpg"
     },
     {
       "serverDate": "2026-10-04",
-      "showName": "UEFA Champions League 2025/26",
-      "description": "First Half Recap - PSG vs Chelsea",
+      "showName": "Snippet",
+      "description": "Bringing the best in television.",
       "startDate": "2026-10-04T02:15:00",
       "endDate": "2026-10-04T02:30:00",
       "showTime": "02:15:00",
       "endTime": "02:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e50da6cb47b6b355e94da839312691fc.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d842d379fcfd33c8abefeba980d1c7bd.jpg"
     },
     {
       "serverDate": "2026-10-04",
@@ -449,135 +240,135 @@
     },
     {
       "serverDate": "2026-10-04",
-      "showName": "Upcoming - UFC 332 - Silva vs Wang",
-      "description": "Tune in to catch all the action from UFC 332 - Silva vs Wang, only on Sony LIV. ",
+      "showName": "UFC 332: Silva vs. Wang - Prelims",
+      "description": "From Delta Center in Salt Lake City.",
       "startDate": "2026-10-04T03:30:00",
       "endDate": "2026-10-04T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c8a2912ee3b9ab33a4a3c1164fba07f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/41a66cd2f346b4de3f9e53412751dfc7.jpg"
     },
     {
       "serverDate": "2026-10-04",
-      "showName": "Upcoming - UFC 332 - Silva vs Wang",
-      "description": "Tune in to catch all the action from UFC 332 - Silva vs Wang, only on Sony LIV. ",
+      "showName": "UFC 332: Silva vs. Wang - Prelims",
+      "description": "From Delta Center in Salt Lake City.",
       "startDate": "2026-10-04T04:00:00",
       "endDate": "2026-10-04T05:30:00",
       "showTime": "04:00:00",
       "endTime": "05:30:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c8a2912ee3b9ab33a4a3c1164fba07f.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Upcoming - UFC 332 - Silva vs Wang",
-      "description": "Tune in to catch all the action from UFC 332 - Silva vs Wang, only on Sony LIV. ",
-      "startDate": "2026-10-04T05:30:00",
-      "endDate": "2026-10-04T09:30:00",
-      "showTime": "05:30:00",
-      "endTime": "09:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c8a2912ee3b9ab33a4a3c1164fba07f.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Men's International Soccer Friendlies",
-      "description": "Highlights of an International Friendly soccer game where teams compete against each other in a series of exhibition games.",
-      "startDate": "2026-10-04T09:30:00",
-      "endDate": "2026-10-04T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f8928bb105c48523b0b6d86778a4f21.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-04T10:00:00",
-      "endDate": "2026-10-04T10:30:00",
-      "showTime": "10:00:00",
-      "endTime": "10:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-04T10:30:00",
-      "endDate": "2026-10-04T11:00:00",
-      "showTime": "10:30:00",
-      "endTime": "11:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-04T11:00:00",
-      "endDate": "2026-10-04T11:30:00",
-      "showTime": "11:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-04T11:30:00",
-      "endDate": "2026-10-04T12:00:00",
-      "showTime": "11:30:00",
-      "endTime": "12:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-04T12:00:00",
-      "endDate": "2026-10-04T12:30:00",
-      "showTime": "12:00:00",
-      "endTime": "12:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-04T12:30:00",
-      "endDate": "2026-10-04T13:30:00",
-      "showTime": "12:30:00",
-      "endTime": "13:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-04T13:30:00",
-      "endDate": "2026-10-04T14:00:00",
-      "showTime": "13:30:00",
-      "endTime": "14:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/41a66cd2f346b4de3f9e53412751dfc7.jpg"
     },
     {
       "serverDate": "2026-10-04",
       "showName": "UFC 332: Silva vs. Wang",
       "description": "From Delta Center in Salt Lake City.",
+      "startDate": "2026-10-04T05:30:00",
+      "endDate": "2026-10-04T09:30:00",
+      "showTime": "05:30:00",
+      "endTime": "09:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2eb77660b0eebba858e79d6c24fcd852.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "UEFA International Friendlies",
+      "description": "Portugal vs Chile - Match Highlights",
+      "startDate": "2026-10-04T09:30:00",
+      "endDate": "2026-10-04T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/253bd58d164cd92eab2b7add353bdd64.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "20th Asian Games Aichi-Nagoya 2026",
+      "description": "Watch the full replay of India vs Hong Kong, China in Men's Volleyball Pool C action at the Asian Games 2026, only on Sony LIV.",
+      "startDate": "2026-10-04T10:00:00",
+      "endDate": "2026-10-04T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccc561b6cd3e0aed972edb8141bb01d5.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "20th Asian Games Aichi-Nagoya 2026",
+      "description": "Watch the full replay of India vs Hong Kong, China in Men's Volleyball Pool C action at the Asian Games 2026, only on Sony LIV.",
+      "startDate": "2026-10-04T10:30:00",
+      "endDate": "2026-10-04T11:00:00",
+      "showTime": "10:30:00",
+      "endTime": "11:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccc561b6cd3e0aed972edb8141bb01d5.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "20th Asian Games Aichi-Nagoya 2026",
+      "description": "Watch the full replay of India vs Hong Kong, China in Men's Volleyball Pool C action at the Asian Games 2026, only on Sony LIV.",
+      "startDate": "2026-10-04T11:00:00",
+      "endDate": "2026-10-04T11:30:00",
+      "showTime": "11:00:00",
+      "endTime": "11:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccc561b6cd3e0aed972edb8141bb01d5.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "20th Asian Games Aichi-Nagoya 2026",
+      "description": "Watch the full replay of India vs Hong Kong, China in Men's Volleyball Pool C action at the Asian Games 2026, only on Sony LIV.",
+      "startDate": "2026-10-04T11:30:00",
+      "endDate": "2026-10-04T12:00:00",
+      "showTime": "11:30:00",
+      "endTime": "12:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccc561b6cd3e0aed972edb8141bb01d5.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "20th Asian Games Aichi-Nagoya 2026",
+      "description": "Watch the full replay of India vs Hong Kong, China in Men's Volleyball Pool C action at the Asian Games 2026, only on Sony LIV.",
+      "startDate": "2026-10-04T12:00:00",
+      "endDate": "2026-10-04T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccc561b6cd3e0aed972edb8141bb01d5.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "20th Asian Games Aichi-Nagoya 2026",
+      "description": "Watch the full replay of India vs Hong Kong, China in Men's Volleyball Pool C action at the Asian Games 2026, only on Sony LIV.",
+      "startDate": "2026-10-04T12:30:00",
+      "endDate": "2026-10-04T13:30:00",
+      "showTime": "12:30:00",
+      "endTime": "13:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccc561b6cd3e0aed972edb8141bb01d5.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "20th Asian Games Aichi-Nagoya 2026",
+      "description": "Watch the full replay of India vs Hong Kong, China in Men's Volleyball Pool C action at the Asian Games 2026, only on Sony LIV.",
+      "startDate": "2026-10-04T13:30:00",
+      "endDate": "2026-10-04T14:00:00",
+      "showTime": "13:30:00",
+      "endTime": "14:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccc561b6cd3e0aed972edb8141bb01d5.jpg"
+    },
+    {
+      "serverDate": "2026-10-04",
+      "showName": "UFC 321 - Aspinall vs Gane",
+      "description": "Catch all the action from UFC 321, only on Sony LIV.",
       "startDate": "2026-10-04T14:00:00",
       "endDate": "2026-10-04T17:30:00",
       "showTime": "14:00:00",
       "endTime": "17:30:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2eb77660b0eebba858e79d6c24fcd852.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ec44bf61f72a125fb23ee773064e5ee8.jpg"
     },
     {
       "serverDate": "2026-10-04",
@@ -599,7 +390,7 @@
       "showTime": "18:00:00",
       "endTime": "19:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-04",
@@ -610,7 +401,7 @@
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-04",
@@ -621,7 +412,7 @@
       "showTime": "19:30:00",
       "endTime": "20:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-04",
@@ -632,7 +423,7 @@
       "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-04",
@@ -687,7 +478,7 @@
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-04",
@@ -698,7 +489,7 @@
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -764,7 +555,7 @@
       "showTime": "04:30:00",
       "endTime": "05:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -786,7 +577,7 @@
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -830,7 +621,7 @@
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -874,7 +665,7 @@
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -885,7 +676,7 @@
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -918,7 +709,7 @@
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -929,7 +720,7 @@
       "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -940,7 +731,7 @@
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -973,7 +764,7 @@
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -1050,7 +841,7 @@
       "showTime": "04:30:00",
       "endTime": "05:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -1072,7 +863,7 @@
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -1083,7 +874,7 @@
       "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -1105,7 +896,7 @@
       "showTime": "13:30:00",
       "endTime": "14:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -1116,7 +907,7 @@
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -1160,7 +951,7 @@
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -1171,7 +962,7 @@
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -1204,7 +995,7 @@
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -1215,7 +1006,7 @@
       "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -1226,7 +1017,7 @@
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -1281,7 +1072,7 @@
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -1292,7 +1083,7 @@
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1369,7 +1160,7 @@
       "showTime": "04:30:00",
       "endTime": "05:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1380,7 +1171,7 @@
       "showTime": "05:30:00",
       "endTime": "06:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1391,7 +1182,7 @@
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1402,7 +1193,7 @@
       "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1413,7 +1204,7 @@
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1424,7 +1215,7 @@
       "showTime": "07:30:00",
       "endTime": "08:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1446,7 +1237,7 @@
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1457,7 +1248,7 @@
       "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1479,7 +1270,7 @@
       "showTime": "11:00:00",
       "endTime": "11:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1490,7 +1281,7 @@
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1512,7 +1303,7 @@
       "showTime": "13:00:00",
       "endTime": "13:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1523,7 +1314,7 @@
       "showTime": "13:30:00",
       "endTime": "14:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1534,7 +1325,7 @@
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1578,7 +1369,7 @@
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1589,7 +1380,7 @@
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1622,7 +1413,7 @@
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1633,7 +1424,7 @@
       "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1644,7 +1435,7 @@
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1666,7 +1457,7 @@
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1677,7 +1468,7 @@
       "showTime": "22:00:00",
       "endTime": "22:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1688,7 +1479,7 @@
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1699,7 +1490,7 @@
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1710,7 +1501,7 @@
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -1732,7 +1523,7 @@
       "showTime": "00:30:00",
       "endTime": "01:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -1743,7 +1534,7 @@
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -1754,7 +1545,7 @@
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -1765,7 +1556,7 @@
       "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -1809,7 +1600,7 @@
       "showTime": "04:30:00",
       "endTime": "05:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -1831,7 +1622,7 @@
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -1875,7 +1666,7 @@
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -1919,7 +1710,7 @@
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -1930,7 +1721,7 @@
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -1963,7 +1754,7 @@
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -1974,7 +1765,7 @@
       "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -2007,7 +1798,7 @@
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -2018,7 +1809,7 @@
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -2095,7 +1886,7 @@
       "showTime": "04:30:00",
       "endTime": "05:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -2139,7 +1930,7 @@
       "showTime": "07:00:00",
       "endTime": "08:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -2150,7 +1941,7 @@
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -2161,7 +1952,7 @@
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -2194,7 +1985,7 @@
       "showTime": "10:00:00",
       "endTime": "10:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -2205,7 +1996,7 @@
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -2238,7 +2029,7 @@
       "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -2249,7 +2040,7 @@
       "showTime": "13:00:00",
       "endTime": "13:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -2381,7 +2172,7 @@
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -2392,7 +2183,282 @@
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Snippet",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-10T00:00:00",
+      "endDate": "2026-10-10T00:15:00",
+      "showTime": "00:00:00",
+      "endTime": "00:15:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d842d379fcfd33c8abefeba980d1c7bd.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "T20 Cricket",
+      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
+      "startDate": "2026-10-10T00:15:00",
+      "endDate": "2026-10-10T02:15:00",
+      "showTime": "00:15:00",
+      "endTime": "02:15:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3bd907a139e61a689bbde89266428f6c.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Snippet",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-10T02:15:00",
+      "endDate": "2026-10-10T02:30:00",
+      "showTime": "02:15:00",
+      "endTime": "02:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d842d379fcfd33c8abefeba980d1c7bd.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "One-Day International Cricket",
+      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
+      "startDate": "2026-10-10T02:30:00",
+      "endDate": "2026-10-10T03:30:00",
+      "showTime": "02:30:00",
+      "endTime": "03:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-10-10T03:30:00",
+      "endDate": "2026-10-10T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Lords Of England",
+      "description": "A compilation of some of the most iconic innings played by players from all around the world at the Lord's Cricket Ground, England.",
+      "startDate": "2026-10-10T04:00:00",
+      "endDate": "2026-10-10T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2e5b3c85b4390ca89cc20b6f17194e3f.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "2026 Asian Games Highlights",
+      "description": "2026 Asian Games Highlights",
+      "startDate": "2026-10-10T04:30:00",
+      "endDate": "2026-10-10T05:30:00",
+      "showTime": "04:30:00",
+      "endTime": "05:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "T20 Cricket",
+      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
+      "startDate": "2026-10-10T05:30:00",
+      "endDate": "2026-10-10T09:00:00",
+      "showTime": "05:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3bd907a139e61a689bbde89266428f6c.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "2026 Asian Games Highlights",
+      "description": "2026 Asian Games Highlights",
+      "startDate": "2026-10-10T09:00:00",
+      "endDate": "2026-10-10T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Live Sports Extraaa",
+      "description": "Prominent sportscasters and sports personalities present their expert opinions, in-depth breakdowns and discipline-specific analysis.",
+      "startDate": "2026-10-10T09:30:00",
+      "endDate": "2026-10-10T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/884fb4f933d7f870ab0d1fd8a3768de3.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "T20 Cricket",
+      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
+      "startDate": "2026-10-10T10:00:00",
+      "endDate": "2026-10-10T13:30:00",
+      "showTime": "10:00:00",
+      "endTime": "13:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3bd907a139e61a689bbde89266428f6c.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Live Sports Extraaa",
+      "description": "Prominent sportscasters and sports personalities present their expert opinions, in-depth breakdowns and discipline-specific analysis.",
+      "startDate": "2026-10-10T13:30:00",
+      "endDate": "2026-10-10T14:00:00",
+      "showTime": "13:30:00",
+      "endTime": "14:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/884fb4f933d7f870ab0d1fd8a3768de3.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "2026 Asian Games Highlights",
+      "description": "2026 Asian Games Highlights",
+      "startDate": "2026-10-10T14:00:00",
+      "endDate": "2026-10-10T14:30:00",
+      "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "2026 Asian Games Highlights",
+      "description": "2026 Asian Games Highlights",
+      "startDate": "2026-10-10T14:30:00",
+      "endDate": "2026-10-10T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "UEFA Nations League:",
+      "description": "Highlights and summaries of the UEFA Nations League matches.",
+      "startDate": "2026-10-10T15:00:00",
+      "endDate": "2026-10-10T15:30:00",
+      "showTime": "15:00:00",
+      "endTime": "15:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ed6db16b6a81f0a019a8e82e915f7be.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "One-Day International Cricket",
+      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
+      "startDate": "2026-10-10T15:30:00",
+      "endDate": "2026-10-10T16:00:00",
+      "showTime": "15:30:00",
+      "endTime": "16:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "2026 Asian Games Highlights",
+      "description": "2026 Asian Games Highlights",
+      "startDate": "2026-10-10T16:00:00",
+      "endDate": "2026-10-10T16:30:00",
+      "showTime": "16:00:00",
+      "endTime": "16:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Test Cricket",
+      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
+      "startDate": "2026-10-10T16:30:00",
+      "endDate": "2026-10-10T17:30:00",
+      "showTime": "16:30:00",
+      "endTime": "17:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "2026 Asian Games Highlights",
+      "description": "2026 Asian Games Highlights",
+      "startDate": "2026-10-10T17:30:00",
+      "endDate": "2026-10-10T18:00:00",
+      "showTime": "17:30:00",
+      "endTime": "18:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "2026 Asian Games Highlights",
+      "description": "2026 Asian Games Highlights",
+      "startDate": "2026-10-10T18:00:00",
+      "endDate": "2026-10-10T18:30:00",
+      "showTime": "18:00:00",
+      "endTime": "18:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "T20 Cricket",
+      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
+      "startDate": "2026-10-10T18:30:00",
+      "endDate": "2026-10-10T20:30:00",
+      "showTime": "18:30:00",
+      "endTime": "20:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3bd907a139e61a689bbde89266428f6c.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "2026 Asian Games Highlights",
+      "description": "2026 Asian Games Highlights",
+      "startDate": "2026-10-10T20:30:00",
+      "endDate": "2026-10-10T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "2026 Asian Games Highlights",
+      "description": "2026 Asian Games Highlights",
+      "startDate": "2026-10-10T21:00:00",
+      "endDate": "2026-10-10T21:30:00",
+      "showTime": "21:00:00",
+      "endTime": "21:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "T20 Cricket",
+      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
+      "startDate": "2026-10-10T21:30:00",
+      "endDate": "2026-10-10T23:30:00",
+      "showTime": "21:30:00",
+      "endTime": "23:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3bd907a139e61a689bbde89266428f6c.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "2026 Asian Games Highlights",
+      "description": "2026 Asian Games Highlights",
+      "startDate": "2026-10-10T23:30:00",
+      "endDate": "2026-10-10T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     }
   ]
 }

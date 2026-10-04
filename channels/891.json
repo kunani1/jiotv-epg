@@ -8,226 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",
   "programs": [
     {
-      "serverDate": "2026-10-02",
-      "showName": "UEFA Nations League:",
-      "description": "Highlights and summaries of the UEFA Nations League matches.",
-      "startDate": "2026-10-02T00:00:00",
-      "endDate": "2026-10-02T00:15:00",
-      "showTime": "00:00:00",
-      "endTime": "00:15:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ed6db16b6a81f0a019a8e82e915f7be.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "UEFA Nations League Soccer",
-      "description": "European national football teams compete with each other to clinch the top title at the UEFA Nations League, an international football competition.",
-      "startDate": "2026-10-02T00:15:00",
-      "endDate": "2026-10-02T02:15:00",
-      "showTime": "00:15:00",
-      "endTime": "02:15:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f11784ee89b0a07beb3f2f5ae84c5ef1.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Snippets",
-      "description": "Snippets",
-      "startDate": "2026-10-02T02:15:00",
-      "endDate": "2026-10-02T02:30:00",
-      "showTime": "02:15:00",
-      "endTime": "02:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8616b83ce09b64ec5c252387e196aef.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-02T02:30:00",
-      "endDate": "2026-10-02T03:30:00",
-      "showTime": "02:30:00",
-      "endTime": "03:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "UEFA Champions League Highlights",
-      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
-      "startDate": "2026-10-02T03:30:00",
-      "endDate": "2026-10-02T04:00:00",
-      "showTime": "03:30:00",
-      "endTime": "04:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "UEFA Nations League:",
-      "description": "Highlights and summaries of the UEFA Nations League matches.",
-      "startDate": "2026-10-02T04:00:00",
-      "endDate": "2026-10-02T04:30:00",
-      "showTime": "04:00:00",
-      "endTime": "04:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ed6db16b6a81f0a019a8e82e915f7be.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-02T04:30:00",
-      "endDate": "2026-10-02T05:30:00",
-      "showTime": "04:30:00",
-      "endTime": "05:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-02T05:30:00",
-      "endDate": "2026-10-02T06:30:00",
-      "showTime": "05:30:00",
-      "endTime": "06:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "2026 Asian Games",
-      "description": "Coverage of the 20th edition of the multi-sport event. From Aichi Prefecture and Nagoya, Japan.",
-      "startDate": "2026-10-02T06:30:00",
-      "endDate": "2026-10-02T09:00:00",
-      "showTime": "06:30:00",
-      "endTime": "09:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ed4d429271fa4548d1372260a5f32fb2.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "2026 Asian Games",
-      "description": "Coverage of the 20th edition of the multi-sport event. From Aichi Prefecture and Nagoya, Japan.",
-      "startDate": "2026-10-02T09:00:00",
-      "endDate": "2026-10-02T12:00:00",
-      "showTime": "09:00:00",
-      "endTime": "12:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ed4d429271fa4548d1372260a5f32fb2.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "2026 Asian Games",
-      "description": "Coverage of the 20th edition of the multi-sport event. From Aichi Prefecture and Nagoya, Japan.",
-      "startDate": "2026-10-02T12:00:00",
-      "endDate": "2026-10-02T15:00:00",
-      "showTime": "12:00:00",
-      "endTime": "15:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ed4d429271fa4548d1372260a5f32fb2.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "2026 Asian Games",
-      "description": "Coverage of the 20th edition of the multi-sport event. From Aichi Prefecture and Nagoya, Japan.",
-      "startDate": "2026-10-02T15:00:00",
-      "endDate": "2026-10-02T17:00:00",
-      "showTime": "15:00:00",
-      "endTime": "17:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ed4d429271fa4548d1372260a5f32fb2.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Sports Extraaa",
-      "description": "Prominent sportscasters and sports personalities present their expert opinions, in-depth breakdowns and discipline-specific analysis.",
-      "startDate": "2026-10-02T17:00:00",
-      "endDate": "2026-10-02T18:00:00",
-      "showTime": "17:00:00",
-      "endTime": "18:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/884fb4f933d7f870ab0d1fd8a3768de3.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-02T18:00:00",
-      "endDate": "2026-10-02T19:00:00",
-      "showTime": "18:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-02T19:00:00",
-      "endDate": "2026-10-02T20:00:00",
-      "showTime": "19:00:00",
-      "endTime": "20:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "UEFA Nations League:",
-      "description": "Highlights and summaries of the UEFA Nations League matches.",
-      "startDate": "2026-10-02T20:00:00",
-      "endDate": "2026-10-02T20:30:00",
-      "showTime": "20:00:00",
-      "endTime": "20:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ed6db16b6a81f0a019a8e82e915f7be.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "UEFA Nations League:",
-      "description": "Highlights and summaries of the UEFA Nations League matches.",
-      "startDate": "2026-10-02T20:30:00",
-      "endDate": "2026-10-02T21:00:00",
-      "showTime": "20:30:00",
-      "endTime": "21:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ed6db16b6a81f0a019a8e82e915f7be.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "UEFA Nations League:",
-      "description": "Highlights and summaries of the UEFA Nations League matches.",
-      "startDate": "2026-10-02T21:00:00",
-      "endDate": "2026-10-02T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ed6db16b6a81f0a019a8e82e915f7be.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "UEFA Nations League Soccer",
-      "description": "European national football teams compete with each other to clinch the top title at the UEFA Nations League, an international football competition.",
-      "startDate": "2026-10-02T21:30:00",
-      "endDate": "2026-10-02T23:30:00",
-      "showTime": "21:30:00",
-      "endTime": "23:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f11784ee89b0a07beb3f2f5ae84c5ef1.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "UEFA Nations League:",
-      "description": "Highlights and summaries of the UEFA Nations League matches.",
-      "startDate": "2026-10-02T23:30:00",
-      "endDate": "2026-10-02T23:59:59",
-      "showTime": "23:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ed6db16b6a81f0a019a8e82e915f7be.jpg"
-    },
-    {
       "serverDate": "2026-10-03",
       "showName": "UEFA Nations League:",
       "description": "Highlights and summaries of the UEFA Nations League matches.",
@@ -995,7 +775,7 @@
       "showTime": "04:30:00",
       "endTime": "05:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -1039,7 +819,7 @@
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -1182,7 +962,7 @@
       "showTime": "04:30:00",
       "endTime": "05:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1226,7 +1006,7 @@
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1369,7 +1149,7 @@
       "showTime": "04:30:00",
       "endTime": "05:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -1413,7 +1193,7 @@
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -1446,7 +1226,7 @@
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -1457,7 +1237,7 @@
       "showTime": "22:00:00",
       "endTime": "22:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -1523,7 +1303,7 @@
       "showTime": "02:30:00",
       "endTime": "03:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -1556,7 +1336,7 @@
       "showTime": "04:30:00",
       "endTime": "05:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -1600,7 +1380,7 @@
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d0ec064bd0f623145f67d18cad60b96.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -1656,6 +1436,204 @@
       "endTime": "23:59:59",
       "showCategory": "Sports non-event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ed6db16b6a81f0a019a8e82e915f7be.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "UEFA Nations League:",
+      "description": "Highlights and summaries of the UEFA Nations League matches.",
+      "startDate": "2026-10-10T00:00:00",
+      "endDate": "2026-10-10T00:15:00",
+      "showTime": "00:00:00",
+      "endTime": "00:15:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ed6db16b6a81f0a019a8e82e915f7be.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "UEFA Nations League:",
+      "description": "Highlights and summaries of the UEFA Nations League matches.",
+      "startDate": "2026-10-10T00:15:00",
+      "endDate": "2026-10-10T02:15:00",
+      "showTime": "00:15:00",
+      "endTime": "02:15:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ed6db16b6a81f0a019a8e82e915f7be.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Snippets",
+      "description": "Snippets",
+      "startDate": "2026-10-10T02:15:00",
+      "endDate": "2026-10-10T02:30:00",
+      "showTime": "02:15:00",
+      "endTime": "02:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8616b83ce09b64ec5c252387e196aef.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "2026 Asian Games Highlights",
+      "description": "2026 Asian Games Highlights",
+      "startDate": "2026-10-10T02:30:00",
+      "endDate": "2026-10-10T03:30:00",
+      "showTime": "02:30:00",
+      "endTime": "03:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-10-10T03:30:00",
+      "endDate": "2026-10-10T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "UEFA Nations League:",
+      "description": "Highlights and summaries of the UEFA Nations League matches.",
+      "startDate": "2026-10-10T04:00:00",
+      "endDate": "2026-10-10T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ed6db16b6a81f0a019a8e82e915f7be.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "2026 Asian Games Highlights",
+      "description": "2026 Asian Games Highlights",
+      "startDate": "2026-10-10T04:30:00",
+      "endDate": "2026-10-10T05:30:00",
+      "showTime": "04:30:00",
+      "endTime": "05:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "UEFA Nations League:",
+      "description": "Highlights and summaries of the UEFA Nations League matches.",
+      "startDate": "2026-10-10T05:30:00",
+      "endDate": "2026-10-10T11:30:00",
+      "showTime": "05:30:00",
+      "endTime": "11:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ed6db16b6a81f0a019a8e82e915f7be.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "UEFA Nations League:",
+      "description": "Highlights and summaries of the UEFA Nations League matches.",
+      "startDate": "2026-10-10T11:30:00",
+      "endDate": "2026-10-10T17:30:00",
+      "showTime": "11:30:00",
+      "endTime": "17:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ed6db16b6a81f0a019a8e82e915f7be.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Sports Extraaa",
+      "description": "Prominent sportscasters and sports personalities present their expert opinions, in-depth breakdowns and discipline-specific analysis.",
+      "startDate": "2026-10-10T17:30:00",
+      "endDate": "2026-10-10T18:30:00",
+      "showTime": "17:30:00",
+      "endTime": "18:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/884fb4f933d7f870ab0d1fd8a3768de3.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Football Extraaa",
+      "description": "A panel of football experts shares their insights about various international matches in an interstitial segment that promises to enhance the fans' viewing experience.",
+      "startDate": "2026-10-10T18:30:00",
+      "endDate": "2026-10-10T19:30:00",
+      "showTime": "18:30:00",
+      "endTime": "19:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/40528daa23fa0d87e18ea87bfcac186c.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "UEFA Nations League:",
+      "description": "Highlights and summaries of the UEFA Nations League matches.",
+      "startDate": "2026-10-10T19:30:00",
+      "endDate": "2026-10-10T20:15:00",
+      "showTime": "19:30:00",
+      "endTime": "20:15:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ed6db16b6a81f0a019a8e82e915f7be.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Football Extraaa",
+      "description": "A panel of football experts shares their insights about various international matches in an interstitial segment that promises to enhance the fans' viewing experience.",
+      "startDate": "2026-10-10T20:15:00",
+      "endDate": "2026-10-10T20:30:00",
+      "showTime": "20:15:00",
+      "endTime": "20:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/40528daa23fa0d87e18ea87bfcac186c.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "UEFA Nations League:",
+      "description": "Highlights and summaries of the UEFA Nations League matches.",
+      "startDate": "2026-10-10T20:30:00",
+      "endDate": "2026-10-10T21:15:00",
+      "showTime": "20:30:00",
+      "endTime": "21:15:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ed6db16b6a81f0a019a8e82e915f7be.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Football Extraaa",
+      "description": "A panel of football experts shares their insights about various international matches in an interstitial segment that promises to enhance the fans' viewing experience.",
+      "startDate": "2026-10-10T21:15:00",
+      "endDate": "2026-10-10T22:15:00",
+      "showTime": "21:15:00",
+      "endTime": "22:15:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/40528daa23fa0d87e18ea87bfcac186c.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "UEFA Nations League:",
+      "description": "Highlights and summaries of the UEFA Nations League matches.",
+      "startDate": "2026-10-10T22:15:00",
+      "endDate": "2026-10-10T22:45:00",
+      "showTime": "22:15:00",
+      "endTime": "22:45:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ed6db16b6a81f0a019a8e82e915f7be.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "UCL Magazine",
+      "description": "Take a look at the latest updates and developments, interviews and best goals from the UEFA Champions League, a premier football tournament contested by European clubs.",
+      "startDate": "2026-10-10T22:45:00",
+      "endDate": "2026-10-10T23:15:00",
+      "showTime": "22:45:00",
+      "endTime": "23:15:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/82fb9902e321e93ade26f628c9c79045.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "2026 Asian Games Highlights",
+      "description": "2026 Asian Games Highlights",
+      "startDate": "2026-10-10T23:15:00",
+      "endDate": "2026-10-10T23:59:59",
+      "showTime": "23:15:00",
+      "endTime": "23:59:59",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     }
   ]
 }

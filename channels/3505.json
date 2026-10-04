@@ -8,2536 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/thevoicetv.png",
   "programs": [
     {
-      "serverDate": "2026-10-02",
-      "showName": "News",
-      "description": "The host presents the latest updates and key information pertaining to the socio-political and economic matters of the day.",
-      "startDate": "2026-10-02T00:00:00",
-      "endDate": "2026-10-02T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8b44b8721a3f3913cc63d020c8045ad.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Health Program",
-      "description": "An expert from the health sector shares remedies to cure commonly known illnesses and suggests useful measures to lead a healthy life.",
-      "startDate": "2026-10-02T00:30:00",
-      "endDate": "2026-10-02T01:00:00",
-      "showTime": "00:30:00",
-      "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1173907c3e1f228486c3ba6ff0dbeb0e.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Talk Show",
-      "description": "The host interacts with different guests and engages in an insightful discussion to analyse and express opinions on a variety of topics.",
-      "startDate": "2026-10-02T01:00:00",
-      "endDate": "2026-10-02T01:30:00",
-      "showTime": "01:00:00",
-      "endTime": "01:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d3a3d48be3cb2c0b00c94217a145fc04.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Ummid Navjivan Ki",
-      "description": "A medical professional sheds light on common ailments while providing relevant tips to help facilitate a healthy lifestyle.",
-      "startDate": "2026-10-02T01:30:00",
-      "endDate": "2026-10-02T02:30:00",
-      "showTime": "01:30:00",
-      "endTime": "02:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fb2299f03af3ca5f75dba89ef3a0181f.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Ascharyjanak Kintu Satya",
-      "description": "The host collates and presents some of the most surprising health-related cases whilst shedding light on remedies surrounding the same.",
-      "startDate": "2026-10-02T02:30:00",
-      "endDate": "2026-10-02T03:30:00",
-      "showTime": "02:30:00",
-      "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b0e5ec069cba4af46c1dab7f59cfe173.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Health Show",
-      "description": "The host presents various fitness tips and routines that aid in improving one's health and explain how nutritious diet can help people lead an active lifestyle.",
-      "startDate": "2026-10-02T03:30:00",
-      "endDate": "2026-10-02T04:30:00",
-      "showTime": "03:30:00",
-      "endTime": "04:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eef690dce74a8a6d37615e8433740929.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "ADVT",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-02T04:30:00",
-      "endDate": "2026-10-02T05:30:00",
-      "showTime": "04:30:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd0942b331ecd69826c057214fd3dfb1.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "One To One",
-      "description": "The host interviews eminent political personalities in a one-on-one interview to find out what political course is being undertaken by them.",
-      "startDate": "2026-10-02T05:30:00",
-      "endDate": "2026-10-02T06:30:00",
-      "showTime": "05:30:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fdb4f84eefd751d52ae3354d190bae4b.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Religious",
-      "description": "The host presents updates and developments related to religion and shares information about religious processions, auspicious days and spiritual events.",
-      "startDate": "2026-10-02T06:30:00",
-      "endDate": "2026-10-02T08:00:00",
-      "showTime": "06:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/75eb0a56de7f8e8f4b4ce707b19fda5e.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Mandir",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-02T08:00:00",
-      "endDate": "2026-10-02T08:15:00",
-      "showTime": "08:00:00",
-      "endTime": "08:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d4358e9ecd03c22a2f220daf662053cb.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Rashifal",
-      "description": "An astrologer provides predictions of the future to the audience in accordance with the zodiac star signs that they were born under.",
-      "startDate": "2026-10-02T08:15:00",
-      "endDate": "2026-10-02T08:30:00",
-      "showTime": "08:15:00",
-      "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bdff0538d9b688b0670d39723dfe1575.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Pradeshik",
-      "description": "Pradeshik",
-      "startDate": "2026-10-02T08:30:00",
-      "endDate": "2026-10-02T09:00:00",
-      "showTime": "08:30:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Din Bhar Ki Badi Khabar",
-      "description": "Din Bhar Ki Badi Khabar",
-      "startDate": "2026-10-02T09:00:00",
-      "endDate": "2026-10-02T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Pradeshik",
-      "description": "Pradeshik",
-      "startDate": "2026-10-02T09:30:00",
-      "endDate": "2026-10-02T09:50:00",
-      "showTime": "09:30:00",
-      "endTime": "09:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Pradeshik",
-      "description": "Pradeshik",
-      "startDate": "2026-10-02T09:50:00",
-      "endDate": "2026-10-02T09:55:00",
-      "showTime": "09:50:00",
-      "endTime": "09:55:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "News Stories",
-      "description": "Recreations of mysterious stories.",
-      "startDate": "2026-10-02T09:55:00",
-      "endDate": "2026-10-02T10:00:00",
-      "showTime": "09:55:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Din Bhar Ki Badi Khabar",
-      "description": "Din Bhar Ki Badi Khabar",
-      "startDate": "2026-10-02T10:00:00",
-      "endDate": "2026-10-02T10:30:00",
-      "showTime": "10:00:00",
-      "endTime": "10:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-02T10:30:00",
-      "endDate": "2026-10-02T10:35:00",
-      "showTime": "10:30:00",
-      "endTime": "10:35:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-02T10:35:00",
-      "endDate": "2026-10-02T10:40:00",
-      "showTime": "10:35:00",
-      "endTime": "10:40:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-02T10:40:00",
-      "endDate": "2026-10-02T10:45:00",
-      "showTime": "10:40:00",
-      "endTime": "10:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-02T10:45:00",
-      "endDate": "2026-10-02T10:50:00",
-      "showTime": "10:45:00",
-      "endTime": "10:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-02T10:50:00",
-      "endDate": "2026-10-02T10:55:00",
-      "showTime": "10:50:00",
-      "endTime": "10:55:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Vichar Samachar Patra Se",
-      "description": "Vichar Samachar Patra Se",
-      "startDate": "2026-10-02T10:55:00",
-      "endDate": "2026-10-02T11:00:00",
-      "showTime": "10:55:00",
-      "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Din Bhar Ki Badi Khabar",
-      "description": "Din Bhar Ki Badi Khabar",
-      "startDate": "2026-10-02T11:00:00",
-      "endDate": "2026-10-02T11:30:00",
-      "showTime": "11:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-02T11:30:00",
-      "endDate": "2026-10-02T11:35:00",
-      "showTime": "11:30:00",
-      "endTime": "11:35:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-02T11:35:00",
-      "endDate": "2026-10-02T11:40:00",
-      "showTime": "11:35:00",
-      "endTime": "11:40:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-02T11:40:00",
-      "endDate": "2026-10-02T11:45:00",
-      "showTime": "11:40:00",
-      "endTime": "11:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Vishleshan With Aakansha Pandey",
-      "description": "Vishleshan With Aakansha Pandey",
-      "startDate": "2026-10-02T11:45:00",
-      "endDate": "2026-10-02T11:55:00",
-      "showTime": "11:45:00",
-      "endTime": "11:55:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d33d5cfe79908128e7f44eded42afc0.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "News Stories",
-      "description": "Recreations of mysterious stories.",
-      "startDate": "2026-10-02T11:55:00",
-      "endDate": "2026-10-02T12:00:00",
-      "showTime": "11:55:00",
-      "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Din Bhar Ki Badi Khabar",
-      "description": "Din Bhar Ki Badi Khabar",
-      "startDate": "2026-10-02T12:00:00",
-      "endDate": "2026-10-02T12:30:00",
-      "showTime": "12:00:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Vichar Samachar Patra Se",
-      "description": "Vichar Samachar Patra Se",
-      "startDate": "2026-10-02T12:30:00",
-      "endDate": "2026-10-02T12:40:00",
-      "showTime": "12:30:00",
-      "endTime": "12:40:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-02T12:40:00",
-      "endDate": "2026-10-02T12:45:00",
-      "showTime": "12:40:00",
-      "endTime": "12:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-02T12:45:00",
-      "endDate": "2026-10-02T13:00:00",
-      "showTime": "12:45:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-02T13:00:00",
-      "endDate": "2026-10-02T14:00:00",
-      "showTime": "13:00:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Din Bhar Ki Badi Khabar",
-      "description": "Din Bhar Ki Badi Khabar",
-      "startDate": "2026-10-02T14:00:00",
-      "endDate": "2026-10-02T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Interview",
-      "description": "The host strikes up a conversation with many individuals and eminent guests and discusses various topics and issues with them.",
-      "startDate": "2026-10-02T14:30:00",
-      "endDate": "2026-10-02T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f05e15d2df182f518baaaa04b57ad1c.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-02T15:00:00",
-      "endDate": "2026-10-02T16:00:00",
-      "showTime": "15:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Din Bhar Ki Badi Khabar",
-      "description": "Din Bhar Ki Badi Khabar",
-      "startDate": "2026-10-02T16:00:00",
-      "endDate": "2026-10-02T16:20:00",
-      "showTime": "16:00:00",
-      "endTime": "16:20:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "International",
-      "description": "International",
-      "startDate": "2026-10-02T16:20:00",
-      "endDate": "2026-10-02T16:30:00",
-      "showTime": "16:20:00",
-      "endTime": "16:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c13ccce4b8da9d09888309584bd7421.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Business",
-      "description": "Business",
-      "startDate": "2026-10-02T16:30:00",
-      "endDate": "2026-10-02T16:35:00",
-      "showTime": "16:30:00",
-      "endTime": "16:35:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/42b02f02b57d307384ff6e26443207a3.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Sports",
-      "description": "Sports",
-      "startDate": "2026-10-02T16:35:00",
-      "endDate": "2026-10-02T16:40:00",
-      "showTime": "16:35:00",
-      "endTime": "16:40:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Manthan With Ayushi Thakur",
-      "description": "Manthan With Ayushi Thakur",
-      "startDate": "2026-10-02T16:40:00",
-      "endDate": "2026-10-02T17:00:00",
-      "showTime": "16:40:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-02T17:00:00",
-      "endDate": "2026-10-02T18:00:00",
-      "showTime": "17:00:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Din Bhar Ki Badi Khabar",
-      "description": "Din Bhar Ki Badi Khabar",
-      "startDate": "2026-10-02T18:00:00",
-      "endDate": "2026-10-02T18:30:00",
-      "showTime": "18:00:00",
-      "endTime": "18:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Pradeshik",
-      "description": "Pradeshik",
-      "startDate": "2026-10-02T18:30:00",
-      "endDate": "2026-10-02T18:45:00",
-      "showTime": "18:30:00",
-      "endTime": "18:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Vichar Samachar Patra Se",
-      "description": "Vichar Samachar Patra Se",
-      "startDate": "2026-10-02T18:45:00",
-      "endDate": "2026-10-02T18:50:00",
-      "showTime": "18:45:00",
-      "endTime": "18:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Ground Reports Neel",
-      "description": "Ground Reports Neel",
-      "startDate": "2026-10-02T18:50:00",
-      "endDate": "2026-10-02T19:00:00",
-      "showTime": "18:50:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/813c1e2cac518b1fad23fd2f402e0c97.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-02T19:00:00",
-      "endDate": "2026-10-02T20:00:00",
-      "showTime": "19:00:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Din Bhar Ki Badi Khabar",
-      "description": "Din Bhar Ki Badi Khabar",
-      "startDate": "2026-10-02T20:00:00",
-      "endDate": "2026-10-02T20:30:00",
-      "showTime": "20:00:00",
-      "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Pradeshik",
-      "description": "Pradeshik",
-      "startDate": "2026-10-02T20:30:00",
-      "endDate": "2026-10-02T20:45:00",
-      "showTime": "20:30:00",
-      "endTime": "20:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Pradeshik",
-      "description": "Pradeshik",
-      "startDate": "2026-10-02T20:45:00",
-      "endDate": "2026-10-02T20:50:00",
-      "showTime": "20:45:00",
-      "endTime": "20:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Vichar Samachar Patra Se",
-      "description": "Vichar Samachar Patra Se",
-      "startDate": "2026-10-02T20:50:00",
-      "endDate": "2026-10-02T21:00:00",
-      "showTime": "20:50:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-02T21:00:00",
-      "endDate": "2026-10-02T22:00:00",
-      "showTime": "21:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Night Bulletin",
-      "description": "Night Bulletin",
-      "startDate": "2026-10-02T22:00:00",
-      "endDate": "2026-10-02T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/206bd639dec363d410e677ad36f7ea9e.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-02T22:30:00",
-      "endDate": "2026-10-02T23:30:00",
-      "showTime": "22:30:00",
-      "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-02",
-      "showName": "Ground Reports Neel",
-      "description": "Ground Reports Neel",
-      "startDate": "2026-10-02T23:30:00",
-      "endDate": "2026-10-02T23:59:59",
-      "showTime": "23:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/813c1e2cac518b1fad23fd2f402e0c97.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T00:00:00",
-      "endDate": "2026-10-03T00:05:00",
-      "showTime": "00:00:00",
-      "endTime": "00:05:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T00:05:00",
-      "endDate": "2026-10-03T00:10:00",
-      "showTime": "00:05:00",
-      "endTime": "00:10:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T00:10:00",
-      "endDate": "2026-10-03T00:15:00",
-      "showTime": "00:10:00",
-      "endTime": "00:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-03T00:15:00",
-      "endDate": "2026-10-03T00:20:00",
-      "showTime": "00:15:00",
-      "endTime": "00:20:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Ground Reports Neel",
-      "description": "Ground Reports Neel",
-      "startDate": "2026-10-03T00:20:00",
-      "endDate": "2026-10-03T00:50:00",
-      "showTime": "00:20:00",
-      "endTime": "00:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/813c1e2cac518b1fad23fd2f402e0c97.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "News Stories",
-      "description": "Recreations of mysterious stories.",
-      "startDate": "2026-10-03T00:50:00",
-      "endDate": "2026-10-03T01:00:00",
-      "showTime": "00:50:00",
-      "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Interview",
-      "description": "The host strikes up a conversation with many individuals and eminent guests and discusses various topics and issues with them.",
-      "startDate": "2026-10-03T01:00:00",
-      "endDate": "2026-10-03T01:30:00",
-      "showTime": "01:00:00",
-      "endTime": "01:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f05e15d2df182f518baaaa04b57ad1c.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "News Stories",
-      "description": "Recreations of mysterious stories.",
-      "startDate": "2026-10-03T01:30:00",
-      "endDate": "2026-10-03T01:35:00",
-      "showTime": "01:30:00",
-      "endTime": "01:35:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "News Stories",
-      "description": "Recreations of mysterious stories.",
-      "startDate": "2026-10-03T01:35:00",
-      "endDate": "2026-10-03T01:40:00",
-      "showTime": "01:35:00",
-      "endTime": "01:40:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "News Stories",
-      "description": "Recreations of mysterious stories.",
-      "startDate": "2026-10-03T01:40:00",
-      "endDate": "2026-10-03T01:45:00",
-      "showTime": "01:40:00",
-      "endTime": "01:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-03T01:45:00",
-      "endDate": "2026-10-03T01:50:00",
-      "showTime": "01:45:00",
-      "endTime": "01:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "News Stories",
-      "description": "Recreations of mysterious stories.",
-      "startDate": "2026-10-03T01:50:00",
-      "endDate": "2026-10-03T02:00:00",
-      "showTime": "01:50:00",
-      "endTime": "02:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-03T02:00:00",
-      "endDate": "2026-10-03T02:40:00",
-      "showTime": "02:00:00",
-      "endTime": "02:40:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Ground Reports Neel",
-      "description": "Ground Reports Neel",
-      "startDate": "2026-10-03T02:40:00",
-      "endDate": "2026-10-03T03:00:00",
-      "showTime": "02:40:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/813c1e2cac518b1fad23fd2f402e0c97.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "News Stories",
-      "description": "Recreations of mysterious stories.",
-      "startDate": "2026-10-03T03:00:00",
-      "endDate": "2026-10-03T03:10:00",
-      "showTime": "03:00:00",
-      "endTime": "03:10:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T03:10:00",
-      "endDate": "2026-10-03T03:15:00",
-      "showTime": "03:10:00",
-      "endTime": "03:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T03:15:00",
-      "endDate": "2026-10-03T03:20:00",
-      "showTime": "03:15:00",
-      "endTime": "03:20:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T03:20:00",
-      "endDate": "2026-10-03T03:25:00",
-      "showTime": "03:20:00",
-      "endTime": "03:25:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T03:25:00",
-      "endDate": "2026-10-03T03:55:00",
-      "showTime": "03:25:00",
-      "endTime": "03:55:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T03:55:00",
-      "endDate": "2026-10-03T04:25:00",
-      "showTime": "03:55:00",
-      "endTime": "04:25:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T04:25:00",
-      "endDate": "2026-10-03T04:30:00",
-      "showTime": "04:25:00",
-      "endTime": "04:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Top News",
-      "description": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
-      "startDate": "2026-10-03T04:30:00",
-      "endDate": "2026-10-03T04:40:00",
-      "showTime": "04:30:00",
-      "endTime": "04:40:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e72011bebfafa29806aa6c686b5bb360.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "News Stories",
-      "description": "Recreations of mysterious stories.",
-      "startDate": "2026-10-03T04:40:00",
-      "endDate": "2026-10-03T04:50:00",
-      "showTime": "04:40:00",
-      "endTime": "04:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "News Stories",
-      "description": "Recreations of mysterious stories.",
-      "startDate": "2026-10-03T04:50:00",
-      "endDate": "2026-10-03T04:55:00",
-      "showTime": "04:50:00",
-      "endTime": "04:55:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "News Stories",
-      "description": "Recreations of mysterious stories.",
-      "startDate": "2026-10-03T04:55:00",
-      "endDate": "2026-10-03T05:00:00",
-      "showTime": "04:55:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-03T05:00:00",
-      "endDate": "2026-10-03T06:00:00",
-      "showTime": "05:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Ground Reports Neel",
-      "description": "Ground Reports Neel",
-      "startDate": "2026-10-03T06:00:00",
-      "endDate": "2026-10-03T06:10:00",
-      "showTime": "06:00:00",
-      "endTime": "06:10:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/813c1e2cac518b1fad23fd2f402e0c97.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Vichar Samachar Patra Se",
-      "description": "Vichar Samachar Patra Se",
-      "startDate": "2026-10-03T06:10:00",
-      "endDate": "2026-10-03T06:15:00",
-      "showTime": "06:10:00",
-      "endTime": "06:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T06:15:00",
-      "endDate": "2026-10-03T06:20:00",
-      "showTime": "06:15:00",
-      "endTime": "06:20:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T06:20:00",
-      "endDate": "2026-10-03T06:25:00",
-      "showTime": "06:20:00",
-      "endTime": "06:25:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T06:25:00",
-      "endDate": "2026-10-03T06:30:00",
-      "showTime": "06:25:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T06:30:00",
-      "endDate": "2026-10-03T06:35:00",
-      "showTime": "06:30:00",
-      "endTime": "06:35:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T06:35:00",
-      "endDate": "2026-10-03T06:40:00",
-      "showTime": "06:35:00",
-      "endTime": "06:40:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T06:40:00",
-      "endDate": "2026-10-03T06:50:00",
-      "showTime": "06:40:00",
-      "endTime": "06:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T06:50:00",
-      "endDate": "2026-10-03T07:00:00",
-      "showTime": "06:50:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T07:00:00",
-      "endDate": "2026-10-03T07:10:00",
-      "showTime": "07:00:00",
-      "endTime": "07:10:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T07:10:00",
-      "endDate": "2026-10-03T07:15:00",
-      "showTime": "07:10:00",
-      "endTime": "07:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T07:15:00",
-      "endDate": "2026-10-03T07:20:00",
-      "showTime": "07:15:00",
-      "endTime": "07:20:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Top News",
-      "description": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
-      "startDate": "2026-10-03T07:20:00",
-      "endDate": "2026-10-03T07:30:00",
-      "showTime": "07:20:00",
-      "endTime": "07:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e72011bebfafa29806aa6c686b5bb360.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Ground Reports Neel",
-      "description": "Ground Reports Neel",
-      "startDate": "2026-10-03T07:30:00",
-      "endDate": "2026-10-03T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/813c1e2cac518b1fad23fd2f402e0c97.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Mandir",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-03T08:00:00",
-      "endDate": "2026-10-03T08:15:00",
-      "showTime": "08:00:00",
-      "endTime": "08:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d4358e9ecd03c22a2f220daf662053cb.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Rashifal",
-      "description": "An astrologer provides predictions of the future to the audience in accordance with the zodiac star signs that they were born under.",
-      "startDate": "2026-10-03T08:15:00",
-      "endDate": "2026-10-03T08:30:00",
-      "showTime": "08:15:00",
-      "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bdff0538d9b688b0670d39723dfe1575.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik",
-      "description": "Pradeshik",
-      "startDate": "2026-10-03T08:30:00",
-      "endDate": "2026-10-03T09:00:00",
-      "showTime": "08:30:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Din Bhar Ki Badi Khabar",
-      "description": "Din Bhar Ki Badi Khabar",
-      "startDate": "2026-10-03T09:00:00",
-      "endDate": "2026-10-03T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik",
-      "description": "Pradeshik",
-      "startDate": "2026-10-03T09:30:00",
-      "endDate": "2026-10-03T09:50:00",
-      "showTime": "09:30:00",
-      "endTime": "09:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik",
-      "description": "Pradeshik",
-      "startDate": "2026-10-03T09:50:00",
-      "endDate": "2026-10-03T09:55:00",
-      "showTime": "09:50:00",
-      "endTime": "09:55:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "News Stories",
-      "description": "Recreations of mysterious stories.",
-      "startDate": "2026-10-03T09:55:00",
-      "endDate": "2026-10-03T10:00:00",
-      "showTime": "09:55:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Din Bhar Ki Badi Khabar",
-      "description": "Din Bhar Ki Badi Khabar",
-      "startDate": "2026-10-03T10:00:00",
-      "endDate": "2026-10-03T10:30:00",
-      "showTime": "10:00:00",
-      "endTime": "10:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T10:30:00",
-      "endDate": "2026-10-03T10:35:00",
-      "showTime": "10:30:00",
-      "endTime": "10:35:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T10:35:00",
-      "endDate": "2026-10-03T10:40:00",
-      "showTime": "10:35:00",
-      "endTime": "10:40:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T10:40:00",
-      "endDate": "2026-10-03T10:45:00",
-      "showTime": "10:40:00",
-      "endTime": "10:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T10:45:00",
-      "endDate": "2026-10-03T10:50:00",
-      "showTime": "10:45:00",
-      "endTime": "10:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T10:50:00",
-      "endDate": "2026-10-03T10:55:00",
-      "showTime": "10:50:00",
-      "endTime": "10:55:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Vichar Samachar Patra Se",
-      "description": "Vichar Samachar Patra Se",
-      "startDate": "2026-10-03T10:55:00",
-      "endDate": "2026-10-03T11:00:00",
-      "showTime": "10:55:00",
-      "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Din Bhar Ki Badi Khabar",
-      "description": "Din Bhar Ki Badi Khabar",
-      "startDate": "2026-10-03T11:00:00",
-      "endDate": "2026-10-03T11:30:00",
-      "showTime": "11:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T11:30:00",
-      "endDate": "2026-10-03T11:35:00",
-      "showTime": "11:30:00",
-      "endTime": "11:35:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T11:35:00",
-      "endDate": "2026-10-03T11:40:00",
-      "showTime": "11:35:00",
-      "endTime": "11:40:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T11:40:00",
-      "endDate": "2026-10-03T11:45:00",
-      "showTime": "11:40:00",
-      "endTime": "11:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Vishleshan With Aakansha Pandey",
-      "description": "Vishleshan With Aakansha Pandey",
-      "startDate": "2026-10-03T11:45:00",
-      "endDate": "2026-10-03T11:55:00",
-      "showTime": "11:45:00",
-      "endTime": "11:55:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d33d5cfe79908128e7f44eded42afc0.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "News Stories",
-      "description": "Recreations of mysterious stories.",
-      "startDate": "2026-10-03T11:55:00",
-      "endDate": "2026-10-03T12:00:00",
-      "showTime": "11:55:00",
-      "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Din Bhar Ki Badi Khabar",
-      "description": "Din Bhar Ki Badi Khabar",
-      "startDate": "2026-10-03T12:00:00",
-      "endDate": "2026-10-03T12:30:00",
-      "showTime": "12:00:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Vichar Samachar Patra Se",
-      "description": "Vichar Samachar Patra Se",
-      "startDate": "2026-10-03T12:30:00",
-      "endDate": "2026-10-03T12:40:00",
-      "showTime": "12:30:00",
-      "endTime": "12:40:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T12:40:00",
-      "endDate": "2026-10-03T12:45:00",
-      "showTime": "12:40:00",
-      "endTime": "12:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-03T12:45:00",
-      "endDate": "2026-10-03T13:00:00",
-      "showTime": "12:45:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-03T13:00:00",
-      "endDate": "2026-10-03T14:00:00",
-      "showTime": "13:00:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Din Bhar Ki Badi Khabar",
-      "description": "Din Bhar Ki Badi Khabar",
-      "startDate": "2026-10-03T14:00:00",
-      "endDate": "2026-10-03T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Interview",
-      "description": "The host strikes up a conversation with many individuals and eminent guests and discusses various topics and issues with them.",
-      "startDate": "2026-10-03T14:30:00",
-      "endDate": "2026-10-03T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f05e15d2df182f518baaaa04b57ad1c.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-03T15:00:00",
-      "endDate": "2026-10-03T16:00:00",
-      "showTime": "15:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Din Bhar Ki Badi Khabar",
-      "description": "Din Bhar Ki Badi Khabar",
-      "startDate": "2026-10-03T16:00:00",
-      "endDate": "2026-10-03T16:20:00",
-      "showTime": "16:00:00",
-      "endTime": "16:20:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "International",
-      "description": "International",
-      "startDate": "2026-10-03T16:20:00",
-      "endDate": "2026-10-03T16:30:00",
-      "showTime": "16:20:00",
-      "endTime": "16:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c13ccce4b8da9d09888309584bd7421.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Business",
-      "description": "Business",
-      "startDate": "2026-10-03T16:30:00",
-      "endDate": "2026-10-03T16:35:00",
-      "showTime": "16:30:00",
-      "endTime": "16:35:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/42b02f02b57d307384ff6e26443207a3.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Sports",
-      "description": "Sports",
-      "startDate": "2026-10-03T16:35:00",
-      "endDate": "2026-10-03T16:40:00",
-      "showTime": "16:35:00",
-      "endTime": "16:40:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Manthan With Ayushi Thakur",
-      "description": "Manthan With Ayushi Thakur",
-      "startDate": "2026-10-03T16:40:00",
-      "endDate": "2026-10-03T17:00:00",
-      "showTime": "16:40:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-03T17:00:00",
-      "endDate": "2026-10-03T18:00:00",
-      "showTime": "17:00:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Din Bhar Ki Badi Khabar",
-      "description": "Din Bhar Ki Badi Khabar",
-      "startDate": "2026-10-03T18:00:00",
-      "endDate": "2026-10-03T18:30:00",
-      "showTime": "18:00:00",
-      "endTime": "18:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik",
-      "description": "Pradeshik",
-      "startDate": "2026-10-03T18:30:00",
-      "endDate": "2026-10-03T18:45:00",
-      "showTime": "18:30:00",
-      "endTime": "18:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Vichar Samachar Patra Se",
-      "description": "Vichar Samachar Patra Se",
-      "startDate": "2026-10-03T18:45:00",
-      "endDate": "2026-10-03T18:50:00",
-      "showTime": "18:45:00",
-      "endTime": "18:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Ground Reports Neel",
-      "description": "Ground Reports Neel",
-      "startDate": "2026-10-03T18:50:00",
-      "endDate": "2026-10-03T19:00:00",
-      "showTime": "18:50:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/813c1e2cac518b1fad23fd2f402e0c97.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-03T19:00:00",
-      "endDate": "2026-10-03T20:00:00",
-      "showTime": "19:00:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Din Bhar Ki Badi Khabar",
-      "description": "Din Bhar Ki Badi Khabar",
-      "startDate": "2026-10-03T20:00:00",
-      "endDate": "2026-10-03T20:30:00",
-      "showTime": "20:00:00",
-      "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik",
-      "description": "Pradeshik",
-      "startDate": "2026-10-03T20:30:00",
-      "endDate": "2026-10-03T20:45:00",
-      "showTime": "20:30:00",
-      "endTime": "20:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Pradeshik",
-      "description": "Pradeshik",
-      "startDate": "2026-10-03T20:45:00",
-      "endDate": "2026-10-03T20:50:00",
-      "showTime": "20:45:00",
-      "endTime": "20:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Vichar Samachar Patra Se",
-      "description": "Vichar Samachar Patra Se",
-      "startDate": "2026-10-03T20:50:00",
-      "endDate": "2026-10-03T21:00:00",
-      "showTime": "20:50:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-03T21:00:00",
-      "endDate": "2026-10-03T22:00:00",
-      "showTime": "21:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Night Bulletin",
-      "description": "Night Bulletin",
-      "startDate": "2026-10-03T22:00:00",
-      "endDate": "2026-10-03T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/206bd639dec363d410e677ad36f7ea9e.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-03T22:30:00",
-      "endDate": "2026-10-03T23:30:00",
-      "showTime": "22:30:00",
-      "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Ground Reports Neel",
-      "description": "Ground Reports Neel",
-      "startDate": "2026-10-03T23:30:00",
-      "endDate": "2026-10-03T23:59:59",
-      "showTime": "23:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/813c1e2cac518b1fad23fd2f402e0c97.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T00:00:00",
-      "endDate": "2026-10-04T00:05:00",
-      "showTime": "00:00:00",
-      "endTime": "00:05:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T00:05:00",
-      "endDate": "2026-10-04T00:10:00",
-      "showTime": "00:05:00",
-      "endTime": "00:10:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T00:10:00",
-      "endDate": "2026-10-04T00:15:00",
-      "showTime": "00:10:00",
-      "endTime": "00:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-04T00:15:00",
-      "endDate": "2026-10-04T00:20:00",
-      "showTime": "00:15:00",
-      "endTime": "00:20:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Ground Reports Neel",
-      "description": "Ground Reports Neel",
-      "startDate": "2026-10-04T00:20:00",
-      "endDate": "2026-10-04T00:50:00",
-      "showTime": "00:20:00",
-      "endTime": "00:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/813c1e2cac518b1fad23fd2f402e0c97.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "News Stories",
-      "description": "Recreations of mysterious stories.",
-      "startDate": "2026-10-04T00:50:00",
-      "endDate": "2026-10-04T01:00:00",
-      "showTime": "00:50:00",
-      "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Interview",
-      "description": "The host strikes up a conversation with many individuals and eminent guests and discusses various topics and issues with them.",
-      "startDate": "2026-10-04T01:00:00",
-      "endDate": "2026-10-04T01:30:00",
-      "showTime": "01:00:00",
-      "endTime": "01:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f05e15d2df182f518baaaa04b57ad1c.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "News Stories",
-      "description": "Recreations of mysterious stories.",
-      "startDate": "2026-10-04T01:30:00",
-      "endDate": "2026-10-04T01:35:00",
-      "showTime": "01:30:00",
-      "endTime": "01:35:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "News Stories",
-      "description": "Recreations of mysterious stories.",
-      "startDate": "2026-10-04T01:35:00",
-      "endDate": "2026-10-04T01:40:00",
-      "showTime": "01:35:00",
-      "endTime": "01:40:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "News Stories",
-      "description": "Recreations of mysterious stories.",
-      "startDate": "2026-10-04T01:40:00",
-      "endDate": "2026-10-04T01:45:00",
-      "showTime": "01:40:00",
-      "endTime": "01:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-04T01:45:00",
-      "endDate": "2026-10-04T01:50:00",
-      "showTime": "01:45:00",
-      "endTime": "01:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "News Stories",
-      "description": "Recreations of mysterious stories.",
-      "startDate": "2026-10-04T01:50:00",
-      "endDate": "2026-10-04T02:00:00",
-      "showTime": "01:50:00",
-      "endTime": "02:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-04T02:00:00",
-      "endDate": "2026-10-04T02:40:00",
-      "showTime": "02:00:00",
-      "endTime": "02:40:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Ground Reports Neel",
-      "description": "Ground Reports Neel",
-      "startDate": "2026-10-04T02:40:00",
-      "endDate": "2026-10-04T03:00:00",
-      "showTime": "02:40:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/813c1e2cac518b1fad23fd2f402e0c97.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "News Stories",
-      "description": "Recreations of mysterious stories.",
-      "startDate": "2026-10-04T03:00:00",
-      "endDate": "2026-10-04T03:10:00",
-      "showTime": "03:00:00",
-      "endTime": "03:10:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T03:10:00",
-      "endDate": "2026-10-04T03:15:00",
-      "showTime": "03:10:00",
-      "endTime": "03:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T03:15:00",
-      "endDate": "2026-10-04T03:20:00",
-      "showTime": "03:15:00",
-      "endTime": "03:20:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T03:20:00",
-      "endDate": "2026-10-04T03:25:00",
-      "showTime": "03:20:00",
-      "endTime": "03:25:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T03:25:00",
-      "endDate": "2026-10-04T03:55:00",
-      "showTime": "03:25:00",
-      "endTime": "03:55:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T03:55:00",
-      "endDate": "2026-10-04T04:25:00",
-      "showTime": "03:55:00",
-      "endTime": "04:25:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T04:25:00",
-      "endDate": "2026-10-04T04:30:00",
-      "showTime": "04:25:00",
-      "endTime": "04:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Top News",
-      "description": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
-      "startDate": "2026-10-04T04:30:00",
-      "endDate": "2026-10-04T04:40:00",
-      "showTime": "04:30:00",
-      "endTime": "04:40:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e72011bebfafa29806aa6c686b5bb360.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "News Stories",
-      "description": "Recreations of mysterious stories.",
-      "startDate": "2026-10-04T04:40:00",
-      "endDate": "2026-10-04T04:50:00",
-      "showTime": "04:40:00",
-      "endTime": "04:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "News Stories",
-      "description": "Recreations of mysterious stories.",
-      "startDate": "2026-10-04T04:50:00",
-      "endDate": "2026-10-04T04:55:00",
-      "showTime": "04:50:00",
-      "endTime": "04:55:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "News Stories",
-      "description": "Recreations of mysterious stories.",
-      "startDate": "2026-10-04T04:55:00",
-      "endDate": "2026-10-04T05:00:00",
-      "showTime": "04:55:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-04T05:00:00",
-      "endDate": "2026-10-04T06:00:00",
-      "showTime": "05:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Ground Reports Neel",
-      "description": "Ground Reports Neel",
-      "startDate": "2026-10-04T06:00:00",
-      "endDate": "2026-10-04T06:10:00",
-      "showTime": "06:00:00",
-      "endTime": "06:10:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/813c1e2cac518b1fad23fd2f402e0c97.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Vichar Samachar Patra Se",
-      "description": "Vichar Samachar Patra Se",
-      "startDate": "2026-10-04T06:10:00",
-      "endDate": "2026-10-04T06:15:00",
-      "showTime": "06:10:00",
-      "endTime": "06:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T06:15:00",
-      "endDate": "2026-10-04T06:20:00",
-      "showTime": "06:15:00",
-      "endTime": "06:20:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T06:20:00",
-      "endDate": "2026-10-04T06:25:00",
-      "showTime": "06:20:00",
-      "endTime": "06:25:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T06:25:00",
-      "endDate": "2026-10-04T06:30:00",
-      "showTime": "06:25:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T06:30:00",
-      "endDate": "2026-10-04T06:35:00",
-      "showTime": "06:30:00",
-      "endTime": "06:35:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T06:35:00",
-      "endDate": "2026-10-04T06:40:00",
-      "showTime": "06:35:00",
-      "endTime": "06:40:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T06:40:00",
-      "endDate": "2026-10-04T06:50:00",
-      "showTime": "06:40:00",
-      "endTime": "06:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T06:50:00",
-      "endDate": "2026-10-04T07:00:00",
-      "showTime": "06:50:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T07:00:00",
-      "endDate": "2026-10-04T07:10:00",
-      "showTime": "07:00:00",
-      "endTime": "07:10:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T07:10:00",
-      "endDate": "2026-10-04T07:15:00",
-      "showTime": "07:10:00",
-      "endTime": "07:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T07:15:00",
-      "endDate": "2026-10-04T07:20:00",
-      "showTime": "07:15:00",
-      "endTime": "07:20:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Top News",
-      "description": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
-      "startDate": "2026-10-04T07:20:00",
-      "endDate": "2026-10-04T07:30:00",
-      "showTime": "07:20:00",
-      "endTime": "07:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e72011bebfafa29806aa6c686b5bb360.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Ground Reports Neel",
-      "description": "Ground Reports Neel",
-      "startDate": "2026-10-04T07:30:00",
-      "endDate": "2026-10-04T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/813c1e2cac518b1fad23fd2f402e0c97.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Mandir",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-04T08:00:00",
-      "endDate": "2026-10-04T08:15:00",
-      "showTime": "08:00:00",
-      "endTime": "08:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d4358e9ecd03c22a2f220daf662053cb.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Rashifal",
-      "description": "An astrologer provides predictions of the future to the audience in accordance with the zodiac star signs that they were born under.",
-      "startDate": "2026-10-04T08:15:00",
-      "endDate": "2026-10-04T08:30:00",
-      "showTime": "08:15:00",
-      "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bdff0538d9b688b0670d39723dfe1575.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik",
-      "description": "Pradeshik",
-      "startDate": "2026-10-04T08:30:00",
-      "endDate": "2026-10-04T09:00:00",
-      "showTime": "08:30:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Din Bhar Ki Badi Khabar",
-      "description": "Din Bhar Ki Badi Khabar",
-      "startDate": "2026-10-04T09:00:00",
-      "endDate": "2026-10-04T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik",
-      "description": "Pradeshik",
-      "startDate": "2026-10-04T09:30:00",
-      "endDate": "2026-10-04T09:50:00",
-      "showTime": "09:30:00",
-      "endTime": "09:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik",
-      "description": "Pradeshik",
-      "startDate": "2026-10-04T09:50:00",
-      "endDate": "2026-10-04T09:55:00",
-      "showTime": "09:50:00",
-      "endTime": "09:55:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "News Stories",
-      "description": "Recreations of mysterious stories.",
-      "startDate": "2026-10-04T09:55:00",
-      "endDate": "2026-10-04T10:00:00",
-      "showTime": "09:55:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Din Bhar Ki Badi Khabar",
-      "description": "Din Bhar Ki Badi Khabar",
-      "startDate": "2026-10-04T10:00:00",
-      "endDate": "2026-10-04T10:30:00",
-      "showTime": "10:00:00",
-      "endTime": "10:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T10:30:00",
-      "endDate": "2026-10-04T10:35:00",
-      "showTime": "10:30:00",
-      "endTime": "10:35:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T10:35:00",
-      "endDate": "2026-10-04T10:40:00",
-      "showTime": "10:35:00",
-      "endTime": "10:40:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T10:40:00",
-      "endDate": "2026-10-04T10:45:00",
-      "showTime": "10:40:00",
-      "endTime": "10:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T10:45:00",
-      "endDate": "2026-10-04T10:50:00",
-      "showTime": "10:45:00",
-      "endTime": "10:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T10:50:00",
-      "endDate": "2026-10-04T10:55:00",
-      "showTime": "10:50:00",
-      "endTime": "10:55:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Vichar Samachar Patra Se",
-      "description": "Vichar Samachar Patra Se",
-      "startDate": "2026-10-04T10:55:00",
-      "endDate": "2026-10-04T11:00:00",
-      "showTime": "10:55:00",
-      "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Din Bhar Ki Badi Khabar",
-      "description": "Din Bhar Ki Badi Khabar",
-      "startDate": "2026-10-04T11:00:00",
-      "endDate": "2026-10-04T11:30:00",
-      "showTime": "11:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T11:30:00",
-      "endDate": "2026-10-04T11:35:00",
-      "showTime": "11:30:00",
-      "endTime": "11:35:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T11:35:00",
-      "endDate": "2026-10-04T11:40:00",
-      "showTime": "11:35:00",
-      "endTime": "11:40:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T11:40:00",
-      "endDate": "2026-10-04T11:45:00",
-      "showTime": "11:40:00",
-      "endTime": "11:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Vishleshan With Aakansha Pandey",
-      "description": "Vishleshan With Aakansha Pandey",
-      "startDate": "2026-10-04T11:45:00",
-      "endDate": "2026-10-04T11:55:00",
-      "showTime": "11:45:00",
-      "endTime": "11:55:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d33d5cfe79908128e7f44eded42afc0.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "News Stories",
-      "description": "Recreations of mysterious stories.",
-      "startDate": "2026-10-04T11:55:00",
-      "endDate": "2026-10-04T12:00:00",
-      "showTime": "11:55:00",
-      "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Din Bhar Ki Badi Khabar",
-      "description": "Din Bhar Ki Badi Khabar",
-      "startDate": "2026-10-04T12:00:00",
-      "endDate": "2026-10-04T12:30:00",
-      "showTime": "12:00:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Vichar Samachar Patra Se",
-      "description": "Vichar Samachar Patra Se",
-      "startDate": "2026-10-04T12:30:00",
-      "endDate": "2026-10-04T12:40:00",
-      "showTime": "12:30:00",
-      "endTime": "12:40:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T12:40:00",
-      "endDate": "2026-10-04T12:45:00",
-      "showTime": "12:40:00",
-      "endTime": "12:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik Samachar",
-      "description": "Pradeshik Samachar",
-      "startDate": "2026-10-04T12:45:00",
-      "endDate": "2026-10-04T13:00:00",
-      "showTime": "12:45:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-04T13:00:00",
-      "endDate": "2026-10-04T14:00:00",
-      "showTime": "13:00:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Din Bhar Ki Badi Khabar",
-      "description": "Din Bhar Ki Badi Khabar",
-      "startDate": "2026-10-04T14:00:00",
-      "endDate": "2026-10-04T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Interview",
-      "description": "The host strikes up a conversation with many individuals and eminent guests and discusses various topics and issues with them.",
-      "startDate": "2026-10-04T14:30:00",
-      "endDate": "2026-10-04T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f05e15d2df182f518baaaa04b57ad1c.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-04T15:00:00",
-      "endDate": "2026-10-04T16:00:00",
-      "showTime": "15:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Din Bhar Ki Badi Khabar",
-      "description": "Din Bhar Ki Badi Khabar",
-      "startDate": "2026-10-04T16:00:00",
-      "endDate": "2026-10-04T16:20:00",
-      "showTime": "16:00:00",
-      "endTime": "16:20:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "International",
-      "description": "International",
-      "startDate": "2026-10-04T16:20:00",
-      "endDate": "2026-10-04T16:30:00",
-      "showTime": "16:20:00",
-      "endTime": "16:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c13ccce4b8da9d09888309584bd7421.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Business",
-      "description": "Business",
-      "startDate": "2026-10-04T16:30:00",
-      "endDate": "2026-10-04T16:35:00",
-      "showTime": "16:30:00",
-      "endTime": "16:35:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/42b02f02b57d307384ff6e26443207a3.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Sports",
-      "description": "Sports",
-      "startDate": "2026-10-04T16:35:00",
-      "endDate": "2026-10-04T16:40:00",
-      "showTime": "16:35:00",
-      "endTime": "16:40:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Manthan With Ayushi Thakur",
-      "description": "Manthan With Ayushi Thakur",
-      "startDate": "2026-10-04T16:40:00",
-      "endDate": "2026-10-04T17:00:00",
-      "showTime": "16:40:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-04T17:00:00",
-      "endDate": "2026-10-04T18:00:00",
-      "showTime": "17:00:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Din Bhar Ki Badi Khabar",
-      "description": "Din Bhar Ki Badi Khabar",
-      "startDate": "2026-10-04T18:00:00",
-      "endDate": "2026-10-04T18:30:00",
-      "showTime": "18:00:00",
-      "endTime": "18:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik",
-      "description": "Pradeshik",
-      "startDate": "2026-10-04T18:30:00",
-      "endDate": "2026-10-04T18:45:00",
-      "showTime": "18:30:00",
-      "endTime": "18:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Vichar Samachar Patra Se",
-      "description": "Vichar Samachar Patra Se",
-      "startDate": "2026-10-04T18:45:00",
-      "endDate": "2026-10-04T18:50:00",
-      "showTime": "18:45:00",
-      "endTime": "18:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Ground Reports Neel",
-      "description": "Ground Reports Neel",
-      "startDate": "2026-10-04T18:50:00",
-      "endDate": "2026-10-04T19:00:00",
-      "showTime": "18:50:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/813c1e2cac518b1fad23fd2f402e0c97.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-04T19:00:00",
-      "endDate": "2026-10-04T20:00:00",
-      "showTime": "19:00:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Din Bhar Ki Badi Khabar",
-      "description": "Din Bhar Ki Badi Khabar",
-      "startDate": "2026-10-04T20:00:00",
-      "endDate": "2026-10-04T20:30:00",
-      "showTime": "20:00:00",
-      "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik",
-      "description": "Pradeshik",
-      "startDate": "2026-10-04T20:30:00",
-      "endDate": "2026-10-04T20:45:00",
-      "showTime": "20:30:00",
-      "endTime": "20:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Pradeshik",
-      "description": "Pradeshik",
-      "startDate": "2026-10-04T20:45:00",
-      "endDate": "2026-10-04T20:50:00",
-      "showTime": "20:45:00",
-      "endTime": "20:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Vichar Samachar Patra Se",
-      "description": "Vichar Samachar Patra Se",
-      "startDate": "2026-10-04T20:50:00",
-      "endDate": "2026-10-04T21:00:00",
-      "showTime": "20:50:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-04T21:00:00",
-      "endDate": "2026-10-04T22:00:00",
-      "showTime": "21:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Night Bulletin",
-      "description": "Night Bulletin",
-      "startDate": "2026-10-04T22:00:00",
-      "endDate": "2026-10-04T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/206bd639dec363d410e677ad36f7ea9e.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Charcha Me Aaj",
-      "description": "Charcha Me Aaj",
-      "startDate": "2026-10-04T22:30:00",
-      "endDate": "2026-10-04T23:30:00",
-      "showTime": "22:30:00",
-      "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Ground Reports Neel",
-      "description": "Ground Reports Neel",
-      "startDate": "2026-10-04T23:30:00",
-      "endDate": "2026-10-04T23:59:59",
-      "showTime": "23:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/813c1e2cac518b1fad23fd2f402e0c97.jpg"
-    },
-    {
       "serverDate": "2026-10-05",
       "showName": "Pradeshik Samachar",
       "description": "Pradeshik Samachar",
@@ -2601,7 +71,7 @@
       "showTime": "00:50:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -2623,7 +93,7 @@
       "showTime": "01:30:00",
       "endTime": "01:35:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -2634,7 +104,7 @@
       "showTime": "01:35:00",
       "endTime": "01:40:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -2645,7 +115,7 @@
       "showTime": "01:40:00",
       "endTime": "01:45:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -2667,7 +137,7 @@
       "showTime": "01:50:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -2700,7 +170,7 @@
       "showTime": "03:00:00",
       "endTime": "03:10:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -2788,7 +258,7 @@
       "showTime": "04:40:00",
       "endTime": "04:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -2799,7 +269,7 @@
       "showTime": "04:50:00",
       "endTime": "04:55:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -2810,7 +280,7 @@
       "showTime": "04:55:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -3052,7 +522,7 @@
       "showTime": "09:55:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -3195,7 +665,7 @@
       "showTime": "11:55:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-05",
@@ -3558,7 +1028,7 @@
       "showTime": "00:50:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -3580,7 +1050,7 @@
       "showTime": "01:30:00",
       "endTime": "01:35:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -3591,7 +1061,7 @@
       "showTime": "01:35:00",
       "endTime": "01:40:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -3602,7 +1072,7 @@
       "showTime": "01:40:00",
       "endTime": "01:45:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -3624,7 +1094,7 @@
       "showTime": "01:50:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -3657,7 +1127,7 @@
       "showTime": "03:00:00",
       "endTime": "03:10:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -3745,7 +1215,7 @@
       "showTime": "04:40:00",
       "endTime": "04:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -3756,7 +1226,7 @@
       "showTime": "04:50:00",
       "endTime": "04:55:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -3767,7 +1237,7 @@
       "showTime": "04:55:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -4009,7 +1479,7 @@
       "showTime": "09:55:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -4152,7 +1622,7 @@
       "showTime": "11:55:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -4515,7 +1985,7 @@
       "showTime": "00:50:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -4537,7 +2007,7 @@
       "showTime": "01:30:00",
       "endTime": "01:35:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -4548,7 +2018,7 @@
       "showTime": "01:35:00",
       "endTime": "01:40:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -4559,7 +2029,7 @@
       "showTime": "01:40:00",
       "endTime": "01:45:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -4581,7 +2051,7 @@
       "showTime": "01:50:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -4614,7 +2084,7 @@
       "showTime": "03:00:00",
       "endTime": "03:10:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -4702,7 +2172,7 @@
       "showTime": "04:40:00",
       "endTime": "04:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -4713,7 +2183,7 @@
       "showTime": "04:50:00",
       "endTime": "04:55:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -4724,7 +2194,7 @@
       "showTime": "04:55:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -4966,7 +2436,7 @@
       "showTime": "09:55:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -5109,7 +2579,7 @@
       "showTime": "11:55:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -5472,7 +2942,7 @@
       "showTime": "00:50:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -5494,7 +2964,7 @@
       "showTime": "01:30:00",
       "endTime": "01:35:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -5505,7 +2975,7 @@
       "showTime": "01:35:00",
       "endTime": "01:40:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -5516,7 +2986,7 @@
       "showTime": "01:40:00",
       "endTime": "01:45:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -5538,7 +3008,7 @@
       "showTime": "01:50:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -5571,7 +3041,7 @@
       "showTime": "03:00:00",
       "endTime": "03:10:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -5659,7 +3129,7 @@
       "showTime": "04:40:00",
       "endTime": "04:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -5670,7 +3140,7 @@
       "showTime": "04:50:00",
       "endTime": "04:55:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -5681,7 +3151,7 @@
       "showTime": "04:55:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -5923,7 +3393,7 @@
       "showTime": "09:55:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -6066,7 +3536,7 @@
       "showTime": "11:55:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -6429,7 +3899,7 @@
       "showTime": "00:50:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -6451,7 +3921,7 @@
       "showTime": "01:30:00",
       "endTime": "01:35:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -6462,7 +3932,7 @@
       "showTime": "01:35:00",
       "endTime": "01:40:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -6473,7 +3943,7 @@
       "showTime": "01:40:00",
       "endTime": "01:45:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -6495,7 +3965,7 @@
       "showTime": "01:50:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -6528,7 +3998,7 @@
       "showTime": "03:00:00",
       "endTime": "03:10:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -6616,7 +4086,7 @@
       "showTime": "04:40:00",
       "endTime": "04:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -6627,7 +4097,7 @@
       "showTime": "04:50:00",
       "endTime": "04:55:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -6638,7 +4108,7 @@
       "showTime": "04:55:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -6880,7 +4350,7 @@
       "showTime": "09:55:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -7023,7 +4493,7 @@
       "showTime": "11:55:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa0c84fcabcf0346ec92794855cc6247.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -7317,6 +4787,963 @@
       "description": "Ground Reports Neel",
       "startDate": "2026-10-09T23:30:00",
       "endDate": "2026-10-09T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/813c1e2cac518b1fad23fd2f402e0c97.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T00:00:00",
+      "endDate": "2026-10-10T00:05:00",
+      "showTime": "00:00:00",
+      "endTime": "00:05:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T00:05:00",
+      "endDate": "2026-10-10T00:10:00",
+      "showTime": "00:05:00",
+      "endTime": "00:10:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T00:10:00",
+      "endDate": "2026-10-10T00:15:00",
+      "showTime": "00:10:00",
+      "endTime": "00:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Charcha Me Aaj",
+      "description": "Charcha Me Aaj",
+      "startDate": "2026-10-10T00:15:00",
+      "endDate": "2026-10-10T00:20:00",
+      "showTime": "00:15:00",
+      "endTime": "00:20:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Ground Reports Neel",
+      "description": "Ground Reports Neel",
+      "startDate": "2026-10-10T00:20:00",
+      "endDate": "2026-10-10T00:50:00",
+      "showTime": "00:20:00",
+      "endTime": "00:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/813c1e2cac518b1fad23fd2f402e0c97.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "News Stories",
+      "description": "Recreations of mysterious stories.",
+      "startDate": "2026-10-10T00:50:00",
+      "endDate": "2026-10-10T01:00:00",
+      "showTime": "00:50:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Interview",
+      "description": "The host strikes up a conversation with many individuals and eminent guests and discusses various topics and issues with them.",
+      "startDate": "2026-10-10T01:00:00",
+      "endDate": "2026-10-10T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f05e15d2df182f518baaaa04b57ad1c.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "News Stories",
+      "description": "Recreations of mysterious stories.",
+      "startDate": "2026-10-10T01:30:00",
+      "endDate": "2026-10-10T01:35:00",
+      "showTime": "01:30:00",
+      "endTime": "01:35:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "News Stories",
+      "description": "Recreations of mysterious stories.",
+      "startDate": "2026-10-10T01:35:00",
+      "endDate": "2026-10-10T01:40:00",
+      "showTime": "01:35:00",
+      "endTime": "01:40:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "News Stories",
+      "description": "Recreations of mysterious stories.",
+      "startDate": "2026-10-10T01:40:00",
+      "endDate": "2026-10-10T01:45:00",
+      "showTime": "01:40:00",
+      "endTime": "01:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Charcha Me Aaj",
+      "description": "Charcha Me Aaj",
+      "startDate": "2026-10-10T01:45:00",
+      "endDate": "2026-10-10T01:50:00",
+      "showTime": "01:45:00",
+      "endTime": "01:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "News Stories",
+      "description": "Recreations of mysterious stories.",
+      "startDate": "2026-10-10T01:50:00",
+      "endDate": "2026-10-10T02:00:00",
+      "showTime": "01:50:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Charcha Me Aaj",
+      "description": "Charcha Me Aaj",
+      "startDate": "2026-10-10T02:00:00",
+      "endDate": "2026-10-10T02:40:00",
+      "showTime": "02:00:00",
+      "endTime": "02:40:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Ground Reports Neel",
+      "description": "Ground Reports Neel",
+      "startDate": "2026-10-10T02:40:00",
+      "endDate": "2026-10-10T03:00:00",
+      "showTime": "02:40:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/813c1e2cac518b1fad23fd2f402e0c97.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "News Stories",
+      "description": "Recreations of mysterious stories.",
+      "startDate": "2026-10-10T03:00:00",
+      "endDate": "2026-10-10T03:10:00",
+      "showTime": "03:00:00",
+      "endTime": "03:10:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T03:10:00",
+      "endDate": "2026-10-10T03:15:00",
+      "showTime": "03:10:00",
+      "endTime": "03:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T03:15:00",
+      "endDate": "2026-10-10T03:20:00",
+      "showTime": "03:15:00",
+      "endTime": "03:20:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T03:20:00",
+      "endDate": "2026-10-10T03:25:00",
+      "showTime": "03:20:00",
+      "endTime": "03:25:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T03:25:00",
+      "endDate": "2026-10-10T03:55:00",
+      "showTime": "03:25:00",
+      "endTime": "03:55:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T03:55:00",
+      "endDate": "2026-10-10T04:25:00",
+      "showTime": "03:55:00",
+      "endTime": "04:25:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T04:25:00",
+      "endDate": "2026-10-10T04:30:00",
+      "showTime": "04:25:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Top News",
+      "description": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+      "startDate": "2026-10-10T04:30:00",
+      "endDate": "2026-10-10T04:40:00",
+      "showTime": "04:30:00",
+      "endTime": "04:40:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e72011bebfafa29806aa6c686b5bb360.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "News Stories",
+      "description": "Recreations of mysterious stories.",
+      "startDate": "2026-10-10T04:40:00",
+      "endDate": "2026-10-10T04:50:00",
+      "showTime": "04:40:00",
+      "endTime": "04:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "News Stories",
+      "description": "Recreations of mysterious stories.",
+      "startDate": "2026-10-10T04:50:00",
+      "endDate": "2026-10-10T04:55:00",
+      "showTime": "04:50:00",
+      "endTime": "04:55:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "News Stories",
+      "description": "Recreations of mysterious stories.",
+      "startDate": "2026-10-10T04:55:00",
+      "endDate": "2026-10-10T05:00:00",
+      "showTime": "04:55:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Charcha Me Aaj",
+      "description": "Charcha Me Aaj",
+      "startDate": "2026-10-10T05:00:00",
+      "endDate": "2026-10-10T06:00:00",
+      "showTime": "05:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Ground Reports Neel",
+      "description": "Ground Reports Neel",
+      "startDate": "2026-10-10T06:00:00",
+      "endDate": "2026-10-10T06:10:00",
+      "showTime": "06:00:00",
+      "endTime": "06:10:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/813c1e2cac518b1fad23fd2f402e0c97.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Vichar Samachar Patra Se",
+      "description": "Vichar Samachar Patra Se",
+      "startDate": "2026-10-10T06:10:00",
+      "endDate": "2026-10-10T06:15:00",
+      "showTime": "06:10:00",
+      "endTime": "06:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T06:15:00",
+      "endDate": "2026-10-10T06:20:00",
+      "showTime": "06:15:00",
+      "endTime": "06:20:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T06:20:00",
+      "endDate": "2026-10-10T06:25:00",
+      "showTime": "06:20:00",
+      "endTime": "06:25:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T06:25:00",
+      "endDate": "2026-10-10T06:30:00",
+      "showTime": "06:25:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T06:30:00",
+      "endDate": "2026-10-10T06:35:00",
+      "showTime": "06:30:00",
+      "endTime": "06:35:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T06:35:00",
+      "endDate": "2026-10-10T06:40:00",
+      "showTime": "06:35:00",
+      "endTime": "06:40:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T06:40:00",
+      "endDate": "2026-10-10T06:50:00",
+      "showTime": "06:40:00",
+      "endTime": "06:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T06:50:00",
+      "endDate": "2026-10-10T07:00:00",
+      "showTime": "06:50:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T07:00:00",
+      "endDate": "2026-10-10T07:10:00",
+      "showTime": "07:00:00",
+      "endTime": "07:10:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T07:10:00",
+      "endDate": "2026-10-10T07:15:00",
+      "showTime": "07:10:00",
+      "endTime": "07:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T07:15:00",
+      "endDate": "2026-10-10T07:20:00",
+      "showTime": "07:15:00",
+      "endTime": "07:20:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Top News",
+      "description": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+      "startDate": "2026-10-10T07:20:00",
+      "endDate": "2026-10-10T07:30:00",
+      "showTime": "07:20:00",
+      "endTime": "07:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e72011bebfafa29806aa6c686b5bb360.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Ground Reports Neel",
+      "description": "Ground Reports Neel",
+      "startDate": "2026-10-10T07:30:00",
+      "endDate": "2026-10-10T08:00:00",
+      "showTime": "07:30:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/813c1e2cac518b1fad23fd2f402e0c97.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Mandir",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-10T08:00:00",
+      "endDate": "2026-10-10T08:15:00",
+      "showTime": "08:00:00",
+      "endTime": "08:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d4358e9ecd03c22a2f220daf662053cb.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Rashifal",
+      "description": "An astrologer provides predictions of the future to the audience in accordance with the zodiac star signs that they were born under.",
+      "startDate": "2026-10-10T08:15:00",
+      "endDate": "2026-10-10T08:30:00",
+      "showTime": "08:15:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bdff0538d9b688b0670d39723dfe1575.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik",
+      "description": "Pradeshik",
+      "startDate": "2026-10-10T08:30:00",
+      "endDate": "2026-10-10T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Din Bhar Ki Badi Khabar",
+      "description": "Din Bhar Ki Badi Khabar",
+      "startDate": "2026-10-10T09:00:00",
+      "endDate": "2026-10-10T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik",
+      "description": "Pradeshik",
+      "startDate": "2026-10-10T09:30:00",
+      "endDate": "2026-10-10T09:50:00",
+      "showTime": "09:30:00",
+      "endTime": "09:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik",
+      "description": "Pradeshik",
+      "startDate": "2026-10-10T09:50:00",
+      "endDate": "2026-10-10T09:55:00",
+      "showTime": "09:50:00",
+      "endTime": "09:55:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "News Stories",
+      "description": "Recreations of mysterious stories.",
+      "startDate": "2026-10-10T09:55:00",
+      "endDate": "2026-10-10T10:00:00",
+      "showTime": "09:55:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Din Bhar Ki Badi Khabar",
+      "description": "Din Bhar Ki Badi Khabar",
+      "startDate": "2026-10-10T10:00:00",
+      "endDate": "2026-10-10T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T10:30:00",
+      "endDate": "2026-10-10T10:35:00",
+      "showTime": "10:30:00",
+      "endTime": "10:35:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T10:35:00",
+      "endDate": "2026-10-10T10:40:00",
+      "showTime": "10:35:00",
+      "endTime": "10:40:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T10:40:00",
+      "endDate": "2026-10-10T10:45:00",
+      "showTime": "10:40:00",
+      "endTime": "10:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T10:45:00",
+      "endDate": "2026-10-10T10:50:00",
+      "showTime": "10:45:00",
+      "endTime": "10:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T10:50:00",
+      "endDate": "2026-10-10T10:55:00",
+      "showTime": "10:50:00",
+      "endTime": "10:55:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Vichar Samachar Patra Se",
+      "description": "Vichar Samachar Patra Se",
+      "startDate": "2026-10-10T10:55:00",
+      "endDate": "2026-10-10T11:00:00",
+      "showTime": "10:55:00",
+      "endTime": "11:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Din Bhar Ki Badi Khabar",
+      "description": "Din Bhar Ki Badi Khabar",
+      "startDate": "2026-10-10T11:00:00",
+      "endDate": "2026-10-10T11:30:00",
+      "showTime": "11:00:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T11:30:00",
+      "endDate": "2026-10-10T11:35:00",
+      "showTime": "11:30:00",
+      "endTime": "11:35:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T11:35:00",
+      "endDate": "2026-10-10T11:40:00",
+      "showTime": "11:35:00",
+      "endTime": "11:40:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T11:40:00",
+      "endDate": "2026-10-10T11:45:00",
+      "showTime": "11:40:00",
+      "endTime": "11:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Vishleshan With Aakansha Pandey",
+      "description": "Vishleshan With Aakansha Pandey",
+      "startDate": "2026-10-10T11:45:00",
+      "endDate": "2026-10-10T11:55:00",
+      "showTime": "11:45:00",
+      "endTime": "11:55:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d33d5cfe79908128e7f44eded42afc0.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "News Stories",
+      "description": "Recreations of mysterious stories.",
+      "startDate": "2026-10-10T11:55:00",
+      "endDate": "2026-10-10T12:00:00",
+      "showTime": "11:55:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8a4e77444157d304a90c067f7b57c03.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Din Bhar Ki Badi Khabar",
+      "description": "Din Bhar Ki Badi Khabar",
+      "startDate": "2026-10-10T12:00:00",
+      "endDate": "2026-10-10T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Vichar Samachar Patra Se",
+      "description": "Vichar Samachar Patra Se",
+      "startDate": "2026-10-10T12:30:00",
+      "endDate": "2026-10-10T12:40:00",
+      "showTime": "12:30:00",
+      "endTime": "12:40:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T12:40:00",
+      "endDate": "2026-10-10T12:45:00",
+      "showTime": "12:40:00",
+      "endTime": "12:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik Samachar",
+      "description": "Pradeshik Samachar",
+      "startDate": "2026-10-10T12:45:00",
+      "endDate": "2026-10-10T13:00:00",
+      "showTime": "12:45:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7949680d35af073c60c8d24d9c16742e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Charcha Me Aaj",
+      "description": "Charcha Me Aaj",
+      "startDate": "2026-10-10T13:00:00",
+      "endDate": "2026-10-10T14:00:00",
+      "showTime": "13:00:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Din Bhar Ki Badi Khabar",
+      "description": "Din Bhar Ki Badi Khabar",
+      "startDate": "2026-10-10T14:00:00",
+      "endDate": "2026-10-10T14:30:00",
+      "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Interview",
+      "description": "The host strikes up a conversation with many individuals and eminent guests and discusses various topics and issues with them.",
+      "startDate": "2026-10-10T14:30:00",
+      "endDate": "2026-10-10T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f05e15d2df182f518baaaa04b57ad1c.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Charcha Me Aaj",
+      "description": "Charcha Me Aaj",
+      "startDate": "2026-10-10T15:00:00",
+      "endDate": "2026-10-10T16:00:00",
+      "showTime": "15:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Din Bhar Ki Badi Khabar",
+      "description": "Din Bhar Ki Badi Khabar",
+      "startDate": "2026-10-10T16:00:00",
+      "endDate": "2026-10-10T16:20:00",
+      "showTime": "16:00:00",
+      "endTime": "16:20:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "International",
+      "description": "International",
+      "startDate": "2026-10-10T16:20:00",
+      "endDate": "2026-10-10T16:30:00",
+      "showTime": "16:20:00",
+      "endTime": "16:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c13ccce4b8da9d09888309584bd7421.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Business",
+      "description": "Business",
+      "startDate": "2026-10-10T16:30:00",
+      "endDate": "2026-10-10T16:35:00",
+      "showTime": "16:30:00",
+      "endTime": "16:35:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/42b02f02b57d307384ff6e26443207a3.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Sports",
+      "description": "Sports",
+      "startDate": "2026-10-10T16:35:00",
+      "endDate": "2026-10-10T16:40:00",
+      "showTime": "16:35:00",
+      "endTime": "16:40:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Manthan With Ayushi Thakur",
+      "description": "Manthan With Ayushi Thakur",
+      "startDate": "2026-10-10T16:40:00",
+      "endDate": "2026-10-10T17:00:00",
+      "showTime": "16:40:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Charcha Me Aaj",
+      "description": "Charcha Me Aaj",
+      "startDate": "2026-10-10T17:00:00",
+      "endDate": "2026-10-10T18:00:00",
+      "showTime": "17:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Din Bhar Ki Badi Khabar",
+      "description": "Din Bhar Ki Badi Khabar",
+      "startDate": "2026-10-10T18:00:00",
+      "endDate": "2026-10-10T18:30:00",
+      "showTime": "18:00:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik",
+      "description": "Pradeshik",
+      "startDate": "2026-10-10T18:30:00",
+      "endDate": "2026-10-10T18:45:00",
+      "showTime": "18:30:00",
+      "endTime": "18:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Vichar Samachar Patra Se",
+      "description": "Vichar Samachar Patra Se",
+      "startDate": "2026-10-10T18:45:00",
+      "endDate": "2026-10-10T18:50:00",
+      "showTime": "18:45:00",
+      "endTime": "18:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Ground Reports Neel",
+      "description": "Ground Reports Neel",
+      "startDate": "2026-10-10T18:50:00",
+      "endDate": "2026-10-10T19:00:00",
+      "showTime": "18:50:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/813c1e2cac518b1fad23fd2f402e0c97.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Charcha Me Aaj",
+      "description": "Charcha Me Aaj",
+      "startDate": "2026-10-10T19:00:00",
+      "endDate": "2026-10-10T20:00:00",
+      "showTime": "19:00:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Din Bhar Ki Badi Khabar",
+      "description": "Din Bhar Ki Badi Khabar",
+      "startDate": "2026-10-10T20:00:00",
+      "endDate": "2026-10-10T20:30:00",
+      "showTime": "20:00:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/219a1cf53727b62da9607a665ddd21cd.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik",
+      "description": "Pradeshik",
+      "startDate": "2026-10-10T20:30:00",
+      "endDate": "2026-10-10T20:45:00",
+      "showTime": "20:30:00",
+      "endTime": "20:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Pradeshik",
+      "description": "Pradeshik",
+      "startDate": "2026-10-10T20:45:00",
+      "endDate": "2026-10-10T20:50:00",
+      "showTime": "20:45:00",
+      "endTime": "20:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Vichar Samachar Patra Se",
+      "description": "Vichar Samachar Patra Se",
+      "startDate": "2026-10-10T20:50:00",
+      "endDate": "2026-10-10T21:00:00",
+      "showTime": "20:50:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Charcha Me Aaj",
+      "description": "Charcha Me Aaj",
+      "startDate": "2026-10-10T21:00:00",
+      "endDate": "2026-10-10T22:00:00",
+      "showTime": "21:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Night Bulletin",
+      "description": "Night Bulletin",
+      "startDate": "2026-10-10T22:00:00",
+      "endDate": "2026-10-10T22:30:00",
+      "showTime": "22:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/206bd639dec363d410e677ad36f7ea9e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Charcha Me Aaj",
+      "description": "Charcha Me Aaj",
+      "startDate": "2026-10-10T22:30:00",
+      "endDate": "2026-10-10T23:30:00",
+      "showTime": "22:30:00",
+      "endTime": "23:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca4d87a7c00e97a52eb9888b1c52d7dd.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Ground Reports Neel",
+      "description": "Ground Reports Neel",
+      "startDate": "2026-10-10T23:30:00",
+      "endDate": "2026-10-10T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
