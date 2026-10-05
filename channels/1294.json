@@ -8,171 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Dsports.png",
   "programs": [
     {
-      "serverDate": "2026-10-03",
-      "showName": "Professional Fighters League Mena",
-      "description": "Talented MMA players from around the world compete in the Professional Fighters League with the hopes of emerging victorious.",
-      "startDate": "2026-10-03T00:00:00",
-      "endDate": "2026-10-03T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8ee93013ab25a52023652c38e3adf582.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "WTT Champions Table Tennis",
-      "description": "WTT Champions Table Tennis",
-      "startDate": "2026-10-03T00:30:00",
-      "endDate": "2026-10-03T01:45:00",
-      "showTime": "00:30:00",
-      "endTime": "01:45:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0eb10d39dbcaa12b0c12e08f334538e6.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Big Cricket League",
-      "description": "Coverage of the professional cricket league.",
-      "startDate": "2026-10-03T01:45:00",
-      "endDate": "2026-10-03T05:00:00",
-      "showTime": "01:45:00",
-      "endTime": "05:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3b094ee9b466b4fd07cb4948c9e8f9f3.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "AEW Collision",
-      "description": "Popular pro-wrestlers from the AEW Roster compete against each other in fights every Saturday to win the championship title.",
-      "startDate": "2026-10-03T05:00:00",
-      "endDate": "2026-10-03T07:00:00",
-      "showTime": "05:00:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff02d924ee4ae092009da120672aaa1f.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "MotoGP Racing",
-      "description": "Coverage of motorcycle racing action from FIM sanctioned road circuits.",
-      "startDate": "2026-10-03T07:00:00",
-      "endDate": "2026-10-03T07:15:00",
-      "showTime": "07:00:00",
-      "endTime": "07:15:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77f67778768b161ebeda78f279643819.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "MotoGP Racing",
-      "description": "Coverage of motorcycle racing action from FIM sanctioned road circuits.",
-      "startDate": "2026-10-03T07:15:00",
-      "endDate": "2026-10-03T08:15:00",
-      "showTime": "07:15:00",
-      "endTime": "08:15:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77f67778768b161ebeda78f279643819.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "IMPACT in 60",
-      "description": "The filmmaker highlights some of the most memorable matches, wrestlers, championships, factions and more from the 18-year history of Impact Wrestling.",
-      "startDate": "2026-10-03T08:15:00",
-      "endDate": "2026-10-03T09:15:00",
-      "showTime": "08:15:00",
-      "endTime": "09:15:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/60bc6739423c38778056a36fbb5d1915.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "MotoGP Racing",
-      "description": "Coverage of motorcycle racing action from FIM sanctioned road circuits.",
-      "startDate": "2026-10-03T09:15:00",
-      "endDate": "2026-10-03T12:15:00",
-      "showTime": "09:15:00",
-      "endTime": "12:15:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77f67778768b161ebeda78f279643819.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "Showtime with Rohit Sharma",
-      "description": "The host has a conversation with professional cricketer Rohit Sharma regarding his history and fondest memories with the franchise of Mumbai Indians.",
-      "startDate": "2026-10-03T12:15:00",
-      "endDate": "2026-10-03T12:30:00",
-      "showTime": "12:15:00",
-      "endTime": "12:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8d731e73153914fb448bcf98c6cb0973.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "AEW: All Out",
-      "description": "AEW: All Out",
-      "startDate": "2026-10-03T12:30:00",
-      "endDate": "2026-10-03T17:30:00",
-      "showTime": "12:30:00",
-      "endTime": "17:30:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5ee662e318d14ee98ebf8ee499eec576.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "One-Day International Cricket",
-      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
-      "startDate": "2026-10-03T17:30:00",
-      "endDate": "2026-10-03T18:00:00",
-      "showTime": "17:30:00",
-      "endTime": "18:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "FIA World Endurance Championship Highlights",
-      "description": "Highlights of professional drivers competing in the FIA World Endurance Championship to emerge victorious and win the title.",
-      "startDate": "2026-10-03T18:00:00",
-      "endDate": "2026-10-03T19:00:00",
-      "showTime": "18:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e95d31c8e1bda01dae2e6ef1f6d0f89c.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "WWE LFG",
-      "description": "An inside look at what it truly takes to make it in the WWE. Paul Levesque, Shawn Michaels and weekly regular coaches Undertaker, Booker T, Mickie James and Bubba Ray Dudley mentor a new generation.",
-      "startDate": "2026-10-03T19:00:00",
-      "endDate": "2026-10-03T20:00:00",
-      "showTime": "19:00:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/da882d6424885388c98cbe57c3164dac.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "British Superbike Championship Series",
-      "description": "Action from the British Superbike Championship.",
-      "startDate": "2026-10-03T20:00:00",
-      "endDate": "2026-10-03T22:00:00",
-      "showTime": "20:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2c02b1ea40ec76ffe17930b9778182d6.jpg"
-    },
-    {
-      "serverDate": "2026-10-03",
-      "showName": "TNA Impact",
-      "description": "Professional wrestlers compete against some of the renowned names in one of the most recognised wrestling competitions in order to win.",
-      "startDate": "2026-10-03T22:00:00",
-      "endDate": "2026-10-03T23:59:59",
-      "showTime": "22:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8b953fa1df7180f6617abb07c677a0f.jpg"
-    },
-    {
       "serverDate": "2026-10-04",
       "showName": "MLS Soccer",
       "description": "Professional football players compete against each other in the MLS Soccer.",
@@ -1194,6 +1029,160 @@
       "endTime": "23:59:59",
       "showCategory": "Sports event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c42ec8ca139cb99d6d70a363a8ee46f.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Showtime with Sanju Samson",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-11T00:00:00",
+      "endDate": "2026-10-11T00:15:00",
+      "showTime": "00:00:00",
+      "endTime": "00:15:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7fbd2e520af4ee9ec1eafd1ae8fe263.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Eredivisie Soccer",
+      "description": "Professional football teams compete against each other in order to emerge victorious in the Eredivisie, a premier football tournament in the Netherlands.",
+      "startDate": "2026-10-11T00:15:00",
+      "endDate": "2026-10-11T02:15:00",
+      "showTime": "00:15:00",
+      "endTime": "02:15:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c42ec8ca139cb99d6d70a363a8ee46f.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "PFL Africa: Morocco",
+      "description": "Abdoulaye Kane vs. Badr Medkouri, heavyweight; Karim Henniene vs. Raphael Uchegbu, bantamweight. From Mohammed V Sports Complex in Casablanca, Morocco.",
+      "startDate": "2026-10-11T02:15:00",
+      "endDate": "2026-10-11T04:30:00",
+      "showTime": "02:15:00",
+      "endTime": "04:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Playing With Purpose",
+      "description": "Playing With Purpose",
+      "startDate": "2026-10-11T04:30:00",
+      "endDate": "2026-10-11T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9a49e3eb0b5d86a09aaa77f85f3a8b72.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Marathon",
+      "description": "The host presents marathon coverage, showcasing runners' journeys and race highlights.",
+      "startDate": "2026-10-11T05:00:00",
+      "endDate": "2026-10-11T07:00:00",
+      "showTime": "05:00:00",
+      "endTime": "07:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fe32ec3c8f1c9c1ec3b0a2e6a3cf474b.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Superbike Highlights",
+      "description": "Coverage of Superbike events from around the world.",
+      "startDate": "2026-10-11T07:00:00",
+      "endDate": "2026-10-11T08:00:00",
+      "showTime": "07:00:00",
+      "endTime": "08:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a54855344945453b7f723da3df53209f.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "TNA Wrestling: Pehalwani Patakha",
+      "description": "Highlights from the IMPACT wrestling series of TNA Wrestling, where professional wrestlers compete against each other for victory, in Hindi.",
+      "startDate": "2026-10-11T08:00:00",
+      "endDate": "2026-10-11T09:00:00",
+      "showTime": "08:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b513751135ee37fd96b2f29eb568c57d.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "One-Day International Cricket",
+      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
+      "startDate": "2026-10-11T09:00:00",
+      "endDate": "2026-10-11T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "WTT Grand Smash",
+      "description": "Sixty-four professional table tennis players compete for a three million dollar prize.",
+      "startDate": "2026-10-11T09:30:00",
+      "endDate": "2026-10-11T10:30:00",
+      "showTime": "09:30:00",
+      "endTime": "10:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9258479986d8d5eb0d72a6dba9eacfa5.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "AEW Dynamite",
+      "description": "Professional wrestlers compete against each other in the AEW Dynamite event in order to emerge victorious and win the title.",
+      "startDate": "2026-10-11T10:30:00",
+      "endDate": "2026-10-11T12:30:00",
+      "showTime": "10:30:00",
+      "endTime": "12:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e253288f0a950e0a0a098e3abba28124.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Test Cricket",
+      "description": "Professional players from two cricket teams compete against each other to emerge victorious in a Test match to win the title.",
+      "startDate": "2026-10-11T12:30:00",
+      "endDate": "2026-10-11T20:30:00",
+      "showTime": "12:30:00",
+      "endTime": "20:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee23bb5a1e43b7c9ec23806e4492e003.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "WWE's Greatest Moments",
+      "description": "Showcasing iconic events that have shaped WWE history and thrilled fans for decades, from legendary heroes to shocking betrayals and epic battles.",
+      "startDate": "2026-10-11T20:30:00",
+      "endDate": "2026-10-11T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6800244e2e6ffd670af1383cba03865b.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "TNA Xplosion",
+      "description": "Professional wrestlers from all around the world compete against each other in the TNA Xplosion in order to win the coveted title.",
+      "startDate": "2026-10-11T21:00:00",
+      "endDate": "2026-10-11T22:00:00",
+      "showTime": "21:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fea02a52c36d9dff12909db79b26770d.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "AEW Collision",
+      "description": "Popular pro-wrestlers from the AEW Roster compete against each other in fights every Saturday to win the championship title.",
+      "startDate": "2026-10-11T22:00:00",
+      "endDate": "2026-10-11T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff02d924ee4ae092009da120672aaa1f.jpg"
     }
   ]
 }
