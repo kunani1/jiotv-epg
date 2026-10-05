@@ -2418,113 +2418,223 @@
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Udaya Music",
-      "description": "A complete collection of soulful hymns and songs from well-known Kannada movies performed by several renowned singers and musicians, played in a loop.",
+      "showName": "Myna",
+      "description": "Born into a life of hardship, Myna faces familial and financial struggles. Subsequently, she leaves her home to carve a better future, fighting against all odds for her family's sake.",
       "startDate": "2026-10-10T05:30:00",
       "endDate": "2026-10-10T06:00:00",
       "showTime": "05:30:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dd7248048c280aba6ad72e5d79005bd5.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-10T06:00:00",
-      "endDate": "2026-10-10T09:00:00",
-      "showTime": "06:00:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/061a3abe82d61507fa362ce9f192bc77.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-10T09:00:00",
-      "endDate": "2026-10-10T12:00:00",
-      "showTime": "09:00:00",
-      "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/061a3abe82d61507fa362ce9f192bc77.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Myna",
-      "description": "Born into a life of hardship, Myna faces familial and financial struggles. Subsequently, she leaves her home to carve a better future, fighting against all odds for her family's sake.",
-      "startDate": "2026-10-10T12:00:00",
-      "endDate": "2026-10-10T17:30:00",
-      "showTime": "12:00:00",
-      "endTime": "17:30:00",
-      "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f3826efc133552c2712e7baeab834fed.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Shrimad Ramayana",
-      "description": "Rama, the prince of Ayodhya, goes into exile to keep his father's promise. Later, he wages war against Ravana, who abducts Sita, his wife.",
+      "showName": "Bhakti Sudhe",
+      "description": "The host presents information on various temples that are considered to have a profound cultural and sentimental significance.",
+      "startDate": "2026-10-10T06:00:00",
+      "endDate": "2026-10-10T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccd64a12e493a3eba1088b5e13943e4d.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Teleshopping",
+      "description": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.",
+      "startDate": "2026-10-10T06:30:00",
+      "endDate": "2026-10-10T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e528aadf01426b050ac2fe8284b28288.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Bhakti Sudhe",
+      "description": "The host presents information on various temples that are considered to have a profound cultural and sentimental significance.",
+      "startDate": "2026-10-10T07:00:00",
+      "endDate": "2026-10-10T07:30:00",
+      "showTime": "07:00:00",
+      "endTime": "07:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccd64a12e493a3eba1088b5e13943e4d.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Nandini",
+      "description": "A man marries a shape-shifting serpent and they have two daughters. Later, the sisters embark on a revenge killing spree.",
+      "startDate": "2026-10-10T07:30:00",
+      "endDate": "2026-10-10T08:00:00",
+      "showTime": "07:30:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f7d27d3f2785b4048aca757a733d916.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Vitala Vitala Panduranga",
+      "description": "Despite the trials and tribulations she faces, Sakhu, a devout believer, finds her faith in Lord Vithala Panduranga propelling her towards divinity.",
+      "startDate": "2026-10-10T08:00:00",
+      "endDate": "2026-10-10T08:30:00",
+      "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/00738a46a11ba5d785f3d7c4d30e7c19.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Bhagyavantharu",
+      "description": "Janani aspires to have a career, but life takes a major turn when she marries into a traditional family. Now, she must navigate household duties while fighting to keep her ambitions alive.",
+      "startDate": "2026-10-10T08:30:00",
+      "endDate": "2026-10-10T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/222c0dfb6e4db5ad4ffceeb88ae0e1d6.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Kashi from Village",
+      "description": "Kashi moves heaven and earth to fulfil his mother's dying wish of educating his brother, Vishwa. But things take an unusual turn when Vishwa falls in love with a business tycoon's daughter.",
+      "startDate": "2026-10-10T09:00:00",
+      "endDate": "2026-10-10T12:00:00",
+      "showTime": "09:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/226938cc12a52dc2f02f2d5153743d8b.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Nandini",
+      "description": "A man marries a shape-shifting serpent and they have two daughters. Later, the sisters embark on a revenge killing spree.",
+      "startDate": "2026-10-10T12:00:00",
+      "endDate": "2026-10-10T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f7d27d3f2785b4048aca757a733d916.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Mahalakshmi Maduve",
+      "description": "Mahalakshmi marries Hari under a specific condition to support her domestic family. However, hidden truths and unexpected challenges later threaten their initial happiness.",
+      "startDate": "2026-10-10T12:30:00",
+      "endDate": "2026-10-10T13:00:00",
+      "showTime": "12:30:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8e65ced9c6a95535714b7c9fc780bd7e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Aduge Mane",
+      "description": "Culinary professionals and celebrity guests showcase their chef-inspired dishes, medicinal recipes and traditional village delicacies.",
+      "startDate": "2026-10-10T13:00:00",
+      "endDate": "2026-10-10T13:30:00",
+      "showTime": "13:00:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5c674bb86ad0357ada1aa7b53d0d3f90.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Vitala Vitala Panduranga",
+      "description": "Despite the trials and tribulations she faces, Sakhu, a devout believer, finds her faith in Lord Vithala Panduranga propelling her towards divinity.",
+      "startDate": "2026-10-10T13:30:00",
+      "endDate": "2026-10-10T14:00:00",
+      "showTime": "13:30:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/00738a46a11ba5d785f3d7c4d30e7c19.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Mugguti Malli",
+      "description": "A woman with unparalleled culinary expertise works in a large household and crosses paths with a man who falls in love with her at first sight.",
+      "startDate": "2026-10-10T14:00:00",
+      "endDate": "2026-10-10T14:30:00",
+      "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/80a750859199e3e03f306b89a572903c.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Annayya",
+      "description": "Annayya, the young son of a wealthy landlord, has to face numerous challenges when his father decides to get married to Nagamani after his mother's death.",
+      "startDate": "2026-10-10T14:30:00",
+      "endDate": "2026-10-10T17:30:00",
+      "showTime": "14:30:00",
+      "endTime": "17:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/46ce7bddbdd6afe48e11dfb7e06dac0a.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Parijatha",
+      "description": "Parijatha values family and empathy, while Sarojadevi prioritises social status. Subsequently, their contrasting beliefs lead to a dynamic where Parijatha faces trials to defend her principles.",
       "startDate": "2026-10-10T17:30:00",
       "endDate": "2026-10-10T18:00:00",
       "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c49296286a3c6235b28ab4015b8a8e11.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df503a8407db8744fd78ba0c1b689a94.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Radhika",
-      "description": "Radhika, a nurse, is her family's sole breadwinner after being abandoned by her father and deals with her alcoholic brother. She spends her days taking care of people around her.",
+      "showName": "Ratha Sapthami",
+      "description": "As Sapthami's selflessness breeds complications, Sreemanth's self-centeredness erodes family bonds. However, soon fate plays a hand, intertwining their opposing lives.",
       "startDate": "2026-10-10T18:00:00",
       "endDate": "2026-10-10T18:30:00",
       "showTime": "18:00:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2343cec0f8260a259885d724c8a27785.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/660c7da5a6707df52269d548d4d84411.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Nathicharami",
-      "description": "Yamuna's quiet life as a single parent is disrupted when her estranged husband and daughter reappear, forcing her to confront the past.",
+      "showName": "Mahalakshmi Maduve",
+      "description": "Mahalakshmi marries Hari under a specific condition to support her domestic family. However, hidden truths and unexpected challenges later threaten their initial happiness.",
       "startDate": "2026-10-10T18:30:00",
       "endDate": "2026-10-10T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/04922d3404b0d5d4065e03fe4660db85.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8e65ced9c6a95535714b7c9fc780bd7e.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Anna Thangi",
-      "description": "Having lost their parents at a young age, Shivaraju and Tulasi share an inseparable bond. Tulasi even agrees to marry her brother's choice, despite being in love with Abhishek.",
+      "showName": "Gelathi Gayathri",
+      "description": "Childhood companions Gayathri and Kaveri reunite after spending many years apart. However, severe personal hardships and unexpected difficulties threaten their bond.",
       "startDate": "2026-10-10T19:00:00",
       "endDate": "2026-10-10T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ea4f2f869a7c81dd6403130cd26b1c31.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2de4b8e398af5003b3094db05a3cc9c3.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Shambhavi",
-      "description": "A young girl possesses the quality of transforming into a Goddess during the time of crisis in order to confront the evil and protect the victims.",
+      "showName": "Bhagyavantharu",
+      "description": "Janani aspires to have a career, but life takes a major turn when she marries into a traditional family. Now, she must navigate household duties while fighting to keep her ambitions alive.",
       "startDate": "2026-10-10T19:30:00",
       "endDate": "2026-10-10T20:00:00",
       "showTime": "19:30:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/96144143a68ef043ba6cdb91895fb3cc.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/222c0dfb6e4db5ad4ffceeb88ae0e1d6.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Suryavamsha",
-      "description": "After two decades of fruitless searching for his missing grandson, Sathyamurthy's family decides to hire a young man to pose as the long-lost heir.",
+      "showName": "Mugguti Malli",
+      "description": "A woman with unparalleled culinary expertise works in a large household and crosses paths with a man who falls in love with her at first sight.",
       "startDate": "2026-10-10T20:00:00",
       "endDate": "2026-10-10T20:30:00",
       "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9074765120c2f8ebffa64b8ab25b0dd2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/80a750859199e3e03f306b89a572903c.jpg"
     },
     {
       "serverDate": "2026-10-10",
@@ -2539,201 +2649,278 @@
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Myna",
-      "description": "Born into a life of hardship, Myna faces familial and financial struggles. Subsequently, she leaves her home to carve a better future, fighting against all odds for her family's sake.",
+      "showName": "Mangalya",
+      "description": "Mayuri, a bold girl raised in poverty, fulfills her duties for a wealthy family as one of their own. However, things become complicated when Tarak, the family's alcoholic son, marries her.",
       "startDate": "2026-10-10T21:00:00",
       "endDate": "2026-10-10T21:30:00",
       "showTime": "21:00:00",
       "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f3826efc133552c2712e7baeab834fed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fe09b044c44cc2027c62bcac36990a26.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Chikkejamani",
-      "description": "Once a child bride, a woman embraces education and becomes a lawyer with her forward-thinking husband's support. She combats societal injustices while facing personal challenges.",
+      "showName": "Krishna Vamshi",
+      "description": "Vamshika, who always yearned for a close-knit family, marries into a bustling household. Subsequently, she navigates various challenges and traditions to win the hearts of her new in-laws.",
       "startDate": "2026-10-10T21:30:00",
       "endDate": "2026-10-10T22:00:00",
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/22d9201079abe5a89207cc154479224b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f527e97d47a5144179fa6674020966a.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Gange Gowri",
-      "description": "Gowri and Gange, two sisters, with opposite personalities, share a close bond. However, chaos ensues when they cross paths with Abhay.",
+      "showName": "Myna",
+      "description": "Born into a life of hardship, Myna faces familial and financial struggles. Subsequently, she leaves her home to carve a better future, fighting against all odds for her family's sake.",
       "startDate": "2026-10-10T22:00:00",
       "endDate": "2026-10-10T22:30:00",
       "showTime": "22:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6316dd0c9d3e12b69e730d6b30178c52.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f3826efc133552c2712e7baeab834fed.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Sevanthi",
-      "description": "Sevanthi, an orphaned girl, embarks on a journey to find her family. Through fate, she unknowingly draws closer to her past, with Arjun, an advocate by her side.",
+      "showName": "Sindhu Bhairavi",
+      "description": "Sindhu, a brave young woman, loves to spread happiness and cheer all around. However, on witnessing injustice, Sindhu takes matters into her own hands.",
       "startDate": "2026-10-10T22:30:00",
       "endDate": "2026-10-10T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/96905b67b4aa2abfa36345ba640bd4d8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f04bf9ece07962d98096da62d8b14327.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Gelathi Gayathri",
+      "description": "Childhood companions Gayathri and Kaveri reunite after spending many years apart. However, severe personal hardships and unexpected difficulties threaten their bond.",
       "startDate": "2026-10-10T23:00:00",
-      "endDate": "2026-10-10T23:59:59",
+      "endDate": "2026-10-10T23:30:00",
       "showTime": "23:00:00",
+      "endTime": "23:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2de4b8e398af5003b3094db05a3cc9c3.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Mangalya",
+      "description": "Mayuri, a bold girl raised in poverty, fulfills her duties for a wealthy family as one of their own. However, things become complicated when Tarak, the family's alcoholic son, marries her.",
+      "startDate": "2026-10-10T23:30:00",
+      "endDate": "2026-10-10T23:59:59",
+      "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/061a3abe82d61507fa362ce9f192bc77.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fe09b044c44cc2027c62bcac36990a26.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Myna",
+      "description": "Born into a life of hardship, Myna faces familial and financial struggles. Subsequently, she leaves her home to carve a better future, fighting against all odds for her family's sake.",
       "startDate": "2026-10-11T00:00:00",
-      "endDate": "2026-10-11T02:00:00",
+      "endDate": "2026-10-11T00:30:00",
       "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f3826efc133552c2712e7baeab834fed.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Myna",
+      "description": "Born into a life of hardship, Myna faces familial and financial struggles. Subsequently, she leaves her home to carve a better future, fighting against all odds for her family's sake.",
+      "startDate": "2026-10-11T00:30:00",
+      "endDate": "2026-10-11T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f3826efc133552c2712e7baeab834fed.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Nandini",
+      "description": "A man marries a shape-shifting serpent and they have two daughters. Later, the sisters embark on a revenge killing spree.",
+      "startDate": "2026-10-11T01:00:00",
+      "endDate": "2026-10-11T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f7d27d3f2785b4048aca757a733d916.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Ratha Sapthami",
+      "description": "As Sapthami's selflessness breeds complications, Sreemanth's self-centeredness erodes family bonds. However, soon fate plays a hand, intertwining their opposing lives.",
+      "startDate": "2026-10-11T01:30:00",
+      "endDate": "2026-10-11T02:00:00",
+      "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/061a3abe82d61507fa362ce9f192bc77.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/660c7da5a6707df52269d548d4d84411.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Udaya Music",
-      "description": "A complete collection of soulful hymns and songs from well-known Kannada movies performed by several renowned singers and musicians, played in a loop.",
+      "showName": "Bhagyavantharu",
+      "description": "Janani aspires to have a career, but life takes a major turn when she marries into a traditional family. Now, she must navigate household duties while fighting to keep her ambitions alive.",
       "startDate": "2026-10-11T02:00:00",
-      "endDate": "2026-10-11T05:00:00",
+      "endDate": "2026-10-11T02:30:00",
       "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/222c0dfb6e4db5ad4ffceeb88ae0e1d6.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Myna",
+      "description": "Born into a life of hardship, Myna faces familial and financial struggles. Subsequently, she leaves her home to carve a better future, fighting against all odds for her family's sake.",
+      "startDate": "2026-10-11T02:30:00",
+      "endDate": "2026-10-11T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f3826efc133552c2712e7baeab834fed.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Shanti Nivasa",
+      "description": "While leading a happy life, as the ideal daughter-in-law of a reputed family, Shanthi falls victim to the vengeance of Manthra.",
+      "startDate": "2026-10-11T03:00:00",
+      "endDate": "2026-10-11T03:30:00",
+      "showTime": "03:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c0f275c860db0edd70c4dc27da991d4.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Mangalya",
+      "description": "Mayuri, a bold girl raised in poverty, fulfills her duties for a wealthy family as one of their own. However, things become complicated when Tarak, the family's alcoholic son, marries her.",
+      "startDate": "2026-10-11T03:30:00",
+      "endDate": "2026-10-11T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fe09b044c44cc2027c62bcac36990a26.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Krishna Vamshi",
+      "description": "Vamshika, who always yearned for a close-knit family, marries into a bustling household. Subsequently, she navigates various challenges and traditions to win the hearts of her new in-laws.",
+      "startDate": "2026-10-11T04:00:00",
+      "endDate": "2026-10-11T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f527e97d47a5144179fa6674020966a.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Myna",
+      "description": "Born into a life of hardship, Myna faces familial and financial struggles. Subsequently, she leaves her home to carve a better future, fighting against all odds for her family's sake.",
+      "startDate": "2026-10-11T04:30:00",
+      "endDate": "2026-10-11T05:00:00",
+      "showTime": "04:30:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dd7248048c280aba6ad72e5d79005bd5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f3826efc133552c2712e7baeab834fed.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Sindhu Bhairavi",
+      "description": "Sindhu, a brave young woman, loves to spread happiness and cheer all around. However, on witnessing injustice, Sindhu takes matters into her own hands.",
+      "startDate": "2026-10-11T05:00:00",
+      "endDate": "2026-10-11T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f04bf9ece07962d98096da62d8b14327.jpg"
     },
     {
       "serverDate": "2026-10-11",
       "showName": "Madhura Munjane",
       "description": "Bringing the best in television.",
-      "startDate": "2026-10-11T05:00:00",
+      "startDate": "2026-10-11T05:30:00",
       "endDate": "2026-10-11T06:00:00",
-      "showTime": "05:00:00",
+      "showTime": "05:30:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eca2c7466baade0ebf9fcfdce0dd79b5.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Ratha Sapthami",
+      "description": "An affluent man disapproves of his daughter's relationship with a poor aspiring singer. However, her life changes when the boy meets with an accident.",
       "startDate": "2026-10-11T06:00:00",
       "endDate": "2026-10-11T09:00:00",
       "showTime": "06:00:00",
       "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/061a3abe82d61507fa362ce9f192bc77.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/00cbaa498dcfd0e9107f44dedcfb42f1.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Kanasugara",
+      "description": "Being the illegitimate daughter of the household, Sangeeta leads a miserable life, with her voice and dreams stifled. In her darkest hour, a good-hearted thief comes along as a ray of hope.",
       "startDate": "2026-10-11T09:00:00",
       "endDate": "2026-10-11T12:00:00",
       "showTime": "09:00:00",
       "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/061a3abe82d61507fa362ce9f192bc77.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f82885487bcb6770c8019c622ba5cdf6.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Aptha Mithra",
+      "description": "Ranesh, a young engineer, marries Ganga, a beautiful young woman, and shifts into his newly bought palace. However, things get complicated when Ganga frees a spirit and gets possessed by her.",
       "startDate": "2026-10-11T12:00:00",
       "endDate": "2026-10-11T15:00:00",
       "showTime": "12:00:00",
       "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/061a3abe82d61507fa362ce9f192bc77.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/24647e646d8ed39f67b2b88f1063ed0f.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Kanchana 3",
+      "description": "Raghava, a cheerful young man living happily with his family, has a deep fear of ghosts. However, during a visit to Coimbatore, he becomes possessed by a vengeful spirit with a sinister past.",
       "startDate": "2026-10-11T15:00:00",
       "endDate": "2026-10-11T18:00:00",
       "showTime": "15:00:00",
       "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/061a3abe82d61507fa362ce9f192bc77.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56066152caa2805f19ff1def2aac61e3.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Mr. and Mrs. Ramachari",
+      "description": "A wayward young man who has a difficult relationship with his father goes off to college. He falls in love with a woman, but the pair soon begin to struggle with their relationship.",
       "startDate": "2026-10-11T18:00:00",
       "endDate": "2026-10-11T21:00:00",
       "showTime": "18:00:00",
       "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/061a3abe82d61507fa362ce9f192bc77.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b669ebfe26e46f80e5c1496bdc1db3bd.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Myna",
-      "description": "Born into a life of hardship, Myna faces familial and financial struggles. Subsequently, she leaves her home to carve a better future, fighting against all odds for her family's sake.",
+      "showName": "Navashakthi Vaibhava",
+      "description": "Navashakthi Vaibhava",
       "startDate": "2026-10-11T21:00:00",
-      "endDate": "2026-10-11T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f3826efc133552c2712e7baeab834fed.jpg"
-    },
-    {
-      "serverDate": "2026-10-11",
-      "showName": "Chikkejamani",
-      "description": "Once a child bride, a woman embraces education and becomes a lawyer with her forward-thinking husband's support. She combats societal injustices while facing personal challenges.",
-      "startDate": "2026-10-11T21:30:00",
       "endDate": "2026-10-11T22:00:00",
-      "showTime": "21:30:00",
+      "showTime": "21:00:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/22d9201079abe5a89207cc154479224b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/476759cb0f87670c38e4f6ef288da0b5.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Gange Gowri",
-      "description": "Gowri and Gange, two sisters, with opposite personalities, share a close bond. However, chaos ensues when they cross paths with Abhay.",
+      "showName": "Kavya",
+      "description": "Medical student and athlete Kavya's budding romance with Prasad faces an unexpected hurdle when her sister Kalpana's marriage upends her life.",
       "startDate": "2026-10-11T22:00:00",
-      "endDate": "2026-10-11T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6316dd0c9d3e12b69e730d6b30178c52.jpg"
-    },
-    {
-      "serverDate": "2026-10-11",
-      "showName": "Sevanthi",
-      "description": "Sevanthi, an orphaned girl, embarks on a journey to find her family. Through fate, she unknowingly draws closer to her past, with Arjun, an advocate by her side.",
-      "startDate": "2026-10-11T22:30:00",
-      "endDate": "2026-10-11T23:00:00",
-      "showTime": "22:30:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/96905b67b4aa2abfa36345ba640bd4d8.jpg"
-    },
-    {
-      "serverDate": "2026-10-11",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-11T23:00:00",
       "endDate": "2026-10-11T23:59:59",
-      "showTime": "23:00:00",
+      "showTime": "22:00:00",
       "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/061a3abe82d61507fa362ce9f192bc77.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f309abcdefd2a7cc5a8c596917a80c02.jpg"
     }
   ]
 }

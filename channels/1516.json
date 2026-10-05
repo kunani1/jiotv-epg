@@ -991,11 +991,22 @@
       "showName": "Health Programme",
       "description": "The host interacts with health experts who offer tips and suggestions for living a disease-free life, as well as insights into the treatments available for various ailments.",
       "startDate": "2026-10-06T11:00:00",
-      "endDate": "2026-10-06T12:00:00",
+      "endDate": "2026-10-06T11:40:00",
       "showTime": "11:00:00",
-      "endTime": "12:00:00",
+      "endTime": "11:40:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5c6a6d0160e906d4e170bd21d430e12.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Cine Geethalu",
+      "description": "The host presents a musical show featuring popular Telugu movie songs playing back-to-back and highlights the singers and composers.",
+      "startDate": "2026-10-06T11:40:00",
+      "endDate": "2026-10-06T12:00:00",
+      "showTime": "11:40:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8d6418e2bca68c55bc04afff1fd1bedc.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -1046,9 +1057,9 @@
       "showName": "Raja",
       "description": "Bringing the best in cinema.",
       "startDate": "2026-10-06T14:00:00",
-      "endDate": "2026-10-06T16:30:00",
+      "endDate": "2026-10-06T16:45:00",
       "showTime": "14:00:00",
-      "endTime": "16:30:00",
+      "endTime": "16:45:00",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/68b2bf15045191da29eaa03f19b4c5e0.jpg"
     },
@@ -1056,9 +1067,9 @@
       "serverDate": "2026-10-06",
       "showName": "Cine Geethalu",
       "description": "The host presents a musical show featuring popular Telugu movie songs playing back-to-back and highlights the singers and composers.",
-      "startDate": "2026-10-06T16:30:00",
+      "startDate": "2026-10-06T16:45:00",
       "endDate": "2026-10-06T17:00:00",
-      "showTime": "16:30:00",
+      "showTime": "16:45:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8d6418e2bca68c55bc04afff1fd1bedc.jpg"
