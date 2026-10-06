@@ -8,303 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png",
   "programs": [
     {
-      "serverDate": "2026-10-04",
-      "showName": "UEFA Nations League Soccer",
-      "description": "European national football teams compete with each other to clinch the top title at the UEFA Nations League, an international football competition.",
-      "startDate": "2026-10-04T00:00:00",
-      "endDate": "2026-10-04T02:15:00",
-      "showTime": "00:00:00",
-      "endTime": "02:15:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f11784ee89b0a07beb3f2f5ae84c5ef1.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Snippet",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-04T02:15:00",
-      "endDate": "2026-10-04T02:30:00",
-      "showTime": "02:15:00",
-      "endTime": "02:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d842d379fcfd33c8abefeba980d1c7bd.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "One-Day International Cricket",
-      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
-      "startDate": "2026-10-04T02:30:00",
-      "endDate": "2026-10-04T03:30:00",
-      "showTime": "02:30:00",
-      "endTime": "03:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "UFC 332: Silva vs. Wang - Prelims",
-      "description": "From Delta Center in Salt Lake City.",
-      "startDate": "2026-10-04T03:30:00",
-      "endDate": "2026-10-04T04:00:00",
-      "showTime": "03:30:00",
-      "endTime": "04:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/41a66cd2f346b4de3f9e53412751dfc7.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "UFC 332: Silva vs. Wang - Prelims",
-      "description": "From Delta Center in Salt Lake City.",
-      "startDate": "2026-10-04T04:00:00",
-      "endDate": "2026-10-04T05:30:00",
-      "showTime": "04:00:00",
-      "endTime": "05:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/41a66cd2f346b4de3f9e53412751dfc7.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "UFC 332: Silva vs. Wang",
-      "description": "From Delta Center in Salt Lake City.",
-      "startDate": "2026-10-04T05:30:00",
-      "endDate": "2026-10-04T09:30:00",
-      "showTime": "05:30:00",
-      "endTime": "09:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2eb77660b0eebba858e79d6c24fcd852.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Men's International Soccer Friendlies",
-      "description": "Highlights of an International Friendly soccer game where teams compete against each other in a series of exhibition games.",
-      "startDate": "2026-10-04T09:30:00",
-      "endDate": "2026-10-04T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f8928bb105c48523b0b6d86778a4f21.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-04T10:00:00",
-      "endDate": "2026-10-04T10:30:00",
-      "showTime": "10:00:00",
-      "endTime": "10:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-04T10:30:00",
-      "endDate": "2026-10-04T11:00:00",
-      "showTime": "10:30:00",
-      "endTime": "11:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-04T11:00:00",
-      "endDate": "2026-10-04T11:30:00",
-      "showTime": "11:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-04T11:30:00",
-      "endDate": "2026-10-04T12:00:00",
-      "showTime": "11:30:00",
-      "endTime": "12:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-04T12:00:00",
-      "endDate": "2026-10-04T12:30:00",
-      "showTime": "12:00:00",
-      "endTime": "12:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-04T12:30:00",
-      "endDate": "2026-10-04T13:30:00",
-      "showTime": "12:30:00",
-      "endTime": "13:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-04T13:30:00",
-      "endDate": "2026-10-04T14:00:00",
-      "showTime": "13:30:00",
-      "endTime": "14:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Men's International Soccer Friendlies",
-      "description": "Highlights of an International Friendly soccer game where teams compete against each other in a series of exhibition games.",
-      "startDate": "2026-10-04T14:00:00",
-      "endDate": "2026-10-04T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f8928bb105c48523b0b6d86778a4f21.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-04T14:30:00",
-      "endDate": "2026-10-04T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-04T15:00:00",
-      "endDate": "2026-10-04T15:30:00",
-      "showTime": "15:00:00",
-      "endTime": "15:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-04T15:30:00",
-      "endDate": "2026-10-04T16:00:00",
-      "showTime": "15:30:00",
-      "endTime": "16:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "Men's International Soccer Friendlies",
-      "description": "Highlights of an International Friendly soccer game where teams compete against each other in a series of exhibition games.",
-      "startDate": "2026-10-04T16:00:00",
-      "endDate": "2026-10-04T16:30:00",
-      "showTime": "16:00:00",
-      "endTime": "16:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f8928bb105c48523b0b6d86778a4f21.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-04T16:30:00",
-      "endDate": "2026-10-04T17:00:00",
-      "showTime": "16:30:00",
-      "endTime": "17:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "UFC 332: Silva vs. Wang",
-      "description": "From Delta Center in Salt Lake City.",
-      "startDate": "2026-10-04T17:00:00",
-      "endDate": "2026-10-04T21:00:00",
-      "showTime": "17:00:00",
-      "endTime": "21:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2eb77660b0eebba858e79d6c24fcd852.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "UEFA Nations League 2024-25",
-      "description": "Watch all the matchnight highlights of UEFA Nations League 2024-25 here, only on Sony LIV.",
-      "startDate": "2026-10-04T21:00:00",
-      "endDate": "2026-10-04T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ffc6f8ba09d88a0adfdc5f8d6625e441.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "20th Asian Games Aichi-Nagoya 2026",
-      "description": "Watch the full replay of India vs Hong Kong, China in Men's Volleyball Pool C action at the Asian Games 2026, only on Sony LIV.",
-      "startDate": "2026-10-04T21:30:00",
-      "endDate": "2026-10-04T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccc561b6cd3e0aed972edb8141bb01d5.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "20th Asian Games Aichi-Nagoya 2026",
-      "description": "Watch the full replay of India vs Hong Kong, China in Men's Volleyball Pool C action at the Asian Games 2026, only on Sony LIV.",
-      "startDate": "2026-10-04T22:00:00",
-      "endDate": "2026-10-04T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccc561b6cd3e0aed972edb8141bb01d5.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "UEFA International Friendlies",
-      "description": "Portugal vs Chile - Match Highlights",
-      "startDate": "2026-10-04T22:30:00",
-      "endDate": "2026-10-04T23:00:00",
-      "showTime": "22:30:00",
-      "endTime": "23:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/253bd58d164cd92eab2b7add353bdd64.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "20th Asian Games Aichi-Nagoya 2026",
-      "description": "Watch the full replay of India vs Hong Kong, China in Men's Volleyball Pool C action at the Asian Games 2026, only on Sony LIV.",
-      "startDate": "2026-10-04T23:00:00",
-      "endDate": "2026-10-04T23:30:00",
-      "showTime": "23:00:00",
-      "endTime": "23:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccc561b6cd3e0aed972edb8141bb01d5.jpg"
-    },
-    {
-      "serverDate": "2026-10-04",
-      "showName": "20th Asian Games Aichi-Nagoya 2026",
-      "description": "Watch the full replay of India vs Hong Kong, China in Men's Volleyball Pool C action at the Asian Games 2026, only on Sony LIV.",
-      "startDate": "2026-10-04T23:30:00",
-      "endDate": "2026-10-04T23:59:59",
-      "showTime": "23:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccc561b6cd3e0aed972edb8141bb01d5.jpg"
-    },
-    {
       "serverDate": "2026-10-05",
       "showName": "UEFA Nations League Soccer",
       "description": "European national football teams compete with each other to clinch the top title at the UEFA Nations League, an international football competition.",
@@ -834,36 +537,36 @@
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
+      "showName": "20th Asian Games Aichi-Nagoya 2026",
+      "description": "Watch the full replay of India vs Hong Kong, China in Men's Volleyball Pool C action at the Asian Games 2026, only on Sony LIV.",
       "startDate": "2026-10-06T11:00:00",
       "endDate": "2026-10-06T11:30:00",
       "showTime": "11:00:00",
       "endTime": "11:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccc561b6cd3e0aed972edb8141bb01d5.jpg"
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "Women's T20 Cricket",
-      "description": "Professional women's cricket teams compete against each other to emerge victorious in the ICC Women's T20 World Cup and claim the coveted title.",
+      "showName": "India Women's Tour of England 2025",
+      "description": "England Women beat India Women by 5 runs at The Oval, defending 171/9 to win the 3rd T20I and trail 2-1 in the series.",
       "startDate": "2026-10-06T11:30:00",
       "endDate": "2026-10-06T12:00:00",
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5d5ae536fd590ce6114a67a48703f3a9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b83c55e7b1214e78b09ec0f936cc5d51.jpg"
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
+      "showName": "20th Asian Games Aichi-Nagoya 2026",
+      "description": "Watch the full replay of India vs Hong Kong, China in Men's Volleyball Pool C action at the Asian Games 2026, only on Sony LIV.",
       "startDate": "2026-10-06T12:00:00",
       "endDate": "2026-10-06T13:00:00",
       "showTime": "12:00:00",
       "endTime": "13:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccc561b6cd3e0aed972edb8141bb01d5.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -878,36 +581,36 @@
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "ACC Men's U19 Asia Cup",
-      "description": "Amateur cricket teams compete against each other to emerge victorious and win the coveted title of the ACC Under-19 Asia Cup.",
+      "showName": "DP World Men's U19 Asia Cup 2025",
+      "description": "Pakistan Crowned U-19 Asia Cup Champions",
       "startDate": "2026-10-06T14:00:00",
       "endDate": "2026-10-06T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/117d8ae19721dca9c383f8f1924c1ac8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6307f8b1c670fa8f1689fa73ff9a215e.jpg"
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
+      "showName": "20th Asian Games Aichi-Nagoya 2026",
+      "description": "Watch the full replay of India vs Hong Kong, China in Men's Volleyball Pool C action at the Asian Games 2026, only on Sony LIV.",
       "startDate": "2026-10-06T14:30:00",
       "endDate": "2026-10-06T15:00:00",
       "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccc561b6cd3e0aed972edb8141bb01d5.jpg"
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "Asia Cup Highlights",
-      "description": "Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.",
+      "showName": "Asia Cup 2025",
+      "description": "Powerplay Recap - India vs Pakistan - Super Four - 2nd Innings",
       "startDate": "2026-10-06T15:00:00",
       "endDate": "2026-10-06T16:00:00",
       "showTime": "15:00:00",
       "endTime": "16:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c51b7ea5b521bacdbec09a3e10270f2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/33a3d5c9a4ce4195cd67fbf26f347745.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -2888,6 +2591,83 @@
       "endTime": "23:59:59",
       "showCategory": "Sports non-event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c51b7ea5b521bacdbec09a3e10270f2.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Asia Cup Highlights",
+      "description": "Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.",
+      "startDate": "2026-10-12T00:00:00",
+      "endDate": "2026-10-12T02:00:00",
+      "showTime": "00:00:00",
+      "endTime": "02:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c51b7ea5b521bacdbec09a3e10270f2.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Sports Programme",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-12T02:00:00",
+      "endDate": "2026-10-12T06:00:00",
+      "showTime": "02:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Sports Programme",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-12T06:00:00",
+      "endDate": "2026-10-12T10:00:00",
+      "showTime": "06:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Sports Programme",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-12T10:00:00",
+      "endDate": "2026-10-12T14:00:00",
+      "showTime": "10:00:00",
+      "endTime": "14:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Sports Programme",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-12T14:00:00",
+      "endDate": "2026-10-12T18:00:00",
+      "showTime": "14:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Sports Programme",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-12T18:00:00",
+      "endDate": "2026-10-12T22:00:00",
+      "showTime": "18:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Sports Programme",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-12T22:00:00",
+      "endDate": "2026-10-12T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
     }
   ]
 }

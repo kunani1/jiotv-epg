@@ -1029,6 +1029,83 @@
       "endTime": "23:59:59",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff02d924ee4ae092009da120672aaa1f.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "AEW Collision",
+      "description": "Popular pro-wrestlers from the AEW Roster compete against each other in fights every Saturday to win the championship title.",
+      "startDate": "2026-10-12T00:00:00",
+      "endDate": "2026-10-12T02:00:00",
+      "showTime": "00:00:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff02d924ee4ae092009da120672aaa1f.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Sports Programme",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-12T02:00:00",
+      "endDate": "2026-10-12T06:00:00",
+      "showTime": "02:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Sports Programme",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-12T06:00:00",
+      "endDate": "2026-10-12T10:00:00",
+      "showTime": "06:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Sports Programme",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-12T10:00:00",
+      "endDate": "2026-10-12T14:00:00",
+      "showTime": "10:00:00",
+      "endTime": "14:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Sports Programme",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-12T14:00:00",
+      "endDate": "2026-10-12T18:00:00",
+      "showTime": "14:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Sports Programme",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-12T18:00:00",
+      "endDate": "2026-10-12T22:00:00",
+      "showTime": "18:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Sports Programme",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-12T22:00:00",
+      "endDate": "2026-10-12T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
     }
   ]
 }
