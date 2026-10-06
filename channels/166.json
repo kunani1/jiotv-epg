@@ -793,9 +793,9 @@
       "showName": "Kiteretsu",
       "description": "Kiteretsu, an elementary school student who uses his inventions to help people, and Korosuke, his robot, partake in various adventures along with his friends.",
       "startDate": "2026-10-07T04:00:00",
-      "endDate": "2026-10-07T05:00:00",
+      "endDate": "2026-10-07T06:00:00",
       "showTime": "04:00:00",
-      "endTime": "05:00:00",
+      "endTime": "06:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3e7f46ce14b099db4b1cf37b7088dab9.jpg"
     },
@@ -803,9 +803,9 @@
       "serverDate": "2026-10-07",
       "showName": "We Bare Bears",
       "description": "Three brother bears, Grizzly, Panda, and Ice, awkwardly navigate life in the San Francisco Bay Area as they try to fit into modern human society.",
-      "startDate": "2026-10-07T05:00:00",
+      "startDate": "2026-10-07T06:00:00",
       "endDate": "2026-10-07T07:00:00",
-      "showTime": "05:00:00",
+      "showTime": "06:00:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e8fd212d38e9722b488ed9bee3fd6602.jpg"
@@ -848,11 +848,22 @@
       "showName": "Larva Family",
       "description": "Red and Yellow get a crash course in parenting when they take in a newborn caterpillar. They must learn to care for it.",
       "startDate": "2026-10-07T08:30:00",
-      "endDate": "2026-10-07T09:20:00",
+      "endDate": "2026-10-07T09:00:00",
       "showTime": "08:30:00",
-      "endTime": "09:20:00",
+      "endTime": "09:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/edc6882639d961ea0e77ee42bc838b6a.jpg"
+    },
+    {
+      "serverDate": "2026-10-07",
+      "showName": "Larva Island",
+      "description": "When Yellow and Red, two larvae, get stranded on an island, they use that as an opportunity to discover different things and make new animal friends.",
+      "startDate": "2026-10-07T09:00:00",
+      "endDate": "2026-10-07T09:20:00",
+      "showTime": "09:00:00",
+      "endTime": "09:20:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f459661d9edba290d5fc6df08840d74.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -980,8 +991,19 @@
       "showName": "Teen Titans GO!",
       "description": "A group of quirky young heroes balance crime-fighting with everyday antics, facing silly challenges, unexpected adventures and humorous situations in their unconventional world.",
       "startDate": "2026-10-07T15:00:00",
-      "endDate": "2026-10-07T16:30:00",
+      "endDate": "2026-10-07T15:30:00",
       "showTime": "15:00:00",
+      "endTime": "15:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b66df009782f1bf51ce27df13c2fbc26.jpg"
+    },
+    {
+      "serverDate": "2026-10-07",
+      "showName": "Teen Titans GO!",
+      "description": "A group of quirky young heroes balance crime-fighting with everyday antics, facing silly challenges, unexpected adventures and humorous situations in their unconventional world.",
+      "startDate": "2026-10-07T15:30:00",
+      "endDate": "2026-10-07T16:30:00",
+      "showTime": "15:30:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b66df009782f1bf51ce27df13c2fbc26.jpg"
@@ -1013,9 +1035,9 @@
       "showName": "Teen Titans GO!",
       "description": "A group of quirky young heroes balance crime-fighting with everyday antics, facing silly challenges, unexpected adventures and humorous situations in their unconventional world.",
       "startDate": "2026-10-07T18:00:00",
-      "endDate": "2026-10-07T19:30:00",
+      "endDate": "2026-10-07T18:30:00",
       "showTime": "18:00:00",
-      "endTime": "19:30:00",
+      "endTime": "18:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b66df009782f1bf51ce27df13c2fbc26.jpg"
     },
@@ -1023,12 +1045,23 @@
       "serverDate": "2026-10-07",
       "showName": "Teen Titans GO!",
       "description": "A group of quirky young heroes balance crime-fighting with everyday antics, facing silly challenges, unexpected adventures and humorous situations in their unconventional world.",
+      "startDate": "2026-10-07T18:30:00",
+      "endDate": "2026-10-07T19:30:00",
+      "showTime": "18:30:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b66df009782f1bf51ce27df13c2fbc26.jpg"
+    },
+    {
+      "serverDate": "2026-10-07",
+      "showName": "Teen Titans GO! to the Movies",
+      "description": "When Teen Titans travel to Hollywood in a bid to make their own movie, a cunning villain takes advantage of the situation and plans to take over Earth.",
       "startDate": "2026-10-07T19:30:00",
       "endDate": "2026-10-07T20:30:00",
       "showTime": "19:30:00",
       "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b66df009782f1bf51ce27df13c2fbc26.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/57d9557e6e734903b1127631af16decd.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -1145,19 +1178,8 @@
       "showName": "We Bare Bears",
       "description": "Three brother bears, Grizzly, Panda, and Ice, awkwardly navigate life in the San Francisco Bay Area as they try to fit into modern human society.",
       "startDate": "2026-10-08T05:00:00",
-      "endDate": "2026-10-08T06:00:00",
-      "showTime": "05:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e8fd212d38e9722b488ed9bee3fd6602.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "We Bare Bears",
-      "description": "Three brother bears, Grizzly, Panda, and Ice, awkwardly navigate life in the San Francisco Bay Area as they try to fit into modern human society.",
-      "startDate": "2026-10-08T06:00:00",
       "endDate": "2026-10-08T07:00:00",
-      "showTime": "06:00:00",
+      "showTime": "05:00:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e8fd212d38e9722b488ed9bee3fd6602.jpg"

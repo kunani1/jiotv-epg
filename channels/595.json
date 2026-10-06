@@ -8,6 +8,578 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Prarthana_Life.png",
   "programs": [
     {
+      "serverDate": "2026-10-05",
+      "showName": "Sankha Khetra Parikrama",
+      "description": "Sankha Khetra Parikrama",
+      "startDate": "2026-10-05T00:00:00",
+      "endDate": "2026-10-05T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c7fbf3283cd3cbbdc915d7e339099091.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Bharat Lilare Balmiki Ramayana",
+      "description": "Various performers bring the Valmiki Ramayana to life through traditional Odia drama, music and storytelling to entertain and educate viewers about the spiritual lessons found in the scriptures.",
+      "startDate": "2026-10-05T00:30:00",
+      "endDate": "2026-10-05T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3974afa89d09ff8e444ad20aea8fd13f.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Bharat Lilare Balmiki Ramayana",
+      "description": "Various performers bring the Valmiki Ramayana to life through traditional Odia drama, music and storytelling to entertain and educate viewers about the spiritual lessons found in the scriptures.",
+      "startDate": "2026-10-05T01:00:00",
+      "endDate": "2026-10-05T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3974afa89d09ff8e444ad20aea8fd13f.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Garud Puran",
+      "description": "A religious leader delivers a detailed discourse on the teachings of the Garuda Purana and imparts essential wisdom to the devotees.",
+      "startDate": "2026-10-05T01:30:00",
+      "endDate": "2026-10-05T02:00:00",
+      "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56a063c58637cd3d536eb10721742078.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Sudhar Bani",
+      "description": "Sudhar Bani",
+      "startDate": "2026-10-05T02:00:00",
+      "endDate": "2026-10-05T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/268de02faca174bef320574ae4a71d3f.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Saptahika Bhagyaphala",
+      "description": "Saptahika Bhagyaphala",
+      "startDate": "2026-10-05T02:30:00",
+      "endDate": "2026-10-05T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/519bb0d0fd273fcb2c94327d0d14d2d4.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Badi Pala Mancha",
+      "description": "A talented troupe of artists delivers an engaging performance, incorporating classical Odissi music, poetry, wit and humour.",
+      "startDate": "2026-10-05T03:00:00",
+      "endDate": "2026-10-05T03:30:00",
+      "showTime": "03:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a00a46076c5baacc29898a0d2d5d6446.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Badi Pala Mancha",
+      "description": "A talented troupe of artists delivers an engaging performance, incorporating classical Odissi music, poetry, wit and humour.",
+      "startDate": "2026-10-05T03:30:00",
+      "endDate": "2026-10-05T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a00a46076c5baacc29898a0d2d5d6446.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Bishnu Sahasra Naam",
+      "description": "A religious leader sheds light on the Vishnu Sahasranama, a sacred Sanskrit hymn listing the thousand divine names of Lord Vishnu.",
+      "startDate": "2026-10-05T04:00:00",
+      "endDate": "2026-10-05T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/318e0481a47e556db5941f8ce49883a4.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Bishnu Sahasra Naam",
+      "description": "A religious leader sheds light on the Vishnu Sahasranama, a sacred Sanskrit hymn listing the thousand divine names of Lord Vishnu.",
+      "startDate": "2026-10-05T04:30:00",
+      "endDate": "2026-10-05T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/318e0481a47e556db5941f8ce49883a4.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Beda Patha",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-05T05:00:00",
+      "endDate": "2026-10-05T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4fd26fc5c5774c59377015387550b615.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Siba Stakam",
+      "description": "A religious scholar chants 'Shivashtakam,' a powerful Sanskrit hymn composed of eight verses praising Lord Shiva, and invokes his blessings.",
+      "startDate": "2026-10-05T05:30:00",
+      "endDate": "2026-10-05T05:55:00",
+      "showTime": "05:30:00",
+      "endTime": "05:55:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2e3781ace65a015d1ff15c35af28726b.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Dibya Darshan",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-05T05:55:00",
+      "endDate": "2026-10-05T06:00:00",
+      "showTime": "05:55:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9a3ba871ac2ce58ccdc26a1f20f93246.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Dadhatya Bhakti",
+      "description": "A religious leader elaborates on the teachings of the Almighty and encourages followers to take the path of spirituality and devotion.",
+      "startDate": "2026-10-05T06:00:00",
+      "endDate": "2026-10-05T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e63f13f820f511903000be4fdf77a8e.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Rama Kahani Amruta Bani",
+      "description": "A religious leader elaborates on the life and teachings of Lord Rama, while shedding light on the timeless lessons of the Ramayana for modern life.",
+      "startDate": "2026-10-05T06:30:00",
+      "endDate": "2026-10-05T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6b14066b7a87740cb30c98758a4a9db2.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Sudhar Bani",
+      "description": "Sudhar Bani",
+      "startDate": "2026-10-05T07:00:00",
+      "endDate": "2026-10-05T07:30:00",
+      "showTime": "07:00:00",
+      "endTime": "07:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/268de02faca174bef320574ae4a71d3f.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Garud Puran",
+      "description": "A religious leader delivers a detailed discourse on the teachings of the Garuda Purana and imparts essential wisdom to the devotees.",
+      "startDate": "2026-10-05T07:30:00",
+      "endDate": "2026-10-05T08:00:00",
+      "showTime": "07:30:00",
+      "endTime": "08:00:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56a063c58637cd3d536eb10721742078.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Bhagya Bhabishya",
+      "description": "A renowned astrologer predicts the future of people based on their horoscopes and explains the effects of planetary transitions on their birth charts.",
+      "startDate": "2026-10-05T08:00:00",
+      "endDate": "2026-10-05T08:25:00",
+      "showTime": "08:00:00",
+      "endTime": "08:25:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b232a9f2b48d9735b56a232dec5c400d.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Adhyatmika Parikrama",
+      "description": "The host presents the latest updates pertaining to the various religious events held across Odisha, India, and provides a detailed insight into its rituals.",
+      "startDate": "2026-10-05T08:25:00",
+      "endDate": "2026-10-05T08:30:00",
+      "showTime": "08:25:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b0e9c49a9d26c920b2abc969e262281d.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Balake Mora Bola Kara",
+      "description": "Balake Mora Bola Kara",
+      "startDate": "2026-10-05T08:30:00",
+      "endDate": "2026-10-05T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0b8a16b4bb3d6718e8f8c66defd5fae0.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Pragnya Puran",
+      "description": "An eminent religious leader provides a comprehensive and detailed insight into spiritual teachings and guides people on the right path.",
+      "startDate": "2026-10-05T09:00:00",
+      "endDate": "2026-10-05T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a3545a1b967a8d098995066b1da9f53.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Sri Jagannath",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-05T09:30:00",
+      "endDate": "2026-10-05T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a849a339e87cd3e9f7437272c598cac.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Meera",
+      "description": "Meera, who becomes a widow at a young age, starts developing feelings for a former army officer, Subhankar, whose troubled marriage paves the way for his son's attachment to Meera.",
+      "startDate": "2026-10-05T10:00:00",
+      "endDate": "2026-10-05T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3c956522c1790efeeb8d1155210d36a6.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Jay Maa Laxmi",
+      "description": "Laxmi, the goddess of wealth and fortune, and the other gods of the Hindu pantheon live their lives by combating evil forces and ensuring the world's stability and harmony.",
+      "startDate": "2026-10-05T10:30:00",
+      "endDate": "2026-10-05T11:00:00",
+      "showTime": "10:30:00",
+      "endTime": "11:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2844d510bbedffd8e19646f207d54f1e.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Ghoda Nacha",
+      "description": "Professional dancers perform Ghoda Nacha, one of Odisha's popular folk dance forms which is mostly performed by aboriginal fishermen tribes like the Keot.",
+      "startDate": "2026-10-05T11:00:00",
+      "endDate": "2026-10-05T11:30:00",
+      "showTime": "11:00:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e64fd68755d9915892cf98aa9e54113.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Ghoda Nacha",
+      "description": "Professional dancers perform Ghoda Nacha, one of Odisha's popular folk dance forms which is mostly performed by aboriginal fishermen tribes like the Keot.",
+      "startDate": "2026-10-05T11:30:00",
+      "endDate": "2026-10-05T12:00:00",
+      "showTime": "11:30:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e64fd68755d9915892cf98aa9e54113.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Teleshopping",
+      "description": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.",
+      "startDate": "2026-10-05T12:00:00",
+      "endDate": "2026-10-05T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a9232e25faa8910c7b16edde3879d505.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Garud Puran",
+      "description": "A religious leader delivers a detailed discourse on the teachings of the Garuda Purana and imparts essential wisdom to the devotees.",
+      "startDate": "2026-10-05T12:30:00",
+      "endDate": "2026-10-05T13:00:00",
+      "showTime": "12:30:00",
+      "endTime": "13:00:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56a063c58637cd3d536eb10721742078.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Rama Kahani Amruta Bani",
+      "description": "A religious leader elaborates on the life and teachings of Lord Rama, while shedding light on the timeless lessons of the Ramayana for modern life.",
+      "startDate": "2026-10-05T13:00:00",
+      "endDate": "2026-10-05T13:30:00",
+      "showTime": "13:00:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6b14066b7a87740cb30c98758a4a9db2.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Dadhatya Bhakti",
+      "description": "A religious leader elaborates on the teachings of the Almighty and encourages followers to take the path of spirituality and devotion.",
+      "startDate": "2026-10-05T13:30:00",
+      "endDate": "2026-10-05T14:00:00",
+      "showTime": "13:30:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e63f13f820f511903000be4fdf77a8e.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Badi Pala Mancha",
+      "description": "A talented troupe of artists delivers an engaging performance, incorporating classical Odissi music, poetry, wit and humour.",
+      "startDate": "2026-10-05T14:00:00",
+      "endDate": "2026-10-05T14:30:00",
+      "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a00a46076c5baacc29898a0d2d5d6446.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Badi Pala Mancha",
+      "description": "A talented troupe of artists delivers an engaging performance, incorporating classical Odissi music, poetry, wit and humour.",
+      "startDate": "2026-10-05T14:30:00",
+      "endDate": "2026-10-05T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a00a46076c5baacc29898a0d2d5d6446.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Sudhar Bani",
+      "description": "Sudhar Bani",
+      "startDate": "2026-10-05T15:00:00",
+      "endDate": "2026-10-05T15:30:00",
+      "showTime": "15:00:00",
+      "endTime": "15:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/268de02faca174bef320574ae4a71d3f.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Sankha Khetra Parikrama",
+      "description": "Sankha Khetra Parikrama",
+      "startDate": "2026-10-05T15:30:00",
+      "endDate": "2026-10-05T16:00:00",
+      "showTime": "15:30:00",
+      "endTime": "16:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c7fbf3283cd3cbbdc915d7e339099091.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Rama Kahani Amruta Bani",
+      "description": "A religious leader elaborates on the life and teachings of Lord Rama, while shedding light on the timeless lessons of the Ramayana for modern life.",
+      "startDate": "2026-10-05T16:00:00",
+      "endDate": "2026-10-05T16:30:00",
+      "showTime": "16:00:00",
+      "endTime": "16:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6b14066b7a87740cb30c98758a4a9db2.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Pragnya Puran",
+      "description": "An eminent religious leader provides a comprehensive and detailed insight into spiritual teachings and guides people on the right path.",
+      "startDate": "2026-10-05T16:30:00",
+      "endDate": "2026-10-05T17:00:00",
+      "showTime": "16:30:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a3545a1b967a8d098995066b1da9f53.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Sri Jagannath",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-05T17:00:00",
+      "endDate": "2026-10-05T17:30:00",
+      "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a849a339e87cd3e9f7437272c598cac.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Dadhatya Bhakti",
+      "description": "A religious leader elaborates on the teachings of the Almighty and encourages followers to take the path of spirituality and devotion.",
+      "startDate": "2026-10-05T17:30:00",
+      "endDate": "2026-10-05T17:55:00",
+      "showTime": "17:30:00",
+      "endTime": "17:55:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e63f13f820f511903000be4fdf77a8e.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Sandhyadarshan",
+      "description": "Priests conduct ceremonial rituals to appease a Hindu deity on an auspicious occasion as devotees gather to offer worship and seek blessings.",
+      "startDate": "2026-10-05T17:55:00",
+      "endDate": "2026-10-05T18:00:00",
+      "showTime": "17:55:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9aa30092659366f5c51cd6507e97e16e.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Sudhar Bani",
+      "description": "Sudhar Bani",
+      "startDate": "2026-10-05T18:00:00",
+      "endDate": "2026-10-05T18:30:00",
+      "showTime": "18:00:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/268de02faca174bef320574ae4a71d3f.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Garud Puran",
+      "description": "A religious leader delivers a detailed discourse on the teachings of the Garuda Purana and imparts essential wisdom to the devotees.",
+      "startDate": "2026-10-05T18:30:00",
+      "endDate": "2026-10-05T19:00:00",
+      "showTime": "18:30:00",
+      "endTime": "19:00:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56a063c58637cd3d536eb10721742078.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Jay Maa Laxmi",
+      "description": "Laxmi, the goddess of wealth and fortune, and the other gods of the Hindu pantheon live their lives by combating evil forces and ensuring the world's stability and harmony.",
+      "startDate": "2026-10-05T19:00:00",
+      "endDate": "2026-10-05T19:30:00",
+      "showTime": "19:00:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2844d510bbedffd8e19646f207d54f1e.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Meera",
+      "description": "Meera, who becomes a widow at a young age, starts developing feelings for a former army officer, Subhankar, whose troubled marriage paves the way for his son's attachment to Meera.",
+      "startDate": "2026-10-05T19:30:00",
+      "endDate": "2026-10-05T20:00:00",
+      "showTime": "19:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3c956522c1790efeeb8d1155210d36a6.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Sri Mandira",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-05T20:00:00",
+      "endDate": "2026-10-05T20:30:00",
+      "showTime": "20:00:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/104b3de3ed23d2e91f6023555c74dc33.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Sri Jagannath",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-05T20:30:00",
+      "endDate": "2026-10-05T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a849a339e87cd3e9f7437272c598cac.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Pragnya Puran",
+      "description": "An eminent religious leader provides a comprehensive and detailed insight into spiritual teachings and guides people on the right path.",
+      "startDate": "2026-10-05T21:00:00",
+      "endDate": "2026-10-05T21:25:00",
+      "showTime": "21:00:00",
+      "endTime": "21:25:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a3545a1b967a8d098995066b1da9f53.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Adhyatmika Parikrama",
+      "description": "The host presents the latest updates pertaining to the various religious events held across Odisha, India, and provides a detailed insight into its rituals.",
+      "startDate": "2026-10-05T21:25:00",
+      "endDate": "2026-10-05T21:30:00",
+      "showTime": "21:25:00",
+      "endTime": "21:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b0e9c49a9d26c920b2abc969e262281d.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Ghoda Nacha",
+      "description": "Professional dancers perform Ghoda Nacha, one of Odisha's popular folk dance forms which is mostly performed by aboriginal fishermen tribes like the Keot.",
+      "startDate": "2026-10-05T21:30:00",
+      "endDate": "2026-10-05T22:00:00",
+      "showTime": "21:30:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e64fd68755d9915892cf98aa9e54113.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Ghoda Nacha",
+      "description": "Professional dancers perform Ghoda Nacha, one of Odisha's popular folk dance forms which is mostly performed by aboriginal fishermen tribes like the Keot.",
+      "startDate": "2026-10-05T22:00:00",
+      "endDate": "2026-10-05T22:30:00",
+      "showTime": "22:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e64fd68755d9915892cf98aa9e54113.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Bhagya Bhabishya",
+      "description": "A renowned astrologer predicts the future of people based on their horoscopes and explains the effects of planetary transitions on their birth charts.",
+      "startDate": "2026-10-05T22:30:00",
+      "endDate": "2026-10-05T23:00:00",
+      "showTime": "22:30:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b232a9f2b48d9735b56a232dec5c400d.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Sudhar Bani",
+      "description": "Sudhar Bani",
+      "startDate": "2026-10-05T23:00:00",
+      "endDate": "2026-10-05T23:30:00",
+      "showTime": "23:00:00",
+      "endTime": "23:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/268de02faca174bef320574ae4a71d3f.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Balake Mora Bola Kara",
+      "description": "Balake Mora Bola Kara",
+      "startDate": "2026-10-05T23:30:00",
+      "endDate": "2026-10-05T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0b8a16b4bb3d6718e8f8c66defd5fae0.jpg"
+    },
+    {
       "serverDate": "2026-10-06",
       "showName": "Sankha Khetra Parikrama",
       "description": "Sankha Khetra Parikrama",
@@ -2440,14 +3012,14 @@
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Dadhatya Bhakti",
-      "description": "A religious leader elaborates on the teachings of the Almighty and encourages followers to take the path of spirituality and devotion.",
+      "showName": "Soundyra Lahari",
+      "description": "Soundyra Lahari",
       "startDate": "2026-10-10T06:00:00",
       "endDate": "2026-10-10T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e63f13f820f511903000be4fdf77a8e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-10",
@@ -2462,25 +3034,25 @@
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Sudhar Bani",
-      "description": "Sudhar Bani",
+      "showName": "Durga Tatwa",
+      "description": "Durga Tatwa",
       "startDate": "2026-10-10T07:00:00",
       "endDate": "2026-10-10T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/268de02faca174bef320574ae4a71d3f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Garud Puran",
-      "description": "A religious leader delivers a detailed discourse on the teachings of the Garuda Purana and imparts essential wisdom to the devotees.",
+      "showName": "Maa Dasabhuja",
+      "description": "Maa Dasabhuja",
       "startDate": "2026-10-10T07:30:00",
       "endDate": "2026-10-10T08:00:00",
       "showTime": "07:30:00",
       "endTime": "08:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56a063c58637cd3d536eb10721742078.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-10",
@@ -2517,25 +3089,25 @@
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Bhajan Antaskhyari",
-      "description": "The host invites a variety of singers to showcase their skills by performing melodious devotional songs and engages them in fun-filled interactions.",
+      "showName": "Mahalaya",
+      "description": "Mahalaya",
       "startDate": "2026-10-10T09:00:00",
       "endDate": "2026-10-10T09:30:00",
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd947dc478d31dbb38f39c8cecf0af52.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/57c11b7c13179983f4058f121de861a9.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Bhajan Antaskhyari",
-      "description": "The host invites a variety of singers to showcase their skills by performing melodious devotional songs and engages them in fun-filled interactions.",
+      "showName": "Mahalaya",
+      "description": "Mahalaya",
       "startDate": "2026-10-10T09:30:00",
       "endDate": "2026-10-10T10:00:00",
       "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd947dc478d31dbb38f39c8cecf0af52.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/57c11b7c13179983f4058f121de861a9.jpg"
     },
     {
       "serverDate": "2026-10-10",
@@ -2561,25 +3133,25 @@
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Bharat Lilare Balmiki Ramayana",
-      "description": "Various performers bring the Valmiki Ramayana to life through traditional Odia drama, music and storytelling to entertain and educate viewers about the spiritual lessons found in the scriptures.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-10T11:00:00",
       "endDate": "2026-10-10T11:30:00",
       "showTime": "11:00:00",
       "endTime": "11:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3974afa89d09ff8e444ad20aea8fd13f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Bharat Lilare Balmiki Ramayana",
-      "description": "Various performers bring the Valmiki Ramayana to life through traditional Odia drama, music and storytelling to entertain and educate viewers about the spiritual lessons found in the scriptures.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-10T11:30:00",
       "endDate": "2026-10-10T12:00:00",
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3974afa89d09ff8e444ad20aea8fd13f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-10",
@@ -2594,14 +3166,14 @@
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Garud Puran",
-      "description": "A religious leader delivers a detailed discourse on the teachings of the Garuda Purana and imparts essential wisdom to the devotees.",
+      "showName": "Maa Dasabhuja",
+      "description": "Maa Dasabhuja",
       "startDate": "2026-10-10T12:30:00",
       "endDate": "2026-10-10T13:00:00",
       "showTime": "12:30:00",
       "endTime": "13:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56a063c58637cd3d536eb10721742078.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-10",
@@ -2616,47 +3188,47 @@
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Dadhatya Bhakti",
-      "description": "A religious leader elaborates on the teachings of the Almighty and encourages followers to take the path of spirituality and devotion.",
+      "showName": "Soundyra Lahari",
+      "description": "Soundyra Lahari",
       "startDate": "2026-10-10T13:30:00",
       "endDate": "2026-10-10T14:00:00",
       "showTime": "13:30:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e63f13f820f511903000be4fdf77a8e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Badi Pala Mancha",
-      "description": "A talented troupe of artists delivers an engaging performance, incorporating classical Odissi music, poetry, wit and humour.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-10T14:00:00",
       "endDate": "2026-10-10T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a00a46076c5baacc29898a0d2d5d6446.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Badi Pala Mancha",
-      "description": "A talented troupe of artists delivers an engaging performance, incorporating classical Odissi music, poetry, wit and humour.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-10T14:30:00",
       "endDate": "2026-10-10T15:00:00",
       "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a00a46076c5baacc29898a0d2d5d6446.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Sudhar Bani",
-      "description": "Sudhar Bani",
+      "showName": "Durga Tatwa",
+      "description": "Durga Tatwa",
       "startDate": "2026-10-10T15:00:00",
       "endDate": "2026-10-10T15:30:00",
       "showTime": "15:00:00",
       "endTime": "15:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/268de02faca174bef320574ae4a71d3f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-10",
@@ -2682,36 +3254,36 @@
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Bhajan Antaskhyari",
-      "description": "The host invites a variety of singers to showcase their skills by performing melodious devotional songs and engages them in fun-filled interactions.",
+      "showName": "Mahalaya",
+      "description": "Mahalaya",
       "startDate": "2026-10-10T16:30:00",
       "endDate": "2026-10-10T17:00:00",
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd947dc478d31dbb38f39c8cecf0af52.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/57c11b7c13179983f4058f121de861a9.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Bhajan Antaskhyari",
-      "description": "The host invites a variety of singers to showcase their skills by performing melodious devotional songs and engages them in fun-filled interactions.",
+      "showName": "Mahalaya",
+      "description": "Mahalaya",
       "startDate": "2026-10-10T17:00:00",
       "endDate": "2026-10-10T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd947dc478d31dbb38f39c8cecf0af52.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/57c11b7c13179983f4058f121de861a9.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Dadhatya Bhakti",
-      "description": "A religious leader elaborates on the teachings of the Almighty and encourages followers to take the path of spirituality and devotion.",
+      "showName": "Soundyra Lahari",
+      "description": "Soundyra Lahari",
       "startDate": "2026-10-10T17:30:00",
       "endDate": "2026-10-10T17:55:00",
       "showTime": "17:30:00",
       "endTime": "17:55:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e63f13f820f511903000be4fdf77a8e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-10",
@@ -2726,25 +3298,25 @@
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Sudhar Bani",
-      "description": "Sudhar Bani",
+      "showName": "Mahalaya",
+      "description": "Mahalaya",
       "startDate": "2026-10-10T18:00:00",
       "endDate": "2026-10-10T18:30:00",
       "showTime": "18:00:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/268de02faca174bef320574ae4a71d3f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/57c11b7c13179983f4058f121de861a9.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Garud Puran",
-      "description": "A religious leader delivers a detailed discourse on the teachings of the Garuda Purana and imparts essential wisdom to the devotees.",
+      "showName": "Mahalaya",
+      "description": "Mahalaya",
       "startDate": "2026-10-10T18:30:00",
       "endDate": "2026-10-10T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56a063c58637cd3d536eb10721742078.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/57c11b7c13179983f4058f121de861a9.jpg"
     },
     {
       "serverDate": "2026-10-10",
@@ -2781,25 +3353,25 @@
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Bhajan Antaskhyari",
-      "description": "The host invites a variety of singers to showcase their skills by performing melodious devotional songs and engages them in fun-filled interactions.",
+      "showName": "Prarthana Podcast",
+      "description": "Prarthana Podcast",
       "startDate": "2026-10-10T20:30:00",
       "endDate": "2026-10-10T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd947dc478d31dbb38f39c8cecf0af52.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Bhajan Antaskhyari",
-      "description": "The host invites a variety of singers to showcase their skills by performing melodious devotional songs and engages them in fun-filled interactions.",
+      "showName": "Prarthana Podcast",
+      "description": "Prarthana Podcast",
       "startDate": "2026-10-10T21:00:00",
       "endDate": "2026-10-10T21:25:00",
       "showTime": "21:00:00",
       "endTime": "21:25:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd947dc478d31dbb38f39c8cecf0af52.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-10",
@@ -2814,25 +3386,25 @@
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Bharat Lilare Balmiki Ramayana",
-      "description": "Various performers bring the Valmiki Ramayana to life through traditional Odia drama, music and storytelling to entertain and educate viewers about the spiritual lessons found in the scriptures.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-10T21:30:00",
       "endDate": "2026-10-10T22:00:00",
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3974afa89d09ff8e444ad20aea8fd13f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Bharat Lilare Balmiki Ramayana",
-      "description": "Various performers bring the Valmiki Ramayana to life through traditional Odia drama, music and storytelling to entertain and educate viewers about the spiritual lessons found in the scriptures.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-10T22:00:00",
       "endDate": "2026-10-10T22:30:00",
       "showTime": "22:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3974afa89d09ff8e444ad20aea8fd13f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-10",
@@ -2847,14 +3419,14 @@
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Sudhar Bani",
-      "description": "Sudhar Bani",
+      "showName": "Durga Tatwa",
+      "description": "Durga Tatwa",
       "startDate": "2026-10-10T23:00:00",
       "endDate": "2026-10-10T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/268de02faca174bef320574ae4a71d3f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-10",
@@ -2880,80 +3452,80 @@
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Bharat Lilare Balmiki Ramayana",
-      "description": "Various performers bring the Valmiki Ramayana to life through traditional Odia drama, music and storytelling to entertain and educate viewers about the spiritual lessons found in the scriptures.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-11T00:30:00",
       "endDate": "2026-10-11T01:00:00",
       "showTime": "00:30:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3974afa89d09ff8e444ad20aea8fd13f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Bharat Lilare Balmiki Ramayana",
-      "description": "Various performers bring the Valmiki Ramayana to life through traditional Odia drama, music and storytelling to entertain and educate viewers about the spiritual lessons found in the scriptures.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-11T01:00:00",
       "endDate": "2026-10-11T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3974afa89d09ff8e444ad20aea8fd13f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Garud Puran",
-      "description": "A religious leader delivers a detailed discourse on the teachings of the Garuda Purana and imparts essential wisdom to the devotees.",
+      "showName": "Maa Dasabhuja",
+      "description": "Maa Dasabhuja",
       "startDate": "2026-10-11T01:30:00",
       "endDate": "2026-10-11T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56a063c58637cd3d536eb10721742078.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Sudhar Bani",
-      "description": "Sudhar Bani",
+      "showName": "Durga Tatwa",
+      "description": "Durga Tatwa",
       "startDate": "2026-10-11T02:00:00",
       "endDate": "2026-10-11T02:30:00",
       "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/268de02faca174bef320574ae4a71d3f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Dadhatya Bhakti",
-      "description": "A religious leader elaborates on the teachings of the Almighty and encourages followers to take the path of spirituality and devotion.",
+      "showName": "Soundyra Lahari",
+      "description": "Soundyra Lahari",
       "startDate": "2026-10-11T02:30:00",
       "endDate": "2026-10-11T03:00:00",
       "showTime": "02:30:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e63f13f820f511903000be4fdf77a8e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Badi Pala Mancha",
-      "description": "A talented troupe of artists delivers an engaging performance, incorporating classical Odissi music, poetry, wit and humour.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-11T03:00:00",
       "endDate": "2026-10-11T03:30:00",
       "showTime": "03:00:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a00a46076c5baacc29898a0d2d5d6446.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Badi Pala Mancha",
-      "description": "A talented troupe of artists delivers an engaging performance, incorporating classical Odissi music, poetry, wit and humour.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-11T03:30:00",
       "endDate": "2026-10-11T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a00a46076c5baacc29898a0d2d5d6446.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-11",
@@ -3034,25 +3606,25 @@
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Sudhar Bani",
-      "description": "Sudhar Bani",
+      "showName": "Durga Tatwa",
+      "description": "Durga Tatwa",
       "startDate": "2026-10-11T07:00:00",
       "endDate": "2026-10-11T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/268de02faca174bef320574ae4a71d3f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Garud Puran",
-      "description": "A religious leader delivers a detailed discourse on the teachings of the Garuda Purana and imparts essential wisdom to the devotees.",
+      "showName": "Maa Dasabhuja",
+      "description": "Maa Dasabhuja",
       "startDate": "2026-10-11T07:30:00",
       "endDate": "2026-10-11T08:00:00",
       "showTime": "07:30:00",
       "endTime": "08:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56a063c58637cd3d536eb10721742078.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-11",
@@ -3133,25 +3705,25 @@
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Bharat Lilare Balmiki Ramayana",
-      "description": "Various performers bring the Valmiki Ramayana to life through traditional Odia drama, music and storytelling to entertain and educate viewers about the spiritual lessons found in the scriptures.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-11T11:00:00",
       "endDate": "2026-10-11T11:30:00",
       "showTime": "11:00:00",
       "endTime": "11:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3974afa89d09ff8e444ad20aea8fd13f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Bharat Lilare Balmiki Ramayana",
-      "description": "Various performers bring the Valmiki Ramayana to life through traditional Odia drama, music and storytelling to entertain and educate viewers about the spiritual lessons found in the scriptures.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-11T11:30:00",
       "endDate": "2026-10-11T12:00:00",
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3974afa89d09ff8e444ad20aea8fd13f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-11",
@@ -3166,14 +3738,14 @@
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Garud Puran",
-      "description": "A religious leader delivers a detailed discourse on the teachings of the Garuda Purana and imparts essential wisdom to the devotees.",
+      "showName": "Maa Dasabhuja",
+      "description": "Maa Dasabhuja",
       "startDate": "2026-10-11T12:30:00",
       "endDate": "2026-10-11T13:00:00",
       "showTime": "12:30:00",
       "endTime": "13:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56a063c58637cd3d536eb10721742078.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-11",
@@ -3199,36 +3771,36 @@
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Badi Pala Mancha",
-      "description": "A talented troupe of artists delivers an engaging performance, incorporating classical Odissi music, poetry, wit and humour.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-11T14:00:00",
       "endDate": "2026-10-11T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a00a46076c5baacc29898a0d2d5d6446.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Badi Pala Mancha",
-      "description": "A talented troupe of artists delivers an engaging performance, incorporating classical Odissi music, poetry, wit and humour.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-11T14:30:00",
       "endDate": "2026-10-11T15:00:00",
       "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a00a46076c5baacc29898a0d2d5d6446.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Sudhar Bani",
-      "description": "Sudhar Bani",
+      "showName": "Durga Tatwa",
+      "description": "Durga Tatwa",
       "startDate": "2026-10-11T15:00:00",
       "endDate": "2026-10-11T15:30:00",
       "showTime": "15:00:00",
       "endTime": "15:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/268de02faca174bef320574ae4a71d3f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-11",
@@ -3298,25 +3870,25 @@
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Sudhar Bani",
-      "description": "Sudhar Bani",
+      "showName": "Gaon Thakurani",
+      "description": "Gaon Thakurani",
       "startDate": "2026-10-11T18:00:00",
       "endDate": "2026-10-11T18:30:00",
       "showTime": "18:00:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/268de02faca174bef320574ae4a71d3f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Garud Puran",
-      "description": "A religious leader delivers a detailed discourse on the teachings of the Garuda Purana and imparts essential wisdom to the devotees.",
+      "showName": "Maa Dasabhuja",
+      "description": "Maa Dasabhuja",
       "startDate": "2026-10-11T18:30:00",
       "endDate": "2026-10-11T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56a063c58637cd3d536eb10721742078.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-11",
@@ -3386,25 +3958,25 @@
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Bharat Lilare Balmiki Ramayana",
-      "description": "Various performers bring the Valmiki Ramayana to life through traditional Odia drama, music and storytelling to entertain and educate viewers about the spiritual lessons found in the scriptures.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-11T21:30:00",
       "endDate": "2026-10-11T22:00:00",
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3974afa89d09ff8e444ad20aea8fd13f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Bharat Lilare Balmiki Ramayana",
-      "description": "Various performers bring the Valmiki Ramayana to life through traditional Odia drama, music and storytelling to entertain and educate viewers about the spiritual lessons found in the scriptures.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-11T22:00:00",
       "endDate": "2026-10-11T22:30:00",
       "showTime": "22:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3974afa89d09ff8e444ad20aea8fd13f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-11",
@@ -3419,14 +3991,14 @@
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Sudhar Bani",
-      "description": "Sudhar Bani",
+      "showName": "Durga Tatwa",
+      "description": "Durga Tatwa",
       "startDate": "2026-10-11T23:00:00",
       "endDate": "2026-10-11T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/268de02faca174bef320574ae4a71d3f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-11",
@@ -3452,47 +4024,47 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Bharat Lilare Balmiki Ramayana",
-      "description": "Various performers bring the Valmiki Ramayana to life through traditional Odia drama, music and storytelling to entertain and educate viewers about the spiritual lessons found in the scriptures.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-12T00:30:00",
       "endDate": "2026-10-12T01:00:00",
       "showTime": "00:30:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3974afa89d09ff8e444ad20aea8fd13f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Bharat Lilare Balmiki Ramayana",
-      "description": "Various performers bring the Valmiki Ramayana to life through traditional Odia drama, music and storytelling to entertain and educate viewers about the spiritual lessons found in the scriptures.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-12T01:00:00",
       "endDate": "2026-10-12T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3974afa89d09ff8e444ad20aea8fd13f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Garud Puran",
-      "description": "A religious leader delivers a detailed discourse on the teachings of the Garuda Purana and imparts essential wisdom to the devotees.",
+      "showName": "Maa Dasabhuja",
+      "description": "Maa Dasabhuja",
       "startDate": "2026-10-12T01:30:00",
       "endDate": "2026-10-12T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56a063c58637cd3d536eb10721742078.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Sudhar Bani",
-      "description": "Sudhar Bani",
+      "showName": "Durga Tatwa",
+      "description": "Durga Tatwa",
       "startDate": "2026-10-12T02:00:00",
       "endDate": "2026-10-12T02:30:00",
       "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/268de02faca174bef320574ae4a71d3f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -3507,25 +4079,25 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Badi Pala Mancha",
-      "description": "A talented troupe of artists delivers an engaging performance, incorporating classical Odissi music, poetry, wit and humour.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-12T03:00:00",
       "endDate": "2026-10-12T03:30:00",
       "showTime": "03:00:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a00a46076c5baacc29898a0d2d5d6446.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Badi Pala Mancha",
-      "description": "A talented troupe of artists delivers an engaging performance, incorporating classical Odissi music, poetry, wit and humour.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-12T03:30:00",
       "endDate": "2026-10-12T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a00a46076c5baacc29898a0d2d5d6446.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -3584,14 +4156,14 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Dadhatya Bhakti",
-      "description": "A religious leader elaborates on the teachings of the Almighty and encourages followers to take the path of spirituality and devotion.",
+      "showName": "Soundyra Lahari",
+      "description": "Soundyra Lahari",
       "startDate": "2026-10-12T06:00:00",
       "endDate": "2026-10-12T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e63f13f820f511903000be4fdf77a8e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -3606,25 +4178,25 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Sudhar Bani",
-      "description": "Sudhar Bani",
+      "showName": "Durga Tatwa",
+      "description": "Durga Tatwa",
       "startDate": "2026-10-12T07:00:00",
       "endDate": "2026-10-12T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/268de02faca174bef320574ae4a71d3f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Garud Puran",
-      "description": "A religious leader delivers a detailed discourse on the teachings of the Garuda Purana and imparts essential wisdom to the devotees.",
+      "showName": "Maa Dasabhuja",
+      "description": "Maa Dasabhuja",
       "startDate": "2026-10-12T07:30:00",
       "endDate": "2026-10-12T08:00:00",
       "showTime": "07:30:00",
       "endTime": "08:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56a063c58637cd3d536eb10721742078.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -3705,25 +4277,25 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Ghoda Nacha",
-      "description": "Professional dancers perform Ghoda Nacha, one of Odisha's popular folk dance forms which is mostly performed by aboriginal fishermen tribes like the Keot.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-12T11:00:00",
       "endDate": "2026-10-12T11:30:00",
       "showTime": "11:00:00",
       "endTime": "11:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e64fd68755d9915892cf98aa9e54113.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Ghoda Nacha",
-      "description": "Professional dancers perform Ghoda Nacha, one of Odisha's popular folk dance forms which is mostly performed by aboriginal fishermen tribes like the Keot.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-12T11:30:00",
       "endDate": "2026-10-12T12:00:00",
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e64fd68755d9915892cf98aa9e54113.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -3738,14 +4310,14 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Garud Puran",
-      "description": "A religious leader delivers a detailed discourse on the teachings of the Garuda Purana and imparts essential wisdom to the devotees.",
+      "showName": "Maa Dasabhuja",
+      "description": "Maa Dasabhuja",
       "startDate": "2026-10-12T12:30:00",
       "endDate": "2026-10-12T13:00:00",
       "showTime": "12:30:00",
       "endTime": "13:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56a063c58637cd3d536eb10721742078.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -3760,47 +4332,47 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Dadhatya Bhakti",
-      "description": "A religious leader elaborates on the teachings of the Almighty and encourages followers to take the path of spirituality and devotion.",
+      "showName": "Soundyra Lahari",
+      "description": "Soundyra Lahari",
       "startDate": "2026-10-12T13:30:00",
       "endDate": "2026-10-12T14:00:00",
       "showTime": "13:30:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e63f13f820f511903000be4fdf77a8e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Badi Pala Mancha",
-      "description": "A talented troupe of artists delivers an engaging performance, incorporating classical Odissi music, poetry, wit and humour.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-12T14:00:00",
       "endDate": "2026-10-12T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a00a46076c5baacc29898a0d2d5d6446.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Badi Pala Mancha",
-      "description": "A talented troupe of artists delivers an engaging performance, incorporating classical Odissi music, poetry, wit and humour.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-12T14:30:00",
       "endDate": "2026-10-12T15:00:00",
       "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a00a46076c5baacc29898a0d2d5d6446.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Sudhar Bani",
-      "description": "Sudhar Bani",
+      "showName": "Durga Tatwa",
+      "description": "Durga Tatwa",
       "startDate": "2026-10-12T15:00:00",
       "endDate": "2026-10-12T15:30:00",
       "showTime": "15:00:00",
       "endTime": "15:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/268de02faca174bef320574ae4a71d3f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -3848,14 +4420,14 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Dadhatya Bhakti",
-      "description": "A religious leader elaborates on the teachings of the Almighty and encourages followers to take the path of spirituality and devotion.",
+      "showName": "Soundyra Lahari",
+      "description": "Soundyra Lahari",
       "startDate": "2026-10-12T17:30:00",
       "endDate": "2026-10-12T17:55:00",
       "showTime": "17:30:00",
       "endTime": "17:55:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e63f13f820f511903000be4fdf77a8e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -3870,25 +4442,25 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Sudhar Bani",
-      "description": "Sudhar Bani",
+      "showName": "Durga Tatwa",
+      "description": "Durga Tatwa",
       "startDate": "2026-10-12T18:00:00",
       "endDate": "2026-10-12T18:30:00",
       "showTime": "18:00:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/268de02faca174bef320574ae4a71d3f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Garud Puran",
-      "description": "A religious leader delivers a detailed discourse on the teachings of the Garuda Purana and imparts essential wisdom to the devotees.",
+      "showName": "Maa Dasabhuja",
+      "description": "Maa Dasabhuja",
       "startDate": "2026-10-12T18:30:00",
       "endDate": "2026-10-12T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56a063c58637cd3d536eb10721742078.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -3936,14 +4508,14 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Pragnya Puran",
-      "description": "An eminent religious leader provides a comprehensive and detailed insight into spiritual teachings and guides people on the right path.",
+      "showName": "Soundyra Lahari",
+      "description": "Soundyra Lahari",
       "startDate": "2026-10-12T21:00:00",
       "endDate": "2026-10-12T21:25:00",
       "showTime": "21:00:00",
       "endTime": "21:25:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a3545a1b967a8d098995066b1da9f53.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -3958,25 +4530,25 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Ghoda Nacha",
-      "description": "Professional dancers perform Ghoda Nacha, one of Odisha's popular folk dance forms which is mostly performed by aboriginal fishermen tribes like the Keot.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-12T21:30:00",
       "endDate": "2026-10-12T22:00:00",
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e64fd68755d9915892cf98aa9e54113.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Ghoda Nacha",
-      "description": "Professional dancers perform Ghoda Nacha, one of Odisha's popular folk dance forms which is mostly performed by aboriginal fishermen tribes like the Keot.",
+      "showName": "Prathana Devi Utsav",
+      "description": "Prathana Devi Utsav",
       "startDate": "2026-10-12T22:00:00",
       "endDate": "2026-10-12T22:30:00",
       "showTime": "22:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e64fd68755d9915892cf98aa9e54113.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -3991,14 +4563,14 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Sudhar Bani",
-      "description": "Sudhar Bani",
+      "showName": "Durga Tatwa",
+      "description": "Durga Tatwa",
       "startDate": "2026-10-12T23:00:00",
       "endDate": "2026-10-12T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/268de02faca174bef320574ae4a71d3f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
