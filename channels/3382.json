@@ -8,6 +8,622 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/EPIC_TV.png",
   "programs": [
     {
+      "serverDate": "2026-10-05",
+      "showName": "Sharanam",
+      "description": "The host explores various religious sites across India, highlighting their cultural significance and sharing testimonies of pilgrims.",
+      "startDate": "2026-10-05T00:00:00",
+      "endDate": "2026-10-05T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/41d8f4c8a5dc762a0f56cef27bdeac55.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Regiment Diaries",
+      "description": "The host provides insights into the various regiments of the Indian army, their training, traditions, history, contributions and how a civilian becomes a soldier.",
+      "startDate": "2026-10-05T00:30:00",
+      "endDate": "2026-10-05T03:30:00",
+      "showTime": "00:30:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d08fc772bfaf0b5d31172c1af6641f49.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Destruction Decoded",
+      "description": "An in-depth look at catastrophic events, analysing the science behind natural and man-made disasters and exploring the causes and consequences through expert insights and CGI visuals.",
+      "startDate": "2026-10-05T03:30:00",
+      "endDate": "2026-10-05T05:30:00",
+      "showTime": "03:30:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c910a7169c6a759878960f5c14ee8dc.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Raja Rasoi Aur Andaaz Anokha",
+      "description": "A renowned Indian chef shares the recipes of a variety of mouthwatering dishes and demonstrates the steps involved in their preparation.",
+      "startDate": "2026-10-05T05:30:00",
+      "endDate": "2026-10-05T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/beb275cd388db013d71dc30999cf85db.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Sharanam",
+      "description": "The host explores various religious sites across India, highlighting their cultural significance and sharing testimonies of pilgrims.",
+      "startDate": "2026-10-05T06:00:00",
+      "endDate": "2026-10-05T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/41d8f4c8a5dc762a0f56cef27bdeac55.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
+      "startDate": "2026-10-05T06:30:00",
+      "endDate": "2026-10-05T07:30:00",
+      "showTime": "06:30:00",
+      "endTime": "07:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
+      "startDate": "2026-10-05T07:30:00",
+      "endDate": "2026-10-05T08:30:00",
+      "showTime": "07:30:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Raja Rasoi Aur Andaaz Anokha",
+      "description": "A renowned Indian chef shares the recipes of a variety of mouthwatering dishes and demonstrates the steps involved in their preparation.",
+      "startDate": "2026-10-05T08:30:00",
+      "endDate": "2026-10-05T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/beb275cd388db013d71dc30999cf85db.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Regiment Diaries",
+      "description": "The host provides insights into the various regiments of the Indian army, their training, traditions, history, contributions and how a civilian becomes a soldier.",
+      "startDate": "2026-10-05T09:00:00",
+      "endDate": "2026-10-05T10:00:00",
+      "showTime": "09:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d08fc772bfaf0b5d31172c1af6641f49.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Sharanam",
+      "description": "The host explores various religious sites across India, highlighting their cultural significance and sharing testimonies of pilgrims.",
+      "startDate": "2026-10-05T10:00:00",
+      "endDate": "2026-10-05T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/41d8f4c8a5dc762a0f56cef27bdeac55.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Bharat Ratna The Jewels Of India",
+      "description": "The filmmaker sheds light on the recipients of India's highest civilian honour in order to explore the unknown stories behind their success.",
+      "startDate": "2026-10-05T10:30:00",
+      "endDate": "2026-10-05T10:50:00",
+      "showTime": "10:30:00",
+      "endTime": "10:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e87fce4c9b7f5885d61faa2b45a7ec03.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Epic Ke Dus",
+      "description": "Experts share their views on ten thoroughly researched people, places or events that changed the course of history in India.",
+      "startDate": "2026-10-05T10:50:00",
+      "endDate": "2026-10-05T11:30:00",
+      "showTime": "10:50:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ea61b3a17ff403ff21536c48b4559b2e.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
+      "startDate": "2026-10-05T11:30:00",
+      "endDate": "2026-10-05T12:30:00",
+      "showTime": "11:30:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
+      "startDate": "2026-10-05T12:30:00",
+      "endDate": "2026-10-05T13:30:00",
+      "showTime": "12:30:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Lost Recipes",
+      "description": "The host travels across different regions of India to revive and popularise deeply traditional recipes that are forgotten.",
+      "startDate": "2026-10-05T13:30:00",
+      "endDate": "2026-10-05T14:30:00",
+      "showTime": "13:30:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/547d5a22a52f99bd3fadd09dc465df11.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Raja Rasoi Aur Andaaz Anokha",
+      "description": "A renowned Indian chef shares the recipes of a variety of mouthwatering dishes and demonstrates the steps involved in their preparation.",
+      "startDate": "2026-10-05T14:30:00",
+      "endDate": "2026-10-05T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/beb275cd388db013d71dc30999cf85db.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Regiment Diaries",
+      "description": "The host provides insights into the various regiments of the Indian army, their training, traditions, history, contributions and how a civilian becomes a soldier.",
+      "startDate": "2026-10-05T15:00:00",
+      "endDate": "2026-10-05T16:00:00",
+      "showTime": "15:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d08fc772bfaf0b5d31172c1af6641f49.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
+      "startDate": "2026-10-05T16:00:00",
+      "endDate": "2026-10-05T16:30:00",
+      "showTime": "16:00:00",
+      "endTime": "16:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Bharat Ratna The Jewels Of India",
+      "description": "The filmmaker sheds light on the recipients of India's highest civilian honour in order to explore the unknown stories behind their success.",
+      "startDate": "2026-10-05T16:30:00",
+      "endDate": "2026-10-05T16:50:00",
+      "showTime": "16:30:00",
+      "endTime": "16:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e87fce4c9b7f5885d61faa2b45a7ec03.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Epic Ke Dus",
+      "description": "Experts share their views on ten thoroughly researched people, places or events that changed the course of history in India.",
+      "startDate": "2026-10-05T16:50:00",
+      "endDate": "2026-10-05T17:30:00",
+      "showTime": "16:50:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ea61b3a17ff403ff21536c48b4559b2e.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
+      "startDate": "2026-10-05T17:30:00",
+      "endDate": "2026-10-05T18:30:00",
+      "showTime": "17:30:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Regiment Diaries",
+      "description": "The host provides insights into the various regiments of the Indian army, their training, traditions, history, contributions and how a civilian becomes a soldier.",
+      "startDate": "2026-10-05T18:30:00",
+      "endDate": "2026-10-05T19:30:00",
+      "showTime": "18:30:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d08fc772bfaf0b5d31172c1af6641f49.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Raja Rasoi Aur Andaaz Anokha",
+      "description": "A renowned Indian chef shares the recipes of a variety of mouthwatering dishes and demonstrates the steps involved in their preparation.",
+      "startDate": "2026-10-05T19:30:00",
+      "endDate": "2026-10-05T20:00:00",
+      "showTime": "19:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/beb275cd388db013d71dc30999cf85db.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Lost Recipes",
+      "description": "The host travels across different regions of India to revive and popularise deeply traditional recipes that are forgotten.",
+      "startDate": "2026-10-05T20:00:00",
+      "endDate": "2026-10-05T21:00:00",
+      "showTime": "20:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/547d5a22a52f99bd3fadd09dc465df11.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
+      "startDate": "2026-10-05T21:00:00",
+      "endDate": "2026-10-05T22:00:00",
+      "showTime": "21:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
+      "startDate": "2026-10-05T22:00:00",
+      "endDate": "2026-10-05T23:00:00",
+      "showTime": "22:00:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Bharat Ratna The Jewels Of India",
+      "description": "The filmmaker sheds light on the recipients of India's highest civilian honour in order to explore the unknown stories behind their success.",
+      "startDate": "2026-10-05T23:00:00",
+      "endDate": "2026-10-05T23:20:00",
+      "showTime": "23:00:00",
+      "endTime": "23:20:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e87fce4c9b7f5885d61faa2b45a7ec03.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Epic Ke Dus",
+      "description": "Experts share their views on ten thoroughly researched people, places or events that changed the course of history in India.",
+      "startDate": "2026-10-05T23:20:00",
+      "endDate": "2026-10-05T23:59:59",
+      "showTime": "23:20:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ea61b3a17ff403ff21536c48b4559b2e.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Sharanam",
+      "description": "The host explores various religious sites across India, highlighting their cultural significance and sharing testimonies of pilgrims.",
+      "startDate": "2026-10-06T00:00:00",
+      "endDate": "2026-10-06T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/41d8f4c8a5dc762a0f56cef27bdeac55.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Regiment Diaries",
+      "description": "The host provides insights into the various regiments of the Indian army, their training, traditions, history, contributions and how a civilian becomes a soldier.",
+      "startDate": "2026-10-06T00:30:00",
+      "endDate": "2026-10-06T01:30:00",
+      "showTime": "00:30:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d08fc772bfaf0b5d31172c1af6641f49.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Lost Recipes",
+      "description": "The host travels across different regions of India to revive and popularise deeply traditional recipes that are forgotten.",
+      "startDate": "2026-10-06T01:30:00",
+      "endDate": "2026-10-06T02:30:00",
+      "showTime": "01:30:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/547d5a22a52f99bd3fadd09dc465df11.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
+      "startDate": "2026-10-06T02:30:00",
+      "endDate": "2026-10-06T03:30:00",
+      "showTime": "02:30:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
+      "startDate": "2026-10-06T03:30:00",
+      "endDate": "2026-10-06T04:30:00",
+      "showTime": "03:30:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Destruction Decoded",
+      "description": "An in-depth look at catastrophic events, analysing the science behind natural and man-made disasters and exploring the causes and consequences through expert insights and CGI visuals.",
+      "startDate": "2026-10-06T04:30:00",
+      "endDate": "2026-10-06T05:30:00",
+      "showTime": "04:30:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c910a7169c6a759878960f5c14ee8dc.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Tyohaar Ki Thaali",
+      "description": "The host shares cherished festive recipes, including heirloom dishes, while celebrating the country's culture by exploring its rich folklore.",
+      "startDate": "2026-10-06T05:30:00",
+      "endDate": "2026-10-06T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/200fb189eecf1f9cb95bdf926963820b.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Sharanam",
+      "description": "The host explores various religious sites across India, highlighting their cultural significance and sharing testimonies of pilgrims.",
+      "startDate": "2026-10-06T06:00:00",
+      "endDate": "2026-10-06T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/41d8f4c8a5dc762a0f56cef27bdeac55.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
+      "startDate": "2026-10-06T06:30:00",
+      "endDate": "2026-10-06T07:30:00",
+      "showTime": "06:30:00",
+      "endTime": "07:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
+      "startDate": "2026-10-06T07:30:00",
+      "endDate": "2026-10-06T08:30:00",
+      "showTime": "07:30:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Tyohaar Ki Thaali",
+      "description": "The host shares cherished festive recipes, including heirloom dishes, while celebrating the country's culture by exploring its rich folklore.",
+      "startDate": "2026-10-06T08:30:00",
+      "endDate": "2026-10-06T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/200fb189eecf1f9cb95bdf926963820b.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Regiment Diaries",
+      "description": "The host provides insights into the various regiments of the Indian army, their training, traditions, history, contributions and how a civilian becomes a soldier.",
+      "startDate": "2026-10-06T09:00:00",
+      "endDate": "2026-10-06T10:00:00",
+      "showTime": "09:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d08fc772bfaf0b5d31172c1af6641f49.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Sharanam",
+      "description": "The host explores various religious sites across India, highlighting their cultural significance and sharing testimonies of pilgrims.",
+      "startDate": "2026-10-06T10:00:00",
+      "endDate": "2026-10-06T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/41d8f4c8a5dc762a0f56cef27bdeac55.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Destruction Decoded",
+      "description": "An in-depth look at catastrophic events, analysing the science behind natural and man-made disasters and exploring the causes and consequences through expert insights and CGI visuals.",
+      "startDate": "2026-10-06T10:30:00",
+      "endDate": "2026-10-06T11:30:00",
+      "showTime": "10:30:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c910a7169c6a759878960f5c14ee8dc.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
+      "startDate": "2026-10-06T11:30:00",
+      "endDate": "2026-10-06T12:30:00",
+      "showTime": "11:30:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
+      "startDate": "2026-10-06T12:30:00",
+      "endDate": "2026-10-06T13:30:00",
+      "showTime": "12:30:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Lost Recipes",
+      "description": "The host travels across different regions of India to revive and popularise deeply traditional recipes that are forgotten.",
+      "startDate": "2026-10-06T13:30:00",
+      "endDate": "2026-10-06T14:30:00",
+      "showTime": "13:30:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/547d5a22a52f99bd3fadd09dc465df11.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Tyohaar Ki Thaali",
+      "description": "The host shares cherished festive recipes, including heirloom dishes, while celebrating the country's culture by exploring its rich folklore.",
+      "startDate": "2026-10-06T14:30:00",
+      "endDate": "2026-10-06T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/200fb189eecf1f9cb95bdf926963820b.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Regiment Diaries",
+      "description": "The host provides insights into the various regiments of the Indian army, their training, traditions, history, contributions and how a civilian becomes a soldier.",
+      "startDate": "2026-10-06T15:00:00",
+      "endDate": "2026-10-06T16:00:00",
+      "showTime": "15:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d08fc772bfaf0b5d31172c1af6641f49.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
+      "startDate": "2026-10-06T16:00:00",
+      "endDate": "2026-10-06T16:30:00",
+      "showTime": "16:00:00",
+      "endTime": "16:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Destruction Decoded",
+      "description": "An in-depth look at catastrophic events, analysing the science behind natural and man-made disasters and exploring the causes and consequences through expert insights and CGI visuals.",
+      "startDate": "2026-10-06T16:30:00",
+      "endDate": "2026-10-06T17:30:00",
+      "showTime": "16:30:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c910a7169c6a759878960f5c14ee8dc.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
+      "startDate": "2026-10-06T17:30:00",
+      "endDate": "2026-10-06T18:30:00",
+      "showTime": "17:30:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Regiment Diaries",
+      "description": "The host provides insights into the various regiments of the Indian army, their training, traditions, history, contributions and how a civilian becomes a soldier.",
+      "startDate": "2026-10-06T18:30:00",
+      "endDate": "2026-10-06T19:30:00",
+      "showTime": "18:30:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d08fc772bfaf0b5d31172c1af6641f49.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Tyohaar Ki Thaali",
+      "description": "The host shares cherished festive recipes, including heirloom dishes, while celebrating the country's culture by exploring its rich folklore.",
+      "startDate": "2026-10-06T19:30:00",
+      "endDate": "2026-10-06T20:00:00",
+      "showTime": "19:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/200fb189eecf1f9cb95bdf926963820b.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Lost Recipes",
+      "description": "The host travels across different regions of India to revive and popularise deeply traditional recipes that are forgotten.",
+      "startDate": "2026-10-06T20:00:00",
+      "endDate": "2026-10-06T21:00:00",
+      "showTime": "20:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/547d5a22a52f99bd3fadd09dc465df11.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
+      "startDate": "2026-10-06T21:00:00",
+      "endDate": "2026-10-06T22:00:00",
+      "showTime": "21:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
+      "startDate": "2026-10-06T22:00:00",
+      "endDate": "2026-10-06T23:00:00",
+      "showTime": "22:00:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Destruction Decoded",
+      "description": "An in-depth look at catastrophic events, analysing the science behind natural and man-made disasters and exploring the causes and consequences through expert insights and CGI visuals.",
+      "startDate": "2026-10-06T23:00:00",
+      "endDate": "2026-10-06T23:59:59",
+      "showTime": "23:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c910a7169c6a759878960f5c14ee8dc.jpg"
+    },
+    {
       "serverDate": "2026-10-07",
       "showName": "Sharanam",
       "description": "The host explores various religious sites across India, highlighting their cultural significance and sharing testimonies of pilgrims.",
@@ -42,47 +658,36 @@
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Safarnama",
-      "description": "Ankit Siwach visits some of the unexplored destinations in India and provides an insight into their culture, heritage, cuisine and natural beauty.",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
       "startDate": "2026-10-07T02:30:00",
-      "endDate": "2026-10-07T03:00:00",
-      "showTime": "02:30:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/80c90483b716d664f217b225251d0302.jpg"
-    },
-    {
-      "serverDate": "2026-10-07",
-      "showName": "The Way Back Home",
-      "description": "Rohan Thakur embarks on a journey across the Himalayan ranges, exploring the diverse landscape and culture of the region.",
-      "startDate": "2026-10-07T03:00:00",
       "endDate": "2026-10-07T03:30:00",
-      "showTime": "03:00:00",
+      "showTime": "02:30:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/929bf452bb19428b64a4ba02206987ba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Mid Wicket Tales",
-      "description": "Naseeruddin Shah recalls some of the most memorable moments in cricket and interacts with former cricketers, who share their experiences and journeys.",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
       "startDate": "2026-10-07T03:30:00",
       "endDate": "2026-10-07T04:30:00",
       "showTime": "03:30:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Indipedia",
-      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
+      "showName": "Destruction Decoded",
+      "description": "An in-depth look at catastrophic events, analysing the science behind natural and man-made disasters and exploring the causes and consequences through expert insights and CGI visuals.",
       "startDate": "2026-10-07T04:30:00",
       "endDate": "2026-10-07T05:30:00",
       "showTime": "04:30:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c910a7169c6a759878960f5c14ee8dc.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -108,25 +713,25 @@
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Parikrama",
-      "description": "The presenter sheds light on the rich history, sacred customs and religious significance of some of India's most magnificent temples.",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
       "startDate": "2026-10-07T06:30:00",
       "endDate": "2026-10-07T07:30:00",
       "showTime": "06:30:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/124b1beb38ae4dc32cb57675a42c3937.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Mid Wicket Tales",
-      "description": "Naseeruddin Shah recalls some of the most memorable moments in cricket and interacts with former cricketers, who share their experiences and journeys.",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
       "startDate": "2026-10-07T07:30:00",
       "endDate": "2026-10-07T08:30:00",
       "showTime": "07:30:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -163,47 +768,36 @@
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Indipedia",
-      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
+      "showName": "Destruction Decoded",
+      "description": "An in-depth look at catastrophic events, analysing the science behind natural and man-made disasters and exploring the causes and consequences through expert insights and CGI visuals.",
       "startDate": "2026-10-07T10:30:00",
       "endDate": "2026-10-07T11:30:00",
       "showTime": "10:30:00",
       "endTime": "11:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
-    },
-    {
-      "serverDate": "2026-10-07",
-      "showName": "Safarnama",
-      "description": "Ankit Siwach visits some of the unexplored destinations in India and provides an insight into their culture, heritage, cuisine and natural beauty.",
-      "startDate": "2026-10-07T11:30:00",
-      "endDate": "2026-10-07T12:00:00",
-      "showTime": "11:30:00",
-      "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/80c90483b716d664f217b225251d0302.jpg"
-    },
-    {
-      "serverDate": "2026-10-07",
-      "showName": "The Way Back Home",
-      "description": "Rohan Thakur embarks on a journey across the Himalayan ranges, exploring the diverse landscape and culture of the region.",
-      "startDate": "2026-10-07T12:00:00",
-      "endDate": "2026-10-07T12:30:00",
-      "showTime": "12:00:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/929bf452bb19428b64a4ba02206987ba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c910a7169c6a759878960f5c14ee8dc.jpg"
     },
     {
       "serverDate": "2026-10-07",
       "showName": "Mid Wicket Tales",
       "description": "Naseeruddin Shah recalls some of the most memorable moments in cricket and interacts with former cricketers, who share their experiences and journeys.",
+      "startDate": "2026-10-07T11:30:00",
+      "endDate": "2026-10-07T12:30:00",
+      "showTime": "11:30:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
+    },
+    {
+      "serverDate": "2026-10-07",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
       "startDate": "2026-10-07T12:30:00",
       "endDate": "2026-10-07T13:30:00",
       "showTime": "12:30:00",
       "endTime": "13:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -240,23 +834,12 @@
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Sharanam",
-      "description": "The host explores various religious sites across India, highlighting their cultural significance and sharing testimonies of pilgrims.",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
       "startDate": "2026-10-07T16:00:00",
       "endDate": "2026-10-07T16:30:00",
       "showTime": "16:00:00",
       "endTime": "16:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/41d8f4c8a5dc762a0f56cef27bdeac55.jpg"
-    },
-    {
-      "serverDate": "2026-10-07",
-      "showName": "Indipedia",
-      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
-      "startDate": "2026-10-07T16:30:00",
-      "endDate": "2026-10-07T17:30:00",
-      "showTime": "16:30:00",
-      "endTime": "17:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
     },
@@ -264,12 +847,23 @@
       "serverDate": "2026-10-07",
       "showName": "Mid Wicket Tales",
       "description": "Naseeruddin Shah recalls some of the most memorable moments in cricket and interacts with former cricketers, who share their experiences and journeys.",
+      "startDate": "2026-10-07T16:30:00",
+      "endDate": "2026-10-07T17:30:00",
+      "showTime": "16:30:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
+    },
+    {
+      "serverDate": "2026-10-07",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
       "startDate": "2026-10-07T17:30:00",
       "endDate": "2026-10-07T18:30:00",
       "showTime": "17:30:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -306,47 +900,36 @@
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Safarnama",
-      "description": "Ankit Siwach visits some of the unexplored destinations in India and provides an insight into their culture, heritage, cuisine and natural beauty.",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
       "startDate": "2026-10-07T21:00:00",
-      "endDate": "2026-10-07T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/80c90483b716d664f217b225251d0302.jpg"
-    },
-    {
-      "serverDate": "2026-10-07",
-      "showName": "The Way Back Home",
-      "description": "Rohan Thakur embarks on a journey across the Himalayan ranges, exploring the diverse landscape and culture of the region.",
-      "startDate": "2026-10-07T21:30:00",
       "endDate": "2026-10-07T22:00:00",
-      "showTime": "21:30:00",
+      "showTime": "21:00:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/929bf452bb19428b64a4ba02206987ba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Mid Wicket Tales",
-      "description": "Naseeruddin Shah recalls some of the most memorable moments in cricket and interacts with former cricketers, who share their experiences and journeys.",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
       "startDate": "2026-10-07T22:00:00",
       "endDate": "2026-10-07T23:00:00",
       "showTime": "22:00:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Indipedia",
-      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
+      "showName": "Mid Wicket Tales",
+      "description": "Naseeruddin Shah recalls some of the most memorable moments in cricket and interacts with former cricketers, who share their experiences and journeys.",
       "startDate": "2026-10-07T23:00:00",
       "endDate": "2026-10-07T23:59:59",
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -383,47 +966,36 @@
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Safarnama",
-      "description": "Ankit Siwach visits some of the unexplored destinations in India and provides an insight into their culture, heritage, cuisine and natural beauty.",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
       "startDate": "2026-10-08T02:30:00",
-      "endDate": "2026-10-08T03:00:00",
-      "showTime": "02:30:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/80c90483b716d664f217b225251d0302.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "The Way Back Home",
-      "description": "Rohan Thakur embarks on a journey across the Himalayan ranges, exploring the diverse landscape and culture of the region.",
-      "startDate": "2026-10-08T03:00:00",
       "endDate": "2026-10-08T03:30:00",
-      "showTime": "03:00:00",
+      "showTime": "02:30:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/929bf452bb19428b64a4ba02206987ba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Mid Wicket Tales",
-      "description": "Naseeruddin Shah recalls some of the most memorable moments in cricket and interacts with former cricketers, who share their experiences and journeys.",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
       "startDate": "2026-10-08T03:30:00",
       "endDate": "2026-10-08T04:30:00",
       "showTime": "03:30:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Indipedia",
-      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
+      "showName": "Destruction Decoded",
+      "description": "An in-depth look at catastrophic events, analysing the science behind natural and man-made disasters and exploring the causes and consequences through expert insights and CGI visuals.",
       "startDate": "2026-10-08T04:30:00",
       "endDate": "2026-10-08T05:30:00",
       "showTime": "04:30:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c910a7169c6a759878960f5c14ee8dc.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -449,25 +1021,25 @@
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Parikrama",
-      "description": "The presenter sheds light on the rich history, sacred customs and religious significance of some of India's most magnificent temples.",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
       "startDate": "2026-10-08T06:30:00",
       "endDate": "2026-10-08T07:30:00",
       "showTime": "06:30:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/124b1beb38ae4dc32cb57675a42c3937.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Mid Wicket Tales",
-      "description": "Naseeruddin Shah recalls some of the most memorable moments in cricket and interacts with former cricketers, who share their experiences and journeys.",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
       "startDate": "2026-10-08T07:30:00",
       "endDate": "2026-10-08T08:30:00",
       "showTime": "07:30:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -504,47 +1076,36 @@
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Indipedia",
-      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
+      "showName": "Lakshya 1971: Vayu Sena Ke Veer Yoddha",
+      "description": "The filmmaker delves into the 1971 Indo-Pak war and the crucial role of the Indian Air Force, covering key events that eventually led to the birth of Bangladesh.",
       "startDate": "2026-10-08T10:30:00",
       "endDate": "2026-10-08T11:30:00",
       "showTime": "10:30:00",
       "endTime": "11:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/14897327cbf5f74239cd6de9aec9a297.jpg"
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Safarnama",
-      "description": "Ankit Siwach visits some of the unexplored destinations in India and provides an insight into their culture, heritage, cuisine and natural beauty.",
+      "showName": "Air Battle Of Srinagar",
+      "description": "The filmmaker sheds light on the heroic story of Nirmal Jit Singh Sekhon, highlighting how he single-handedly defends the Srinagar airfield against overwhelming odds in the 1971 Indo-Pak war.",
       "startDate": "2026-10-08T11:30:00",
-      "endDate": "2026-10-08T12:00:00",
-      "showTime": "11:30:00",
-      "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/80c90483b716d664f217b225251d0302.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "The Way Back Home",
-      "description": "Rohan Thakur embarks on a journey across the Himalayan ranges, exploring the diverse landscape and culture of the region.",
-      "startDate": "2026-10-08T12:00:00",
       "endDate": "2026-10-08T12:30:00",
-      "showTime": "12:00:00",
+      "showTime": "11:30:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/929bf452bb19428b64a4ba02206987ba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/75cb03e2742332777daf89a1c05eda53.jpg"
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Mid Wicket Tales",
-      "description": "Naseeruddin Shah recalls some of the most memorable moments in cricket and interacts with former cricketers, who share their experiences and journeys.",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
       "startDate": "2026-10-08T12:30:00",
       "endDate": "2026-10-08T13:30:00",
       "showTime": "12:30:00",
       "endTime": "13:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -581,36 +1142,36 @@
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Sharanam",
-      "description": "The host explores various religious sites across India, highlighting their cultural significance and sharing testimonies of pilgrims.",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
       "startDate": "2026-10-08T16:00:00",
       "endDate": "2026-10-08T16:30:00",
       "showTime": "16:00:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/41d8f4c8a5dc762a0f56cef27bdeac55.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Indipedia",
-      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
+      "showName": "Lakshya 1971: Vayu Sena Ke Veer Yoddha",
+      "description": "The filmmaker delves into the 1971 Indo-Pak war and the crucial role of the Indian Air Force, covering key events that eventually led to the birth of Bangladesh.",
       "startDate": "2026-10-08T16:30:00",
       "endDate": "2026-10-08T17:30:00",
       "showTime": "16:30:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/14897327cbf5f74239cd6de9aec9a297.jpg"
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Mid Wicket Tales",
-      "description": "Naseeruddin Shah recalls some of the most memorable moments in cricket and interacts with former cricketers, who share their experiences and journeys.",
+      "showName": "Air Battle Of Srinagar",
+      "description": "The filmmaker sheds light on the heroic story of Nirmal Jit Singh Sekhon, highlighting how he single-handedly defends the Srinagar airfield against overwhelming odds in the 1971 Indo-Pak war.",
       "startDate": "2026-10-08T17:30:00",
       "endDate": "2026-10-08T18:30:00",
       "showTime": "17:30:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/75cb03e2742332777daf89a1c05eda53.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -647,47 +1208,36 @@
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Safarnama",
-      "description": "Ankit Siwach visits some of the unexplored destinations in India and provides an insight into their culture, heritage, cuisine and natural beauty.",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
       "startDate": "2026-10-08T21:00:00",
-      "endDate": "2026-10-08T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/80c90483b716d664f217b225251d0302.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "The Way Back Home",
-      "description": "Rohan Thakur embarks on a journey across the Himalayan ranges, exploring the diverse landscape and culture of the region.",
-      "startDate": "2026-10-08T21:30:00",
       "endDate": "2026-10-08T22:00:00",
-      "showTime": "21:30:00",
+      "showTime": "21:00:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/929bf452bb19428b64a4ba02206987ba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Mid Wicket Tales",
-      "description": "Naseeruddin Shah recalls some of the most memorable moments in cricket and interacts with former cricketers, who share their experiences and journeys.",
+      "showName": "Air Battle Of Srinagar",
+      "description": "The filmmaker sheds light on the heroic story of Nirmal Jit Singh Sekhon, highlighting how he single-handedly defends the Srinagar airfield against overwhelming odds in the 1971 Indo-Pak war.",
       "startDate": "2026-10-08T22:00:00",
       "endDate": "2026-10-08T23:00:00",
       "showTime": "22:00:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/75cb03e2742332777daf89a1c05eda53.jpg"
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Indipedia",
-      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
+      "showName": "Lakshya 1971: Vayu Sena Ke Veer Yoddha",
+      "description": "The filmmaker delves into the 1971 Indo-Pak war and the crucial role of the Indian Air Force, covering key events that eventually led to the birth of Bangladesh.",
       "startDate": "2026-10-08T23:00:00",
       "endDate": "2026-10-08T23:59:59",
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/14897327cbf5f74239cd6de9aec9a297.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -724,47 +1274,36 @@
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Safarnama",
-      "description": "Ankit Siwach visits some of the unexplored destinations in India and provides an insight into their culture, heritage, cuisine and natural beauty.",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
       "startDate": "2026-10-09T02:30:00",
-      "endDate": "2026-10-09T03:00:00",
-      "showTime": "02:30:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/80c90483b716d664f217b225251d0302.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "The Way Back Home",
-      "description": "Rohan Thakur embarks on a journey across the Himalayan ranges, exploring the diverse landscape and culture of the region.",
-      "startDate": "2026-10-09T03:00:00",
       "endDate": "2026-10-09T03:30:00",
-      "showTime": "03:00:00",
+      "showTime": "02:30:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/929bf452bb19428b64a4ba02206987ba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Mid Wicket Tales",
-      "description": "Naseeruddin Shah recalls some of the most memorable moments in cricket and interacts with former cricketers, who share their experiences and journeys.",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
       "startDate": "2026-10-09T03:30:00",
       "endDate": "2026-10-09T04:30:00",
       "showTime": "03:30:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Indipedia",
-      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
+      "showName": "Destruction Decoded",
+      "description": "An in-depth look at catastrophic events, analysing the science behind natural and man-made disasters and exploring the causes and consequences through expert insights and CGI visuals.",
       "startDate": "2026-10-09T04:30:00",
       "endDate": "2026-10-09T05:30:00",
       "showTime": "04:30:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c910a7169c6a759878960f5c14ee8dc.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -790,25 +1329,25 @@
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Parikrama",
-      "description": "The presenter sheds light on the rich history, sacred customs and religious significance of some of India's most magnificent temples.",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
       "startDate": "2026-10-09T06:30:00",
       "endDate": "2026-10-09T07:30:00",
       "showTime": "06:30:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/124b1beb38ae4dc32cb57675a42c3937.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Mid Wicket Tales",
-      "description": "Naseeruddin Shah recalls some of the most memorable moments in cricket and interacts with former cricketers, who share their experiences and journeys.",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
       "startDate": "2026-10-09T07:30:00",
       "endDate": "2026-10-09T08:30:00",
       "showTime": "07:30:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -845,36 +1384,36 @@
     },
     {
       "serverDate": "2026-10-09",
+      "showName": "India Post",
+      "description": "The host pays a visit to post offices spread across various villages in India to learn about the services they offer and interacts with the government employees to know about their experiences.",
+      "startDate": "2026-10-09T10:30:00",
+      "endDate": "2026-10-09T12:00:00",
+      "showTime": "10:30:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17551908fb143e2551d07abfe6c10aa0.jpg"
+    },
+    {
+      "serverDate": "2026-10-09",
       "showName": "Indipedia",
       "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
-      "startDate": "2026-10-09T10:30:00",
-      "endDate": "2026-10-09T11:30:00",
-      "showTime": "10:30:00",
-      "endTime": "11:30:00",
+      "startDate": "2026-10-09T12:00:00",
+      "endDate": "2026-10-09T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Destruction Decoded",
-      "description": "An in-depth look at catastrophic events, analysing the science behind natural and man-made disasters and exploring the causes and consequences through expert insights and CGI visuals.",
-      "startDate": "2026-10-09T11:30:00",
-      "endDate": "2026-10-09T12:30:00",
-      "showTime": "11:30:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c910a7169c6a759878960f5c14ee8dc.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Mid Wicket Tales",
-      "description": "Naseeruddin Shah recalls some of the most memorable moments in cricket and interacts with former cricketers, who share their experiences and journeys.",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
       "startDate": "2026-10-09T12:30:00",
       "endDate": "2026-10-09T13:30:00",
       "showTime": "12:30:00",
       "endTime": "13:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -911,36 +1450,36 @@
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Sharanam",
-      "description": "The host explores various religious sites across India, highlighting their cultural significance and sharing testimonies of pilgrims.",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
       "startDate": "2026-10-09T16:00:00",
       "endDate": "2026-10-09T16:30:00",
       "showTime": "16:00:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/41d8f4c8a5dc762a0f56cef27bdeac55.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Indipedia",
-      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
-      "startDate": "2026-10-09T16:30:00",
-      "endDate": "2026-10-09T17:30:00",
-      "showTime": "16:30:00",
-      "endTime": "17:30:00",
-      "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Mid Wicket Tales",
-      "description": "Naseeruddin Shah recalls some of the most memorable moments in cricket and interacts with former cricketers, who share their experiences and journeys.",
-      "startDate": "2026-10-09T17:30:00",
+      "showName": "India Post",
+      "description": "The host pays a visit to post offices spread across various villages in India to learn about the services they offer and interacts with the government employees to know about their experiences.",
+      "startDate": "2026-10-09T16:30:00",
+      "endDate": "2026-10-09T18:00:00",
+      "showTime": "16:30:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17551908fb143e2551d07abfe6c10aa0.jpg"
+    },
+    {
+      "serverDate": "2026-10-09",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
+      "startDate": "2026-10-09T18:00:00",
       "endDate": "2026-10-09T18:30:00",
-      "showTime": "17:30:00",
+      "showTime": "18:00:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -977,36 +1516,36 @@
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Destruction Decoded",
-      "description": "An in-depth look at catastrophic events, analysing the science behind natural and man-made disasters and exploring the causes and consequences through expert insights and CGI visuals.",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
       "startDate": "2026-10-09T21:00:00",
       "endDate": "2026-10-09T22:00:00",
       "showTime": "21:00:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c910a7169c6a759878960f5c14ee8dc.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Mid Wicket Tales",
-      "description": "Naseeruddin Shah recalls some of the most memorable moments in cricket and interacts with former cricketers, who share their experiences and journeys.",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
       "startDate": "2026-10-09T22:00:00",
-      "endDate": "2026-10-09T23:00:00",
+      "endDate": "2026-10-09T22:30:00",
       "showTime": "22:00:00",
-      "endTime": "23:00:00",
+      "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Indipedia",
-      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
-      "startDate": "2026-10-09T23:00:00",
+      "showName": "India Post",
+      "description": "The host pays a visit to post offices spread across various villages in India to learn about the services they offer and interacts with the government employees to know about their experiences.",
+      "startDate": "2026-10-09T22:30:00",
       "endDate": "2026-10-09T23:59:59",
-      "showTime": "23:00:00",
+      "showTime": "22:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17551908fb143e2551d07abfe6c10aa0.jpg"
     },
     {
       "serverDate": "2026-10-10",
@@ -1043,36 +1582,36 @@
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Destruction Decoded",
-      "description": "An in-depth look at catastrophic events, analysing the science behind natural and man-made disasters and exploring the causes and consequences through expert insights and CGI visuals.",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
       "startDate": "2026-10-10T02:30:00",
       "endDate": "2026-10-10T03:30:00",
       "showTime": "02:30:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c910a7169c6a759878960f5c14ee8dc.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Mid Wicket Tales",
-      "description": "Naseeruddin Shah recalls some of the most memorable moments in cricket and interacts with former cricketers, who share their experiences and journeys.",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
       "startDate": "2026-10-10T03:30:00",
       "endDate": "2026-10-10T04:30:00",
       "showTime": "03:30:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Indipedia",
-      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
+      "showName": "Destruction Decoded",
+      "description": "An in-depth look at catastrophic events, analysing the science behind natural and man-made disasters and exploring the causes and consequences through expert insights and CGI visuals.",
       "startDate": "2026-10-10T04:30:00",
       "endDate": "2026-10-10T05:30:00",
       "showTime": "04:30:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c910a7169c6a759878960f5c14ee8dc.jpg"
     },
     {
       "serverDate": "2026-10-10",
@@ -1098,47 +1637,47 @@
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Parikrama",
-      "description": "The presenter sheds light on the rich history, sacred customs and religious significance of some of India's most magnificent temples.",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
       "startDate": "2026-10-10T06:30:00",
       "endDate": "2026-10-10T07:30:00",
       "showTime": "06:30:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/124b1beb38ae4dc32cb57675a42c3937.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Mid Wicket Tales",
-      "description": "Naseeruddin Shah recalls some of the most memorable moments in cricket and interacts with former cricketers, who share their experiences and journeys.",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
       "startDate": "2026-10-10T07:30:00",
-      "endDate": "2026-10-10T08:30:00",
+      "endDate": "2026-10-10T09:30:00",
       "showTime": "07:30:00",
-      "endTime": "08:30:00",
+      "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
     },
     {
       "serverDate": "2026-10-10",
       "showName": "Regiment Diaries",
       "description": "The host provides insights into the various regiments of the Indian army, their training, traditions, history, contributions and how a civilian becomes a soldier.",
-      "startDate": "2026-10-10T08:30:00",
+      "startDate": "2026-10-10T09:30:00",
       "endDate": "2026-10-10T10:30:00",
-      "showTime": "08:30:00",
+      "showTime": "09:30:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d08fc772bfaf0b5d31172c1af6641f49.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Safarnama",
-      "description": "Ankit Siwach visits some of the unexplored destinations in India and provides an insight into their culture, heritage, cuisine and natural beauty.",
+      "showName": "Sharanam",
+      "description": "The host explores various religious sites across India, highlighting their cultural significance and sharing testimonies of pilgrims.",
       "startDate": "2026-10-10T10:30:00",
       "endDate": "2026-10-10T12:30:00",
       "showTime": "10:30:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/80c90483b716d664f217b225251d0302.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/41d8f4c8a5dc762a0f56cef27bdeac55.jpg"
     },
     {
       "serverDate": "2026-10-10",
@@ -1164,14 +1703,14 @@
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Mid Wicket Tales",
-      "description": "Naseeruddin Shah recalls some of the most memorable moments in cricket and interacts with former cricketers, who share their experiences and journeys.",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
       "startDate": "2026-10-10T14:30:00",
       "endDate": "2026-10-10T16:30:00",
       "showTime": "14:30:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
     },
     {
       "serverDate": "2026-10-10",
@@ -1186,25 +1725,25 @@
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Indipedia",
-      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
+      "showName": "Destruction Decoded",
+      "description": "An in-depth look at catastrophic events, analysing the science behind natural and man-made disasters and exploring the causes and consequences through expert insights and CGI visuals.",
       "startDate": "2026-10-10T17:30:00",
       "endDate": "2026-10-10T19:30:00",
       "showTime": "17:30:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c910a7169c6a759878960f5c14ee8dc.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Parikrama",
-      "description": "The presenter sheds light on the rich history, sacred customs and religious significance of some of India's most magnificent temples.",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
       "startDate": "2026-10-10T19:30:00",
       "endDate": "2026-10-10T20:00:00",
       "showTime": "19:30:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/124b1beb38ae4dc32cb57675a42c3937.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
     },
     {
       "serverDate": "2026-10-10",
@@ -1219,25 +1758,25 @@
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Safarnama",
-      "description": "Ankit Siwach visits some of the unexplored destinations in India and provides an insight into their culture, heritage, cuisine and natural beauty.",
+      "showName": "Regiment Diaries",
+      "description": "The host provides insights into the various regiments of the Indian army, their training, traditions, history, contributions and how a civilian becomes a soldier.",
       "startDate": "2026-10-10T21:00:00",
       "endDate": "2026-10-10T23:00:00",
       "showTime": "21:00:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/80c90483b716d664f217b225251d0302.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d08fc772bfaf0b5d31172c1af6641f49.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Indipedia",
-      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
+      "showName": "Destruction Decoded",
+      "description": "An in-depth look at catastrophic events, analysing the science behind natural and man-made disasters and exploring the causes and consequences through expert insights and CGI visuals.",
       "startDate": "2026-10-10T23:00:00",
       "endDate": "2026-10-10T23:59:59",
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c910a7169c6a759878960f5c14ee8dc.jpg"
     },
     {
       "serverDate": "2026-10-11",
@@ -1252,36 +1791,36 @@
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Regiment Diaries",
-      "description": "The host provides insights into the various regiments of the Indian army, their training, traditions, history, contributions and how a civilian becomes a soldier.",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
       "startDate": "2026-10-11T00:30:00",
       "endDate": "2026-10-11T02:30:00",
       "showTime": "00:30:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Regiment Diaries",
+      "description": "The host provides insights into the various regiments of the Indian army, their training, traditions, history, contributions and how a civilian becomes a soldier.",
+      "startDate": "2026-10-11T02:30:00",
+      "endDate": "2026-10-11T03:30:00",
+      "showTime": "02:30:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d08fc772bfaf0b5d31172c1af6641f49.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Mid Wicket Tales",
-      "description": "Naseeruddin Shah recalls some of the most memorable moments in cricket and interacts with former cricketers, who share their experiences and journeys.",
-      "startDate": "2026-10-11T02:30:00",
-      "endDate": "2026-10-11T04:00:00",
-      "showTime": "02:30:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
-    },
-    {
-      "serverDate": "2026-10-11",
-      "showName": "Safarnama",
-      "description": "Ankit Siwach visits some of the unexplored destinations in India and provides an insight into their culture, heritage, cuisine and natural beauty.",
-      "startDate": "2026-10-11T04:00:00",
+      "showName": "Destruction Decoded",
+      "description": "An in-depth look at catastrophic events, analysing the science behind natural and man-made disasters and exploring the causes and consequences through expert insights and CGI visuals.",
+      "startDate": "2026-10-11T03:30:00",
       "endDate": "2026-10-11T05:30:00",
-      "showTime": "04:00:00",
+      "showTime": "03:30:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/80c90483b716d664f217b225251d0302.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c910a7169c6a759878960f5c14ee8dc.jpg"
     },
     {
       "serverDate": "2026-10-11",
@@ -1307,23 +1846,67 @@
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Parikrama",
-      "description": "The presenter sheds light on the rich history, sacred customs and religious significance of some of India's most magnificent temples.",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
       "startDate": "2026-10-11T06:30:00",
       "endDate": "2026-10-11T07:30:00",
       "showTime": "06:30:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/124b1beb38ae4dc32cb57675a42c3937.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
+      "startDate": "2026-10-11T07:30:00",
+      "endDate": "2026-10-11T08:30:00",
+      "showTime": "07:30:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Regiment Diaries",
+      "description": "The host provides insights into the various regiments of the Indian army, their training, traditions, history, contributions and how a civilian becomes a soldier.",
+      "startDate": "2026-10-11T08:30:00",
+      "endDate": "2026-10-11T09:30:00",
+      "showTime": "08:30:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d08fc772bfaf0b5d31172c1af6641f49.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Tyohaar Ki Thaali",
+      "description": "The host shares cherished festive recipes, including heirloom dishes, while celebrating the country's culture by exploring its rich folklore.",
+      "startDate": "2026-10-11T09:30:00",
+      "endDate": "2026-10-11T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/200fb189eecf1f9cb95bdf926963820b.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Sharanam",
+      "description": "The host explores various religious sites across India, highlighting their cultural significance and sharing testimonies of pilgrims.",
+      "startDate": "2026-10-11T10:00:00",
+      "endDate": "2026-10-11T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/41d8f4c8a5dc762a0f56cef27bdeac55.jpg"
     },
     {
       "serverDate": "2026-10-11",
       "showName": "Mid Wicket Tales",
       "description": "Naseeruddin Shah recalls some of the most memorable moments in cricket and interacts with former cricketers, who share their experiences and journeys.",
-      "startDate": "2026-10-11T07:30:00",
-      "endDate": "2026-10-11T08:30:00",
-      "showTime": "07:30:00",
-      "endTime": "08:30:00",
+      "startDate": "2026-10-11T10:30:00",
+      "endDate": "2026-10-11T11:30:00",
+      "showTime": "10:30:00",
+      "endTime": "11:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
     },
@@ -1331,23 +1914,12 @@
       "serverDate": "2026-10-11",
       "showName": "Indipedia",
       "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
-      "startDate": "2026-10-11T08:30:00",
-      "endDate": "2026-10-11T10:30:00",
-      "showTime": "08:30:00",
-      "endTime": "10:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
-    },
-    {
-      "serverDate": "2026-10-11",
-      "showName": "Sharanam",
-      "description": "The host explores various religious sites across India, highlighting their cultural significance and sharing testimonies of pilgrims.",
-      "startDate": "2026-10-11T10:30:00",
+      "startDate": "2026-10-11T11:30:00",
       "endDate": "2026-10-11T12:30:00",
-      "showTime": "10:30:00",
+      "showTime": "11:30:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/41d8f4c8a5dc762a0f56cef27bdeac55.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
     },
     {
       "serverDate": "2026-10-11",
@@ -1373,14 +1945,25 @@
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Safarnama",
-      "description": "Ankit Siwach visits some of the unexplored destinations in India and provides an insight into their culture, heritage, cuisine and natural beauty.",
+      "showName": "Tyohaar Ki Thaali",
+      "description": "The host shares cherished festive recipes, including heirloom dishes, while celebrating the country's culture by exploring its rich folklore.",
       "startDate": "2026-10-11T14:30:00",
-      "endDate": "2026-10-11T16:30:00",
+      "endDate": "2026-10-11T15:00:00",
       "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/200fb189eecf1f9cb95bdf926963820b.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
+      "startDate": "2026-10-11T15:00:00",
+      "endDate": "2026-10-11T16:30:00",
+      "showTime": "15:00:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/80c90483b716d664f217b225251d0302.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
     },
     {
       "serverDate": "2026-10-11",
@@ -1395,25 +1978,36 @@
     },
     {
       "serverDate": "2026-10-11",
+      "showName": "Mid Wicket Tales",
+      "description": "Naseeruddin Shah recalls some of the most memorable moments in cricket and interacts with former cricketers, who share their experiences and journeys.",
+      "startDate": "2026-10-11T17:30:00",
+      "endDate": "2026-10-11T18:30:00",
+      "showTime": "17:30:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
       "showName": "Regiment Diaries",
       "description": "The host provides insights into the various regiments of the Indian army, their training, traditions, history, contributions and how a civilian becomes a soldier.",
-      "startDate": "2026-10-11T17:30:00",
+      "startDate": "2026-10-11T18:30:00",
       "endDate": "2026-10-11T19:30:00",
-      "showTime": "17:30:00",
+      "showTime": "18:30:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d08fc772bfaf0b5d31172c1af6641f49.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Parikrama",
-      "description": "The presenter sheds light on the rich history, sacred customs and religious significance of some of India's most magnificent temples.",
+      "showName": "Tyohaar Ki Thaali",
+      "description": "The host shares cherished festive recipes, including heirloom dishes, while celebrating the country's culture by exploring its rich folklore.",
       "startDate": "2026-10-11T19:30:00",
       "endDate": "2026-10-11T20:00:00",
       "showTime": "19:30:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/124b1beb38ae4dc32cb57675a42c3937.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/200fb189eecf1f9cb95bdf926963820b.jpg"
     },
     {
       "serverDate": "2026-10-11",
@@ -1428,25 +2022,25 @@
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "The Way Back Home",
-      "description": "Rohan Thakur embarks on a journey across the Himalayan ranges, exploring the diverse landscape and culture of the region.",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
       "startDate": "2026-10-11T21:00:00",
       "endDate": "2026-10-11T23:00:00",
       "showTime": "21:00:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/929bf452bb19428b64a4ba02206987ba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Indipedia",
-      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
+      "showName": "Mid Wicket Tales",
+      "description": "Naseeruddin Shah recalls some of the most memorable moments in cricket and interacts with former cricketers, who share their experiences and journeys.",
       "startDate": "2026-10-11T23:00:00",
       "endDate": "2026-10-11T23:59:59",
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -1461,36 +2055,25 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Mid Wicket Tales",
-      "description": "Naseeruddin Shah recalls some of the most memorable moments in cricket and interacts with former cricketers, who share their experiences and journeys.",
-      "startDate": "2026-10-12T00:30:00",
-      "endDate": "2026-10-12T01:30:00",
-      "showTime": "00:30:00",
-      "endTime": "01:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
-    },
-    {
-      "serverDate": "2026-10-12",
       "showName": "Regiment Diaries",
       "description": "The host provides insights into the various regiments of the Indian army, their training, traditions, history, contributions and how a civilian becomes a soldier.",
-      "startDate": "2026-10-12T01:30:00",
+      "startDate": "2026-10-12T00:30:00",
       "endDate": "2026-10-12T03:30:00",
-      "showTime": "01:30:00",
+      "showTime": "00:30:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d08fc772bfaf0b5d31172c1af6641f49.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Indipedia",
-      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
+      "showName": "Destruction Decoded",
+      "description": "An in-depth look at catastrophic events, analysing the science behind natural and man-made disasters and exploring the causes and consequences through expert insights and CGI visuals.",
       "startDate": "2026-10-12T03:30:00",
       "endDate": "2026-10-12T05:30:00",
       "showTime": "03:30:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c910a7169c6a759878960f5c14ee8dc.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -1516,14 +2099,14 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Parikrama",
-      "description": "The presenter sheds light on the rich history, sacred customs and religious significance of some of India's most magnificent temples.",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
       "startDate": "2026-10-12T06:30:00",
       "endDate": "2026-10-12T07:30:00",
       "showTime": "06:30:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/124b1beb38ae4dc32cb57675a42c3937.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -1571,25 +2154,25 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Indipedia",
-      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
+      "showName": "Destruction Decoded",
+      "description": "An in-depth look at catastrophic events, analysing the science behind natural and man-made disasters and exploring the causes and consequences through expert insights and CGI visuals.",
       "startDate": "2026-10-12T10:30:00",
       "endDate": "2026-10-12T11:30:00",
       "showTime": "10:30:00",
       "endTime": "11:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c910a7169c6a759878960f5c14ee8dc.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Destruction Decoded",
-      "description": "An in-depth look at catastrophic events, analysing the science behind natural and man-made disasters and exploring the causes and consequences through expert insights and CGI visuals.",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
       "startDate": "2026-10-12T11:30:00",
       "endDate": "2026-10-12T12:30:00",
       "showTime": "11:30:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c910a7169c6a759878960f5c14ee8dc.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -1637,36 +2220,47 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Sharanam",
-      "description": "The host explores various religious sites across India, highlighting their cultural significance and sharing testimonies of pilgrims.",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
       "startDate": "2026-10-12T16:00:00",
       "endDate": "2026-10-12T16:30:00",
       "showTime": "16:00:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/41d8f4c8a5dc762a0f56cef27bdeac55.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Indipedia",
-      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
+      "showName": "Destruction Decoded",
+      "description": "An in-depth look at catastrophic events, analysing the science behind natural and man-made disasters and exploring the causes and consequences through expert insights and CGI visuals.",
       "startDate": "2026-10-12T16:30:00",
       "endDate": "2026-10-12T17:30:00",
       "showTime": "16:30:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c910a7169c6a759878960f5c14ee8dc.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Mid Wicket Tales",
-      "description": "Naseeruddin Shah recalls some of the most memorable moments in cricket and interacts with former cricketers, who share their experiences and journeys.",
+      "showName": "Sharanam",
+      "description": "The host explores various religious sites across India, highlighting their cultural significance and sharing testimonies of pilgrims.",
       "startDate": "2026-10-12T17:30:00",
-      "endDate": "2026-10-12T18:30:00",
+      "endDate": "2026-10-12T18:00:00",
       "showTime": "17:30:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/41d8f4c8a5dc762a0f56cef27bdeac55.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Umeed India",
+      "description": "Virender Sehwag travels to the training bases of diversified, intrepid athletes aiming for glory at the 2020 Olympics, meeting their coaching staff and families, who are there to ensure their success.",
+      "startDate": "2026-10-12T18:00:00",
+      "endDate": "2026-10-12T18:30:00",
+      "showTime": "18:00:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0fedca09449dbc49e53c06f40ad05fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b29eec2aeeef602dedaed579d3af656.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -1703,14 +2297,14 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Destruction Decoded",
-      "description": "An in-depth look at catastrophic events, analysing the science behind natural and man-made disasters and exploring the causes and consequences through expert insights and CGI visuals.",
+      "showName": "Indipedia",
+      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
       "startDate": "2026-10-12T21:00:00",
       "endDate": "2026-10-12T22:00:00",
       "showTime": "21:00:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c910a7169c6a759878960f5c14ee8dc.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -1725,14 +2319,14 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Indipedia",
-      "description": "The host travels to different states in India and learns more about the customs and traditions that have been a part of the country since ancient times.",
+      "showName": "Destruction Decoded",
+      "description": "An in-depth look at catastrophic events, analysing the science behind natural and man-made disasters and exploring the causes and consequences through expert insights and CGI visuals.",
       "startDate": "2026-10-12T23:00:00",
       "endDate": "2026-10-12T23:59:59",
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a479e43e1e9cf2f1c8c63b22872f1f6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c910a7169c6a759878960f5c14ee8dc.jpg"
     }
   ]
 }

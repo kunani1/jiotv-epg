@@ -8,56 +8,485 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Rozana_Spokesman.png",
   "programs": [
     {
-      "serverDate": "2026-10-06",
-      "showName": "Lokaan Da Spokesman",
-      "description": "Lokaan Da Spokesman",
-      "startDate": "2026-10-06T00:00:00",
-      "endDate": "2026-10-06T01:00:00",
+      "serverDate": "2026-10-05",
+      "showName": "Khabar Khaas Hai !",
+      "description": "Khabar Khaas Hai !",
+      "startDate": "2026-10-05T00:00:00",
+      "endDate": "2026-10-05T00:30:00",
       "showTime": "00:00:00",
-      "endTime": "01:00:00",
+      "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ef7a7ed354bd6fec3a0e57b01f537db5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/188d96fde743cf9b5d9d99123636bfd0.jpg"
     },
     {
-      "serverDate": "2026-10-06",
+      "serverDate": "2026-10-05",
+      "showName": "Mudda Live",
+      "description": "The host facilitates discussions with experts regarding recent news updates and developments related to the nation's current affairs, live.",
+      "startDate": "2026-10-05T00:30:00",
+      "endDate": "2026-10-05T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62739d2c0e6acefce8ae69c86d3b4ca1.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
       "showName": "The Spokesman Debate",
       "description": "The Spokesman Debate",
-      "startDate": "2026-10-06T01:00:00",
-      "endDate": "2026-10-06T02:00:00",
+      "startDate": "2026-10-05T01:00:00",
+      "endDate": "2026-10-05T02:00:00",
       "showTime": "01:00:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b5161637c161ea0f49b6a9ecd341e95.jpg"
     },
     {
-      "serverDate": "2026-10-06",
+      "serverDate": "2026-10-05",
       "showName": "Rozana Khass Khabar",
       "description": "Rozana Khass Khabar",
-      "startDate": "2026-10-06T02:00:00",
-      "endDate": "2026-10-06T03:00:00",
+      "startDate": "2026-10-05T02:00:00",
+      "endDate": "2026-10-05T03:00:00",
       "showTime": "02:00:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cf6894d92c24754d742067be743e5899.jpg"
     },
     {
-      "serverDate": "2026-10-06",
-      "showName": "Khabar In Focus",
-      "description": "Khabar In Focus",
-      "startDate": "2026-10-06T03:00:00",
-      "endDate": "2026-10-06T04:00:00",
+      "serverDate": "2026-10-05",
+      "showName": "Rozana -Zindgi",
+      "description": "Rozana -Zindgi",
+      "startDate": "2026-10-05T03:00:00",
+      "endDate": "2026-10-05T04:00:00",
       "showTime": "03:00:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/95d2d97e86769d799e74e3ebbd65f8f9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3843a52c9aeba0305da8cdfb5c4d0138.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Khabar Punjab Di",
+      "description": "Khabar Punjab Di",
+      "startDate": "2026-10-05T04:00:00",
+      "endDate": "2026-10-05T05:00:00",
+      "showTime": "04:00:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1580201f48c5cd1480fdb049e3a88d77.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Gurbaani",
+      "description": "Gurbaani",
+      "startDate": "2026-10-05T05:00:00",
+      "endDate": "2026-10-05T06:45:00",
+      "showTime": "05:00:00",
+      "endTime": "06:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9f4ec4f9df834402f1d075c2a4bf2c5.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "So Dar",
+      "description": "So Dar",
+      "startDate": "2026-10-05T06:45:00",
+      "endDate": "2026-10-05T07:00:00",
+      "showTime": "06:45:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/32efad9fa9ac32a97d3f2ffb2b5db85b.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Sat Shri Akaal Punjab",
+      "description": "Sat Shri Akaal Punjab",
+      "startDate": "2026-10-05T07:00:00",
+      "endDate": "2026-10-05T08:00:00",
+      "showTime": "07:00:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/385bb7572dac7a7bdc98bfc3c3fe4d6c.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Mukh Khabraan",
+      "description": "Mukh Khabraan",
+      "startDate": "2026-10-05T08:00:00",
+      "endDate": "2026-10-05T08:30:00",
+      "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Nimrat Ma'am: Political Safar - Legal Interview",
+      "description": "Nimrat Ma'am: Political Safar - Legal Interview",
+      "startDate": "2026-10-05T08:30:00",
+      "endDate": "2026-10-05T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f3cd0ba1db505966daca6a93a4b66e9.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Khetaan De Putt",
+      "description": "Khetaan De Putt",
+      "startDate": "2026-10-05T09:00:00",
+      "endDate": "2026-10-05T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e78b14329e74800a2dfc105d1478a2a.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Ek Nazar",
+      "description": "A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.",
+      "startDate": "2026-10-05T09:30:00",
+      "endDate": "2026-10-05T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/59daf9c8ca2f092ad5308efd88853e9d.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Ground Zero Ton Spokesman",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-05T10:00:00",
+      "endDate": "2026-10-05T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02a735b3379667bb489dc75572d240b6.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Mukh Khabraan",
+      "description": "Mukh Khabraan",
+      "startDate": "2026-10-05T10:30:00",
+      "endDate": "2026-10-05T11:00:00",
+      "showTime": "10:30:00",
+      "endTime": "11:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Khabran In Focus",
+      "description": "Khabran In Focus",
+      "startDate": "2026-10-05T11:00:00",
+      "endDate": "2026-10-05T11:30:00",
+      "showTime": "11:00:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/db18c4d79909b5a6478d24c88185e266.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Geddi With Shurli",
+      "description": "Geddi With Shurli",
+      "startDate": "2026-10-05T11:30:00",
+      "endDate": "2026-10-05T12:00:00",
+      "showTime": "11:30:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b323e34174362eeca7837cafa742bbc5.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Hindi Bulletin",
+      "description": "The host presents the latest updates on events concerning sociocultural, economic and political issues transpiring across the nation.",
+      "startDate": "2026-10-05T12:00:00",
+      "endDate": "2026-10-05T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ecbfea1b5059e4784b759456a6d67107.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Khabar Dopehar",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-10-05T12:30:00",
+      "endDate": "2026-10-05T13:00:00",
+      "showTime": "12:30:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4b0666675d94d1f92923ac81a278551f.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Khaas Khabraan",
+      "description": "Khaas Khabraan",
+      "startDate": "2026-10-05T13:00:00",
+      "endDate": "2026-10-05T13:30:00",
+      "showTime": "13:00:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a86919181850354e595afdc58c2b54b.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Sitareyaan Diyaan Galaan",
+      "description": "Sitareyaan Diyaan Galaan",
+      "startDate": "2026-10-05T13:30:00",
+      "endDate": "2026-10-05T14:00:00",
+      "showTime": "13:30:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28468defe077118fb0cdd69c03e43050.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Mukh Khabraan",
+      "description": "Mukh Khabraan",
+      "startDate": "2026-10-05T14:00:00",
+      "endDate": "2026-10-05T14:30:00",
+      "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Khaas Khabraan",
+      "description": "Khaas Khabraan",
+      "startDate": "2026-10-05T14:30:00",
+      "endDate": "2026-10-05T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a86919181850354e595afdc58c2b54b.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Khabar Punjab Di",
+      "description": "Khabar Punjab Di",
+      "startDate": "2026-10-05T15:00:00",
+      "endDate": "2026-10-05T15:30:00",
+      "showTime": "15:00:00",
+      "endTime": "15:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1580201f48c5cd1480fdb049e3a88d77.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Galaan Tey Garaari",
+      "description": "Galaan Tey Garaari",
+      "startDate": "2026-10-05T15:30:00",
+      "endDate": "2026-10-05T16:00:00",
+      "showTime": "15:30:00",
+      "endTime": "16:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26a5b13ada17af5cb3c14db3a818571f.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Khaas Khabraan",
+      "description": "Khaas Khabraan",
+      "startDate": "2026-10-05T16:00:00",
+      "endDate": "2026-10-05T16:30:00",
+      "showTime": "16:00:00",
+      "endTime": "16:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a86919181850354e595afdc58c2b54b.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Hindi Bulletin",
+      "description": "The host presents the latest updates on events concerning sociocultural, economic and political issues transpiring across the nation.",
+      "startDate": "2026-10-05T16:30:00",
+      "endDate": "2026-10-05T17:00:00",
+      "showTime": "16:30:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ecbfea1b5059e4784b759456a6d67107.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Mudda Live",
+      "description": "The host facilitates discussions with experts regarding recent news updates and developments related to the nation's current affairs, live.",
+      "startDate": "2026-10-05T17:00:00",
+      "endDate": "2026-10-05T17:30:00",
+      "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62739d2c0e6acefce8ae69c86d3b4ca1.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Mukh Khabraan",
+      "description": "Mukh Khabraan",
+      "startDate": "2026-10-05T17:30:00",
+      "endDate": "2026-10-05T18:00:00",
+      "showTime": "17:30:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Ground Zero Ton Spokesman",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-05T18:00:00",
+      "endDate": "2026-10-05T18:30:00",
+      "showTime": "18:00:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02a735b3379667bb489dc75572d240b6.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Mukh Khabraan",
+      "description": "Mukh Khabraan",
+      "startDate": "2026-10-05T18:30:00",
+      "endDate": "2026-10-05T19:00:00",
+      "showTime": "18:30:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Sidhi Gal",
+      "description": "The host invites an expert and engages in an informative discussion on various important topics related to issues that concern society.",
+      "startDate": "2026-10-05T19:00:00",
+      "endDate": "2026-10-05T20:00:00",
+      "showTime": "19:00:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f81945d7d97820af8a2c668c081a232.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Spokesman Di Saath",
+      "description": "Spokesman Di Saath",
+      "startDate": "2026-10-05T20:00:00",
+      "endDate": "2026-10-05T20:30:00",
+      "showTime": "20:00:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e9a1adc005a66bbbb721351aaee7910a.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Rozana Khass Khabar",
+      "description": "Rozana Khass Khabar",
+      "startDate": "2026-10-05T20:30:00",
+      "endDate": "2026-10-05T21:30:00",
+      "showTime": "20:30:00",
+      "endTime": "21:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cf6894d92c24754d742067be743e5899.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Mukh Khabraan",
+      "description": "Mukh Khabraan",
+      "startDate": "2026-10-05T21:30:00",
+      "endDate": "2026-10-05T22:00:00",
+      "showTime": "21:30:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Rozana -Zindgi",
+      "description": "Rozana -Zindgi",
+      "startDate": "2026-10-05T22:00:00",
+      "endDate": "2026-10-05T22:30:00",
+      "showTime": "22:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3843a52c9aeba0305da8cdfb5c4d0138.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Mudda Live",
+      "description": "The host facilitates discussions with experts regarding recent news updates and developments related to the nation's current affairs, live.",
+      "startDate": "2026-10-05T22:30:00",
+      "endDate": "2026-10-05T23:00:00",
+      "showTime": "22:30:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62739d2c0e6acefce8ae69c86d3b4ca1.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Sidhi Gal",
+      "description": "The host invites an expert and engages in an informative discussion on various important topics related to issues that concern society.",
+      "startDate": "2026-10-05T23:00:00",
+      "endDate": "2026-10-05T23:30:00",
+      "showTime": "23:00:00",
+      "endTime": "23:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f81945d7d97820af8a2c668c081a232.jpg"
+    },
+    {
+      "serverDate": "2026-10-05",
+      "showName": "Spokesman Di Saath",
+      "description": "Spokesman Di Saath",
+      "startDate": "2026-10-05T23:30:00",
+      "endDate": "2026-10-05T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e9a1adc005a66bbbb721351aaee7910a.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Spokesman Di Saath",
+      "description": "Spokesman Di Saath",
+      "startDate": "2026-10-06T00:00:00",
+      "endDate": "2026-10-06T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e9a1adc005a66bbbb721351aaee7910a.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Mukh Khabraan",
+      "description": "Mukh Khabraan",
+      "startDate": "2026-10-06T00:30:00",
+      "endDate": "2026-10-06T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Safar With Nimrat Kaur",
+      "description": "Safar With Nimrat Kaur",
+      "startDate": "2026-10-06T01:00:00",
+      "endDate": "2026-10-06T02:00:00",
+      "showTime": "01:00:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23d894e248b6a5d9f5561dd192f1fc9a.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Mukh Khabraan",
+      "description": "Mukh Khabraan",
+      "startDate": "2026-10-06T02:00:00",
+      "endDate": "2026-10-06T03:00:00",
+      "showTime": "02:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
     },
     {
       "serverDate": "2026-10-06",
       "showName": "Khabar Punjab Di",
       "description": "Khabar Punjab Di",
-      "startDate": "2026-10-06T04:00:00",
+      "startDate": "2026-10-06T03:00:00",
       "endDate": "2026-10-06T05:00:00",
-      "showTime": "04:00:00",
+      "showTime": "03:00:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1580201f48c5cd1480fdb049e3a88d77.jpg"
@@ -86,77 +515,77 @@
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "Sat Shri Akaal Punjabieoo",
-      "description": "Sat Shri Akaal Punjabieoo",
+      "showName": "Sat Shri Akaal Punjab",
+      "description": "Sat Shri Akaal Punjab",
       "startDate": "2026-10-06T07:00:00",
-      "endDate": "2026-10-06T07:30:00",
+      "endDate": "2026-10-06T08:00:00",
       "showTime": "07:00:00",
-      "endTime": "07:30:00",
+      "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7dc831e6fa5d134034cb03e180561702.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/385bb7572dac7a7bdc98bfc3c3fe4d6c.jpg"
     },
     {
       "serverDate": "2026-10-06",
       "showName": "Mukh Khabraan",
       "description": "Mukh Khabraan",
-      "startDate": "2026-10-06T07:30:00",
-      "endDate": "2026-10-06T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
-    },
-    {
-      "serverDate": "2026-10-06",
-      "showName": "Ground Zero Ton Spokesman",
-      "description": "Bringing the best in television.",
       "startDate": "2026-10-06T08:00:00",
       "endDate": "2026-10-06T08:30:00",
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02a735b3379667bb489dc75572d240b6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "Dabaadab Khabraan",
-      "description": "Dabaadab Khabraan",
+      "showName": "Ek Nazar",
+      "description": "A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.",
       "startDate": "2026-10-06T08:30:00",
       "endDate": "2026-10-06T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fee4b5b353786663f363c776aa82a95d.jpg"
-    },
-    {
-      "serverDate": "2026-10-06",
-      "showName": "Josh, Jawaani Jazba",
-      "description": "Josh, Jawaani Jazba",
-      "startDate": "2026-10-06T09:00:00",
-      "endDate": "2026-10-06T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/71e461df496bfa1e9d9b7632da71cf9f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/59daf9c8ca2f092ad5308efd88853e9d.jpg"
     },
     {
       "serverDate": "2026-10-06",
       "showName": "Khaas Khabraan",
       "description": "Khaas Khabraan",
-      "startDate": "2026-10-06T09:30:00",
-      "endDate": "2026-10-06T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
+      "startDate": "2026-10-06T09:00:00",
+      "endDate": "2026-10-06T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a86919181850354e595afdc58c2b54b.jpg"
     },
     {
       "serverDate": "2026-10-06",
+      "showName": "Nimrat Ma'am: Political Safar - Legal Interview",
+      "description": "Nimrat Ma'am: Political Safar - Legal Interview",
+      "startDate": "2026-10-06T09:30:00",
+      "endDate": "2026-10-06T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f3cd0ba1db505966daca6a93a4b66e9.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Ground Zero Ton Spokesman",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-06T10:00:00",
+      "endDate": "2026-10-06T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02a735b3379667bb489dc75572d240b6.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
       "showName": "Mukh Khabraan",
       "description": "Mukh Khabraan",
-      "startDate": "2026-10-06T10:00:00",
+      "startDate": "2026-10-06T10:30:00",
       "endDate": "2026-10-06T11:00:00",
-      "showTime": "10:00:00",
+      "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
@@ -166,11 +595,22 @@
       "showName": "Khabran In Focus",
       "description": "Khabran In Focus",
       "startDate": "2026-10-06T11:00:00",
-      "endDate": "2026-10-06T12:00:00",
+      "endDate": "2026-10-06T11:30:00",
       "showTime": "11:00:00",
-      "endTime": "12:00:00",
+      "endTime": "11:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/db18c4d79909b5a6478d24c88185e266.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Khabar Khaas Hai !",
+      "description": "Khabar Khaas Hai !",
+      "startDate": "2026-10-06T11:30:00",
+      "endDate": "2026-10-06T12:00:00",
+      "showTime": "11:30:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/188d96fde743cf9b5d9d99123636bfd0.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -207,25 +647,36 @@
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "Sitareyaan Diyaan Galaan",
-      "description": "Sitareyaan Diyaan Galaan",
+      "showName": "Rozana -Zindgi",
+      "description": "Rozana -Zindgi",
       "startDate": "2026-10-06T13:30:00",
       "endDate": "2026-10-06T14:00:00",
       "showTime": "13:30:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28468defe077118fb0cdd69c03e43050.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3843a52c9aeba0305da8cdfb5c4d0138.jpg"
     },
     {
       "serverDate": "2026-10-06",
       "showName": "Mukh Khabraan",
       "description": "Mukh Khabraan",
       "startDate": "2026-10-06T14:00:00",
-      "endDate": "2026-10-06T15:00:00",
+      "endDate": "2026-10-06T14:30:00",
       "showTime": "14:00:00",
-      "endTime": "15:00:00",
+      "endTime": "14:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Khaas Khabraan",
+      "description": "Khaas Khabraan",
+      "startDate": "2026-10-06T14:30:00",
+      "endDate": "2026-10-06T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a86919181850354e595afdc58c2b54b.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -240,14 +691,14 @@
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "Dabaadab Khabraan",
-      "description": "Dabaadab Khabraan",
+      "showName": "Ek Nazar",
+      "description": "A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.",
       "startDate": "2026-10-06T15:30:00",
       "endDate": "2026-10-06T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fee4b5b353786663f363c776aa82a95d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/59daf9c8ca2f092ad5308efd88853e9d.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -273,14 +724,14 @@
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "Khetaan De Putt",
-      "description": "Khetaan De Putt",
+      "showName": "Mudda Live",
+      "description": "The host facilitates discussions with experts regarding recent news updates and developments related to the nation's current affairs, live.",
       "startDate": "2026-10-06T17:00:00",
       "endDate": "2026-10-06T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e78b14329e74800a2dfc105d1478a2a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62739d2c0e6acefce8ae69c86d3b4ca1.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -306,14 +757,14 @@
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "Mukh Khabraan",
-      "description": "Mukh Khabraan",
+      "showName": "Rozana Tafsil",
+      "description": "Rozana Tafsil",
       "startDate": "2026-10-06T18:30:00",
       "endDate": "2026-10-06T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/317a759a342198018e8b885320fac561.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -331,11 +782,22 @@
       "showName": "Lokaan Da Spokesman",
       "description": "Lokaan Da Spokesman",
       "startDate": "2026-10-06T20:00:00",
-      "endDate": "2026-10-06T21:00:00",
+      "endDate": "2026-10-06T20:30:00",
       "showTime": "20:00:00",
-      "endTime": "21:00:00",
+      "endTime": "20:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ef7a7ed354bd6fec3a0e57b01f537db5.jpg"
+    },
+    {
+      "serverDate": "2026-10-06",
+      "showName": "Rozana Primetime",
+      "description": "The host presents the latest headlines and updates concerning the political, social and economic fronts from Punjab and across the globe.",
+      "startDate": "2026-10-06T20:30:00",
+      "endDate": "2026-10-06T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e48ebd5a6a842a98806578378549f5ac.jpg"
     },
     {
       "serverDate": "2026-10-06",
@@ -361,47 +823,58 @@
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "Ground Zero Ton Spokesman",
-      "description": "Bringing the best in television.",
+      "showName": "Khaas Khabraan",
+      "description": "Khaas Khabraan",
       "startDate": "2026-10-06T22:30:00",
       "endDate": "2026-10-06T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02a735b3379667bb489dc75572d240b6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a86919181850354e595afdc58c2b54b.jpg"
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "Dabaadab Khabraan",
-      "description": "Dabaadab Khabraan",
+      "showName": "Ek Nazar",
+      "description": "A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.",
       "startDate": "2026-10-06T23:00:00",
       "endDate": "2026-10-06T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fee4b5b353786663f363c776aa82a95d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/59daf9c8ca2f092ad5308efd88853e9d.jpg"
     },
     {
       "serverDate": "2026-10-06",
-      "showName": "The Spokesman Debate",
-      "description": "The Spokesman Debate",
+      "showName": "Mudda Live",
+      "description": "The host facilitates discussions with experts regarding recent news updates and developments related to the nation's current affairs, live.",
       "startDate": "2026-10-06T23:30:00",
       "endDate": "2026-10-06T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b5161637c161ea0f49b6a9ecd341e95.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62739d2c0e6acefce8ae69c86d3b4ca1.jpg"
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Lokaan Da Spokesman",
-      "description": "Lokaan Da Spokesman",
+      "showName": "Khabar Khaas Hai !",
+      "description": "Khabar Khaas Hai !",
       "startDate": "2026-10-07T00:00:00",
-      "endDate": "2026-10-07T01:00:00",
+      "endDate": "2026-10-07T00:30:00",
       "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/188d96fde743cf9b5d9d99123636bfd0.jpg"
+    },
+    {
+      "serverDate": "2026-10-07",
+      "showName": "Mudda Live",
+      "description": "The host facilitates discussions with experts regarding recent news updates and developments related to the nation's current affairs, live.",
+      "startDate": "2026-10-07T00:30:00",
+      "endDate": "2026-10-07T01:00:00",
+      "showTime": "00:30:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ef7a7ed354bd6fec3a0e57b01f537db5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62739d2c0e6acefce8ae69c86d3b4ca1.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -427,14 +900,14 @@
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Khabar In Focus",
-      "description": "Khabar In Focus",
+      "showName": "Rozana -Zindgi",
+      "description": "Rozana -Zindgi",
       "startDate": "2026-10-07T03:00:00",
       "endDate": "2026-10-07T04:00:00",
       "showTime": "03:00:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/95d2d97e86769d799e74e3ebbd65f8f9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3843a52c9aeba0305da8cdfb5c4d0138.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -471,77 +944,77 @@
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Sat Shri Akaal Punjabieoo",
-      "description": "Sat Shri Akaal Punjabieoo",
+      "showName": "Sat Shri Akaal Punjab",
+      "description": "Sat Shri Akaal Punjab",
       "startDate": "2026-10-07T07:00:00",
-      "endDate": "2026-10-07T07:30:00",
+      "endDate": "2026-10-07T08:00:00",
       "showTime": "07:00:00",
-      "endTime": "07:30:00",
+      "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7dc831e6fa5d134034cb03e180561702.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/385bb7572dac7a7bdc98bfc3c3fe4d6c.jpg"
     },
     {
       "serverDate": "2026-10-07",
       "showName": "Mukh Khabraan",
       "description": "Mukh Khabraan",
-      "startDate": "2026-10-07T07:30:00",
-      "endDate": "2026-10-07T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
-    },
-    {
-      "serverDate": "2026-10-07",
-      "showName": "Ground Zero Ton Spokesman",
-      "description": "Bringing the best in television.",
       "startDate": "2026-10-07T08:00:00",
       "endDate": "2026-10-07T08:30:00",
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02a735b3379667bb489dc75572d240b6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Dabaadab Khabraan",
-      "description": "Dabaadab Khabraan",
+      "showName": "Ek Nazar",
+      "description": "A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.",
       "startDate": "2026-10-07T08:30:00",
       "endDate": "2026-10-07T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fee4b5b353786663f363c776aa82a95d.jpg"
-    },
-    {
-      "serverDate": "2026-10-07",
-      "showName": "Tawe Waale Fankaar",
-      "description": "Tawe Waale Fankaar",
-      "startDate": "2026-10-07T09:00:00",
-      "endDate": "2026-10-07T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cd415d8147dbd5d66d1a970225cfd04.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/59daf9c8ca2f092ad5308efd88853e9d.jpg"
     },
     {
       "serverDate": "2026-10-07",
       "showName": "Khaas Khabraan",
       "description": "Khaas Khabraan",
-      "startDate": "2026-10-07T09:30:00",
-      "endDate": "2026-10-07T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
+      "startDate": "2026-10-07T09:00:00",
+      "endDate": "2026-10-07T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a86919181850354e595afdc58c2b54b.jpg"
     },
     {
       "serverDate": "2026-10-07",
+      "showName": "Josh, Jawaani Jazba",
+      "description": "Josh, Jawaani Jazba",
+      "startDate": "2026-10-07T09:30:00",
+      "endDate": "2026-10-07T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/71e461df496bfa1e9d9b7632da71cf9f.jpg"
+    },
+    {
+      "serverDate": "2026-10-07",
+      "showName": "Ground Zero Ton Spokesman",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-07T10:00:00",
+      "endDate": "2026-10-07T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02a735b3379667bb489dc75572d240b6.jpg"
+    },
+    {
+      "serverDate": "2026-10-07",
       "showName": "Mukh Khabraan",
       "description": "Mukh Khabraan",
-      "startDate": "2026-10-07T10:00:00",
+      "startDate": "2026-10-07T10:30:00",
       "endDate": "2026-10-07T11:00:00",
-      "showTime": "10:00:00",
+      "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
@@ -551,11 +1024,22 @@
       "showName": "Khabran In Focus",
       "description": "Khabran In Focus",
       "startDate": "2026-10-07T11:00:00",
-      "endDate": "2026-10-07T12:00:00",
+      "endDate": "2026-10-07T11:30:00",
       "showTime": "11:00:00",
-      "endTime": "12:00:00",
+      "endTime": "11:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/db18c4d79909b5a6478d24c88185e266.jpg"
+    },
+    {
+      "serverDate": "2026-10-07",
+      "showName": "Khabar Khaas Hai !",
+      "description": "Khabar Khaas Hai !",
+      "startDate": "2026-10-07T11:30:00",
+      "endDate": "2026-10-07T12:00:00",
+      "showTime": "11:30:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/188d96fde743cf9b5d9d99123636bfd0.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -592,25 +1076,36 @@
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Sitareyaan Diyaan Galaan",
-      "description": "Sitareyaan Diyaan Galaan",
+      "showName": "Rozana -Zindgi",
+      "description": "Rozana -Zindgi",
       "startDate": "2026-10-07T13:30:00",
       "endDate": "2026-10-07T14:00:00",
       "showTime": "13:30:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28468defe077118fb0cdd69c03e43050.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3843a52c9aeba0305da8cdfb5c4d0138.jpg"
     },
     {
       "serverDate": "2026-10-07",
       "showName": "Mukh Khabraan",
       "description": "Mukh Khabraan",
       "startDate": "2026-10-07T14:00:00",
-      "endDate": "2026-10-07T15:00:00",
+      "endDate": "2026-10-07T14:30:00",
       "showTime": "14:00:00",
-      "endTime": "15:00:00",
+      "endTime": "14:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
+    },
+    {
+      "serverDate": "2026-10-07",
+      "showName": "Khaas Khabraan",
+      "description": "Khaas Khabraan",
+      "startDate": "2026-10-07T14:30:00",
+      "endDate": "2026-10-07T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a86919181850354e595afdc58c2b54b.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -625,14 +1120,14 @@
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Dabaadab Khabraan",
-      "description": "Dabaadab Khabraan",
+      "showName": "Ek Nazar",
+      "description": "A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.",
       "startDate": "2026-10-07T15:30:00",
       "endDate": "2026-10-07T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fee4b5b353786663f363c776aa82a95d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/59daf9c8ca2f092ad5308efd88853e9d.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -658,14 +1153,14 @@
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Josh, Junnun Jazba",
-      "description": "Josh, Junnun Jazba",
+      "showName": "Mudda Live",
+      "description": "The host facilitates discussions with experts regarding recent news updates and developments related to the nation's current affairs, live.",
       "startDate": "2026-10-07T17:00:00",
       "endDate": "2026-10-07T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26501353cf77ea97e207d4eba54161e5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62739d2c0e6acefce8ae69c86d3b4ca1.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -691,14 +1186,14 @@
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Mukh Khabraan",
-      "description": "Mukh Khabraan",
+      "showName": "Rozana Tafsil",
+      "description": "Rozana Tafsil",
       "startDate": "2026-10-07T18:30:00",
       "endDate": "2026-10-07T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/317a759a342198018e8b885320fac561.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -716,11 +1211,22 @@
       "showName": "Lokaan Da Spokesman",
       "description": "Lokaan Da Spokesman",
       "startDate": "2026-10-07T20:00:00",
-      "endDate": "2026-10-07T21:00:00",
+      "endDate": "2026-10-07T20:30:00",
       "showTime": "20:00:00",
-      "endTime": "21:00:00",
+      "endTime": "20:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ef7a7ed354bd6fec3a0e57b01f537db5.jpg"
+    },
+    {
+      "serverDate": "2026-10-07",
+      "showName": "Rozana Primetime",
+      "description": "The host presents the latest headlines and updates concerning the political, social and economic fronts from Punjab and across the globe.",
+      "startDate": "2026-10-07T20:30:00",
+      "endDate": "2026-10-07T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e48ebd5a6a842a98806578378549f5ac.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -746,47 +1252,58 @@
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Ground Zero Ton Spokesman",
-      "description": "Bringing the best in television.",
+      "showName": "Khaas Khabraan",
+      "description": "Khaas Khabraan",
       "startDate": "2026-10-07T22:30:00",
       "endDate": "2026-10-07T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02a735b3379667bb489dc75572d240b6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a86919181850354e595afdc58c2b54b.jpg"
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Dabaadab Khabraan",
-      "description": "Dabaadab Khabraan",
+      "showName": "Ek Nazar",
+      "description": "A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.",
       "startDate": "2026-10-07T23:00:00",
       "endDate": "2026-10-07T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fee4b5b353786663f363c776aa82a95d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/59daf9c8ca2f092ad5308efd88853e9d.jpg"
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "The Spokesman Debate",
-      "description": "The Spokesman Debate",
+      "showName": "Mudda Live",
+      "description": "The host facilitates discussions with experts regarding recent news updates and developments related to the nation's current affairs, live.",
       "startDate": "2026-10-07T23:30:00",
       "endDate": "2026-10-07T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b5161637c161ea0f49b6a9ecd341e95.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62739d2c0e6acefce8ae69c86d3b4ca1.jpg"
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Lokaan Da Spokesman",
-      "description": "Lokaan Da Spokesman",
+      "showName": "Khabar Khaas Hai !",
+      "description": "Khabar Khaas Hai !",
       "startDate": "2026-10-08T00:00:00",
-      "endDate": "2026-10-08T01:00:00",
+      "endDate": "2026-10-08T00:30:00",
       "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/188d96fde743cf9b5d9d99123636bfd0.jpg"
+    },
+    {
+      "serverDate": "2026-10-08",
+      "showName": "Mudda Live",
+      "description": "The host facilitates discussions with experts regarding recent news updates and developments related to the nation's current affairs, live.",
+      "startDate": "2026-10-08T00:30:00",
+      "endDate": "2026-10-08T01:00:00",
+      "showTime": "00:30:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ef7a7ed354bd6fec3a0e57b01f537db5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62739d2c0e6acefce8ae69c86d3b4ca1.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -812,25 +1329,36 @@
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Khabar In Focus",
-      "description": "Khabar In Focus",
+      "showName": "Rozana -Zindgi",
+      "description": "Rozana -Zindgi",
       "startDate": "2026-10-08T03:00:00",
       "endDate": "2026-10-08T04:00:00",
       "showTime": "03:00:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/95d2d97e86769d799e74e3ebbd65f8f9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3843a52c9aeba0305da8cdfb5c4d0138.jpg"
     },
     {
       "serverDate": "2026-10-08",
       "showName": "Khabar Punjab Di",
       "description": "Khabar Punjab Di",
       "startDate": "2026-10-08T04:00:00",
-      "endDate": "2026-10-08T06:45:00",
+      "endDate": "2026-10-08T05:00:00",
       "showTime": "04:00:00",
-      "endTime": "06:45:00",
+      "endTime": "05:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1580201f48c5cd1480fdb049e3a88d77.jpg"
+    },
+    {
+      "serverDate": "2026-10-08",
+      "showName": "Gurbaani",
+      "description": "Gurbaani",
+      "startDate": "2026-10-08T05:00:00",
+      "endDate": "2026-10-08T06:45:00",
+      "showTime": "05:00:00",
+      "endTime": "06:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9f4ec4f9df834402f1d075c2a4bf2c5.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -845,77 +1373,77 @@
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Sat Shri Akaal Punjabieoo",
-      "description": "Sat Shri Akaal Punjabieoo",
+      "showName": "Sat Shri Akaal Punjab",
+      "description": "Sat Shri Akaal Punjab",
       "startDate": "2026-10-08T07:00:00",
-      "endDate": "2026-10-08T07:30:00",
+      "endDate": "2026-10-08T08:00:00",
       "showTime": "07:00:00",
-      "endTime": "07:30:00",
+      "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7dc831e6fa5d134034cb03e180561702.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/385bb7572dac7a7bdc98bfc3c3fe4d6c.jpg"
     },
     {
       "serverDate": "2026-10-08",
       "showName": "Mukh Khabraan",
       "description": "Mukh Khabraan",
-      "startDate": "2026-10-08T07:30:00",
-      "endDate": "2026-10-08T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Ground Zero Ton Spokesman",
-      "description": "Bringing the best in television.",
       "startDate": "2026-10-08T08:00:00",
       "endDate": "2026-10-08T08:30:00",
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02a735b3379667bb489dc75572d240b6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Dabaadab Khabraan",
-      "description": "Dabaadab Khabraan",
+      "showName": "Ek Nazar",
+      "description": "A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.",
       "startDate": "2026-10-08T08:30:00",
       "endDate": "2026-10-08T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fee4b5b353786663f363c776aa82a95d.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "The Punjab Tour",
-      "description": "The Punjab Tour",
-      "startDate": "2026-10-08T09:00:00",
-      "endDate": "2026-10-08T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/207a6b5e8636464fbd4ab69991f6c7cc.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/59daf9c8ca2f092ad5308efd88853e9d.jpg"
     },
     {
       "serverDate": "2026-10-08",
       "showName": "Khaas Khabraan",
       "description": "Khaas Khabraan",
-      "startDate": "2026-10-08T09:30:00",
-      "endDate": "2026-10-08T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
+      "startDate": "2026-10-08T09:00:00",
+      "endDate": "2026-10-08T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a86919181850354e595afdc58c2b54b.jpg"
     },
     {
       "serverDate": "2026-10-08",
+      "showName": "Chadhde Suraj",
+      "description": "Chadhde Suraj",
+      "startDate": "2026-10-08T09:30:00",
+      "endDate": "2026-10-08T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/725b4aacd953b35688519b7a4dbba0af.jpg"
+    },
+    {
+      "serverDate": "2026-10-08",
+      "showName": "Ground Zero Ton Spokesman",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-08T10:00:00",
+      "endDate": "2026-10-08T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02a735b3379667bb489dc75572d240b6.jpg"
+    },
+    {
+      "serverDate": "2026-10-08",
       "showName": "Mukh Khabraan",
       "description": "Mukh Khabraan",
-      "startDate": "2026-10-08T10:00:00",
+      "startDate": "2026-10-08T10:30:00",
       "endDate": "2026-10-08T11:00:00",
-      "showTime": "10:00:00",
+      "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
@@ -925,11 +1453,22 @@
       "showName": "Khabran In Focus",
       "description": "Khabran In Focus",
       "startDate": "2026-10-08T11:00:00",
-      "endDate": "2026-10-08T12:00:00",
+      "endDate": "2026-10-08T11:30:00",
       "showTime": "11:00:00",
-      "endTime": "12:00:00",
+      "endTime": "11:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/db18c4d79909b5a6478d24c88185e266.jpg"
+    },
+    {
+      "serverDate": "2026-10-08",
+      "showName": "Khabar Khaas Hai !",
+      "description": "Khabar Khaas Hai !",
+      "startDate": "2026-10-08T11:30:00",
+      "endDate": "2026-10-08T12:00:00",
+      "showTime": "11:30:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/188d96fde743cf9b5d9d99123636bfd0.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -966,25 +1505,36 @@
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Sitareyaan Diyaan Galaan",
-      "description": "Sitareyaan Diyaan Galaan",
+      "showName": "Rozana -Zindgi",
+      "description": "Rozana -Zindgi",
       "startDate": "2026-10-08T13:30:00",
       "endDate": "2026-10-08T14:00:00",
       "showTime": "13:30:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28468defe077118fb0cdd69c03e43050.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3843a52c9aeba0305da8cdfb5c4d0138.jpg"
     },
     {
       "serverDate": "2026-10-08",
       "showName": "Mukh Khabraan",
       "description": "Mukh Khabraan",
       "startDate": "2026-10-08T14:00:00",
-      "endDate": "2026-10-08T15:00:00",
+      "endDate": "2026-10-08T14:30:00",
       "showTime": "14:00:00",
-      "endTime": "15:00:00",
+      "endTime": "14:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
+    },
+    {
+      "serverDate": "2026-10-08",
+      "showName": "Khaas Khabraan",
+      "description": "Khaas Khabraan",
+      "startDate": "2026-10-08T14:30:00",
+      "endDate": "2026-10-08T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a86919181850354e595afdc58c2b54b.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -999,14 +1549,14 @@
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Dabaadab Khabraan",
-      "description": "Dabaadab Khabraan",
+      "showName": "Ek Nazar",
+      "description": "A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.",
       "startDate": "2026-10-08T15:30:00",
       "endDate": "2026-10-08T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fee4b5b353786663f363c776aa82a95d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/59daf9c8ca2f092ad5308efd88853e9d.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -1032,14 +1582,14 @@
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Tawe Waale Fankaar",
-      "description": "Tawe Waale Fankaar",
+      "showName": "Mudda Live",
+      "description": "The host facilitates discussions with experts regarding recent news updates and developments related to the nation's current affairs, live.",
       "startDate": "2026-10-08T17:00:00",
       "endDate": "2026-10-08T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cd415d8147dbd5d66d1a970225cfd04.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62739d2c0e6acefce8ae69c86d3b4ca1.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -1065,14 +1615,14 @@
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Mukh Khabraan",
-      "description": "Mukh Khabraan",
+      "showName": "Rozana Tafsil",
+      "description": "Rozana Tafsil",
       "startDate": "2026-10-08T18:30:00",
       "endDate": "2026-10-08T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/317a759a342198018e8b885320fac561.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -1090,11 +1640,22 @@
       "showName": "Lokaan Da Spokesman",
       "description": "Lokaan Da Spokesman",
       "startDate": "2026-10-08T20:00:00",
-      "endDate": "2026-10-08T21:00:00",
+      "endDate": "2026-10-08T20:30:00",
       "showTime": "20:00:00",
-      "endTime": "21:00:00",
+      "endTime": "20:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ef7a7ed354bd6fec3a0e57b01f537db5.jpg"
+    },
+    {
+      "serverDate": "2026-10-08",
+      "showName": "Rozana Primetime",
+      "description": "The host presents the latest headlines and updates concerning the political, social and economic fronts from Punjab and across the globe.",
+      "startDate": "2026-10-08T20:30:00",
+      "endDate": "2026-10-08T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e48ebd5a6a842a98806578378549f5ac.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -1120,47 +1681,58 @@
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Ground Zero Ton Spokesman",
-      "description": "Bringing the best in television.",
+      "showName": "Khaas Khabraan",
+      "description": "Khaas Khabraan",
       "startDate": "2026-10-08T22:30:00",
       "endDate": "2026-10-08T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02a735b3379667bb489dc75572d240b6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a86919181850354e595afdc58c2b54b.jpg"
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Dabaadab Khabraan",
-      "description": "Dabaadab Khabraan",
+      "showName": "Ek Nazar",
+      "description": "A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.",
       "startDate": "2026-10-08T23:00:00",
       "endDate": "2026-10-08T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fee4b5b353786663f363c776aa82a95d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/59daf9c8ca2f092ad5308efd88853e9d.jpg"
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "The Spokesman Debate",
-      "description": "The Spokesman Debate",
+      "showName": "Mudda Live",
+      "description": "The host facilitates discussions with experts regarding recent news updates and developments related to the nation's current affairs, live.",
       "startDate": "2026-10-08T23:30:00",
       "endDate": "2026-10-08T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b5161637c161ea0f49b6a9ecd341e95.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62739d2c0e6acefce8ae69c86d3b4ca1.jpg"
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Lokaan Da Spokesman",
-      "description": "Lokaan Da Spokesman",
+      "showName": "Khabar Khaas Hai !",
+      "description": "Khabar Khaas Hai !",
       "startDate": "2026-10-09T00:00:00",
-      "endDate": "2026-10-09T01:00:00",
+      "endDate": "2026-10-09T00:30:00",
       "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/188d96fde743cf9b5d9d99123636bfd0.jpg"
+    },
+    {
+      "serverDate": "2026-10-09",
+      "showName": "Mudda Live",
+      "description": "The host facilitates discussions with experts regarding recent news updates and developments related to the nation's current affairs, live.",
+      "startDate": "2026-10-09T00:30:00",
+      "endDate": "2026-10-09T01:00:00",
+      "showTime": "00:30:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ef7a7ed354bd6fec3a0e57b01f537db5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62739d2c0e6acefce8ae69c86d3b4ca1.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -1186,14 +1758,14 @@
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Khabar In Focus",
-      "description": "Khabar In Focus",
+      "showName": "Rozana -Zindgi",
+      "description": "Rozana -Zindgi",
       "startDate": "2026-10-09T03:00:00",
       "endDate": "2026-10-09T04:00:00",
       "showTime": "03:00:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/95d2d97e86769d799e74e3ebbd65f8f9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3843a52c9aeba0305da8cdfb5c4d0138.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -1230,77 +1802,77 @@
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Sat Shri Akaal Punjabieoo",
-      "description": "Sat Shri Akaal Punjabieoo",
+      "showName": "Sat Shri Akaal Punjab",
+      "description": "Sat Shri Akaal Punjab",
       "startDate": "2026-10-09T07:00:00",
-      "endDate": "2026-10-09T07:30:00",
+      "endDate": "2026-10-09T08:00:00",
       "showTime": "07:00:00",
-      "endTime": "07:30:00",
+      "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7dc831e6fa5d134034cb03e180561702.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/385bb7572dac7a7bdc98bfc3c3fe4d6c.jpg"
     },
     {
       "serverDate": "2026-10-09",
       "showName": "Mukh Khabraan",
       "description": "Mukh Khabraan",
-      "startDate": "2026-10-09T07:30:00",
-      "endDate": "2026-10-09T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Ground Zero Ton Spokesman",
-      "description": "Bringing the best in television.",
       "startDate": "2026-10-09T08:00:00",
       "endDate": "2026-10-09T08:30:00",
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02a735b3379667bb489dc75572d240b6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Dabaadab Khabraan",
-      "description": "Dabaadab Khabraan",
+      "showName": "Ek Nazar",
+      "description": "A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.",
       "startDate": "2026-10-09T08:30:00",
       "endDate": "2026-10-09T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fee4b5b353786663f363c776aa82a95d.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Kirti Bande",
-      "description": "Kirti Bande",
-      "startDate": "2026-10-09T09:00:00",
-      "endDate": "2026-10-09T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0d2cf18a62922031dd94174fb6e8354.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/59daf9c8ca2f092ad5308efd88853e9d.jpg"
     },
     {
       "serverDate": "2026-10-09",
       "showName": "Khaas Khabraan",
       "description": "Khaas Khabraan",
-      "startDate": "2026-10-09T09:30:00",
-      "endDate": "2026-10-09T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
+      "startDate": "2026-10-09T09:00:00",
+      "endDate": "2026-10-09T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a86919181850354e595afdc58c2b54b.jpg"
     },
     {
       "serverDate": "2026-10-09",
+      "showName": "Made In Punjab",
+      "description": "Made In Punjab",
+      "startDate": "2026-10-09T09:30:00",
+      "endDate": "2026-10-09T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5312f0e780160a3c4363d3330b52f5ba.jpg"
+    },
+    {
+      "serverDate": "2026-10-09",
+      "showName": "Ground Zero Ton Spokesman",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-09T10:00:00",
+      "endDate": "2026-10-09T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02a735b3379667bb489dc75572d240b6.jpg"
+    },
+    {
+      "serverDate": "2026-10-09",
       "showName": "Mukh Khabraan",
       "description": "Mukh Khabraan",
-      "startDate": "2026-10-09T10:00:00",
+      "startDate": "2026-10-09T10:30:00",
       "endDate": "2026-10-09T11:00:00",
-      "showTime": "10:00:00",
+      "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
@@ -1310,11 +1882,22 @@
       "showName": "Khabran In Focus",
       "description": "Khabran In Focus",
       "startDate": "2026-10-09T11:00:00",
-      "endDate": "2026-10-09T12:00:00",
+      "endDate": "2026-10-09T11:30:00",
       "showTime": "11:00:00",
-      "endTime": "12:00:00",
+      "endTime": "11:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/db18c4d79909b5a6478d24c88185e266.jpg"
+    },
+    {
+      "serverDate": "2026-10-09",
+      "showName": "Khabar Khaas Hai !",
+      "description": "Khabar Khaas Hai !",
+      "startDate": "2026-10-09T11:30:00",
+      "endDate": "2026-10-09T12:00:00",
+      "showTime": "11:30:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/188d96fde743cf9b5d9d99123636bfd0.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -1351,25 +1934,36 @@
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Sitareyaan Diyaan Galaan",
-      "description": "Sitareyaan Diyaan Galaan",
+      "showName": "Rozana -Zindgi",
+      "description": "Rozana -Zindgi",
       "startDate": "2026-10-09T13:30:00",
       "endDate": "2026-10-09T14:00:00",
       "showTime": "13:30:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28468defe077118fb0cdd69c03e43050.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3843a52c9aeba0305da8cdfb5c4d0138.jpg"
     },
     {
       "serverDate": "2026-10-09",
       "showName": "Mukh Khabraan",
       "description": "Mukh Khabraan",
       "startDate": "2026-10-09T14:00:00",
-      "endDate": "2026-10-09T15:00:00",
+      "endDate": "2026-10-09T14:30:00",
       "showTime": "14:00:00",
-      "endTime": "15:00:00",
+      "endTime": "14:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
+    },
+    {
+      "serverDate": "2026-10-09",
+      "showName": "Khaas Khabraan",
+      "description": "Khaas Khabraan",
+      "startDate": "2026-10-09T14:30:00",
+      "endDate": "2026-10-09T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a86919181850354e595afdc58c2b54b.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -1384,14 +1978,14 @@
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Dabaadab Khabraan",
-      "description": "Dabaadab Khabraan",
+      "showName": "Ek Nazar",
+      "description": "A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.",
       "startDate": "2026-10-09T15:30:00",
       "endDate": "2026-10-09T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fee4b5b353786663f363c776aa82a95d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/59daf9c8ca2f092ad5308efd88853e9d.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -1417,14 +2011,14 @@
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "The Punjab Tour",
-      "description": "The Punjab Tour",
+      "showName": "Mudda Live",
+      "description": "The host facilitates discussions with experts regarding recent news updates and developments related to the nation's current affairs, live.",
       "startDate": "2026-10-09T17:00:00",
       "endDate": "2026-10-09T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/207a6b5e8636464fbd4ab69991f6c7cc.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62739d2c0e6acefce8ae69c86d3b4ca1.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -1450,14 +2044,14 @@
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Mukh Khabraan",
-      "description": "Mukh Khabraan",
+      "showName": "Rozana Tafsil",
+      "description": "Rozana Tafsil",
       "startDate": "2026-10-09T18:30:00",
       "endDate": "2026-10-09T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/317a759a342198018e8b885320fac561.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -1475,11 +2069,22 @@
       "showName": "Lokaan Da Spokesman",
       "description": "Lokaan Da Spokesman",
       "startDate": "2026-10-09T20:00:00",
-      "endDate": "2026-10-09T21:00:00",
+      "endDate": "2026-10-09T20:30:00",
       "showTime": "20:00:00",
-      "endTime": "21:00:00",
+      "endTime": "20:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ef7a7ed354bd6fec3a0e57b01f537db5.jpg"
+    },
+    {
+      "serverDate": "2026-10-09",
+      "showName": "Rozana Primetime",
+      "description": "The host presents the latest headlines and updates concerning the political, social and economic fronts from Punjab and across the globe.",
+      "startDate": "2026-10-09T20:30:00",
+      "endDate": "2026-10-09T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e48ebd5a6a842a98806578378549f5ac.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -1505,47 +2110,58 @@
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Ground Zero Ton Spokesman",
-      "description": "Bringing the best in television.",
+      "showName": "Khaas Khabraan",
+      "description": "Khaas Khabraan",
       "startDate": "2026-10-09T22:30:00",
       "endDate": "2026-10-09T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02a735b3379667bb489dc75572d240b6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a86919181850354e595afdc58c2b54b.jpg"
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Dabaadab Khabraan",
-      "description": "Dabaadab Khabraan",
+      "showName": "Ek Nazar",
+      "description": "A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.",
       "startDate": "2026-10-09T23:00:00",
       "endDate": "2026-10-09T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fee4b5b353786663f363c776aa82a95d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/59daf9c8ca2f092ad5308efd88853e9d.jpg"
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "The Spokesman Debate",
-      "description": "The Spokesman Debate",
+      "showName": "Mudda Live",
+      "description": "The host facilitates discussions with experts regarding recent news updates and developments related to the nation's current affairs, live.",
       "startDate": "2026-10-09T23:30:00",
       "endDate": "2026-10-09T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b5161637c161ea0f49b6a9ecd341e95.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62739d2c0e6acefce8ae69c86d3b4ca1.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Lokaan Da Spokesman",
-      "description": "Lokaan Da Spokesman",
+      "showName": "Khabar Khaas Hai !",
+      "description": "Khabar Khaas Hai !",
       "startDate": "2026-10-10T00:00:00",
-      "endDate": "2026-10-10T01:00:00",
+      "endDate": "2026-10-10T00:30:00",
       "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/188d96fde743cf9b5d9d99123636bfd0.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Mudda Live",
+      "description": "The host facilitates discussions with experts regarding recent news updates and developments related to the nation's current affairs, live.",
+      "startDate": "2026-10-10T00:30:00",
+      "endDate": "2026-10-10T01:00:00",
+      "showTime": "00:30:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ef7a7ed354bd6fec3a0e57b01f537db5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62739d2c0e6acefce8ae69c86d3b4ca1.jpg"
     },
     {
       "serverDate": "2026-10-10",
@@ -1571,14 +2187,14 @@
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Khabar In Focus",
-      "description": "Khabar In Focus",
+      "showName": "Rozana -Zindgi",
+      "description": "Rozana -Zindgi",
       "startDate": "2026-10-10T03:00:00",
       "endDate": "2026-10-10T04:00:00",
       "showTime": "03:00:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/95d2d97e86769d799e74e3ebbd65f8f9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3843a52c9aeba0305da8cdfb5c4d0138.jpg"
     },
     {
       "serverDate": "2026-10-10",
@@ -1615,66 +2231,77 @@
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Sat Shri Akaal Punjabieoo",
-      "description": "Sat Shri Akaal Punjabieoo",
+      "showName": "Sat Shri Akaal Punjab",
+      "description": "Sat Shri Akaal Punjab",
       "startDate": "2026-10-10T07:00:00",
-      "endDate": "2026-10-10T07:30:00",
+      "endDate": "2026-10-10T08:00:00",
       "showTime": "07:00:00",
-      "endTime": "07:30:00",
+      "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7dc831e6fa5d134034cb03e180561702.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/385bb7572dac7a7bdc98bfc3c3fe4d6c.jpg"
     },
     {
       "serverDate": "2026-10-10",
       "showName": "Mukh Khabraan",
       "description": "Mukh Khabraan",
-      "startDate": "2026-10-10T07:30:00",
-      "endDate": "2026-10-10T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Ground Zero Ton Spokesman",
-      "description": "Bringing the best in television.",
       "startDate": "2026-10-10T08:00:00",
       "endDate": "2026-10-10T08:30:00",
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02a735b3379667bb489dc75572d240b6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Spokesman Di Saath",
-      "description": "Spokesman Di Saath",
+      "showName": "Ek Nazar",
+      "description": "A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.",
       "startDate": "2026-10-10T08:30:00",
-      "endDate": "2026-10-10T09:30:00",
+      "endDate": "2026-10-10T09:00:00",
       "showTime": "08:30:00",
-      "endTime": "09:30:00",
+      "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e9a1adc005a66bbbb721351aaee7910a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/59daf9c8ca2f092ad5308efd88853e9d.jpg"
     },
     {
       "serverDate": "2026-10-10",
       "showName": "Khaas Khabraan",
       "description": "Khaas Khabraan",
-      "startDate": "2026-10-10T09:30:00",
-      "endDate": "2026-10-10T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
+      "startDate": "2026-10-10T09:00:00",
+      "endDate": "2026-10-10T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a86919181850354e595afdc58c2b54b.jpg"
     },
     {
       "serverDate": "2026-10-10",
+      "showName": "Youth Express",
+      "description": "Youth Express",
+      "startDate": "2026-10-10T09:30:00",
+      "endDate": "2026-10-10T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2da236825b16e70778ed7d8ac5b7dbe.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Ground Zero Ton Spokesman",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-10T10:00:00",
+      "endDate": "2026-10-10T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02a735b3379667bb489dc75572d240b6.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
       "showName": "Mukh Khabraan",
       "description": "Mukh Khabraan",
-      "startDate": "2026-10-10T10:00:00",
+      "startDate": "2026-10-10T10:30:00",
       "endDate": "2026-10-10T11:00:00",
-      "showTime": "10:00:00",
+      "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
@@ -1684,11 +2311,22 @@
       "showName": "Khabran In Focus",
       "description": "Khabran In Focus",
       "startDate": "2026-10-10T11:00:00",
-      "endDate": "2026-10-10T12:00:00",
+      "endDate": "2026-10-10T11:30:00",
       "showTime": "11:00:00",
-      "endTime": "12:00:00",
+      "endTime": "11:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/db18c4d79909b5a6478d24c88185e266.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Khabar Khaas Hai !",
+      "description": "Khabar Khaas Hai !",
+      "startDate": "2026-10-10T11:30:00",
+      "endDate": "2026-10-10T12:00:00",
+      "showTime": "11:30:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/188d96fde743cf9b5d9d99123636bfd0.jpg"
     },
     {
       "serverDate": "2026-10-10",
@@ -1725,25 +2363,36 @@
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Sitareyaan Diyaan Galaan",
-      "description": "Sitareyaan Diyaan Galaan",
+      "showName": "Rozana -Zindgi",
+      "description": "Rozana -Zindgi",
       "startDate": "2026-10-10T13:30:00",
       "endDate": "2026-10-10T14:00:00",
       "showTime": "13:30:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28468defe077118fb0cdd69c03e43050.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3843a52c9aeba0305da8cdfb5c4d0138.jpg"
     },
     {
       "serverDate": "2026-10-10",
       "showName": "Mukh Khabraan",
       "description": "Mukh Khabraan",
       "startDate": "2026-10-10T14:00:00",
-      "endDate": "2026-10-10T15:00:00",
+      "endDate": "2026-10-10T14:30:00",
       "showTime": "14:00:00",
-      "endTime": "15:00:00",
+      "endTime": "14:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Khaas Khabraan",
+      "description": "Khaas Khabraan",
+      "startDate": "2026-10-10T14:30:00",
+      "endDate": "2026-10-10T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a86919181850354e595afdc58c2b54b.jpg"
     },
     {
       "serverDate": "2026-10-10",
@@ -1758,14 +2407,14 @@
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Dabaadab Khabraan",
-      "description": "Dabaadab Khabraan",
+      "showName": "Ek Nazar",
+      "description": "A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.",
       "startDate": "2026-10-10T15:30:00",
       "endDate": "2026-10-10T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fee4b5b353786663f363c776aa82a95d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/59daf9c8ca2f092ad5308efd88853e9d.jpg"
     },
     {
       "serverDate": "2026-10-10",
@@ -1791,14 +2440,14 @@
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Galaan Tey Garaari",
-      "description": "Galaan Tey Garaari",
+      "showName": "Mudda Live",
+      "description": "The host facilitates discussions with experts regarding recent news updates and developments related to the nation's current affairs, live.",
       "startDate": "2026-10-10T17:00:00",
       "endDate": "2026-10-10T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26a5b13ada17af5cb3c14db3a818571f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62739d2c0e6acefce8ae69c86d3b4ca1.jpg"
     },
     {
       "serverDate": "2026-10-10",
@@ -1824,14 +2473,14 @@
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Mukh Khabraan",
-      "description": "Mukh Khabraan",
+      "showName": "Rozana Tafsil",
+      "description": "Rozana Tafsil",
       "startDate": "2026-10-10T18:30:00",
       "endDate": "2026-10-10T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/317a759a342198018e8b885320fac561.jpg"
     },
     {
       "serverDate": "2026-10-10",
@@ -1849,11 +2498,22 @@
       "showName": "Lokaan Da Spokesman",
       "description": "Lokaan Da Spokesman",
       "startDate": "2026-10-10T20:00:00",
-      "endDate": "2026-10-10T21:00:00",
+      "endDate": "2026-10-10T20:30:00",
       "showTime": "20:00:00",
-      "endTime": "21:00:00",
+      "endTime": "20:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ef7a7ed354bd6fec3a0e57b01f537db5.jpg"
+    },
+    {
+      "serverDate": "2026-10-10",
+      "showName": "Rozana Primetime",
+      "description": "The host presents the latest headlines and updates concerning the political, social and economic fronts from Punjab and across the globe.",
+      "startDate": "2026-10-10T20:30:00",
+      "endDate": "2026-10-10T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e48ebd5a6a842a98806578378549f5ac.jpg"
     },
     {
       "serverDate": "2026-10-10",
@@ -1879,47 +2539,58 @@
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Ground Zero Ton Spokesman",
-      "description": "Bringing the best in television.",
+      "showName": "Khaas Khabraan",
+      "description": "Khaas Khabraan",
       "startDate": "2026-10-10T22:30:00",
       "endDate": "2026-10-10T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02a735b3379667bb489dc75572d240b6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a86919181850354e595afdc58c2b54b.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Dabaadab Khabraan",
-      "description": "Dabaadab Khabraan",
+      "showName": "Ek Nazar",
+      "description": "A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.",
       "startDate": "2026-10-10T23:00:00",
       "endDate": "2026-10-10T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fee4b5b353786663f363c776aa82a95d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/59daf9c8ca2f092ad5308efd88853e9d.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "The Spokesman Debate",
-      "description": "The Spokesman Debate",
+      "showName": "Mudda Live",
+      "description": "The host facilitates discussions with experts regarding recent news updates and developments related to the nation's current affairs, live.",
       "startDate": "2026-10-10T23:30:00",
       "endDate": "2026-10-10T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b5161637c161ea0f49b6a9ecd341e95.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62739d2c0e6acefce8ae69c86d3b4ca1.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Lokaan Da Spokesman",
-      "description": "Lokaan Da Spokesman",
+      "showName": "Khabar Khaas Hai !",
+      "description": "Khabar Khaas Hai !",
       "startDate": "2026-10-11T00:00:00",
-      "endDate": "2026-10-11T01:00:00",
+      "endDate": "2026-10-11T00:30:00",
       "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/188d96fde743cf9b5d9d99123636bfd0.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Mudda Live",
+      "description": "The host facilitates discussions with experts regarding recent news updates and developments related to the nation's current affairs, live.",
+      "startDate": "2026-10-11T00:30:00",
+      "endDate": "2026-10-11T01:00:00",
+      "showTime": "00:30:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ef7a7ed354bd6fec3a0e57b01f537db5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62739d2c0e6acefce8ae69c86d3b4ca1.jpg"
     },
     {
       "serverDate": "2026-10-11",
@@ -1945,14 +2616,14 @@
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Khabar In Focus",
-      "description": "Khabar In Focus",
+      "showName": "Rozana -Zindgi",
+      "description": "Rozana -Zindgi",
       "startDate": "2026-10-11T03:00:00",
       "endDate": "2026-10-11T04:00:00",
       "showTime": "03:00:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/95d2d97e86769d799e74e3ebbd65f8f9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3843a52c9aeba0305da8cdfb5c4d0138.jpg"
     },
     {
       "serverDate": "2026-10-11",
@@ -1989,66 +2660,66 @@
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Sat Shri Akaal Punjabieoo",
-      "description": "Sat Shri Akaal Punjabieoo",
+      "showName": "Sat Shri Akaal Punjab",
+      "description": "Sat Shri Akaal Punjab",
       "startDate": "2026-10-11T07:00:00",
-      "endDate": "2026-10-11T07:30:00",
+      "endDate": "2026-10-11T08:00:00",
       "showTime": "07:00:00",
-      "endTime": "07:30:00",
+      "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7dc831e6fa5d134034cb03e180561702.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/385bb7572dac7a7bdc98bfc3c3fe4d6c.jpg"
     },
     {
       "serverDate": "2026-10-11",
       "showName": "Mukh Khabraan",
       "description": "Mukh Khabraan",
-      "startDate": "2026-10-11T07:30:00",
-      "endDate": "2026-10-11T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
-    },
-    {
-      "serverDate": "2026-10-11",
-      "showName": "Ground Zero Ton Spokesman",
-      "description": "Bringing the best in television.",
       "startDate": "2026-10-11T08:00:00",
       "endDate": "2026-10-11T08:30:00",
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02a735b3379667bb489dc75572d240b6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Safar With Nimrat Kaur",
-      "description": "Safar With Nimrat Kaur",
+      "showName": "Spokesman Di Saath",
+      "description": "Spokesman Di Saath",
       "startDate": "2026-10-11T08:30:00",
       "endDate": "2026-10-11T09:30:00",
       "showTime": "08:30:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23d894e248b6a5d9f5561dd192f1fc9a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e9a1adc005a66bbbb721351aaee7910a.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Khaas Khabraan",
-      "description": "Khaas Khabraan",
+      "showName": "Ek Nazar",
+      "description": "A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.",
       "startDate": "2026-10-11T09:30:00",
       "endDate": "2026-10-11T10:00:00",
       "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a86919181850354e595afdc58c2b54b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/59daf9c8ca2f092ad5308efd88853e9d.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Ground Zero Ton Spokesman",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-11T10:00:00",
+      "endDate": "2026-10-11T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02a735b3379667bb489dc75572d240b6.jpg"
     },
     {
       "serverDate": "2026-10-11",
       "showName": "Mukh Khabraan",
       "description": "Mukh Khabraan",
-      "startDate": "2026-10-11T10:00:00",
+      "startDate": "2026-10-11T10:30:00",
       "endDate": "2026-10-11T11:00:00",
-      "showTime": "10:00:00",
+      "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
@@ -2058,11 +2729,33 @@
       "showName": "Khabran In Focus",
       "description": "Khabran In Focus",
       "startDate": "2026-10-11T11:00:00",
-      "endDate": "2026-10-11T12:30:00",
+      "endDate": "2026-10-11T11:30:00",
       "showTime": "11:00:00",
-      "endTime": "12:30:00",
+      "endTime": "11:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/db18c4d79909b5a6478d24c88185e266.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Josh, Jawaani Jazba",
+      "description": "Josh, Jawaani Jazba",
+      "startDate": "2026-10-11T11:30:00",
+      "endDate": "2026-10-11T12:00:00",
+      "showTime": "11:30:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/71e461df496bfa1e9d9b7632da71cf9f.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Hindi Bulletin",
+      "description": "The host presents the latest updates on events concerning sociocultural, economic and political issues transpiring across the nation.",
+      "startDate": "2026-10-11T12:00:00",
+      "endDate": "2026-10-11T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ecbfea1b5059e4784b759456a6d67107.jpg"
     },
     {
       "serverDate": "2026-10-11",
@@ -2077,36 +2770,47 @@
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Galaan Tey Garaari",
-      "description": "Galaan Tey Garaari",
+      "showName": "Khaas Khabraan",
+      "description": "Khaas Khabraan",
       "startDate": "2026-10-11T13:00:00",
       "endDate": "2026-10-11T13:30:00",
       "showTime": "13:00:00",
       "endTime": "13:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26a5b13ada17af5cb3c14db3a818571f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a86919181850354e595afdc58c2b54b.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Sitareyaan Diyaan Galaan",
-      "description": "Sitareyaan Diyaan Galaan",
+      "showName": "Kirti Bande",
+      "description": "Kirti Bande",
       "startDate": "2026-10-11T13:30:00",
       "endDate": "2026-10-11T14:00:00",
       "showTime": "13:30:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28468defe077118fb0cdd69c03e43050.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0d2cf18a62922031dd94174fb6e8354.jpg"
     },
     {
       "serverDate": "2026-10-11",
       "showName": "Mukh Khabraan",
       "description": "Mukh Khabraan",
       "startDate": "2026-10-11T14:00:00",
-      "endDate": "2026-10-11T15:00:00",
+      "endDate": "2026-10-11T14:30:00",
       "showTime": "14:00:00",
-      "endTime": "15:00:00",
+      "endTime": "14:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Khaas Khabraan",
+      "description": "Khaas Khabraan",
+      "startDate": "2026-10-11T14:30:00",
+      "endDate": "2026-10-11T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a86919181850354e595afdc58c2b54b.jpg"
     },
     {
       "serverDate": "2026-10-11",
@@ -2121,36 +2825,47 @@
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Mera Pind Meri Pehchan",
-      "description": "Mera Pind Meri Pehchan",
+      "showName": "Ek Nazar",
+      "description": "A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.",
       "startDate": "2026-10-11T15:30:00",
-      "endDate": "2026-10-11T16:30:00",
+      "endDate": "2026-10-11T16:00:00",
       "showTime": "15:30:00",
-      "endTime": "16:30:00",
+      "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4f94776e9bcd684ff38e35aa81b26db5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/59daf9c8ca2f092ad5308efd88853e9d.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Chadhde Suraj",
-      "description": "Chadhde Suraj",
+      "showName": "Khaas Khabraan",
+      "description": "Khaas Khabraan",
+      "startDate": "2026-10-11T16:00:00",
+      "endDate": "2026-10-11T16:30:00",
+      "showTime": "16:00:00",
+      "endTime": "16:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a86919181850354e595afdc58c2b54b.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Hindi Bulletin",
+      "description": "The host presents the latest updates on events concerning sociocultural, economic and political issues transpiring across the nation.",
       "startDate": "2026-10-11T16:30:00",
       "endDate": "2026-10-11T17:00:00",
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/725b4aacd953b35688519b7a4dbba0af.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ecbfea1b5059e4784b759456a6d67107.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Youth Express",
-      "description": "Youth Express",
+      "showName": "Mudda Live",
+      "description": "The host facilitates discussions with experts regarding recent news updates and developments related to the nation's current affairs, live.",
       "startDate": "2026-10-11T17:00:00",
       "endDate": "2026-10-11T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2da236825b16e70778ed7d8ac5b7dbe.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62739d2c0e6acefce8ae69c86d3b4ca1.jpg"
     },
     {
       "serverDate": "2026-10-11",
@@ -2187,124 +2902,146 @@
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Sidhi Gal",
-      "description": "The host invites an expert and engages in an informative discussion on various important topics related to issues that concern society.",
+      "showName": "The Spokesman Debate",
+      "description": "The Spokesman Debate",
       "startDate": "2026-10-11T19:00:00",
       "endDate": "2026-10-11T20:00:00",
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f81945d7d97820af8a2c668c081a232.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b5161637c161ea0f49b6a9ecd341e95.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Spokesman Di Saath",
-      "description": "Spokesman Di Saath",
+      "showName": "Lokaan Da Spokesman",
+      "description": "Lokaan Da Spokesman",
       "startDate": "2026-10-11T20:00:00",
-      "endDate": "2026-10-11T21:00:00",
+      "endDate": "2026-10-11T20:30:00",
       "showTime": "20:00:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ef7a7ed354bd6fec3a0e57b01f537db5.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Gaal Patey Di",
+      "description": "Gaal Patey Di",
+      "startDate": "2026-10-11T20:30:00",
+      "endDate": "2026-10-11T21:00:00",
+      "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e9a1adc005a66bbbb721351aaee7910a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/876157c25019bd9ddaaa8c66a213a1ec.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Rozana Khass Khabar",
+      "description": "Rozana Khass Khabar",
+      "startDate": "2026-10-11T21:00:00",
+      "endDate": "2026-10-11T22:00:00",
+      "showTime": "21:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cf6894d92c24754d742067be743e5899.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Mukh Khabraan",
+      "description": "Mukh Khabraan",
+      "startDate": "2026-10-11T22:00:00",
+      "endDate": "2026-10-11T22:30:00",
+      "showTime": "22:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
     },
     {
       "serverDate": "2026-10-11",
       "showName": "Khaas Khabraan",
       "description": "Khaas Khabraan",
-      "startDate": "2026-10-11T21:00:00",
-      "endDate": "2026-10-11T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
+      "startDate": "2026-10-11T22:30:00",
+      "endDate": "2026-10-11T23:00:00",
+      "showTime": "22:30:00",
+      "endTime": "23:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a86919181850354e595afdc58c2b54b.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Mukh Khabraan",
-      "description": "Mukh Khabraan",
-      "startDate": "2026-10-11T21:30:00",
-      "endDate": "2026-10-11T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
-    },
-    {
-      "serverDate": "2026-10-11",
-      "showName": "Safar With Nimrat Kaur",
-      "description": "Safar With Nimrat Kaur",
-      "startDate": "2026-10-11T22:00:00",
-      "endDate": "2026-10-11T23:00:00",
-      "showTime": "22:00:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23d894e248b6a5d9f5561dd192f1fc9a.jpg"
-    },
-    {
-      "serverDate": "2026-10-11",
-      "showName": "Dabaadab Khabraan",
-      "description": "Dabaadab Khabraan",
+      "showName": "Ek Nazar",
+      "description": "A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.",
       "startDate": "2026-10-11T23:00:00",
       "endDate": "2026-10-11T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fee4b5b353786663f363c776aa82a95d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/59daf9c8ca2f092ad5308efd88853e9d.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Sitareyaan Diyaan Galaan",
-      "description": "Sitareyaan Diyaan Galaan",
+      "showName": "Mudda Live",
+      "description": "The host facilitates discussions with experts regarding recent news updates and developments related to the nation's current affairs, live.",
       "startDate": "2026-10-11T23:30:00",
       "endDate": "2026-10-11T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28468defe077118fb0cdd69c03e43050.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62739d2c0e6acefce8ae69c86d3b4ca1.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Mera Pind Meri Pehchan",
-      "description": "Mera Pind Meri Pehchan",
+      "showName": "Khabar Khaas Hai !",
+      "description": "Khabar Khaas Hai !",
       "startDate": "2026-10-12T00:00:00",
-      "endDate": "2026-10-12T01:00:00",
+      "endDate": "2026-10-12T00:30:00",
       "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/188d96fde743cf9b5d9d99123636bfd0.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Mudda Live",
+      "description": "The host facilitates discussions with experts regarding recent news updates and developments related to the nation's current affairs, live.",
+      "startDate": "2026-10-12T00:30:00",
+      "endDate": "2026-10-12T01:00:00",
+      "showTime": "00:30:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4f94776e9bcd684ff38e35aa81b26db5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62739d2c0e6acefce8ae69c86d3b4ca1.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Mukh Khabraan",
-      "description": "Mukh Khabraan",
+      "showName": "The Spokesman Debate",
+      "description": "The Spokesman Debate",
       "startDate": "2026-10-12T01:00:00",
       "endDate": "2026-10-12T02:00:00",
       "showTime": "01:00:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b5161637c161ea0f49b6a9ecd341e95.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Safar With Nimrat Kaur",
-      "description": "Safar With Nimrat Kaur",
+      "showName": "Rozana Khass Khabar",
+      "description": "Rozana Khass Khabar",
       "startDate": "2026-10-12T02:00:00",
       "endDate": "2026-10-12T03:00:00",
       "showTime": "02:00:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23d894e248b6a5d9f5561dd192f1fc9a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cf6894d92c24754d742067be743e5899.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Mukh Khabraan",
-      "description": "Mukh Khabraan",
+      "showName": "Rozana -Zindgi",
+      "description": "Rozana -Zindgi",
       "startDate": "2026-10-12T03:00:00",
       "endDate": "2026-10-12T04:00:00",
       "showTime": "03:00:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3843a52c9aeba0305da8cdfb5c4d0138.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -2344,9 +3081,9 @@
       "showName": "Sat Shri Akaal Punjab",
       "description": "Sat Shri Akaal Punjab",
       "startDate": "2026-10-12T07:00:00",
-      "endDate": "2026-10-12T07:30:00",
+      "endDate": "2026-10-12T08:00:00",
       "showTime": "07:00:00",
-      "endTime": "07:30:00",
+      "endTime": "08:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/385bb7572dac7a7bdc98bfc3c3fe4d6c.jpg"
     },
@@ -2354,34 +3091,23 @@
       "serverDate": "2026-10-12",
       "showName": "Mukh Khabraan",
       "description": "Mukh Khabraan",
-      "startDate": "2026-10-12T07:30:00",
-      "endDate": "2026-10-12T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
-    },
-    {
-      "serverDate": "2026-10-12",
-      "showName": "Ground Zero Ton Spokesman",
-      "description": "Bringing the best in television.",
       "startDate": "2026-10-12T08:00:00",
       "endDate": "2026-10-12T08:30:00",
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02a735b3379667bb489dc75572d240b6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Dabaadab Khabraan",
-      "description": "Dabaadab Khabraan",
+      "showName": "Nimrat Ma'am: Political Safar - Legal Interview",
+      "description": "Nimrat Ma'am: Political Safar - Legal Interview",
       "startDate": "2026-10-12T08:30:00",
       "endDate": "2026-10-12T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fee4b5b353786663f363c776aa82a95d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f3cd0ba1db505966daca6a93a4b66e9.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -2396,22 +3122,33 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Khaas Khabraan",
-      "description": "Khaas Khabraan",
+      "showName": "Ek Nazar",
+      "description": "A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.",
       "startDate": "2026-10-12T09:30:00",
       "endDate": "2026-10-12T10:00:00",
       "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a86919181850354e595afdc58c2b54b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/59daf9c8ca2f092ad5308efd88853e9d.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Ground Zero Ton Spokesman",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-12T10:00:00",
+      "endDate": "2026-10-12T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02a735b3379667bb489dc75572d240b6.jpg"
     },
     {
       "serverDate": "2026-10-12",
       "showName": "Mukh Khabraan",
       "description": "Mukh Khabraan",
-      "startDate": "2026-10-12T10:00:00",
+      "startDate": "2026-10-12T10:30:00",
       "endDate": "2026-10-12T11:00:00",
-      "showTime": "10:00:00",
+      "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
@@ -2421,11 +3158,22 @@
       "showName": "Khabran In Focus",
       "description": "Khabran In Focus",
       "startDate": "2026-10-12T11:00:00",
-      "endDate": "2026-10-12T12:00:00",
+      "endDate": "2026-10-12T11:30:00",
       "showTime": "11:00:00",
-      "endTime": "12:00:00",
+      "endTime": "11:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/db18c4d79909b5a6478d24c88185e266.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Geddi With Shurli",
+      "description": "Geddi With Shurli",
+      "startDate": "2026-10-12T11:30:00",
+      "endDate": "2026-10-12T12:00:00",
+      "showTime": "11:30:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b323e34174362eeca7837cafa742bbc5.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -2476,11 +3224,22 @@
       "showName": "Mukh Khabraan",
       "description": "Mukh Khabraan",
       "startDate": "2026-10-12T14:00:00",
-      "endDate": "2026-10-12T15:00:00",
+      "endDate": "2026-10-12T14:30:00",
       "showTime": "14:00:00",
-      "endTime": "15:00:00",
+      "endTime": "14:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Khaas Khabraan",
+      "description": "Khaas Khabraan",
+      "startDate": "2026-10-12T14:30:00",
+      "endDate": "2026-10-12T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a86919181850354e595afdc58c2b54b.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -2495,14 +3254,14 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Dabaadab Khabraan",
-      "description": "Dabaadab Khabraan",
+      "showName": "Galaan Tey Garaari",
+      "description": "Galaan Tey Garaari",
       "startDate": "2026-10-12T15:30:00",
       "endDate": "2026-10-12T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fee4b5b353786663f363c776aa82a95d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26a5b13ada17af5cb3c14db3a818571f.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -2528,14 +3287,14 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Kirti Bande",
-      "description": "Kirti Bande",
+      "showName": "Mudda Live",
+      "description": "The host facilitates discussions with experts regarding recent news updates and developments related to the nation's current affairs, live.",
       "startDate": "2026-10-12T17:00:00",
       "endDate": "2026-10-12T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0d2cf18a62922031dd94174fb6e8354.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62739d2c0e6acefce8ae69c86d3b4ca1.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -2572,34 +3331,34 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "The Spokesman Debate",
-      "description": "The Spokesman Debate",
+      "showName": "Sidhi Gal",
+      "description": "The host invites an expert and engages in an informative discussion on various important topics related to issues that concern society.",
       "startDate": "2026-10-12T19:00:00",
       "endDate": "2026-10-12T20:00:00",
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b5161637c161ea0f49b6a9ecd341e95.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f81945d7d97820af8a2c668c081a232.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Lokaan Da Spokesman",
-      "description": "Lokaan Da Spokesman",
+      "showName": "Spokesman Di Saath",
+      "description": "Spokesman Di Saath",
       "startDate": "2026-10-12T20:00:00",
-      "endDate": "2026-10-12T21:00:00",
+      "endDate": "2026-10-12T20:30:00",
       "showTime": "20:00:00",
-      "endTime": "21:00:00",
+      "endTime": "20:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ef7a7ed354bd6fec3a0e57b01f537db5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e9a1adc005a66bbbb721351aaee7910a.jpg"
     },
     {
       "serverDate": "2026-10-12",
       "showName": "Rozana Khass Khabar",
       "description": "Rozana Khass Khabar",
-      "startDate": "2026-10-12T21:00:00",
-      "endDate": "2026-10-12T22:00:00",
-      "showTime": "21:00:00",
-      "endTime": "22:00:00",
+      "startDate": "2026-10-12T20:30:00",
+      "endDate": "2026-10-12T21:30:00",
+      "showTime": "20:30:00",
+      "endTime": "21:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cf6894d92c24754d742067be743e5899.jpg"
     },
@@ -2607,45 +3366,56 @@
       "serverDate": "2026-10-12",
       "showName": "Mukh Khabraan",
       "description": "Mukh Khabraan",
-      "startDate": "2026-10-12T22:00:00",
-      "endDate": "2026-10-12T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
+      "startDate": "2026-10-12T21:30:00",
+      "endDate": "2026-10-12T22:00:00",
+      "showTime": "21:30:00",
+      "endTime": "22:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af87ff31d90a832cf055d61c815a4c2e.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Ground Zero Ton Spokesman",
-      "description": "Bringing the best in television.",
+      "showName": "Rozana -Zindgi",
+      "description": "Rozana -Zindgi",
+      "startDate": "2026-10-12T22:00:00",
+      "endDate": "2026-10-12T22:30:00",
+      "showTime": "22:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3843a52c9aeba0305da8cdfb5c4d0138.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Mudda Live",
+      "description": "The host facilitates discussions with experts regarding recent news updates and developments related to the nation's current affairs, live.",
       "startDate": "2026-10-12T22:30:00",
       "endDate": "2026-10-12T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02a735b3379667bb489dc75572d240b6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/62739d2c0e6acefce8ae69c86d3b4ca1.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Dabaadab Khabraan",
-      "description": "Dabaadab Khabraan",
+      "showName": "Sidhi Gal",
+      "description": "The host invites an expert and engages in an informative discussion on various important topics related to issues that concern society.",
       "startDate": "2026-10-12T23:00:00",
       "endDate": "2026-10-12T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fee4b5b353786663f363c776aa82a95d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f81945d7d97820af8a2c668c081a232.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "The Spokesman Debate",
-      "description": "The Spokesman Debate",
+      "showName": "Spokesman Di Saath",
+      "description": "Spokesman Di Saath",
       "startDate": "2026-10-12T23:30:00",
       "endDate": "2026-10-12T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b5161637c161ea0f49b6a9ecd341e95.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e9a1adc005a66bbbb721351aaee7910a.jpg"
     }
   ]
 }
