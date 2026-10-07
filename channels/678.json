@@ -8,116 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Movies.png",
   "programs": [
     {
-      "serverDate": "2026-10-05",
-      "showName": "Bandha Muktha",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-10-05T00:00:00",
-      "endDate": "2026-10-05T03:00:00",
-      "showTime": "00:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/64d18667832545adadd04643a22eeae2.jpg"
-    },
-    {
-      "serverDate": "2026-10-05",
-      "showName": "Jaya Surya",
-      "description": "A monk, gangster and sorceress plot to sacrifice a child for selfish gains, but Sai Baba uses his powers to protect the innocent victim.",
-      "startDate": "2026-10-05T03:00:00",
-      "endDate": "2026-10-05T06:00:00",
-      "showTime": "03:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2cf355ffc6c9140cf195c93c460d88e6.jpg"
-    },
-    {
-      "serverDate": "2026-10-05",
-      "showName": "Movie Filler",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-05T06:00:00",
-      "endDate": "2026-10-05T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
-    },
-    {
-      "serverDate": "2026-10-05",
-      "showName": "Movie Filler",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-05T06:30:00",
-      "endDate": "2026-10-05T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
-    },
-    {
-      "serverDate": "2026-10-05",
-      "showName": "Mari Kannu Hori Myage",
-      "description": "Vaikuntha is a middle-class man belonging to a Brahmin family who struggles to escape from a trap of his own making created by a tiny misunderstanding.",
-      "startDate": "2026-10-05T07:00:00",
-      "endDate": "2026-10-05T10:00:00",
-      "showTime": "07:00:00",
-      "endTime": "10:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/084987a71e43bff21e23205ef5fb8b13.jpg"
-    },
-    {
-      "serverDate": "2026-10-05",
-      "showName": "Charminar",
-      "description": "Mohana is in love with his classmate Radha but fails to convey his feelings and moves abroad. When the school reunion is arranged, he returns hoping to meet Radha but is shocked when he meets her.",
-      "startDate": "2026-10-05T10:00:00",
-      "endDate": "2026-10-05T13:00:00",
-      "showTime": "10:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbd7d284e3d9d4a6798b5942ea64ade0.jpg"
-    },
-    {
-      "serverDate": "2026-10-05",
-      "showName": "Rishi",
-      "description": "Rishi, a thief, happens to own a floppy disk incriminating a minister of murder. Things turn chaotic when his lookalike Velu is targeted by the minister for the footage.",
-      "startDate": "2026-10-05T13:00:00",
-      "endDate": "2026-10-05T16:00:00",
-      "showTime": "13:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/035970fc82e018eaa554ca4d20d62528.jpg"
-    },
-    {
-      "serverDate": "2026-10-05",
-      "showName": "Kindari Jogi",
-      "description": "Kindari Jogi, a magical entity, goes to Hanumapura using Ravi's guise to help him with his sister's marriage. However, while he tries to unite two quarrelling factions, he falls in love with Ganga.",
-      "startDate": "2026-10-05T16:00:00",
-      "endDate": "2026-10-05T19:00:00",
-      "showTime": "16:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/755f42c81a8cc7fcc3c2ed5c189768d7.jpg"
-    },
-    {
-      "serverDate": "2026-10-05",
-      "showName": "Bhagyada Lakshmi Baramma",
-      "description": "Pandu and Parvati pretend to be married in order to win a huge amount of money in a competition. However, they must overcome hilarious challenges to be successful in their quest.",
-      "startDate": "2026-10-05T19:00:00",
-      "endDate": "2026-10-05T22:00:00",
-      "showTime": "19:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/660865f2e14b3cbf08adb1c0372f74bf.jpg"
-    },
-    {
-      "serverDate": "2026-10-05",
-      "showName": "Katari Veera Surasundarangi",
-      "description": "After his death, Upendra, an aspiring gangster, ends up in hell. However, when he falls in love with Indraja, Lord Indra's daughter, he must convince Yama to send him to heaven.",
-      "startDate": "2026-10-05T22:00:00",
-      "endDate": "2026-10-05T23:59:59",
-      "showTime": "22:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/88357c5a1f17d768e00222ba523566b4.jpg"
-    },
-    {
       "serverDate": "2026-10-06",
       "showName": "Bangalore Bhootha",
       "description": "Bringing the best in cinema.",
@@ -886,6 +776,116 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d8bc3c1d505ab791b2a0d8d306b6c5e5.jpg"
+    },
+    {
+      "serverDate": "2026-10-13",
+      "showName": "Andada Aramane",
+      "description": "Andada Aramane",
+      "startDate": "2026-10-13T00:00:00",
+      "endDate": "2026-10-13T03:00:00",
+      "showTime": "00:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/942ddd4adba3ed212fcc41ea4a164259.jpg"
+    },
+    {
+      "serverDate": "2026-10-13",
+      "showName": "Mallige Sampige",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-10-13T03:00:00",
+      "endDate": "2026-10-13T06:00:00",
+      "showTime": "03:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-13",
+      "showName": "Movie Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-13T06:00:00",
+      "endDate": "2026-10-13T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
+    },
+    {
+      "serverDate": "2026-10-13",
+      "showName": "Movie Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-13T06:30:00",
+      "endDate": "2026-10-13T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
+    },
+    {
+      "serverDate": "2026-10-13",
+      "showName": "Once Upon a Time in Jamaligudda",
+      "description": "A man falls in love with a masseuse and their love story takes an unexpected turn when a murder takes place which changes everything.",
+      "startDate": "2026-10-13T07:00:00",
+      "endDate": "2026-10-13T10:00:00",
+      "showTime": "07:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/07beb4790ab9ac4ff5f029e9471eea48.jpg"
+    },
+    {
+      "serverDate": "2026-10-13",
+      "showName": "Krishnan Love Story",
+      "description": "Geeta, who likes Krishna, decides to elope with Narendra because of his wealth. However, things take a turn when Narendra dies in an accident.",
+      "startDate": "2026-10-13T10:00:00",
+      "endDate": "2026-10-13T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e512978397795eebe8f6b35409a3203.jpg"
+    },
+    {
+      "serverDate": "2026-10-13",
+      "showName": "Marthanda",
+      "description": "Based on the film 'Ellame En Rasathan' by Rajkiran.",
+      "startDate": "2026-10-13T13:00:00",
+      "endDate": "2026-10-13T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/710b0c814a112c440b7aeae0479dcf85.jpg"
+    },
+    {
+      "serverDate": "2026-10-13",
+      "showName": "Prachanda Kulla",
+      "description": "King Pashupathy seeks help for his mute daughter, encountering a saint and a witch who offer assistance, leaving him to choose whose aid to accept.",
+      "startDate": "2026-10-13T16:00:00",
+      "endDate": "2026-10-13T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28cde9b2a283c5a9c0d1ee3333bc5a59.jpg"
+    },
+    {
+      "serverDate": "2026-10-13",
+      "showName": "Mandyada Gandu",
+      "description": "Krishna, a simple man, is cheated and humiliated by the village head, Kempe Gowda, and his daughter, Radha. To seek revenge, Krishna disguises himself and devises a plan to teach them a lesson.",
+      "startDate": "2026-10-13T19:00:00",
+      "endDate": "2026-10-13T22:00:00",
+      "showTime": "19:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e2e4b8fdf16b15ce3ea7d5f547997a03.jpg"
+    },
+    {
+      "serverDate": "2026-10-13",
+      "showName": "18th Cross",
+      "description": "After Jeevan gets involved in the underworld business, he wants to leave this life behind. However, when his friend gets murdered, he is unable to back down as he needs to exact revenge on his enemy.",
+      "startDate": "2026-10-13T22:00:00",
+      "endDate": "2026-10-13T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/71183c28d77770fef6b4a5c74e1ddcd1.jpg"
     }
   ]
 }
