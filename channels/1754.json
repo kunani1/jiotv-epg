@@ -8,127 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Movies.png",
   "programs": [
     {
-      "serverDate": "2026-10-07",
-      "showName": "Sadayam",
-      "description": "Sathyanathan is an artist who lives happily with his family. He comes across three girls and finds out that the girls' mother is a pimp and wants the daughters to enter the flesh trade.",
-      "startDate": "2026-10-07T00:00:00",
-      "endDate": "2026-10-07T01:00:00",
-      "showTime": "00:00:00",
-      "endTime": "01:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ebfa1e8c7bfeb2c4349bf658226733ea.jpg"
-    },
-    {
-      "serverDate": "2026-10-07",
-      "showName": "Thuranna Jail",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-10-07T01:00:00",
-      "endDate": "2026-10-07T03:30:00",
-      "showTime": "01:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd848ec00e2dbab1f2d5ccafc9fbdf26.jpg"
-    },
-    {
-      "serverDate": "2026-10-07",
-      "showName": "Nizhal Moodiya Nirangal",
-      "description": "A jolly youth lives a relaxed life under his older brother's care. However, his world changes overnight when his brother's sudden demise forces him to take on unexpected family responsibilities.",
-      "startDate": "2026-10-07T03:30:00",
-      "endDate": "2026-10-07T06:00:00",
-      "showTime": "03:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fcf8eed2c15141b29306dd5ffebdfdac.jpg"
-    },
-    {
-      "serverDate": "2026-10-07",
-      "showName": "Filler",
-      "description": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
-      "startDate": "2026-10-07T06:00:00",
-      "endDate": "2026-10-07T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eb541e1dc6b63ce4dfebe39bdc99c5b7.jpg"
-    },
-    {
-      "serverDate": "2026-10-07",
-      "showName": "Filler",
-      "description": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
-      "startDate": "2026-10-07T06:30:00",
-      "endDate": "2026-10-07T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eb541e1dc6b63ce4dfebe39bdc99c5b7.jpg"
-    },
-    {
-      "serverDate": "2026-10-07",
-      "showName": "Sarovaram",
-      "description": "Devadathan, a musician settled in France, is excited to return to his family in India. However, he is taken aback to learn that his siblings have developed hostile feelings for him.",
-      "startDate": "2026-10-07T07:00:00",
-      "endDate": "2026-10-07T10:00:00",
-      "showTime": "07:00:00",
-      "endTime": "10:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/064c89db4d4551cb03aedd0286625b37.jpg"
-    },
-    {
-      "serverDate": "2026-10-07",
-      "showName": "Molly Aunty Rocks!",
-      "description": "Molly returns to being a bank employee in India after spending a long time abroad. However, when she decides to take voluntary retirement, an officer accuses her of committing income tax evasion.",
-      "startDate": "2026-10-07T10:00:00",
-      "endDate": "2026-10-07T13:00:00",
-      "showTime": "10:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5da2cd9a6d8c7de56ad6fe40b3c1de2.jpg"
-    },
-    {
-      "serverDate": "2026-10-07",
-      "showName": "Chemistry",
-      "description": "Three girls in a school commit suicide in their laboratory by consuming poison. Parvati joins the same school and things take a turn when she gets possessed by the spirit of one of the dead girls.",
-      "startDate": "2026-10-07T13:00:00",
-      "endDate": "2026-10-07T16:00:00",
-      "showTime": "13:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e2dbee877028259d6c000cc5dd753c25.jpg"
-    },
-    {
-      "serverDate": "2026-10-07",
-      "showName": "Achante Aanmakkal",
-      "description": "Madhava, a retired police officer, becomes a victim of political rivalry when he is forced to take responsibility for a boy's death. However, his daughters decide to prove their father's innocence.",
-      "startDate": "2026-10-07T16:00:00",
-      "endDate": "2026-10-07T19:00:00",
-      "showTime": "16:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3a1c4e1acc82cd837d3aaf87c233a850.jpg"
-    },
-    {
-      "serverDate": "2026-10-07",
-      "showName": "The King",
-      "description": "After learning that an elected representative in the parliament is corrupted and involved in many crimes, Alex, an IAS officer, decides to expose his misdeeds in front of the public.",
-      "startDate": "2026-10-07T19:00:00",
-      "endDate": "2026-10-07T22:00:00",
-      "showTime": "19:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9734c2f1f7d2caaa74cc7bf48cc923d7.jpg"
-    },
-    {
-      "serverDate": "2026-10-07",
-      "showName": "Naan Mirugamaai Maara",
-      "description": "Bhoominathan seeks revenge after his brother gets murdered. So, he hires some contract killers but soon realises that his family's safety is on the line.",
-      "startDate": "2026-10-07T22:00:00",
-      "endDate": "2026-10-07T23:59:59",
-      "showTime": "22:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/67c6cffa6b56518a693387d489e4f952.jpg"
-    },
-    {
       "serverDate": "2026-10-08",
       "showName": "Naan Mirugamaai Maara",
       "description": "Bhoominathan seeks revenge after his brother gets murdered. So, he hires some contract killers but soon realises that his family's safety is on the line.",
@@ -853,6 +732,127 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8df03773fa8887c9c93572e752ae3594.jpg"
+    },
+    {
+      "serverDate": "2026-10-14",
+      "showName": "Drama",
+      "description": "A funeral director is tasked with the responsibility of fulfilling the last wish of one of his clients. However, he has to overcome numerous obstacles in order to succeed.",
+      "startDate": "2026-10-14T00:00:00",
+      "endDate": "2026-10-14T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8df03773fa8887c9c93572e752ae3594.jpg"
+    },
+    {
+      "serverDate": "2026-10-14",
+      "showName": "The Hitlist",
+      "description": "A police officer goes after a notorious serial killer who has been targeting his fellow police officers.",
+      "startDate": "2026-10-14T01:00:00",
+      "endDate": "2026-10-14T03:30:00",
+      "showTime": "01:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28319d8f0cd22e8ce545f346a8d18e7f.jpg"
+    },
+    {
+      "serverDate": "2026-10-14",
+      "showName": "Kochaniyan",
+      "description": "After enduring the loss of two close companions, Kochunni falls critically ill. This health crisis unexpectedly opens a path for him to resolve conflicts from his rebellious youth.",
+      "startDate": "2026-10-14T03:30:00",
+      "endDate": "2026-10-14T06:00:00",
+      "showTime": "03:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e8cf2cc251b42203f5123bc8b4435a12.jpg"
+    },
+    {
+      "serverDate": "2026-10-14",
+      "showName": "Filler",
+      "description": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
+      "startDate": "2026-10-14T06:00:00",
+      "endDate": "2026-10-14T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eb541e1dc6b63ce4dfebe39bdc99c5b7.jpg"
+    },
+    {
+      "serverDate": "2026-10-14",
+      "showName": "Filler",
+      "description": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
+      "startDate": "2026-10-14T06:30:00",
+      "endDate": "2026-10-14T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eb541e1dc6b63ce4dfebe39bdc99c5b7.jpg"
+    },
+    {
+      "serverDate": "2026-10-14",
+      "showName": "Daivathinte Vikrithikal",
+      "description": "When the French rulers leave Mahé, Father Alphonse chooses to remain in his village with his family, deeply attached to the place. However, a new social order disrupts his career and livelihood.",
+      "startDate": "2026-10-14T07:00:00",
+      "endDate": "2026-10-14T10:00:00",
+      "showTime": "07:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b590ede7eb6775ad6916fe54e219000.jpg"
+    },
+    {
+      "serverDate": "2026-10-14",
+      "showName": "Star",
+      "description": "Ardra's increasingly strange behaviour threatens her marriage to Roy. Convinced she is possessed, Ardra seeks help from Dr Deric, who endeavours to reveal the underlying truth.",
+      "startDate": "2026-10-14T10:00:00",
+      "endDate": "2026-10-14T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f650c67f2651c41e7d06a3fd334ecc9f.jpg"
+    },
+    {
+      "serverDate": "2026-10-14",
+      "showName": "916",
+      "description": "A devoted single father, Harikrishnan, shares an unbreakable bond with his daughter, Meera. However, his world shatters when she disappears mysteriously.",
+      "startDate": "2026-10-14T13:00:00",
+      "endDate": "2026-10-14T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/43b1efc2cf4972b07ddfe2f4045c2589.jpg"
+    },
+    {
+      "serverDate": "2026-10-14",
+      "showName": "Aavanazhi",
+      "description": "Balram, an honest police inspector, turns to drinking and womanizing after facing several hardships in life. However, when a criminal he nabs gets acquitted by the court, he decides to fight again.",
+      "startDate": "2026-10-14T16:00:00",
+      "endDate": "2026-10-14T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/05ce97ecadc6931bfbc7065c060849a2.jpg"
+    },
+    {
+      "serverDate": "2026-10-14",
+      "showName": "Chathurangam",
+      "description": "A minister learns about Jimmy's secret talent and makes him a secretary for his political party. However, things take a turn when other members of the party get jealous.",
+      "startDate": "2026-10-14T19:00:00",
+      "endDate": "2026-10-14T22:00:00",
+      "showTime": "19:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/54f4b904c3fbbf05417f50029389cf0e.jpg"
+    },
+    {
+      "serverDate": "2026-10-14",
+      "showName": "Sye Raa Narasimha Reddy",
+      "description": "Uyyalawada Narasimha Reddy, the ruler of the Rayalaseema region, resists the tyranny of the East India Company and sparks a revolution in the process.",
+      "startDate": "2026-10-14T22:00:00",
+      "endDate": "2026-10-14T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/95c33493694f23f206b02b4c075416ab.jpg"
     }
   ]
 }

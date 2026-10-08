@@ -8,180 +8,37 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Kairali_WE_TV.png",
   "programs": [
     {
-      "serverDate": "2026-10-06",
-      "showName": "Vasantha Sena",
-      "description": "Mahesh, a young man, falls in love with Merlyn, a woman from an Anglo-Indian family. However, things become complicated when Shailaja, his sister, disapproves of their relationship.",
-      "startDate": "2026-10-06T00:00:00",
-      "endDate": "2026-10-06T01:45:00",
-      "showTime": "00:00:00",
-      "endTime": "01:45:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9395489134ec48d7e3eec26288f3af71.jpg"
-    },
-    {
-      "serverDate": "2026-10-06",
-      "showName": "Agni Muhurtham",
-      "description": "Vinayan, a simple worker, ascends to power within the family's enterprise after his marriage to a businessman's daughter. However, when his father-in-law is found dead, he becomes the prime suspect.",
-      "startDate": "2026-10-06T01:45:00",
-      "endDate": "2026-10-06T03:45:00",
-      "showTime": "01:45:00",
-      "endTime": "03:45:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c0c2cf408d681f517a809cb725b0d202.jpg"
-    },
-    {
-      "serverDate": "2026-10-06",
-      "showName": "Pravachakan",
-      "description": "Balu is forced to follow the family profession of fortune-telling against his dream of becoming a film actor. His life changes when some of his predictions come true and he becomes famous.",
-      "startDate": "2026-10-06T03:45:00",
-      "endDate": "2026-10-06T06:00:00",
-      "showTime": "03:45:00",
-      "endTime": "06:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a92dfbdd19f3769b7b02a1f957fda30b.jpg"
-    },
-    {
-      "serverDate": "2026-10-06",
-      "showName": "Doctor Live",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-06T06:00:00",
-      "endDate": "2026-10-06T06:20:00",
-      "showTime": "06:00:00",
-      "endTime": "06:20:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/277f8b8ce65e9498e5979a32b4e3be37.jpg"
-    },
-    {
-      "serverDate": "2026-10-06",
-      "showName": "Kalapam",
-      "description": "Bharathan, a communist, works for the welfare of the people. He soon faces many challenges when he encounters an evil businessman.",
-      "startDate": "2026-10-06T06:20:00",
-      "endDate": "2026-10-06T08:15:00",
-      "showTime": "06:20:00",
-      "endTime": "08:15:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/83feaadcb43881c11f206a6e5993d125.jpg"
-    },
-    {
-      "serverDate": "2026-10-06",
-      "showName": "Pathemari",
-      "description": "Narayanan, a young man, goes to Dubai to make a living. However, he faces many struggles but braves them for the sake of his family's well-being.",
-      "startDate": "2026-10-06T08:15:00",
-      "endDate": "2026-10-06T10:15:00",
-      "showTime": "08:15:00",
-      "endTime": "10:15:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aec7f88e8ed46398c1051353c8a06cc2.jpg"
-    },
-    {
-      "serverDate": "2026-10-06",
-      "showName": "British Market",
-      "description": "Kunjamma and her sons run a business and lead a successful life. When Chennaikara, a thug, threatens them, her eldest son is determined to fight against him.",
-      "startDate": "2026-10-06T10:15:00",
-      "endDate": "2026-10-06T12:45:00",
-      "showTime": "10:15:00",
-      "endTime": "12:45:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/33f484138306e74a0b28b0675b54f8a4.jpg"
-    },
-    {
-      "serverDate": "2026-10-06",
-      "showName": "Oppam",
-      "description": "Jayaraman, a liftman and caretaker, relies on his non-visual senses and martial arts expertise to protect a little girl from a vengeful ex-con who is out to settle an old score.",
-      "startDate": "2026-10-06T12:45:00",
-      "endDate": "2026-10-06T15:00:00",
-      "showTime": "12:45:00",
-      "endTime": "15:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3b2ffcc4813468e8f0e2a690c59012af.jpg"
-    },
-    {
-      "serverDate": "2026-10-06",
-      "showName": "Kerala State Lottery Result",
-      "description": "The host reveals the ticket numbers and announces the names of the people from the state of Kerala who have won the lottery.",
-      "startDate": "2026-10-06T15:00:00",
-      "endDate": "2026-10-06T15:30:00",
-      "showTime": "15:00:00",
-      "endTime": "15:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e575a092937c4192ee6fc4d91970655b.jpg"
-    },
-    {
-      "serverDate": "2026-10-06",
-      "showName": "Kerala State Lottery Result",
-      "description": "The host reveals the ticket numbers and announces the names of the people from the state of Kerala who have won the lottery.",
-      "startDate": "2026-10-06T15:30:00",
-      "endDate": "2026-10-06T16:00:00",
-      "showTime": "15:30:00",
-      "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e575a092937c4192ee6fc4d91970655b.jpg"
-    },
-    {
-      "serverDate": "2026-10-06",
-      "showName": "Usthad",
-      "description": "An ex-gangster decides to move into his village with his sister. However, chaos ensues when a businessman frames him and gets him arrested.",
-      "startDate": "2026-10-06T16:00:00",
-      "endDate": "2026-10-06T18:45:00",
-      "showTime": "16:00:00",
-      "endTime": "18:45:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b47350ad64ece65b9683ea4c462d8698.jpg"
-    },
-    {
-      "serverDate": "2026-10-06",
-      "showName": "Ponmuttayidunna tharavu",
-      "description": "Bhaskaran, a goldsmith, is madly in love with Snehalatha, the daughter of the astrologer, Panicker. When he asks for her hand in marriage, to his shock, she denies their love affair.",
-      "startDate": "2026-10-06T18:45:00",
-      "endDate": "2026-10-06T21:30:00",
-      "showTime": "18:45:00",
-      "endTime": "21:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f99675db245563b978503f1419102717.jpg"
-    },
-    {
-      "serverDate": "2026-10-06",
-      "showName": "Chenkol",
-      "description": "Sethumadhavan accidentally kills a criminal to save his life and is sent to prison. After completing his sentence, he tries to lead a happy life, but his past makes it difficult.",
-      "startDate": "2026-10-06T21:30:00",
-      "endDate": "2026-10-06T23:59:59",
-      "showTime": "21:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a696e105e7728851c8b3f9f57d029b6.jpg"
-    },
-    {
       "serverDate": "2026-10-07",
-      "showName": "Alakadalin Akkare",
-      "description": "Verendran, a smuggler, kills Mohan, a coast guard officer, only to discover that Mohan's father Balu is a witness. When Verendran sets out to kill Balu, his grandson Anand comes to his rescue.",
+      "showName": "Onnanam Kunnil Oradi Kunnil",
+      "description": "Two carefree friends, Nithin and Anand, cross paths with the same woman, setting off a chain of misunderstandings that tests their bond and changes their lives.",
       "startDate": "2026-10-07T00:00:00",
       "endDate": "2026-10-07T01:45:00",
       "showTime": "00:00:00",
       "endTime": "01:45:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/932e5080de73b76f8a4112d84d9a7059.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0f75ad7051d68f660984e920adc338fd.jpg"
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Jeevitham",
-      "description": "Rajan, a hardworking mechanic, leaves his home with his wife after facing troubles with his sons. Things take a turn when he builds a fortune of his own with his mechanic expertise.",
+      "showName": "Raajavembaala",
+      "description": "Bringing the best in cinema.",
       "startDate": "2026-10-07T01:45:00",
       "endDate": "2026-10-07T03:45:00",
       "showTime": "01:45:00",
       "endTime": "03:45:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8963e4454340ea2e338e00d8fa56b932.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b795c5a4c9dadf6aca3ad2dcb361466a.jpg"
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "I. G. - Inspector General",
-      "description": "Inspector General Durga Prasad is promoted to head the anti-terrorism squad. However, things take a turn when he is forced to choose between his family and his job.",
+      "showName": "Vadakkunokkiyantram",
+      "description": "A man with average looks, lives an unconfident life and continuously suspects and spies on his attractive wife, until she resolves to leave him due to his nature.",
       "startDate": "2026-10-07T03:45:00",
       "endDate": "2026-10-07T06:00:00",
       "showTime": "03:45:00",
       "endTime": "06:00:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/52b9fb98ae255332c402b9e7a83db4bd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f1b313373313080b9e7e1e3b6e6eb82.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -196,47 +53,47 @@
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Idiots",
-      "description": "A wealthy heiress plans to implicate her former boyfriend for her murder by hiring an assassin. Things take a turn when a thief enters the house at the same time.",
+      "showName": "Jallikattu",
+      "description": "Kalan Varkey, a butcher, faces a lot of trouble when a buffalo he was supposed to slaughter goes astray and causes chaos in a remote village.",
       "startDate": "2026-10-07T06:20:00",
       "endDate": "2026-10-07T08:15:00",
       "showTime": "06:20:00",
       "endTime": "08:15:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/70d350be7d9bcc12abbe6973f48f9ed9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fc4a3ce545cd04e1a30cd2179b0a9839.jpg"
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Take Off",
-      "description": "Sameera, an Indian nurse working in Iraq, and her colleagues are held hostage by terrorists. Later, Indian ambassador Manoj uses his wit to rescue them and get them out of the country alive.",
+      "showName": "Alilakuruvikal",
+      "description": "An artist falls in love with a woman who is about to get married to someone else. Things become complicated when the woman develops feelings for the artist as well.",
       "startDate": "2026-10-07T08:15:00",
       "endDate": "2026-10-07T10:15:00",
       "showTime": "08:15:00",
       "endTime": "10:15:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aef94ab139873682ec6dc31ddbab3246.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a41bf4aad7ba4dd1524b35b5cf57b5e.jpg"
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Pallivathuckal Thommichan",
-      "description": "After many years, Dharman, a rich man, goes back to his village to take revenge against Thommichan, a businessman, for ruining his family.",
+      "showName": "Napoleon",
+      "description": "Bringing the best in cinema.",
       "startDate": "2026-10-07T10:15:00",
       "endDate": "2026-10-07T12:45:00",
       "showTime": "10:15:00",
       "endTime": "12:45:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5f313bbe21f5e76288710379f295ba9c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/87705d0f38e7d73aa6b793fd8688fdc9.jpg"
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Vadakkunokkiyantram",
-      "description": "A man with average looks, lives an unconfident life and continuously suspects and spies on his attractive wife, until she resolves to leave him due to his nature.",
+      "showName": "Varnappakittu",
+      "description": "Sunny, a successful businessman in Singapore, wishes to marry his girlfriend, Sandra. However, he soon finds out that she is an escort hired by his business rival, Mohammad Ali, to spy on him.",
       "startDate": "2026-10-07T12:45:00",
       "endDate": "2026-10-07T15:00:00",
       "showTime": "12:45:00",
       "endTime": "15:00:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f1b313373313080b9e7e1e3b6e6eb82.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3854b988a15898ff6af886b54beb6e5f.jpg"
     },
     {
       "serverDate": "2026-10-07",
@@ -262,69 +119,69 @@
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Manthrika Kuthira",
-      "description": "Sunny Kuruvilla, a prosecutor, imprisons Kondotty Jaffar, a criminal. However, complications arise when he escapes and seeks vengeance.",
+      "showName": "Ee Puzhayum Kadannu",
+      "description": "In an attempt to marry his beloved Anjali, Gopi dedicates himself to finding suitable matches for her unmarried sisters. However, one fateful night changes their lives forever when he accidentally commits a crime.",
       "startDate": "2026-10-07T16:00:00",
       "endDate": "2026-10-07T18:45:00",
       "showTime": "16:00:00",
       "endTime": "18:45:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b28939be45d3de3f9d7afbfd0e6122a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c1a7e5fba0bc27962b710f6d24047d2c.jpg"
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Pattanathil Sundaran",
-      "description": "Sundaresan, a grocery store owner, marries an educated girl who gets a good job in another city soon after the wedding. Though he follows her to the new city, he plots so that she resigns.",
+      "showName": "Mahathma",
+      "description": "Devadevan gets shot right as he plans to expose the corrupt top politicians working with gangsters behind a series of bomb blasts.",
       "startDate": "2026-10-07T18:45:00",
       "endDate": "2026-10-07T21:30:00",
       "showTime": "18:45:00",
       "endTime": "21:30:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61769b2185fc638fb0ddd4fc8eb72d33.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/09f101f942c727d1d7fa187f1de64b3b.jpg"
     },
     {
       "serverDate": "2026-10-07",
-      "showName": "Kuttettan",
-      "description": "Although married, Vishnu is a habitual flirt and always looks out for an affair. When he is almost caught with a young girl in his house, he lies to his family that she is his illegitimate daughter.",
+      "showName": "Thalayana Manthram",
+      "description": "After marriage, Sukumaran's wife Kanchana demands a glamorous lifestyle. However, Sukumaran, who finds it difficult to fulfil her wishes, takes a loan which he is later unable to repay.",
       "startDate": "2026-10-07T21:30:00",
       "endDate": "2026-10-07T23:59:59",
       "showTime": "21:30:00",
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b3201088d9a3a80ff8b92017ac89d0a5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e91545556862dcfebed86d458a35da7.jpg"
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Samrambham",
-      "description": "After stealing some diamonds, a thief is wounded while trying to double-cross his gang but before dying, he leaves behind some clues that Vasu and Raghavan try to decode.",
+      "showName": "Orikkal Koodi",
+      "description": "Ramachandran joins the office as the managing director and develops feelings for the office stenographer. Later, he realises it's the same girl who walked out on him on their wedding day.",
       "startDate": "2026-10-08T00:00:00",
       "endDate": "2026-10-08T01:45:00",
       "showTime": "00:00:00",
       "endTime": "01:45:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/599c7f85362dc3353f8fb3085a47bb60.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/611ae9f3717a4120d56ee7ae0e0ff46b.jpg"
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Aashrayam",
-      "description": "The relationship between a woman and her husband takes a turn for the worse when her former flame resurfaces in her life.",
+      "showName": "Amrutha Geetham",
+      "description": "Mohanan finds healing in Ooty by adopting a baby after a heartbreak. Subsequently, he faces numerous dilemmas and challenges in his newfound role as a father.",
       "startDate": "2026-10-08T01:45:00",
       "endDate": "2026-10-08T03:45:00",
       "showTime": "01:45:00",
       "endTime": "03:45:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5b54b0d5baecd650ca8d5403baedd99.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e147a60c1fbc0d87313b94d9135f4fb1.jpg"
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Joseph",
-      "description": "Following the death of his ex-wife, a retired police officer, who is known for his investigative prowess, unexpectedly gets pulled into a criminal case involving organ harvesting.",
+      "showName": "Pothan Vava",
+      "description": "Vava, a villager, goes through many troubles as he is born to a Christian mother and a Brahmin father. However, he is determined to prove to the society that love matters the most.",
       "startDate": "2026-10-08T03:45:00",
       "endDate": "2026-10-08T06:00:00",
       "showTime": "03:45:00",
       "endTime": "06:00:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be16703b60b8e32c9821fd1d0e4cfe32.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f264fa1056363f61f5e02b7bd8242e9d.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -339,47 +196,47 @@
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "The Porter",
-      "description": "Bringing the best in cinema.",
+      "showName": "Koodanayum Kattu",
+      "description": "When Annie encounters her ex-lover, Tommy, after years, Tommy is oblivious to the fact that he is the father of Annie's child and Annie is unaware of the reason behind Tommy's betrayal in the past.",
       "startDate": "2026-10-08T06:20:00",
       "endDate": "2026-10-08T08:15:00",
       "showTime": "06:20:00",
       "endTime": "08:15:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cefd95af9bf944b7b2ee81d1c772d0f3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a26bb57b06e4ab6d2524cc8bf0d66891.jpg"
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Golanthara Vartha",
-      "description": "Rameshan Nair, a grocery shop owner, fights against corruption in his village. He gets Rajani fired from her job, but realises his mistake and tries to get the job and accommodation back for her.",
+      "showName": "Oliyambukal",
+      "description": "A man decides to avenge the death of his father. He makes up his mind to adopt all possible means to satiate his vengeance.",
       "startDate": "2026-10-08T08:15:00",
       "endDate": "2026-10-08T10:15:00",
       "showTime": "08:15:00",
       "endTime": "10:15:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cad914825d57788cfc49ffb09e8e35d5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df7d6de429c1265c07fd0fcbced9b9f8.jpg"
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Dhinarathrangal",
-      "description": "Shot by the police for the murder of a corrupt landlord, an injured Aravindam finds himself in a bizarre twist of fate being treated by Dr Savithri, the victim's daughter.",
+      "showName": "Pravachakan",
+      "description": "Balu is forced to follow the family profession of fortune-telling against his dream of becoming a film actor. His life changes when some of his predictions come true and he becomes famous.",
       "startDate": "2026-10-08T10:15:00",
       "endDate": "2026-10-08T12:45:00",
       "showTime": "10:15:00",
       "endTime": "12:45:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7d9071264b9df26fdf09522d57315c5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a92dfbdd19f3769b7b02a1f957fda30b.jpg"
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Aalibabayum Aarara Kallanmarum",
-      "description": "Diwakaran, a thief, steals jewellery from Aravindakshan, a school teacher. Jayashankar, a police officer who in reality is Diwakaran's brother-in-law, is appointed to investigate the case.",
+      "showName": "Bharathchandran I.P.S.",
+      "description": "Hyder Ali Hassan, a scheming politician, is in league with the underworld and runs a lot of illegal businesses. Balachandran, an IPS officer, is sent on a mission to capture him.",
       "startDate": "2026-10-08T12:45:00",
       "endDate": "2026-10-08T15:00:00",
       "showTime": "12:45:00",
       "endTime": "15:00:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9106cdf35284001c46f7ebc4521eef75.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3cded84d68e50c4c3fe63774f977e5b0.jpg"
     },
     {
       "serverDate": "2026-10-08",
@@ -405,69 +262,69 @@
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Agrajan",
-      "description": "Aravindan, a journalist, moves to a new city when he gets a high-paid job. However, his life changes when he finds himself caught in the rivalry between two leading newspaper publishers.",
+      "showName": "Utsava Melam",
+      "description": "Two rival family groups ask a mediator to choose who will run their upcoming religious event. However, the mediator uses this chance to uncover a hidden family secret.",
       "startDate": "2026-10-08T16:00:00",
       "endDate": "2026-10-08T19:00:00",
       "showTime": "16:00:00",
       "endTime": "19:00:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d92de2041868b7ca142d1c0302588e7f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4e40b37c5e0ac4d3b0aaa6b80161e2b2.jpg"
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Kadha Parayumbol",
-      "description": "Balan, a barber, struggles to give his family a better living. However, his life changes when his old friend, who is a film star, comes to his village for a film shoot.",
+      "showName": "Nettippattam",
+      "description": "Bringing the best in cinema.",
       "startDate": "2026-10-08T19:00:00",
       "endDate": "2026-10-08T21:30:00",
       "showTime": "19:00:00",
       "endTime": "21:30:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ad9fbe724e1ec47283f77928a8ea75d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dd6c2fd495f2a758c9c2f2b522c75791.jpg"
     },
     {
       "serverDate": "2026-10-08",
-      "showName": "Vendor Daniel State Licency",
-      "description": "A greedy man tries every method possible to get rich and hoard more money. However, things take a turn when he accidentally gets his own son killed.",
+      "showName": "Kakkakuyil",
+      "description": "Sivaraman arrives in Mumbai in search of a job, but finds an old friend instead. Circumstances force them to rob a bank and they end up homeless.",
       "startDate": "2026-10-08T21:30:00",
       "endDate": "2026-10-08T23:59:59",
       "showTime": "21:30:00",
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9519b0cdfe73c775c6613cd85e2234b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/95ef1f9056198bbb4e4b279e7478dbce.jpg"
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Ponnum Poovum",
-      "description": "Dasan falls in love with Subhadra while providing her refuge after being deserted by her husband. Later, he discovers her husband was looking for her after being released from jail.",
+      "showName": "Guruji Oru Vakku",
+      "description": "When a generous philanthropist offers money and a fresh start to three aimless and deprived teenagers, they quickly end up squandering it.",
       "startDate": "2026-10-09T00:00:00",
       "endDate": "2026-10-09T01:45:00",
       "showTime": "00:00:00",
       "endTime": "01:45:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c1d3f76a517927f9e8cde5e0b4d20d8a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/951df1f060b90dcadca6e971c92c5bf7.jpg"
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Oru Ragam Pala Thalam",
-      "description": "Raju is a poor hard-working man who earns a living with great difficulty. However, when a rich industrialist offers him the job of being his personal secretary, his life changes.",
+      "showName": "Saahasam",
+      "description": "Bringing the best in movies.",
       "startDate": "2026-10-09T01:45:00",
       "endDate": "2026-10-09T03:45:00",
       "showTime": "01:45:00",
       "endTime": "03:45:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/35ab43ea4f6338b7f8610a1d33ba7b82.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8cab82769a03b105cba69fa033c7edbe.jpg"
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Nettippattam",
-      "description": "Bringing the best in cinema.",
+      "showName": "Kakkathollayiram",
+      "description": "Revathy, a woman with special needs, falls in love with her rapist. When she tells her brother Mukesh to get her married to him, he initially agrees but later learns the truth.",
       "startDate": "2026-10-09T03:45:00",
       "endDate": "2026-10-09T06:00:00",
       "showTime": "03:45:00",
       "endTime": "06:00:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dd6c2fd495f2a758c9c2f2b522c75791.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0cad3d28de44c0b0feb0a2b29ff465dd.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -482,47 +339,47 @@
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Captain",
-      "description": "V. P. Sathyan, a professional Indian footballer, goes through various ups and devastating downs in his career as he strives hard to fulfil his ambitions.",
+      "showName": "Kashmeeram",
+      "description": "A group of terrorists kills the Indian Home Secretary Rajan Varma's nephew. NSG Officer Shyam is appointed to protect Rajan's sister Usha and her daughter.",
       "startDate": "2026-10-09T06:20:00",
       "endDate": "2026-10-09T08:15:00",
       "showTime": "06:20:00",
       "endTime": "08:15:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a001b5828f7d3423b727e3f340061ac0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5bdfb08e22386c24249cd549de933d25.jpg"
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Vishnu",
-      "description": "After escaping his father's control, a man builds a new life only to be torn between loyalty and truth when his past and present dangerously collide.",
+      "showName": "C/O Saira Banu",
+      "description": "A hard-working postwoman lives a contended life with her adopted son. However, her simple life is jeopardised after her beloved son is imprisoned under a false charge.",
       "startDate": "2026-10-09T08:15:00",
       "endDate": "2026-10-09T10:15:00",
       "showTime": "08:15:00",
       "endTime": "10:15:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d33b2f9dedbbe4422e3b74262aaf3c29.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/786f2b42a15b8a9ecfbe531cebbb09b3.jpg"
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Keerthanam",
-      "description": "Mathukutty and Kariya's families are well known rivals in a small village. Subsequently, a series of unexpected events follow when they both try to plot against each other.",
+      "showName": "Janatha Garage",
+      "description": "When Anand visits Hyderabad, he encounters Sathyam, who operates an organisation aiding the underprivileged. Sathyam, swayed by Anand's vision, hands over the organisation's management to him.",
       "startDate": "2026-10-09T10:15:00",
       "endDate": "2026-10-09T12:30:00",
       "showTime": "10:15:00",
       "endTime": "12:30:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e2c6d39d3c72ad35d6648ff87f55c99.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9494cdcbde15a3fb697b7f30499cd4cd.jpg"
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Mazhavil Kavadi",
-      "description": "Velayudhankutty, a villager, goes to a city to earn a living to marry his lover, Amminikutty. But many unexpected turns of events happen when he goes to an unknown city.",
+      "showName": "Kouthuka Varthakal",
+      "description": "Mathew, a flirt, unknowingly pursues his friend Ravi's fiancée. However, when Ravi learns about it, suspicions arise, testing their friendship and love.",
       "startDate": "2026-10-09T12:30:00",
       "endDate": "2026-10-09T15:00:00",
       "showTime": "12:30:00",
       "endTime": "15:00:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5806d5b7b924b4f9ec907c5c6bf042dc.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/96a9cd05690fe3f7cf0bdc77b66d390b.jpg"
     },
     {
       "serverDate": "2026-10-09",
@@ -548,69 +405,69 @@
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "K.G.F: Chapter 1",
-      "description": "Rocky, a young man, seeks power and wealth in order to fulfil a promise to his dying mother. His quest takes him to Mumbai, where he gets involved with the notorious gold mafia.",
+      "showName": "Malabaril Ninnoru Manimaaran",
+      "description": "Meenu, a young woman, is stuck between her divorced parents who want to marry her off to a man of their individual choice. However, her life takes a turn when Balan enters the scene.",
       "startDate": "2026-10-09T16:00:00",
       "endDate": "2026-10-09T18:30:00",
       "showTime": "16:00:00",
       "endTime": "18:30:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e06c5417dd5b66f34f4c465e38ef477a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a4a605c63f15d7941cd24c5a4af3c93.jpg"
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Thuruppugulan",
-      "description": "Menon buys land for his five-star hotel and asks his trusted employee, Sreedharan Unnithan, to take its charge. Years later, Unnithan gets Menon imprisoned in a fake case and Kunjumon helps him.",
+      "showName": "Chess",
+      "description": "A man murders his rich brother-in-law with the help of three co-conspirators to amass his wealth. He also manages to discredit the deceased man's illegitimate son.",
       "startDate": "2026-10-09T18:30:00",
       "endDate": "2026-10-09T21:30:00",
       "showTime": "18:30:00",
       "endTime": "21:30:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e628490ed66984161ca9fa55d6d1344b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3cccabd42ccd7e0a1d21b39c3780862b.jpg"
     },
     {
       "serverDate": "2026-10-09",
-      "showName": "Thommanum Makalum",
-      "description": "A thief and his family decide to mend their ways and start afresh, but things take a turn when they find themselves entangled in local issues.",
+      "showName": "Cheppadividya",
+      "description": "When a murderer ends up helping a distressed old lady with her physically exhausting work, he spends some time with her family and develops feelings for her adopted daughter.",
       "startDate": "2026-10-09T21:30:00",
       "endDate": "2026-10-09T23:59:59",
       "showTime": "21:30:00",
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2edd61bc9702cc1c4f934984a6cc826b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f799644e9dfaf2a1029f6e4ef27ba0b0.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Kaaliya Mardhanam",
-      "description": "Geetha's murder is pinned on Ramu, the man she rejected, while the real culprits, Johnny, Rahim, Swami and Kannan, get off scot-free. However, the four spoilt brats fail to elude their karma.",
+      "showName": "Aanakkorumma",
+      "description": "Bindu's life is in danger when she witnesses two thieves steal the idol of a deity from a temple. However, Manikandan, her elephant, protects her from harm.",
       "startDate": "2026-10-10T00:00:00",
       "endDate": "2026-10-10T01:45:00",
       "showTime": "00:00:00",
       "endTime": "01:45:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dba13d6b4a122d3ecac805c049e0691e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/851dd0f6cbd5c3daa07b5c792450cdf4.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Thrishna",
-      "description": "A wealthy philanderer falls in love with a divorced woman while his partner finds solace in a guide, but their lives change when they face the truth.",
+      "showName": "Kidilol Kidilam",
+      "description": "Raji's mother-in-law tortures her as her father could not give the promised dowry. Later, she struggles to run her family as she is the sole breadwinner.",
       "startDate": "2026-10-10T01:45:00",
       "endDate": "2026-10-10T03:45:00",
       "showTime": "01:45:00",
       "endTime": "03:45:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4edfdee134bef560ca166d0e64ec2bd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7d6c060d7aa08ff52f7fa0c63976d75.jpg"
     },
     {
       "serverDate": "2026-10-10",
-      "showName": "Thalayana Manthram",
-      "description": "After marriage, Sukumaran's wife Kanchana demands a glamorous lifestyle. However, Sukumaran, who finds it difficult to fulfil her wishes, takes a loan which he is later unable to repay.",
+      "showName": "Ponmuttayidunna tharavu",
+      "description": "Bhaskaran, a goldsmith, is madly in love with Snehalatha, the daughter of the astrologer, Panicker. When he asks for her hand in marriage, to his shock, she denies their love affair.",
       "startDate": "2026-10-10T03:45:00",
       "endDate": "2026-10-10T06:00:00",
       "showTime": "03:45:00",
       "endTime": "06:00:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e91545556862dcfebed86d458a35da7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f99675db245563b978503f1419102717.jpg"
     },
     {
       "serverDate": "2026-10-10",
