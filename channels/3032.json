@@ -1244,8 +1244,19 @@
       "showName": "Chhota Bheem",
       "description": "Bheem is an extremely brave, strong and intelligent young boy. He often manages to solve everyone's problems which endears him to the townspeople of Dholakpur.",
       "startDate": "2026-10-09T07:30:00",
-      "endDate": "2026-10-09T08:30:00",
+      "endDate": "2026-10-09T08:00:00",
       "showTime": "07:30:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e1544ac14282f187daccf4a137e790d5.jpg"
+    },
+    {
+      "serverDate": "2026-10-09",
+      "showName": "Chhota Bheem",
+      "description": "Bheem is an extremely brave, strong and intelligent young boy. He often manages to solve everyone's problems which endears him to the townspeople of Dholakpur.",
+      "startDate": "2026-10-09T08:00:00",
+      "endDate": "2026-10-09T08:30:00",
+      "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e1544ac14282f187daccf4a137e790d5.jpg"
