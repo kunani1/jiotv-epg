@@ -8,6 +8,105 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Plus.png",
   "programs": [
     {
+      "serverDate": "2026-10-08",
+      "showName": "Bandhanam",
+      "description": "Unnikrishnan, a simple clerk, falls for his colleague, Sarojini, but cannot express his feelings for her. After returning from his village, he finds out that she got married while he was away.",
+      "startDate": "2026-10-08T00:00:00",
+      "endDate": "2026-10-08T02:00:00",
+      "showTime": "00:00:00",
+      "endTime": "02:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff5dc9577d0a687b9dfb7ca68f666513.jpg"
+    },
+    {
+      "serverDate": "2026-10-08",
+      "showName": "Passenger",
+      "description": "An advocate disappears after his journalist-wife uncovers a shocking trail of corruption involving a powerful politician. When all hope seems lost, a stranger offers to help the couple secure justice.",
+      "startDate": "2026-10-08T02:00:00",
+      "endDate": "2026-10-08T04:00:00",
+      "showTime": "02:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0de5c42caf9b31d0c13212f2741e11e.jpg"
+    },
+    {
+      "serverDate": "2026-10-08",
+      "showName": "Kadamba",
+      "description": "Complications arise when Kadamba, a policeman and his wife Yamini realise that they are being followed by a shooter who is causing troubles in their lives.",
+      "startDate": "2026-10-08T04:00:00",
+      "endDate": "2026-10-08T06:00:00",
+      "showTime": "04:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f913363049d5766e714f88c7ef68bbd.jpg"
+    },
+    {
+      "serverDate": "2026-10-08",
+      "showName": "Swathi Thirunal",
+      "description": "Gowri Lakshmi Bayi entrusts the four-month-old Swathi Thirunal Rama Varma to the care of the English East India Company.",
+      "startDate": "2026-10-08T06:00:00",
+      "endDate": "2026-10-08T09:00:00",
+      "showTime": "06:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/45e0d51f073f150e371ff6a2ebd0fe87.jpg"
+    },
+    {
+      "serverDate": "2026-10-08",
+      "showName": "Janmandharam",
+      "description": "Four bachelors bravely fight against the injustice meted out towards the villagers. However, they land in trouble when they go up against the evil landlord, Panikkar.",
+      "startDate": "2026-10-08T09:00:00",
+      "endDate": "2026-10-08T12:00:00",
+      "showTime": "09:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ec7edc10baeb7587e0ea37dac923b88b.jpg"
+    },
+    {
+      "serverDate": "2026-10-08",
+      "showName": "Again Kasargod Khadar Bhai",
+      "description": "The Kaladarshana troupe performs at a jail where a vengeful inmate attacks them. However, the troupe members become the prime suspects when the inmate is found murdered.",
+      "startDate": "2026-10-08T12:00:00",
+      "endDate": "2026-10-08T15:00:00",
+      "showTime": "12:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/331143f8dadce800c0ffe5a5febca5e6.jpg"
+    },
+    {
+      "serverDate": "2026-10-08",
+      "showName": "Akkare akkare akkare",
+      "description": "CID officers Ramdas and Vijayan go to the USA to retrieve a gold crown which is stolen from India. Once there, they must solve the case using a pseudonym and a torn piece of cloth as clues.",
+      "startDate": "2026-10-08T15:00:00",
+      "endDate": "2026-10-08T18:00:00",
+      "showTime": "15:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd65061f3e13f1aa1ccbeca7fad32343.jpg"
+    },
+    {
+      "serverDate": "2026-10-08",
+      "showName": "Moonnam Mura",
+      "description": "Charles and his group of men hijack a bus filled with politicians and demand the release of their colleagues from prison. An ex-police officer, Ali Imran, is summoned to solve the problem.",
+      "startDate": "2026-10-08T18:00:00",
+      "endDate": "2026-10-08T21:00:00",
+      "showTime": "18:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1d0c81f629206125ea7ce14f471fab9a.jpg"
+    },
+    {
+      "serverDate": "2026-10-08",
+      "showName": "Akkare Ninnoru Maran",
+      "description": "Achuthan loves a girl, but her father wants only a man working abroad to marry her. To trick her father, he pretends to go to Dubai for a job but stays in a nearby hotel.",
+      "startDate": "2026-10-08T21:00:00",
+      "endDate": "2026-10-08T23:59:59",
+      "showTime": "21:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7e19bfed85daba21178ddc6864284e60.jpg"
+    },
+    {
       "serverDate": "2026-10-09",
       "showName": "Magic Magic",
       "description": "Little Indrajeet migrates to New York as per his father's wish of educating him abroad. However, he is unable to adapt to the new lifestyle and tries to run away.",

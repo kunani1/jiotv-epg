@@ -8,1590 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Rujumargam_TV.png",
   "programs": [
     {
-      "serverDate": "2026-10-08",
-      "showName": "Tarjama E Quran",
-      "description": "A religious scholar reads the Holy Quran, the central religious text of Islam, and explains its verses and lessons in detail.",
-      "startDate": "2026-10-08T00:00:00",
-      "endDate": "2026-10-08T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ed72120b0e2b9c9727a691e00b8a70f.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Hikmat Ki Kirnein",
-      "description": "A religious leader recites passages from the Holy Quran and explains the meaning to the devotees, urging them to follow the path of the Almighty.",
-      "startDate": "2026-10-08T00:30:00",
-      "endDate": "2026-10-08T01:00:00",
-      "showTime": "00:30:00",
-      "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eba1379440f93661a061cff84a16d16b.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Poochiyein Sanaullah Madani Se",
-      "description": "An expert addresses various questions posed by the audience, providing a comprehensive insight into valuable life lessons.",
-      "startDate": "2026-10-08T01:00:00",
-      "endDate": "2026-10-08T01:30:00",
-      "showTime": "01:00:00",
-      "endTime": "01:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6be8e166f4c861f77ebc0709884d48f4.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "25 Nabiyon Ke Waqiyat Quran Se",
-      "description": "A spiritual leader offers a religious discourse to apprise devotees of meaningful Islamic teachings from the Holy Quran.",
-      "startDate": "2026-10-08T01:30:00",
-      "endDate": "2026-10-08T02:00:00",
-      "showTime": "01:30:00",
-      "endTime": "02:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f426fc1e0208ddce9558f044a5e1298.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Guftagu",
-      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
-      "startDate": "2026-10-08T02:00:00",
-      "endDate": "2026-10-08T02:30:00",
-      "showTime": "02:00:00",
-      "endTime": "02:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Aaiye Hadees Samjhein",
-      "description": "A religious expert sheds light on the teachings and principles of the Almighty through holy texts and urges followers to embrace the path of spirituality.",
-      "startDate": "2026-10-08T02:30:00",
-      "endDate": "2026-10-08T03:00:00",
-      "showTime": "02:30:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84800b6ec0df4f15d78f5fc49b5d3e60.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Haq Ki Pukar",
-      "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
-      "startDate": "2026-10-08T03:00:00",
-      "endDate": "2026-10-08T03:30:00",
-      "showTime": "03:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Gunah Aur Uski Sazaein",
-      "description": "A religious leader elaborates on the teachings of the Quran on the topic of sins and their punishments and encourages followers to follow the path of spirituality.",
-      "startDate": "2026-10-08T03:30:00",
-      "endDate": "2026-10-08T04:00:00",
-      "showTime": "03:30:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ce479a9136315a8de7d99c5a45c87ba.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Paigham E Rahmat",
-      "description": "A scholar of Islam delivers a discourse based on the sacred scriptures and urges the devotees to lead a righteous life.",
-      "startDate": "2026-10-08T04:00:00",
-      "endDate": "2026-10-08T04:30:00",
-      "showTime": "04:00:00",
-      "endTime": "04:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b49466db9c16c96a06b648dd655606ef.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Tajweed O Tilawat Quran Course",
-      "description": "A religious scholar gives an insightful lecture on the proper way to recite and read the Qur'an, which is an important act of worship in Islam.",
-      "startDate": "2026-10-08T04:30:00",
-      "endDate": "2026-10-08T05:00:00",
-      "showTime": "04:30:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f25014f0cb05748eb2c8ac539331bea.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Tafseer E Quran",
-      "description": "A religious expert offers insightful commentary on the sacred text, Quran, exploring historical context, spiritual meanings and life applications to deepen understanding.",
-      "startDate": "2026-10-08T05:00:00",
-      "endDate": "2026-10-08T05:30:00",
-      "showTime": "05:00:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3c1fe4e22de82816c006290c990e7391.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Jannat Mein Le Jaane Waale Aamal",
-      "description": "A religious scholar sheds light on deeds that help one attain salvation whilst providing relevant references from the Holy Quran.",
-      "startDate": "2026-10-08T05:30:00",
-      "endDate": "2026-10-08T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e88a23f38a55702a7c48b34e94a8b555.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Tarjama E Quran",
-      "description": "A religious scholar reads the Holy Quran, the central religious text of Islam, and explains its verses and lessons in detail.",
-      "startDate": "2026-10-08T06:00:00",
-      "endDate": "2026-10-08T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ed72120b0e2b9c9727a691e00b8a70f.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Tarjama E Quran",
-      "description": "A religious scholar reads the Holy Quran, the central religious text of Islam, and explains its verses and lessons in detail.",
-      "startDate": "2026-10-08T06:30:00",
-      "endDate": "2026-10-08T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ed72120b0e2b9c9727a691e00b8a70f.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Mustanad Fazail - E - Amaal",
-      "description": "An Islamic scholar reads excerpts from a book that inspires devout Muslims to pursue practices catering to their religious needs.",
-      "startDate": "2026-10-08T07:00:00",
-      "endDate": "2026-10-08T07:30:00",
-      "showTime": "07:00:00",
-      "endTime": "07:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b45b74e68fb69f62e11ba34cbcfd4d99.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Aao Quran Samjhein",
-      "description": "Aao Quran Samjhein",
-      "startDate": "2026-10-08T07:30:00",
-      "endDate": "2026-10-08T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Tafseer E Quran",
-      "description": "A religious expert offers insightful commentary on the sacred text, Quran, exploring historical context, spiritual meanings and life applications to deepen understanding.",
-      "startDate": "2026-10-08T08:00:00",
-      "endDate": "2026-10-08T08:30:00",
-      "showTime": "08:00:00",
-      "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3c1fe4e22de82816c006290c990e7391.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Aaiye Hadees Samjhein",
-      "description": "A religious expert sheds light on the teachings and principles of the Almighty through holy texts and urges followers to embrace the path of spirituality.",
-      "startDate": "2026-10-08T08:30:00",
-      "endDate": "2026-10-08T09:00:00",
-      "showTime": "08:30:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84800b6ec0df4f15d78f5fc49b5d3e60.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Ashaab E Rasool",
-      "description": "A religious scholar sheds light on the companions of Prophet Muhammad (PBUH), highlighting their lives, struggles and teachings to inspire believers.",
-      "startDate": "2026-10-08T09:00:00",
-      "endDate": "2026-10-08T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "25 Nabiyon Ke Waqiyat Quran Se",
-      "description": "A spiritual leader offers a religious discourse to apprise devotees of meaningful Islamic teachings from the Holy Quran.",
-      "startDate": "2026-10-08T09:30:00",
-      "endDate": "2026-10-08T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f426fc1e0208ddce9558f044a5e1298.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Paigham E Rahmat",
-      "description": "A scholar of Islam delivers a discourse based on the sacred scriptures and urges the devotees to lead a righteous life.",
-      "startDate": "2026-10-08T10:00:00",
-      "endDate": "2026-10-08T10:30:00",
-      "showTime": "10:00:00",
-      "endTime": "10:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b49466db9c16c96a06b648dd655606ef.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Jannat Mein Le Jaane Waale Aamal",
-      "description": "A religious scholar sheds light on deeds that help one attain salvation whilst providing relevant references from the Holy Quran.",
-      "startDate": "2026-10-08T10:30:00",
-      "endDate": "2026-10-08T11:00:00",
-      "showTime": "10:30:00",
-      "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e88a23f38a55702a7c48b34e94a8b555.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Tajweed O Tilawat Quran Course",
-      "description": "A religious scholar gives an insightful lecture on the proper way to recite and read the Qur'an, which is an important act of worship in Islam.",
-      "startDate": "2026-10-08T11:00:00",
-      "endDate": "2026-10-08T11:30:00",
-      "showTime": "11:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f25014f0cb05748eb2c8ac539331bea.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Tarjama E Quran",
-      "description": "A religious scholar reads the Holy Quran, the central religious text of Islam, and explains its verses and lessons in detail.",
-      "startDate": "2026-10-08T11:30:00",
-      "endDate": "2026-10-08T12:00:00",
-      "showTime": "11:30:00",
-      "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ed72120b0e2b9c9727a691e00b8a70f.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Tarjama E Quran",
-      "description": "A religious scholar reads the Holy Quran, the central religious text of Islam, and explains its verses and lessons in detail.",
-      "startDate": "2026-10-08T12:00:00",
-      "endDate": "2026-10-08T12:30:00",
-      "showTime": "12:00:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ed72120b0e2b9c9727a691e00b8a70f.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Jumuah Khutbah",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-08T12:30:00",
-      "endDate": "2026-10-08T13:00:00",
-      "showTime": "12:30:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d68b7aa379a36b645bbd167358b0151.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Guftagu",
-      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
-      "startDate": "2026-10-08T13:00:00",
-      "endDate": "2026-10-08T13:30:00",
-      "showTime": "13:00:00",
-      "endTime": "13:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Poochiyein Sanaullah Madani Se",
-      "description": "An expert addresses various questions posed by the audience, providing a comprehensive insight into valuable life lessons.",
-      "startDate": "2026-10-08T13:30:00",
-      "endDate": "2026-10-08T14:00:00",
-      "showTime": "13:30:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6be8e166f4c861f77ebc0709884d48f4.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Mustanad Fazail - E - Amaal",
-      "description": "An Islamic scholar reads excerpts from a book that inspires devout Muslims to pursue practices catering to their religious needs.",
-      "startDate": "2026-10-08T14:00:00",
-      "endDate": "2026-10-08T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b45b74e68fb69f62e11ba34cbcfd4d99.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Aao Quran Samjhein",
-      "description": "Aao Quran Samjhein",
-      "startDate": "2026-10-08T14:30:00",
-      "endDate": "2026-10-08T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Haq Ki Pukar",
-      "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
-      "startDate": "2026-10-08T15:00:00",
-      "endDate": "2026-10-08T15:30:00",
-      "showTime": "15:00:00",
-      "endTime": "15:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Gunah Aur Uski Sazaein",
-      "description": "A religious leader elaborates on the teachings of the Quran on the topic of sins and their punishments and encourages followers to follow the path of spirituality.",
-      "startDate": "2026-10-08T15:30:00",
-      "endDate": "2026-10-08T16:00:00",
-      "showTime": "15:30:00",
-      "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ce479a9136315a8de7d99c5a45c87ba.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Tarjama E Quran",
-      "description": "A religious scholar reads the Holy Quran, the central religious text of Islam, and explains its verses and lessons in detail.",
-      "startDate": "2026-10-08T16:00:00",
-      "endDate": "2026-10-08T16:30:00",
-      "showTime": "16:00:00",
-      "endTime": "16:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ed72120b0e2b9c9727a691e00b8a70f.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Tarjama E Quran",
-      "description": "A religious scholar reads the Holy Quran, the central religious text of Islam, and explains its verses and lessons in detail.",
-      "startDate": "2026-10-08T16:30:00",
-      "endDate": "2026-10-08T17:00:00",
-      "showTime": "16:30:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ed72120b0e2b9c9727a691e00b8a70f.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Paigham E Rahmat",
-      "description": "A scholar of Islam delivers a discourse based on the sacred scriptures and urges the devotees to lead a righteous life.",
-      "startDate": "2026-10-08T17:00:00",
-      "endDate": "2026-10-08T17:30:00",
-      "showTime": "17:00:00",
-      "endTime": "17:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b49466db9c16c96a06b648dd655606ef.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Sham Ke Azkar",
-      "description": "An Islamic religious leader explains the importance of evening prayers to seek the protection of the Almighty and express gratitude for blessings.",
-      "startDate": "2026-10-08T17:30:00",
-      "endDate": "2026-10-08T18:00:00",
-      "showTime": "17:30:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/00dcc5ffb0cdc31a4f2c747419ac712b.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Hikmat Ki Kirnein",
-      "description": "A religious leader recites passages from the Holy Quran and explains the meaning to the devotees, urging them to follow the path of the Almighty.",
-      "startDate": "2026-10-08T18:00:00",
-      "endDate": "2026-10-08T18:30:00",
-      "showTime": "18:00:00",
-      "endTime": "18:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eba1379440f93661a061cff84a16d16b.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Aaiye Hadees Samjhein",
-      "description": "A religious expert sheds light on the teachings and principles of the Almighty through holy texts and urges followers to embrace the path of spirituality.",
-      "startDate": "2026-10-08T18:30:00",
-      "endDate": "2026-10-08T19:00:00",
-      "showTime": "18:30:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84800b6ec0df4f15d78f5fc49b5d3e60.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Mustanad Fazail - E - Amaal",
-      "description": "An Islamic scholar reads excerpts from a book that inspires devout Muslims to pursue practices catering to their religious needs.",
-      "startDate": "2026-10-08T19:00:00",
-      "endDate": "2026-10-08T19:30:00",
-      "showTime": "19:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b45b74e68fb69f62e11ba34cbcfd4d99.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Aao Quran Samjhein",
-      "description": "Aao Quran Samjhein",
-      "startDate": "2026-10-08T19:30:00",
-      "endDate": "2026-10-08T20:00:00",
-      "showTime": "19:30:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Tafseer E Quran",
-      "description": "A religious expert offers insightful commentary on the sacred text, Quran, exploring historical context, spiritual meanings and life applications to deepen understanding.",
-      "startDate": "2026-10-08T20:00:00",
-      "endDate": "2026-10-08T20:30:00",
-      "showTime": "20:00:00",
-      "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3c1fe4e22de82816c006290c990e7391.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "25 Nabiyon Ke Waqiyat Quran Se",
-      "description": "A spiritual leader offers a religious discourse to apprise devotees of meaningful Islamic teachings from the Holy Quran.",
-      "startDate": "2026-10-08T20:30:00",
-      "endDate": "2026-10-08T21:00:00",
-      "showTime": "20:30:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f426fc1e0208ddce9558f044a5e1298.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Poochiyein Sanaullah Madani Se",
-      "description": "An expert addresses various questions posed by the audience, providing a comprehensive insight into valuable life lessons.",
-      "startDate": "2026-10-08T21:00:00",
-      "endDate": "2026-10-08T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6be8e166f4c861f77ebc0709884d48f4.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Guftagu",
-      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
-      "startDate": "2026-10-08T21:30:00",
-      "endDate": "2026-10-08T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Haq Ki Pukar",
-      "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
-      "startDate": "2026-10-08T22:00:00",
-      "endDate": "2026-10-08T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Gunah Aur Uski Sazaein",
-      "description": "A religious leader elaborates on the teachings of the Quran on the topic of sins and their punishments and encourages followers to follow the path of spirituality.",
-      "startDate": "2026-10-08T22:30:00",
-      "endDate": "2026-10-08T23:00:00",
-      "showTime": "22:30:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ce479a9136315a8de7d99c5a45c87ba.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Jannat Mein Le Jaane Waale Aamal",
-      "description": "A religious scholar sheds light on deeds that help one attain salvation whilst providing relevant references from the Holy Quran.",
-      "startDate": "2026-10-08T23:00:00",
-      "endDate": "2026-10-08T23:30:00",
-      "showTime": "23:00:00",
-      "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e88a23f38a55702a7c48b34e94a8b555.jpg"
-    },
-    {
-      "serverDate": "2026-10-08",
-      "showName": "Jumuah Khutbah",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-08T23:30:00",
-      "endDate": "2026-10-08T23:59:59",
-      "showTime": "23:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d68b7aa379a36b645bbd167358b0151.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Tarjama E Quran",
-      "description": "A religious scholar reads the Holy Quran, the central religious text of Islam, and explains its verses and lessons in detail.",
-      "startDate": "2026-10-09T00:00:00",
-      "endDate": "2026-10-09T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ed72120b0e2b9c9727a691e00b8a70f.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Tarjama E Quran",
-      "description": "A religious scholar reads the Holy Quran, the central religious text of Islam, and explains its verses and lessons in detail.",
-      "startDate": "2026-10-09T00:30:00",
-      "endDate": "2026-10-09T01:00:00",
-      "showTime": "00:30:00",
-      "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ed72120b0e2b9c9727a691e00b8a70f.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Poochiyein Sanaullah Madani Se",
-      "description": "An expert addresses various questions posed by the audience, providing a comprehensive insight into valuable life lessons.",
-      "startDate": "2026-10-09T01:00:00",
-      "endDate": "2026-10-09T01:30:00",
-      "showTime": "01:00:00",
-      "endTime": "01:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6be8e166f4c861f77ebc0709884d48f4.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "25 Nabiyon Ke Waqiyat Quran Se",
-      "description": "A spiritual leader offers a religious discourse to apprise devotees of meaningful Islamic teachings from the Holy Quran.",
-      "startDate": "2026-10-09T01:30:00",
-      "endDate": "2026-10-09T02:00:00",
-      "showTime": "01:30:00",
-      "endTime": "02:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f426fc1e0208ddce9558f044a5e1298.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Guftagu",
-      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
-      "startDate": "2026-10-09T02:00:00",
-      "endDate": "2026-10-09T02:30:00",
-      "showTime": "02:00:00",
-      "endTime": "02:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Aaiye Hadees Samjhein",
-      "description": "A religious expert sheds light on the teachings and principles of the Almighty through holy texts and urges followers to embrace the path of spirituality.",
-      "startDate": "2026-10-09T02:30:00",
-      "endDate": "2026-10-09T03:00:00",
-      "showTime": "02:30:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84800b6ec0df4f15d78f5fc49b5d3e60.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Haq Ki Pukar",
-      "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
-      "startDate": "2026-10-09T03:00:00",
-      "endDate": "2026-10-09T03:30:00",
-      "showTime": "03:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Gunah Aur Uski Sazaein",
-      "description": "A religious leader elaborates on the teachings of the Quran on the topic of sins and their punishments and encourages followers to follow the path of spirituality.",
-      "startDate": "2026-10-09T03:30:00",
-      "endDate": "2026-10-09T04:00:00",
-      "showTime": "03:30:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ce479a9136315a8de7d99c5a45c87ba.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Paigham E Rahmat",
-      "description": "A scholar of Islam delivers a discourse based on the sacred scriptures and urges the devotees to lead a righteous life.",
-      "startDate": "2026-10-09T04:00:00",
-      "endDate": "2026-10-09T04:30:00",
-      "showTime": "04:00:00",
-      "endTime": "04:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b49466db9c16c96a06b648dd655606ef.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Tajweed O Tilawat Quran Course",
-      "description": "A religious scholar gives an insightful lecture on the proper way to recite and read the Qur'an, which is an important act of worship in Islam.",
-      "startDate": "2026-10-09T04:30:00",
-      "endDate": "2026-10-09T05:00:00",
-      "showTime": "04:30:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f25014f0cb05748eb2c8ac539331bea.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Tafseer E Quran",
-      "description": "A religious expert offers insightful commentary on the sacred text, Quran, exploring historical context, spiritual meanings and life applications to deepen understanding.",
-      "startDate": "2026-10-09T05:00:00",
-      "endDate": "2026-10-09T05:30:00",
-      "showTime": "05:00:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3c1fe4e22de82816c006290c990e7391.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Jannat Mein Le Jaane Waale Aamal",
-      "description": "A religious scholar sheds light on deeds that help one attain salvation whilst providing relevant references from the Holy Quran.",
-      "startDate": "2026-10-09T05:30:00",
-      "endDate": "2026-10-09T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e88a23f38a55702a7c48b34e94a8b555.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Tarjama E Quran",
-      "description": "A religious scholar reads the Holy Quran, the central religious text of Islam, and explains its verses and lessons in detail.",
-      "startDate": "2026-10-09T06:00:00",
-      "endDate": "2026-10-09T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ed72120b0e2b9c9727a691e00b8a70f.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Tarjama E Quran",
-      "description": "A religious scholar reads the Holy Quran, the central religious text of Islam, and explains its verses and lessons in detail.",
-      "startDate": "2026-10-09T06:30:00",
-      "endDate": "2026-10-09T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ed72120b0e2b9c9727a691e00b8a70f.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Mustanad Fazail - E - Amaal",
-      "description": "An Islamic scholar reads excerpts from a book that inspires devout Muslims to pursue practices catering to their religious needs.",
-      "startDate": "2026-10-09T07:00:00",
-      "endDate": "2026-10-09T07:30:00",
-      "showTime": "07:00:00",
-      "endTime": "07:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b45b74e68fb69f62e11ba34cbcfd4d99.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Aao Quran Samjhein",
-      "description": "Aao Quran Samjhein",
-      "startDate": "2026-10-09T07:30:00",
-      "endDate": "2026-10-09T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Tafseer E Quran",
-      "description": "A religious expert offers insightful commentary on the sacred text, Quran, exploring historical context, spiritual meanings and life applications to deepen understanding.",
-      "startDate": "2026-10-09T08:00:00",
-      "endDate": "2026-10-09T08:30:00",
-      "showTime": "08:00:00",
-      "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3c1fe4e22de82816c006290c990e7391.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Aaiye Hadees Samjhein",
-      "description": "A religious expert sheds light on the teachings and principles of the Almighty through holy texts and urges followers to embrace the path of spirituality.",
-      "startDate": "2026-10-09T08:30:00",
-      "endDate": "2026-10-09T09:00:00",
-      "showTime": "08:30:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84800b6ec0df4f15d78f5fc49b5d3e60.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Ashaab E Rasool",
-      "description": "A religious scholar sheds light on the companions of Prophet Muhammad (PBUH), highlighting their lives, struggles and teachings to inspire believers.",
-      "startDate": "2026-10-09T09:00:00",
-      "endDate": "2026-10-09T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "25 Nabiyon Ke Waqiyat Quran Se",
-      "description": "A spiritual leader offers a religious discourse to apprise devotees of meaningful Islamic teachings from the Holy Quran.",
-      "startDate": "2026-10-09T09:30:00",
-      "endDate": "2026-10-09T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f426fc1e0208ddce9558f044a5e1298.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Paigham E Rahmat",
-      "description": "A scholar of Islam delivers a discourse based on the sacred scriptures and urges the devotees to lead a righteous life.",
-      "startDate": "2026-10-09T10:00:00",
-      "endDate": "2026-10-09T10:30:00",
-      "showTime": "10:00:00",
-      "endTime": "10:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b49466db9c16c96a06b648dd655606ef.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Jannat Mein Le Jaane Waale Aamal",
-      "description": "A religious scholar sheds light on deeds that help one attain salvation whilst providing relevant references from the Holy Quran.",
-      "startDate": "2026-10-09T10:30:00",
-      "endDate": "2026-10-09T11:00:00",
-      "showTime": "10:30:00",
-      "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e88a23f38a55702a7c48b34e94a8b555.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Tajweed O Tilawat Quran Course",
-      "description": "A religious scholar gives an insightful lecture on the proper way to recite and read the Qur'an, which is an important act of worship in Islam.",
-      "startDate": "2026-10-09T11:00:00",
-      "endDate": "2026-10-09T11:30:00",
-      "showTime": "11:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f25014f0cb05748eb2c8ac539331bea.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Tarjama E Quran",
-      "description": "A religious scholar reads the Holy Quran, the central religious text of Islam, and explains its verses and lessons in detail.",
-      "startDate": "2026-10-09T11:30:00",
-      "endDate": "2026-10-09T12:00:00",
-      "showTime": "11:30:00",
-      "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ed72120b0e2b9c9727a691e00b8a70f.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Tarjama E Quran",
-      "description": "A religious scholar reads the Holy Quran, the central religious text of Islam, and explains its verses and lessons in detail.",
-      "startDate": "2026-10-09T12:00:00",
-      "endDate": "2026-10-09T12:30:00",
-      "showTime": "12:00:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ed72120b0e2b9c9727a691e00b8a70f.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Jumuah Khutbah",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-09T12:30:00",
-      "endDate": "2026-10-09T13:00:00",
-      "showTime": "12:30:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d68b7aa379a36b645bbd167358b0151.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Guftagu",
-      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
-      "startDate": "2026-10-09T13:00:00",
-      "endDate": "2026-10-09T13:30:00",
-      "showTime": "13:00:00",
-      "endTime": "13:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Poochiyein Sanaullah Madani Se",
-      "description": "An expert addresses various questions posed by the audience, providing a comprehensive insight into valuable life lessons.",
-      "startDate": "2026-10-09T13:30:00",
-      "endDate": "2026-10-09T14:00:00",
-      "showTime": "13:30:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6be8e166f4c861f77ebc0709884d48f4.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Mustanad Fazail - E - Amaal",
-      "description": "An Islamic scholar reads excerpts from a book that inspires devout Muslims to pursue practices catering to their religious needs.",
-      "startDate": "2026-10-09T14:00:00",
-      "endDate": "2026-10-09T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b45b74e68fb69f62e11ba34cbcfd4d99.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Aao Quran Samjhein",
-      "description": "Aao Quran Samjhein",
-      "startDate": "2026-10-09T14:30:00",
-      "endDate": "2026-10-09T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Haq Ki Pukar",
-      "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
-      "startDate": "2026-10-09T15:00:00",
-      "endDate": "2026-10-09T15:30:00",
-      "showTime": "15:00:00",
-      "endTime": "15:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Gunah Aur Uski Sazaein",
-      "description": "A religious leader elaborates on the teachings of the Quran on the topic of sins and their punishments and encourages followers to follow the path of spirituality.",
-      "startDate": "2026-10-09T15:30:00",
-      "endDate": "2026-10-09T16:00:00",
-      "showTime": "15:30:00",
-      "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ce479a9136315a8de7d99c5a45c87ba.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Tarjama E Quran",
-      "description": "A religious scholar reads the Holy Quran, the central religious text of Islam, and explains its verses and lessons in detail.",
-      "startDate": "2026-10-09T16:00:00",
-      "endDate": "2026-10-09T16:30:00",
-      "showTime": "16:00:00",
-      "endTime": "16:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ed72120b0e2b9c9727a691e00b8a70f.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Tajweed O Tilawat Quran Course",
-      "description": "A religious scholar gives an insightful lecture on the proper way to recite and read the Qur'an, which is an important act of worship in Islam.",
-      "startDate": "2026-10-09T16:30:00",
-      "endDate": "2026-10-09T17:00:00",
-      "showTime": "16:30:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f25014f0cb05748eb2c8ac539331bea.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Paigham E Rahmat",
-      "description": "A scholar of Islam delivers a discourse based on the sacred scriptures and urges the devotees to lead a righteous life.",
-      "startDate": "2026-10-09T17:00:00",
-      "endDate": "2026-10-09T17:30:00",
-      "showTime": "17:00:00",
-      "endTime": "17:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b49466db9c16c96a06b648dd655606ef.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Sham Ke Azkar",
-      "description": "An Islamic religious leader explains the importance of evening prayers to seek the protection of the Almighty and express gratitude for blessings.",
-      "startDate": "2026-10-09T17:30:00",
-      "endDate": "2026-10-09T18:00:00",
-      "showTime": "17:30:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/00dcc5ffb0cdc31a4f2c747419ac712b.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Hikmat Ki Kirnein",
-      "description": "A religious leader recites passages from the Holy Quran and explains the meaning to the devotees, urging them to follow the path of the Almighty.",
-      "startDate": "2026-10-09T18:00:00",
-      "endDate": "2026-10-09T18:30:00",
-      "showTime": "18:00:00",
-      "endTime": "18:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eba1379440f93661a061cff84a16d16b.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Aaiye Hadees Samjhein",
-      "description": "A religious expert sheds light on the teachings and principles of the Almighty through holy texts and urges followers to embrace the path of spirituality.",
-      "startDate": "2026-10-09T18:30:00",
-      "endDate": "2026-10-09T19:00:00",
-      "showTime": "18:30:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84800b6ec0df4f15d78f5fc49b5d3e60.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Mustanad Fazail - E - Amaal",
-      "description": "An Islamic scholar reads excerpts from a book that inspires devout Muslims to pursue practices catering to their religious needs.",
-      "startDate": "2026-10-09T19:00:00",
-      "endDate": "2026-10-09T19:30:00",
-      "showTime": "19:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b45b74e68fb69f62e11ba34cbcfd4d99.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Aao Quran Samjhein",
-      "description": "Aao Quran Samjhein",
-      "startDate": "2026-10-09T19:30:00",
-      "endDate": "2026-10-09T20:00:00",
-      "showTime": "19:30:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Tafseer E Quran",
-      "description": "A religious expert offers insightful commentary on the sacred text, Quran, exploring historical context, spiritual meanings and life applications to deepen understanding.",
-      "startDate": "2026-10-09T20:00:00",
-      "endDate": "2026-10-09T20:30:00",
-      "showTime": "20:00:00",
-      "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3c1fe4e22de82816c006290c990e7391.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "25 Nabiyon Ke Waqiyat Quran Se",
-      "description": "A spiritual leader offers a religious discourse to apprise devotees of meaningful Islamic teachings from the Holy Quran.",
-      "startDate": "2026-10-09T20:30:00",
-      "endDate": "2026-10-09T21:00:00",
-      "showTime": "20:30:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f426fc1e0208ddce9558f044a5e1298.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Poochiyein Sanaullah Madani Se",
-      "description": "An expert addresses various questions posed by the audience, providing a comprehensive insight into valuable life lessons.",
-      "startDate": "2026-10-09T21:00:00",
-      "endDate": "2026-10-09T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6be8e166f4c861f77ebc0709884d48f4.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Guftagu",
-      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
-      "startDate": "2026-10-09T21:30:00",
-      "endDate": "2026-10-09T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Haq Ki Pukar",
-      "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
-      "startDate": "2026-10-09T22:00:00",
-      "endDate": "2026-10-09T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Gunah Aur Uski Sazaein",
-      "description": "A religious leader elaborates on the teachings of the Quran on the topic of sins and their punishments and encourages followers to follow the path of spirituality.",
-      "startDate": "2026-10-09T22:30:00",
-      "endDate": "2026-10-09T23:00:00",
-      "showTime": "22:30:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ce479a9136315a8de7d99c5a45c87ba.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Jannat Mein Le Jaane Waale Aamal",
-      "description": "A religious scholar sheds light on deeds that help one attain salvation whilst providing relevant references from the Holy Quran.",
-      "startDate": "2026-10-09T23:00:00",
-      "endDate": "2026-10-09T23:30:00",
-      "showTime": "23:00:00",
-      "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e88a23f38a55702a7c48b34e94a8b555.jpg"
-    },
-    {
-      "serverDate": "2026-10-09",
-      "showName": "Jumuah Khutbah",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-09T23:30:00",
-      "endDate": "2026-10-09T23:59:59",
-      "showTime": "23:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d68b7aa379a36b645bbd167358b0151.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Tarjama E Quran",
-      "description": "A religious scholar reads the Holy Quran, the central religious text of Islam, and explains its verses and lessons in detail.",
-      "startDate": "2026-10-10T00:00:00",
-      "endDate": "2026-10-10T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ed72120b0e2b9c9727a691e00b8a70f.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Hikmat Ki Kirnein",
-      "description": "A religious leader recites passages from the Holy Quran and explains the meaning to the devotees, urging them to follow the path of the Almighty.",
-      "startDate": "2026-10-10T00:30:00",
-      "endDate": "2026-10-10T01:00:00",
-      "showTime": "00:30:00",
-      "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eba1379440f93661a061cff84a16d16b.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Poochiyein Sanaullah Madani Se",
-      "description": "An expert addresses various questions posed by the audience, providing a comprehensive insight into valuable life lessons.",
-      "startDate": "2026-10-10T01:00:00",
-      "endDate": "2026-10-10T01:30:00",
-      "showTime": "01:00:00",
-      "endTime": "01:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6be8e166f4c861f77ebc0709884d48f4.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "25 Nabiyon Ke Waqiyat Quran Se",
-      "description": "A spiritual leader offers a religious discourse to apprise devotees of meaningful Islamic teachings from the Holy Quran.",
-      "startDate": "2026-10-10T01:30:00",
-      "endDate": "2026-10-10T02:00:00",
-      "showTime": "01:30:00",
-      "endTime": "02:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f426fc1e0208ddce9558f044a5e1298.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Guftagu",
-      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
-      "startDate": "2026-10-10T02:00:00",
-      "endDate": "2026-10-10T02:30:00",
-      "showTime": "02:00:00",
-      "endTime": "02:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Aaiye Hadees Samjhein",
-      "description": "A religious expert sheds light on the teachings and principles of the Almighty through holy texts and urges followers to embrace the path of spirituality.",
-      "startDate": "2026-10-10T02:30:00",
-      "endDate": "2026-10-10T03:00:00",
-      "showTime": "02:30:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84800b6ec0df4f15d78f5fc49b5d3e60.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Haq Ki Pukar",
-      "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
-      "startDate": "2026-10-10T03:00:00",
-      "endDate": "2026-10-10T03:30:00",
-      "showTime": "03:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Gunah Aur Uski Sazaein",
-      "description": "A religious leader elaborates on the teachings of the Quran on the topic of sins and their punishments and encourages followers to follow the path of spirituality.",
-      "startDate": "2026-10-10T03:30:00",
-      "endDate": "2026-10-10T04:00:00",
-      "showTime": "03:30:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ce479a9136315a8de7d99c5a45c87ba.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Paigham E Rahmat",
-      "description": "A scholar of Islam delivers a discourse based on the sacred scriptures and urges the devotees to lead a righteous life.",
-      "startDate": "2026-10-10T04:00:00",
-      "endDate": "2026-10-10T04:30:00",
-      "showTime": "04:00:00",
-      "endTime": "04:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b49466db9c16c96a06b648dd655606ef.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Tajweed O Tilawat Quran Course",
-      "description": "A religious scholar gives an insightful lecture on the proper way to recite and read the Qur'an, which is an important act of worship in Islam.",
-      "startDate": "2026-10-10T04:30:00",
-      "endDate": "2026-10-10T05:00:00",
-      "showTime": "04:30:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f25014f0cb05748eb2c8ac539331bea.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Tafseer E Quran",
-      "description": "A religious expert offers insightful commentary on the sacred text, Quran, exploring historical context, spiritual meanings and life applications to deepen understanding.",
-      "startDate": "2026-10-10T05:00:00",
-      "endDate": "2026-10-10T05:30:00",
-      "showTime": "05:00:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3c1fe4e22de82816c006290c990e7391.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Jannat Mein Le Jaane Waale Aamal",
-      "description": "A religious scholar sheds light on deeds that help one attain salvation whilst providing relevant references from the Holy Quran.",
-      "startDate": "2026-10-10T05:30:00",
-      "endDate": "2026-10-10T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e88a23f38a55702a7c48b34e94a8b555.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Tarjama E Quran",
-      "description": "A religious scholar reads the Holy Quran, the central religious text of Islam, and explains its verses and lessons in detail.",
-      "startDate": "2026-10-10T06:00:00",
-      "endDate": "2026-10-10T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ed72120b0e2b9c9727a691e00b8a70f.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Subah Ki Azkar",
-      "description": "A religious leader elaborates on the teachings of the Almighty and encourages followers to follow the path of spirituality.",
-      "startDate": "2026-10-10T06:30:00",
-      "endDate": "2026-10-10T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/96e7eebb70e61e07c241782f21a5b0af.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Mustanad Fazail - E - Amaal",
-      "description": "An Islamic scholar reads excerpts from a book that inspires devout Muslims to pursue practices catering to their religious needs.",
-      "startDate": "2026-10-10T07:00:00",
-      "endDate": "2026-10-10T07:30:00",
-      "showTime": "07:00:00",
-      "endTime": "07:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b45b74e68fb69f62e11ba34cbcfd4d99.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Aao Quran Samjhein",
-      "description": "Aao Quran Samjhein",
-      "startDate": "2026-10-10T07:30:00",
-      "endDate": "2026-10-10T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Tafseer E Quran",
-      "description": "A religious expert offers insightful commentary on the sacred text, Quran, exploring historical context, spiritual meanings and life applications to deepen understanding.",
-      "startDate": "2026-10-10T08:00:00",
-      "endDate": "2026-10-10T08:30:00",
-      "showTime": "08:00:00",
-      "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3c1fe4e22de82816c006290c990e7391.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Aaiye Hadees Samjhein",
-      "description": "A religious expert sheds light on the teachings and principles of the Almighty through holy texts and urges followers to embrace the path of spirituality.",
-      "startDate": "2026-10-10T08:30:00",
-      "endDate": "2026-10-10T09:00:00",
-      "showTime": "08:30:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84800b6ec0df4f15d78f5fc49b5d3e60.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Ashaab E Rasool",
-      "description": "A religious scholar sheds light on the companions of Prophet Muhammad (PBUH), highlighting their lives, struggles and teachings to inspire believers.",
-      "startDate": "2026-10-10T09:00:00",
-      "endDate": "2026-10-10T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "25 Nabiyon Ke Waqiyat Quran Se",
-      "description": "A spiritual leader offers a religious discourse to apprise devotees of meaningful Islamic teachings from the Holy Quran.",
-      "startDate": "2026-10-10T09:30:00",
-      "endDate": "2026-10-10T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f426fc1e0208ddce9558f044a5e1298.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Paigham E Rahmat",
-      "description": "A scholar of Islam delivers a discourse based on the sacred scriptures and urges the devotees to lead a righteous life.",
-      "startDate": "2026-10-10T10:00:00",
-      "endDate": "2026-10-10T10:30:00",
-      "showTime": "10:00:00",
-      "endTime": "10:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b49466db9c16c96a06b648dd655606ef.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Jannat Mein Le Jaane Waale Aamal",
-      "description": "A religious scholar sheds light on deeds that help one attain salvation whilst providing relevant references from the Holy Quran.",
-      "startDate": "2026-10-10T10:30:00",
-      "endDate": "2026-10-10T11:00:00",
-      "showTime": "10:30:00",
-      "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e88a23f38a55702a7c48b34e94a8b555.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Tajweed O Tilawat Quran Course",
-      "description": "A religious scholar gives an insightful lecture on the proper way to recite and read the Qur'an, which is an important act of worship in Islam.",
-      "startDate": "2026-10-10T11:00:00",
-      "endDate": "2026-10-10T11:30:00",
-      "showTime": "11:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f25014f0cb05748eb2c8ac539331bea.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Tarjama E Quran",
-      "description": "A religious scholar reads the Holy Quran, the central religious text of Islam, and explains its verses and lessons in detail.",
-      "startDate": "2026-10-10T11:30:00",
-      "endDate": "2026-10-10T12:00:00",
-      "showTime": "11:30:00",
-      "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ed72120b0e2b9c9727a691e00b8a70f.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Hikmat Ki Kirnein",
-      "description": "A religious leader recites passages from the Holy Quran and explains the meaning to the devotees, urging them to follow the path of the Almighty.",
-      "startDate": "2026-10-10T12:00:00",
-      "endDate": "2026-10-10T12:30:00",
-      "showTime": "12:00:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eba1379440f93661a061cff84a16d16b.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Jumuah Khutbah",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-10T12:30:00",
-      "endDate": "2026-10-10T13:00:00",
-      "showTime": "12:30:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d68b7aa379a36b645bbd167358b0151.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Guftagu",
-      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
-      "startDate": "2026-10-10T13:00:00",
-      "endDate": "2026-10-10T13:30:00",
-      "showTime": "13:00:00",
-      "endTime": "13:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Poochiyein Sanaullah Madani Se",
-      "description": "An expert addresses various questions posed by the audience, providing a comprehensive insight into valuable life lessons.",
-      "startDate": "2026-10-10T13:30:00",
-      "endDate": "2026-10-10T14:00:00",
-      "showTime": "13:30:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6be8e166f4c861f77ebc0709884d48f4.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Mustanad Fazail - E - Amaal",
-      "description": "An Islamic scholar reads excerpts from a book that inspires devout Muslims to pursue practices catering to their religious needs.",
-      "startDate": "2026-10-10T14:00:00",
-      "endDate": "2026-10-10T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b45b74e68fb69f62e11ba34cbcfd4d99.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Aao Quran Samjhein",
-      "description": "Aao Quran Samjhein",
-      "startDate": "2026-10-10T14:30:00",
-      "endDate": "2026-10-10T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Haq Ki Pukar",
-      "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
-      "startDate": "2026-10-10T15:00:00",
-      "endDate": "2026-10-10T15:30:00",
-      "showTime": "15:00:00",
-      "endTime": "15:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Gunah Aur Uski Sazaein",
-      "description": "A religious leader elaborates on the teachings of the Quran on the topic of sins and their punishments and encourages followers to follow the path of spirituality.",
-      "startDate": "2026-10-10T15:30:00",
-      "endDate": "2026-10-10T16:00:00",
-      "showTime": "15:30:00",
-      "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ce479a9136315a8de7d99c5a45c87ba.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Tarjama E Quran",
-      "description": "A religious scholar reads the Holy Quran, the central religious text of Islam, and explains its verses and lessons in detail.",
-      "startDate": "2026-10-10T16:00:00",
-      "endDate": "2026-10-10T16:30:00",
-      "showTime": "16:00:00",
-      "endTime": "16:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ed72120b0e2b9c9727a691e00b8a70f.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Tajweed O Tilawat Quran Course",
-      "description": "A religious scholar gives an insightful lecture on the proper way to recite and read the Qur'an, which is an important act of worship in Islam.",
-      "startDate": "2026-10-10T16:30:00",
-      "endDate": "2026-10-10T17:00:00",
-      "showTime": "16:30:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f25014f0cb05748eb2c8ac539331bea.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Paigham E Rahmat",
-      "description": "A scholar of Islam delivers a discourse based on the sacred scriptures and urges the devotees to lead a righteous life.",
-      "startDate": "2026-10-10T17:00:00",
-      "endDate": "2026-10-10T17:30:00",
-      "showTime": "17:00:00",
-      "endTime": "17:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b49466db9c16c96a06b648dd655606ef.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Sham Ke Azkar",
-      "description": "An Islamic religious leader explains the importance of evening prayers to seek the protection of the Almighty and express gratitude for blessings.",
-      "startDate": "2026-10-10T17:30:00",
-      "endDate": "2026-10-10T18:00:00",
-      "showTime": "17:30:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/00dcc5ffb0cdc31a4f2c747419ac712b.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Hikmat Ki Kirnein",
-      "description": "A religious leader recites passages from the Holy Quran and explains the meaning to the devotees, urging them to follow the path of the Almighty.",
-      "startDate": "2026-10-10T18:00:00",
-      "endDate": "2026-10-10T18:30:00",
-      "showTime": "18:00:00",
-      "endTime": "18:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eba1379440f93661a061cff84a16d16b.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Aaiye Hadees Samjhein",
-      "description": "A religious expert sheds light on the teachings and principles of the Almighty through holy texts and urges followers to embrace the path of spirituality.",
-      "startDate": "2026-10-10T18:30:00",
-      "endDate": "2026-10-10T19:00:00",
-      "showTime": "18:30:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84800b6ec0df4f15d78f5fc49b5d3e60.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Mustanad Fazail - E - Amaal",
-      "description": "An Islamic scholar reads excerpts from a book that inspires devout Muslims to pursue practices catering to their religious needs.",
-      "startDate": "2026-10-10T19:00:00",
-      "endDate": "2026-10-10T19:30:00",
-      "showTime": "19:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b45b74e68fb69f62e11ba34cbcfd4d99.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Aao Quran Samjhein",
-      "description": "Aao Quran Samjhein",
-      "startDate": "2026-10-10T19:30:00",
-      "endDate": "2026-10-10T20:00:00",
-      "showTime": "19:30:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Tafseer E Quran",
-      "description": "A religious expert offers insightful commentary on the sacred text, Quran, exploring historical context, spiritual meanings and life applications to deepen understanding.",
-      "startDate": "2026-10-10T20:00:00",
-      "endDate": "2026-10-10T20:30:00",
-      "showTime": "20:00:00",
-      "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3c1fe4e22de82816c006290c990e7391.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "25 Nabiyon Ke Waqiyat Quran Se",
-      "description": "A spiritual leader offers a religious discourse to apprise devotees of meaningful Islamic teachings from the Holy Quran.",
-      "startDate": "2026-10-10T20:30:00",
-      "endDate": "2026-10-10T21:00:00",
-      "showTime": "20:30:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f426fc1e0208ddce9558f044a5e1298.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Poochiyein Sanaullah Madani Se",
-      "description": "An expert addresses various questions posed by the audience, providing a comprehensive insight into valuable life lessons.",
-      "startDate": "2026-10-10T21:00:00",
-      "endDate": "2026-10-10T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6be8e166f4c861f77ebc0709884d48f4.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Guftagu",
-      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
-      "startDate": "2026-10-10T21:30:00",
-      "endDate": "2026-10-10T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Haq Ki Pukar",
-      "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
-      "startDate": "2026-10-10T22:00:00",
-      "endDate": "2026-10-10T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Gunah Aur Uski Sazaein",
-      "description": "A religious leader elaborates on the teachings of the Quran on the topic of sins and their punishments and encourages followers to follow the path of spirituality.",
-      "startDate": "2026-10-10T22:30:00",
-      "endDate": "2026-10-10T23:00:00",
-      "showTime": "22:30:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ce479a9136315a8de7d99c5a45c87ba.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Jannat Mein Le Jaane Waale Aamal",
-      "description": "A religious scholar sheds light on deeds that help one attain salvation whilst providing relevant references from the Holy Quran.",
-      "startDate": "2026-10-10T23:00:00",
-      "endDate": "2026-10-10T23:30:00",
-      "showTime": "23:00:00",
-      "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e88a23f38a55702a7c48b34e94a8b555.jpg"
-    },
-    {
-      "serverDate": "2026-10-10",
-      "showName": "Jumuah Khutbah",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-10T23:30:00",
-      "endDate": "2026-10-10T23:59:59",
-      "showTime": "23:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d68b7aa379a36b645bbd167358b0151.jpg"
-    },
-    {
       "serverDate": "2026-10-11",
       "showName": "Tarjama E Quran",
       "description": "A religious scholar reads the Holy Quran, the central religious text of Islam, and explains its verses and lessons in detail.",
@@ -1956,36 +372,36 @@
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Sham Ke Azkar",
-      "description": "An Islamic religious leader explains the importance of evening prayers to seek the protection of the Almighty and express gratitude for blessings.",
+      "showName": "Tajweed O Tilawat Quran Course",
+      "description": "A religious scholar gives an insightful lecture on the proper way to recite and read the Qur'an, which is an important act of worship in Islam.",
       "startDate": "2026-10-11T16:30:00",
       "endDate": "2026-10-11T17:00:00",
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/00dcc5ffb0cdc31a4f2c747419ac712b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f25014f0cb05748eb2c8ac539331bea.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Namaze Istekhaara",
-      "description": "A religious adept sheds light on the significance and role of special prayers that help make important life decisions by seeking divine guidance.",
+      "showName": "Paigham E Rahmat",
+      "description": "A scholar of Islam delivers a discourse based on the sacred scriptures and urges the devotees to lead a righteous life.",
       "startDate": "2026-10-11T17:00:00",
       "endDate": "2026-10-11T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e76c78961404d91065c9d0a1ef2ef7f9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b49466db9c16c96a06b648dd655606ef.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Tajweed O Tilawat Quran Course",
-      "description": "A religious scholar gives an insightful lecture on the proper way to recite and read the Qur'an, which is an important act of worship in Islam.",
+      "showName": "Sham Ke Azkar",
+      "description": "An Islamic religious leader explains the importance of evening prayers to seek the protection of the Almighty and express gratitude for blessings.",
       "startDate": "2026-10-11T17:30:00",
       "endDate": "2026-10-11T18:00:00",
       "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f25014f0cb05748eb2c8ac539331bea.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/00dcc5ffb0cdc31a4f2c747419ac712b.jpg"
     },
     {
       "serverDate": "2026-10-11",
@@ -2011,47 +427,47 @@
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Seerat E Sahabiyaat",
-      "description": "A religious leader delivers a discourse on the role of Sahabiyat, the female companions of Prophet Muhammad (PBUH), in propagating the teachings of Islam.",
+      "showName": "Mustanad Fazail - E - Amaal",
+      "description": "An Islamic scholar reads excerpts from a book that inspires devout Muslims to pursue practices catering to their religious needs.",
       "startDate": "2026-10-11T19:00:00",
       "endDate": "2026-10-11T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2d5f62518d639302a16193167fea21c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b45b74e68fb69f62e11ba34cbcfd4d99.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Noorul Quran",
-      "description": "A religious leader sheds light on the divine teachings of the Holy Quran and urges devotees to follow the path of righteousness.",
+      "showName": "Aao Quran Samjhein",
+      "description": "Aao Quran Samjhein",
       "startDate": "2026-10-11T19:30:00",
       "endDate": "2026-10-11T20:00:00",
       "showTime": "19:30:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3eb5e5cb0c96a15b5a85273465d05703.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "25 Nabiyon Ke Waqiyat Quran Se",
-      "description": "A spiritual leader offers a religious discourse to apprise devotees of meaningful Islamic teachings from the Holy Quran.",
+      "showName": "Tafseer E Quran",
+      "description": "A religious expert offers insightful commentary on the sacred text, Quran, exploring historical context, spiritual meanings and life applications to deepen understanding.",
       "startDate": "2026-10-11T20:00:00",
       "endDate": "2026-10-11T20:30:00",
       "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f426fc1e0208ddce9558f044a5e1298.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3c1fe4e22de82816c006290c990e7391.jpg"
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Akhirat Par Emaan",
-      "description": "A religious leader delivers a discourse on the teachings of the Almighty and encourages people to follow the path of righteousness.",
+      "showName": "25 Nabiyon Ke Waqiyat Quran Se",
+      "description": "A spiritual leader offers a religious discourse to apprise devotees of meaningful Islamic teachings from the Holy Quran.",
       "startDate": "2026-10-11T20:30:00",
       "endDate": "2026-10-11T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10361427accab940b4e9fbf747dbec2d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f426fc1e0208ddce9558f044a5e1298.jpg"
     },
     {
       "serverDate": "2026-10-11",
@@ -2066,47 +482,47 @@
     },
     {
       "serverDate": "2026-10-11",
-      "showName": "Iman Afrooz Waqiat",
-      "description": "A religious leader delivers a discourse on the teachings of the Almighty and faith-inspiring events, invoking the spirit of devotion and spirituality.",
+      "showName": "Guftagu",
+      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
       "startDate": "2026-10-11T21:30:00",
       "endDate": "2026-10-11T22:00:00",
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1716dbf9353622190355ea24fff3bd62.jpg"
-    },
-    {
-      "serverDate": "2026-10-11",
-      "showName": "Shayateen Ki Haqeeqat",
-      "description": "The host focuses on the Devil in Muslim culture and explains everything one needs to know about the entity and its negative impact on people.",
-      "startDate": "2026-10-11T22:00:00",
-      "endDate": "2026-10-11T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eeb8900743303619d96ea8f809ab81f9.jpg"
-    },
-    {
-      "serverDate": "2026-10-11",
-      "showName": "Paigham E Rahmat",
-      "description": "A scholar of Islam delivers a discourse based on the sacred scriptures and urges the devotees to lead a righteous life.",
-      "startDate": "2026-10-11T22:30:00",
-      "endDate": "2026-10-11T23:00:00",
-      "showTime": "22:30:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b49466db9c16c96a06b648dd655606ef.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
     },
     {
       "serverDate": "2026-10-11",
       "showName": "Haq Ki Pukar",
       "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
+      "startDate": "2026-10-11T22:00:00",
+      "endDate": "2026-10-11T22:30:00",
+      "showTime": "22:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Gunah Aur Uski Sazaein",
+      "description": "A religious leader elaborates on the teachings of the Quran on the topic of sins and their punishments and encourages followers to follow the path of spirituality.",
+      "startDate": "2026-10-11T22:30:00",
+      "endDate": "2026-10-11T23:00:00",
+      "showTime": "22:30:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ce479a9136315a8de7d99c5a45c87ba.jpg"
+    },
+    {
+      "serverDate": "2026-10-11",
+      "showName": "Jannati Auraton Ki Pehchaan",
+      "description": "An Islamic scholar delivers a spiritual discourse to describe the features of women who are destined to enter heaven and further encourages the believing women to lead a pious life.",
       "startDate": "2026-10-11T23:00:00",
       "endDate": "2026-10-11T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c53199bb536c6edc0b6871582bdabe7f.jpg"
     },
     {
       "serverDate": "2026-10-11",
@@ -2154,25 +570,25 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Akhirat Par Emaan",
-      "description": "A religious leader delivers a discourse on the teachings of the Almighty and encourages people to follow the path of righteousness.",
+      "showName": "25 Nabiyon Ke Waqiyat Quran Se",
+      "description": "A spiritual leader offers a religious discourse to apprise devotees of meaningful Islamic teachings from the Holy Quran.",
       "startDate": "2026-10-12T01:30:00",
       "endDate": "2026-10-12T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10361427accab940b4e9fbf747dbec2d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f426fc1e0208ddce9558f044a5e1298.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "25 Nabiyon Ke Waqiyat Quran Se",
-      "description": "A spiritual leader offers a religious discourse to apprise devotees of meaningful Islamic teachings from the Holy Quran.",
+      "showName": "Guftagu",
+      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
       "startDate": "2026-10-12T02:00:00",
       "endDate": "2026-10-12T02:30:00",
       "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f426fc1e0208ddce9558f044a5e1298.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -2187,36 +603,36 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Seerat E Sahabiyaat",
-      "description": "A religious leader delivers a discourse on the role of Sahabiyat, the female companions of Prophet Muhammad (PBUH), in propagating the teachings of Islam.",
+      "showName": "Haq Ki Pukar",
+      "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
       "startDate": "2026-10-12T03:00:00",
       "endDate": "2026-10-12T03:30:00",
       "showTime": "03:00:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2d5f62518d639302a16193167fea21c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Paigham E Rahmat",
-      "description": "A scholar of Islam delivers a discourse based on the sacred scriptures and urges the devotees to lead a righteous life.",
+      "showName": "Gunah Aur Uski Sazaein",
+      "description": "A religious leader elaborates on the teachings of the Quran on the topic of sins and their punishments and encourages followers to follow the path of spirituality.",
       "startDate": "2026-10-12T03:30:00",
       "endDate": "2026-10-12T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b49466db9c16c96a06b648dd655606ef.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ce479a9136315a8de7d99c5a45c87ba.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Namaze Istekhaara",
-      "description": "A religious adept sheds light on the significance and role of special prayers that help make important life decisions by seeking divine guidance.",
+      "showName": "Paigham E Rahmat",
+      "description": "A scholar of Islam delivers a discourse based on the sacred scriptures and urges the devotees to lead a righteous life.",
       "startDate": "2026-10-12T04:00:00",
       "endDate": "2026-10-12T04:30:00",
       "showTime": "04:00:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e76c78961404d91065c9d0a1ef2ef7f9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b49466db9c16c96a06b648dd655606ef.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -2231,25 +647,25 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Noorul Quran",
-      "description": "A religious leader sheds light on the divine teachings of the Holy Quran and urges devotees to follow the path of righteousness.",
+      "showName": "Tafseer E Quran",
+      "description": "A religious expert offers insightful commentary on the sacred text, Quran, exploring historical context, spiritual meanings and life applications to deepen understanding.",
       "startDate": "2026-10-12T05:00:00",
       "endDate": "2026-10-12T05:30:00",
       "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3eb5e5cb0c96a15b5a85273465d05703.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3c1fe4e22de82816c006290c990e7391.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Haq Ki Pukar",
-      "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
+      "showName": "Jannati Auraton Ki Pehchaan",
+      "description": "An Islamic scholar delivers a spiritual discourse to describe the features of women who are destined to enter heaven and further encourages the believing women to lead a pious life.",
       "startDate": "2026-10-12T05:30:00",
       "endDate": "2026-10-12T06:00:00",
       "showTime": "05:30:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c53199bb536c6edc0b6871582bdabe7f.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -2275,36 +691,36 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Iman Afrooz Waqiat",
-      "description": "A religious leader delivers a discourse on the teachings of the Almighty and faith-inspiring events, invoking the spirit of devotion and spirituality.",
+      "showName": "Mustanad Fazail - E - Amaal",
+      "description": "An Islamic scholar reads excerpts from a book that inspires devout Muslims to pursue practices catering to their religious needs.",
       "startDate": "2026-10-12T07:00:00",
       "endDate": "2026-10-12T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1716dbf9353622190355ea24fff3bd62.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b45b74e68fb69f62e11ba34cbcfd4d99.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Shayateen Ki Haqeeqat",
-      "description": "The host focuses on the Devil in Muslim culture and explains everything one needs to know about the entity and its negative impact on people.",
+      "showName": "Aao Quran Samjhein",
+      "description": "Aao Quran Samjhein",
       "startDate": "2026-10-12T07:30:00",
       "endDate": "2026-10-12T08:00:00",
       "showTime": "07:30:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eeb8900743303619d96ea8f809ab81f9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Noorul Quran",
-      "description": "A religious leader sheds light on the divine teachings of the Holy Quran and urges devotees to follow the path of righteousness.",
+      "showName": "Tafseer E Quran",
+      "description": "A religious expert offers insightful commentary on the sacred text, Quran, exploring historical context, spiritual meanings and life applications to deepen understanding.",
       "startDate": "2026-10-12T08:00:00",
       "endDate": "2026-10-12T08:30:00",
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3eb5e5cb0c96a15b5a85273465d05703.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3c1fe4e22de82816c006290c990e7391.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -2319,14 +735,14 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Subah Ki Azkar",
-      "description": "A religious leader elaborates on the teachings of the Almighty and encourages followers to follow the path of spirituality.",
+      "showName": "Ashaab E Rasool",
+      "description": "A religious scholar sheds light on the companions of Prophet Muhammad (PBUH), highlighting their lives, struggles and teachings to inspire believers.",
       "startDate": "2026-10-12T09:00:00",
       "endDate": "2026-10-12T09:30:00",
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/96e7eebb70e61e07c241782f21a5b0af.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -2341,25 +757,25 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Namaze Istekhaara",
-      "description": "A religious adept sheds light on the significance and role of special prayers that help make important life decisions by seeking divine guidance.",
+      "showName": "Paigham E Rahmat",
+      "description": "A scholar of Islam delivers a discourse based on the sacred scriptures and urges the devotees to lead a righteous life.",
       "startDate": "2026-10-12T10:00:00",
       "endDate": "2026-10-12T10:30:00",
       "showTime": "10:00:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e76c78961404d91065c9d0a1ef2ef7f9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b49466db9c16c96a06b648dd655606ef.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Haq Ki Pukar",
-      "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
+      "showName": "Jannati Auraton Ki Pehchaan",
+      "description": "An Islamic scholar delivers a spiritual discourse to describe the features of women who are destined to enter heaven and further encourages the believing women to lead a pious life.",
       "startDate": "2026-10-12T10:30:00",
       "endDate": "2026-10-12T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c53199bb536c6edc0b6871582bdabe7f.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -2407,14 +823,14 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Akhirat Par Emaan",
-      "description": "A religious leader delivers a discourse on the teachings of the Almighty and encourages people to follow the path of righteousness.",
+      "showName": "Guftagu",
+      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
       "startDate": "2026-10-12T13:00:00",
       "endDate": "2026-10-12T13:30:00",
       "showTime": "13:00:00",
       "endTime": "13:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10361427accab940b4e9fbf747dbec2d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -2429,47 +845,47 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Iman Afrooz Waqiat",
-      "description": "A religious leader delivers a discourse on the teachings of the Almighty and faith-inspiring events, invoking the spirit of devotion and spirituality.",
+      "showName": "Mustanad Fazail - E - Amaal",
+      "description": "An Islamic scholar reads excerpts from a book that inspires devout Muslims to pursue practices catering to their religious needs.",
       "startDate": "2026-10-12T14:00:00",
       "endDate": "2026-10-12T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1716dbf9353622190355ea24fff3bd62.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b45b74e68fb69f62e11ba34cbcfd4d99.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Shayateen Ki Haqeeqat",
-      "description": "The host focuses on the Devil in Muslim culture and explains everything one needs to know about the entity and its negative impact on people.",
+      "showName": "Aao Quran Samjhein",
+      "description": "Aao Quran Samjhein",
       "startDate": "2026-10-12T14:30:00",
       "endDate": "2026-10-12T15:00:00",
       "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eeb8900743303619d96ea8f809ab81f9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Seerat E Sahabiyaat",
-      "description": "A religious leader delivers a discourse on the role of Sahabiyat, the female companions of Prophet Muhammad (PBUH), in propagating the teachings of Islam.",
+      "showName": "Haq Ki Pukar",
+      "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
       "startDate": "2026-10-12T15:00:00",
       "endDate": "2026-10-12T15:30:00",
       "showTime": "15:00:00",
       "endTime": "15:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2d5f62518d639302a16193167fea21c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Paigham E Rahmat",
-      "description": "A scholar of Islam delivers a discourse based on the sacred scriptures and urges the devotees to lead a righteous life.",
+      "showName": "Gunah Aur Uski Sazaein",
+      "description": "A religious leader elaborates on the teachings of the Quran on the topic of sins and their punishments and encourages followers to follow the path of spirituality.",
       "startDate": "2026-10-12T15:30:00",
       "endDate": "2026-10-12T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b49466db9c16c96a06b648dd655606ef.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ce479a9136315a8de7d99c5a45c87ba.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -2484,36 +900,36 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Sham Ke Azkar",
-      "description": "An Islamic religious leader explains the importance of evening prayers to seek the protection of the Almighty and express gratitude for blessings.",
+      "showName": "Tajweed O Tilawat Quran Course",
+      "description": "A religious scholar gives an insightful lecture on the proper way to recite and read the Qur'an, which is an important act of worship in Islam.",
       "startDate": "2026-10-12T16:30:00",
       "endDate": "2026-10-12T17:00:00",
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/00dcc5ffb0cdc31a4f2c747419ac712b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f25014f0cb05748eb2c8ac539331bea.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Namaze Istekhaara",
-      "description": "A religious adept sheds light on the significance and role of special prayers that help make important life decisions by seeking divine guidance.",
+      "showName": "Paigham E Rahmat",
+      "description": "A scholar of Islam delivers a discourse based on the sacred scriptures and urges the devotees to lead a righteous life.",
       "startDate": "2026-10-12T17:00:00",
       "endDate": "2026-10-12T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e76c78961404d91065c9d0a1ef2ef7f9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b49466db9c16c96a06b648dd655606ef.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Tajweed O Tilawat Quran Course",
-      "description": "A religious scholar gives an insightful lecture on the proper way to recite and read the Qur'an, which is an important act of worship in Islam.",
+      "showName": "Sham Ke Azkar",
+      "description": "An Islamic religious leader explains the importance of evening prayers to seek the protection of the Almighty and express gratitude for blessings.",
       "startDate": "2026-10-12T17:30:00",
       "endDate": "2026-10-12T18:00:00",
       "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f25014f0cb05748eb2c8ac539331bea.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/00dcc5ffb0cdc31a4f2c747419ac712b.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -2539,47 +955,47 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Seerat E Sahabiyaat",
-      "description": "A religious leader delivers a discourse on the role of Sahabiyat, the female companions of Prophet Muhammad (PBUH), in propagating the teachings of Islam.",
+      "showName": "Mustanad Fazail - E - Amaal",
+      "description": "An Islamic scholar reads excerpts from a book that inspires devout Muslims to pursue practices catering to their religious needs.",
       "startDate": "2026-10-12T19:00:00",
       "endDate": "2026-10-12T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2d5f62518d639302a16193167fea21c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b45b74e68fb69f62e11ba34cbcfd4d99.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Noorul Quran",
-      "description": "A religious leader sheds light on the divine teachings of the Holy Quran and urges devotees to follow the path of righteousness.",
+      "showName": "Aao Quran Samjhein",
+      "description": "Aao Quran Samjhein",
       "startDate": "2026-10-12T19:30:00",
       "endDate": "2026-10-12T20:00:00",
       "showTime": "19:30:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3eb5e5cb0c96a15b5a85273465d05703.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "25 Nabiyon Ke Waqiyat Quran Se",
-      "description": "A spiritual leader offers a religious discourse to apprise devotees of meaningful Islamic teachings from the Holy Quran.",
+      "showName": "Tafseer E Quran",
+      "description": "A religious expert offers insightful commentary on the sacred text, Quran, exploring historical context, spiritual meanings and life applications to deepen understanding.",
       "startDate": "2026-10-12T20:00:00",
       "endDate": "2026-10-12T20:30:00",
       "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f426fc1e0208ddce9558f044a5e1298.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3c1fe4e22de82816c006290c990e7391.jpg"
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Akhirat Par Emaan",
-      "description": "A religious leader delivers a discourse on the teachings of the Almighty and encourages people to follow the path of righteousness.",
+      "showName": "25 Nabiyon Ke Waqiyat Quran Se",
+      "description": "A spiritual leader offers a religious discourse to apprise devotees of meaningful Islamic teachings from the Holy Quran.",
       "startDate": "2026-10-12T20:30:00",
       "endDate": "2026-10-12T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10361427accab940b4e9fbf747dbec2d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f426fc1e0208ddce9558f044a5e1298.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -2594,47 +1010,47 @@
     },
     {
       "serverDate": "2026-10-12",
-      "showName": "Iman Afrooz Waqiat",
-      "description": "A religious leader delivers a discourse on the teachings of the Almighty and faith-inspiring events, invoking the spirit of devotion and spirituality.",
+      "showName": "Guftagu",
+      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
       "startDate": "2026-10-12T21:30:00",
       "endDate": "2026-10-12T22:00:00",
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1716dbf9353622190355ea24fff3bd62.jpg"
-    },
-    {
-      "serverDate": "2026-10-12",
-      "showName": "Shayateen Ki Haqeeqat",
-      "description": "The host focuses on the Devil in Muslim culture and explains everything one needs to know about the entity and its negative impact on people.",
-      "startDate": "2026-10-12T22:00:00",
-      "endDate": "2026-10-12T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eeb8900743303619d96ea8f809ab81f9.jpg"
-    },
-    {
-      "serverDate": "2026-10-12",
-      "showName": "Paigham E Rahmat",
-      "description": "A scholar of Islam delivers a discourse based on the sacred scriptures and urges the devotees to lead a righteous life.",
-      "startDate": "2026-10-12T22:30:00",
-      "endDate": "2026-10-12T23:00:00",
-      "showTime": "22:30:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b49466db9c16c96a06b648dd655606ef.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
     },
     {
       "serverDate": "2026-10-12",
       "showName": "Haq Ki Pukar",
       "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
+      "startDate": "2026-10-12T22:00:00",
+      "endDate": "2026-10-12T22:30:00",
+      "showTime": "22:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Gunah Aur Uski Sazaein",
+      "description": "A religious leader elaborates on the teachings of the Quran on the topic of sins and their punishments and encourages followers to follow the path of spirituality.",
+      "startDate": "2026-10-12T22:30:00",
+      "endDate": "2026-10-12T23:00:00",
+      "showTime": "22:30:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ce479a9136315a8de7d99c5a45c87ba.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Jannati Auraton Ki Pehchaan",
+      "description": "An Islamic scholar delivers a spiritual discourse to describe the features of women who are destined to enter heaven and further encourages the believing women to lead a pious life.",
       "startDate": "2026-10-12T23:00:00",
       "endDate": "2026-10-12T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c53199bb536c6edc0b6871582bdabe7f.jpg"
     },
     {
       "serverDate": "2026-10-12",
@@ -2682,25 +1098,25 @@
     },
     {
       "serverDate": "2026-10-13",
-      "showName": "Akhirat Par Emaan",
-      "description": "A religious leader delivers a discourse on the teachings of the Almighty and encourages people to follow the path of righteousness.",
+      "showName": "25 Nabiyon Ke Waqiyat Quran Se",
+      "description": "A spiritual leader offers a religious discourse to apprise devotees of meaningful Islamic teachings from the Holy Quran.",
       "startDate": "2026-10-13T01:30:00",
       "endDate": "2026-10-13T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10361427accab940b4e9fbf747dbec2d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f426fc1e0208ddce9558f044a5e1298.jpg"
     },
     {
       "serverDate": "2026-10-13",
-      "showName": "25 Nabiyon Ke Waqiyat Quran Se",
-      "description": "A spiritual leader offers a religious discourse to apprise devotees of meaningful Islamic teachings from the Holy Quran.",
+      "showName": "Guftagu",
+      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
       "startDate": "2026-10-13T02:00:00",
       "endDate": "2026-10-13T02:30:00",
       "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f426fc1e0208ddce9558f044a5e1298.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
     },
     {
       "serverDate": "2026-10-13",
@@ -2715,36 +1131,36 @@
     },
     {
       "serverDate": "2026-10-13",
-      "showName": "Seerat E Sahabiyaat",
-      "description": "A religious leader delivers a discourse on the role of Sahabiyat, the female companions of Prophet Muhammad (PBUH), in propagating the teachings of Islam.",
+      "showName": "Haq Ki Pukar",
+      "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
       "startDate": "2026-10-13T03:00:00",
       "endDate": "2026-10-13T03:30:00",
       "showTime": "03:00:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2d5f62518d639302a16193167fea21c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
     },
     {
       "serverDate": "2026-10-13",
-      "showName": "Paigham E Rahmat",
-      "description": "A scholar of Islam delivers a discourse based on the sacred scriptures and urges the devotees to lead a righteous life.",
+      "showName": "Gunah Aur Uski Sazaein",
+      "description": "A religious leader elaborates on the teachings of the Quran on the topic of sins and their punishments and encourages followers to follow the path of spirituality.",
       "startDate": "2026-10-13T03:30:00",
       "endDate": "2026-10-13T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b49466db9c16c96a06b648dd655606ef.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ce479a9136315a8de7d99c5a45c87ba.jpg"
     },
     {
       "serverDate": "2026-10-13",
-      "showName": "Namaze Istekhaara",
-      "description": "A religious adept sheds light on the significance and role of special prayers that help make important life decisions by seeking divine guidance.",
+      "showName": "Paigham E Rahmat",
+      "description": "A scholar of Islam delivers a discourse based on the sacred scriptures and urges the devotees to lead a righteous life.",
       "startDate": "2026-10-13T04:00:00",
       "endDate": "2026-10-13T04:30:00",
       "showTime": "04:00:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e76c78961404d91065c9d0a1ef2ef7f9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b49466db9c16c96a06b648dd655606ef.jpg"
     },
     {
       "serverDate": "2026-10-13",
@@ -2759,25 +1175,25 @@
     },
     {
       "serverDate": "2026-10-13",
-      "showName": "Noorul Quran",
-      "description": "A religious leader sheds light on the divine teachings of the Holy Quran and urges devotees to follow the path of righteousness.",
+      "showName": "Tafseer E Quran",
+      "description": "A religious expert offers insightful commentary on the sacred text, Quran, exploring historical context, spiritual meanings and life applications to deepen understanding.",
       "startDate": "2026-10-13T05:00:00",
       "endDate": "2026-10-13T05:30:00",
       "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3eb5e5cb0c96a15b5a85273465d05703.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3c1fe4e22de82816c006290c990e7391.jpg"
     },
     {
       "serverDate": "2026-10-13",
-      "showName": "Haq Ki Pukar",
-      "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
+      "showName": "Jannati Auraton Ki Pehchaan",
+      "description": "An Islamic scholar delivers a spiritual discourse to describe the features of women who are destined to enter heaven and further encourages the believing women to lead a pious life.",
       "startDate": "2026-10-13T05:30:00",
       "endDate": "2026-10-13T06:00:00",
       "showTime": "05:30:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c53199bb536c6edc0b6871582bdabe7f.jpg"
     },
     {
       "serverDate": "2026-10-13",
@@ -2803,25 +1219,25 @@
     },
     {
       "serverDate": "2026-10-13",
-      "showName": "Akhirat Par Emaan",
-      "description": "A religious leader delivers a discourse on the teachings of the Almighty and encourages people to follow the path of righteousness.",
+      "showName": "Mustanad Fazail - E - Amaal",
+      "description": "An Islamic scholar reads excerpts from a book that inspires devout Muslims to pursue practices catering to their religious needs.",
       "startDate": "2026-10-13T07:00:00",
       "endDate": "2026-10-13T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10361427accab940b4e9fbf747dbec2d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b45b74e68fb69f62e11ba34cbcfd4d99.jpg"
     },
     {
       "serverDate": "2026-10-13",
-      "showName": "Aurat Islam Ke Saye Mein",
-      "description": "A religious leader illuminates the role of Islam in the advancement of women, citing relevant religious instances and enlightening the audience.",
+      "showName": "Aao Quran Samjhein",
+      "description": "Aao Quran Samjhein",
       "startDate": "2026-10-13T07:30:00",
       "endDate": "2026-10-13T08:00:00",
       "showTime": "07:30:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c88aedc2ad62b43116f8cbf6aba4adbe.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-13",
@@ -2847,25 +1263,25 @@
     },
     {
       "serverDate": "2026-10-13",
-      "showName": "Subah Ki Azkar",
-      "description": "A religious leader elaborates on the teachings of the Almighty and encourages followers to follow the path of spirituality.",
+      "showName": "Ashaab E Rasool",
+      "description": "A religious scholar sheds light on the companions of Prophet Muhammad (PBUH), highlighting their lives, struggles and teachings to inspire believers.",
       "startDate": "2026-10-13T09:00:00",
       "endDate": "2026-10-13T09:30:00",
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/96e7eebb70e61e07c241782f21a5b0af.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-13",
-      "showName": "Aulad Ki Tarbiyat",
-      "description": "An eminent expert offers valuable guidance and tips on how to nurture and raise children, aligning with Islamic principles.",
+      "showName": "25 Nabiyon Ke Waqiyat Quran Se",
+      "description": "A spiritual leader offers a religious discourse to apprise devotees of meaningful Islamic teachings from the Holy Quran.",
       "startDate": "2026-10-13T09:30:00",
       "endDate": "2026-10-13T10:00:00",
       "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2068c8c79dd98ba6d3671a37cadba53b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f426fc1e0208ddce9558f044a5e1298.jpg"
     },
     {
       "serverDate": "2026-10-13",
@@ -2880,14 +1296,14 @@
     },
     {
       "serverDate": "2026-10-13",
-      "showName": "Haq Ki Pukar",
-      "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
+      "showName": "Jannati Auraton Ki Pehchaan",
+      "description": "An Islamic scholar delivers a spiritual discourse to describe the features of women who are destined to enter heaven and further encourages the believing women to lead a pious life.",
       "startDate": "2026-10-13T10:30:00",
       "endDate": "2026-10-13T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c53199bb536c6edc0b6871582bdabe7f.jpg"
     },
     {
       "serverDate": "2026-10-13",
@@ -2935,14 +1351,14 @@
     },
     {
       "serverDate": "2026-10-13",
-      "showName": "Islam Mei Khawateen Ke Huqooq Aur Zimmedariyan",
-      "description": "An Islamic religious leader explains the responsibilities of women through holy texts and urges followers to embrace the path of spirituality.",
+      "showName": "Guftagu",
+      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
       "startDate": "2026-10-13T13:00:00",
       "endDate": "2026-10-13T13:30:00",
       "showTime": "13:00:00",
       "endTime": "13:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/30459c987b4916669efcede0829f33c0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
     },
     {
       "serverDate": "2026-10-13",
@@ -2957,47 +1373,47 @@
     },
     {
       "serverDate": "2026-10-13",
-      "showName": "Akhirat Par Emaan",
-      "description": "A religious leader delivers a discourse on the teachings of the Almighty and encourages people to follow the path of righteousness.",
+      "showName": "Mustanad Fazail - E - Amaal",
+      "description": "An Islamic scholar reads excerpts from a book that inspires devout Muslims to pursue practices catering to their religious needs.",
       "startDate": "2026-10-13T14:00:00",
       "endDate": "2026-10-13T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10361427accab940b4e9fbf747dbec2d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b45b74e68fb69f62e11ba34cbcfd4d99.jpg"
     },
     {
       "serverDate": "2026-10-13",
-      "showName": "Aurat Islam Ke Saye Mein",
-      "description": "A religious leader illuminates the role of Islam in the advancement of women, citing relevant religious instances and enlightening the audience.",
+      "showName": "Aao Quran Samjhein",
+      "description": "Aao Quran Samjhein",
       "startDate": "2026-10-13T14:30:00",
       "endDate": "2026-10-13T15:00:00",
       "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c88aedc2ad62b43116f8cbf6aba4adbe.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-13",
-      "showName": "Guftagu",
-      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
+      "showName": "Haq Ki Pukar",
+      "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
       "startDate": "2026-10-13T15:00:00",
       "endDate": "2026-10-13T15:30:00",
       "showTime": "15:00:00",
       "endTime": "15:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
     },
     {
       "serverDate": "2026-10-13",
-      "showName": "Akhlaqiyaat",
-      "description": "A religious leader elaborates on the teachings of Almighty and encourages followers to take the path of spirituality and devotion.",
+      "showName": "Gunah Aur Uski Sazaein",
+      "description": "A religious leader elaborates on the teachings of the Quran on the topic of sins and their punishments and encourages followers to follow the path of spirituality.",
       "startDate": "2026-10-13T15:30:00",
       "endDate": "2026-10-13T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2320d891262ab86775cbb5659a4c5c77.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ce479a9136315a8de7d99c5a45c87ba.jpg"
     },
     {
       "serverDate": "2026-10-13",
@@ -3012,14 +1428,14 @@
     },
     {
       "serverDate": "2026-10-13",
-      "showName": "Sham Ke Azkar",
-      "description": "An Islamic religious leader explains the importance of evening prayers to seek the protection of the Almighty and express gratitude for blessings.",
+      "showName": "Tajweed O Tilawat Quran Course",
+      "description": "A religious scholar gives an insightful lecture on the proper way to recite and read the Qur'an, which is an important act of worship in Islam.",
       "startDate": "2026-10-13T16:30:00",
       "endDate": "2026-10-13T17:00:00",
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/00dcc5ffb0cdc31a4f2c747419ac712b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f25014f0cb05748eb2c8ac539331bea.jpg"
     },
     {
       "serverDate": "2026-10-13",
@@ -3034,14 +1450,14 @@
     },
     {
       "serverDate": "2026-10-13",
-      "showName": "Tajweed O Tilawat Quran Course",
-      "description": "A religious scholar gives an insightful lecture on the proper way to recite and read the Qur'an, which is an important act of worship in Islam.",
+      "showName": "Sham Ke Azkar",
+      "description": "An Islamic religious leader explains the importance of evening prayers to seek the protection of the Almighty and express gratitude for blessings.",
       "startDate": "2026-10-13T17:30:00",
       "endDate": "2026-10-13T18:00:00",
       "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f25014f0cb05748eb2c8ac539331bea.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/00dcc5ffb0cdc31a4f2c747419ac712b.jpg"
     },
     {
       "serverDate": "2026-10-13",
@@ -3067,25 +1483,25 @@
     },
     {
       "serverDate": "2026-10-13",
-      "showName": "Akhirat Par Emaan",
-      "description": "A religious leader delivers a discourse on the teachings of the Almighty and encourages people to follow the path of righteousness.",
+      "showName": "Mustanad Fazail - E - Amaal",
+      "description": "An Islamic scholar reads excerpts from a book that inspires devout Muslims to pursue practices catering to their religious needs.",
       "startDate": "2026-10-13T19:00:00",
       "endDate": "2026-10-13T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10361427accab940b4e9fbf747dbec2d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b45b74e68fb69f62e11ba34cbcfd4d99.jpg"
     },
     {
       "serverDate": "2026-10-13",
-      "showName": "Aurat Islam Ke Saye Mein",
-      "description": "A religious leader illuminates the role of Islam in the advancement of women, citing relevant religious instances and enlightening the audience.",
+      "showName": "Aao Quran Samjhein",
+      "description": "Aao Quran Samjhein",
       "startDate": "2026-10-13T19:30:00",
       "endDate": "2026-10-13T20:00:00",
       "showTime": "19:30:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c88aedc2ad62b43116f8cbf6aba4adbe.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-13",
@@ -3100,14 +1516,14 @@
     },
     {
       "serverDate": "2026-10-13",
-      "showName": "Aulad Ki Tarbiyat",
-      "description": "An eminent expert offers valuable guidance and tips on how to nurture and raise children, aligning with Islamic principles.",
+      "showName": "25 Nabiyon Ke Waqiyat Quran Se",
+      "description": "A spiritual leader offers a religious discourse to apprise devotees of meaningful Islamic teachings from the Holy Quran.",
       "startDate": "2026-10-13T20:30:00",
       "endDate": "2026-10-13T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2068c8c79dd98ba6d3671a37cadba53b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f426fc1e0208ddce9558f044a5e1298.jpg"
     },
     {
       "serverDate": "2026-10-13",
@@ -3122,47 +1538,47 @@
     },
     {
       "serverDate": "2026-10-13",
-      "showName": "Islam Mei Khawateen Ke Huqooq Aur Zimmedariyan",
-      "description": "An Islamic religious leader explains the responsibilities of women through holy texts and urges followers to embrace the path of spirituality.",
+      "showName": "Guftagu",
+      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
       "startDate": "2026-10-13T21:30:00",
       "endDate": "2026-10-13T22:00:00",
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/30459c987b4916669efcede0829f33c0.jpg"
-    },
-    {
-      "serverDate": "2026-10-13",
-      "showName": "Guftagu",
-      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
-      "startDate": "2026-10-13T22:00:00",
-      "endDate": "2026-10-13T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
-    },
-    {
-      "serverDate": "2026-10-13",
-      "showName": "Akhlaqiyaat",
-      "description": "A religious leader elaborates on the teachings of Almighty and encourages followers to take the path of spirituality and devotion.",
-      "startDate": "2026-10-13T22:30:00",
-      "endDate": "2026-10-13T23:00:00",
-      "showTime": "22:30:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2320d891262ab86775cbb5659a4c5c77.jpg"
     },
     {
       "serverDate": "2026-10-13",
       "showName": "Haq Ki Pukar",
       "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
+      "startDate": "2026-10-13T22:00:00",
+      "endDate": "2026-10-13T22:30:00",
+      "showTime": "22:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
+    },
+    {
+      "serverDate": "2026-10-13",
+      "showName": "Gunah Aur Uski Sazaein",
+      "description": "A religious leader elaborates on the teachings of the Quran on the topic of sins and their punishments and encourages followers to follow the path of spirituality.",
+      "startDate": "2026-10-13T22:30:00",
+      "endDate": "2026-10-13T23:00:00",
+      "showTime": "22:30:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ce479a9136315a8de7d99c5a45c87ba.jpg"
+    },
+    {
+      "serverDate": "2026-10-13",
+      "showName": "Jannati Auraton Ki Pehchaan",
+      "description": "An Islamic scholar delivers a spiritual discourse to describe the features of women who are destined to enter heaven and further encourages the believing women to lead a pious life.",
       "startDate": "2026-10-13T23:00:00",
       "endDate": "2026-10-13T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c53199bb536c6edc0b6871582bdabe7f.jpg"
     },
     {
       "serverDate": "2026-10-13",
@@ -3210,25 +1626,25 @@
     },
     {
       "serverDate": "2026-10-14",
-      "showName": "Aulad Ki Tarbiyat",
-      "description": "An eminent expert offers valuable guidance and tips on how to nurture and raise children, aligning with Islamic principles.",
+      "showName": "25 Nabiyon Ke Waqiyat Quran Se",
+      "description": "A spiritual leader offers a religious discourse to apprise devotees of meaningful Islamic teachings from the Holy Quran.",
       "startDate": "2026-10-14T01:30:00",
       "endDate": "2026-10-14T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2068c8c79dd98ba6d3671a37cadba53b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f426fc1e0208ddce9558f044a5e1298.jpg"
     },
     {
       "serverDate": "2026-10-14",
-      "showName": "Islam Mei Khawateen Ke Huqooq Aur Zimmedariyan",
-      "description": "An Islamic religious leader explains the responsibilities of women through holy texts and urges followers to embrace the path of spirituality.",
+      "showName": "Guftagu",
+      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
       "startDate": "2026-10-14T02:00:00",
       "endDate": "2026-10-14T02:30:00",
       "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/30459c987b4916669efcede0829f33c0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
     },
     {
       "serverDate": "2026-10-14",
@@ -3243,25 +1659,25 @@
     },
     {
       "serverDate": "2026-10-14",
-      "showName": "Guftagu",
-      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
+      "showName": "Haq Ki Pukar",
+      "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
       "startDate": "2026-10-14T03:00:00",
       "endDate": "2026-10-14T03:30:00",
       "showTime": "03:00:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
     },
     {
       "serverDate": "2026-10-14",
-      "showName": "Akhlaqiyaat",
-      "description": "A religious leader elaborates on the teachings of Almighty and encourages followers to take the path of spirituality and devotion.",
+      "showName": "Gunah Aur Uski Sazaein",
+      "description": "A religious leader elaborates on the teachings of the Quran on the topic of sins and their punishments and encourages followers to follow the path of spirituality.",
       "startDate": "2026-10-14T03:30:00",
       "endDate": "2026-10-14T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2320d891262ab86775cbb5659a4c5c77.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ce479a9136315a8de7d99c5a45c87ba.jpg"
     },
     {
       "serverDate": "2026-10-14",
@@ -3298,14 +1714,14 @@
     },
     {
       "serverDate": "2026-10-14",
-      "showName": "Haq Ki Pukar",
-      "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
+      "showName": "Jannati Auraton Ki Pehchaan",
+      "description": "An Islamic scholar delivers a spiritual discourse to describe the features of women who are destined to enter heaven and further encourages the believing women to lead a pious life.",
       "startDate": "2026-10-14T05:30:00",
       "endDate": "2026-10-14T06:00:00",
       "showTime": "05:30:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c53199bb536c6edc0b6871582bdabe7f.jpg"
     },
     {
       "serverDate": "2026-10-14",
@@ -3331,25 +1747,25 @@
     },
     {
       "serverDate": "2026-10-14",
-      "showName": "Akhirat Par Emaan",
-      "description": "A religious leader delivers a discourse on the teachings of the Almighty and encourages people to follow the path of righteousness.",
+      "showName": "Mustanad Fazail - E - Amaal",
+      "description": "An Islamic scholar reads excerpts from a book that inspires devout Muslims to pursue practices catering to their religious needs.",
       "startDate": "2026-10-14T07:00:00",
       "endDate": "2026-10-14T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10361427accab940b4e9fbf747dbec2d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b45b74e68fb69f62e11ba34cbcfd4d99.jpg"
     },
     {
       "serverDate": "2026-10-14",
-      "showName": "Aurat Islam Ke Saye Mein",
-      "description": "A religious leader illuminates the role of Islam in the advancement of women, citing relevant religious instances and enlightening the audience.",
+      "showName": "Aao Quran Samjhein",
+      "description": "Aao Quran Samjhein",
       "startDate": "2026-10-14T07:30:00",
       "endDate": "2026-10-14T08:00:00",
       "showTime": "07:30:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c88aedc2ad62b43116f8cbf6aba4adbe.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-14",
@@ -3375,25 +1791,25 @@
     },
     {
       "serverDate": "2026-10-14",
-      "showName": "Subah Ki Azkar",
-      "description": "A religious leader elaborates on the teachings of the Almighty and encourages followers to follow the path of spirituality.",
+      "showName": "Ashaab E Rasool",
+      "description": "A religious scholar sheds light on the companions of Prophet Muhammad (PBUH), highlighting their lives, struggles and teachings to inspire believers.",
       "startDate": "2026-10-14T09:00:00",
       "endDate": "2026-10-14T09:30:00",
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/96e7eebb70e61e07c241782f21a5b0af.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-14",
-      "showName": "Aulad Ki Tarbiyat",
-      "description": "An eminent expert offers valuable guidance and tips on how to nurture and raise children, aligning with Islamic principles.",
+      "showName": "25 Nabiyon Ke Waqiyat Quran Se",
+      "description": "A spiritual leader offers a religious discourse to apprise devotees of meaningful Islamic teachings from the Holy Quran.",
       "startDate": "2026-10-14T09:30:00",
       "endDate": "2026-10-14T10:00:00",
       "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2068c8c79dd98ba6d3671a37cadba53b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f426fc1e0208ddce9558f044a5e1298.jpg"
     },
     {
       "serverDate": "2026-10-14",
@@ -3408,14 +1824,14 @@
     },
     {
       "serverDate": "2026-10-14",
-      "showName": "Haq Ki Pukar",
-      "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
+      "showName": "Jannati Auraton Ki Pehchaan",
+      "description": "An Islamic scholar delivers a spiritual discourse to describe the features of women who are destined to enter heaven and further encourages the believing women to lead a pious life.",
       "startDate": "2026-10-14T10:30:00",
       "endDate": "2026-10-14T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c53199bb536c6edc0b6871582bdabe7f.jpg"
     },
     {
       "serverDate": "2026-10-14",
@@ -3463,14 +1879,14 @@
     },
     {
       "serverDate": "2026-10-14",
-      "showName": "Islam Mei Khawateen Ke Huqooq Aur Zimmedariyan",
-      "description": "An Islamic religious leader explains the responsibilities of women through holy texts and urges followers to embrace the path of spirituality.",
+      "showName": "Guftagu",
+      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
       "startDate": "2026-10-14T13:00:00",
       "endDate": "2026-10-14T13:30:00",
       "showTime": "13:00:00",
       "endTime": "13:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/30459c987b4916669efcede0829f33c0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
     },
     {
       "serverDate": "2026-10-14",
@@ -3485,47 +1901,47 @@
     },
     {
       "serverDate": "2026-10-14",
-      "showName": "Akhirat Par Emaan",
-      "description": "A religious leader delivers a discourse on the teachings of the Almighty and encourages people to follow the path of righteousness.",
+      "showName": "Mustanad Fazail - E - Amaal",
+      "description": "An Islamic scholar reads excerpts from a book that inspires devout Muslims to pursue practices catering to their religious needs.",
       "startDate": "2026-10-14T14:00:00",
       "endDate": "2026-10-14T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10361427accab940b4e9fbf747dbec2d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b45b74e68fb69f62e11ba34cbcfd4d99.jpg"
     },
     {
       "serverDate": "2026-10-14",
-      "showName": "Aurat Islam Ke Saye Mein",
-      "description": "A religious leader illuminates the role of Islam in the advancement of women, citing relevant religious instances and enlightening the audience.",
+      "showName": "Aao Quran Samjhein",
+      "description": "Aao Quran Samjhein",
       "startDate": "2026-10-14T14:30:00",
       "endDate": "2026-10-14T15:00:00",
       "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c88aedc2ad62b43116f8cbf6aba4adbe.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-14",
-      "showName": "Guftagu",
-      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
+      "showName": "Haq Ki Pukar",
+      "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
       "startDate": "2026-10-14T15:00:00",
       "endDate": "2026-10-14T15:30:00",
       "showTime": "15:00:00",
       "endTime": "15:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
     },
     {
       "serverDate": "2026-10-14",
-      "showName": "Akhlaqiyaat",
-      "description": "A religious leader elaborates on the teachings of Almighty and encourages followers to take the path of spirituality and devotion.",
+      "showName": "Gunah Aur Uski Sazaein",
+      "description": "A religious leader elaborates on the teachings of the Quran on the topic of sins and their punishments and encourages followers to follow the path of spirituality.",
       "startDate": "2026-10-14T15:30:00",
       "endDate": "2026-10-14T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2320d891262ab86775cbb5659a4c5c77.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ce479a9136315a8de7d99c5a45c87ba.jpg"
     },
     {
       "serverDate": "2026-10-14",
@@ -3540,14 +1956,14 @@
     },
     {
       "serverDate": "2026-10-14",
-      "showName": "Sham Ke Azkar",
-      "description": "An Islamic religious leader explains the importance of evening prayers to seek the protection of the Almighty and express gratitude for blessings.",
+      "showName": "Tajweed O Tilawat Quran Course",
+      "description": "A religious scholar gives an insightful lecture on the proper way to recite and read the Qur'an, which is an important act of worship in Islam.",
       "startDate": "2026-10-14T16:30:00",
       "endDate": "2026-10-14T17:00:00",
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/00dcc5ffb0cdc31a4f2c747419ac712b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f25014f0cb05748eb2c8ac539331bea.jpg"
     },
     {
       "serverDate": "2026-10-14",
@@ -3562,14 +1978,14 @@
     },
     {
       "serverDate": "2026-10-14",
-      "showName": "Tajweed O Tilawat Quran Course",
-      "description": "A religious scholar gives an insightful lecture on the proper way to recite and read the Qur'an, which is an important act of worship in Islam.",
+      "showName": "Sham Ke Azkar",
+      "description": "An Islamic religious leader explains the importance of evening prayers to seek the protection of the Almighty and express gratitude for blessings.",
       "startDate": "2026-10-14T17:30:00",
       "endDate": "2026-10-14T18:00:00",
       "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f25014f0cb05748eb2c8ac539331bea.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/00dcc5ffb0cdc31a4f2c747419ac712b.jpg"
     },
     {
       "serverDate": "2026-10-14",
@@ -3595,25 +2011,25 @@
     },
     {
       "serverDate": "2026-10-14",
-      "showName": "Akhirat Par Emaan",
-      "description": "A religious leader delivers a discourse on the teachings of the Almighty and encourages people to follow the path of righteousness.",
+      "showName": "Mustanad Fazail - E - Amaal",
+      "description": "An Islamic scholar reads excerpts from a book that inspires devout Muslims to pursue practices catering to their religious needs.",
       "startDate": "2026-10-14T19:00:00",
       "endDate": "2026-10-14T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10361427accab940b4e9fbf747dbec2d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b45b74e68fb69f62e11ba34cbcfd4d99.jpg"
     },
     {
       "serverDate": "2026-10-14",
-      "showName": "Aurat Islam Ke Saye Mein",
-      "description": "A religious leader illuminates the role of Islam in the advancement of women, citing relevant religious instances and enlightening the audience.",
+      "showName": "Aao Quran Samjhein",
+      "description": "Aao Quran Samjhein",
       "startDate": "2026-10-14T19:30:00",
       "endDate": "2026-10-14T20:00:00",
       "showTime": "19:30:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c88aedc2ad62b43116f8cbf6aba4adbe.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-14",
@@ -3628,14 +2044,14 @@
     },
     {
       "serverDate": "2026-10-14",
-      "showName": "Aulad Ki Tarbiyat",
-      "description": "An eminent expert offers valuable guidance and tips on how to nurture and raise children, aligning with Islamic principles.",
+      "showName": "25 Nabiyon Ke Waqiyat Quran Se",
+      "description": "A spiritual leader offers a religious discourse to apprise devotees of meaningful Islamic teachings from the Holy Quran.",
       "startDate": "2026-10-14T20:30:00",
       "endDate": "2026-10-14T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2068c8c79dd98ba6d3671a37cadba53b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f426fc1e0208ddce9558f044a5e1298.jpg"
     },
     {
       "serverDate": "2026-10-14",
@@ -3650,47 +2066,47 @@
     },
     {
       "serverDate": "2026-10-14",
-      "showName": "Islam Mei Khawateen Ke Huqooq Aur Zimmedariyan",
-      "description": "An Islamic religious leader explains the responsibilities of women through holy texts and urges followers to embrace the path of spirituality.",
+      "showName": "Guftagu",
+      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
       "startDate": "2026-10-14T21:30:00",
       "endDate": "2026-10-14T22:00:00",
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/30459c987b4916669efcede0829f33c0.jpg"
-    },
-    {
-      "serverDate": "2026-10-14",
-      "showName": "Guftagu",
-      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
-      "startDate": "2026-10-14T22:00:00",
-      "endDate": "2026-10-14T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
-    },
-    {
-      "serverDate": "2026-10-14",
-      "showName": "Akhlaqiyaat",
-      "description": "A religious leader elaborates on the teachings of Almighty and encourages followers to take the path of spirituality and devotion.",
-      "startDate": "2026-10-14T22:30:00",
-      "endDate": "2026-10-14T23:00:00",
-      "showTime": "22:30:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2320d891262ab86775cbb5659a4c5c77.jpg"
     },
     {
       "serverDate": "2026-10-14",
       "showName": "Haq Ki Pukar",
       "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
+      "startDate": "2026-10-14T22:00:00",
+      "endDate": "2026-10-14T22:30:00",
+      "showTime": "22:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
+    },
+    {
+      "serverDate": "2026-10-14",
+      "showName": "Gunah Aur Uski Sazaein",
+      "description": "A religious leader elaborates on the teachings of the Quran on the topic of sins and their punishments and encourages followers to follow the path of spirituality.",
+      "startDate": "2026-10-14T22:30:00",
+      "endDate": "2026-10-14T23:00:00",
+      "showTime": "22:30:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ce479a9136315a8de7d99c5a45c87ba.jpg"
+    },
+    {
+      "serverDate": "2026-10-14",
+      "showName": "Jannati Auraton Ki Pehchaan",
+      "description": "An Islamic scholar delivers a spiritual discourse to describe the features of women who are destined to enter heaven and further encourages the believing women to lead a pious life.",
       "startDate": "2026-10-14T23:00:00",
       "endDate": "2026-10-14T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c53199bb536c6edc0b6871582bdabe7f.jpg"
     },
     {
       "serverDate": "2026-10-14",
@@ -3738,25 +2154,25 @@
     },
     {
       "serverDate": "2026-10-15",
-      "showName": "Aulad Ki Tarbiyat",
-      "description": "An eminent expert offers valuable guidance and tips on how to nurture and raise children, aligning with Islamic principles.",
+      "showName": "25 Nabiyon Ke Waqiyat Quran Se",
+      "description": "A spiritual leader offers a religious discourse to apprise devotees of meaningful Islamic teachings from the Holy Quran.",
       "startDate": "2026-10-15T01:30:00",
       "endDate": "2026-10-15T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2068c8c79dd98ba6d3671a37cadba53b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f426fc1e0208ddce9558f044a5e1298.jpg"
     },
     {
       "serverDate": "2026-10-15",
-      "showName": "Islam Mei Khawateen Ke Huqooq Aur Zimmedariyan",
-      "description": "An Islamic religious leader explains the responsibilities of women through holy texts and urges followers to embrace the path of spirituality.",
+      "showName": "Guftagu",
+      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
       "startDate": "2026-10-15T02:00:00",
       "endDate": "2026-10-15T02:30:00",
       "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/30459c987b4916669efcede0829f33c0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
     },
     {
       "serverDate": "2026-10-15",
@@ -3771,25 +2187,25 @@
     },
     {
       "serverDate": "2026-10-15",
-      "showName": "Guftagu",
-      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
+      "showName": "Haq Ki Pukar",
+      "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
       "startDate": "2026-10-15T03:00:00",
       "endDate": "2026-10-15T03:30:00",
       "showTime": "03:00:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
     },
     {
       "serverDate": "2026-10-15",
-      "showName": "Akhlaqiyaat",
-      "description": "A religious leader elaborates on the teachings of Almighty and encourages followers to take the path of spirituality and devotion.",
+      "showName": "Gunah Aur Uski Sazaein",
+      "description": "A religious leader elaborates on the teachings of the Quran on the topic of sins and their punishments and encourages followers to follow the path of spirituality.",
       "startDate": "2026-10-15T03:30:00",
       "endDate": "2026-10-15T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2320d891262ab86775cbb5659a4c5c77.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ce479a9136315a8de7d99c5a45c87ba.jpg"
     },
     {
       "serverDate": "2026-10-15",
@@ -3826,14 +2242,14 @@
     },
     {
       "serverDate": "2026-10-15",
-      "showName": "Haq Ki Pukar",
-      "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
+      "showName": "Jannati Auraton Ki Pehchaan",
+      "description": "An Islamic scholar delivers a spiritual discourse to describe the features of women who are destined to enter heaven and further encourages the believing women to lead a pious life.",
       "startDate": "2026-10-15T05:30:00",
       "endDate": "2026-10-15T06:00:00",
       "showTime": "05:30:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c53199bb536c6edc0b6871582bdabe7f.jpg"
     },
     {
       "serverDate": "2026-10-15",
@@ -3848,36 +2264,36 @@
     },
     {
       "serverDate": "2026-10-15",
-      "showName": "Subah Ki Azkar",
-      "description": "A religious leader elaborates on the teachings of the Almighty and encourages followers to follow the path of spirituality.",
+      "showName": "Tarjama E Quran",
+      "description": "A religious scholar reads the Holy Quran, the central religious text of Islam, and explains its verses and lessons in detail.",
       "startDate": "2026-10-15T06:30:00",
       "endDate": "2026-10-15T07:00:00",
       "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/96e7eebb70e61e07c241782f21a5b0af.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ed72120b0e2b9c9727a691e00b8a70f.jpg"
     },
     {
       "serverDate": "2026-10-15",
-      "showName": "Akhirat Par Emaan",
-      "description": "A religious leader delivers a discourse on the teachings of the Almighty and encourages people to follow the path of righteousness.",
+      "showName": "Mustanad Fazail - E - Amaal",
+      "description": "An Islamic scholar reads excerpts from a book that inspires devout Muslims to pursue practices catering to their religious needs.",
       "startDate": "2026-10-15T07:00:00",
       "endDate": "2026-10-15T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10361427accab940b4e9fbf747dbec2d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b45b74e68fb69f62e11ba34cbcfd4d99.jpg"
     },
     {
       "serverDate": "2026-10-15",
-      "showName": "Aurat Islam Ke Saye Mein",
-      "description": "A religious leader illuminates the role of Islam in the advancement of women, citing relevant religious instances and enlightening the audience.",
+      "showName": "Aao Quran Samjhein",
+      "description": "Aao Quran Samjhein",
       "startDate": "2026-10-15T07:30:00",
       "endDate": "2026-10-15T08:00:00",
       "showTime": "07:30:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c88aedc2ad62b43116f8cbf6aba4adbe.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-15",
@@ -3903,25 +2319,25 @@
     },
     {
       "serverDate": "2026-10-15",
-      "showName": "Subah Ki Azkar",
-      "description": "A religious leader elaborates on the teachings of the Almighty and encourages followers to follow the path of spirituality.",
+      "showName": "Ashaab E Rasool",
+      "description": "A religious scholar sheds light on the companions of Prophet Muhammad (PBUH), highlighting their lives, struggles and teachings to inspire believers.",
       "startDate": "2026-10-15T09:00:00",
       "endDate": "2026-10-15T09:30:00",
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/96e7eebb70e61e07c241782f21a5b0af.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-15",
-      "showName": "Aulad Ki Tarbiyat",
-      "description": "An eminent expert offers valuable guidance and tips on how to nurture and raise children, aligning with Islamic principles.",
+      "showName": "25 Nabiyon Ke Waqiyat Quran Se",
+      "description": "A spiritual leader offers a religious discourse to apprise devotees of meaningful Islamic teachings from the Holy Quran.",
       "startDate": "2026-10-15T09:30:00",
       "endDate": "2026-10-15T10:00:00",
       "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2068c8c79dd98ba6d3671a37cadba53b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f426fc1e0208ddce9558f044a5e1298.jpg"
     },
     {
       "serverDate": "2026-10-15",
@@ -3936,14 +2352,14 @@
     },
     {
       "serverDate": "2026-10-15",
-      "showName": "Haq Ki Pukar",
-      "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
+      "showName": "Jannati Auraton Ki Pehchaan",
+      "description": "An Islamic scholar delivers a spiritual discourse to describe the features of women who are destined to enter heaven and further encourages the believing women to lead a pious life.",
       "startDate": "2026-10-15T10:30:00",
       "endDate": "2026-10-15T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c53199bb536c6edc0b6871582bdabe7f.jpg"
     },
     {
       "serverDate": "2026-10-15",
@@ -3969,14 +2385,14 @@
     },
     {
       "serverDate": "2026-10-15",
-      "showName": "Hikmat Ki Kirnein",
-      "description": "A religious leader recites passages from the Holy Quran and explains the meaning to the devotees, urging them to follow the path of the Almighty.",
+      "showName": "Tarjama E Quran",
+      "description": "A religious scholar reads the Holy Quran, the central religious text of Islam, and explains its verses and lessons in detail.",
       "startDate": "2026-10-15T12:00:00",
       "endDate": "2026-10-15T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eba1379440f93661a061cff84a16d16b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ed72120b0e2b9c9727a691e00b8a70f.jpg"
     },
     {
       "serverDate": "2026-10-15",
@@ -3991,14 +2407,14 @@
     },
     {
       "serverDate": "2026-10-15",
-      "showName": "Islam Mei Khawateen Ke Huqooq Aur Zimmedariyan",
-      "description": "An Islamic religious leader explains the responsibilities of women through holy texts and urges followers to embrace the path of spirituality.",
+      "showName": "Guftagu",
+      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
       "startDate": "2026-10-15T13:00:00",
       "endDate": "2026-10-15T13:30:00",
       "showTime": "13:00:00",
       "endTime": "13:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/30459c987b4916669efcede0829f33c0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
     },
     {
       "serverDate": "2026-10-15",
@@ -4013,47 +2429,47 @@
     },
     {
       "serverDate": "2026-10-15",
-      "showName": "Akhirat Par Emaan",
-      "description": "A religious leader delivers a discourse on the teachings of the Almighty and encourages people to follow the path of righteousness.",
+      "showName": "Mustanad Fazail - E - Amaal",
+      "description": "An Islamic scholar reads excerpts from a book that inspires devout Muslims to pursue practices catering to their religious needs.",
       "startDate": "2026-10-15T14:00:00",
       "endDate": "2026-10-15T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10361427accab940b4e9fbf747dbec2d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b45b74e68fb69f62e11ba34cbcfd4d99.jpg"
     },
     {
       "serverDate": "2026-10-15",
-      "showName": "Aurat Islam Ke Saye Mein",
-      "description": "A religious leader illuminates the role of Islam in the advancement of women, citing relevant religious instances and enlightening the audience.",
+      "showName": "Aao Quran Samjhein",
+      "description": "Aao Quran Samjhein",
       "startDate": "2026-10-15T14:30:00",
       "endDate": "2026-10-15T15:00:00",
       "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c88aedc2ad62b43116f8cbf6aba4adbe.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-15",
-      "showName": "Guftagu",
-      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
+      "showName": "Haq Ki Pukar",
+      "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
       "startDate": "2026-10-15T15:00:00",
       "endDate": "2026-10-15T15:30:00",
       "showTime": "15:00:00",
       "endTime": "15:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
     },
     {
       "serverDate": "2026-10-15",
-      "showName": "Akhlaqiyaat",
-      "description": "A religious leader elaborates on the teachings of Almighty and encourages followers to take the path of spirituality and devotion.",
+      "showName": "Gunah Aur Uski Sazaein",
+      "description": "A religious leader elaborates on the teachings of the Quran on the topic of sins and their punishments and encourages followers to follow the path of spirituality.",
       "startDate": "2026-10-15T15:30:00",
       "endDate": "2026-10-15T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2320d891262ab86775cbb5659a4c5c77.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ce479a9136315a8de7d99c5a45c87ba.jpg"
     },
     {
       "serverDate": "2026-10-15",
@@ -4068,14 +2484,14 @@
     },
     {
       "serverDate": "2026-10-15",
-      "showName": "Sham Ke Azkar",
-      "description": "An Islamic religious leader explains the importance of evening prayers to seek the protection of the Almighty and express gratitude for blessings.",
+      "showName": "Tarjama E Quran",
+      "description": "A religious scholar reads the Holy Quran, the central religious text of Islam, and explains its verses and lessons in detail.",
       "startDate": "2026-10-15T16:30:00",
       "endDate": "2026-10-15T17:00:00",
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/00dcc5ffb0cdc31a4f2c747419ac712b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ed72120b0e2b9c9727a691e00b8a70f.jpg"
     },
     {
       "serverDate": "2026-10-15",
@@ -4090,14 +2506,14 @@
     },
     {
       "serverDate": "2026-10-15",
-      "showName": "Tajweed O Tilawat Quran Course",
-      "description": "A religious scholar gives an insightful lecture on the proper way to recite and read the Qur'an, which is an important act of worship in Islam.",
+      "showName": "Sham Ke Azkar",
+      "description": "An Islamic religious leader explains the importance of evening prayers to seek the protection of the Almighty and express gratitude for blessings.",
       "startDate": "2026-10-15T17:30:00",
       "endDate": "2026-10-15T18:00:00",
       "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f25014f0cb05748eb2c8ac539331bea.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/00dcc5ffb0cdc31a4f2c747419ac712b.jpg"
     },
     {
       "serverDate": "2026-10-15",
@@ -4123,25 +2539,25 @@
     },
     {
       "serverDate": "2026-10-15",
-      "showName": "Akhirat Par Emaan",
-      "description": "A religious leader delivers a discourse on the teachings of the Almighty and encourages people to follow the path of righteousness.",
+      "showName": "Mustanad Fazail - E - Amaal",
+      "description": "An Islamic scholar reads excerpts from a book that inspires devout Muslims to pursue practices catering to their religious needs.",
       "startDate": "2026-10-15T19:00:00",
       "endDate": "2026-10-15T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10361427accab940b4e9fbf747dbec2d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b45b74e68fb69f62e11ba34cbcfd4d99.jpg"
     },
     {
       "serverDate": "2026-10-15",
-      "showName": "Aurat Islam Ke Saye Mein",
-      "description": "A religious leader illuminates the role of Islam in the advancement of women, citing relevant religious instances and enlightening the audience.",
+      "showName": "Aao Quran Samjhein",
+      "description": "Aao Quran Samjhein",
       "startDate": "2026-10-15T19:30:00",
       "endDate": "2026-10-15T20:00:00",
       "showTime": "19:30:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c88aedc2ad62b43116f8cbf6aba4adbe.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-15",
@@ -4156,14 +2572,14 @@
     },
     {
       "serverDate": "2026-10-15",
-      "showName": "Aulad Ki Tarbiyat",
-      "description": "An eminent expert offers valuable guidance and tips on how to nurture and raise children, aligning with Islamic principles.",
+      "showName": "25 Nabiyon Ke Waqiyat Quran Se",
+      "description": "A spiritual leader offers a religious discourse to apprise devotees of meaningful Islamic teachings from the Holy Quran.",
       "startDate": "2026-10-15T20:30:00",
       "endDate": "2026-10-15T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2068c8c79dd98ba6d3671a37cadba53b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f426fc1e0208ddce9558f044a5e1298.jpg"
     },
     {
       "serverDate": "2026-10-15",
@@ -4178,47 +2594,47 @@
     },
     {
       "serverDate": "2026-10-15",
-      "showName": "Islam Mei Khawateen Ke Huqooq Aur Zimmedariyan",
-      "description": "An Islamic religious leader explains the responsibilities of women through holy texts and urges followers to embrace the path of spirituality.",
+      "showName": "Guftagu",
+      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
       "startDate": "2026-10-15T21:30:00",
       "endDate": "2026-10-15T22:00:00",
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/30459c987b4916669efcede0829f33c0.jpg"
-    },
-    {
-      "serverDate": "2026-10-15",
-      "showName": "Guftagu",
-      "description": "Religious leaders shed light on the Almighty's message to humanity and further strengthen the faith of his followers in him and his divine plans.",
-      "startDate": "2026-10-15T22:00:00",
-      "endDate": "2026-10-15T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ddbcff7ea09cd2af719ed7b66145658.jpg"
-    },
-    {
-      "serverDate": "2026-10-15",
-      "showName": "Akhlaqiyaat",
-      "description": "A religious leader elaborates on the teachings of Almighty and encourages followers to take the path of spirituality and devotion.",
-      "startDate": "2026-10-15T22:30:00",
-      "endDate": "2026-10-15T23:00:00",
-      "showTime": "22:30:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2320d891262ab86775cbb5659a4c5c77.jpg"
     },
     {
       "serverDate": "2026-10-15",
       "showName": "Haq Ki Pukar",
       "description": "A spiritual leader offers a religious discourse on important Islamic tenets from the Holy Quran to apprise devotees of divine teachings.",
+      "startDate": "2026-10-15T22:00:00",
+      "endDate": "2026-10-15T22:30:00",
+      "showTime": "22:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "Gunah Aur Uski Sazaein",
+      "description": "A religious leader elaborates on the teachings of the Quran on the topic of sins and their punishments and encourages followers to follow the path of spirituality.",
+      "startDate": "2026-10-15T22:30:00",
+      "endDate": "2026-10-15T23:00:00",
+      "showTime": "22:30:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ce479a9136315a8de7d99c5a45c87ba.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "Jannati Auraton Ki Pehchaan",
+      "description": "An Islamic scholar delivers a spiritual discourse to describe the features of women who are destined to enter heaven and further encourages the believing women to lead a pious life.",
       "startDate": "2026-10-15T23:00:00",
       "endDate": "2026-10-15T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b341fddabbcdb960b52a02b9e639c23.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c53199bb536c6edc0b6871582bdabe7f.jpg"
     },
     {
       "serverDate": "2026-10-15",
