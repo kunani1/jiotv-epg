@@ -680,69 +680,80 @@
     },
     {
       "serverDate": "2026-10-17",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Super Hit Songs",
+      "description": "A comprehensive compilation of the greatest super hit songs is played back to back in order to entertain and enthrall the audience.",
       "startDate": "2026-10-17T06:00:00",
-      "endDate": "2026-10-17T09:00:00",
+      "endDate": "2026-10-17T06:30:00",
       "showTime": "06:00:00",
-      "endTime": "09:00:00",
+      "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/949b34978adfe429474560a8fa713c6a.jpg"
     },
     {
       "serverDate": "2026-10-17",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Run Run Run",
+      "description": "An unemployed computer engineer finds himself indebted to a ruthless money lender. However, things take a turn when he is robbed on his way to pay off his debts.",
+      "startDate": "2026-10-17T06:30:00",
+      "endDate": "2026-10-17T09:00:00",
+      "showTime": "06:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bc3f94371d3ded578ebbff97023f64d0.jpg"
+    },
+    {
+      "serverDate": "2026-10-17",
+      "showName": "Seetharamam",
+      "description": "Afreen, a Pakistani woman, heads to India in order to deliver a love letter written in 1965 to fulfill her grandfather's dying wish. However, the journey alters her life forever.",
       "startDate": "2026-10-17T09:00:00",
       "endDate": "2026-10-17T12:00:00",
       "showTime": "09:00:00",
       "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/83bf93e73d35b66eb8ef2145405ed123.jpg"
     },
     {
       "serverDate": "2026-10-17",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Anbarivu",
+      "description": "Twins, Anbu and Arivu, are separated at birth. Later, when their paths cross, the siblings are forced to switch families, as they strive to reunite their loved ones.",
       "startDate": "2026-10-17T12:00:00",
       "endDate": "2026-10-17T15:00:00",
       "showTime": "12:00:00",
       "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8f67e413d6de744b14b1a67d4a1f727.jpg"
     },
     {
       "serverDate": "2026-10-17",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "M.S. Dhoni: The Untold Story",
+      "description": "M S Dhoni, a boy from Ranchi, aspires to play cricket for India. Though he initially tries to please his father by working for the Indian Railways, he ultimately decides to chase his dreams.",
       "startDate": "2026-10-17T15:00:00",
       "endDate": "2026-10-17T18:00:00",
       "showTime": "15:00:00",
       "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/264644de4a6d679fddf30c18b198fefa.jpg"
     },
     {
       "serverDate": "2026-10-17",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Kullanari Koottam",
+      "description": "Vetri, an unemployed young man, meets Priya and falls in love with her, but faces challenges when her father wants him to join the police force.",
       "startDate": "2026-10-17T18:00:00",
       "endDate": "2026-10-17T21:00:00",
       "showTime": "18:00:00",
       "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/417d39f8838e6d5a6ac73499759fd573.jpg"
     },
     {
       "serverDate": "2026-10-17",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Theeran Adhigaaram Ondru",
+      "description": "Theeran, a dedicated police officer, pays the price for his honesty and faces hardships when he tries to investigate the illegal activities conducted by a powerful gangster.",
       "startDate": "2026-10-17T21:00:00",
       "endDate": "2026-10-17T23:59:59",
       "showTime": "21:00:00",
       "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10e1db7f8dfe65b40c80a38bb08f3bf2.jpg"
     }
   ]
 }
