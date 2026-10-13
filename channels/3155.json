@@ -2055,12 +2055,23 @@
     },
     {
       "serverDate": "2026-10-19",
+      "showName": "Bloomberg TV+",
+      "description": "Bloomberg TV+",
+      "startDate": "2026-10-19T05:30:00",
+      "endDate": "2026-10-19T06:30:00",
+      "showTime": "05:30:00",
+      "endTime": "06:30:00",
+      "showCategory": "Business News",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8ba38c1c811ef565cdc94dec12a4e20.jpg"
+    },
+    {
+      "serverDate": "2026-10-19",
       "showName": "Bloomberg: The China Show",
       "description": "The host conducts insightful discussions with prominent personalities to seek information on matters concerning the economy and market of China.",
-      "startDate": "2026-10-19T05:30:00",
-      "endDate": "2026-10-19T07:30:00",
-      "showTime": "05:30:00",
-      "endTime": "07:30:00",
+      "startDate": "2026-10-19T06:30:00",
+      "endDate": "2026-10-19T08:30:00",
+      "showTime": "06:30:00",
+      "endTime": "08:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29ab6501eeefa9acced0f1ac71a920cc.jpg"
     },
@@ -2068,23 +2079,12 @@
       "serverDate": "2026-10-19",
       "showName": "Insight With Haslinda Amin",
       "description": "The presenter, Haslinda Amin, helps the viewers gain the complete picture on the biggest stories, through probing interviews and nuanced conversations.",
-      "startDate": "2026-10-19T07:30:00",
-      "endDate": "2026-10-19T08:30:00",
-      "showTime": "07:30:00",
-      "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7224ad113050acb6f098755b4ca16cba.jpg"
-    },
-    {
-      "serverDate": "2026-10-19",
-      "showName": "Bloomberg Horizons Middle East & Africa",
-      "description": "The host provides an insight into the markets of the Middle East and Africa through top business news stories, analysis and interviews.",
       "startDate": "2026-10-19T08:30:00",
       "endDate": "2026-10-19T09:30:00",
       "showTime": "08:30:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c0927d2577ac2343f543d6bd8b2560d5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7224ad113050acb6f098755b4ca16cba.jpg"
     },
     {
       "serverDate": "2026-10-19",
@@ -2165,69 +2165,47 @@
     },
     {
       "serverDate": "2026-10-19",
-      "showName": "Bloomberg Technology",
-      "description": "The host presents the latest news and updates from the field of technology and also speaks to top tech executives, investors and entrepreneurs about the current and future developments in the field.",
+      "showName": "Bloomberg Tech",
+      "description": "The host discusses the latest and most relevant social and economic issues in the USA with experts and analyses the government measures to deal with them.",
       "startDate": "2026-10-19T20:30:00",
       "endDate": "2026-10-19T21:30:00",
       "showTime": "20:30:00",
       "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a26f46d9d1767f9fb9195c1f5220a68.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f9318da9110884e315f23f4372bd8065.jpg"
     },
     {
       "serverDate": "2026-10-19",
       "showName": "Bloomberg ETF IQ",
       "description": "The host presents some of the pros and cons of the exchange-traded funds along with the possible opportunities and details of the current events.",
       "startDate": "2026-10-19T21:30:00",
-      "endDate": "2026-10-19T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cfa215f692e1262639e82cad03af57c8.jpg"
-    },
-    {
-      "serverDate": "2026-10-19",
-      "showName": "Bloomberg Markets",
-      "description": "The host presents detailed information on business, insights about stock market trends and updates of global news from worldwide.",
-      "startDate": "2026-10-19T22:00:00",
       "endDate": "2026-10-19T22:30:00",
-      "showTime": "22:00:00",
+      "showTime": "21:30:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8d290336b77e8ecafeb73ba1b1d3acd4.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cfa215f692e1262639e82cad03af57c8.jpg"
     },
     {
       "serverDate": "2026-10-19",
       "showName": "Bloomberg: Balance of Power",
       "description": "The host converses with industry experts about the impact of political decisions on businesses worldwide and shares valuable insights.",
       "startDate": "2026-10-19T22:30:00",
-      "endDate": "2026-10-19T23:00:00",
-      "showTime": "22:30:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6c730cda84788b1cbdb80cc0d25baecd.jpg"
-    },
-    {
-      "serverDate": "2026-10-19",
-      "showName": "Bloomberg: Balance of Power",
-      "description": "The host converses with industry experts about the impact of political decisions on businesses worldwide and shares valuable insights.",
-      "startDate": "2026-10-19T23:00:00",
       "endDate": "2026-10-19T23:30:00",
-      "showTime": "23:00:00",
+      "showTime": "22:30:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6c730cda84788b1cbdb80cc0d25baecd.jpg"
     },
     {
       "serverDate": "2026-10-19",
-      "showName": "Bloomberg Businessweek",
-      "description": "The host sheds light on the latest news stories, updates and developments from the world of business pertaining to different industries.",
+      "showName": "Bloomberg Businessweek Daily",
+      "description": "Journalists report the most significant news and updates of the day pertaining to international economics, finance and corporate events.",
       "startDate": "2026-10-19T23:30:00",
       "endDate": "2026-10-19T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/930285bddc6b5ac82d378767de4692c3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5e14cf23e34f6916bd011031be61c5c3.jpg"
     }
   ]
 }
