@@ -8,6 +8,127 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/smrbol.png",
   "programs": [
     {
+      "serverDate": "2026-10-12",
+      "showName": "Namak Halaal",
+      "description": "Arjun, a youngster, works at a hotel owned by Raja and serves him faithfully. However, when he learns about a plot to kill Raja, he decides to save him from harm at any cost.",
+      "startDate": "2026-10-12T00:00:00",
+      "endDate": "2026-10-12T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1d3eb7f403211bbdc18c91ca54a2d706.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Kaalia",
+      "description": "Kallu's life changes after his brother, Shamu, meets with an accident and requires money for his treatment. As a result, he is forced to rob Shamu's employer but gets arrested instead.",
+      "startDate": "2026-10-12T01:00:00",
+      "endDate": "2026-10-12T03:30:00",
+      "showTime": "01:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8fe80868c36a58144b3da2d0ca54b180.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Amar Akbar Anthony",
+      "description": "Three brothers, each raised in different religious households, reunite after many years in a chance encounter. They set out to take revenge on those responsible for separating them.",
+      "startDate": "2026-10-12T03:30:00",
+      "endDate": "2026-10-12T05:00:00",
+      "showTime": "03:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/142eee9132d838662c261d2f8c4e9b7e.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Mother",
+      "description": "Asha is impregnated by one of the three men she has an affair with. She moves to Mauritius with her daughter to start a new life, but her past soon comes back to haunt her.",
+      "startDate": "2026-10-12T05:00:00",
+      "endDate": "2026-10-12T07:30:00",
+      "showTime": "05:00:00",
+      "endTime": "07:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a419c94852c86c7b0ea1ad2c97dd36d9.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Mera Faisla",
+      "description": "Raj wishes to marry Rati but faces humiliation from her father due to the stigma associated with his lineage. Soon, he decides to join the police force to restore his family's honour.",
+      "startDate": "2026-10-12T07:30:00",
+      "endDate": "2026-10-12T10:00:00",
+      "showTime": "07:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/48e556b4093a9c181e957a383ab2bc20.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Phamous",
+      "description": "Radhe looks up to Kadak Singh, a local politician, but holds a grudge against his partner, Ram Tripathi. However, things reach a boiling point when Tripathi sets his sights on Radhe's wife, Lalli.",
+      "startDate": "2026-10-12T10:00:00",
+      "endDate": "2026-10-12T12:30:00",
+      "showTime": "10:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8ecc1f1c4de7bb0f676c3f6ca5d5d00.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Ab Kya Hoga",
+      "description": "A young man stumbles upon a mysterious woman, who he suspects of being a ghost. However, his worst fears come true when his mother arranges his marriage with the same woman.",
+      "startDate": "2026-10-12T12:30:00",
+      "endDate": "2026-10-12T15:00:00",
+      "showTime": "12:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7de63c95ebca4ed121f20a36e05729e4.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Bumper Draw",
+      "description": "Sunderlal and Farooq befriend each other in odd circumstances, but when they meet wealthy Pestonji, they hatch a cunning plan to use him to escape their money troubles.",
+      "startDate": "2026-10-12T15:00:00",
+      "endDate": "2026-10-12T17:30:00",
+      "showTime": "15:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4e295613272aef3203b7451184d9da1.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "International Crook",
+      "description": "Rajesh, the superintendent of the police, is happy to meet his old friend, Shekar, in Goa, unaware that he is a smuggler, who is involved in a spree of illegal activities.",
+      "startDate": "2026-10-12T17:30:00",
+      "endDate": "2026-10-12T20:00:00",
+      "showTime": "17:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/573dc98020c7869a97616d53636cbbad.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Balwinder Singh... Famous Ho Gaya",
+      "description": "Two struggling actors from Punjab who have the same name, Balwinder Singh, come to Mumbai and fall in love with the same woman.",
+      "startDate": "2026-10-12T20:00:00",
+      "endDate": "2026-10-12T22:30:00",
+      "showTime": "20:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/baf559277bf14e44bfc57ed49c311a16.jpg"
+    },
+    {
+      "serverDate": "2026-10-12",
+      "showName": "Road to Sangam",
+      "description": "A devout Muslim Indian man is tasked with repairing a lorry in order to transport the ashes of Mahatma Gandhi. However, when communal violence strikes, he is left with a troubling dilemma.",
+      "startDate": "2026-10-12T22:30:00",
+      "endDate": "2026-10-12T23:59:59",
+      "showTime": "22:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f9170121e34db7a704050dc794e379f0.jpg"
+    },
+    {
       "serverDate": "2026-10-13",
       "showName": "Road to Sangam",
       "description": "A devout Muslim Indian man is tasked with repairing a lorry in order to transport the ashes of Mahatma Gandhi. However, when communal violence strikes, he is left with a troubling dilemma.",
@@ -721,6 +842,127 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f5d1126686b84d050e803bfd6ae86be.jpg"
+    },
+    {
+      "serverDate": "2026-10-19",
+      "showName": "3 Deewarein",
+      "description": "While filming a documentary in a prison, Chandrika comes across three unique stories and, somewhere in between, finds what her heart has been seeking.",
+      "startDate": "2026-10-19T00:00:00",
+      "endDate": "2026-10-19T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f5d1126686b84d050e803bfd6ae86be.jpg"
+    },
+    {
+      "serverDate": "2026-10-19",
+      "showName": "Anita",
+      "description": "When Anita commits suicide, Neeraj suspects foul play and decides to investigate the truth. However, things take a turn when he starts seeing Anita everywhere.",
+      "startDate": "2026-10-19T01:00:00",
+      "endDate": "2026-10-19T03:30:00",
+      "showTime": "01:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/895c60cd16bcab0033c6f705272db598.jpg"
+    },
+    {
+      "serverDate": "2026-10-19",
+      "showName": "Pathar Ke Insan",
+      "description": "Talented sisters, Sita and Lata, are renowned performing artists. However, the rivalry between them leads to a competition with far-reaching consequences.",
+      "startDate": "2026-10-19T03:30:00",
+      "endDate": "2026-10-19T05:00:00",
+      "showTime": "03:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f71f094a5c574cb065bf8b8793413f8d.jpg"
+    },
+    {
+      "serverDate": "2026-10-19",
+      "showName": "Ram Avtar",
+      "description": "Childhood friends Ram and Avtar face a love triangle when Ram falls for Sangeeta, whom Avtar also loves. Ram sacrifices his love for Avtar, but their enemy Gundappaswami threatens to expose the truth.",
+      "startDate": "2026-10-19T05:00:00",
+      "endDate": "2026-10-19T07:30:00",
+      "showTime": "05:00:00",
+      "endTime": "07:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d57ae89db5b38912fcbe4d3564a407ac.jpg"
+    },
+    {
+      "serverDate": "2026-10-19",
+      "showName": "Sanam Bewafa",
+      "description": "Salman and Rukhsar's love brings two warring families face to face, only for tradition, dowry demands and heartbreak to test their fragile bond.",
+      "startDate": "2026-10-19T07:30:00",
+      "endDate": "2026-10-19T10:00:00",
+      "showTime": "07:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccf90c2a559b42b3e05ec5371cd262a7.jpg"
+    },
+    {
+      "serverDate": "2026-10-19",
+      "showName": "Tridev",
+      "description": "When an expelled police inspector, an outlaw and a commissioner's son are implicated by a dealer, they unite to seek revenge and prove they are not culprits.",
+      "startDate": "2026-10-19T10:00:00",
+      "endDate": "2026-10-19T12:30:00",
+      "showTime": "10:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8362a2f01df82ba5bb831a4f3909243a.jpg"
+    },
+    {
+      "serverDate": "2026-10-19",
+      "showName": "50 Lakh",
+      "description": "Four unemployed youth make a plan to kidnap a gangster, Irfan Khan, in an attempt to win the ransom money. However, the powerful don has other plans.",
+      "startDate": "2026-10-19T12:30:00",
+      "endDate": "2026-10-19T15:00:00",
+      "showTime": "12:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/38c046694e616628fe83bbe0d06273e3.jpg"
+    },
+    {
+      "serverDate": "2026-10-19",
+      "showName": "Aakhri Badla",
+      "description": "With the Interpol on their trail, a group of international smugglers lose the shipments with all their treasures in a cyclone. A team is sent to salvage the sunken ship and scuttle the gang's plan.",
+      "startDate": "2026-10-19T15:00:00",
+      "endDate": "2026-10-19T17:30:00",
+      "showTime": "15:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/96fd2a6741f82bead9d26103436b6a53.jpg"
+    },
+    {
+      "serverDate": "2026-10-19",
+      "showName": "Dariya Dil",
+      "description": "Scolded by his family for being a miser, wealthy industrialist Dhaniram loves money. However, his two sons, Ajay and Vijay, are manipulated by their wives and despise their father, looking for ways to entrap him. Soon, he gets into a clash with a tax officer and the officer's siblings devise an evil plot to plunder the businessman's fortune.",
+      "startDate": "2026-10-19T17:30:00",
+      "endDate": "2026-10-19T20:00:00",
+      "showTime": "17:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28823adbe468ff44083ddb243821308f.jpg"
+    },
+    {
+      "serverDate": "2026-10-19",
+      "showName": "Jeet",
+      "description": "Karan, a gangster, falls in love with Kajal, but she marries Raju because of her father's poor health. Later, when Raju finds out about his father's illegal business, Karan is hired to kill him.",
+      "startDate": "2026-10-19T20:00:00",
+      "endDate": "2026-10-19T22:30:00",
+      "showTime": "20:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a12babff3b9211a2d8f6a12ca5516ef.jpg"
+    },
+    {
+      "serverDate": "2026-10-19",
+      "showName": "Champion",
+      "description": "Rajveer, a police officer, is tasked with protecting a nine-year-old heir, Abbas. However, the job gets complicated when Nazir, a dangerous criminal, seeks to harm the child.",
+      "startDate": "2026-10-19T22:30:00",
+      "endDate": "2026-10-19T23:59:59",
+      "showTime": "22:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/45430eecf78fb320d5bc7ef4a15a4cee.jpg"
     }
   ]
 }
