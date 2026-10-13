@@ -474,22 +474,11 @@
       "showName": "UFC Fight Night: Burns vs. Malott",
       "description": "From Canada Life Centre in Winnipeg, Manitoba.",
       "startDate": "2026-10-13T15:00:00",
-      "endDate": "2026-10-13T17:30:00",
+      "endDate": "2026-10-13T18:00:00",
       "showTime": "15:00:00",
-      "endTime": "17:30:00",
+      "endTime": "18:00:00",
       "showCategory": "Sports event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2afa48db7ea3eebd8904e558c5cf64c5.jpg"
-    },
-    {
-      "serverDate": "2026-10-13",
-      "showName": "2026 Asian Games Highlights",
-      "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-13T17:30:00",
-      "endDate": "2026-10-13T18:00:00",
-      "showTime": "17:30:00",
-      "endTime": "18:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
     },
     {
       "serverDate": "2026-10-13",
@@ -595,11 +584,22 @@
       "showName": "UEFA Champions League Soccer",
       "description": "Professional football clubs from around Europe compete against each other in the UEFA Champions League to win the prestigious trophy.",
       "startDate": "2026-10-14T00:30:00",
-      "endDate": "2026-10-14T03:00:00",
+      "endDate": "2026-10-14T02:30:00",
       "showTime": "00:30:00",
-      "endTime": "03:00:00",
+      "endTime": "02:30:00",
       "showCategory": "Sports event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2940dd82378146b5f93d70b88bd9de9.jpg"
+    },
+    {
+      "serverDate": "2026-10-14",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-10-14T02:30:00",
+      "endDate": "2026-10-14T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
     },
     {
       "serverDate": "2026-10-14",
@@ -848,11 +848,22 @@
       "showName": "UEFA Champions League Soccer",
       "description": "Professional football clubs from around Europe compete against each other in the UEFA Champions League to win the prestigious trophy.",
       "startDate": "2026-10-15T00:30:00",
-      "endDate": "2026-10-15T03:00:00",
+      "endDate": "2026-10-15T02:30:00",
       "showTime": "00:30:00",
-      "endTime": "03:00:00",
+      "endTime": "02:30:00",
       "showCategory": "Sports event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2940dd82378146b5f93d70b88bd9de9.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "Men's International Soccer Friendlies",
+      "description": "Highlights of an International Friendly soccer game where teams compete against each other in a series of exhibition games.",
+      "startDate": "2026-10-15T02:30:00",
+      "endDate": "2026-10-15T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f8928bb105c48523b0b6d86778a4f21.jpg"
     },
     {
       "serverDate": "2026-10-15",
@@ -1109,14 +1120,25 @@
     },
     {
       "serverDate": "2026-10-16",
-      "showName": "UEFA Conference League Soccer",
-      "description": "Professional football clubs from Europe compete against each other in the UEFA Conference League to emerge victorious and take home the title.",
+      "showName": "UEFA Europa League Soccer",
+      "description": "Coverage of matches from UEFA's secondary European tournament.",
       "startDate": "2026-10-16T00:30:00",
-      "endDate": "2026-10-16T03:00:00",
+      "endDate": "2026-10-16T02:30:00",
       "showTime": "00:30:00",
+      "endTime": "02:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f2a3d96ac7a6023ae54a76580304df9c.jpg"
+    },
+    {
+      "serverDate": "2026-10-16",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-10-16T02:30:00",
+      "endDate": "2026-10-16T03:00:00",
+      "showTime": "02:30:00",
       "endTime": "03:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/640639a0c643ef31e452649a4d2ef64a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
     },
     {
       "serverDate": "2026-10-16",
