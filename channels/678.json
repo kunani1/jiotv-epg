@@ -8,116 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Movies.png",
   "programs": [
     {
-      "serverDate": "2026-10-12",
-      "showName": "Baadada Hoo",
-      "description": "Hema, a poor girl forced to work for survival, faces unexpected challenges when she starts a job at a place owned by a man from her troubled past, leading to a clash of emotions and circumstances.",
-      "startDate": "2026-10-12T00:00:00",
-      "endDate": "2026-10-12T03:00:00",
-      "showTime": "00:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8c7ee01e5c23deb541ed312f410774c.jpg"
-    },
-    {
-      "serverDate": "2026-10-12",
-      "showName": "Bandhavya",
-      "description": "The lives of three brothers take a turn when circumstances drive them apart. While they go on with their lives, they still hope for their family to be reunited.",
-      "startDate": "2026-10-12T03:00:00",
-      "endDate": "2026-10-12T06:00:00",
-      "showTime": "03:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ef6a3cdae4e2b4ff6c75e449027169b.jpg"
-    },
-    {
-      "serverDate": "2026-10-12",
-      "showName": "Movie Filler",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-12T06:00:00",
-      "endDate": "2026-10-12T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
-    },
-    {
-      "serverDate": "2026-10-12",
-      "showName": "Movie Filler",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-12T06:30:00",
-      "endDate": "2026-10-12T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
-    },
-    {
-      "serverDate": "2026-10-12",
-      "showName": "Gruhalakshmi",
-      "description": "Movie starring Lakshmi, Malashree, Jayanthi, Sridhar, Srinath directed by B Subbarao.",
-      "startDate": "2026-10-12T07:00:00",
-      "endDate": "2026-10-12T10:00:00",
-      "showTime": "07:00:00",
-      "endTime": "10:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e93b67680f672b35efeeb269e14ffe96.jpg"
-    },
-    {
-      "serverDate": "2026-10-12",
-      "showName": "Hendthigehelthini",
-      "description": "Upon adopting a child, Jayaram sets off to surprise his wife with the good news. However, when a girl enters his life, calling herself his friend's daughter, Jayaram's life turns upside down.",
-      "startDate": "2026-10-12T10:00:00",
-      "endDate": "2026-10-12T13:00:00",
-      "showTime": "10:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bbb4b24ca98e96b84ebcbad553c389cc.jpg"
-    },
-    {
-      "serverDate": "2026-10-12",
-      "showName": "Gatti Mela",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-10-12T13:00:00",
-      "endDate": "2026-10-12T16:00:00",
-      "showTime": "13:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28495f0adb2e8c9351d1ee0db358377a.jpg"
-    },
-    {
-      "serverDate": "2026-10-12",
-      "showName": "Kaliyuga Bheema",
-      "description": "Rajashekhar, an orphan, learns that he is being used for illegal activities by his employer. He then fights against him to stop those illicit businesses.",
-      "startDate": "2026-10-12T16:00:00",
-      "endDate": "2026-10-12T19:00:00",
-      "showTime": "16:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e6d2cfff893acef781a3539593a5d233.jpg"
-    },
-    {
-      "serverDate": "2026-10-12",
-      "showName": "Mane Magalu",
-      "description": "The blissful life of a married couple is shattered when an unruly man's desire to marry the girl gets in the way and turns everything upside down.",
-      "startDate": "2026-10-12T19:00:00",
-      "endDate": "2026-10-12T22:00:00",
-      "showTime": "19:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3a5bb4ca18af4728772a39221ff4bb85.jpg"
-    },
-    {
-      "serverDate": "2026-10-12",
-      "showName": "Channappa Channegowda",
-      "description": "A man puts the lover of a woman he admires in prison under a false charge simply so that he can woo her without facing any competition.",
-      "startDate": "2026-10-12T22:00:00",
-      "endDate": "2026-10-12T23:59:59",
-      "showTime": "22:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d8bc3c1d505ab791b2a0d8d306b6c5e5.jpg"
-    },
-    {
       "serverDate": "2026-10-13",
       "showName": "Andada Aramane",
       "description": "Andada Aramane",
@@ -886,6 +776,116 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3718baa12989d7a951f761f6ff1cc606.jpg"
+    },
+    {
+      "serverDate": "2026-10-20",
+      "showName": "Mannina Magalu",
+      "description": "The happy, peaceful life of a family is disrupted when the children are forced to leave home in order to find work due to difficult circumstances.",
+      "startDate": "2026-10-20T00:00:00",
+      "endDate": "2026-10-20T03:00:00",
+      "showTime": "00:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5f930b9b22bb178d841236657e141b4d.jpg"
+    },
+    {
+      "serverDate": "2026-10-20",
+      "showName": "Pancharathna",
+      "description": "Bhaskara, a young mischievous boy, is thrown out of the house after his father, an arrogant scholar in the king's court, insults his guru. Bhaskara leaves, promising to return wiser than him.",
+      "startDate": "2026-10-20T03:00:00",
+      "endDate": "2026-10-20T06:00:00",
+      "showTime": "03:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/492f905c79b4747d29fdf69628cdcf1e.jpg"
+    },
+    {
+      "serverDate": "2026-10-20",
+      "showName": "Movie Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-20T06:00:00",
+      "endDate": "2026-10-20T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
+    },
+    {
+      "serverDate": "2026-10-20",
+      "showName": "Movie Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-20T06:30:00",
+      "endDate": "2026-10-20T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
+    },
+    {
+      "serverDate": "2026-10-20",
+      "showName": "Maneye Manthralaya",
+      "description": "Ramanna, with meagre income, educates his brothers Chetan and Chandru. Chandru supports the family after finding employment, but conflict erupts when he marries Meena, a wealthy woman.",
+      "startDate": "2026-10-20T07:00:00",
+      "endDate": "2026-10-20T10:00:00",
+      "showTime": "07:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aba1a91f180983d7bcd2eecc214215a9.jpg"
+    },
+    {
+      "serverDate": "2026-10-20",
+      "showName": "Thayi Nadu",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-10-20T10:00:00",
+      "endDate": "2026-10-20T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28cf0794f67257a1fc95348b9582a4c9.jpg"
+    },
+    {
+      "serverDate": "2026-10-20",
+      "showName": "Vijaya Dashami",
+      "description": "A wealthy man and a family that practices black magic locks horns with each other. Problems arise when his granddaughter gets possessed by an evil entity.",
+      "startDate": "2026-10-20T13:00:00",
+      "endDate": "2026-10-20T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/79f5076c8a28be24f44b5ba07eafe543.jpg"
+    },
+    {
+      "serverDate": "2026-10-20",
+      "showName": "Om",
+      "description": "After thwarting the enemy's plans to kill his father Harishchandra, Arjun learns a shocking truth that turns his life upside-down.",
+      "startDate": "2026-10-20T16:00:00",
+      "endDate": "2026-10-20T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/224ef81cf8519a4adcbe7694bf6b93e5.jpg"
+    },
+    {
+      "serverDate": "2026-10-20",
+      "showName": "Santhu Straight Forward",
+      "description": "Santhu, a down-to-earth man, falls in love with Ananya, a college student. When he finds out that she is engaged to Deva, his dreams are crushed.",
+      "startDate": "2026-10-20T19:00:00",
+      "endDate": "2026-10-20T22:00:00",
+      "showTime": "19:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f014771c4426cbc220bd39d9abbbd950.jpg"
+    },
+    {
+      "serverDate": "2026-10-20",
+      "showName": "Tiger Padmini",
+      "description": "An architect loses his sister due to a corrupt politician and his son. As a result, he soon sets out to expose their illegal activities as revenge.",
+      "startDate": "2026-10-20T22:00:00",
+      "endDate": "2026-10-20T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cc6c095e8a433e535de637cec823ec16.jpg"
     }
   ]
 }
