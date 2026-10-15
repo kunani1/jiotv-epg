@@ -8,6 +8,281 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Tamil.png",
   "programs": [
     {
+      "serverDate": "2026-10-15",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-10-15T00:00:00",
+      "endDate": "2026-10-15T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "UEFA Champions League Soccer",
+      "description": "Professional football clubs from around Europe compete against each other in the UEFA Champions League to win the prestigious trophy.",
+      "startDate": "2026-10-15T00:30:00",
+      "endDate": "2026-10-15T02:30:00",
+      "showTime": "00:30:00",
+      "endTime": "02:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/32a191d0fd8e56c49158c7b975f6e802.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "Men's International Soccer Friendlies",
+      "description": "Highlights of an International Friendly soccer game where teams compete against each other in a series of exhibition games.",
+      "startDate": "2026-10-15T02:30:00",
+      "endDate": "2026-10-15T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f8928bb105c48523b0b6d86778a4f21.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "Test Cricket",
+      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
+      "startDate": "2026-10-15T03:00:00",
+      "endDate": "2026-10-15T04:00:00",
+      "showTime": "03:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-10-15T04:00:00",
+      "endDate": "2026-10-15T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "UFC Fight O'Clock",
+      "description": "Conor McGregor's rise is highlighted, including his first-round KOs of Diego Brandao and Dustin Poirier, in UFC Fight O'Clock on Sony LIV.",
+      "startDate": "2026-10-15T04:30:00",
+      "endDate": "2026-10-15T05:30:00",
+      "showTime": "04:30:00",
+      "endTime": "05:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/acd77d4045705e0cc113149649622ecc.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "UEFA Champions League 2025-26",
+      "description": "Paris Saint-Germain booked their place in the UEFA Champions League final after a 1-1 draw against Bayern Munich in the second leg.",
+      "startDate": "2026-10-15T05:30:00",
+      "endDate": "2026-10-15T07:30:00",
+      "showTime": "05:30:00",
+      "endTime": "07:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/998cb6755f0ae94d6d522c789723d477.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "West Indies Tour Of England 2025",
+      "description": "West Indies' 308 was not enough as England chased it down, with Joe Root's 166* sealing the series in the 2nd ODI.",
+      "startDate": "2026-10-15T07:30:00",
+      "endDate": "2026-10-15T08:00:00",
+      "showTime": "07:30:00",
+      "endTime": "08:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/805bd7a77e6fb9c0765ef1940aa7f169.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-10-15T08:00:00",
+      "endDate": "2026-10-15T08:30:00",
+      "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "UFC Fight O'Clock",
+      "description": "Conor McGregor's rise is highlighted, including his first-round KOs of Diego Brandao and Dustin Poirier, in UFC Fight O'Clock on Sony LIV.",
+      "startDate": "2026-10-15T08:30:00",
+      "endDate": "2026-10-15T09:30:00",
+      "showTime": "08:30:00",
+      "endTime": "09:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/acd77d4045705e0cc113149649622ecc.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "One-Day International Cricket",
+      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
+      "startDate": "2026-10-15T09:30:00",
+      "endDate": "2026-10-15T10:30:00",
+      "showTime": "09:30:00",
+      "endTime": "10:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "Cricket Great Centuries",
+      "description": "Zak Crawly and Glen Maxwell starred in the 3rd ODI vs Australia in 2020, scoring 106 and 108. Watch their knocks on Sony LIV.",
+      "startDate": "2026-10-15T10:30:00",
+      "endDate": "2026-10-15T11:30:00",
+      "showTime": "10:30:00",
+      "endTime": "11:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2005810387390c9a84144d6e25e8d069.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "India Tour of Sri Lanka 2026",
+      "description": "Watch Best Of The Test: Sri Lanka vs India, only on Sony LIV.",
+      "startDate": "2026-10-15T11:30:00",
+      "endDate": "2026-10-15T12:30:00",
+      "showTime": "11:30:00",
+      "endTime": "12:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c9ae2f9f9286ecc2574c25498fba19d.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "One-Day International Cricket",
+      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
+      "startDate": "2026-10-15T12:30:00",
+      "endDate": "2026-10-15T13:30:00",
+      "showTime": "12:30:00",
+      "endTime": "13:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "India Tour of Sri Lanka 2026",
+      "description": "Watch Best Of The Test: Sri Lanka vs India, only on Sony LIV.",
+      "startDate": "2026-10-15T13:30:00",
+      "endDate": "2026-10-15T14:30:00",
+      "showTime": "13:30:00",
+      "endTime": "14:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c9ae2f9f9286ecc2574c25498fba19d.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-10-15T14:30:00",
+      "endDate": "2026-10-15T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "UFC Fight Night - Della Maddalena vs Prates",
+      "description": "Watch the entire replay from UFC Fight Night - Della Maddalena vs Prates, only on Sony LIV.",
+      "startDate": "2026-10-15T15:00:00",
+      "endDate": "2026-10-15T18:00:00",
+      "showTime": "15:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/30c4bb6006aad6689c8f17fedf2c5842.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-10-15T18:00:00",
+      "endDate": "2026-10-15T18:30:00",
+      "showTime": "18:00:00",
+      "endTime": "18:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "India Tour of Sri Lanka 2026",
+      "description": "Watch Best Of The Test: Sri Lanka vs India, only on Sony LIV.",
+      "startDate": "2026-10-15T18:30:00",
+      "endDate": "2026-10-15T19:30:00",
+      "showTime": "18:30:00",
+      "endTime": "19:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c9ae2f9f9286ecc2574c25498fba19d.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-10-15T19:30:00",
+      "endDate": "2026-10-15T20:00:00",
+      "showTime": "19:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "India Tour of Sri Lanka 2026",
+      "description": "Watch Best Of The Test: Sri Lanka vs India, only on Sony LIV.",
+      "startDate": "2026-10-15T20:00:00",
+      "endDate": "2026-10-15T21:00:00",
+      "showTime": "20:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1c9ae2f9f9286ecc2574c25498fba19d.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "One-Day International Cricket",
+      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
+      "startDate": "2026-10-15T21:00:00",
+      "endDate": "2026-10-15T22:00:00",
+      "showTime": "21:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-10-15T22:00:00",
+      "endDate": "2026-10-15T22:30:00",
+      "showTime": "22:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "Bharat Tum Chale Chalo - Kahani 2021-22 Ki",
+      "description": "Bharat Tum Chale Chalo looks at India's first Test on the 2021 England tour and how Virat Kohli's pace attack led the bowling.",
+      "startDate": "2026-10-15T22:30:00",
+      "endDate": "2026-10-15T23:30:00",
+      "showTime": "22:30:00",
+      "endTime": "23:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3f2495c8b316111df0cbd31995681285.jpg"
+    },
+    {
+      "serverDate": "2026-10-15",
+      "showName": "Bharat Tum Chale Chalo - Kahani 2021-22 Ki",
+      "description": "Kohli vs Anderson, KL Rahul vs perception, Rohit vs legacy: sometimes the rival is within, and human spirit drives you to rise.",
+      "startDate": "2026-10-15T23:30:00",
+      "endDate": "2026-10-15T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8ef9d33e2d262280e9d913957e7e524f.jpg"
+    },
+    {
       "serverDate": "2026-10-16",
       "showName": "UEFA Champions League Highlights",
       "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
@@ -20,14 +295,14 @@
     },
     {
       "serverDate": "2026-10-16",
-      "showName": "UEFA Europa League Soccer",
-      "description": "Coverage of matches from UEFA's secondary European tournament.",
+      "showName": "UEFA Europa League 2025/26",
+      "description": "Goal! Van Der Hoorn Heads In The Equaliser For Utrecht",
       "startDate": "2026-10-16T00:30:00",
       "endDate": "2026-10-16T02:30:00",
       "showTime": "00:30:00",
       "endTime": "02:30:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8d8f2c6a7dcd3af0a3a8cc575e7c018e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/23a023807a7b0e6886744da07b0c0536.jpg"
     },
     {
       "serverDate": "2026-10-16",
@@ -42,14 +317,14 @@
     },
     {
       "serverDate": "2026-10-16",
-      "showName": "Test Cricket",
-      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
+      "showName": "The Grid",
+      "description": "The GRID is the ultimate team competition, a captivating and exciting co-ed spectator sport where speed, endurance, and strength all come together to challenge the best of athletes and test their limits.",
       "startDate": "2026-10-16T03:00:00",
       "endDate": "2026-10-16T04:00:00",
       "showTime": "03:00:00",
       "endTime": "04:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/067c76a118238ba1b7867e1fc7d1166d.jpg"
     },
     {
       "serverDate": "2026-10-16",
