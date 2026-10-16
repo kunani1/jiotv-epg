@@ -779,14 +779,14 @@
     },
     {
       "serverDate": "2026-10-17",
-      "showName": "The Kapil Sharma Show",
-      "description": "Comedian Kapil Sharma interacts with celebrity guests about their latest films while keeping the audience laughing with his wit, humour and assorted skits.",
+      "showName": "Shemaroo TV",
+      "description": "Shemaroo TV",
       "startDate": "2026-10-17T22:00:00",
       "endDate": "2026-10-17T23:30:00",
       "showTime": "22:00:00",
       "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b237d1a2cc2d977f75b112cc9af2f767.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbbee9b07285bc94147a3bb1a17e9130.jpg"
     },
     {
       "serverDate": "2026-10-17",
@@ -848,8 +848,19 @@
       "showName": "Crime World",
       "description": "The narrator presents a dramatised re-enactment of cases which unveil the depth of some evil conspiracies in society.",
       "startDate": "2026-10-18T03:30:00",
-      "endDate": "2026-10-18T04:30:00",
+      "endDate": "2026-10-18T04:00:00",
       "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4ca27eb15340b0f6a24fc7a52581b2a.jpg"
+    },
+    {
+      "serverDate": "2026-10-18",
+      "showName": "Crime World",
+      "description": "The narrator presents a dramatised re-enactment of cases which unveil the depth of some evil conspiracies in society.",
+      "startDate": "2026-10-18T04:00:00",
+      "endDate": "2026-10-18T04:30:00",
+      "showTime": "04:00:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4ca27eb15340b0f6a24fc7a52581b2a.jpg"
@@ -900,14 +911,25 @@
     },
     {
       "serverDate": "2026-10-18",
-      "showName": "Shri Krishna",
-      "description": "Lord Krishna grows up from being a naughty little child to being the prince of Mathura and Dwarka. He embarks on a number of adventures to fight and eradicate evil forces and provide justice to all.",
+      "showName": "Ramayan",
+      "description": "Prince Rama embarks on a daring mission to save his kidnapped wife Sita from the evil Ravana. Aided by his loyal brother Lakshmana and an army of monkeys, Rama faces various challenges in his journey.",
       "startDate": "2026-10-18T09:00:00",
-      "endDate": "2026-10-18T11:00:00",
+      "endDate": "2026-10-18T10:00:00",
       "showTime": "09:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/67627099e8b05e2f805bcf8826f944c9.jpg"
+    },
+    {
+      "serverDate": "2026-10-18",
+      "showName": "Mahabharat",
+      "description": "A dynastic struggle between the collateral branches of the Kuru clan, the Kauravas and Pandavas, for the throne of Hastinapur leads to the Kurukshetra War.",
+      "startDate": "2026-10-18T10:00:00",
+      "endDate": "2026-10-18T11:00:00",
+      "showTime": "10:00:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d77596cdaec0594bfaaf6092b6cb164.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75f96e3a6191e904b215de07c7e3db2.jpg"
     },
     {
       "serverDate": "2026-10-18",
@@ -977,80 +999,80 @@
     },
     {
       "serverDate": "2026-10-18",
-      "showName": "Shri Krishna",
-      "description": "Lord Krishna grows up from being a naughty little child to being the prince of Mathura and Dwarka. He embarks on a number of adventures to fight and eradicate evil forces and provide justice to all.",
+      "showName": "Jai Mahalaxmi",
+      "description": "When Goddess Mahalaxmi observes that her ardent devotees are subjected to harassment on Earth, she decides to descend to the planet and protect them.",
       "startDate": "2026-10-18T18:00:00",
-      "endDate": "2026-10-18T20:00:00",
+      "endDate": "2026-10-18T19:00:00",
       "showTime": "18:00:00",
-      "endTime": "20:00:00",
+      "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d77596cdaec0594bfaaf6092b6cb164.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/87862f280297e4371c23c5a7e2e754da.jpg"
     },
     {
       "serverDate": "2026-10-18",
-      "showName": "Mahakaali",
-      "description": "Goddess Kali, the divine protector, dons several avatars to protect the weak. She uses her cosmic powers to destroy the evil forces that threaten the world.",
+      "showName": "Mahabharat",
+      "description": "A dynastic struggle between the collateral branches of the Kuru clan, the Kauravas and Pandavas, for the throne of Hastinapur leads to the Kurukshetra War.",
+      "startDate": "2026-10-18T19:00:00",
+      "endDate": "2026-10-18T20:00:00",
+      "showTime": "19:00:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75f96e3a6191e904b215de07c7e3db2.jpg"
+    },
+    {
+      "serverDate": "2026-10-18",
+      "showName": "Ramayan",
+      "description": "Prince Rama embarks on a daring mission to save his kidnapped wife Sita from the evil Ravana. Aided by his loyal brother Lakshmana and an army of monkeys, Rama faces various challenges in his journey.",
       "startDate": "2026-10-18T20:00:00",
       "endDate": "2026-10-18T21:00:00",
       "showTime": "20:00:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ecc5ca223039805033df170e803f060e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/67627099e8b05e2f805bcf8826f944c9.jpg"
     },
     {
       "serverDate": "2026-10-18",
-      "showName": "Brij Ke Laal Laddu Gopal",
-      "description": "Diligent and devoted Tulsi, an ardent follower of Laddu Gopal, dedicates her life to following the path of righteousness.",
+      "showName": "Mahakali",
+      "description": "Goddess Parvati and Lord Shiva's marriage is threatened when two demons wage war against him. However, with her unbound rage, she channels Mahakali, her warrior side.",
       "startDate": "2026-10-18T21:00:00",
-      "endDate": "2026-10-18T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5fe0a30e977716c98ebef66545954f8f.jpg"
-    },
-    {
-      "serverDate": "2026-10-18",
-      "showName": "Jai Ganga Maiya",
-      "description": "Ganga, a living river goddess born from the divine feet of Lord Vishnu, preserved in the Kamandal of Brahma and sustained in his locks by Shiva, descends to Earth due to Bhagiratha's penance.",
-      "startDate": "2026-10-18T21:30:00",
       "endDate": "2026-10-18T22:00:00",
-      "showTime": "21:30:00",
+      "showTime": "21:00:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2be1572c92ae2e02b555d3ec2cba73c7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bc73118a028cdd9c5093b4f5d8e8925d.jpg"
     },
     {
       "serverDate": "2026-10-18",
-      "showName": "The Kapil Sharma Show",
-      "description": "Comedian Kapil Sharma interacts with celebrity guests about their latest films while keeping the audience laughing with his wit, humour and assorted skits.",
+      "showName": "Shemaroo TV",
+      "description": "Shemaroo TV",
       "startDate": "2026-10-18T22:00:00",
       "endDate": "2026-10-18T23:30:00",
       "showTime": "22:00:00",
       "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b237d1a2cc2d977f75b112cc9af2f767.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbbee9b07285bc94147a3bb1a17e9130.jpg"
     },
     {
       "serverDate": "2026-10-18",
-      "showName": "Crime World",
-      "description": "The narrator presents a dramatised re-enactment of cases which unveil the depth of some evil conspiracies in society.",
+      "showName": "Mahabharat",
+      "description": "A dynastic struggle between the collateral branches of the Kuru clan, the Kauravas and Pandavas, for the throne of Hastinapur leads to the Kurukshetra War.",
       "startDate": "2026-10-18T23:30:00",
       "endDate": "2026-10-18T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4ca27eb15340b0f6a24fc7a52581b2a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75f96e3a6191e904b215de07c7e3db2.jpg"
     },
     {
       "serverDate": "2026-10-19",
-      "showName": "Crime World",
-      "description": "The narrator presents a dramatised re-enactment of cases which unveil the depth of some evil conspiracies in society.",
+      "showName": "Mahabharat",
+      "description": "A dynastic struggle between the collateral branches of the Kuru clan, the Kauravas and Pandavas, for the throne of Hastinapur leads to the Kurukshetra War.",
       "startDate": "2026-10-19T00:00:00",
       "endDate": "2026-10-19T00:30:00",
       "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4ca27eb15340b0f6a24fc7a52581b2a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75f96e3a6191e904b215de07c7e3db2.jpg"
     },
     {
       "serverDate": "2026-10-19",
@@ -1090,8 +1112,19 @@
       "showName": "Crime World",
       "description": "The narrator presents a dramatised re-enactment of cases which unveil the depth of some evil conspiracies in society.",
       "startDate": "2026-10-19T03:30:00",
-      "endDate": "2026-10-19T04:30:00",
+      "endDate": "2026-10-19T04:00:00",
       "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4ca27eb15340b0f6a24fc7a52581b2a.jpg"
+    },
+    {
+      "serverDate": "2026-10-19",
+      "showName": "Crime World",
+      "description": "The narrator presents a dramatised re-enactment of cases which unveil the depth of some evil conspiracies in society.",
+      "startDate": "2026-10-19T04:00:00",
+      "endDate": "2026-10-19T04:30:00",
+      "showTime": "04:00:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4ca27eb15340b0f6a24fc7a52581b2a.jpg"
@@ -1142,14 +1175,25 @@
     },
     {
       "serverDate": "2026-10-19",
-      "showName": "Shri Krishna",
-      "description": "Lord Krishna grows up from being a naughty little child to being the prince of Mathura and Dwarka. He embarks on a number of adventures to fight and eradicate evil forces and provide justice to all.",
+      "showName": "Ramayan",
+      "description": "Prince Rama embarks on a daring mission to save his kidnapped wife Sita from the evil Ravana. Aided by his loyal brother Lakshmana and an army of monkeys, Rama faces various challenges in his journey.",
       "startDate": "2026-10-19T09:00:00",
-      "endDate": "2026-10-19T11:00:00",
+      "endDate": "2026-10-19T10:00:00",
       "showTime": "09:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/67627099e8b05e2f805bcf8826f944c9.jpg"
+    },
+    {
+      "serverDate": "2026-10-19",
+      "showName": "Mahabharat",
+      "description": "A dynastic struggle between the collateral branches of the Kuru clan, the Kauravas and Pandavas, for the throne of Hastinapur leads to the Kurukshetra War.",
+      "startDate": "2026-10-19T10:00:00",
+      "endDate": "2026-10-19T11:00:00",
+      "showTime": "10:00:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d77596cdaec0594bfaaf6092b6cb164.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75f96e3a6191e904b215de07c7e3db2.jpg"
     },
     {
       "serverDate": "2026-10-19",
@@ -1219,47 +1263,47 @@
     },
     {
       "serverDate": "2026-10-19",
-      "showName": "Shri Krishna",
-      "description": "Lord Krishna grows up from being a naughty little child to being the prince of Mathura and Dwarka. He embarks on a number of adventures to fight and eradicate evil forces and provide justice to all.",
+      "showName": "Jai Mahalaxmi",
+      "description": "When Goddess Mahalaxmi observes that her ardent devotees are subjected to harassment on Earth, she decides to descend to the planet and protect them.",
       "startDate": "2026-10-19T18:00:00",
-      "endDate": "2026-10-19T20:00:00",
+      "endDate": "2026-10-19T19:00:00",
       "showTime": "18:00:00",
-      "endTime": "20:00:00",
+      "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d77596cdaec0594bfaaf6092b6cb164.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/87862f280297e4371c23c5a7e2e754da.jpg"
     },
     {
       "serverDate": "2026-10-19",
-      "showName": "Mahakaali",
-      "description": "Goddess Kali, the divine protector, dons several avatars to protect the weak. She uses her cosmic powers to destroy the evil forces that threaten the world.",
+      "showName": "Mahabharat",
+      "description": "A dynastic struggle between the collateral branches of the Kuru clan, the Kauravas and Pandavas, for the throne of Hastinapur leads to the Kurukshetra War.",
+      "startDate": "2026-10-19T19:00:00",
+      "endDate": "2026-10-19T20:00:00",
+      "showTime": "19:00:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75f96e3a6191e904b215de07c7e3db2.jpg"
+    },
+    {
+      "serverDate": "2026-10-19",
+      "showName": "Ramayan",
+      "description": "Prince Rama embarks on a daring mission to save his kidnapped wife Sita from the evil Ravana. Aided by his loyal brother Lakshmana and an army of monkeys, Rama faces various challenges in his journey.",
       "startDate": "2026-10-19T20:00:00",
       "endDate": "2026-10-19T21:00:00",
       "showTime": "20:00:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ecc5ca223039805033df170e803f060e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/67627099e8b05e2f805bcf8826f944c9.jpg"
     },
     {
       "serverDate": "2026-10-19",
-      "showName": "Brij Ke Laal Laddu Gopal",
-      "description": "Diligent and devoted Tulsi, an ardent follower of Laddu Gopal, dedicates her life to following the path of righteousness.",
+      "showName": "Mahakali",
+      "description": "Goddess Parvati and Lord Shiva's marriage is threatened when two demons wage war against him. However, with her unbound rage, she channels Mahakali, her warrior side.",
       "startDate": "2026-10-19T21:00:00",
-      "endDate": "2026-10-19T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5fe0a30e977716c98ebef66545954f8f.jpg"
-    },
-    {
-      "serverDate": "2026-10-19",
-      "showName": "Jai Ganga Maiya",
-      "description": "Ganga, a living river goddess born from the divine feet of Lord Vishnu, preserved in the Kamandal of Brahma and sustained in his locks by Shiva, descends to Earth due to Bhagiratha's penance.",
-      "startDate": "2026-10-19T21:30:00",
       "endDate": "2026-10-19T22:00:00",
-      "showTime": "21:30:00",
+      "showTime": "21:00:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2be1572c92ae2e02b555d3ec2cba73c7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bc73118a028cdd9c5093b4f5d8e8925d.jpg"
     },
     {
       "serverDate": "2026-10-19",
@@ -1274,25 +1318,25 @@
     },
     {
       "serverDate": "2026-10-19",
-      "showName": "Crime World",
-      "description": "The narrator presents a dramatised re-enactment of cases which unveil the depth of some evil conspiracies in society.",
+      "showName": "Mahabharat",
+      "description": "A dynastic struggle between the collateral branches of the Kuru clan, the Kauravas and Pandavas, for the throne of Hastinapur leads to the Kurukshetra War.",
       "startDate": "2026-10-19T23:30:00",
       "endDate": "2026-10-19T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4ca27eb15340b0f6a24fc7a52581b2a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75f96e3a6191e904b215de07c7e3db2.jpg"
     },
     {
       "serverDate": "2026-10-20",
-      "showName": "Crime World",
-      "description": "The narrator presents a dramatised re-enactment of cases which unveil the depth of some evil conspiracies in society.",
+      "showName": "Mahabharat",
+      "description": "A dynastic struggle between the collateral branches of the Kuru clan, the Kauravas and Pandavas, for the throne of Hastinapur leads to the Kurukshetra War.",
       "startDate": "2026-10-20T00:00:00",
       "endDate": "2026-10-20T00:30:00",
       "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4ca27eb15340b0f6a24fc7a52581b2a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75f96e3a6191e904b215de07c7e3db2.jpg"
     },
     {
       "serverDate": "2026-10-20",
@@ -1332,8 +1376,19 @@
       "showName": "Crime World",
       "description": "The narrator presents a dramatised re-enactment of cases which unveil the depth of some evil conspiracies in society.",
       "startDate": "2026-10-20T03:30:00",
-      "endDate": "2026-10-20T04:30:00",
+      "endDate": "2026-10-20T04:00:00",
       "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4ca27eb15340b0f6a24fc7a52581b2a.jpg"
+    },
+    {
+      "serverDate": "2026-10-20",
+      "showName": "Crime World",
+      "description": "The narrator presents a dramatised re-enactment of cases which unveil the depth of some evil conspiracies in society.",
+      "startDate": "2026-10-20T04:00:00",
+      "endDate": "2026-10-20T04:30:00",
+      "showTime": "04:00:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4ca27eb15340b0f6a24fc7a52581b2a.jpg"
@@ -1384,14 +1439,25 @@
     },
     {
       "serverDate": "2026-10-20",
-      "showName": "Shri Krishna",
-      "description": "Lord Krishna grows up from being a naughty little child to being the prince of Mathura and Dwarka. He embarks on a number of adventures to fight and eradicate evil forces and provide justice to all.",
+      "showName": "Ramayan",
+      "description": "Prince Rama embarks on a daring mission to save his kidnapped wife Sita from the evil Ravana. Aided by his loyal brother Lakshmana and an army of monkeys, Rama faces various challenges in his journey.",
       "startDate": "2026-10-20T09:00:00",
-      "endDate": "2026-10-20T11:00:00",
+      "endDate": "2026-10-20T10:00:00",
       "showTime": "09:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/67627099e8b05e2f805bcf8826f944c9.jpg"
+    },
+    {
+      "serverDate": "2026-10-20",
+      "showName": "Mahabharat",
+      "description": "A dynastic struggle between the collateral branches of the Kuru clan, the Kauravas and Pandavas, for the throne of Hastinapur leads to the Kurukshetra War.",
+      "startDate": "2026-10-20T10:00:00",
+      "endDate": "2026-10-20T11:00:00",
+      "showTime": "10:00:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d77596cdaec0594bfaaf6092b6cb164.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75f96e3a6191e904b215de07c7e3db2.jpg"
     },
     {
       "serverDate": "2026-10-20",
@@ -1461,78 +1527,89 @@
     },
     {
       "serverDate": "2026-10-20",
-      "showName": "Shri Krishna",
-      "description": "Lord Krishna grows up from being a naughty little child to being the prince of Mathura and Dwarka. He embarks on a number of adventures to fight and eradicate evil forces and provide justice to all.",
+      "showName": "Jai Mahalaxmi",
+      "description": "When Goddess Mahalaxmi observes that her ardent devotees are subjected to harassment on Earth, she decides to descend to the planet and protect them.",
       "startDate": "2026-10-20T18:00:00",
-      "endDate": "2026-10-20T20:00:00",
+      "endDate": "2026-10-20T19:00:00",
       "showTime": "18:00:00",
-      "endTime": "20:00:00",
+      "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d77596cdaec0594bfaaf6092b6cb164.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/87862f280297e4371c23c5a7e2e754da.jpg"
     },
     {
       "serverDate": "2026-10-20",
-      "showName": "Mahakaali",
-      "description": "Goddess Kali, the divine protector, dons several avatars to protect the weak. She uses her cosmic powers to destroy the evil forces that threaten the world.",
+      "showName": "Mahabharat",
+      "description": "A dynastic struggle between the collateral branches of the Kuru clan, the Kauravas and Pandavas, for the throne of Hastinapur leads to the Kurukshetra War.",
+      "startDate": "2026-10-20T19:00:00",
+      "endDate": "2026-10-20T20:00:00",
+      "showTime": "19:00:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75f96e3a6191e904b215de07c7e3db2.jpg"
+    },
+    {
+      "serverDate": "2026-10-20",
+      "showName": "Ramayan",
+      "description": "Prince Rama embarks on a daring mission to save his kidnapped wife Sita from the evil Ravana. Aided by his loyal brother Lakshmana and an army of monkeys, Rama faces various challenges in his journey.",
       "startDate": "2026-10-20T20:00:00",
       "endDate": "2026-10-20T21:00:00",
       "showTime": "20:00:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ecc5ca223039805033df170e803f060e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/67627099e8b05e2f805bcf8826f944c9.jpg"
     },
     {
       "serverDate": "2026-10-20",
-      "showName": "Brij Ke Laal Laddu Gopal",
-      "description": "Diligent and devoted Tulsi, an ardent follower of Laddu Gopal, dedicates her life to following the path of righteousness.",
+      "showName": "Shemaroo TV",
+      "description": "Shemaroo TV",
       "startDate": "2026-10-20T21:00:00",
       "endDate": "2026-10-20T21:30:00",
       "showTime": "21:00:00",
       "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5fe0a30e977716c98ebef66545954f8f.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbbee9b07285bc94147a3bb1a17e9130.jpg"
     },
     {
       "serverDate": "2026-10-20",
-      "showName": "Jai Ganga Maiya",
-      "description": "Ganga, a living river goddess born from the divine feet of Lord Vishnu, preserved in the Kamandal of Brahma and sustained in his locks by Shiva, descends to Earth due to Bhagiratha's penance.",
+      "showName": "Mahakali",
+      "description": "Goddess Parvati and Lord Shiva's marriage is threatened when two demons wage war against him. However, with her unbound rage, she channels Mahakali, her warrior side.",
       "startDate": "2026-10-20T21:30:00",
-      "endDate": "2026-10-20T22:00:00",
+      "endDate": "2026-10-20T22:30:00",
       "showTime": "21:30:00",
-      "endTime": "22:00:00",
+      "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2be1572c92ae2e02b555d3ec2cba73c7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bc73118a028cdd9c5093b4f5d8e8925d.jpg"
     },
     {
       "serverDate": "2026-10-20",
       "showName": "The Kapil Sharma Show",
       "description": "Comedian Kapil Sharma interacts with celebrity guests about their latest films while keeping the audience laughing with his wit, humour and assorted skits.",
-      "startDate": "2026-10-20T22:00:00",
-      "endDate": "2026-10-20T23:30:00",
-      "showTime": "22:00:00",
-      "endTime": "23:30:00",
+      "startDate": "2026-10-20T22:30:00",
+      "endDate": "2026-10-20T23:59:59",
+      "showTime": "22:30:00",
+      "endTime": "23:59:59",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b237d1a2cc2d977f75b112cc9af2f767.jpg"
     },
     {
-      "serverDate": "2026-10-20",
-      "showName": "Crime World",
-      "description": "The narrator presents a dramatised re-enactment of cases which unveil the depth of some evil conspiracies in society.",
-      "startDate": "2026-10-20T23:30:00",
-      "endDate": "2026-10-20T23:59:59",
-      "showTime": "23:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4ca27eb15340b0f6a24fc7a52581b2a.jpg"
-    },
-    {
       "serverDate": "2026-10-21",
-      "showName": "Crime World",
-      "description": "The narrator presents a dramatised re-enactment of cases which unveil the depth of some evil conspiracies in society.",
+      "showName": "Mahabharat",
+      "description": "A dynastic struggle between the collateral branches of the Kuru clan, the Kauravas and Pandavas, for the throne of Hastinapur leads to the Kurukshetra War.",
       "startDate": "2026-10-21T00:00:00",
-      "endDate": "2026-10-21T00:30:00",
+      "endDate": "2026-10-21T01:00:00",
       "showTime": "00:00:00",
-      "endTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75f96e3a6191e904b215de07c7e3db2.jpg"
+    },
+    {
+      "serverDate": "2026-10-21",
+      "showName": "Crime World",
+      "description": "The narrator presents a dramatised re-enactment of cases which unveil the depth of some evil conspiracies in society.",
+      "startDate": "2026-10-21T01:00:00",
+      "endDate": "2026-10-21T02:00:00",
+      "showTime": "01:00:00",
+      "endTime": "02:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4ca27eb15340b0f6a24fc7a52581b2a.jpg"
     },
@@ -1540,10 +1617,10 @@
       "serverDate": "2026-10-21",
       "showName": "Crime World",
       "description": "The narrator presents a dramatised re-enactment of cases which unveil the depth of some evil conspiracies in society.",
-      "startDate": "2026-10-21T00:30:00",
-      "endDate": "2026-10-21T01:30:00",
-      "showTime": "00:30:00",
-      "endTime": "01:30:00",
+      "startDate": "2026-10-21T02:00:00",
+      "endDate": "2026-10-21T03:00:00",
+      "showTime": "02:00:00",
+      "endTime": "03:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4ca27eb15340b0f6a24fc7a52581b2a.jpg"
     },
@@ -1551,20 +1628,9 @@
       "serverDate": "2026-10-21",
       "showName": "Crime World",
       "description": "The narrator presents a dramatised re-enactment of cases which unveil the depth of some evil conspiracies in society.",
-      "startDate": "2026-10-21T01:30:00",
-      "endDate": "2026-10-21T02:30:00",
-      "showTime": "01:30:00",
-      "endTime": "02:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4ca27eb15340b0f6a24fc7a52581b2a.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Crime World",
-      "description": "The narrator presents a dramatised re-enactment of cases which unveil the depth of some evil conspiracies in society.",
-      "startDate": "2026-10-21T02:30:00",
+      "startDate": "2026-10-21T03:00:00",
       "endDate": "2026-10-21T03:30:00",
-      "showTime": "02:30:00",
+      "showTime": "03:00:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4ca27eb15340b0f6a24fc7a52581b2a.jpg"
@@ -1574,8 +1640,19 @@
       "showName": "Crime World",
       "description": "The narrator presents a dramatised re-enactment of cases which unveil the depth of some evil conspiracies in society.",
       "startDate": "2026-10-21T03:30:00",
-      "endDate": "2026-10-21T04:30:00",
+      "endDate": "2026-10-21T04:00:00",
       "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4ca27eb15340b0f6a24fc7a52581b2a.jpg"
+    },
+    {
+      "serverDate": "2026-10-21",
+      "showName": "Crime World",
+      "description": "The narrator presents a dramatised re-enactment of cases which unveil the depth of some evil conspiracies in society.",
+      "startDate": "2026-10-21T04:00:00",
+      "endDate": "2026-10-21T04:30:00",
+      "showTime": "04:00:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4ca27eb15340b0f6a24fc7a52581b2a.jpg"
@@ -1618,22 +1695,44 @@
       "showName": "Shemaroo Bhakti",
       "description": "A comprehensive compilation of bhajans and kirtans recorded by talented artists and dedicated to various Hindu gods and goddesses is played.",
       "startDate": "2026-10-21T08:00:00",
-      "endDate": "2026-10-21T09:00:00",
+      "endDate": "2026-10-21T08:30:00",
       "showTime": "08:00:00",
-      "endTime": "09:00:00",
+      "endTime": "08:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/594ed8390eebec35b6532c8dc6a5945a.jpg"
     },
     {
       "serverDate": "2026-10-21",
-      "showName": "Shri Krishna",
-      "description": "Lord Krishna grows up from being a naughty little child to being the prince of Mathura and Dwarka. He embarks on a number of adventures to fight and eradicate evil forces and provide justice to all.",
+      "showName": "Shemaroo TV",
+      "description": "Shemaroo TV",
+      "startDate": "2026-10-21T08:30:00",
+      "endDate": "2026-10-21T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbbee9b07285bc94147a3bb1a17e9130.jpg"
+    },
+    {
+      "serverDate": "2026-10-21",
+      "showName": "Ramayan",
+      "description": "Prince Rama embarks on a daring mission to save his kidnapped wife Sita from the evil Ravana. Aided by his loyal brother Lakshmana and an army of monkeys, Rama faces various challenges in his journey.",
       "startDate": "2026-10-21T09:00:00",
-      "endDate": "2026-10-21T11:00:00",
+      "endDate": "2026-10-21T10:00:00",
       "showTime": "09:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/67627099e8b05e2f805bcf8826f944c9.jpg"
+    },
+    {
+      "serverDate": "2026-10-21",
+      "showName": "Mahabharat",
+      "description": "A dynastic struggle between the collateral branches of the Kuru clan, the Kauravas and Pandavas, for the throne of Hastinapur leads to the Kurukshetra War.",
+      "startDate": "2026-10-21T10:00:00",
+      "endDate": "2026-10-21T11:00:00",
+      "showTime": "10:00:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d77596cdaec0594bfaaf6092b6cb164.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75f96e3a6191e904b215de07c7e3db2.jpg"
     },
     {
       "serverDate": "2026-10-21",
@@ -1703,36 +1802,47 @@
     },
     {
       "serverDate": "2026-10-21",
-      "showName": "Shri Krishna",
-      "description": "Lord Krishna grows up from being a naughty little child to being the prince of Mathura and Dwarka. He embarks on a number of adventures to fight and eradicate evil forces and provide justice to all.",
+      "showName": "Jai Mahalaxmi",
+      "description": "When Goddess Mahalaxmi observes that her ardent devotees are subjected to harassment on Earth, she decides to descend to the planet and protect them.",
       "startDate": "2026-10-21T18:00:00",
-      "endDate": "2026-10-21T20:00:00",
+      "endDate": "2026-10-21T19:00:00",
       "showTime": "18:00:00",
-      "endTime": "20:00:00",
+      "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d77596cdaec0594bfaaf6092b6cb164.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/87862f280297e4371c23c5a7e2e754da.jpg"
     },
     {
       "serverDate": "2026-10-21",
-      "showName": "Mahakaali",
-      "description": "Goddess Kali, the divine protector, dons several avatars to protect the weak. She uses her cosmic powers to destroy the evil forces that threaten the world.",
+      "showName": "Mahabharat",
+      "description": "A dynastic struggle between the collateral branches of the Kuru clan, the Kauravas and Pandavas, for the throne of Hastinapur leads to the Kurukshetra War.",
+      "startDate": "2026-10-21T19:00:00",
+      "endDate": "2026-10-21T20:00:00",
+      "showTime": "19:00:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75f96e3a6191e904b215de07c7e3db2.jpg"
+    },
+    {
+      "serverDate": "2026-10-21",
+      "showName": "Ramayan",
+      "description": "Prince Rama embarks on a daring mission to save his kidnapped wife Sita from the evil Ravana. Aided by his loyal brother Lakshmana and an army of monkeys, Rama faces various challenges in his journey.",
       "startDate": "2026-10-21T20:00:00",
       "endDate": "2026-10-21T21:00:00",
       "showTime": "20:00:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ecc5ca223039805033df170e803f060e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/67627099e8b05e2f805bcf8826f944c9.jpg"
     },
     {
       "serverDate": "2026-10-21",
-      "showName": "Jai Ganga Maiya",
-      "description": "Ganga, a living river goddess born from the divine feet of Lord Vishnu, preserved in the Kamandal of Brahma and sustained in his locks by Shiva, descends to Earth due to Bhagiratha's penance.",
+      "showName": "Mahakali",
+      "description": "Goddess Parvati and Lord Shiva's marriage is threatened when two demons wage war against him. However, with her unbound rage, she channels Mahakali, her warrior side.",
       "startDate": "2026-10-21T21:00:00",
       "endDate": "2026-10-21T22:00:00",
       "showTime": "21:00:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2be1572c92ae2e02b555d3ec2cba73c7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bc73118a028cdd9c5093b4f5d8e8925d.jpg"
     },
     {
       "serverDate": "2026-10-21",
@@ -1747,25 +1857,25 @@
     },
     {
       "serverDate": "2026-10-21",
-      "showName": "Crime World",
-      "description": "The narrator presents a dramatised re-enactment of cases which unveil the depth of some evil conspiracies in society.",
+      "showName": "Mahabharat",
+      "description": "A dynastic struggle between the collateral branches of the Kuru clan, the Kauravas and Pandavas, for the throne of Hastinapur leads to the Kurukshetra War.",
       "startDate": "2026-10-21T23:30:00",
       "endDate": "2026-10-21T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4ca27eb15340b0f6a24fc7a52581b2a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75f96e3a6191e904b215de07c7e3db2.jpg"
     },
     {
       "serverDate": "2026-10-22",
-      "showName": "Crime World",
-      "description": "The narrator presents a dramatised re-enactment of cases which unveil the depth of some evil conspiracies in society.",
+      "showName": "Mahabharat",
+      "description": "A dynastic struggle between the collateral branches of the Kuru clan, the Kauravas and Pandavas, for the throne of Hastinapur leads to the Kurukshetra War.",
       "startDate": "2026-10-22T00:00:00",
       "endDate": "2026-10-22T00:30:00",
       "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4ca27eb15340b0f6a24fc7a52581b2a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c75f96e3a6191e904b215de07c7e3db2.jpg"
     },
     {
       "serverDate": "2026-10-22",
