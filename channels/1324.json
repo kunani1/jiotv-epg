@@ -8,116 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png",
   "programs": [
     {
-      "serverDate": "2026-10-15",
-      "showName": "Sati Toral",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-10-15T00:00:00",
-      "endDate": "2026-10-15T00:35:00",
-      "showTime": "00:00:00",
-      "endTime": "00:35:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/31a35c38524f1eb59ecb1316e4cde8d2.jpg"
-    },
-    {
-      "serverDate": "2026-10-15",
-      "showName": "Narmada Tara Vahi Jata Paani",
-      "description": "Anirudh, an engineer, dreams of building a great dam on the Narmada River, but Pratap Thakur's interference and his love for Jashma complicate his journey.",
-      "startDate": "2026-10-15T00:35:00",
-      "endDate": "2026-10-15T03:00:00",
-      "showTime": "00:35:00",
-      "endTime": "03:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a28b094e83f81b973a97d0aef811b5af.jpg"
-    },
-    {
-      "serverDate": "2026-10-15",
-      "showName": "Desi Beats",
-      "description": "A comprehensive compilation of acclaimed chart-topping Indian songs, composed by diverse artists, is played in succession.",
-      "startDate": "2026-10-15T03:00:00",
-      "endDate": "2026-10-15T05:30:00",
-      "showTime": "03:00:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a952a1f715f5bf638f3e1cfb99a51ef8.jpg"
-    },
-    {
-      "serverDate": "2026-10-15",
-      "showName": "Mahisagar Na Moti",
-      "description": "After a girl's suicide ignites a family feud lasting generations, a young couple faces several problems after falling in love.",
-      "startDate": "2026-10-15T05:30:00",
-      "endDate": "2026-10-15T08:00:00",
-      "showTime": "05:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d344621f9765dc549c7386c08493f869.jpg"
-    },
-    {
-      "serverDate": "2026-10-15",
-      "showName": "Desi Beats",
-      "description": "A comprehensive compilation of acclaimed chart-topping Indian songs, composed by diverse artists, is played in succession.",
-      "startDate": "2026-10-15T08:00:00",
-      "endDate": "2026-10-15T09:55:00",
-      "showTime": "08:00:00",
-      "endTime": "09:55:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a952a1f715f5bf638f3e1cfb99a51ef8.jpg"
-    },
-    {
-      "serverDate": "2026-10-15",
-      "showName": "Pankhida ho Pankhida",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-10-15T09:55:00",
-      "endDate": "2026-10-15T12:35:00",
-      "showTime": "09:55:00",
-      "endTime": "12:35:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2e8bd07e4f0701d4b7da3854d62c37e.jpg"
-    },
-    {
-      "serverDate": "2026-10-15",
-      "showName": "Baba Ramdev",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-10-15T12:35:00",
-      "endDate": "2026-10-15T15:35:00",
-      "showTime": "12:35:00",
-      "endTime": "15:35:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/03ed403ae964330616bd36a5807ae3a7.jpg"
-    },
-    {
-      "serverDate": "2026-10-15",
-      "showName": "Sant Shree Sava Bhagat",
-      "description": "Sant Shree Sava Bhagat, a preacher and devotee of Ramdev Pir, along with his ardent follower, a widow, goes on a miraculous journey for the welfare of society.",
-      "startDate": "2026-10-15T15:35:00",
-      "endDate": "2026-10-15T19:00:00",
-      "showTime": "15:35:00",
-      "endTime": "19:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/966415abe50a6a6c893f92aaa450124d.jpg"
-    },
-    {
-      "serverDate": "2026-10-15",
-      "showName": "Madi Taran Aghor Nagaran Wage",
-      "description": "Movie starring Jayshree T., Arvind Rathod, Ranjit Raaj and directed by Vibhakar Mehta.",
-      "startDate": "2026-10-15T19:00:00",
-      "endDate": "2026-10-15T21:50:00",
-      "showTime": "19:00:00",
-      "endTime": "21:50:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ec53baf5a2d870ce50e4d985d5e3f1e8.jpg"
-    },
-    {
-      "serverDate": "2026-10-15",
-      "showName": "Mane Samne Sajan Sambhare",
-      "description": "While Mani and Velji, her brother, exploit Madhav to learn about a treasure, Parvat and Madhav's daughter Gomti's love is threatened when Mani forces Gomti to marry her nephew.",
-      "startDate": "2026-10-15T21:50:00",
-      "endDate": "2026-10-15T23:59:59",
-      "showTime": "21:50:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/33f52d832dc2b084c7dfb42135fc8538.jpg"
-    },
-    {
       "serverDate": "2026-10-16",
       "showName": "Mane Samne Sajan Sambhare",
       "description": "While Mani and Velji, her brother, exploit Madhav to learn about a treasure, Parvat and Madhav's daughter Gomti's love is threatened when Mani forces Gomti to marry her nephew.",
@@ -908,6 +798,116 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c6932eb3218ff36ac67b40b30a3bb9e5.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Vat Vachan Ne Ver",
+      "description": "After her husband is killed, a woman escapes with her newborn son. Soon, he grows up and decides to avenge his father's murder.",
+      "startDate": "2026-10-23T00:00:00",
+      "endDate": "2026-10-23T00:50:00",
+      "showTime": "00:00:00",
+      "endTime": "00:50:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c6932eb3218ff36ac67b40b30a3bb9e5.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Hoon Diwani Tara Prem Ni Vaalam",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-10-23T00:50:00",
+      "endDate": "2026-10-23T03:25:00",
+      "showTime": "00:50:00",
+      "endTime": "03:25:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b2b62e8a449f2c757d7c0aa194af8d8.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Desi Beats",
+      "description": "A comprehensive compilation of acclaimed chart-topping Indian songs, composed by diverse artists, is played in succession.",
+      "startDate": "2026-10-23T03:25:00",
+      "endDate": "2026-10-23T05:20:00",
+      "showTime": "03:25:00",
+      "endTime": "05:20:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a952a1f715f5bf638f3e1cfb99a51ef8.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Jay Ranchod",
+      "description": "A young girl, who is an ardent devotee of Lord Ranchod, is forced by her mother to marry a man with mental illness. However, she decides to be positive and face her situation.",
+      "startDate": "2026-10-23T05:20:00",
+      "endDate": "2026-10-23T08:00:00",
+      "showTime": "05:20:00",
+      "endTime": "08:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17ad631bb26bb19e1510ef509e0f6af0.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Desi Beats",
+      "description": "A comprehensive compilation of acclaimed chart-topping Indian songs, composed by diverse artists, is played in succession.",
+      "startDate": "2026-10-23T08:00:00",
+      "endDate": "2026-10-23T09:50:00",
+      "showTime": "08:00:00",
+      "endTime": "09:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a952a1f715f5bf638f3e1cfb99a51ef8.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Preet Pangre Chori Chori",
+      "description": "Ashish's parents get him married to the woman he loves for the sake of his happiness. However, chaos ensues as Shefali's modern ideas create certain friction which causes disruption in the family.",
+      "startDate": "2026-10-23T09:50:00",
+      "endDate": "2026-10-23T13:10:00",
+      "showTime": "09:50:00",
+      "endTime": "13:10:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3b1dfe1920446f6269acb424ccadbca7.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Manighar Maniyaro",
+      "description": "When a punishment by Thakur Ajeetsingh causes Bheemsingh and his wife Narmada's baby to die, the servant swaps his deceased infant's body with Ajeetsingh's newly born child.",
+      "startDate": "2026-10-23T13:10:00",
+      "endDate": "2026-10-23T16:05:00",
+      "showTime": "13:10:00",
+      "endTime": "16:05:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a831316bd16b75f5c56b05b7d7c5a9e7.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Shree Nagdev Krupa",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-10-23T16:05:00",
+      "endDate": "2026-10-23T19:00:00",
+      "showTime": "16:05:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d42d96f7cd08ff3ac153480989dcf49.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Dholi",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-10-23T19:00:00",
+      "endDate": "2026-10-23T21:35:00",
+      "showTime": "19:00:00",
+      "endTime": "21:35:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a6d8c2fae6dcc9555ce6c3151f0e1e00.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Parki Jani",
+      "description": "Brothers Dalsukh and Mohan are good-for-nothing and engage in gambling and alcoholism. Dalsukh's life changes for the better when he marries Laxmi, but Mohan's wife makes life difficult for him.",
+      "startDate": "2026-10-23T21:35:00",
+      "endDate": "2026-10-23T23:59:59",
+      "showTime": "21:35:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56b571a5d1ef019de71d7175f13a0043.jpg"
     }
   ]
 }
