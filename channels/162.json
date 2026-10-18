@@ -768,22 +768,33 @@
     },
     {
       "serverDate": "2026-10-19",
-      "showName": "Asia Cup Highlights",
-      "description": "Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.",
+      "showName": "T20 Cricket",
+      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
       "startDate": "2026-10-19T04:00:00",
       "endDate": "2026-10-19T05:00:00",
       "showTime": "04:00:00",
       "endTime": "05:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8c51b7ea5b521bacdbec09a3e10270f2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3bd907a139e61a689bbde89266428f6c.jpg"
+    },
+    {
+      "serverDate": "2026-10-19",
+      "showName": "Cricket's Wonder Women",
+      "description": "Cricket's Wonder Women",
+      "startDate": "2026-10-19T05:00:00",
+      "endDate": "2026-10-19T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fe86f096bcb12b792d77cccee56a9f49.jpg"
     },
     {
       "serverDate": "2026-10-19",
       "showName": "2026 Asian Games Highlights",
       "description": "2026 Asian Games Highlights",
-      "startDate": "2026-10-19T05:00:00",
+      "startDate": "2026-10-19T05:30:00",
       "endDate": "2026-10-19T06:00:00",
-      "showTime": "05:00:00",
+      "showTime": "05:30:00",
       "endTime": "06:00:00",
       "showCategory": "Sports non-event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg"
