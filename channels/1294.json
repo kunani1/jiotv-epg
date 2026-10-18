@@ -8,149 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Dsports.png",
   "programs": [
     {
-      "serverDate": "2026-10-16",
-      "showName": "World Pickleball League",
-      "description": "Players from different parts of the world participate in the World Pickleball League and showcase their unique skills in order to emerge victorious.",
-      "startDate": "2026-10-16T00:00:00",
-      "endDate": "2026-10-16T02:30:00",
-      "showTime": "00:00:00",
-      "endTime": "02:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f4d496643e1c4b6b48658842ff081a1.jpg"
-    },
-    {
-      "serverDate": "2026-10-16",
-      "showName": "Ultimate Cricket Challenge",
-      "description": "Professional players compete against each other to emerge victorious in the Ultimate Cricket Challenge to win the title.",
-      "startDate": "2026-10-16T02:30:00",
-      "endDate": "2026-10-16T03:00:00",
-      "showTime": "02:30:00",
-      "endTime": "03:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b16a875c50b674f92d1448e27ff9ea09.jpg"
-    },
-    {
-      "serverDate": "2026-10-16",
-      "showName": "Big Cricket League",
-      "description": "Coverage of the professional cricket league.",
-      "startDate": "2026-10-16T03:00:00",
-      "endDate": "2026-10-16T06:00:00",
-      "showTime": "03:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3b094ee9b466b4fd07cb4948c9e8f9f3.jpg"
-    },
-    {
-      "serverDate": "2026-10-16",
-      "showName": "Eredivisie Soccer",
-      "description": "Professional football teams compete against each other in order to emerge victorious in the Eredivisie, a premier football tournament in the Netherlands.",
-      "startDate": "2026-10-16T06:00:00",
-      "endDate": "2026-10-16T08:00:00",
-      "showTime": "06:00:00",
-      "endTime": "08:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c42ec8ca139cb99d6d70a363a8ee46f.jpg"
-    },
-    {
-      "serverDate": "2026-10-16",
-      "showName": "TNA Wrestling",
-      "description": "Elite professional wrestling stars face off in intense battles, striving for supremacy and the coveted championship gold.",
-      "startDate": "2026-10-16T08:00:00",
-      "endDate": "2026-10-16T11:30:00",
-      "showTime": "08:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eeb2620360417b9ce20dbb822d9eec4b.jpg"
-    },
-    {
-      "serverDate": "2026-10-16",
-      "showName": "Test Cricket",
-      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
-      "startDate": "2026-10-16T11:30:00",
-      "endDate": "2026-10-16T12:30:00",
-      "showTime": "11:30:00",
-      "endTime": "12:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
-    },
-    {
-      "serverDate": "2026-10-16",
-      "showName": "AEW Dynamite",
-      "description": "Professional wrestlers compete against each other in the AEW Dynamite event in order to emerge victorious and win the title.",
-      "startDate": "2026-10-16T12:30:00",
-      "endDate": "2026-10-16T14:30:00",
-      "showTime": "12:30:00",
-      "endTime": "14:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e253288f0a950e0a0a098e3abba28124.jpg"
-    },
-    {
-      "serverDate": "2026-10-16",
-      "showName": "Professional Fighters League",
-      "description": "Highlights of Professional fighters from around the world compete against each other in a prestigious tournament in a bid to win the coveted title.",
-      "startDate": "2026-10-16T14:30:00",
-      "endDate": "2026-10-16T15:30:00",
-      "showTime": "14:30:00",
-      "endTime": "15:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/64e80eeee36a3f0e671733d6ee33ec6d.jpg"
-    },
-    {
-      "serverDate": "2026-10-16",
-      "showName": "BWF World Tour Badminton",
-      "description": "Elite shuttlers compete in international competitions across the BWF World Tour, vying for ranking points and prestigious titles.",
-      "startDate": "2026-10-16T15:30:00",
-      "endDate": "2026-10-16T18:00:00",
-      "showTime": "15:30:00",
-      "endTime": "18:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccf4822f49a919f73b0f61ceb94337a0.jpg"
-    },
-    {
-      "serverDate": "2026-10-16",
-      "showName": "IMPACT in 60",
-      "description": "The filmmaker highlights some of the most memorable matches, wrestlers, championships, factions and more from the 18-year history of Impact Wrestling.",
-      "startDate": "2026-10-16T18:00:00",
-      "endDate": "2026-10-16T19:00:00",
-      "showTime": "18:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/60bc6739423c38778056a36fbb5d1915.jpg"
-    },
-    {
-      "serverDate": "2026-10-16",
-      "showName": "TNA Wrestling: Pehalwani Patakha",
-      "description": "Highlights from the IMPACT wrestling series of TNA Wrestling, where professional wrestlers compete against each other for victory, in Hindi.",
-      "startDate": "2026-10-16T19:00:00",
-      "endDate": "2026-10-16T20:00:00",
-      "showTime": "19:00:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b513751135ee37fd96b2f29eb568c57d.jpg"
-    },
-    {
-      "serverDate": "2026-10-16",
-      "showName": "BWF World Tour Badminton",
-      "description": "Elite shuttlers compete in international competitions across the BWF World Tour, vying for ranking points and prestigious titles.",
-      "startDate": "2026-10-16T20:00:00",
-      "endDate": "2026-10-16T22:00:00",
-      "showTime": "20:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccf4822f49a919f73b0f61ceb94337a0.jpg"
-    },
-    {
-      "serverDate": "2026-10-16",
-      "showName": "AEW Collision",
-      "description": "Popular pro-wrestlers from the AEW Roster compete against each other in fights every Saturday to win the championship title.",
-      "startDate": "2026-10-16T22:00:00",
-      "endDate": "2026-10-16T23:59:59",
-      "showTime": "22:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff02d924ee4ae092009da120672aaa1f.jpg"
-    },
-    {
       "serverDate": "2026-10-17",
       "showName": "BWF World Tour Badminton",
       "description": "Elite shuttlers compete in international competitions across the BWF World Tour, vying for ranking points and prestigious titles.",
@@ -1007,6 +864,160 @@
       "endTime": "23:59:59",
       "showCategory": "Sports non-event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fea02a52c36d9dff12909db79b26770d.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "BWF World Tour Badminton",
+      "description": "Elite shuttlers compete in international competitions across the BWF World Tour, vying for ranking points and prestigious titles.",
+      "startDate": "2026-10-24T00:00:00",
+      "endDate": "2026-10-24T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccf4822f49a919f73b0f61ceb94337a0.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Dutch League Highlights",
+      "description": "Highlights of the Dutch League wherein professional football players compete against each other to emerge victorious and win the coveted trophy.",
+      "startDate": "2026-10-24T01:00:00",
+      "endDate": "2026-10-24T02:00:00",
+      "showTime": "01:00:00",
+      "endTime": "02:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7501421cf8e985b6e763da06461b8e28.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Big Cricket League",
+      "description": "Coverage of the professional cricket league.",
+      "startDate": "2026-10-24T02:00:00",
+      "endDate": "2026-10-24T05:15:00",
+      "showTime": "02:00:00",
+      "endTime": "05:15:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3b094ee9b466b4fd07cb4948c9e8f9f3.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "MotoGP Racing",
+      "description": "Coverage of motorcycle racing action from FIM sanctioned road circuits.",
+      "startDate": "2026-10-24T05:15:00",
+      "endDate": "2026-10-24T06:15:00",
+      "showTime": "05:15:00",
+      "endTime": "06:15:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77f67778768b161ebeda78f279643819.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Test Cricket",
+      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
+      "startDate": "2026-10-24T06:15:00",
+      "endDate": "2026-10-24T07:15:00",
+      "showTime": "06:15:00",
+      "endTime": "07:15:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "MotoGP Racing",
+      "description": "Coverage of motorcycle racing action from FIM sanctioned road circuits.",
+      "startDate": "2026-10-24T07:15:00",
+      "endDate": "2026-10-24T10:15:00",
+      "showTime": "07:15:00",
+      "endTime": "10:15:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77f67778768b161ebeda78f279643819.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Showtime with Rohit Sharma",
+      "description": "The host has a conversation with professional cricketer Rohit Sharma regarding his history and fondest memories with the franchise of Mumbai Indians.",
+      "startDate": "2026-10-24T10:15:00",
+      "endDate": "2026-10-24T10:30:00",
+      "showTime": "10:15:00",
+      "endTime": "10:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8d731e73153914fb448bcf98c6cb0973.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "AEW PPV 2026",
+      "description": "AEW PPV 2026",
+      "startDate": "2026-10-24T10:30:00",
+      "endDate": "2026-10-24T15:30:00",
+      "showTime": "10:30:00",
+      "endTime": "15:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1b0d2bbce84c7743f7ecdc2eae41487c.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "BWF World Tour Badminton",
+      "description": "Elite shuttlers compete in international competitions across the BWF World Tour, vying for ranking points and prestigious titles.",
+      "startDate": "2026-10-24T15:30:00",
+      "endDate": "2026-10-24T18:00:00",
+      "showTime": "15:30:00",
+      "endTime": "18:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccf4822f49a919f73b0f61ceb94337a0.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Professional Fighters League Mena",
+      "description": "Talented MMA players from around the world compete in the Professional Fighters League with the hopes of emerging victorious.",
+      "startDate": "2026-10-24T18:00:00",
+      "endDate": "2026-10-24T19:00:00",
+      "showTime": "18:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8ee93013ab25a52023652c38e3adf582.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "WWE LFG",
+      "description": "An inside look at what it truly takes to make it in the WWE. Paul Levesque, Shawn Michaels and weekly regular coaches Undertaker, Booker T, Mickie James and Bubba Ray Dudley mentor a new generation.",
+      "startDate": "2026-10-24T19:00:00",
+      "endDate": "2026-10-24T20:00:00",
+      "showTime": "19:00:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/da882d6424885388c98cbe57c3164dac.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "BWF World Tour Badminton",
+      "description": "Elite shuttlers compete in international competitions across the BWF World Tour, vying for ranking points and prestigious titles.",
+      "startDate": "2026-10-24T20:00:00",
+      "endDate": "2026-10-24T22:00:00",
+      "showTime": "20:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccf4822f49a919f73b0f61ceb94337a0.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "TNA Wrestling: Pehalwani Patakha",
+      "description": "Highlights from the IMPACT wrestling series of TNA Wrestling, where professional wrestlers compete against each other for victory, in Hindi.",
+      "startDate": "2026-10-24T22:00:00",
+      "endDate": "2026-10-24T23:00:00",
+      "showTime": "22:00:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b513751135ee37fd96b2f29eb568c57d.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "BWF World Tour Badminton",
+      "description": "Elite shuttlers compete in international competitions across the BWF World Tour, vying for ranking points and prestigious titles.",
+      "startDate": "2026-10-24T23:00:00",
+      "endDate": "2026-10-24T23:59:59",
+      "showTime": "23:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccf4822f49a919f73b0f61ceb94337a0.jpg"
     }
   ]
 }

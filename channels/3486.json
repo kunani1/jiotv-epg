@@ -1810,6 +1810,83 @@
       "endTime": "23:59:59",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f17c7a9517a4c89af9a4907d74f6b597.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Headlines",
+      "description": "The host presents the latest news stories, socio-economic updates and political developments regarding current affairs from across the nation and the world.",
+      "startDate": "2026-10-24T00:00:00",
+      "endDate": "2026-10-24T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee1266e713927506befb5be488289444.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Breaking News",
+      "description": "The host presents numerous top stories, latest happenings and significant updates from the national and international front.",
+      "startDate": "2026-10-24T01:00:00",
+      "endDate": "2026-10-24T02:00:00",
+      "showTime": "01:00:00",
+      "endTime": "02:00:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/719780c773167b63decf7a0cb2ff5cb4.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "MP News Bulletin",
+      "description": "MP News Bulletin",
+      "startDate": "2026-10-24T02:00:00",
+      "endDate": "2026-10-24T03:00:00",
+      "showTime": "02:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c1c929227f719b7da851a7c96beff1c0.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Top 10 News",
+      "description": "The host presents a round-up of the top 10 social, political and economic news updates and developments from across the state.",
+      "startDate": "2026-10-24T03:00:00",
+      "endDate": "2026-10-24T04:00:00",
+      "showTime": "03:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f17c7a9517a4c89af9a4907d74f6b597.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "MP Special",
+      "description": "The host presents the latest and the most relevant social, political and economic updates from the state of Madhya Pradesh.",
+      "startDate": "2026-10-24T04:00:00",
+      "endDate": "2026-10-24T05:00:00",
+      "showTime": "04:00:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4aa51b47e51524a99e3da20c88426a65.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Sports News",
+      "description": "The host provides some of the most recent news, updates and developments pertaining to the world of sports in quick succession.",
+      "startDate": "2026-10-24T05:00:00",
+      "endDate": "2026-10-24T06:00:00",
+      "showTime": "05:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ec8f6c52eedc8020ae003770e6df5cb8.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "MP Today",
+      "description": "MP Today",
+      "startDate": "2026-10-24T06:00:00",
+      "endDate": "2026-10-24T23:59:59",
+      "showTime": "06:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "News",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/14511d732329765e7eb75531561fa500.jpg"
     }
   ]
 }

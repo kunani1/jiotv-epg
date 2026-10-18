@@ -1854,6 +1854,83 @@
       "endTime": "23:59:59",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/11d8e8491e39ef45a252b33b120f4307.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Special Story",
+      "description": "The host presents in detail the latest updates and key developments pertaining to the political, social and economy matters of the country.",
+      "startDate": "2026-10-24T00:00:00",
+      "endDate": "2026-10-24T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/169fd56d741eae1bc3a44850515411de.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Local News",
+      "description": "The host sheds light on the latest news updates pertaining to the political, social, economic and sports fronts from around the region.",
+      "startDate": "2026-10-24T01:00:00",
+      "endDate": "2026-10-24T02:00:00",
+      "showTime": "01:00:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df4b70667c1655355b08f45e526cd8d2.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Special Story",
+      "description": "The host presents in detail the latest updates and key developments pertaining to the political, social and economy matters of the country.",
+      "startDate": "2026-10-24T02:00:00",
+      "endDate": "2026-10-24T03:00:00",
+      "showTime": "02:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/169fd56d741eae1bc3a44850515411de.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Gujart News",
+      "description": "Gujart News",
+      "startDate": "2026-10-24T03:00:00",
+      "endDate": "2026-10-24T04:00:00",
+      "showTime": "03:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85bd759a70b5c8d97c56d2e2c6c4a17b.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Local News",
+      "description": "The host sheds light on the latest news updates pertaining to the political, social, economic and sports fronts from around the region.",
+      "startDate": "2026-10-24T04:00:00",
+      "endDate": "2026-10-24T05:00:00",
+      "showTime": "04:00:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df4b70667c1655355b08f45e526cd8d2.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Dayli News",
+      "description": "Dayli News",
+      "startDate": "2026-10-24T05:00:00",
+      "endDate": "2026-10-24T06:00:00",
+      "showTime": "05:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29eada7ef199988a29374b2712f27521.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Gj Desi News",
+      "description": "Gj Desi News",
+      "startDate": "2026-10-24T06:00:00",
+      "endDate": "2026-10-24T23:59:59",
+      "showTime": "06:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "News",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1e12ccfcaa46258085821f928caa3eb9.jpg"
     }
   ]
 }
