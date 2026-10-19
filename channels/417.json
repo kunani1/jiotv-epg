@@ -8,105 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png",
   "programs": [
     {
-      "serverDate": "2026-10-17",
-      "showName": "Pandiyanin Rajiyathil",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-10-17T00:00:00",
-      "endDate": "2026-10-17T01:30:00",
-      "showTime": "00:00:00",
-      "endTime": "01:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0cb228edf3499a7fcb94886ed690d00.jpg"
-    },
-    {
-      "serverDate": "2026-10-17",
-      "showName": "Nee Naan Nizhal",
-      "description": "Anwar investigates the death of five Indians in Malaysia. While it looks like a racial attack at first, the case takes a turn when he learns that the victims were online friends with the same girl.",
-      "startDate": "2026-10-17T01:30:00",
-      "endDate": "2026-10-17T04:00:00",
-      "showTime": "01:30:00",
-      "endTime": "04:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8939d48016f639fde71557fa77a01c7.jpg"
-    },
-    {
-      "serverDate": "2026-10-17",
-      "showName": "Kadhal Devathai",
-      "description": "Raju, a caretaker of four orphaned children, is elated when he finds a magical ring in the Himalayas. On the other hand, Indraja, the daughter of Lord Indra, lands on Earth to retrieve her lost ring.",
-      "startDate": "2026-10-17T04:00:00",
-      "endDate": "2026-10-17T07:00:00",
-      "showTime": "04:00:00",
-      "endTime": "07:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e759eb041d34e6f96ca57d43a67551da.jpg"
-    },
-    {
-      "serverDate": "2026-10-17",
-      "showName": "Neethaane En Ponvasantham",
-      "description": "Varun and Nithya's childhood romance is cut short when they pursue different paths in life. Years later, fate reunites them and Varun sets out on a heartfelt journey to win back the love of his life.",
-      "startDate": "2026-10-17T07:00:00",
-      "endDate": "2026-10-17T10:00:00",
-      "showTime": "07:00:00",
-      "endTime": "10:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/621121ec91c8719424c02303557695ae.jpg"
-    },
-    {
-      "serverDate": "2026-10-17",
-      "showName": "Namma Veettu Kalyanam",
-      "description": "Two sisters, Meena and Sitha, fall in love with two college professors and get married to them, only to find out that their husbands are unemployed and are posing as professors.",
-      "startDate": "2026-10-17T10:00:00",
-      "endDate": "2026-10-17T13:00:00",
-      "showTime": "10:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/80c59c6a34cc3faa86b0a45c5d01438d.jpg"
-    },
-    {
-      "serverDate": "2026-10-17",
-      "showName": "Veetula Raman Veliyila Krishnan",
-      "description": "Rajasekaran, a civil engineer, marries Jayalakshmi and moves to the city. Their peaceful life turns chaotic when their neighbour Subba Rao casts an evil eye on Jayalakshmi.",
-      "startDate": "2026-10-17T13:00:00",
-      "endDate": "2026-10-17T16:00:00",
-      "showTime": "13:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4e4c71b735f4ca253935469650316116.jpg"
-    },
-    {
-      "serverDate": "2026-10-17",
-      "showName": "Idhayathai Thirudathe",
-      "description": "A terminally ill man decides to live alone on a hill station and falls for a bubbly woman, until he makes a shocking discovery.",
-      "startDate": "2026-10-17T16:00:00",
-      "endDate": "2026-10-17T19:00:00",
-      "showTime": "16:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cbe90aa4ba6e402b6e0e3aa559afbfc5.jpg"
-    },
-    {
-      "serverDate": "2026-10-17",
-      "showName": "Autograph",
-      "description": "Senthil, an advertising executive, decides to invite his old friends to his wedding. His past is unraveled as he sets out on a journey to meet his old friends and lovers.",
-      "startDate": "2026-10-17T19:00:00",
-      "endDate": "2026-10-17T22:30:00",
-      "showTime": "19:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/31ffdcf4fc0e54957a8177fd56569e63.jpg"
-    },
-    {
-      "serverDate": "2026-10-17",
-      "showName": "Namma Veettu Kalyanam",
-      "description": "Two sisters, Meena and Sitha, fall in love with two college professors and get married to them, only to find out that their husbands are unemployed and are posing as professors.",
-      "startDate": "2026-10-17T22:30:00",
-      "endDate": "2026-10-17T23:59:59",
-      "showTime": "22:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/80c59c6a34cc3faa86b0a45c5d01438d.jpg"
-    },
-    {
       "serverDate": "2026-10-18",
       "showName": "Namma Veettu Kalyanam",
       "description": "Two sisters, Meena and Sitha, fall in love with two college professors and get married to them, only to find out that their husbands are unemployed and are posing as professors.",
@@ -798,6 +699,105 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/baa4103e7aa60cff01dba5cc9fc24cef.jpg"
+    },
+    {
+      "serverDate": "2026-10-25",
+      "showName": "Oru Thaai Makkal",
+      "description": "A rich man adopts one of the twin sons of his maid after his own child dies. However, fate brings the brothers face to face when they both fall in love with the same woman.",
+      "startDate": "2026-10-25T00:00:00",
+      "endDate": "2026-10-25T01:30:00",
+      "showTime": "00:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/baa4103e7aa60cff01dba5cc9fc24cef.jpg"
+    },
+    {
+      "serverDate": "2026-10-25",
+      "showName": "Thalaippu Seithigal",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-10-25T01:30:00",
+      "endDate": "2026-10-25T04:00:00",
+      "showTime": "01:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a3384cc104579ce37d406fdfc213f23e.jpg"
+    },
+    {
+      "serverDate": "2026-10-25",
+      "showName": "Thai Meethu Sathyam",
+      "description": "Babu vows to take revenge on Balu and Johnny, who killed his family members, and trains himself for the fight. Unknown to him, the culprit is someone very close to him.",
+      "startDate": "2026-10-25T04:00:00",
+      "endDate": "2026-10-25T07:00:00",
+      "showTime": "04:00:00",
+      "endTime": "07:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1bb0d7694d2792ec942bd8d78f88169f.jpg"
+    },
+    {
+      "serverDate": "2026-10-25",
+      "showName": "Nilaave Vaa",
+      "description": "Siluvai, a Christian man, wants to get married to Sangeetha, a Hindu woman who is already engaged to Siva. Her father is against their union, but Siva decides to help them.",
+      "startDate": "2026-10-25T07:00:00",
+      "endDate": "2026-10-25T10:00:00",
+      "showTime": "07:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/399d13fa663302376e7dd85f22550451.jpg"
+    },
+    {
+      "serverDate": "2026-10-25",
+      "showName": "Nootrenbadhu",
+      "description": "A doctor diagnosed with cancer returns to India. There, he meets a journalist who slowly falls in love with him.",
+      "startDate": "2026-10-25T10:00:00",
+      "endDate": "2026-10-25T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a08d69d42a8fc548b5cbe8736885de3c.jpg"
+    },
+    {
+      "serverDate": "2026-10-25",
+      "showName": "Michael Madana Kama Rajan",
+      "description": "A wicked man separates a set of quadruplets after their birth, while one of them ends up with their biological father, the other three find new homes. However, chaos ensues when they cross paths.",
+      "startDate": "2026-10-25T13:00:00",
+      "endDate": "2026-10-25T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fdc04e9eafb19b576f9482472f5ae97a.jpg"
+    },
+    {
+      "serverDate": "2026-10-25",
+      "showName": "Kadhal Vairus",
+      "description": "Filmmaker Deepak falls for Geetha, but misunderstandings tear them apart. She marries an aspiring actor seeking a role in Deepak's next project, entangling love and ambition.",
+      "startDate": "2026-10-25T16:00:00",
+      "endDate": "2026-10-25T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b76521a66edcbe22858ee735bd60408e.jpg"
+    },
+    {
+      "serverDate": "2026-10-25",
+      "showName": "Thalaimagan",
+      "description": "Dheeran, an aggressive journalist, is dedicated to his work and faces many challenges while trying to expose a bottled water company that is causing harm to people.",
+      "startDate": "2026-10-25T19:00:00",
+      "endDate": "2026-10-25T22:30:00",
+      "showTime": "19:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56901de540dd43c7ed38f23d7a65cca3.jpg"
+    },
+    {
+      "serverDate": "2026-10-25",
+      "showName": "Nootrenbadhu",
+      "description": "A doctor diagnosed with cancer returns to India. There, he meets a journalist who slowly falls in love with him.",
+      "startDate": "2026-10-25T22:30:00",
+      "endDate": "2026-10-25T23:59:59",
+      "showTime": "22:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a08d69d42a8fc548b5cbe8736885de3c.jpg"
     }
   ]
 }
