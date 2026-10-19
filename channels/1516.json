@@ -793,8 +793,19 @@
       "showName": "Mast Maza",
       "description": "The host presides over an entertaining game show featuring women contestants who also deliver captivating dance performances.",
       "startDate": "2026-10-20T00:30:00",
-      "endDate": "2026-10-20T01:30:00",
+      "endDate": "2026-10-20T00:40:00",
       "showTime": "00:30:00",
+      "endTime": "00:40:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b7c94bbd7c92d6c7637b427c9a744891.jpg"
+    },
+    {
+      "serverDate": "2026-10-20",
+      "showName": "Mast Maza",
+      "description": "The host presides over an entertaining game show featuring women contestants who also deliver captivating dance performances.",
+      "startDate": "2026-10-20T00:40:00",
+      "endDate": "2026-10-20T01:30:00",
+      "showTime": "00:40:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b7c94bbd7c92d6c7637b427c9a744891.jpg"
@@ -812,14 +823,14 @@
     },
     {
       "serverDate": "2026-10-20",
-      "showName": "Cine Geethalu",
-      "description": "The host presents a musical show featuring popular Telugu movie songs playing back-to-back and highlights the singers and composers.",
+      "showName": "Metro Plus",
+      "description": "The host provides insights and information on various important events and current affairs taking place in the city of Hyderabad in Telangana.",
       "startDate": "2026-10-20T02:30:00",
       "endDate": "2026-10-20T03:00:00",
       "showTime": "02:30:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8d6418e2bca68c55bc04afff1fd1bedc.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/20cad41ee59e7353ec9a7c30ca441b86.jpg"
     },
     {
       "serverDate": "2026-10-20",
@@ -955,55 +966,66 @@
     },
     {
       "serverDate": "2026-10-20",
-      "showName": "White Elephant",
-      "description": "Gabriel Tancredi, a widower and a marine veteran who works for Arnold Solomon, a ruthless mafia leader, breaks his protocols to save the life of a police officer.",
+      "showName": "Navadurga Bhakthi Geethalu",
+      "description": "Navadurga Bhakthi Geethalu",
       "startDate": "2026-10-20T09:00:00",
-      "endDate": "2026-10-20T11:00:00",
+      "endDate": "2026-10-20T10:00:00",
       "showTime": "09:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26eeb336d690dfd35a83be41ac6296a9.jpg"
+    },
+    {
+      "serverDate": "2026-10-20",
+      "showName": "Express News",
+      "description": "The host presents a rapid update of the top news headlines, latest happenings and significant updates from different parts of the country.",
+      "startDate": "2026-10-20T10:00:00",
+      "endDate": "2026-10-20T10:05:00",
+      "showTime": "10:00:00",
+      "endTime": "10:05:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee7507eb98258e40570b12759f667fa5.jpg"
+    },
+    {
+      "serverDate": "2026-10-20",
+      "showName": "Dance Ballet Nava Bhavani Vaibhavam",
+      "description": "Dance Ballet Nava Bhavani Vaibhavam",
+      "startDate": "2026-10-20T10:05:00",
+      "endDate": "2026-10-20T11:00:00",
+      "showTime": "10:05:00",
       "endTime": "11:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c6955fccbde192985405f919a1282b6.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26eeb336d690dfd35a83be41ac6296a9.jpg"
     },
     {
       "serverDate": "2026-10-20",
-      "showName": "Health Programme",
-      "description": "The host interacts with health experts who offer tips and suggestions for living a disease-free life, as well as insights into the treatments available for various ailments.",
+      "showName": "Ruchi",
+      "description": "Renowned chefs demonstrate their culinary skills as they prepare an assortment of delicious dishes and provide tips and suggestions.",
       "startDate": "2026-10-20T11:00:00",
-      "endDate": "2026-10-20T11:45:00",
+      "endDate": "2026-10-20T11:35:00",
       "showTime": "11:00:00",
-      "endTime": "11:45:00",
+      "endTime": "11:35:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5c6a6d0160e906d4e170bd21d430e12.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd6e0e7e033788bfe1802ae9bc8956be.jpg"
     },
     {
       "serverDate": "2026-10-20",
-      "showName": "Cine Geethalu",
-      "description": "The host presents a musical show featuring popular Telugu movie songs playing back-to-back and highlights the singers and composers.",
-      "startDate": "2026-10-20T11:45:00",
-      "endDate": "2026-10-20T12:00:00",
-      "showTime": "11:45:00",
-      "endTime": "12:00:00",
+      "showName": "Best Of Patala Pallaki",
+      "description": "Best Of Patala Pallaki",
+      "startDate": "2026-10-20T11:35:00",
+      "endDate": "2026-10-20T12:25:00",
+      "showTime": "11:35:00",
+      "endTime": "12:25:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8d6418e2bca68c55bc04afff1fd1bedc.jpg"
-    },
-    {
-      "serverDate": "2026-10-20",
-      "showName": "Natya Ravali",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-20T12:00:00",
-      "endDate": "2026-10-20T12:30:00",
-      "showTime": "12:00:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/47e7f7a75f9940c4b6d2265639593091.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3cdc82c8543e6c0906222cbf7c2d8ebb.jpg"
     },
     {
       "serverDate": "2026-10-20",
       "showName": "Singidi",
       "description": "Bringing the best in television.",
-      "startDate": "2026-10-20T12:30:00",
+      "startDate": "2026-10-20T12:25:00",
       "endDate": "2026-10-20T13:00:00",
-      "showTime": "12:30:00",
+      "showTime": "12:25:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2c52e1a06a613d5c80692c8db50bf9ce.jpg"
@@ -1065,14 +1087,14 @@
     },
     {
       "serverDate": "2026-10-20",
-      "showName": "Cine Geethalu",
-      "description": "The host presents a musical show featuring popular Telugu movie songs playing back-to-back and highlights the singers and composers.",
+      "showName": "Sebi Varostavalu",
+      "description": "Sebi Varostavalu",
       "startDate": "2026-10-20T18:30:00",
       "endDate": "2026-10-20T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8d6418e2bca68c55bc04afff1fd1bedc.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-20",
@@ -1186,23 +1208,12 @@
     },
     {
       "serverDate": "2026-10-21",
-      "showName": "Cine Geethalu",
-      "description": "The host presents a musical show featuring popular Telugu movie songs playing back-to-back and highlights the singers and composers.",
-      "startDate": "2026-10-21T02:30:00",
-      "endDate": "2026-10-21T03:00:00",
-      "showTime": "02:30:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8d6418e2bca68c55bc04afff1fd1bedc.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
       "showName": "Classical Music",
       "description": "A comprehensive compilation of melodious songs composed and performed by renowned composers and artists in classical music.",
-      "startDate": "2026-10-21T03:00:00",
-      "endDate": "2026-10-21T04:00:00",
-      "showTime": "03:00:00",
-      "endTime": "04:00:00",
+      "startDate": "2026-10-21T02:30:00",
+      "endDate": "2026-10-21T03:30:00",
+      "showTime": "02:30:00",
+      "endTime": "03:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/49287101b09322355d1c83ee49be790a.jpg"
     },
@@ -1210,9 +1221,9 @@
       "serverDate": "2026-10-21",
       "showName": "Classical Dance",
       "description": "Artists adept in the various forms of Indian classical dance perform an inspiring and captivating recital to enthrall the audience.",
-      "startDate": "2026-10-21T04:00:00",
+      "startDate": "2026-10-21T03:30:00",
       "endDate": "2026-10-21T05:00:00",
-      "showTime": "04:00:00",
+      "showTime": "03:30:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/42fdb37804e3f815b4c8a932305a9752.jpg"
@@ -1398,9 +1409,9 @@
       "showName": "Top Hero",
       "description": "Balu, an orphan, is approached by a wealthy woman to get her wayward family in line. He not only teaches them a lesson but also protects them from Jala Rakshasudu, a murderer.",
       "startDate": "2026-10-21T14:00:00",
-      "endDate": "2026-10-21T16:30:00",
+      "endDate": "2026-10-21T16:40:00",
       "showTime": "14:00:00",
-      "endTime": "16:30:00",
+      "endTime": "16:40:00",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ce38e636f5de6d91ca9915bafe348841.jpg"
     },
@@ -1408,9 +1419,9 @@
       "serverDate": "2026-10-21",
       "showName": "Cine Geethalu",
       "description": "The host presents a musical show featuring popular Telugu movie songs playing back-to-back and highlights the singers and composers.",
-      "startDate": "2026-10-21T16:30:00",
+      "startDate": "2026-10-21T16:40:00",
       "endDate": "2026-10-21T17:00:00",
-      "showTime": "16:30:00",
+      "showTime": "16:40:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8d6418e2bca68c55bc04afff1fd1bedc.jpg"
