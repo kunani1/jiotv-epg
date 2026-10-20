@@ -8,160 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Cinema.png",
   "programs": [
     {
-      "serverDate": "2026-10-18",
-      "showName": "Bro",
-      "description": "An arrogant young man meets his end in a fatal car accident and meets the god of time. While the god grants him three months to set his life in order, the man realises the error of his previous ways.",
-      "startDate": "2026-10-18T00:00:00",
-      "endDate": "2026-10-18T01:00:00",
-      "showTime": "00:00:00",
-      "endTime": "01:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eda47a1740be8c5cf47d0d902b3b0f71.jpg"
-    },
-    {
-      "serverDate": "2026-10-18",
-      "showName": "Lakshmi Pooja",
-      "description": "Ramraj and his family deeply worship Devi Maa Lakshmi. But because they didn't keep some promises to the goddess, they now face many troubles in their lives.",
-      "startDate": "2026-10-18T01:00:00",
-      "endDate": "2026-10-18T04:00:00",
-      "showTime": "01:00:00",
-      "endTime": "04:00:00",
-      "showCategory": "Short Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ab71044bd10e695bf9304bbe31c9611.jpg"
-    },
-    {
-      "serverDate": "2026-10-18",
-      "showName": "Songs",
-      "description": "A comprehensive compilation of popular songs, performed by gifted artists and musicians, is played in rapid succession.",
-      "startDate": "2026-10-18T04:00:00",
-      "endDate": "2026-10-18T06:00:00",
-      "showTime": "04:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/db0c5006ecaefecf06ea1ecea2a7239b.jpg"
-    },
-    {
-      "serverDate": "2026-10-18",
-      "showName": "Yoga Based Programme",
-      "description": "Yoga experts showcase various postures and meditation methods, offering practical tools for managing everyday stress and improving wellbeing.",
-      "startDate": "2026-10-18T06:00:00",
-      "endDate": "2026-10-18T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/da965292be0bc199409f051da787a7e7.jpg"
-    },
-    {
-      "serverDate": "2026-10-18",
-      "showName": "Madhurimalu",
-      "description": "A chef shares some kitchen secrets, simple dessert recipes and demonstrates how to whip up mouthwatering treats in an easy-to-understand manner.",
-      "startDate": "2026-10-18T06:30:00",
-      "endDate": "2026-10-18T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f28e329e24e76a857892055f5ce6811.jpg"
-    },
-    {
-      "serverDate": "2026-10-18",
-      "showName": "Mahashakti",
-      "description": "A beautiful apsara named Tilottama gets cursed by Goddess Parvati and sent to Earth. However, the merciful goddess also shares with her a way to break the curse.",
-      "startDate": "2026-10-18T07:00:00",
-      "endDate": "2026-10-18T09:43:00",
-      "showTime": "07:00:00",
-      "endTime": "09:43:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d93ca0c6900c3f89c5a162f9550ccfec.jpg"
-    },
-    {
-      "serverDate": "2026-10-18",
-      "showName": "Telugu Hits",
-      "description": "A compilation of some of the most trending Telugu hits composed by famous artists is played back-to-back to enthrall the audience.",
-      "startDate": "2026-10-18T09:43:00",
-      "endDate": "2026-10-18T10:00:00",
-      "showTime": "09:43:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/06c20f83de74209bd1d7bf469ab03f8d.jpg"
-    },
-    {
-      "serverDate": "2026-10-18",
-      "showName": "Aditya - 369",
-      "description": "When an absent-minded professor successfully invents a time machine, Krishna, Hema and a smuggler Raja go to great lengths to procure the machine for their own reasons.",
-      "startDate": "2026-10-18T10:00:00",
-      "endDate": "2026-10-18T12:48:00",
-      "showTime": "10:00:00",
-      "endTime": "12:48:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b6b0462ab9042ce3c0b62f1007995447.jpg"
-    },
-    {
-      "serverDate": "2026-10-18",
-      "showName": "Telugu Hits",
-      "description": "A compilation of some of the most trending Telugu hits composed by famous artists is played back-to-back to enthrall the audience.",
-      "startDate": "2026-10-18T12:48:00",
-      "endDate": "2026-10-18T13:00:00",
-      "showTime": "12:48:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/06c20f83de74209bd1d7bf469ab03f8d.jpg"
-    },
-    {
-      "serverDate": "2026-10-18",
-      "showName": "Khaidi No.786",
-      "description": "A man, who marries a woman against her father's wishes, is implicated in a false case by the latter. He then sets out to prove his innocence and teach his father-in-law a lesson.",
-      "startDate": "2026-10-18T13:00:00",
-      "endDate": "2026-10-18T16:00:00",
-      "showTime": "13:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fd8bb86716193ab96a24ef96e2d41448.jpg"
-    },
-    {
-      "serverDate": "2026-10-18",
-      "showName": "Mayalodu",
-      "description": "Veerababu, a street magician, is implicated in a murder by Appalakonda, who has killed twice to get rich. Later, Veerababu has to use his magical powers to be exonerated.",
-      "startDate": "2026-10-18T16:00:00",
-      "endDate": "2026-10-18T18:48:00",
-      "showTime": "16:00:00",
-      "endTime": "18:48:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0b579635cd6518c60e7addf1c6c005ab.jpg"
-    },
-    {
-      "serverDate": "2026-10-18",
-      "showName": "Telugu Hits",
-      "description": "A compilation of some of the most trending Telugu hits composed by famous artists is played back-to-back to enthrall the audience.",
-      "startDate": "2026-10-18T18:48:00",
-      "endDate": "2026-10-18T19:00:00",
-      "showTime": "18:48:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/06c20f83de74209bd1d7bf469ab03f8d.jpg"
-    },
-    {
-      "serverDate": "2026-10-18",
-      "showName": "Gulebakavali Kadha",
-      "description": "King Chandrasena's wives, Gunavanthi and Rupavathi, compete for his affections. When Rupavathi gets pregnant, Gunavanthi plots to kill the baby, hoping to make her own son the heir.",
-      "startDate": "2026-10-18T19:00:00",
-      "endDate": "2026-10-18T22:00:00",
-      "showTime": "19:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/99ca03f63a646eb71d92e9f55cf5a551.jpg"
-    },
-    {
-      "serverDate": "2026-10-18",
-      "showName": "Spy",
-      "description": "An agent investigates the death of his elder brother with the help of his fellow agents. However, his actions lead to the discovery of a nuclear plot against India.",
-      "startDate": "2026-10-18T22:00:00",
-      "endDate": "2026-10-18T23:59:59",
-      "showTime": "22:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a601ec2de8c118110dad97dac3d6472.jpg"
-    },
-    {
       "serverDate": "2026-10-19",
       "showName": "Spy",
       "description": "An agent investigates the death of his elder brother with the help of his fellow agents. However, his actions lead to the discovery of a nuclear plot against India.",
@@ -1073,6 +919,94 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b51961fd5bf9055b95b1ce3dc4684486.jpg"
+    },
+    {
+      "serverDate": "2026-10-26",
+      "showName": "Anweshippin Kandethum",
+      "description": "SI Anand returns from suspension and is asked to tackle a complex case. However, a new murder case tests his skill to uncover horrific secrets.",
+      "startDate": "2026-10-26T00:00:00",
+      "endDate": "2026-10-26T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b51961fd5bf9055b95b1ce3dc4684486.jpg"
+    },
+    {
+      "serverDate": "2026-10-26",
+      "showName": "Aakali Rajyam",
+      "description": "Three energetic and overqualified youth face poverty and hunger while struggling to get a job in a developing nation amidst a murky political scenario.",
+      "startDate": "2026-10-26T01:00:00",
+      "endDate": "2026-10-26T04:00:00",
+      "showTime": "01:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b62ce7043c41f935a2c374e59e6da34f.jpg"
+    },
+    {
+      "serverDate": "2026-10-26",
+      "showName": "Songs",
+      "description": "A comprehensive compilation of popular songs, performed by gifted artists and musicians, is played in rapid succession.",
+      "startDate": "2026-10-26T04:00:00",
+      "endDate": "2026-10-26T06:00:00",
+      "showTime": "04:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/db0c5006ecaefecf06ea1ecea2a7239b.jpg"
+    },
+    {
+      "serverDate": "2026-10-26",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-10-26T06:00:00",
+      "endDate": "2026-10-26T10:00:00",
+      "showTime": "06:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-10-26",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-10-26T10:00:00",
+      "endDate": "2026-10-26T14:00:00",
+      "showTime": "10:00:00",
+      "endTime": "14:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-10-26",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-10-26T14:00:00",
+      "endDate": "2026-10-26T18:00:00",
+      "showTime": "14:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-10-26",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-10-26T18:00:00",
+      "endDate": "2026-10-26T22:00:00",
+      "showTime": "18:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-10-26",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-10-26T22:00:00",
+      "endDate": "2026-10-26T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
     }
   ]
 }
