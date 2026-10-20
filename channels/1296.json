@@ -287,22 +287,33 @@
       "showName": "Maa Ka Saaya",
       "description": "Bringing the best in cinema.",
       "startDate": "2026-10-22T00:00:00",
-      "endDate": "2026-10-22T02:03:00",
+      "endDate": "2026-10-22T00:19:00",
       "showTime": "00:00:00",
-      "endTime": "02:03:00",
+      "endTime": "00:19:00",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-22",
-      "showName": "Ghare Aili Bhavani",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-22T02:03:00",
+      "showName": "Bahu Rani Saas Maharani",
+      "description": "A young woman who gets married into a joint family, learns that due to her mother-in-law's dominant nature, the household is divided from inside and thus, she decides to reunite them.",
+      "startDate": "2026-10-22T00:19:00",
+      "endDate": "2026-10-22T02:31:00",
+      "showTime": "00:19:00",
+      "endTime": "02:31:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f326c1862d410367e8aefddd8086f02e.jpg"
+    },
+    {
+      "serverDate": "2026-10-22",
+      "showName": "Bahangi Lachakat Jaye",
+      "description": "A compilation of devotional songs sung and composed by talented artists in praise of Chhathi Maiya is played back-to-back.",
+      "startDate": "2026-10-22T02:31:00",
       "endDate": "2026-10-22T05:00:00",
-      "showTime": "02:03:00",
+      "showTime": "02:31:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa58808771c78df1ec9683c85f63bb85.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/19fa3c354a25c85725485e4694ad88e2.jpg"
     },
     {
       "serverDate": "2026-10-22",
