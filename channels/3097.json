@@ -240,14 +240,14 @@
     },
     {
       "serverDate": "2026-10-22",
-      "showName": "Movie",
-      "description": "Bringing the best in cinema.",
+      "showName": "Aksar",
+      "description": "Rajveer cannot divorce his possessive wife Sheena due to an expensive pre-nuptial agreement. However, when he hires Ricky to seduce and get rid of her, his plan backfires.",
       "startDate": "2026-10-22T01:44:00",
       "endDate": "2026-10-22T03:00:00",
       "showTime": "01:44:00",
       "endTime": "03:00:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5a89e555321c27c3308aef243f1d2f4d.jpg"
     },
     {
       "serverDate": "2026-10-22",
@@ -677,6 +677,94 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-10-27T00:00:00",
+      "endDate": "2026-10-27T03:00:00",
+      "showTime": "00:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-10-27T03:00:00",
+      "endDate": "2026-10-27T06:00:00",
+      "showTime": "03:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-27T06:00:00",
+      "endDate": "2026-10-27T09:00:00",
+      "showTime": "06:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-27T09:00:00",
+      "endDate": "2026-10-27T12:00:00",
+      "showTime": "09:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-27T12:00:00",
+      "endDate": "2026-10-27T15:00:00",
+      "showTime": "12:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-27T15:00:00",
+      "endDate": "2026-10-27T18:00:00",
+      "showTime": "15:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-27T18:00:00",
+      "endDate": "2026-10-27T21:00:00",
+      "showTime": "18:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-27T21:00:00",
+      "endDate": "2026-10-27T23:59:59",
+      "showTime": "21:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"
     }
   ]
 }

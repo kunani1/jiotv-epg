@@ -8,149 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/rojatv.png",
   "programs": [
     {
-      "serverDate": "2026-10-19",
-      "showName": "Nerukku Ner",
-      "description": "When a woman decides to divorce her spouse after his confession about an extra-marital affair, it ensues a brawl between their brothers.",
-      "startDate": "2026-10-19T00:00:00",
-      "endDate": "2026-10-19T01:00:00",
-      "showTime": "00:00:00",
-      "endTime": "01:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/44becadc234a5aca45ad33c59dd09347.jpg"
-    },
-    {
-      "serverDate": "2026-10-19",
-      "showName": "Iravum Isaiyum",
-      "description": "A comprehensive compilation of peaceful melodious songs from evergreen movies is played to make the viewers fall into a blissful sleep.",
-      "startDate": "2026-10-19T01:00:00",
-      "endDate": "2026-10-19T03:30:00",
-      "showTime": "01:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/44dfbb46b915df5e2db3cf9e1e82bc58.jpg"
-    },
-    {
-      "serverDate": "2026-10-19",
-      "showName": "Isai Mazhai",
-      "description": "Isai Mazhai",
-      "startDate": "2026-10-19T03:30:00",
-      "endDate": "2026-10-19T06:00:00",
-      "showTime": "03:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a82ab0e822eec22cda19d3cf377b2b87.jpg"
-    },
-    {
-      "serverDate": "2026-10-19",
-      "showName": "Anbodu Aanmeegam",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-19T06:00:00",
-      "endDate": "2026-10-19T07:00:00",
-      "showTime": "06:00:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2cadac71b9bb9d9268a24786127fcc8c.jpg"
-    },
-    {
-      "serverDate": "2026-10-19",
-      "showName": "Kaalai Thendral",
-      "description": "A comprehensive compilation of renowned songs from movies are played back to back.",
-      "startDate": "2026-10-19T07:00:00",
-      "endDate": "2026-10-19T08:00:00",
-      "showTime": "07:00:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-19",
-      "showName": "Kalakkal Paadalgal",
-      "description": "Kalakkal Paadalgal",
-      "startDate": "2026-10-19T08:00:00",
-      "endDate": "2026-10-19T09:00:00",
-      "showTime": "08:00:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d65e23688b1532348ed04dd5c9d9640d.jpg"
-    },
-    {
-      "serverDate": "2026-10-19",
-      "showName": "Annamalai",
-      "description": "Annamalai, a milkman, and Ashok, the son of a rich businessman, are childhood friends. However, Ashok's father disapproves of their friendship and attempts to create a rift between the two.",
-      "startDate": "2026-10-19T09:00:00",
-      "endDate": "2026-10-19T12:00:00",
-      "showTime": "09:00:00",
-      "endTime": "12:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84d3f46b2acbaae5dd2d19344d922e95.jpg"
-    },
-    {
-      "serverDate": "2026-10-19",
-      "showName": "Kadhal Kadhal",
-      "description": "A comprehensive compilation of romantic songs written and composed by a number of talented artists is played back-to-back.",
-      "startDate": "2026-10-19T12:00:00",
-      "endDate": "2026-10-19T13:00:00",
-      "showTime": "12:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa8685e6c7b77a23a125243d698d9184.jpg"
-    },
-    {
-      "serverDate": "2026-10-19",
-      "showName": "Aval Varuvala",
-      "description": "Divya rejects Jeevan's love due to her past with her overbearing husband. But when she finally decides to marry Jeevan, her dreaded ex-husband reappears in her life.",
-      "startDate": "2026-10-19T13:00:00",
-      "endDate": "2026-10-19T16:00:00",
-      "showTime": "13:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/54536e94cbb0c2508da670c89a92c30a.jpg"
-    },
-    {
-      "serverDate": "2026-10-19",
-      "showName": "Songs Of The Day",
-      "description": "A comprehensive compilation of movie songs is played in quick succession.",
-      "startDate": "2026-10-19T16:00:00",
-      "endDate": "2026-10-19T18:00:00",
-      "showTime": "16:00:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/257fe64fb601e6ad0e928515c347150e.jpg"
-    },
-    {
-      "serverDate": "2026-10-19",
-      "showName": "Devotional Time",
-      "description": "30 minutes of beautiful scenery and a cappella singing to enrich your day.",
-      "startDate": "2026-10-19T18:00:00",
-      "endDate": "2026-10-19T19:00:00",
-      "showTime": "18:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/109d6de91e751cc5e7d7b580c3eeb482.jpg"
-    },
-    {
-      "serverDate": "2026-10-19",
-      "showName": "Avan Ivan",
-      "description": "A benevolent landlord embraces two half-brothers as his chosen family, nurturing their dreams, but their lives take a perilous turn when they cross paths with a notorious cattle smuggler.",
-      "startDate": "2026-10-19T19:00:00",
-      "endDate": "2026-10-19T22:00:00",
-      "showTime": "19:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fc5037d82368c3784dc6225a5247f3e1.jpg"
-    },
-    {
-      "serverDate": "2026-10-19",
-      "showName": "Raavanan",
-      "description": "A bandit kidnaps a police officer's wife, but they end up falling in love with each other. However, when the officer learns the truth, he exploits their bond to capture the bandit.",
-      "startDate": "2026-10-19T22:00:00",
-      "endDate": "2026-10-19T23:59:59",
-      "showTime": "22:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/309a3e95d67301a1f3d7d3b79d6551f8.jpg"
-    },
-    {
       "serverDate": "2026-10-20",
       "showName": "Raavanan",
       "description": "A bandit kidnaps a police officer's wife, but they end up falling in love with each other. However, when the officer learns the truth, he exploits their bond to capture the bandit.",
@@ -324,7 +181,7 @@
       "showTime": "03:30:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a82ab0e822eec22cda19d3cf377b2b87.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/737e109dc84710b050eae5136a7a109a.jpg"
     },
     {
       "serverDate": "2026-10-21",
@@ -361,14 +218,14 @@
     },
     {
       "serverDate": "2026-10-21",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Vivaramana Aalu",
+      "description": "A robber abandons his wife for a wealthy woman, but soon regrets his decision. Later, he returns, vowing to win back her trust and prove his love.",
       "startDate": "2026-10-21T09:00:00",
       "endDate": "2026-10-21T12:00:00",
       "showTime": "09:00:00",
       "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2c06c07da004f40ba47ff672d6df4349.jpg"
     },
     {
       "serverDate": "2026-10-21",
@@ -383,14 +240,14 @@
     },
     {
       "serverDate": "2026-10-21",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Maha Nadigan",
+      "description": "Sathya, a junior artiste, manages to secure a chance to play a hero in a movie. As his fame gradually increases, he decides to enter politics.",
       "startDate": "2026-10-21T13:00:00",
       "endDate": "2026-10-21T16:00:00",
       "showTime": "13:00:00",
       "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bee72f0d6369f59cda90a53b8f74b048.jpg"
     },
     {
       "serverDate": "2026-10-21",
@@ -416,36 +273,36 @@
     },
     {
       "serverDate": "2026-10-21",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Deva Music",
+      "description": "Deva Music",
       "startDate": "2026-10-21T19:00:00",
       "endDate": "2026-10-21T22:00:00",
       "showTime": "19:00:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-21",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Ghajini",
+      "description": "Chitra decides to study the case of Surya, a man suffering from short term memory loss, for her medical school project. Meanwhile, Surya sets out on a quest to take revenge on his lover's killers.",
       "startDate": "2026-10-21T22:00:00",
       "endDate": "2026-10-21T23:59:59",
       "showTime": "22:00:00",
       "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56b6cd425c551bdfd5dcb548dad336ff.jpg"
     },
     {
       "serverDate": "2026-10-22",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Ghajini",
+      "description": "Chitra decides to study the case of Surya, a man suffering from short term memory loss, for her medical school project. Meanwhile, Surya sets out on a quest to take revenge on his lover's killers.",
       "startDate": "2026-10-22T00:00:00",
       "endDate": "2026-10-22T01:00:00",
       "showTime": "00:00:00",
       "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56b6cd425c551bdfd5dcb548dad336ff.jpg"
     },
     {
       "serverDate": "2026-10-22",
@@ -1146,6 +1003,149 @@
       "description": "Bringing the best in television.",
       "startDate": "2026-10-26T22:00:00",
       "endDate": "2026-10-26T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-27T00:00:00",
+      "endDate": "2026-10-27T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Iravum Isaiyum",
+      "description": "A comprehensive compilation of peaceful melodious songs from evergreen movies is played to make the viewers fall into a blissful sleep.",
+      "startDate": "2026-10-27T01:00:00",
+      "endDate": "2026-10-27T03:30:00",
+      "showTime": "01:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/44dfbb46b915df5e2db3cf9e1e82bc58.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Isai Mazhai",
+      "description": "Isai Mazhai",
+      "startDate": "2026-10-27T03:30:00",
+      "endDate": "2026-10-27T06:00:00",
+      "showTime": "03:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a82ab0e822eec22cda19d3cf377b2b87.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Anbodu Aanmeegam",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-27T06:00:00",
+      "endDate": "2026-10-27T07:00:00",
+      "showTime": "06:00:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2cadac71b9bb9d9268a24786127fcc8c.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Kaalai Thendral",
+      "description": "A comprehensive compilation of renowned songs from movies are played back to back.",
+      "startDate": "2026-10-27T07:00:00",
+      "endDate": "2026-10-27T08:00:00",
+      "showTime": "07:00:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Kalakkal Paadalgal",
+      "description": "Kalakkal Paadalgal",
+      "startDate": "2026-10-27T08:00:00",
+      "endDate": "2026-10-27T09:00:00",
+      "showTime": "08:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d65e23688b1532348ed04dd5c9d9640d.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-27T09:00:00",
+      "endDate": "2026-10-27T12:00:00",
+      "showTime": "09:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Kadhal Kadhal",
+      "description": "A comprehensive compilation of romantic songs written and composed by a number of talented artists is played back-to-back.",
+      "startDate": "2026-10-27T12:00:00",
+      "endDate": "2026-10-27T13:00:00",
+      "showTime": "12:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa8685e6c7b77a23a125243d698d9184.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-27T13:00:00",
+      "endDate": "2026-10-27T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Songs Of The Day",
+      "description": "A comprehensive compilation of movie songs is played in quick succession.",
+      "startDate": "2026-10-27T16:00:00",
+      "endDate": "2026-10-27T18:00:00",
+      "showTime": "16:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/257fe64fb601e6ad0e928515c347150e.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Devotional Time",
+      "description": "30 minutes of beautiful scenery and a cappella singing to enrich your day.",
+      "startDate": "2026-10-27T18:00:00",
+      "endDate": "2026-10-27T19:00:00",
+      "showTime": "18:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/109d6de91e751cc5e7d7b580c3eeb482.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-27T19:00:00",
+      "endDate": "2026-10-27T22:00:00",
+      "showTime": "19:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-27T22:00:00",
+      "endDate": "2026-10-27T23:59:59",
       "showTime": "22:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
