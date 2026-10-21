@@ -834,25 +834,58 @@
     },
     {
       "serverDate": "2026-10-26",
-      "showName": "TNA Xplosion",
-      "description": "Professional wrestlers from all around the world compete against each other in the TNA Xplosion in order to win the coveted title.",
+      "showName": "Showtime with Rohit Sharma",
+      "description": "The host has a conversation with professional cricketer Rohit Sharma regarding his history and fondest memories with the franchise of Mumbai Indians.",
       "startDate": "2026-10-26T00:00:00",
-      "endDate": "2026-10-26T02:00:00",
+      "endDate": "2026-10-26T00:15:00",
       "showTime": "00:00:00",
-      "endTime": "02:00:00",
+      "endTime": "00:15:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fea02a52c36d9dff12909db79b26770d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8d731e73153914fb448bcf98c6cb0973.jpg"
     },
     {
       "serverDate": "2026-10-26",
-      "showName": "Sports Programme",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-26T02:00:00",
+      "showName": "Eurosport",
+      "description": "Eurosport",
+      "startDate": "2026-10-26T00:15:00",
+      "endDate": "2026-10-26T02:15:00",
+      "showTime": "00:15:00",
+      "endTime": "02:15:00",
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1b0d2bbce84c7743f7ecdc2eae41487c.jpg"
+    },
+    {
+      "serverDate": "2026-10-26",
+      "showName": "World Pickleball League",
+      "description": "Players from different parts of the world participate in the World Pickleball League and showcase their unique skills in order to emerge victorious.",
+      "startDate": "2026-10-26T02:15:00",
+      "endDate": "2026-10-26T04:00:00",
+      "showTime": "02:15:00",
+      "endTime": "04:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f4d496643e1c4b6b48658842ff081a1.jpg"
+    },
+    {
+      "serverDate": "2026-10-26",
+      "showName": "One-Day International Cricket",
+      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
+      "startDate": "2026-10-26T04:00:00",
+      "endDate": "2026-10-26T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
+    },
+    {
+      "serverDate": "2026-10-26",
+      "showName": "World Pickleball League Highlights",
+      "description": "Highlights of professional pickleball teams competing against each other in the World Pickleball League to emerge victorious and win the coveted title.",
+      "startDate": "2026-10-26T04:30:00",
       "endDate": "2026-10-26T06:00:00",
-      "showTime": "02:00:00",
+      "showTime": "04:30:00",
       "endTime": "06:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1b0d2bbce84c7743f7ecdc2eae41487c.jpg"
     },
     {
       "serverDate": "2026-10-26",
@@ -925,19 +958,8 @@
       "showName": "Sports Programme",
       "description": "Bringing the best in television.",
       "startDate": "2026-10-27T02:00:00",
-      "endDate": "2026-10-27T06:00:00",
-      "showTime": "02:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
-    },
-    {
-      "serverDate": "2026-10-27",
-      "showName": "Sports Programme",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-27T06:00:00",
       "endDate": "2026-10-27T10:00:00",
-      "showTime": "06:00:00",
+      "showTime": "02:00:00",
       "endTime": "10:00:00",
       "showCategory": "Sports non-event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
