@@ -1211,11 +1211,33 @@
       "showName": "Newsroom Tokyo",
       "description": "Comprehensive coverage of events in Japan and Asia. It explains the day's developments and what is behind them.",
       "startDate": "2026-10-21T17:30:00",
-      "endDate": "2026-10-21T18:00:00",
+      "endDate": "2026-10-21T17:45:00",
       "showTime": "17:30:00",
-      "endTime": "18:00:00",
+      "endTime": "17:45:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dbb5506a31909758b1d4ff5e425681fb.jpg"
+    },
+    {
+      "serverDate": "2026-10-21",
+      "showName": "MATSURI: The Heartbeat of Japan",
+      "description": "Traditional festivals called *matsuri* are found all over Japan. They present a diverse selection of *matsuri* and the preparations leading up to them. Each *matsuri* showcases a different side to Japan.",
+      "startDate": "2026-10-21T17:45:00",
+      "endDate": "2026-10-21T17:55:00",
+      "showTime": "17:45:00",
+      "endTime": "17:55:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/da344c5951628b610caac1744dc99c98.jpg"
+    },
+    {
+      "serverDate": "2026-10-21",
+      "showName": "The Masterpieces of Ukiyo-E Producer Tsutaju",
+      "description": "Featuring a look at the masterpieces of Tsutaju, a ukiyo-e artist from the Edo Period.",
+      "startDate": "2026-10-21T17:55:00",
+      "endDate": "2026-10-21T18:00:00",
+      "showTime": "17:55:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/78389533e60ebbf10e3ae502aced07ae.jpg"
     },
     {
       "serverDate": "2026-10-21",
