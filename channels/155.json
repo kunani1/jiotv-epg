@@ -1178,11 +1178,22 @@
       "showName": "T20 Cricket",
       "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
       "startDate": "2026-10-24T22:30:00",
-      "endDate": "2026-10-24T23:30:00",
+      "endDate": "2026-10-24T23:00:00",
       "showTime": "22:30:00",
-      "endTime": "23:30:00",
+      "endTime": "23:00:00",
       "showCategory": "Sports non-event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3bd907a139e61a689bbde89266428f6c.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Test Cricket",
+      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
+      "startDate": "2026-10-24T23:00:00",
+      "endDate": "2026-10-24T23:30:00",
+      "showTime": "23:00:00",
+      "endTime": "23:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1527,25 +1538,25 @@
     },
     {
       "serverDate": "2026-10-25",
-      "showName": "T20 Cricket",
-      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
+      "showName": "UEFA Europa League Highlights",
+      "description": "Comprehensive coverage of UEFA Europa League matches, featuring key highlights, expert analysis and all the action from Europe's top football competition.",
       "startDate": "2026-10-25T22:30:00",
       "endDate": "2026-10-25T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3bd907a139e61a689bbde89266428f6c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f585293c9c1c1dfd2b076ca85424f1a3.jpg"
     },
     {
       "serverDate": "2026-10-25",
-      "showName": "UEFA Europa League Highlights",
-      "description": "Comprehensive coverage of UEFA Europa League matches, featuring key highlights, expert analysis and all the action from Europe's top football competition.",
+      "showName": "Test Cricket",
+      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
       "startDate": "2026-10-25T23:00:00",
       "endDate": "2026-10-25T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f585293c9c1c1dfd2b076ca85424f1a3.jpg"
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
     },
     {
       "serverDate": "2026-10-25",

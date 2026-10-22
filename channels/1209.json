@@ -8,578 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Kalaignar_TV.png",
   "programs": [
     {
-      "serverDate": "2026-10-21",
-      "showName": "Uriyadi",
-      "description": "The lives of four bachelors, who lead a carefree life, take a turn when they are dragged into a political fight. But, as time passes, they end up finding their mutual interconnections.",
-      "startDate": "2026-10-21T00:00:00",
-      "endDate": "2026-10-21T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6c80a04fab1420bdbc8501d1bd8796e6.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Inthavaara Kalakalappu",
-      "description": "A comprehensive compilation of hilarious comedy scenes, featuring popular artists, is played back-to-back for the entertainment of the viewers.",
-      "startDate": "2026-10-21T00:30:00",
-      "endDate": "2026-10-21T02:00:00",
-      "showTime": "00:30:00",
-      "endTime": "02:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9618be17a798cf5b8a8e5d0bd7790ecd.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Pazhaya Vannarapettai",
-      "description": "The police arrest five college students as suspects in the murder of a politician. After one of them is detained as the killer and the rest are set free, his friend goes after the real culprit.",
-      "startDate": "2026-10-21T02:00:00",
-      "endDate": "2026-10-21T05:00:00",
-      "showTime": "02:00:00",
-      "endTime": "05:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3c9d0753a1767197b81255b746ccaed4.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Songs",
-      "description": "A comprehensive compilation of popular and famous songs produced and composed by talented musical artists is played back-to-back.",
-      "startDate": "2026-10-21T05:00:00",
-      "endDate": "2026-10-21T05:30:00",
-      "showTime": "05:00:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/795bf089921794845dc9553f6d1862ed.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Thenum Paalum",
-      "description": "A comprehensive compilation of melodious songs composed by renowned musicians and performed by various artists in Tamil movies played back to back.",
-      "startDate": "2026-10-21T05:30:00",
-      "endDate": "2026-10-21T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a95c5d26e7abf7ce21d78af6ab98bcc3.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Ramanujar",
-      "description": "Ramanuja, a learned philosopher, travels the subcontinent and brings his teachings to ardent followers of the Hindu faith.",
-      "startDate": "2026-10-21T06:00:00",
-      "endDate": "2026-10-21T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/750842cbebec41bae69d6f7a94b2a7c5.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Slot",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-21T06:30:00",
-      "endDate": "2026-10-21T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b61de726655aebb9b429fac9ca34747.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Songs",
-      "description": "A comprehensive compilation of popular and famous songs produced and composed by talented musical artists is played back-to-back.",
-      "startDate": "2026-10-21T07:00:00",
-      "endDate": "2026-10-21T07:30:00",
-      "showTime": "07:00:00",
-      "endTime": "07:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/795bf089921794845dc9553f6d1862ed.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "News",
-      "description": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country.",
-      "startDate": "2026-10-21T07:30:00",
-      "endDate": "2026-10-21T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df208b3247938ef1ed8e85b5554bdcef.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Vidiyale Vaa",
-      "description": "The host provides information on various trending topics related to fitness, technology, finance, society, economy and culture and interviews experts on them.",
-      "startDate": "2026-10-21T08:00:00",
-      "endDate": "2026-10-21T08:30:00",
-      "showTime": "08:00:00",
-      "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f1a664582eeb36e57c2f03a9ee922145.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Snehithiye",
-      "description": "The host engages in discussions on topics related to women's issues, along with home and lifestyle tips.",
-      "startDate": "2026-10-21T08:30:00",
-      "endDate": "2026-10-21T09:00:00",
-      "showTime": "08:30:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5792956c091167af81261f84e9a9b98.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Azhagi",
-      "description": "Sundari, a widow, raises her three children, Natraj, Mathi and Surya with love and support amidst several hardships. But, things turn bad in the family when Natraj gets married to a rich girl.",
-      "startDate": "2026-10-21T09:00:00",
-      "endDate": "2026-10-21T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4c468f969577b8b2a0cdcbe3a31b025.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Katrathu Samayal",
-      "description": "The host presents a wide range of delicious recipes, demonstrates their preparation and shares useful culinary tips with the viewers.",
-      "startDate": "2026-10-21T09:30:00",
-      "endDate": "2026-10-21T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4dcb088184e4d232eb68a7cdce4c36bf.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Kolangal",
-      "description": "Abhinaya, a hardworking woman, faces several hardships because of the people around her, including Adhitya, her stepbrother.",
-      "startDate": "2026-10-21T10:00:00",
-      "endDate": "2026-10-21T10:30:00",
-      "showTime": "10:00:00",
-      "endTime": "10:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f7020ff4fcfe16a06b45fcaaca08e60.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Thendral",
-      "description": "A young girl named Thulasi dreams of continuing her education despite living with a middle-class family that shuns her.",
-      "startDate": "2026-10-21T10:30:00",
-      "endDate": "2026-10-21T11:00:00",
-      "showTime": "10:30:00",
-      "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e179fead2886acb31a6cb9ac63c5ea08.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Vinnaithaandi Varuvaayaa",
-      "description": "A Hindu assistant director, Karthik, falls in love with Jessie, a Christian from a traditional family. Things change when Karthik becomes busy during a forty-day shoot in Goa.",
-      "startDate": "2026-10-21T11:00:00",
-      "endDate": "2026-10-21T13:00:00",
-      "showTime": "11:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fca9b7f71b99940bd48eac0e3c9e3fb7.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "News",
-      "description": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country.",
-      "startDate": "2026-10-21T13:00:00",
-      "endDate": "2026-10-21T13:30:00",
-      "showTime": "13:00:00",
-      "endTime": "13:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df208b3247938ef1ed8e85b5554bdcef.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Sillunu Oru Kaadhal",
-      "description": "After reading her husband's old diary, a wife learns about his intense college romance, prompting her to reevaluate their seemingly perfect life together.",
-      "startDate": "2026-10-21T13:30:00",
-      "endDate": "2026-10-21T17:00:00",
-      "showTime": "13:30:00",
-      "endTime": "17:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4efa23ca1cd1a56e4cd24780cba018a.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Inthavaara Kalakalappu",
-      "description": "A comprehensive compilation of hilarious comedy scenes, featuring popular artists, is played back-to-back for the entertainment of the viewers.",
-      "startDate": "2026-10-21T17:00:00",
-      "endDate": "2026-10-21T17:30:00",
-      "showTime": "17:00:00",
-      "endTime": "17:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9618be17a798cf5b8a8e5d0bd7790ecd.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "News",
-      "description": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country.",
-      "startDate": "2026-10-21T17:30:00",
-      "endDate": "2026-10-21T18:00:00",
-      "showTime": "17:30:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df208b3247938ef1ed8e85b5554bdcef.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Katrathu Samayal",
-      "description": "The host presents a wide range of delicious recipes, demonstrates their preparation and shares useful culinary tips with the viewers.",
-      "startDate": "2026-10-21T18:00:00",
-      "endDate": "2026-10-21T18:30:00",
-      "showTime": "18:00:00",
-      "endTime": "18:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4dcb088184e4d232eb68a7cdce4c36bf.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Ramanujar",
-      "description": "Ramanuja, a learned philosopher, travels the subcontinent and brings his teachings to ardent followers of the Hindu faith.",
-      "startDate": "2026-10-21T18:30:00",
-      "endDate": "2026-10-21T19:00:00",
-      "showTime": "18:30:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/750842cbebec41bae69d6f7a94b2a7c5.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Priyamanaval",
-      "description": "A gentle mother enjoys an idyllic existence alongside her spouse and offspring. However, a resentful companion secretly schemes to seize her fortune.",
-      "startDate": "2026-10-21T19:00:00",
-      "endDate": "2026-10-21T20:00:00",
-      "showTime": "19:00:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dad2a24a0cf05c6924b4b764283d8703.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Kannethirey Thondrinaal",
-      "description": "Rathnam exchanges newborn babies Sakthi and Anitha to grant riches to his child. Therefore, Rudra faces destiny because Anitha grows improperly.",
-      "startDate": "2026-10-21T20:00:00",
-      "endDate": "2026-10-21T20:30:00",
-      "showTime": "20:00:00",
-      "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/029ed89ce308265ff9b2b97d24ee63fe.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Thendral",
-      "description": "A young girl named Thulasi dreams of continuing her education despite living with a middle-class family that shuns her.",
-      "startDate": "2026-10-21T20:30:00",
-      "endDate": "2026-10-21T21:00:00",
-      "showTime": "20:30:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e179fead2886acb31a6cb9ac63c5ea08.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Kuttram Kadithal",
-      "description": "Merlin, a school teacher, lands in trouble when she slaps Chezhiyan, an arrogant student. Chezhiyan becomes unconscious and goes into a coma.",
-      "startDate": "2026-10-21T21:00:00",
-      "endDate": "2026-10-21T23:59:59",
-      "showTime": "21:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e86e25e86dc21d5aa07bd24f7596a19a.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Kuttram Kadithal",
-      "description": "Merlin, a school teacher, lands in trouble when she slaps Chezhiyan, an arrogant student. Chezhiyan becomes unconscious and goes into a coma.",
-      "startDate": "2026-10-22T00:00:00",
-      "endDate": "2026-10-22T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e86e25e86dc21d5aa07bd24f7596a19a.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Inthavaara Kalakalappu",
-      "description": "A comprehensive compilation of hilarious comedy scenes, featuring popular artists, is played back-to-back for the entertainment of the viewers.",
-      "startDate": "2026-10-22T00:30:00",
-      "endDate": "2026-10-22T02:00:00",
-      "showTime": "00:30:00",
-      "endTime": "02:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9618be17a798cf5b8a8e5d0bd7790ecd.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Killadi",
-      "description": "Dharani, a daring youth, gives refuge to Anjali, a rich girl, who fled from her house to escape a marriage with her rowdy uncle. But, his act of goodwill invites more trouble for him and his family.",
-      "startDate": "2026-10-22T02:00:00",
-      "endDate": "2026-10-22T04:30:00",
-      "showTime": "02:00:00",
-      "endTime": "04:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba0074d9f185050cd68712e3c48837fa.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Songs",
-      "description": "A comprehensive compilation of popular and famous songs produced and composed by talented musical artists is played back-to-back.",
-      "startDate": "2026-10-22T04:30:00",
-      "endDate": "2026-10-22T05:30:00",
-      "showTime": "04:30:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/795bf089921794845dc9553f6d1862ed.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Thenum Paalum",
-      "description": "A comprehensive compilation of melodious songs composed by renowned musicians and performed by various artists in Tamil movies played back to back.",
-      "startDate": "2026-10-22T05:30:00",
-      "endDate": "2026-10-22T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a95c5d26e7abf7ce21d78af6ab98bcc3.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Ramanujar",
-      "description": "Ramanuja, a learned philosopher, travels the subcontinent and brings his teachings to ardent followers of the Hindu faith.",
-      "startDate": "2026-10-22T06:00:00",
-      "endDate": "2026-10-22T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/750842cbebec41bae69d6f7a94b2a7c5.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Slot",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-22T06:30:00",
-      "endDate": "2026-10-22T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b61de726655aebb9b429fac9ca34747.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Songs",
-      "description": "A comprehensive compilation of popular and famous songs produced and composed by talented musical artists is played back-to-back.",
-      "startDate": "2026-10-22T07:00:00",
-      "endDate": "2026-10-22T07:30:00",
-      "showTime": "07:00:00",
-      "endTime": "07:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/795bf089921794845dc9553f6d1862ed.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "News",
-      "description": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country.",
-      "startDate": "2026-10-22T07:30:00",
-      "endDate": "2026-10-22T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df208b3247938ef1ed8e85b5554bdcef.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Vidiyale Vaa",
-      "description": "The host provides information on various trending topics related to fitness, technology, finance, society, economy and culture and interviews experts on them.",
-      "startDate": "2026-10-22T08:00:00",
-      "endDate": "2026-10-22T08:30:00",
-      "showTime": "08:00:00",
-      "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f1a664582eeb36e57c2f03a9ee922145.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Snehithiye",
-      "description": "The host engages in discussions on topics related to women's issues, along with home and lifestyle tips.",
-      "startDate": "2026-10-22T08:30:00",
-      "endDate": "2026-10-22T09:00:00",
-      "showTime": "08:30:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5792956c091167af81261f84e9a9b98.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Azhagi",
-      "description": "Sundari, a widow, raises her three children, Natraj, Mathi and Surya with love and support amidst several hardships. But, things turn bad in the family when Natraj gets married to a rich girl.",
-      "startDate": "2026-10-22T09:00:00",
-      "endDate": "2026-10-22T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4c468f969577b8b2a0cdcbe3a31b025.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Katrathu Samayal",
-      "description": "The host presents a wide range of delicious recipes, demonstrates their preparation and shares useful culinary tips with the viewers.",
-      "startDate": "2026-10-22T09:30:00",
-      "endDate": "2026-10-22T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4dcb088184e4d232eb68a7cdce4c36bf.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Kolangal",
-      "description": "Abhinaya, a hardworking woman, faces several hardships because of the people around her, including Adhitya, her stepbrother.",
-      "startDate": "2026-10-22T10:00:00",
-      "endDate": "2026-10-22T10:30:00",
-      "showTime": "10:00:00",
-      "endTime": "10:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f7020ff4fcfe16a06b45fcaaca08e60.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Thendral",
-      "description": "A young girl named Thulasi dreams of continuing her education despite living with a middle-class family that shuns her.",
-      "startDate": "2026-10-22T10:30:00",
-      "endDate": "2026-10-22T11:00:00",
-      "showTime": "10:30:00",
-      "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e179fead2886acb31a6cb9ac63c5ea08.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Seval",
-      "description": "Murugesan lives a wayward life and earns the wrath of his father after selling his grandfather's land. He falls in love with Parijatham, but an elderly man has his eyes set on her.",
-      "startDate": "2026-10-22T11:00:00",
-      "endDate": "2026-10-22T13:00:00",
-      "showTime": "11:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/082bbcc4d479a2e96e3a86289c5fc702.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "News",
-      "description": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country.",
-      "startDate": "2026-10-22T13:00:00",
-      "endDate": "2026-10-22T13:30:00",
-      "showTime": "13:00:00",
-      "endTime": "13:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df208b3247938ef1ed8e85b5554bdcef.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Singaravelan",
-      "description": "Velan's mother tells him to find his cousin, Sumathi, who lives in the city and marry her. Velan sets out to find her with the help of a childhood photograph.",
-      "startDate": "2026-10-22T13:30:00",
-      "endDate": "2026-10-22T17:00:00",
-      "showTime": "13:30:00",
-      "endTime": "17:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3bce87c9bad5202d61d80e7258187a25.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Inthavaara Kalakalappu",
-      "description": "A comprehensive compilation of hilarious comedy scenes, featuring popular artists, is played back-to-back for the entertainment of the viewers.",
-      "startDate": "2026-10-22T17:00:00",
-      "endDate": "2026-10-22T17:30:00",
-      "showTime": "17:00:00",
-      "endTime": "17:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9618be17a798cf5b8a8e5d0bd7790ecd.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "News",
-      "description": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country.",
-      "startDate": "2026-10-22T17:30:00",
-      "endDate": "2026-10-22T18:00:00",
-      "showTime": "17:30:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df208b3247938ef1ed8e85b5554bdcef.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Katrathu Samayal",
-      "description": "The host presents a wide range of delicious recipes, demonstrates their preparation and shares useful culinary tips with the viewers.",
-      "startDate": "2026-10-22T18:00:00",
-      "endDate": "2026-10-22T18:30:00",
-      "showTime": "18:00:00",
-      "endTime": "18:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4dcb088184e4d232eb68a7cdce4c36bf.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Ramanujar",
-      "description": "Ramanuja, a learned philosopher, travels the subcontinent and brings his teachings to ardent followers of the Hindu faith.",
-      "startDate": "2026-10-22T18:30:00",
-      "endDate": "2026-10-22T19:00:00",
-      "showTime": "18:30:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/750842cbebec41bae69d6f7a94b2a7c5.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Priyamanaval",
-      "description": "A gentle mother enjoys an idyllic existence alongside her spouse and offspring. However, a resentful companion secretly schemes to seize her fortune.",
-      "startDate": "2026-10-22T19:00:00",
-      "endDate": "2026-10-22T20:00:00",
-      "showTime": "19:00:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dad2a24a0cf05c6924b4b764283d8703.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Kannethirey Thondrinaal",
-      "description": "Rathnam exchanges newborn babies Sakthi and Anitha to grant riches to his child. Therefore, Rudra faces destiny because Anitha grows improperly.",
-      "startDate": "2026-10-22T20:00:00",
-      "endDate": "2026-10-22T20:30:00",
-      "showTime": "20:00:00",
-      "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/029ed89ce308265ff9b2b97d24ee63fe.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Thendral",
-      "description": "A young girl named Thulasi dreams of continuing her education despite living with a middle-class family that shuns her.",
-      "startDate": "2026-10-22T20:30:00",
-      "endDate": "2026-10-22T21:00:00",
-      "showTime": "20:30:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e179fead2886acb31a6cb9ac63c5ea08.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Iravin Nizhal",
-      "description": "Nandu, a 50-year-old financier, struggles with his past actions as he searches for his rival, experiencing a journey of reflection that delves into his inner turmoil and shadowed decisions.",
-      "startDate": "2026-10-22T21:00:00",
-      "endDate": "2026-10-22T23:59:59",
-      "showTime": "21:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d8e2b9caea33d8f7c3c889c9362691fe.jpg"
-    },
-    {
       "serverDate": "2026-10-23",
       "showName": "Iravin Nizhal",
       "description": "Nandu, a 50-year-old financier, struggles with his past actions as he searches for his rival, experiencing a journey of reflection that delves into his inner turmoil and shadowed decisions.",
@@ -903,33 +331,33 @@
       "showName": "Songs",
       "description": "A comprehensive compilation of popular and famous songs produced and composed by talented musical artists is played back-to-back.",
       "startDate": "2026-10-24T04:30:00",
-      "endDate": "2026-10-24T05:00:00",
+      "endDate": "2026-10-24T05:30:00",
       "showTime": "04:30:00",
-      "endTime": "05:00:00",
+      "endTime": "05:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/795bf089921794845dc9553f6d1862ed.jpg"
     },
     {
       "serverDate": "2026-10-24",
-      "showName": "Songs",
-      "description": "A comprehensive compilation of popular and famous songs produced and composed by talented musical artists is played back-to-back.",
-      "startDate": "2026-10-24T05:00:00",
+      "showName": "Thenum Paalum",
+      "description": "A comprehensive compilation of melodious songs composed by renowned musicians and performed by various artists in Tamil movies played back to back.",
+      "startDate": "2026-10-24T05:30:00",
       "endDate": "2026-10-24T06:00:00",
-      "showTime": "05:00:00",
+      "showTime": "05:30:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/795bf089921794845dc9553f6d1862ed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a95c5d26e7abf7ce21d78af6ab98bcc3.jpg"
     },
     {
       "serverDate": "2026-10-24",
-      "showName": "Inthavaara Kalakalappu",
-      "description": "A comprehensive compilation of hilarious comedy scenes, featuring popular artists, is played back-to-back for the entertainment of the viewers.",
+      "showName": "Ramanujar",
+      "description": "Ramanuja, a learned philosopher, travels the subcontinent and brings his teachings to ardent followers of the Hindu faith.",
       "startDate": "2026-10-24T06:00:00",
       "endDate": "2026-10-24T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9618be17a798cf5b8a8e5d0bd7790ecd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/750842cbebec41bae69d6f7a94b2a7c5.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -966,36 +394,25 @@
     },
     {
       "serverDate": "2026-10-24",
-      "showName": "Inthavaara Kalakalappu",
-      "description": "A comprehensive compilation of hilarious comedy scenes, featuring popular artists, is played back-to-back for the entertainment of the viewers.",
+      "showName": "A Aa E Ee",
+      "description": "Anitha's marriage is fixed with Elango by her father, Subramaniam. When Anitha tells him about how Akash jilted her, a sympathetic Elango decides to set things right between them.",
       "startDate": "2026-10-24T08:00:00",
-      "endDate": "2026-10-24T09:00:00",
-      "showTime": "08:00:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9618be17a798cf5b8a8e5d0bd7790ecd.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "MasterChef India -- Tamil",
-      "description": "Talented home cooks and amateur chefs compete with one another by completing various cooking challenges to ultimately win the 'MasterChef' trophy.",
-      "startDate": "2026-10-24T09:00:00",
       "endDate": "2026-10-24T10:00:00",
-      "showTime": "09:00:00",
+      "showTime": "08:00:00",
       "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/51f1df99de80110314bdc93da16e8395.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5275496b9ba114b2615e0b5d8a2dad24.jpg"
     },
     {
       "serverDate": "2026-10-24",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Kannai Nambathey",
+      "description": "When Arun helps a woman, she gets killed and the evidence frames Arun as the perpetrator. However, unable to report the crime, Arun is compelled to probe the killing and prove his innocence.",
       "startDate": "2026-10-24T10:00:00",
       "endDate": "2026-10-24T13:00:00",
       "showTime": "10:00:00",
       "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a7112889ae4157ffced25a6c9a61ccc3.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1010,25 +427,25 @@
     },
     {
       "serverDate": "2026-10-24",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Viduthalai Part 2",
+      "description": "After being captured by the police, the rebellious Perumal Vaathiyaar comes clean about his past and his ascension to power.",
       "startDate": "2026-10-24T13:30:00",
-      "endDate": "2026-10-24T16:30:00",
+      "endDate": "2026-10-24T17:00:00",
       "showTime": "13:30:00",
-      "endTime": "16:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "endTime": "17:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/54d048fbb748f92ed5ad4149d3bdebde.jpg"
     },
     {
       "serverDate": "2026-10-24",
-      "showName": "Vaa Thamizha Vaa",
-      "description": "The host moderates a panel of competitors as they demonstrate their oratory capabilities by debating on several critical topics pertaining to Tamil society, culture and beyond.",
-      "startDate": "2026-10-24T16:30:00",
+      "showName": "Inthavaara Kalakalappu",
+      "description": "A comprehensive compilation of hilarious comedy scenes, featuring popular artists, is played back-to-back for the entertainment of the viewers.",
+      "startDate": "2026-10-24T17:00:00",
       "endDate": "2026-10-24T17:30:00",
-      "showTime": "16:30:00",
+      "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a9d50743f85980d5dddba5b43d2e551.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9618be17a798cf5b8a8e5d0bd7790ecd.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1043,154 +460,110 @@
     },
     {
       "serverDate": "2026-10-24",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Katrathu Samayal",
+      "description": "The host presents a wide range of delicious recipes, demonstrates their preparation and shares useful culinary tips with the viewers.",
       "startDate": "2026-10-24T18:00:00",
-      "endDate": "2026-10-24T19:00:00",
+      "endDate": "2026-10-24T18:30:00",
       "showTime": "18:00:00",
-      "endTime": "19:00:00",
+      "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4dcb088184e4d232eb68a7cdce4c36bf.jpg"
     },
     {
       "serverDate": "2026-10-24",
-      "showName": "Nadhaswaram",
-      "description": "Gopi, the owner of a tailor shop and son of Chokkalingam, a Nadaswaram player, goes about his daily life, with several ups and downs, along with his family.",
+      "showName": "Ramanujar",
+      "description": "Ramanuja, a learned philosopher, travels the subcontinent and brings his teachings to ardent followers of the Hindu faith.",
+      "startDate": "2026-10-24T18:30:00",
+      "endDate": "2026-10-24T19:00:00",
+      "showTime": "18:30:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/750842cbebec41bae69d6f7a94b2a7c5.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Priyamanaval",
+      "description": "A gentle mother enjoys an idyllic existence alongside her spouse and offspring. However, a resentful companion secretly schemes to seize her fortune.",
       "startDate": "2026-10-24T19:00:00",
       "endDate": "2026-10-24T20:00:00",
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25de1e829ba72b5d0716790d79eb94ed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dad2a24a0cf05c6924b4b764283d8703.jpg"
     },
     {
       "serverDate": "2026-10-24",
-      "showName": "Gowri",
-      "description": "Gowri descends to the mortal world in order to defeat the evil powers that attempt to threaten the peace and well-being of humanity.",
+      "showName": "Kannethirey Thondrinaal",
+      "description": "Rathnam exchanges newborn babies Sakthi and Anitha to grant riches to his child. Therefore, Rudra faces destiny because Anitha grows improperly.",
       "startDate": "2026-10-24T20:00:00",
       "endDate": "2026-10-24T20:30:00",
       "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/72fe897d5a103d81469263eeb5f3c9ee.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/029ed89ce308265ff9b2b97d24ee63fe.jpg"
     },
     {
       "serverDate": "2026-10-24",
-      "showName": "Pavithra",
-      "description": "After the demise of her parents, a young girl named Pavithra returns to her grandmother's house, where she experiences a series of events.",
+      "showName": "Iruvar",
+      "description": "Marking the reunion of Kollywood's legendary icons, Rajinikanth and Kamal Haasan, their film directors and industry technicians gather to discuss the details behind their shoots.",
       "startDate": "2026-10-24T20:30:00",
-      "endDate": "2026-10-24T21:00:00",
-      "showTime": "20:30:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/479790519333063a01a8f62a2c195aff.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Ullam Kollai Poguthada",
-      "description": "Ram and Priya, two individuals that are worlds apart, enter an arranged marriage. Soon, they face challenges that alter their relationship.",
-      "startDate": "2026-10-24T21:00:00",
       "endDate": "2026-10-24T21:30:00",
-      "showTime": "21:00:00",
+      "showTime": "20:30:00",
       "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/31b020385b70336336a79b2f1a6217f6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/620dd21ab38e7fa537bc280f1b323358.jpg"
     },
     {
       "serverDate": "2026-10-24",
-      "showName": "Ini Ellam Vasanthame",
-      "description": "After Dev loses his father at a young age, he gets very attached to his mother. However, his mother dislikes the woman he loves and keeps him in a position where he must choose between the two.",
+      "showName": "Guru",
+      "description": "Guru, an ambitious man, along with his wife, leaves his small village behind to pursue his dream of opening his own business.",
       "startDate": "2026-10-24T21:30:00",
-      "endDate": "2026-10-24T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/189c8791b7428dff458f1f39ee094a25.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-24T22:00:00",
       "endDate": "2026-10-24T23:59:59",
-      "showTime": "22:00:00",
+      "showTime": "21:30:00",
       "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c837d81d164f6c2ddde5262382d10008.jpg"
     },
     {
       "serverDate": "2026-10-25",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Guru",
+      "description": "Guru, an ambitious man, along with his wife, leaves his small village behind to pursue his dream of opening his own business.",
       "startDate": "2026-10-25T00:00:00",
-      "endDate": "2026-10-25T01:30:00",
+      "endDate": "2026-10-25T01:00:00",
       "showTime": "00:00:00",
-      "endTime": "01:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "endTime": "01:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c837d81d164f6c2ddde5262382d10008.jpg"
     },
     {
       "serverDate": "2026-10-25",
       "showName": "Inthavaara Kalakalappu",
       "description": "A comprehensive compilation of hilarious comedy scenes, featuring popular artists, is played back-to-back for the entertainment of the viewers.",
-      "startDate": "2026-10-25T01:30:00",
+      "startDate": "2026-10-25T01:00:00",
       "endDate": "2026-10-25T02:00:00",
-      "showTime": "01:30:00",
+      "showTime": "01:00:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9618be17a798cf5b8a8e5d0bd7790ecd.jpg"
     },
     {
       "serverDate": "2026-10-25",
-      "showName": "Songs",
-      "description": "A comprehensive compilation of popular and famous songs produced and composed by talented musical artists is played back-to-back.",
+      "showName": "Thotta",
+      "description": "A young boy's life takes a dark turn after the death of his mother, causing him to get involved with corrupt officials. However, he turns over a new leaf after falling in love with a woman.",
       "startDate": "2026-10-25T02:00:00",
-      "endDate": "2026-10-25T03:30:00",
-      "showTime": "02:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/795bf089921794845dc9553f6d1862ed.jpg"
-    },
-    {
-      "serverDate": "2026-10-25",
-      "showName": "Ramzan Slot",
-      "description": "A comprehensive and detailed insight into various matters related to Ramadan, a festival celebrated by Muslims across the world.",
-      "startDate": "2026-10-25T03:30:00",
-      "endDate": "2026-10-25T04:00:00",
-      "showTime": "03:30:00",
-      "endTime": "04:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-25",
-      "showName": "Ramzan Slot",
-      "description": "A comprehensive and detailed insight into various matters related to Ramadan, a festival celebrated by Muslims across the world.",
-      "startDate": "2026-10-25T04:00:00",
       "endDate": "2026-10-25T04:30:00",
-      "showTime": "04:00:00",
+      "showTime": "02:00:00",
       "endTime": "04:30:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-25",
-      "showName": "Ramzan Slot",
-      "description": "A comprehensive and detailed insight into various matters related to Ramadan, a festival celebrated by Muslims across the world.",
-      "startDate": "2026-10-25T04:30:00",
-      "endDate": "2026-10-25T05:00:00",
-      "showTime": "04:30:00",
-      "endTime": "05:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e76310a5ad947484eb627f6daf1c59ab.jpg"
     },
     {
       "serverDate": "2026-10-25",
       "showName": "Songs",
       "description": "A comprehensive compilation of popular and famous songs produced and composed by talented musical artists is played back-to-back.",
-      "startDate": "2026-10-25T05:00:00",
+      "startDate": "2026-10-25T04:30:00",
       "endDate": "2026-10-25T05:30:00",
-      "showTime": "05:00:00",
+      "showTime": "04:30:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/795bf089921794845dc9553f6d1862ed.jpg"
@@ -1252,47 +625,47 @@
     },
     {
       "serverDate": "2026-10-25",
-      "showName": "Movie",
+      "showName": "Sunday Super Comedy",
       "description": "Bringing the best in television.",
       "startDate": "2026-10-25T08:00:00",
-      "endDate": "2026-10-25T10:00:00",
+      "endDate": "2026-10-25T09:00:00",
       "showTime": "08:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3e0fb195710420aef166d552ccb08c16.jpg"
+    },
+    {
+      "serverDate": "2026-10-25",
+      "showName": "Pattimandram",
+      "description": "Two groups of people from different walks of life participate in a debate in the presence of a panel of well-known judges and audience.",
+      "startDate": "2026-10-25T09:00:00",
+      "endDate": "2026-10-25T10:00:00",
+      "showTime": "09:00:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a168f7b500a5442e6c1ca51dc3d50459.jpg"
     },
     {
       "serverDate": "2026-10-25",
-      "showName": "Vaa Thamizha Vaa",
-      "description": "The host moderates a panel of competitors as they demonstrate their oratory capabilities by debating on several critical topics pertaining to Tamil society, culture and beyond.",
+      "showName": "Poikkal Kuthirai",
+      "description": "Kathiravan loses his wife and his leg in an accident and decides to get a prosthetic leg with the compensation money. His life is complicated further when his daughter is hospitalised.",
       "startDate": "2026-10-25T10:00:00",
-      "endDate": "2026-10-25T11:00:00",
-      "showTime": "10:00:00",
-      "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a9d50743f85980d5dddba5b43d2e551.jpg"
-    },
-    {
-      "serverDate": "2026-10-25",
-      "showName": "Tamizhodu Vilayadu",
-      "description": "The host invites families to participate in exciting games that showcase Tamil wordplay and engaging challenges as they compete for fun and win prizes.",
-      "startDate": "2026-10-25T11:00:00",
       "endDate": "2026-10-25T12:00:00",
-      "showTime": "11:00:00",
+      "showTime": "10:00:00",
       "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e25204d0cbcfe58717c87599c309224f.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/497d1e2c7cd51cb554ae5028a9f99b41.jpg"
     },
     {
       "serverDate": "2026-10-25",
-      "showName": "MasterChef India -- Tamil",
-      "description": "Talented home cooks and amateur chefs compete with one another by completing various cooking challenges to ultimately win the 'MasterChef' trophy.",
+      "showName": "Vellithirai Vibes",
+      "description": "Bringing the best in television.",
       "startDate": "2026-10-25T12:00:00",
       "endDate": "2026-10-25T13:00:00",
       "showTime": "12:00:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/51f1df99de80110314bdc93da16e8395.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a6af8bb6846133147404f50e721a3523.jpg"
     },
     {
       "serverDate": "2026-10-25",
@@ -1307,25 +680,14 @@
     },
     {
       "serverDate": "2026-10-25",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Dasavatharam",
+      "description": "After a scientist realizes the danger of a bioweapon, he races against time to prevent its misuse when it is accidentally brought to India.",
       "startDate": "2026-10-25T13:30:00",
-      "endDate": "2026-10-25T17:00:00",
-      "showTime": "13:30:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
-    },
-    {
-      "serverDate": "2026-10-25",
-      "showName": "Inthavaara Kalakalappu",
-      "description": "A comprehensive compilation of hilarious comedy scenes, featuring popular artists, is played back-to-back for the entertainment of the viewers.",
-      "startDate": "2026-10-25T17:00:00",
       "endDate": "2026-10-25T17:30:00",
-      "showTime": "17:00:00",
+      "showTime": "13:30:00",
       "endTime": "17:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9618be17a798cf5b8a8e5d0bd7790ecd.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a80f7333b120da400b66123d439d68f0.jpg"
     },
     {
       "serverDate": "2026-10-25",
@@ -1340,99 +702,66 @@
     },
     {
       "serverDate": "2026-10-25",
-      "showName": "Tamizhodu Vilayadu",
-      "description": "The host invites families to participate in exciting games that showcase Tamil wordplay and engaging challenges as they compete for fun and win prizes.",
+      "showName": "Love Today",
+      "description": "Nikhita's father challenges her and Uthaman, the guy she is deeply in love with and wants to marry, to swap their phones. When they do, chaos erupts as their secrets come to light.",
       "startDate": "2026-10-25T18:00:00",
-      "endDate": "2026-10-25T19:00:00",
+      "endDate": "2026-10-25T21:30:00",
       "showTime": "18:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e25204d0cbcfe58717c87599c309224f.jpg"
+      "endTime": "21:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b064ac48146032aea8f41cbc10c4466e.jpg"
     },
     {
       "serverDate": "2026-10-25",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-25T19:00:00",
-      "endDate": "2026-10-25T22:30:00",
-      "showTime": "19:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
-    },
-    {
-      "serverDate": "2026-10-25",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-25T22:30:00",
+      "showName": "Nayaki",
+      "description": "Sanjay, a conniving youngster, takes his girlfriend to an old bungalow with the wrong intention. However, a vengeful spirit who cannot tolerate immoral men wants to kill him.",
+      "startDate": "2026-10-25T21:30:00",
       "endDate": "2026-10-25T23:59:59",
-      "showTime": "22:30:00",
+      "showTime": "21:30:00",
       "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8935de6a996e21eca6c09f49c070d3a0.jpg"
     },
     {
       "serverDate": "2026-10-26",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Nayaki",
+      "description": "Sanjay, a conniving youngster, takes his girlfriend to an old bungalow with the wrong intention. However, a vengeful spirit who cannot tolerate immoral men wants to kill him.",
       "startDate": "2026-10-26T00:00:00",
-      "endDate": "2026-10-26T02:00:00",
+      "endDate": "2026-10-26T01:00:00",
       "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8935de6a996e21eca6c09f49c070d3a0.jpg"
+    },
+    {
+      "serverDate": "2026-10-26",
+      "showName": "Inthavaara Kalakalappu",
+      "description": "A comprehensive compilation of hilarious comedy scenes, featuring popular artists, is played back-to-back for the entertainment of the viewers.",
+      "startDate": "2026-10-26T01:00:00",
+      "endDate": "2026-10-26T02:00:00",
+      "showTime": "01:00:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9618be17a798cf5b8a8e5d0bd7790ecd.jpg"
     },
     {
       "serverDate": "2026-10-26",
-      "showName": "Songs",
-      "description": "A comprehensive compilation of popular and famous songs produced and composed by talented musical artists is played back-to-back.",
+      "showName": "Kannum Kannum",
+      "description": "Sathyamoorthy goes to Kutralam in search of the girl of his dreams, not knowing that he has fallen in love with his friend's sister. Things change when Sathyamoorthy's friend dies in a mishap.",
       "startDate": "2026-10-26T02:00:00",
-      "endDate": "2026-10-26T03:30:00",
-      "showTime": "02:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/795bf089921794845dc9553f6d1862ed.jpg"
-    },
-    {
-      "serverDate": "2026-10-26",
-      "showName": "Ramzan Slot",
-      "description": "A comprehensive and detailed insight into various matters related to Ramadan, a festival celebrated by Muslims across the world.",
-      "startDate": "2026-10-26T03:30:00",
-      "endDate": "2026-10-26T04:00:00",
-      "showTime": "03:30:00",
-      "endTime": "04:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-26",
-      "showName": "Ramzan Slot",
-      "description": "A comprehensive and detailed insight into various matters related to Ramadan, a festival celebrated by Muslims across the world.",
-      "startDate": "2026-10-26T04:00:00",
       "endDate": "2026-10-26T04:30:00",
-      "showTime": "04:00:00",
+      "showTime": "02:00:00",
       "endTime": "04:30:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-26",
-      "showName": "Ramzan Slot",
-      "description": "A comprehensive and detailed insight into various matters related to Ramadan, a festival celebrated by Muslims across the world.",
-      "startDate": "2026-10-26T04:30:00",
-      "endDate": "2026-10-26T05:00:00",
-      "showTime": "04:30:00",
-      "endTime": "05:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/084f6c07ce1a3b848b6571d611fb9558.jpg"
     },
     {
       "serverDate": "2026-10-26",
       "showName": "Songs",
       "description": "A comprehensive compilation of popular and famous songs produced and composed by talented musical artists is played back-to-back.",
-      "startDate": "2026-10-26T05:00:00",
+      "startDate": "2026-10-26T04:30:00",
       "endDate": "2026-10-26T05:30:00",
-      "showTime": "05:00:00",
+      "showTime": "04:30:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/795bf089921794845dc9553f6d1862ed.jpg"
@@ -1450,14 +779,14 @@
     },
     {
       "serverDate": "2026-10-26",
-      "showName": "Inthavaara Kalakalappu",
-      "description": "A comprehensive compilation of hilarious comedy scenes, featuring popular artists, is played back-to-back for the entertainment of the viewers.",
+      "showName": "Ramanujar",
+      "description": "Ramanuja, a learned philosopher, travels the subcontinent and brings his teachings to ardent followers of the Hindu faith.",
       "startDate": "2026-10-26T06:00:00",
       "endDate": "2026-10-26T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9618be17a798cf5b8a8e5d0bd7790ecd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/750842cbebec41bae69d6f7a94b2a7c5.jpg"
     },
     {
       "serverDate": "2026-10-26",
@@ -1516,11 +845,22 @@
     },
     {
       "serverDate": "2026-10-26",
+      "showName": "Azhagi",
+      "description": "Sundari, a widow, raises her three children, Natraj, Mathi and Surya with love and support amidst several hardships. But, things turn bad in the family when Natraj gets married to a rich girl.",
+      "startDate": "2026-10-26T09:00:00",
+      "endDate": "2026-10-26T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4c468f969577b8b2a0cdcbe3a31b025.jpg"
+    },
+    {
+      "serverDate": "2026-10-26",
       "showName": "Nadhaswaram",
       "description": "Gopi, the owner of a tailor shop and son of Chokkalingam, a Nadaswaram player, goes about his daily life, with several ups and downs, along with his family.",
-      "startDate": "2026-10-26T09:00:00",
+      "startDate": "2026-10-26T09:30:00",
       "endDate": "2026-10-26T10:00:00",
-      "showTime": "09:00:00",
+      "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25de1e829ba72b5d0716790d79eb94ed.jpg"
@@ -1549,36 +889,14 @@
     },
     {
       "serverDate": "2026-10-26",
-      "showName": "Katrathu Samayal",
-      "description": "The host presents a wide range of delicious recipes, demonstrates their preparation and shares useful culinary tips with the viewers.",
+      "showName": "Mr. Chandramouli",
+      "description": "Raghav and his father, Chandramouli, lead a happy life. When Chandramouli accidentally gets caught in a war between two businessmen, Raghav decides to set matters straight.",
       "startDate": "2026-10-26T11:00:00",
-      "endDate": "2026-10-26T11:30:00",
-      "showTime": "11:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4dcb088184e4d232eb68a7cdce4c36bf.jpg"
-    },
-    {
-      "serverDate": "2026-10-26",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-26T11:30:00",
-      "endDate": "2026-10-26T12:30:00",
-      "showTime": "11:30:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
-    },
-    {
-      "serverDate": "2026-10-26",
-      "showName": "Ullam Kollai Poguthada",
-      "description": "Ram and Priya, two individuals that are worlds apart, enter an arranged marriage. Soon, they face challenges that alter their relationship.",
-      "startDate": "2026-10-26T12:30:00",
       "endDate": "2026-10-26T13:00:00",
-      "showTime": "12:30:00",
+      "showTime": "11:00:00",
       "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/31b020385b70336336a79b2f1a6217f6.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e2f0c4ed4d3b778be8504f7a28831477.jpg"
     },
     {
       "serverDate": "2026-10-26",
@@ -1593,22 +911,22 @@
     },
     {
       "serverDate": "2026-10-26",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Conjuring Kannappan",
+      "description": "When a man plucks a feather off a dreamcatcher, he has nightmares where injuries reflect in the real world. But when this affects his family and friends, they decide to find the root of the problem.",
       "startDate": "2026-10-26T13:30:00",
-      "endDate": "2026-10-26T17:00:00",
+      "endDate": "2026-10-26T16:30:00",
       "showTime": "13:30:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "endTime": "16:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7fe3678a2f1308d3c6392c07d64fff26.jpg"
     },
     {
       "serverDate": "2026-10-26",
       "showName": "Inthavaara Kalakalappu",
       "description": "A comprehensive compilation of hilarious comedy scenes, featuring popular artists, is played back-to-back for the entertainment of the viewers.",
-      "startDate": "2026-10-26T17:00:00",
+      "startDate": "2026-10-26T16:30:00",
       "endDate": "2026-10-26T17:30:00",
-      "showTime": "17:00:00",
+      "showTime": "16:30:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9618be17a798cf5b8a8e5d0bd7790ecd.jpg"
@@ -1637,154 +955,99 @@
     },
     {
       "serverDate": "2026-10-26",
-      "showName": "Azhagi",
-      "description": "Sundari, a widow, raises her three children, Natraj, Mathi and Surya with love and support amidst several hardships. But, things turn bad in the family when Natraj gets married to a rich girl.",
+      "showName": "Ramanujar",
+      "description": "Ramanuja, a learned philosopher, travels the subcontinent and brings his teachings to ardent followers of the Hindu faith.",
       "startDate": "2026-10-26T18:30:00",
       "endDate": "2026-10-26T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4c468f969577b8b2a0cdcbe3a31b025.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/750842cbebec41bae69d6f7a94b2a7c5.jpg"
     },
     {
       "serverDate": "2026-10-26",
-      "showName": "Nadhaswaram",
-      "description": "Gopi, the owner of a tailor shop and son of Chokkalingam, a Nadaswaram player, goes about his daily life, with several ups and downs, along with his family.",
+      "showName": "Priyamanaval",
+      "description": "A gentle mother enjoys an idyllic existence alongside her spouse and offspring. However, a resentful companion secretly schemes to seize her fortune.",
       "startDate": "2026-10-26T19:00:00",
       "endDate": "2026-10-26T20:00:00",
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25de1e829ba72b5d0716790d79eb94ed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dad2a24a0cf05c6924b4b764283d8703.jpg"
     },
     {
       "serverDate": "2026-10-26",
-      "showName": "Gowri",
-      "description": "Gowri descends to the mortal world in order to defeat the evil powers that attempt to threaten the peace and well-being of humanity.",
+      "showName": "Kannethirey Thondrinaal",
+      "description": "Rathnam exchanges newborn babies Sakthi and Anitha to grant riches to his child. Therefore, Rudra faces destiny because Anitha grows improperly.",
       "startDate": "2026-10-26T20:00:00",
       "endDate": "2026-10-26T20:30:00",
       "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/72fe897d5a103d81469263eeb5f3c9ee.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/029ed89ce308265ff9b2b97d24ee63fe.jpg"
     },
     {
       "serverDate": "2026-10-26",
-      "showName": "Pavithra",
-      "description": "After the demise of her parents, a young girl named Pavithra returns to her grandmother's house, where she experiences a series of events.",
+      "showName": "Thendral",
+      "description": "A young girl named Thulasi dreams of continuing her education despite living with a middle-class family that shuns her.",
       "startDate": "2026-10-26T20:30:00",
       "endDate": "2026-10-26T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/479790519333063a01a8f62a2c195aff.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e179fead2886acb31a6cb9ac63c5ea08.jpg"
     },
     {
       "serverDate": "2026-10-26",
-      "showName": "Ullam Kollai Poguthada",
-      "description": "Ram and Priya, two individuals that are worlds apart, enter an arranged marriage. Soon, they face challenges that alter their relationship.",
+      "showName": "Mayakannadi",
+      "description": "A young man moves to a big city and starts working at a men's beauty parlour, soaking in the vibrant life of a new world, planning big for the future and falling in love in the process.",
       "startDate": "2026-10-26T21:00:00",
-      "endDate": "2026-10-26T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/31b020385b70336336a79b2f1a6217f6.jpg"
-    },
-    {
-      "serverDate": "2026-10-26",
-      "showName": "Ini Ellam Vasanthame",
-      "description": "After Dev loses his father at a young age, he gets very attached to his mother. However, his mother dislikes the woman he loves and keeps him in a position where he must choose between the two.",
-      "startDate": "2026-10-26T21:30:00",
-      "endDate": "2026-10-26T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/189c8791b7428dff458f1f39ee094a25.jpg"
-    },
-    {
-      "serverDate": "2026-10-26",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-26T22:00:00",
       "endDate": "2026-10-26T23:59:59",
-      "showTime": "22:00:00",
+      "showTime": "21:00:00",
       "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/13eb4537b5402ef02294b063154b50c0.jpg"
     },
     {
       "serverDate": "2026-10-27",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Mayakannadi",
+      "description": "A young man moves to a big city and starts working at a men's beauty parlour, soaking in the vibrant life of a new world, planning big for the future and falling in love in the process.",
       "startDate": "2026-10-27T00:00:00",
-      "endDate": "2026-10-27T01:00:00",
+      "endDate": "2026-10-27T00:30:00",
       "showTime": "00:00:00",
-      "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "endTime": "00:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/13eb4537b5402ef02294b063154b50c0.jpg"
     },
     {
       "serverDate": "2026-10-27",
       "showName": "Inthavaara Kalakalappu",
       "description": "A comprehensive compilation of hilarious comedy scenes, featuring popular artists, is played back-to-back for the entertainment of the viewers.",
-      "startDate": "2026-10-27T01:00:00",
+      "startDate": "2026-10-27T00:30:00",
       "endDate": "2026-10-27T02:00:00",
-      "showTime": "01:00:00",
+      "showTime": "00:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9618be17a798cf5b8a8e5d0bd7790ecd.jpg"
     },
     {
       "serverDate": "2026-10-27",
-      "showName": "Songs",
-      "description": "A comprehensive compilation of popular and famous songs produced and composed by talented musical artists is played back-to-back.",
+      "showName": "Muruga",
+      "description": "Murugan falls in love with his schoolmate, Amudha, whose feelings, however, are unreciprocated. When her family discovers Murugan's affection, he and his mother are banished from the village.",
       "startDate": "2026-10-27T02:00:00",
-      "endDate": "2026-10-27T03:30:00",
-      "showTime": "02:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/795bf089921794845dc9553f6d1862ed.jpg"
-    },
-    {
-      "serverDate": "2026-10-27",
-      "showName": "Ramzan Slot",
-      "description": "A comprehensive and detailed insight into various matters related to Ramadan, a festival celebrated by Muslims across the world.",
-      "startDate": "2026-10-27T03:30:00",
-      "endDate": "2026-10-27T04:00:00",
-      "showTime": "03:30:00",
-      "endTime": "04:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-27",
-      "showName": "Ramzan Slot",
-      "description": "A comprehensive and detailed insight into various matters related to Ramadan, a festival celebrated by Muslims across the world.",
-      "startDate": "2026-10-27T04:00:00",
       "endDate": "2026-10-27T04:30:00",
-      "showTime": "04:00:00",
+      "showTime": "02:00:00",
       "endTime": "04:30:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-27",
-      "showName": "Ramzan Slot",
-      "description": "A comprehensive and detailed insight into various matters related to Ramadan, a festival celebrated by Muslims across the world.",
-      "startDate": "2026-10-27T04:30:00",
-      "endDate": "2026-10-27T05:00:00",
-      "showTime": "04:30:00",
-      "endTime": "05:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b55bb77dabe27ea4e5d10f99efcc6f6c.jpg"
     },
     {
       "serverDate": "2026-10-27",
       "showName": "Songs",
       "description": "A comprehensive compilation of popular and famous songs produced and composed by talented musical artists is played back-to-back.",
-      "startDate": "2026-10-27T05:00:00",
+      "startDate": "2026-10-27T04:30:00",
       "endDate": "2026-10-27T05:30:00",
-      "showTime": "05:00:00",
+      "showTime": "04:30:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/795bf089921794845dc9553f6d1862ed.jpg"
@@ -1802,14 +1065,14 @@
     },
     {
       "serverDate": "2026-10-27",
-      "showName": "Inthavaara Kalakalappu",
-      "description": "A comprehensive compilation of hilarious comedy scenes, featuring popular artists, is played back-to-back for the entertainment of the viewers.",
+      "showName": "Ramanujar",
+      "description": "Ramanuja, a learned philosopher, travels the subcontinent and brings his teachings to ardent followers of the Hindu faith.",
       "startDate": "2026-10-27T06:00:00",
       "endDate": "2026-10-27T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9618be17a798cf5b8a8e5d0bd7790ecd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/750842cbebec41bae69d6f7a94b2a7c5.jpg"
     },
     {
       "serverDate": "2026-10-27",
@@ -1824,14 +1087,14 @@
     },
     {
       "serverDate": "2026-10-27",
-      "showName": "ARC International",
-      "description": "Bringing the best in television.",
+      "showName": "Songs",
+      "description": "A comprehensive compilation of popular and famous songs produced and composed by talented musical artists is played back-to-back.",
       "startDate": "2026-10-27T07:00:00",
       "endDate": "2026-10-27T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/736d64dcfdd1ecef51c99eee21b4022b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/795bf089921794845dc9553f6d1862ed.jpg"
     },
     {
       "serverDate": "2026-10-27",
@@ -1868,14 +1131,25 @@
     },
     {
       "serverDate": "2026-10-27",
-      "showName": "Nadhaswaram",
-      "description": "Gopi, the owner of a tailor shop and son of Chokkalingam, a Nadaswaram player, goes about his daily life, with several ups and downs, along with his family.",
+      "showName": "Azhagi",
+      "description": "Sundari, a widow, raises her three children, Natraj, Mathi and Surya with love and support amidst several hardships. But, things turn bad in the family when Natraj gets married to a rich girl.",
       "startDate": "2026-10-27T09:00:00",
-      "endDate": "2026-10-27T10:00:00",
+      "endDate": "2026-10-27T09:30:00",
       "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4c468f969577b8b2a0cdcbe3a31b025.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Katrathu Samayal",
+      "description": "The host presents a wide range of delicious recipes, demonstrates their preparation and shares useful culinary tips with the viewers.",
+      "startDate": "2026-10-27T09:30:00",
+      "endDate": "2026-10-27T10:00:00",
+      "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25de1e829ba72b5d0716790d79eb94ed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4dcb088184e4d232eb68a7cdce4c36bf.jpg"
     },
     {
       "serverDate": "2026-10-27",
@@ -1901,36 +1175,14 @@
     },
     {
       "serverDate": "2026-10-27",
-      "showName": "Katrathu Samayal",
-      "description": "The host presents a wide range of delicious recipes, demonstrates their preparation and shares useful culinary tips with the viewers.",
+      "showName": "Maanja Velu",
+      "description": "ACP Bose dies investigating bank fraud, then is falsely accused. His enraged brother Velu embarks on a quest for justice and vengeance.",
       "startDate": "2026-10-27T11:00:00",
-      "endDate": "2026-10-27T11:30:00",
-      "showTime": "11:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4dcb088184e4d232eb68a7cdce4c36bf.jpg"
-    },
-    {
-      "serverDate": "2026-10-27",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-27T11:30:00",
-      "endDate": "2026-10-27T12:30:00",
-      "showTime": "11:30:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
-    },
-    {
-      "serverDate": "2026-10-27",
-      "showName": "Ullam Kollai Poguthada",
-      "description": "Ram and Priya, two individuals that are worlds apart, enter an arranged marriage. Soon, they face challenges that alter their relationship.",
-      "startDate": "2026-10-27T12:30:00",
       "endDate": "2026-10-27T13:00:00",
-      "showTime": "12:30:00",
+      "showTime": "11:00:00",
       "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/31b020385b70336336a79b2f1a6217f6.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b68d754c45d13cf0b6eda1aa4f5431a1.jpg"
     },
     {
       "serverDate": "2026-10-27",
@@ -1945,22 +1197,22 @@
     },
     {
       "serverDate": "2026-10-27",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Arundhati",
+      "description": "Upon her visit to her hometown, Arundhati discovers that she resembles her great-grandmother, Jejamma. Soon, Jejamma's battles become her own as she fights a black magician who wants to kill her.",
       "startDate": "2026-10-27T13:30:00",
-      "endDate": "2026-10-27T17:00:00",
+      "endDate": "2026-10-27T16:30:00",
       "showTime": "13:30:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "endTime": "16:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f324a9e8bec6d380a4db53bd9b16b731.jpg"
     },
     {
       "serverDate": "2026-10-27",
       "showName": "Inthavaara Kalakalappu",
       "description": "A comprehensive compilation of hilarious comedy scenes, featuring popular artists, is played back-to-back for the entertainment of the viewers.",
-      "startDate": "2026-10-27T17:00:00",
+      "startDate": "2026-10-27T16:30:00",
       "endDate": "2026-10-27T17:30:00",
-      "showTime": "17:00:00",
+      "showTime": "16:30:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9618be17a798cf5b8a8e5d0bd7790ecd.jpg"
@@ -1989,154 +1241,99 @@
     },
     {
       "serverDate": "2026-10-27",
-      "showName": "Azhagi",
-      "description": "Sundari, a widow, raises her three children, Natraj, Mathi and Surya with love and support amidst several hardships. But, things turn bad in the family when Natraj gets married to a rich girl.",
+      "showName": "Ramanujar",
+      "description": "Ramanuja, a learned philosopher, travels the subcontinent and brings his teachings to ardent followers of the Hindu faith.",
       "startDate": "2026-10-27T18:30:00",
       "endDate": "2026-10-27T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4c468f969577b8b2a0cdcbe3a31b025.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/750842cbebec41bae69d6f7a94b2a7c5.jpg"
     },
     {
       "serverDate": "2026-10-27",
-      "showName": "Nadhaswaram",
-      "description": "Gopi, the owner of a tailor shop and son of Chokkalingam, a Nadaswaram player, goes about his daily life, with several ups and downs, along with his family.",
+      "showName": "Priyamanaval",
+      "description": "A gentle mother enjoys an idyllic existence alongside her spouse and offspring. However, a resentful companion secretly schemes to seize her fortune.",
       "startDate": "2026-10-27T19:00:00",
       "endDate": "2026-10-27T20:00:00",
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25de1e829ba72b5d0716790d79eb94ed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dad2a24a0cf05c6924b4b764283d8703.jpg"
     },
     {
       "serverDate": "2026-10-27",
-      "showName": "Gowri",
-      "description": "Gowri descends to the mortal world in order to defeat the evil powers that attempt to threaten the peace and well-being of humanity.",
+      "showName": "Kannethirey Thondrinaal",
+      "description": "Rathnam exchanges newborn babies Sakthi and Anitha to grant riches to his child. Therefore, Rudra faces destiny because Anitha grows improperly.",
       "startDate": "2026-10-27T20:00:00",
       "endDate": "2026-10-27T20:30:00",
       "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/72fe897d5a103d81469263eeb5f3c9ee.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/029ed89ce308265ff9b2b97d24ee63fe.jpg"
     },
     {
       "serverDate": "2026-10-27",
-      "showName": "Pavithra",
-      "description": "After the demise of her parents, a young girl named Pavithra returns to her grandmother's house, where she experiences a series of events.",
+      "showName": "Thendral",
+      "description": "A young girl named Thulasi dreams of continuing her education despite living with a middle-class family that shuns her.",
       "startDate": "2026-10-27T20:30:00",
       "endDate": "2026-10-27T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/479790519333063a01a8f62a2c195aff.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e179fead2886acb31a6cb9ac63c5ea08.jpg"
     },
     {
       "serverDate": "2026-10-27",
-      "showName": "Ullam Kollai Poguthada",
-      "description": "Ram and Priya, two individuals that are worlds apart, enter an arranged marriage. Soon, they face challenges that alter their relationship.",
+      "showName": "Pizza 3 The Mummy",
+      "description": "Nalan, a restaurateur with a complicated love life, unwillingly gets embroiled in a series of strange events after a miniature mummy sarcophagus ends up in his restaurant.",
       "startDate": "2026-10-27T21:00:00",
-      "endDate": "2026-10-27T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/31b020385b70336336a79b2f1a6217f6.jpg"
-    },
-    {
-      "serverDate": "2026-10-27",
-      "showName": "Ini Ellam Vasanthame",
-      "description": "After Dev loses his father at a young age, he gets very attached to his mother. However, his mother dislikes the woman he loves and keeps him in a position where he must choose between the two.",
-      "startDate": "2026-10-27T21:30:00",
-      "endDate": "2026-10-27T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/189c8791b7428dff458f1f39ee094a25.jpg"
-    },
-    {
-      "serverDate": "2026-10-27",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-27T22:00:00",
       "endDate": "2026-10-27T23:59:59",
-      "showTime": "22:00:00",
+      "showTime": "21:00:00",
       "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3b074fa4fb82a7eaaf8b69e8ad49b4e0.jpg"
     },
     {
       "serverDate": "2026-10-28",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Pizza 3 The Mummy",
+      "description": "Nalan, a restaurateur with a complicated love life, unwillingly gets embroiled in a series of strange events after a miniature mummy sarcophagus ends up in his restaurant.",
       "startDate": "2026-10-28T00:00:00",
-      "endDate": "2026-10-28T01:30:00",
+      "endDate": "2026-10-28T00:30:00",
       "showTime": "00:00:00",
-      "endTime": "01:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "endTime": "00:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3b074fa4fb82a7eaaf8b69e8ad49b4e0.jpg"
     },
     {
       "serverDate": "2026-10-28",
       "showName": "Inthavaara Kalakalappu",
       "description": "A comprehensive compilation of hilarious comedy scenes, featuring popular artists, is played back-to-back for the entertainment of the viewers.",
-      "startDate": "2026-10-28T01:30:00",
+      "startDate": "2026-10-28T00:30:00",
       "endDate": "2026-10-28T02:00:00",
-      "showTime": "01:30:00",
+      "showTime": "00:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9618be17a798cf5b8a8e5d0bd7790ecd.jpg"
     },
     {
       "serverDate": "2026-10-28",
-      "showName": "Songs",
-      "description": "A comprehensive compilation of popular and famous songs produced and composed by talented musical artists is played back-to-back.",
+      "showName": "GURUSAMY",
+      "description": "Gurusamy narrates the tales of Lord Ayyappan, wherein the Almighty miraculously intervenes and guides his ardent devotees.",
       "startDate": "2026-10-28T02:00:00",
-      "endDate": "2026-10-28T03:30:00",
-      "showTime": "02:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/795bf089921794845dc9553f6d1862ed.jpg"
-    },
-    {
-      "serverDate": "2026-10-28",
-      "showName": "Ramzan Slot",
-      "description": "A comprehensive and detailed insight into various matters related to Ramadan, a festival celebrated by Muslims across the world.",
-      "startDate": "2026-10-28T03:30:00",
-      "endDate": "2026-10-28T04:00:00",
-      "showTime": "03:30:00",
-      "endTime": "04:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-28",
-      "showName": "Ramzan Slot",
-      "description": "A comprehensive and detailed insight into various matters related to Ramadan, a festival celebrated by Muslims across the world.",
-      "startDate": "2026-10-28T04:00:00",
       "endDate": "2026-10-28T04:30:00",
-      "showTime": "04:00:00",
+      "showTime": "02:00:00",
       "endTime": "04:30:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-28",
-      "showName": "Ramzan Slot",
-      "description": "A comprehensive and detailed insight into various matters related to Ramadan, a festival celebrated by Muslims across the world.",
-      "startDate": "2026-10-28T04:30:00",
-      "endDate": "2026-10-28T05:00:00",
-      "showTime": "04:30:00",
-      "endTime": "05:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7afe6164822347e780863b2c4b39bc33.jpg"
     },
     {
       "serverDate": "2026-10-28",
       "showName": "Songs",
       "description": "A comprehensive compilation of popular and famous songs produced and composed by talented musical artists is played back-to-back.",
-      "startDate": "2026-10-28T05:00:00",
+      "startDate": "2026-10-28T04:30:00",
       "endDate": "2026-10-28T05:30:00",
-      "showTime": "05:00:00",
+      "showTime": "04:30:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/795bf089921794845dc9553f6d1862ed.jpg"
@@ -2154,14 +1351,14 @@
     },
     {
       "serverDate": "2026-10-28",
-      "showName": "Inthavaara Kalakalappu",
-      "description": "A comprehensive compilation of hilarious comedy scenes, featuring popular artists, is played back-to-back for the entertainment of the viewers.",
+      "showName": "Ramanujar",
+      "description": "Ramanuja, a learned philosopher, travels the subcontinent and brings his teachings to ardent followers of the Hindu faith.",
       "startDate": "2026-10-28T06:00:00",
       "endDate": "2026-10-28T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9618be17a798cf5b8a8e5d0bd7790ecd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/750842cbebec41bae69d6f7a94b2a7c5.jpg"
     },
     {
       "serverDate": "2026-10-28",
@@ -2176,14 +1373,14 @@
     },
     {
       "serverDate": "2026-10-28",
-      "showName": "ARC International",
-      "description": "Bringing the best in television.",
+      "showName": "Songs",
+      "description": "A comprehensive compilation of popular and famous songs produced and composed by talented musical artists is played back-to-back.",
       "startDate": "2026-10-28T07:00:00",
       "endDate": "2026-10-28T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/736d64dcfdd1ecef51c99eee21b4022b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/795bf089921794845dc9553f6d1862ed.jpg"
     },
     {
       "serverDate": "2026-10-28",
@@ -2220,14 +1417,25 @@
     },
     {
       "serverDate": "2026-10-28",
-      "showName": "Nadhaswaram",
-      "description": "Gopi, the owner of a tailor shop and son of Chokkalingam, a Nadaswaram player, goes about his daily life, with several ups and downs, along with his family.",
+      "showName": "Azhagi",
+      "description": "Sundari, a widow, raises her three children, Natraj, Mathi and Surya with love and support amidst several hardships. But, things turn bad in the family when Natraj gets married to a rich girl.",
       "startDate": "2026-10-28T09:00:00",
-      "endDate": "2026-10-28T10:00:00",
+      "endDate": "2026-10-28T09:30:00",
       "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4c468f969577b8b2a0cdcbe3a31b025.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Katrathu Samayal",
+      "description": "The host presents a wide range of delicious recipes, demonstrates their preparation and shares useful culinary tips with the viewers.",
+      "startDate": "2026-10-28T09:30:00",
+      "endDate": "2026-10-28T10:00:00",
+      "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25de1e829ba72b5d0716790d79eb94ed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4dcb088184e4d232eb68a7cdce4c36bf.jpg"
     },
     {
       "serverDate": "2026-10-28",
@@ -2253,36 +1461,14 @@
     },
     {
       "serverDate": "2026-10-28",
-      "showName": "Katrathu Samayal",
-      "description": "The host presents a wide range of delicious recipes, demonstrates their preparation and shares useful culinary tips with the viewers.",
+      "showName": "Dhaam Dhoom",
+      "description": "Gautham Subramaniam, an Indian doctor, goes to Russia for a conference pertaining to his occupation two weeks prior to his wedding and gets framed as a criminal.",
       "startDate": "2026-10-28T11:00:00",
-      "endDate": "2026-10-28T11:30:00",
-      "showTime": "11:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4dcb088184e4d232eb68a7cdce4c36bf.jpg"
-    },
-    {
-      "serverDate": "2026-10-28",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-28T11:30:00",
-      "endDate": "2026-10-28T12:30:00",
-      "showTime": "11:30:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
-    },
-    {
-      "serverDate": "2026-10-28",
-      "showName": "Ullam Kollai Poguthada",
-      "description": "Ram and Priya, two individuals that are worlds apart, enter an arranged marriage. Soon, they face challenges that alter their relationship.",
-      "startDate": "2026-10-28T12:30:00",
       "endDate": "2026-10-28T13:00:00",
-      "showTime": "12:30:00",
+      "showTime": "11:00:00",
       "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/31b020385b70336336a79b2f1a6217f6.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ddc9f7d7f6ceca3f6cfcb394178db1e7.jpg"
     },
     {
       "serverDate": "2026-10-28",
@@ -2297,14 +1483,14 @@
     },
     {
       "serverDate": "2026-10-28",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Abhiyum Naanum",
+      "description": "Raghuraman faces challenges when he finds out that his daughter Abhi has fallen in love with Joginder Singh, a person from the Sikh community.",
       "startDate": "2026-10-28T13:30:00",
       "endDate": "2026-10-28T17:00:00",
       "showTime": "13:30:00",
       "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1248d2b233bd70da388b37f91de6be8d.jpg"
     },
     {
       "serverDate": "2026-10-28",
@@ -2341,80 +1527,58 @@
     },
     {
       "serverDate": "2026-10-28",
-      "showName": "Azhagi",
-      "description": "Sundari, a widow, raises her three children, Natraj, Mathi and Surya with love and support amidst several hardships. But, things turn bad in the family when Natraj gets married to a rich girl.",
+      "showName": "Ramanujar",
+      "description": "Ramanuja, a learned philosopher, travels the subcontinent and brings his teachings to ardent followers of the Hindu faith.",
       "startDate": "2026-10-28T18:30:00",
       "endDate": "2026-10-28T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4c468f969577b8b2a0cdcbe3a31b025.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/750842cbebec41bae69d6f7a94b2a7c5.jpg"
     },
     {
       "serverDate": "2026-10-28",
-      "showName": "Nadhaswaram",
-      "description": "Gopi, the owner of a tailor shop and son of Chokkalingam, a Nadaswaram player, goes about his daily life, with several ups and downs, along with his family.",
+      "showName": "Priyamanaval",
+      "description": "A gentle mother enjoys an idyllic existence alongside her spouse and offspring. However, a resentful companion secretly schemes to seize her fortune.",
       "startDate": "2026-10-28T19:00:00",
       "endDate": "2026-10-28T20:00:00",
       "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25de1e829ba72b5d0716790d79eb94ed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dad2a24a0cf05c6924b4b764283d8703.jpg"
     },
     {
       "serverDate": "2026-10-28",
-      "showName": "Gowri",
-      "description": "Gowri descends to the mortal world in order to defeat the evil powers that attempt to threaten the peace and well-being of humanity.",
+      "showName": "Kannethirey Thondrinaal",
+      "description": "Rathnam exchanges newborn babies Sakthi and Anitha to grant riches to his child. Therefore, Rudra faces destiny because Anitha grows improperly.",
       "startDate": "2026-10-28T20:00:00",
       "endDate": "2026-10-28T20:30:00",
       "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/72fe897d5a103d81469263eeb5f3c9ee.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/029ed89ce308265ff9b2b97d24ee63fe.jpg"
     },
     {
       "serverDate": "2026-10-28",
-      "showName": "Pavithra",
-      "description": "After the demise of her parents, a young girl named Pavithra returns to her grandmother's house, where she experiences a series of events.",
+      "showName": "Thendral",
+      "description": "A young girl named Thulasi dreams of continuing her education despite living with a middle-class family that shuns her.",
       "startDate": "2026-10-28T20:30:00",
       "endDate": "2026-10-28T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/479790519333063a01a8f62a2c195aff.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e179fead2886acb31a6cb9ac63c5ea08.jpg"
     },
     {
       "serverDate": "2026-10-28",
-      "showName": "Ullam Kollai Poguthada",
-      "description": "Ram and Priya, two individuals that are worlds apart, enter an arranged marriage. Soon, they face challenges that alter their relationship.",
+      "showName": "Bakrid",
+      "description": "Rathinam, a farmer, finds a camel calf and decides to keep it as a pet. Later, he sets out on a journey to Rajasthan in order to ensure the camel's survival.",
       "startDate": "2026-10-28T21:00:00",
-      "endDate": "2026-10-28T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/31b020385b70336336a79b2f1a6217f6.jpg"
-    },
-    {
-      "serverDate": "2026-10-28",
-      "showName": "Ini Ellam Vasanthame",
-      "description": "After Dev loses his father at a young age, he gets very attached to his mother. However, his mother dislikes the woman he loves and keeps him in a position where he must choose between the two.",
-      "startDate": "2026-10-28T21:30:00",
-      "endDate": "2026-10-28T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/189c8791b7428dff458f1f39ee094a25.jpg"
-    },
-    {
-      "serverDate": "2026-10-28",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-28T22:00:00",
       "endDate": "2026-10-28T23:59:59",
-      "showTime": "22:00:00",
+      "showTime": "21:00:00",
       "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/775970af32882c0939c0419eb62898b3.jpg"
     }
   ]
 }
