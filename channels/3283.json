@@ -1854,6 +1854,83 @@
       "endTime": "23:59:59",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cc207b9c48a533ba74dc567f8c323970.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Headlines",
+      "description": "The host presents the latest news stories, socio-economic updates and political developments regarding current affairs from across the nation and the world.",
+      "startDate": "2026-10-28T00:00:00",
+      "endDate": "2026-10-28T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee1266e713927506befb5be488289444.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Breaking News",
+      "description": "The host presents a detailed analysis of some of the latest news stories, socio-economic updates and political developments.",
+      "startDate": "2026-10-28T01:00:00",
+      "endDate": "2026-10-28T02:00:00",
+      "showTime": "01:00:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/14e1f56a4a53b52f0f2e3846f3fa94ea.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "News Bulletin",
+      "description": "The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.",
+      "startDate": "2026-10-28T02:00:00",
+      "endDate": "2026-10-28T03:00:00",
+      "showTime": "02:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3014889637c0e06da2d9269baccb7fe8.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Top 10 News",
+      "description": "The host presents the top 10 news stories pertaining to various political, social and economic issues affecting numerous lives.",
+      "startDate": "2026-10-28T03:00:00",
+      "endDate": "2026-10-28T04:00:00",
+      "showTime": "03:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/882f29854038adf1da4e54c7bc3dc5f6.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "National News",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation.",
+      "startDate": "2026-10-28T04:00:00",
+      "endDate": "2026-10-28T05:00:00",
+      "showTime": "04:00:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ac25581e286d2b502206f4994a81689f.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Fatafat news",
+      "description": "The host concisely presents the latest news updates and developments from around the country and the world in quick succession.",
+      "startDate": "2026-10-28T05:00:00",
+      "endDate": "2026-10-28T06:00:00",
+      "showTime": "05:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5df436f85e122b84aa51879b4e99d5bc.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "VACC 24 News",
+      "description": "VACC 24 News",
+      "startDate": "2026-10-28T06:00:00",
+      "endDate": "2026-10-28T23:59:59",
+      "showTime": "06:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "News",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/988751930f187303bf91591a0ec12685.jpg"
     }
   ]
 }
