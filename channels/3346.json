@@ -1079,11 +1079,22 @@
       "showName": "Morning Brew Daily",
       "description": "A daily talk show that covers the latest news on business, the economy & everything else.",
       "startDate": "2026-10-24T09:30:00",
-      "endDate": "2026-10-24T11:00:00",
+      "endDate": "2026-10-24T10:00:00",
       "showTime": "09:30:00",
-      "endTime": "11:00:00",
+      "endTime": "10:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c8aa09c87eb87098dc4da7791c990b35.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "The 8:30",
+      "description": "The 8:30",
+      "startDate": "2026-10-24T10:00:00",
+      "endDate": "2026-10-24T11:00:00",
+      "showTime": "10:00:00",
+      "endTime": "11:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f3a64ad689e4fff47f2b9729af32e1a.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1277,8 +1288,19 @@
       "showName": "In the Loop",
       "description": "Ejaaz Ahamadeen connects the biggest stories across AI, venture capital and markets.",
       "startDate": "2026-10-24T21:30:00",
-      "endDate": "2026-10-24T22:30:00",
+      "endDate": "2026-10-24T22:00:00",
       "showTime": "21:30:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "In the Loop",
+      "description": "Ejaaz Ahamadeen connects the biggest stories across AI, venture capital and markets.",
+      "startDate": "2026-10-24T22:00:00",
+      "endDate": "2026-10-24T22:30:00",
+      "showTime": "22:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
@@ -1288,11 +1310,22 @@
       "showName": "In the Loop",
       "description": "Ejaaz Ahamadeen connects the biggest stories across AI, venture capital and markets.",
       "startDate": "2026-10-24T22:30:00",
-      "endDate": "2026-10-24T23:00:00",
+      "endDate": "2026-10-24T22:55:00",
       "showTime": "22:30:00",
-      "endTime": "23:00:00",
+      "endTime": "22:55:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Best of Yahoo Finance",
+      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
+      "startDate": "2026-10-24T22:55:00",
+      "endDate": "2026-10-24T23:00:00",
+      "showTime": "22:55:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1310,44 +1343,22 @@
       "showName": "In the Loop",
       "description": "Ejaaz Ahamadeen connects the biggest stories across AI, venture capital and markets.",
       "startDate": "2026-10-24T23:30:00",
-      "endDate": "2026-10-24T23:50:00",
-      "showTime": "23:30:00",
-      "endTime": "23:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-10-24T23:50:00",
       "endDate": "2026-10-24T23:59:59",
-      "showTime": "23:50:00",
+      "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
     },
     {
       "serverDate": "2026-10-25",
       "showName": "The Daily Wolf With Scott Melker",
       "description": "Scott Melker leverages real-time data and key stories to give you the upper hand in the crypto markets.",
       "startDate": "2026-10-25T00:00:00",
-      "endDate": "2026-10-25T00:18:00",
-      "showTime": "00:00:00",
-      "endTime": "00:18:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
-    },
-    {
-      "serverDate": "2026-10-25",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-10-25T00:18:00",
       "endDate": "2026-10-25T00:30:00",
-      "showTime": "00:18:00",
+      "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
     },
     {
       "serverDate": "2026-10-25",
@@ -1417,25 +1428,14 @@
     },
     {
       "serverDate": "2026-10-25",
-      "showName": "How They Run With Ryan Patel",
-      "description": "Going behind the scenes to reveal how today's business leaders actually operate.",
+      "showName": "Market Movers",
+      "description": "Yahoo Finance highlights key moments in the previous trading session.",
       "startDate": "2026-10-25T04:00:00",
-      "endDate": "2026-10-25T04:30:00",
-      "showTime": "04:00:00",
-      "endTime": "04:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29d68b64c579492124a9945c54c7d6b9.jpg"
-    },
-    {
-      "serverDate": "2026-10-25",
-      "showName": "Built Different With Ian Schwartzman",
-      "description": "Ian Schwartzman interviews business operators, breaking down the plans and journeys behind their success.",
-      "startDate": "2026-10-25T04:30:00",
       "endDate": "2026-10-25T05:00:00",
-      "showTime": "04:30:00",
+      "showTime": "04:00:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb6549c37023474d4ebdae0a104cc32e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/caa02c448a3cec6887822ff6566050d4.jpg"
     },
     {
       "serverDate": "2026-10-25",
@@ -1475,9 +1475,9 @@
       "showName": "In the Loop",
       "description": "Ejaaz Ahamadeen connects the biggest stories across AI, venture capital and markets.",
       "startDate": "2026-10-25T06:30:00",
-      "endDate": "2026-10-25T06:54:00",
+      "endDate": "2026-10-25T07:00:00",
       "showTime": "06:30:00",
-      "endTime": "06:54:00",
+      "endTime": "07:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
     },
@@ -1485,9 +1485,9 @@
       "serverDate": "2026-10-25",
       "showName": "In the Loop",
       "description": "Ejaaz Ahamadeen connects the biggest stories across AI, venture capital and markets.",
-      "startDate": "2026-10-25T06:54:00",
+      "startDate": "2026-10-25T07:00:00",
       "endDate": "2026-10-25T07:30:00",
-      "showTime": "06:54:00",
+      "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
@@ -1497,11 +1497,22 @@
       "showName": "In the Loop",
       "description": "Ejaaz Ahamadeen connects the biggest stories across AI, venture capital and markets.",
       "startDate": "2026-10-25T07:30:00",
-      "endDate": "2026-10-25T08:00:00",
+      "endDate": "2026-10-25T07:55:00",
       "showTime": "07:30:00",
-      "endTime": "08:00:00",
+      "endTime": "07:55:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
+    },
+    {
+      "serverDate": "2026-10-25",
+      "showName": "Best of Yahoo Finance",
+      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
+      "startDate": "2026-10-25T07:55:00",
+      "endDate": "2026-10-25T08:00:00",
+      "showTime": "07:55:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
     },
     {
       "serverDate": "2026-10-25",
@@ -1519,22 +1530,11 @@
       "showName": "In the Loop",
       "description": "Ejaaz Ahamadeen connects the biggest stories across AI, venture capital and markets.",
       "startDate": "2026-10-25T08:30:00",
-      "endDate": "2026-10-25T08:50:00",
-      "showTime": "08:30:00",
-      "endTime": "08:50:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
-    },
-    {
-      "serverDate": "2026-10-25",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-10-25T08:50:00",
       "endDate": "2026-10-25T09:00:00",
-      "showTime": "08:50:00",
+      "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
     },
     {
       "serverDate": "2026-10-25",
@@ -1629,11 +1629,22 @@
       "showName": "Built Different With Ian Schwartzman",
       "description": "Ian Schwartzman interviews business operators, breaking down the plans and journeys behind their success.",
       "startDate": "2026-10-25T13:30:00",
-      "endDate": "2026-10-25T14:30:00",
+      "endDate": "2026-10-25T14:00:00",
       "showTime": "13:30:00",
-      "endTime": "14:30:00",
+      "endTime": "14:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb6549c37023474d4ebdae0a104cc32e.jpg"
+    },
+    {
+      "serverDate": "2026-10-25",
+      "showName": "The Big Idea",
+      "description": "Big ideas for small businesses. Elizabeth Gore shares tools,trends & tactics to grow in any economy.",
+      "startDate": "2026-10-25T14:00:00",
+      "endDate": "2026-10-25T14:30:00",
+      "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7432f01f76e5f2e1c30e38a3a21869d8.jpg"
     },
     {
       "serverDate": "2026-10-25",
@@ -1651,19 +1662,8 @@
       "showName": "In the Loop",
       "description": "Ejaaz Ahamadeen connects the biggest stories across AI, venture capital and markets.",
       "startDate": "2026-10-25T15:00:00",
-      "endDate": "2026-10-25T15:24:00",
-      "showTime": "15:00:00",
-      "endTime": "15:24:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
-    },
-    {
-      "serverDate": "2026-10-25",
-      "showName": "In the Loop",
-      "description": "Ejaaz Ahamadeen connects the biggest stories across AI, venture capital and markets.",
-      "startDate": "2026-10-25T15:24:00",
       "endDate": "2026-10-25T15:30:00",
-      "showTime": "15:24:00",
+      "showTime": "15:00:00",
       "endTime": "15:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
@@ -2366,22 +2366,11 @@
       "showName": "Power Players with Brian Sozzi",
       "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
       "startDate": "2026-10-27T00:00:00",
-      "endDate": "2026-10-27T00:04:00",
-      "showTime": "00:00:00",
-      "endTime": "00:04:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
-    },
-    {
-      "serverDate": "2026-10-27",
-      "showName": "How They Run With Ryan Patel",
-      "description": "Going behind the scenes to reveal how today's business leaders actually operate.",
-      "startDate": "2026-10-27T00:04:00",
       "endDate": "2026-10-27T00:30:00",
-      "showTime": "00:04:00",
+      "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29d68b64c579492124a9945c54c7d6b9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
     },
     {
       "serverDate": "2026-10-27",
@@ -2432,22 +2421,11 @@
       "showName": "The Daily Wolf With Scott Melker",
       "description": "Scott Melker leverages real-time data and key stories to give you the upper hand in the crypto markets.",
       "startDate": "2026-10-27T03:00:00",
-      "endDate": "2026-10-27T03:04:00",
-      "showTime": "03:00:00",
-      "endTime": "03:04:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
-    },
-    {
-      "serverDate": "2026-10-27",
-      "showName": "How They Run With Ryan Patel",
-      "description": "Going behind the scenes to reveal how today's business leaders actually operate.",
-      "startDate": "2026-10-27T03:04:00",
       "endDate": "2026-10-27T03:15:00",
-      "showTime": "03:04:00",
+      "showTime": "03:00:00",
       "endTime": "03:15:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29d68b64c579492124a9945c54c7d6b9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
     },
     {
       "serverDate": "2026-10-27",
@@ -2828,22 +2806,11 @@
       "showName": "The Big Idea",
       "description": "Big ideas for small businesses. Elizabeth Gore shares tools,trends & tactics to grow in any economy.",
       "startDate": "2026-10-28T00:00:00",
-      "endDate": "2026-10-28T00:04:00",
-      "showTime": "00:00:00",
-      "endTime": "00:04:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7432f01f76e5f2e1c30e38a3a21869d8.jpg"
-    },
-    {
-      "serverDate": "2026-10-28",
-      "showName": "How They Run With Ryan Patel",
-      "description": "Going behind the scenes to reveal how today's business leaders actually operate.",
-      "startDate": "2026-10-28T00:04:00",
       "endDate": "2026-10-28T00:30:00",
-      "showTime": "00:04:00",
+      "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29d68b64c579492124a9945c54c7d6b9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7432f01f76e5f2e1c30e38a3a21869d8.jpg"
     },
     {
       "serverDate": "2026-10-28",
@@ -2894,22 +2861,11 @@
       "showName": "The Daily Wolf With Scott Melker",
       "description": "Scott Melker leverages real-time data and key stories to give you the upper hand in the crypto markets.",
       "startDate": "2026-10-28T03:00:00",
-      "endDate": "2026-10-28T03:04:00",
-      "showTime": "03:00:00",
-      "endTime": "03:04:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
-    },
-    {
-      "serverDate": "2026-10-28",
-      "showName": "How They Run With Ryan Patel",
-      "description": "Going behind the scenes to reveal how today's business leaders actually operate.",
-      "startDate": "2026-10-28T03:04:00",
       "endDate": "2026-10-28T03:15:00",
-      "showTime": "03:04:00",
+      "showTime": "03:00:00",
       "endTime": "03:15:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29d68b64c579492124a9945c54c7d6b9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
     },
     {
       "serverDate": "2026-10-28",
@@ -3136,11 +3092,22 @@
       "showName": "The Big Idea",
       "description": "Big ideas for small businesses. Elizabeth Gore shares tools,trends & tactics to grow in any economy.",
       "startDate": "2026-10-28T15:30:00",
-      "endDate": "2026-10-28T16:30:00",
+      "endDate": "2026-10-28T16:00:00",
       "showTime": "15:30:00",
-      "endTime": "16:30:00",
+      "endTime": "16:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7432f01f76e5f2e1c30e38a3a21869d8.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Built Different With Ian Schwartzman",
+      "description": "Ian Schwartzman interviews business operators, breaking down the plans and journeys behind their success.",
+      "startDate": "2026-10-28T16:00:00",
+      "endDate": "2026-10-28T16:30:00",
+      "showTime": "16:00:00",
+      "endTime": "16:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb6549c37023474d4ebdae0a104cc32e.jpg"
     },
     {
       "serverDate": "2026-10-28",
@@ -3312,11 +3279,22 @@
       "showName": "Market Domination",
       "description": "Yahoo Finance breaks down the market moves, play-by-play, to give you the essential scorecard.",
       "startDate": "2026-10-29T01:00:00",
-      "endDate": "2026-10-29T02:30:00",
+      "endDate": "2026-10-29T02:00:00",
       "showTime": "01:00:00",
-      "endTime": "02:30:00",
+      "endTime": "02:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/19b0e4f278d174701cd509a3bb2c6ff5.jpg"
+    },
+    {
+      "serverDate": "2026-10-29",
+      "showName": "Market Domination: Overtime",
+      "description": "The market may have closed, but the action continues. We analyze the day's top takeaways.",
+      "startDate": "2026-10-29T02:00:00",
+      "endDate": "2026-10-29T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2ab68623632e4357ec334e9242ee811.jpg"
     },
     {
       "serverDate": "2026-10-29",

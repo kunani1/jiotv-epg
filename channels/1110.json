@@ -8,26 +8,246 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",
   "programs": [
     {
-      "serverDate": "2026-10-25",
-      "showName": "Movie",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-10-25T00:00:00",
-      "endDate": "2026-10-25T03:00:00",
+      "serverDate": "2026-10-24",
+      "showName": "Frozen II",
+      "description": "Elsa's quest takes her into a magical forest alongside Anna, Kristoff and Olaf as they unravel secrets about her powers and Arendelle's destiny.",
+      "startDate": "2026-10-24T00:00:00",
+      "endDate": "2026-10-24T00:28:00",
       "showTime": "00:00:00",
-      "endTime": "03:00:00",
+      "endTime": "00:28:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/796c8611ed4b70435f167647f6bf08d5.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "F Plus",
+      "description": "A group of teenagers orchestrate a break-in at their middle school to access the educational records and alter their failing examination grades.",
+      "startDate": "2026-10-24T00:28:00",
+      "endDate": "2026-10-24T01:59:00",
+      "showTime": "00:28:00",
+      "endTime": "01:59:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/33fd561c59c2010f777c80961470657a.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Gremlins",
+      "description": "Billy's father gets him a pet from China with three very specific instructions. However, when Billy does not follow them, it unleashes a horde of monsters.",
+      "startDate": "2026-10-24T01:59:00",
+      "endDate": "2026-10-24T03:24:00",
+      "showTime": "01:59:00",
+      "endTime": "03:24:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f49af0e5900b0c4d708cdfe1a395fabe.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Shark Island",
+      "description": "Four friends in a resort island have to save themselves from genetically modified sharks while trying to find a cure in a nearby research centre.",
+      "startDate": "2026-10-24T03:24:00",
+      "endDate": "2026-10-24T04:46:00",
+      "showTime": "03:24:00",
+      "endTime": "04:46:00",
+      "showCategory": "TV Movie",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/48cb0db407be122448d26794fa0a3844.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-24T04:46:00",
+      "endDate": "2026-10-24T05:09:00",
+      "showTime": "04:46:00",
+      "endTime": "05:09:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6685a6b277d4ecbcc599b04852561701.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Darkroom",
+      "description": "Michelle accepts a professional role suggested by her advisor. This position confines her within a residence where three deranged relatives attempt to cleanse her soul.",
+      "startDate": "2026-10-24T05:09:00",
+      "endDate": "2026-10-24T06:27:00",
+      "showTime": "05:09:00",
+      "endTime": "06:27:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/159a6a45170809222d7219aa46593c67.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Seven Swords",
+      "description": "Fu Qungzhu and six warriors, including Chu Zhaonan and Yang Yuncong, take a stand against Fire-Wind to defend a village from martial arts persecution.",
+      "startDate": "2026-10-24T06:27:00",
+      "endDate": "2026-10-24T07:50:00",
+      "showTime": "06:27:00",
+      "endTime": "07:50:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2ce8735fd9d6b4b21e72c767997701eb.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Ice Age",
+      "description": "Manny the mammoth, Sid the loquacious sloth, and Diego the saber-toothed tiger go on a comical quest to return a human baby to his father, across a world on the brink of an ice age.",
+      "startDate": "2026-10-24T07:50:00",
+      "endDate": "2026-10-24T09:15:00",
+      "showTime": "07:50:00",
+      "endTime": "09:15:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cae0f32817c806b4547f5f5af927cd0a.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Nezha",
+      "description": "A young motorbike rider must master his new-found powers to confront the emergence of centuries-old enemy forces and settle a 3000-year-old battle.",
+      "startDate": "2026-10-24T09:15:00",
+      "endDate": "2026-10-24T10:40:00",
+      "showTime": "09:15:00",
+      "endTime": "10:40:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/76409c1c75576eff1132d6f02b32f28d.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "The Simpsons Movie",
+      "description": "An environmental disaster strikes when Homer's reckless actions contaminate Springfield's water source. The town is sealed under a massive dome by the EPA, branding the Simpsons as outlaws on the run.",
+      "startDate": "2026-10-24T10:40:00",
+      "endDate": "2026-10-24T12:09:00",
+      "showTime": "10:40:00",
+      "endTime": "12:09:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b9a21f705a01c2352753e633a912c13.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Alice in Wonderland",
+      "description": "After following a white rabbit to a magical world called Underland, Alice, a 19-year-old girl, teams up with the Mad Hatter and friends to overthrow the evil queen and her dragon.",
+      "startDate": "2026-10-24T12:09:00",
+      "endDate": "2026-10-24T14:05:00",
+      "showTime": "12:09:00",
+      "endTime": "14:05:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0fe7922540adfc237f2f4f88a5e664c8.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Raya and the Last Dragon",
+      "description": "Warrior Raya embarks on a quest to find Sisu, the last dragon, who infused all her powers into a mystical gem to defeat the Druun monsters, giving rise to a power struggle in the land of Kumandra.",
+      "startDate": "2026-10-24T14:05:00",
+      "endDate": "2026-10-24T15:56:00",
+      "showTime": "14:05:00",
+      "endTime": "15:56:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bef22b3c1214e879e8c41a01d411f394.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "The Captain",
+      "description": "During the Second World War, a young German soldier attempts to escape a horrific regime by impersonating a Nazi officer.",
+      "startDate": "2026-10-24T15:56:00",
+      "endDate": "2026-10-24T17:52:00",
+      "showTime": "15:56:00",
+      "endTime": "17:52:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/79ffd4ecfe3d558de5fc2e4dff2cef7e.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Up",
+      "description": "A 78-year-old balloon salesman ties thousands of balloons to his house and flies to South America, but discovers a young stowaway aboard.",
+      "startDate": "2026-10-24T17:52:00",
+      "endDate": "2026-10-24T19:29:00",
+      "showTime": "17:52:00",
+      "endTime": "19:29:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f51356122190b72dc29bc2daab16db4.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "2025 Armageddon",
+      "description": "A militant alien race launches a devastating attack on Earth using gigantic creatures and geological disasters. They unleash chaos, turning fiction into a terrifying reality.",
+      "startDate": "2026-10-24T19:29:00",
+      "endDate": "2026-10-24T21:00:00",
+      "showTime": "19:29:00",
+      "endTime": "21:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/708931d8d74785c0d342576b87c949de.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Winnie the Pooh",
+      "description": "When Eeyore loses his tail, Winnie the Pooh and his friends set out to find a replacement. A misunderstanding over a note soon sends the group on a quest to save Christopher Robin.",
+      "startDate": "2026-10-24T21:00:00",
+      "endDate": "2026-10-24T22:06:00",
+      "showTime": "21:00:00",
+      "endTime": "22:06:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a24b7d952b37897309db28ca43d37a88.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Cosmoball",
+      "description": "In the aftermath of a galactic war that shattered the moon and shifted Earth's poles, a massive spaceship named 'Cosmoball' hovers ominously above the planet.",
+      "startDate": "2026-10-24T22:06:00",
+      "endDate": "2026-10-24T23:59:59",
+      "showTime": "22:06:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8925014666d687be094a46f2ad4ce924.jpg"
     },
     {
       "serverDate": "2026-10-25",
-      "showName": "Movie",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-10-25T03:00:00",
-      "endDate": "2026-10-25T06:00:00",
-      "showTime": "03:00:00",
-      "endTime": "06:00:00",
+      "showName": "Cosmoball",
+      "description": "In the aftermath of a galactic war that shattered the moon and shifted Earth's poles, a massive spaceship named 'Cosmoball' hovers ominously above the planet.",
+      "startDate": "2026-10-25T00:00:00",
+      "endDate": "2026-10-25T00:09:00",
+      "showTime": "00:00:00",
+      "endTime": "00:09:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8925014666d687be094a46f2ad4ce924.jpg"
+    },
+    {
+      "serverDate": "2026-10-25",
+      "showName": "Ferdinand",
+      "description": "A bull's peaceful existence comes crashing down when the authorities return him to his former captors. With help from a wisecracking goat and three hedgehogs, the giant but gentle bovine must find a way to escape before he meets a famous bullfighter.",
+      "startDate": "2026-10-25T00:09:00",
+      "endDate": "2026-10-25T01:55:00",
+      "showTime": "00:09:00",
+      "endTime": "01:55:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d57a4587767850d453bd371b4ae78e40.jpg"
+    },
+    {
+      "serverDate": "2026-10-25",
+      "showName": "Kunlun Battle",
+      "description": "A Kunlun gatekeeper's son forms an alliance with a powerful man, fuelled by the desire to avenge the betrayal suffered by his father.",
+      "startDate": "2026-10-25T01:55:00",
+      "endDate": "2026-10-25T03:17:00",
+      "showTime": "01:55:00",
+      "endTime": "03:17:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/33768c12ab9c8d3091fbb54ffd4ebe4a.jpg"
+    },
+    {
+      "serverDate": "2026-10-25",
+      "showName": "Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-25T03:17:00",
+      "endDate": "2026-10-25T03:22:00",
+      "showTime": "03:17:00",
+      "endTime": "03:22:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6685a6b277d4ecbcc599b04852561701.jpg"
+    },
+    {
+      "serverDate": "2026-10-25",
+      "showName": "Ghost Shark",
+      "description": "After a great white shark devours a fisherman's potential catch, he and his daughter kill it in retaliation. However, the shark returns as a ghost, seeking vengeance on the town of Smallport.",
+      "startDate": "2026-10-25T03:22:00",
+      "endDate": "2026-10-25T06:00:00",
+      "showTime": "03:22:00",
+      "endTime": "06:00:00",
+      "showCategory": "TV Movie",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a677dba9cb499871ee2d8baaf28cee1f.jpg"
     },
     {
       "serverDate": "2026-10-25",
@@ -362,90 +582,90 @@
     {
       "serverDate": "2026-10-29",
       "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "description": "Bringing the best in cinema.",
       "startDate": "2026-10-29T00:00:00",
       "endDate": "2026-10-29T03:00:00",
       "showTime": "00:00:00",
       "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
     },
     {
       "serverDate": "2026-10-29",
       "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "description": "Bringing the best in cinema.",
       "startDate": "2026-10-29T03:00:00",
       "endDate": "2026-10-29T06:00:00",
       "showTime": "03:00:00",
       "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
     },
     {
       "serverDate": "2026-10-29",
       "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "description": "Bringing the best in cinema.",
       "startDate": "2026-10-29T06:00:00",
       "endDate": "2026-10-29T09:00:00",
       "showTime": "06:00:00",
       "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
     },
     {
       "serverDate": "2026-10-29",
       "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "description": "Bringing the best in cinema.",
       "startDate": "2026-10-29T09:00:00",
       "endDate": "2026-10-29T12:00:00",
       "showTime": "09:00:00",
       "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
     },
     {
       "serverDate": "2026-10-29",
       "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "description": "Bringing the best in cinema.",
       "startDate": "2026-10-29T12:00:00",
       "endDate": "2026-10-29T15:00:00",
       "showTime": "12:00:00",
       "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
     },
     {
       "serverDate": "2026-10-29",
       "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "description": "Bringing the best in cinema.",
       "startDate": "2026-10-29T15:00:00",
       "endDate": "2026-10-29T18:00:00",
       "showTime": "15:00:00",
       "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
     },
     {
       "serverDate": "2026-10-29",
       "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "description": "Bringing the best in cinema.",
       "startDate": "2026-10-29T18:00:00",
       "endDate": "2026-10-29T21:00:00",
       "showTime": "18:00:00",
       "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
     },
     {
       "serverDate": "2026-10-29",
       "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "description": "Bringing the best in cinema.",
       "startDate": "2026-10-29T21:00:00",
       "endDate": "2026-10-29T23:59:59",
       "showTime": "21:00:00",
       "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
     }
   ]
 }
