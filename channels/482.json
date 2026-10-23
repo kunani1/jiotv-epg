@@ -8,127 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png",
   "programs": [
     {
-      "serverDate": "2026-10-21",
-      "showName": "International Sabse Bada Khiladi",
-      "description": "A student falls in love with a rich young woman, and they beat the odds to get married.",
-      "startDate": "2026-10-21T00:00:00",
-      "endDate": "2026-10-21T01:29:00",
-      "showTime": "00:00:00",
-      "endTime": "01:29:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be30f05a1f7c3e015d8928997165acf4.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Cadaver",
-      "description": "In the starving aftermath of a nuclear disaster, a family accepts a charitable offer, which turns into a sinister game.",
-      "startDate": "2026-10-21T01:29:00",
-      "endDate": "2026-10-21T03:20:00",
-      "showTime": "01:29:00",
-      "endTime": "03:20:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8ebcf21d0977f45e3c709cac1136c186.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Filler",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-21T03:20:00",
-      "endDate": "2026-10-21T04:17:00",
-      "showTime": "03:20:00",
-      "endTime": "04:17:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/50c009cad1c6dc92d786b2907c47d26e.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Hey! Sinamika",
-      "description": "Weather scientist Mouna falls in love with quirky and loving Yaazhan, but their relationship takes an unexpected turn when psychologist Dr Malarvizhi arrives in town.",
-      "startDate": "2026-10-21T04:17:00",
-      "endDate": "2026-10-21T06:40:00",
-      "showTime": "04:17:00",
-      "endTime": "06:40:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/316a2cc2e8ca2b26b7cac90576246f03.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Kumari Jille Ke Thugs",
-      "description": "Caught in the turmoil of prison life, a determined man forges alliances with fellow inmates, plotting a daring plan to escape and regain their freedom.",
-      "startDate": "2026-10-21T06:40:00",
-      "endDate": "2026-10-21T09:09:00",
-      "showTime": "06:40:00",
-      "endTime": "09:09:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9bade22066e8f839175f8dcd9d311025.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Satyabhama",
-      "description": "ACP Satyabhama investigates a missing person case, uncovering dark secrets across shadowy towns. Her past haunts her as she races to find the truth and redemption amidst the high-stakes investigation.",
-      "startDate": "2026-10-21T09:09:00",
-      "endDate": "2026-10-21T11:57:00",
-      "showTime": "09:09:00",
-      "endTime": "11:57:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/82043cdb0f0ba32b57ec55e6ea15c592.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Welcome",
-      "description": "An ordinary man falls deeply in love with a beautiful woman, but he has no idea that her brothers are actually gangsters.",
-      "startDate": "2026-10-21T11:57:00",
-      "endDate": "2026-10-21T15:25:00",
-      "showTime": "11:57:00",
-      "endTime": "15:25:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e86e17748cd87a6ff9257876b8f82f2c.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Manjulika Returns 2",
-      "description": "Four strangers across different walks of life serendipitously meet at a haunted graveyard. However, luck turns to misery when an insidious force awakens.",
-      "startDate": "2026-10-21T15:25:00",
-      "endDate": "2026-10-21T17:31:00",
-      "showTime": "15:25:00",
-      "endTime": "17:31:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/35caa14a4a7203033d2c902c9e74d414.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Crakk: Jeetegaa Toh Jiyegaa",
-      "description": "A man journeys from the slums of Mumbai to the world of underground extreme sports, as he attempts to make his mark on the outlaw competition Maidan and discover what happened to his brother.",
-      "startDate": "2026-10-21T17:31:00",
-      "endDate": "2026-10-21T20:35:00",
-      "showTime": "17:31:00",
-      "endTime": "20:35:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1dcc0ea88bbccbed106d441421b14240.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Hanu Man",
-      "description": "A man who accidentally attains superpowers clashes with one who is desperate to get his own.",
-      "startDate": "2026-10-21T20:35:00",
-      "endDate": "2026-10-21T23:35:00",
-      "showTime": "20:35:00",
-      "endTime": "23:35:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/294a1258341c6c09fbb4785ea19d0836.jpg"
-    },
-    {
-      "serverDate": "2026-10-21",
-      "showName": "Nagashaurya's Aswathama",
-      "description": "A man returns to India for his sister's engagement ceremony but discovers that something terrible has happened to her. On his quest for the truth, he uncovers a series of crimes against women.",
-      "startDate": "2026-10-21T23:35:00",
-      "endDate": "2026-10-21T23:59:59",
-      "showTime": "23:35:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1686f127439157cf43acdd96a524a91a.jpg"
-    },
-    {
       "serverDate": "2026-10-22",
       "showName": "Nagashaurya's Aswathama",
       "description": "A man returns to India for his sister's engagement ceremony but discovers that something terrible has happened to her. On his quest for the truth, he uncovers a series of crimes against women.",
@@ -842,6 +721,94 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-10-29",
+      "showName": "Movie",
+      "description": "Movie to be announced.",
+      "startDate": "2026-10-29T00:00:00",
+      "endDate": "2026-10-29T03:00:00",
+      "showTime": "00:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"
+    },
+    {
+      "serverDate": "2026-10-29",
+      "showName": "Movie",
+      "description": "Movie to be announced.",
+      "startDate": "2026-10-29T03:00:00",
+      "endDate": "2026-10-29T06:00:00",
+      "showTime": "03:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"
+    },
+    {
+      "serverDate": "2026-10-29",
+      "showName": "Movie",
+      "description": "Movie to be announced.",
+      "startDate": "2026-10-29T06:00:00",
+      "endDate": "2026-10-29T09:00:00",
+      "showTime": "06:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"
+    },
+    {
+      "serverDate": "2026-10-29",
+      "showName": "Movie",
+      "description": "Movie to be announced.",
+      "startDate": "2026-10-29T09:00:00",
+      "endDate": "2026-10-29T12:00:00",
+      "showTime": "09:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"
+    },
+    {
+      "serverDate": "2026-10-29",
+      "showName": "Movie",
+      "description": "Movie to be announced.",
+      "startDate": "2026-10-29T12:00:00",
+      "endDate": "2026-10-29T15:00:00",
+      "showTime": "12:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"
+    },
+    {
+      "serverDate": "2026-10-29",
+      "showName": "Movie",
+      "description": "Movie to be announced.",
+      "startDate": "2026-10-29T15:00:00",
+      "endDate": "2026-10-29T18:00:00",
+      "showTime": "15:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"
+    },
+    {
+      "serverDate": "2026-10-29",
+      "showName": "Movie",
+      "description": "Movie to be announced.",
+      "startDate": "2026-10-29T18:00:00",
+      "endDate": "2026-10-29T21:00:00",
+      "showTime": "18:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"
+    },
+    {
+      "serverDate": "2026-10-29",
+      "showName": "Movie",
+      "description": "Movie to be announced.",
+      "startDate": "2026-10-29T21:00:00",
+      "endDate": "2026-10-29T23:59:59",
+      "showTime": "21:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"
     }
   ]
 }
