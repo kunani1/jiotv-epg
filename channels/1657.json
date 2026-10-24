@@ -8,6 +8,127 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",
   "programs": [
     {
+      "serverDate": "2026-10-23",
+      "showName": "Gangster",
+      "description": "Star-crossed lovers Guru and Ruhi dream of living a simple life together. However, when Guru's past as a gangster begins to haunt them, their blissful life together starts shattering.",
+      "startDate": "2026-10-23T00:00:00",
+      "endDate": "2026-10-23T00:25:00",
+      "showTime": "00:00:00",
+      "endTime": "00:25:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/99942377469ca044469a0046097fc392.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Shah Jahan Regency",
+      "description": "People living in and associated with the renowned Hotel Shah Jahan Regency experience a spectrum of emotions as they deal with different situations in their daily lives.",
+      "startDate": "2026-10-23T00:25:00",
+      "endDate": "2026-10-23T03:00:00",
+      "showTime": "00:25:00",
+      "endTime": "03:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c08dbf643e7427cebabca0848b6cf26.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Shiv Shakti",
+      "description": "Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.",
+      "startDate": "2026-10-23T03:00:00",
+      "endDate": "2026-10-23T04:00:00",
+      "showTime": "03:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/64e9d99520b4dd7c7ca7cded6ba13f99.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Shiv Shakti",
+      "description": "Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.",
+      "startDate": "2026-10-23T04:00:00",
+      "endDate": "2026-10-23T05:00:00",
+      "showTime": "04:00:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/64e9d99520b4dd7c7ca7cded6ba13f99.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Gate 2 Gether",
+      "description": "Rick dislikes Diya initially but falls in love with her when he realises that she is his childhood friend. However, Diya is in a dilemma as she is already committed to her boyfriend.",
+      "startDate": "2026-10-23T05:00:00",
+      "endDate": "2026-10-23T07:00:00",
+      "showTime": "05:00:00",
+      "endTime": "07:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2784bd4692bef45474f401456e4d8a60.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Rajar Raja",
+      "description": "Raja takes to alcohol after the death of his parents. However, his life takes a turn when his childhood friends reconnect with him.",
+      "startDate": "2026-10-23T07:00:00",
+      "endDate": "2026-10-23T09:40:00",
+      "showTime": "07:00:00",
+      "endTime": "09:40:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b30515dd5dcd020921a16edb43900c4.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Challenge 2",
+      "description": "ACP Abhiraj Roy, who believes his father is dead, accepts the challenge to catch a dangerous mobster. He soon discovers the source of corruption in the political nexus and decides to end it.",
+      "startDate": "2026-10-23T09:40:00",
+      "endDate": "2026-10-23T13:25:00",
+      "showTime": "09:40:00",
+      "endTime": "13:25:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e95f7e07ed8a3159d70e75a533ade1d8.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Badsha: The Don",
+      "description": "Since childhood, an ambitious boy constantly aspires to become a formidable crime boss. After traveling to London, he subsequently encounters and loves a companion named Shreya.",
+      "startDate": "2026-10-23T13:25:00",
+      "endDate": "2026-10-23T17:05:00",
+      "showTime": "13:25:00",
+      "endTime": "17:05:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0c87b88449f9a0c24349706924f230b4.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Bojhena Shey Bojhena",
+      "description": "A tragic love story intertwines the lives of four strangers, leading to unexpected bonds and heartbreak, forever altering their paths after a devastating accident.",
+      "startDate": "2026-10-23T17:05:00",
+      "endDate": "2026-10-23T20:15:00",
+      "showTime": "17:05:00",
+      "endTime": "20:15:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/af78709a3ebbdc62efb43ed9b378b820.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Bigg Boss Bangla",
+      "description": "Sourav Ganguly hosts celebrity contestants as they live together in a common house, compete in various challenges and have to deal with each other's differences in order to win the prize.",
+      "startDate": "2026-10-23T20:15:00",
+      "endDate": "2026-10-23T21:30:00",
+      "showTime": "20:15:00",
+      "endTime": "21:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/445e46fa18ca002bff3de50203fdf3af.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Dui Prithibi",
+      "description": "A rich man falls in love with an idealistic medical student. However, when circumstances force them apart, he learns the true meaning and value of love.",
+      "startDate": "2026-10-23T21:30:00",
+      "endDate": "2026-10-23T23:59:59",
+      "showTime": "21:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ede8a730fe1982d222242014b5a7b466.jpg"
+    },
+    {
       "serverDate": "2026-10-24",
       "showName": "Dui Prithibi",
       "description": "A rich man falls in love with an idealistic medical student. However, when circumstances force them apart, he learns the true meaning and value of love.",
