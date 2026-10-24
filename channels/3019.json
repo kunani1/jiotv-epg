@@ -6,5 +6,138 @@
   "category_id": 12,
   "category": "News",
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Bangla_Jago.png",
-  "programs": []
+  "programs": [
+    {
+      "serverDate": "2026-10-24",
+      "showName": "8 E 8",
+      "description": "The host presents the latest developments on political, social and economic issues and provides an update on current events.",
+      "startDate": "2026-10-24T00:00:00",
+      "endDate": "2026-10-24T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/424c011f8b2c9a230b3a59e87edac4bc.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Ek Jholoke Bangla",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the state of West Bengal.",
+      "startDate": "2026-10-24T00:30:00",
+      "endDate": "2026-10-24T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d2fa83aa50bca2ad7d6fbd7efa48124e.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Diner Sera",
+      "description": "The host presents the latest developments in the political, social, economic and sports fields of the state and the country.",
+      "startDate": "2026-10-24T01:00:00",
+      "endDate": "2026-10-24T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3035e3e3d7a82eb4b8459cd16f73b0a9.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Aaj Saradine",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-10-24T01:30:00",
+      "endDate": "2026-10-24T02:00:00",
+      "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a35ae48efc67c6ba2040eb78412e6172.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Janata Express",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-24T02:00:00",
+      "endDate": "2026-10-24T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d850658d9f2e839bab22ffd1b6ba08df.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Ent / Desh",
+      "description": "The host sheds light on the latest stories and significant updates from various fields impacting people around the country.",
+      "startDate": "2026-10-24T02:30:00",
+      "endDate": "2026-10-24T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/81f909d3b390f2bab16db3ecfd047308.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Aaj Saradine",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-10-24T03:00:00",
+      "endDate": "2026-10-24T03:30:00",
+      "showTime": "03:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a35ae48efc67c6ba2040eb78412e6172.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Ek Jholoke Bangla",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the state of West Bengal.",
+      "startDate": "2026-10-24T03:30:00",
+      "endDate": "2026-10-24T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d2fa83aa50bca2ad7d6fbd7efa48124e.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "8 Pm",
+      "description": "The host presents the latest developments and events on crucial political, social, economic and sports matters affecting the nation.",
+      "startDate": "2026-10-24T04:00:00",
+      "endDate": "2026-10-24T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/94b6fbddfbdb0db7e191ed65eb92b263.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Diner Sera",
+      "description": "The host presents the latest developments in the political, social, economic and sports fields of the state and the country.",
+      "startDate": "2026-10-24T04:30:00",
+      "endDate": "2026-10-24T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3035e3e3d7a82eb4b8459cd16f73b0a9.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Ek Jholoke Bangla",
+      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the state of West Bengal.",
+      "startDate": "2026-10-24T05:00:00",
+      "endDate": "2026-10-24T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d2fa83aa50bca2ad7d6fbd7efa48124e.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Bangla Jago",
+      "description": "Bangla Jago",
+      "startDate": "2026-10-24T05:30:00",
+      "endDate": "2026-10-24T23:59:59",
+      "showTime": "05:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "News",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b9ce4be80a28a225c9f54a6895fbb71.jpg"
+    }
+  ]
 }

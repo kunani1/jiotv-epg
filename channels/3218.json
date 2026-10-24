@@ -6,5 +6,116 @@
   "category_id": 12,
   "category": "News",
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/STV24_News.png",
-  "programs": []
+  "programs": [
+    {
+      "serverDate": "2026-10-23",
+      "showName": "STV 24 NEWS",
+      "description": "STV 24 NEWS",
+      "startDate": "2026-10-23T00:00:00",
+      "endDate": "2026-10-23T02:00:00",
+      "showTime": "00:00:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "STV 24 NEWS",
+      "description": "STV 24 NEWS",
+      "startDate": "2026-10-23T02:00:00",
+      "endDate": "2026-10-23T06:00:00",
+      "showTime": "02:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "STV 24 NEWS",
+      "description": "STV 24 NEWS",
+      "startDate": "2026-10-23T06:00:00",
+      "endDate": "2026-10-23T10:00:00",
+      "showTime": "06:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "STV 24 NEWS",
+      "description": "STV 24 NEWS",
+      "startDate": "2026-10-23T10:00:00",
+      "endDate": "2026-10-23T14:00:00",
+      "showTime": "10:00:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "STV 24 NEWS",
+      "description": "STV 24 NEWS",
+      "startDate": "2026-10-23T14:00:00",
+      "endDate": "2026-10-23T18:00:00",
+      "showTime": "14:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "STV 24 NEWS",
+      "description": "STV 24 NEWS",
+      "startDate": "2026-10-23T18:00:00",
+      "endDate": "2026-10-23T22:00:00",
+      "showTime": "18:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "STV 24 NEWS",
+      "description": "STV 24 NEWS",
+      "startDate": "2026-10-23T22:00:00",
+      "endDate": "2026-10-23T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "STV 24 NEWS",
+      "description": "STV 24 NEWS",
+      "startDate": "2026-10-24T00:00:00",
+      "endDate": "2026-10-24T02:00:00",
+      "showTime": "00:00:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "STV 24 NEWS",
+      "description": "STV 24 NEWS",
+      "startDate": "2026-10-24T02:00:00",
+      "endDate": "2026-10-24T06:00:00",
+      "showTime": "02:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "STV24 News",
+      "description": "STV24 News",
+      "startDate": "2026-10-24T06:00:00",
+      "endDate": "2026-10-24T23:59:59",
+      "showTime": "06:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "News",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a488a47b1806ea43392b6d4437602778.jpg"
+    }
+  ]
 }

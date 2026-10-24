@@ -8,6 +8,105 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png",
   "programs": [
     {
+      "serverDate": "2026-10-23",
+      "showName": "Ben Johnson",
+      "description": "Johnson, the honourable son of a dreaded local thug, decides to erase the bad image of his father in society. He becomes a police officer and fights to bring criminals to justice.",
+      "startDate": "2026-10-23T00:00:00",
+      "endDate": "2026-10-23T02:25:00",
+      "showTime": "00:00:00",
+      "endTime": "02:25:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7f88d9855fd5bf2a16964e635822fd7.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Minnaminnikkoottam",
+      "description": "Ajit, an anchor in Kolkata, meets Krishnapriya, who has lost her husband under mysterious circumstances. However, things become complicated when he falls for her while helping to find her spouse.",
+      "startDate": "2026-10-23T02:25:00",
+      "endDate": "2026-10-23T04:45:00",
+      "showTime": "02:25:00",
+      "endTime": "04:45:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f4740e5f267d0477abcf14f133ffff8a.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Chakram",
+      "description": "Chandrahasan, a truck driver, falls in love with Indrani and gets married to her. His life takes an unexpected turn when his best friend kidnaps Indrani, and he sets out to rescue her.",
+      "startDate": "2026-10-23T04:45:00",
+      "endDate": "2026-10-23T07:00:00",
+      "showTime": "04:45:00",
+      "endTime": "07:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d35154daae158a1ca5b76a7e95dd7ca.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Honey Bee",
+      "description": "A man proposes to his close friend on the night before her wedding. However, he incurs the wrath of her older brothers when he elopes with her.",
+      "startDate": "2026-10-23T07:00:00",
+      "endDate": "2026-10-23T10:00:00",
+      "showTime": "07:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a5016598f7aaf99f7f9ab2e2b7b051e8.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Sound Thoma",
+      "description": "Thoma belongs to the Palaparambil family, which is disliked by the locals due to his father's actions. However, he comes up with a plan to portray his greedy father as a charitable person.",
+      "startDate": "2026-10-23T10:00:00",
+      "endDate": "2026-10-23T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9121e489c62a04fc80a733522b1d220.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Baba Kalyani",
+      "description": "Baba Kalyani, a police officer, travels to Kochi to uncover a terrorist conspiracy. He must not only work on the case but also deal with old rivals who are hell-bent on settling scores with him.",
+      "startDate": "2026-10-23T13:00:00",
+      "endDate": "2026-10-23T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/843f56fd15a5dffb4d841bd756db2a77.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Amaran",
+      "description": "Major Mukund Varadarajan, a commissioned officer in the Rajput Regiment of the Indian Army, conducts a counterterrorism operation while being deployed to Jammu and Kashmir.",
+      "startDate": "2026-10-23T16:00:00",
+      "endDate": "2026-10-23T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/44e3f48b589d9a26a73c56f8bce2de72.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Anand Sreebala",
+      "description": "Anand, a part-time investigator, embarks on a quest to unravel the mysterious death of a law student. However, his investigation leads him to confront his own demons.",
+      "startDate": "2026-10-23T19:00:00",
+      "endDate": "2026-10-23T22:00:00",
+      "showTime": "19:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e7ed8a8dcfdacc90f20af5cf86c8051.jpg"
+    },
+    {
+      "serverDate": "2026-10-23",
+      "showName": "Mambazhakkalam",
+      "description": "When his father dies, Chandran is forced to go abroad to earn money to pay his father's dues. On a holiday to India, he meets his childhood lover and hopes to rekindle the relationship.",
+      "startDate": "2026-10-23T22:00:00",
+      "endDate": "2026-10-23T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a68b0679844ecad88078cc8ebc414628.jpg"
+    },
+    {
       "serverDate": "2026-10-24",
       "showName": "Mambazhakkalam",
       "description": "When his father dies, Chandran is forced to go abroad to earn money to pay his father's dues. On a holiday to India, he meets his childhood lover and hopes to rekindle the relationship.",
