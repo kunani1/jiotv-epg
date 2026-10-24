@@ -8,171 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/mh1_Music.png",
   "programs": [
     {
-      "serverDate": "2026-10-23",
-      "showName": "Highway Resort",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-23T00:00:00",
-      "endDate": "2026-10-23T03:45:00",
-      "showTime": "00:00:00",
-      "endTime": "03:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/063329036f8c6649f3dd7815f077cf5b.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Paath Sri Sukhmani Sahib",
-      "description": "A Sikh guru addresses a gathering of devotes and recites spiritual hymns from the Guru Granth Sahib and focuses on the significance of peace and remembering God.",
-      "startDate": "2026-10-23T03:45:00",
-      "endDate": "2026-10-23T05:00:00",
-      "showTime": "03:45:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a59e3666669e6da8433cdb98994295e4.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Sarab Sanjhi Gurbani",
-      "description": "A curated compilation of Sikh religious and sacred songs, performed in devotion to praising the Almighty, is played back to back.",
-      "startDate": "2026-10-23T05:00:00",
-      "endDate": "2026-10-23T06:00:00",
-      "showTime": "05:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3395234dccbdcbb7a95a3c1d4ae70b61.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Devotional Songs / Mantra",
-      "description": "A curated collection of various devotional songs and prayers, performed by devotees to praise the Almighty and seek blessings.",
-      "startDate": "2026-10-23T06:00:00",
-      "endDate": "2026-10-23T06:20:00",
-      "showTime": "06:00:00",
-      "endTime": "06:20:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9735609763cd753038617e8cf06ca1dc.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Aarti From Maa Vaishno Devi Darbar",
-      "description": "Hindu priests perform ceremonial rituals as an act of worship and devotion amidst sacred chants at the shrine of Maa Vaishno Devi, seeking divine blessings for a fulfilled life.",
-      "startDate": "2026-10-23T06:20:00",
-      "endDate": "2026-10-23T08:00:00",
-      "showTime": "06:20:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/258947e9dc60a0a6998f035c454e840a.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Back to Back Songs",
-      "description": "A comprehensive compilation of some of the most popular and foot-tapping songs and compositions is played back to back to entertain the audience.",
-      "startDate": "2026-10-23T08:00:00",
-      "endDate": "2026-10-23T09:00:00",
-      "showTime": "08:00:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bea5bab5cac2745a26cc8db8f83718b6.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Assi Haan Star",
-      "description": "A collection of songs by Punjabi singers, artists and musicians accompanied by dubbed video clips of people lip-syncing to the lyrics.",
-      "startDate": "2026-10-23T09:00:00",
-      "endDate": "2026-10-23T10:00:00",
-      "showTime": "09:00:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77b2cf451ecf8970eb23c5df54f22afb.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Back to Back Songs",
-      "description": "A comprehensive compilation of some of the most popular and foot-tapping songs and compositions is played back to back to entertain the audience.",
-      "startDate": "2026-10-23T10:00:00",
-      "endDate": "2026-10-23T11:00:00",
-      "showTime": "10:00:00",
-      "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bea5bab5cac2745a26cc8db8f83718b6.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Back to Back Songs",
-      "description": "A comprehensive compilation of some of the most popular and foot-tapping songs and compositions is played back to back to entertain the audience.",
-      "startDate": "2026-10-23T11:00:00",
-      "endDate": "2026-10-23T12:00:00",
-      "showTime": "11:00:00",
-      "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bea5bab5cac2745a26cc8db8f83718b6.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Mahi Mera Nikka Jeha",
-      "description": "Sparks fly between Nikka and Noor who decide to tie the knot. However, their path to a happily married life finds their families as hurdles when the couple's varying height becomes a problem.",
-      "startDate": "2026-10-23T12:00:00",
-      "endDate": "2026-10-23T15:00:00",
-      "showTime": "12:00:00",
-      "endTime": "15:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1043bda837e6534f832c8469b11ef416.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Back to Back Songs",
-      "description": "A comprehensive compilation of some of the most popular and foot-tapping songs and compositions is played back to back to entertain the audience.",
-      "startDate": "2026-10-23T15:00:00",
-      "endDate": "2026-10-23T17:00:00",
-      "showTime": "15:00:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bea5bab5cac2745a26cc8db8f83718b6.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Oye Makhna",
-      "description": "After Makhan falls in love by just looking at a girl's eyes, he and his uncle decide to find her, but the problem arises when they end up fixing his wedding with a different girl.",
-      "startDate": "2026-10-23T17:00:00",
-      "endDate": "2026-10-23T20:00:00",
-      "showTime": "17:00:00",
-      "endTime": "20:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ec7163d4b78ecd1c7698004168abf47c.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Back to Back Songs",
-      "description": "A comprehensive compilation of some of the most popular and foot-tapping songs and compositions is played back to back to entertain the audience.",
-      "startDate": "2026-10-23T20:00:00",
-      "endDate": "2026-10-23T20:30:00",
-      "showTime": "20:00:00",
-      "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bea5bab5cac2745a26cc8db8f83718b6.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Har Har Mahadev",
-      "description": "Lord Shiva, an ascetic, and Goddess Shakti create the cosmos together. They separate for creation's sake, but reunite when she is reborn as Goddess Parvati.",
-      "startDate": "2026-10-23T20:30:00",
-      "endDate": "2026-10-23T21:00:00",
-      "showTime": "20:30:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b250e8523882ab01a1fd080048535000.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Highway Resort",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-23T21:00:00",
-      "endDate": "2026-10-23T23:59:59",
-      "showTime": "21:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/063329036f8c6649f3dd7815f077cf5b.jpg"
-    },
-    {
       "serverDate": "2026-10-24",
       "showName": "Highway Resort",
       "description": "Bringing the best in television.",
@@ -1252,25 +1087,14 @@
     },
     {
       "serverDate": "2026-10-30",
-      "showName": "Masti Punjab Di",
-      "description": "A comprehensive compilation featuring popular Punjabi soundtracks by various renowned artists and musicians in a non-stop sequence.",
+      "showName": "Back to Back Songs",
+      "description": "A comprehensive compilation of some of the most popular and foot-tapping songs and compositions is played back to back to entertain the audience.",
       "startDate": "2026-10-30T08:00:00",
-      "endDate": "2026-10-30T08:30:00",
-      "showTime": "08:00:00",
-      "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/008e3d128e9ad3d83d1fd86892199da5.jpg"
-    },
-    {
-      "serverDate": "2026-10-30",
-      "showName": "Masti Punjab Di",
-      "description": "A comprehensive compilation featuring popular Punjabi soundtracks by various renowned artists and musicians in a non-stop sequence.",
-      "startDate": "2026-10-30T08:30:00",
       "endDate": "2026-10-30T09:00:00",
-      "showTime": "08:30:00",
+      "showTime": "08:00:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/008e3d128e9ad3d83d1fd86892199da5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bea5bab5cac2745a26cc8db8f83718b6.jpg"
     },
     {
       "serverDate": "2026-10-30",
@@ -1285,113 +1109,91 @@
     },
     {
       "serverDate": "2026-10-30",
-      "showName": "Durgandh",
-      "description": "Bringing the best in television.",
+      "showName": "Back to Back Songs",
+      "description": "A comprehensive compilation of some of the most popular and foot-tapping songs and compositions is played back to back to entertain the audience.",
       "startDate": "2026-10-30T10:00:00",
       "endDate": "2026-10-30T11:00:00",
       "showTime": "10:00:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a699b11cf2be6c5e7fcaa0859c28ab09.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bea5bab5cac2745a26cc8db8f83718b6.jpg"
     },
     {
       "serverDate": "2026-10-30",
-      "showName": "Dhol Machaye Shor",
-      "description": "Bringing the best in television.",
+      "showName": "Back to Back Songs",
+      "description": "A comprehensive compilation of some of the most popular and foot-tapping songs and compositions is played back to back to entertain the audience.",
       "startDate": "2026-10-30T11:00:00",
-      "endDate": "2026-10-30T11:30:00",
-      "showTime": "11:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dcef9c931155dd35aaba425970864465.jpg"
-    },
-    {
-      "serverDate": "2026-10-30",
-      "showName": "Dhol Machaye Shor",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-30T11:30:00",
       "endDate": "2026-10-30T12:00:00",
-      "showTime": "11:30:00",
+      "showTime": "11:00:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dcef9c931155dd35aaba425970864465.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bea5bab5cac2745a26cc8db8f83718b6.jpg"
     },
     {
       "serverDate": "2026-10-30",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Je Paisa Bolda Hunda",
+      "description": "Ghinda and Rani face a moral dilemma after they find money in Ghinda's tiffin bag. They struggle to return the money to its rightful owner, guided by their unwavering honesty and integrity.",
       "startDate": "2026-10-30T12:00:00",
       "endDate": "2026-10-30T15:00:00",
       "showTime": "12:00:00",
       "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/82454d5c83d2e1e84be32d3483a8c833.jpg"
     },
     {
       "serverDate": "2026-10-30",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Back to Back Songs",
+      "description": "A comprehensive compilation of some of the most popular and foot-tapping songs and compositions is played back to back to entertain the audience.",
       "startDate": "2026-10-30T15:00:00",
-      "endDate": "2026-10-30T18:00:00",
+      "endDate": "2026-10-30T17:00:00",
       "showTime": "15:00:00",
-      "endTime": "18:00:00",
+      "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bea5bab5cac2745a26cc8db8f83718b6.jpg"
     },
     {
       "serverDate": "2026-10-30",
-      "showName": "Happy Hours",
-      "description": "Artists and comedians take the stage to perform hilarious skits and stand-up routines on relatable topics pertaining to social media.",
-      "startDate": "2026-10-30T18:00:00",
-      "endDate": "2026-10-30T19:00:00",
-      "showTime": "18:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fcb8c0939fe3d6e09c54f0dd1c64f066.jpg"
-    },
-    {
-      "serverDate": "2026-10-30",
-      "showName": "Hasde Hasande Ravo",
-      "description": "Renowned and aspiring comedians take the stage to deliver back-to-back comedic performances and bring laughter to the audience.",
-      "startDate": "2026-10-30T19:00:00",
+      "showName": "Godday Godday Chaa",
+      "description": "In the 1990s, women in Punjab are barred from attending wedding processions even if they are close to the groom. However, Rani aims to put an end to this patriarchal custom.",
+      "startDate": "2026-10-30T17:00:00",
       "endDate": "2026-10-30T20:00:00",
-      "showTime": "19:00:00",
+      "showTime": "17:00:00",
       "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10b98e2ceda1940f314e501abb6ff4b1.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6cd05c868f79e4de8479e270d01fc87a.jpg"
     },
     {
       "serverDate": "2026-10-30",
-      "showName": "Entertainment",
-      "description": "Bringing the best in television.",
+      "showName": "Back to Back Songs",
+      "description": "A comprehensive compilation of some of the most popular and foot-tapping songs and compositions is played back to back to entertain the audience.",
       "startDate": "2026-10-30T20:00:00",
-      "endDate": "2026-10-30T21:00:00",
+      "endDate": "2026-10-30T20:30:00",
       "showTime": "20:00:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bea5bab5cac2745a26cc8db8f83718b6.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Har Har Mahadev",
+      "description": "Lord Shiva, an ascetic, and Goddess Shakti create the cosmos together. They separate for creation's sake, but reunite when she is reborn as Goddess Parvati.",
+      "startDate": "2026-10-30T20:30:00",
+      "endDate": "2026-10-30T21:00:00",
+      "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fa553abad3a0e0fa4c80d23a25c2a0c4.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b250e8523882ab01a1fd080048535000.jpg"
     },
     {
       "serverDate": "2026-10-30",
-      "showName": "Assi Haan Star",
-      "description": "A collection of songs by Punjabi singers, artists and musicians accompanied by dubbed video clips of people lip-syncing to the lyrics.",
-      "startDate": "2026-10-30T21:00:00",
-      "endDate": "2026-10-30T22:30:00",
-      "showTime": "21:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77b2cf451ecf8970eb23c5df54f22afb.jpg"
-    },
-    {
-      "serverDate": "2026-10-30",
-      "showName": "Night Shift",
+      "showName": "Highway Resort",
       "description": "Bringing the best in television.",
-      "startDate": "2026-10-30T22:30:00",
+      "startDate": "2026-10-30T21:00:00",
       "endDate": "2026-10-30T23:59:59",
-      "showTime": "22:30:00",
+      "showTime": "21:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9276fa412c4ae503c16dec7dd6b93419.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/063329036f8c6649f3dd7815f077cf5b.jpg"
     }
   ]
 }

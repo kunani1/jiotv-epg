@@ -6,39 +6,5 @@
   "category_id": 12,
   "category": "News",
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Pradesh24_Gujarati.png",
-  "programs": [
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Pradesh24 Gujarati",
-      "description": "Pradesh24 Gujarati",
-      "startDate": "2026-10-24T00:00:00",
-      "endDate": "2026-10-24T02:00:00",
-      "showTime": "00:00:00",
-      "endTime": "02:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Pradesh24 Gujarati",
-      "description": "Pradesh24 Gujarati",
-      "startDate": "2026-10-24T02:00:00",
-      "endDate": "2026-10-24T06:00:00",
-      "showTime": "02:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Pradesh24 Gujarati",
-      "description": "Pradesh24 Gujarati",
-      "startDate": "2026-10-24T06:00:00",
-      "endDate": "2026-10-24T23:59:59",
-      "showTime": "06:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "News",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e2201e056b4e0fbf56cbf74e3cf1495b.jpg"
-    }
-  ]
+  "programs": []
 }
