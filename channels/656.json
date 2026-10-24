@@ -8,1062 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/News9.png",
   "programs": [
     {
-      "serverDate": "2026-10-22",
-      "showName": "On Point With Kartikeya",
-      "description": "Host Kartikeya Sharma conducts interviews and offers in-depth analysis on major topics, including governance, economic reforms, social issues, and global affairs.",
-      "startDate": "2026-10-22T00:00:00",
-      "endDate": "2026-10-22T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b19018304bfa91f8799ee7055a3798e5.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "On Point With Kartikeya",
-      "description": "Host Kartikeya Sharma conducts interviews and offers in-depth analysis on major topics, including governance, economic reforms, social issues, and global affairs.",
-      "startDate": "2026-10-22T00:30:00",
-      "endDate": "2026-10-22T01:00:00",
-      "showTime": "00:30:00",
-      "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b19018304bfa91f8799ee7055a3798e5.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "In Your Interest",
-      "description": "In Your Interest",
-      "startDate": "2026-10-22T01:00:00",
-      "endDate": "2026-10-22T01:30:00",
-      "showTime": "01:00:00",
-      "endTime": "01:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/396c361e753c88d9a5687d481c73eb57.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "In Your Interest",
-      "description": "In Your Interest",
-      "startDate": "2026-10-22T01:30:00",
-      "endDate": "2026-10-22T02:00:00",
-      "showTime": "01:30:00",
-      "endTime": "02:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/396c361e753c88d9a5687d481c73eb57.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Unmissable",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-10-22T02:00:00",
-      "endDate": "2026-10-22T02:30:00",
-      "showTime": "02:00:00",
-      "endTime": "02:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b855d73386eb48f54efaf5c98aca92f.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Unmissable",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-10-22T02:30:00",
-      "endDate": "2026-10-22T03:00:00",
-      "showTime": "02:30:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b855d73386eb48f54efaf5c98aca92f.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Global Lens",
-      "description": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
-      "startDate": "2026-10-22T03:00:00",
-      "endDate": "2026-10-22T03:30:00",
-      "showTime": "03:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d026aca99691c07284ff53c9993b0ba5.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Global Lens",
-      "description": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
-      "startDate": "2026-10-22T03:30:00",
-      "endDate": "2026-10-22T04:00:00",
-      "showTime": "03:30:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d026aca99691c07284ff53c9993b0ba5.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Unmissable",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-10-22T04:00:00",
-      "endDate": "2026-10-22T04:30:00",
-      "showTime": "04:00:00",
-      "endTime": "04:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b855d73386eb48f54efaf5c98aca92f.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Unmissable",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-10-22T04:30:00",
-      "endDate": "2026-10-22T05:00:00",
-      "showTime": "04:30:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b855d73386eb48f54efaf5c98aca92f.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "In Your Interest",
-      "description": "In Your Interest",
-      "startDate": "2026-10-22T05:00:00",
-      "endDate": "2026-10-22T05:30:00",
-      "showTime": "05:00:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/396c361e753c88d9a5687d481c73eb57.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "In Your Interest",
-      "description": "In Your Interest",
-      "startDate": "2026-10-22T05:30:00",
-      "endDate": "2026-10-22T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/396c361e753c88d9a5687d481c73eb57.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Global Lens",
-      "description": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
-      "startDate": "2026-10-22T06:00:00",
-      "endDate": "2026-10-22T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d026aca99691c07284ff53c9993b0ba5.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Global Lens",
-      "description": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
-      "startDate": "2026-10-22T06:30:00",
-      "endDate": "2026-10-22T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d026aca99691c07284ff53c9993b0ba5.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Live Bulletin",
-      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
-      "startDate": "2026-10-22T07:00:00",
-      "endDate": "2026-10-22T07:30:00",
-      "showTime": "07:00:00",
-      "endTime": "07:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Money Central",
-      "description": "Money Central",
-      "startDate": "2026-10-22T07:30:00",
-      "endDate": "2026-10-22T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Meri Sip Mera Sawal",
-      "description": "Meri Sip Mera Sawal",
-      "startDate": "2026-10-22T08:00:00",
-      "endDate": "2026-10-22T08:30:00",
-      "showTime": "08:00:00",
-      "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Meri Sip Mera Sawal",
-      "description": "Meri Sip Mera Sawal",
-      "startDate": "2026-10-22T08:30:00",
-      "endDate": "2026-10-22T09:00:00",
-      "showTime": "08:30:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Global Lens",
-      "description": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
-      "startDate": "2026-10-22T09:00:00",
-      "endDate": "2026-10-22T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d026aca99691c07284ff53c9993b0ba5.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Global Lens",
-      "description": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
-      "startDate": "2026-10-22T09:30:00",
-      "endDate": "2026-10-22T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d026aca99691c07284ff53c9993b0ba5.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Unmissable",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-10-22T10:00:00",
-      "endDate": "2026-10-22T10:30:00",
-      "showTime": "10:00:00",
-      "endTime": "10:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b855d73386eb48f54efaf5c98aca92f.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Unmissable",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-10-22T10:30:00",
-      "endDate": "2026-10-22T11:00:00",
-      "showTime": "10:30:00",
-      "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b855d73386eb48f54efaf5c98aca92f.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Live Bulletin",
-      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
-      "startDate": "2026-10-22T11:00:00",
-      "endDate": "2026-10-22T11:30:00",
-      "showTime": "11:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Money Central",
-      "description": "Money Central",
-      "startDate": "2026-10-22T11:30:00",
-      "endDate": "2026-10-22T12:00:00",
-      "showTime": "11:30:00",
-      "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Live Bulletin",
-      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
-      "startDate": "2026-10-22T12:00:00",
-      "endDate": "2026-10-22T12:30:00",
-      "showTime": "12:00:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Live Bulletin",
-      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
-      "startDate": "2026-10-22T12:30:00",
-      "endDate": "2026-10-22T13:00:00",
-      "showTime": "12:30:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "News9 Live",
-      "description": "The host presents the latest information and developments on various important issues affecting the lives of many people, live.",
-      "startDate": "2026-10-22T13:00:00",
-      "endDate": "2026-10-22T13:30:00",
-      "showTime": "13:00:00",
-      "endTime": "13:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2877d116eaea333eadfa5939012f0858.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Best Of In Your Interest",
-      "description": "Best Of In Your Interest",
-      "startDate": "2026-10-22T13:30:00",
-      "endDate": "2026-10-22T14:00:00",
-      "showTime": "13:30:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bc8e77452a0d5d3482de7e6761b90d3d.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Live Bulletin",
-      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
-      "startDate": "2026-10-22T14:00:00",
-      "endDate": "2026-10-22T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Live Bulletin",
-      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
-      "startDate": "2026-10-22T14:30:00",
-      "endDate": "2026-10-22T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Live Bulletin",
-      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
-      "startDate": "2026-10-22T15:00:00",
-      "endDate": "2026-10-22T15:30:00",
-      "showTime": "15:00:00",
-      "endTime": "15:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Best Of Unmissable",
-      "description": "Best Of Unmissable",
-      "startDate": "2026-10-22T15:30:00",
-      "endDate": "2026-10-22T16:00:00",
-      "showTime": "15:30:00",
-      "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8ac241d9508a41c99f5e61d07aedb709.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Global Lens",
-      "description": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
-      "startDate": "2026-10-22T16:00:00",
-      "endDate": "2026-10-22T16:30:00",
-      "showTime": "16:00:00",
-      "endTime": "16:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d026aca99691c07284ff53c9993b0ba5.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Global Lens",
-      "description": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
-      "startDate": "2026-10-22T16:30:00",
-      "endDate": "2026-10-22T17:00:00",
-      "showTime": "16:30:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d026aca99691c07284ff53c9993b0ba5.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Live Bulletin",
-      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
-      "startDate": "2026-10-22T17:00:00",
-      "endDate": "2026-10-22T17:30:00",
-      "showTime": "17:00:00",
-      "endTime": "17:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Live Bulletin",
-      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
-      "startDate": "2026-10-22T17:30:00",
-      "endDate": "2026-10-22T18:00:00",
-      "showTime": "17:30:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Live Bulletin",
-      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
-      "startDate": "2026-10-22T18:00:00",
-      "endDate": "2026-10-22T18:30:00",
-      "showTime": "18:00:00",
-      "endTime": "18:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Control Z",
-      "description": "Control Z",
-      "startDate": "2026-10-22T18:30:00",
-      "endDate": "2026-10-22T19:00:00",
-      "showTime": "18:30:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "On Point With Kartikeya",
-      "description": "Host Kartikeya Sharma conducts interviews and offers in-depth analysis on major topics, including governance, economic reforms, social issues, and global affairs.",
-      "startDate": "2026-10-22T19:00:00",
-      "endDate": "2026-10-22T19:30:00",
-      "showTime": "19:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b19018304bfa91f8799ee7055a3798e5.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "On Point With Kartikeya",
-      "description": "Host Kartikeya Sharma conducts interviews and offers in-depth analysis on major topics, including governance, economic reforms, social issues, and global affairs.",
-      "startDate": "2026-10-22T19:30:00",
-      "endDate": "2026-10-22T20:00:00",
-      "showTime": "19:30:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b19018304bfa91f8799ee7055a3798e5.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "In Your Interest",
-      "description": "In Your Interest",
-      "startDate": "2026-10-22T20:00:00",
-      "endDate": "2026-10-22T20:30:00",
-      "showTime": "20:00:00",
-      "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/396c361e753c88d9a5687d481c73eb57.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "In Your Interest",
-      "description": "In Your Interest",
-      "startDate": "2026-10-22T20:30:00",
-      "endDate": "2026-10-22T21:00:00",
-      "showTime": "20:30:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/396c361e753c88d9a5687d481c73eb57.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Unmissable",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-10-22T21:00:00",
-      "endDate": "2026-10-22T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b855d73386eb48f54efaf5c98aca92f.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Unmissable",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-10-22T21:30:00",
-      "endDate": "2026-10-22T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b855d73386eb48f54efaf5c98aca92f.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Meri Sip Mera Sawal",
-      "description": "Meri Sip Mera Sawal",
-      "startDate": "2026-10-22T22:00:00",
-      "endDate": "2026-10-22T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Meri Sip Mera Sawal",
-      "description": "Meri Sip Mera Sawal",
-      "startDate": "2026-10-22T22:30:00",
-      "endDate": "2026-10-22T23:00:00",
-      "showTime": "22:30:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Live Bulletin",
-      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
-      "startDate": "2026-10-22T23:00:00",
-      "endDate": "2026-10-22T23:30:00",
-      "showTime": "23:00:00",
-      "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
-    },
-    {
-      "serverDate": "2026-10-22",
-      "showName": "Money Central",
-      "description": "Money Central",
-      "startDate": "2026-10-22T23:30:00",
-      "endDate": "2026-10-22T23:59:59",
-      "showTime": "23:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "On Point With Kartikeya",
-      "description": "Host Kartikeya Sharma conducts interviews and offers in-depth analysis on major topics, including governance, economic reforms, social issues, and global affairs.",
-      "startDate": "2026-10-23T00:00:00",
-      "endDate": "2026-10-23T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b19018304bfa91f8799ee7055a3798e5.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "On Point With Kartikeya",
-      "description": "Host Kartikeya Sharma conducts interviews and offers in-depth analysis on major topics, including governance, economic reforms, social issues, and global affairs.",
-      "startDate": "2026-10-23T00:30:00",
-      "endDate": "2026-10-23T01:00:00",
-      "showTime": "00:30:00",
-      "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b19018304bfa91f8799ee7055a3798e5.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "In Your Interest",
-      "description": "In Your Interest",
-      "startDate": "2026-10-23T01:00:00",
-      "endDate": "2026-10-23T01:30:00",
-      "showTime": "01:00:00",
-      "endTime": "01:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/396c361e753c88d9a5687d481c73eb57.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "In Your Interest",
-      "description": "In Your Interest",
-      "startDate": "2026-10-23T01:30:00",
-      "endDate": "2026-10-23T02:00:00",
-      "showTime": "01:30:00",
-      "endTime": "02:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/396c361e753c88d9a5687d481c73eb57.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Unmissable",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-10-23T02:00:00",
-      "endDate": "2026-10-23T02:30:00",
-      "showTime": "02:00:00",
-      "endTime": "02:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b855d73386eb48f54efaf5c98aca92f.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Unmissable",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-10-23T02:30:00",
-      "endDate": "2026-10-23T03:00:00",
-      "showTime": "02:30:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b855d73386eb48f54efaf5c98aca92f.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Global Lens",
-      "description": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
-      "startDate": "2026-10-23T03:00:00",
-      "endDate": "2026-10-23T03:30:00",
-      "showTime": "03:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d026aca99691c07284ff53c9993b0ba5.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Global Lens",
-      "description": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
-      "startDate": "2026-10-23T03:30:00",
-      "endDate": "2026-10-23T04:00:00",
-      "showTime": "03:30:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d026aca99691c07284ff53c9993b0ba5.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Unmissable",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-10-23T04:00:00",
-      "endDate": "2026-10-23T04:30:00",
-      "showTime": "04:00:00",
-      "endTime": "04:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b855d73386eb48f54efaf5c98aca92f.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Unmissable",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-10-23T04:30:00",
-      "endDate": "2026-10-23T05:00:00",
-      "showTime": "04:30:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b855d73386eb48f54efaf5c98aca92f.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "In Your Interest",
-      "description": "In Your Interest",
-      "startDate": "2026-10-23T05:00:00",
-      "endDate": "2026-10-23T05:30:00",
-      "showTime": "05:00:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/396c361e753c88d9a5687d481c73eb57.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "In Your Interest",
-      "description": "In Your Interest",
-      "startDate": "2026-10-23T05:30:00",
-      "endDate": "2026-10-23T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/396c361e753c88d9a5687d481c73eb57.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Global Lens",
-      "description": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
-      "startDate": "2026-10-23T06:00:00",
-      "endDate": "2026-10-23T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d026aca99691c07284ff53c9993b0ba5.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Global Lens",
-      "description": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
-      "startDate": "2026-10-23T06:30:00",
-      "endDate": "2026-10-23T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d026aca99691c07284ff53c9993b0ba5.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Live Bulletin",
-      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
-      "startDate": "2026-10-23T07:00:00",
-      "endDate": "2026-10-23T07:30:00",
-      "showTime": "07:00:00",
-      "endTime": "07:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Money Central",
-      "description": "Money Central",
-      "startDate": "2026-10-23T07:30:00",
-      "endDate": "2026-10-23T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Meri Sip Mera Sawal",
-      "description": "Meri Sip Mera Sawal",
-      "startDate": "2026-10-23T08:00:00",
-      "endDate": "2026-10-23T08:30:00",
-      "showTime": "08:00:00",
-      "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Meri Sip Mera Sawal",
-      "description": "Meri Sip Mera Sawal",
-      "startDate": "2026-10-23T08:30:00",
-      "endDate": "2026-10-23T09:00:00",
-      "showTime": "08:30:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Global Lens",
-      "description": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
-      "startDate": "2026-10-23T09:00:00",
-      "endDate": "2026-10-23T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d026aca99691c07284ff53c9993b0ba5.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Global Lens",
-      "description": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
-      "startDate": "2026-10-23T09:30:00",
-      "endDate": "2026-10-23T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d026aca99691c07284ff53c9993b0ba5.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Unmissable",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-10-23T10:00:00",
-      "endDate": "2026-10-23T10:30:00",
-      "showTime": "10:00:00",
-      "endTime": "10:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b855d73386eb48f54efaf5c98aca92f.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Unmissable",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-10-23T10:30:00",
-      "endDate": "2026-10-23T11:00:00",
-      "showTime": "10:30:00",
-      "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b855d73386eb48f54efaf5c98aca92f.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Live Bulletin",
-      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
-      "startDate": "2026-10-23T11:00:00",
-      "endDate": "2026-10-23T11:30:00",
-      "showTime": "11:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Money Central",
-      "description": "Money Central",
-      "startDate": "2026-10-23T11:30:00",
-      "endDate": "2026-10-23T12:00:00",
-      "showTime": "11:30:00",
-      "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Live Bulletin",
-      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
-      "startDate": "2026-10-23T12:00:00",
-      "endDate": "2026-10-23T12:30:00",
-      "showTime": "12:00:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Live Bulletin",
-      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
-      "startDate": "2026-10-23T12:30:00",
-      "endDate": "2026-10-23T13:00:00",
-      "showTime": "12:30:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "News9 Live",
-      "description": "The host presents the latest information and developments on various important issues affecting the lives of many people, live.",
-      "startDate": "2026-10-23T13:00:00",
-      "endDate": "2026-10-23T13:30:00",
-      "showTime": "13:00:00",
-      "endTime": "13:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2877d116eaea333eadfa5939012f0858.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Best Of In Your Interest",
-      "description": "Best Of In Your Interest",
-      "startDate": "2026-10-23T13:30:00",
-      "endDate": "2026-10-23T14:00:00",
-      "showTime": "13:30:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bc8e77452a0d5d3482de7e6761b90d3d.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Live Bulletin",
-      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
-      "startDate": "2026-10-23T14:00:00",
-      "endDate": "2026-10-23T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Live Bulletin",
-      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
-      "startDate": "2026-10-23T14:30:00",
-      "endDate": "2026-10-23T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Live Bulletin",
-      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
-      "startDate": "2026-10-23T15:00:00",
-      "endDate": "2026-10-23T15:30:00",
-      "showTime": "15:00:00",
-      "endTime": "15:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Best Of Unmissable",
-      "description": "Best Of Unmissable",
-      "startDate": "2026-10-23T15:30:00",
-      "endDate": "2026-10-23T16:00:00",
-      "showTime": "15:30:00",
-      "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8ac241d9508a41c99f5e61d07aedb709.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Global Lens",
-      "description": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
-      "startDate": "2026-10-23T16:00:00",
-      "endDate": "2026-10-23T16:30:00",
-      "showTime": "16:00:00",
-      "endTime": "16:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d026aca99691c07284ff53c9993b0ba5.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Global Lens",
-      "description": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
-      "startDate": "2026-10-23T16:30:00",
-      "endDate": "2026-10-23T17:00:00",
-      "showTime": "16:30:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d026aca99691c07284ff53c9993b0ba5.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Live Bulletin",
-      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
-      "startDate": "2026-10-23T17:00:00",
-      "endDate": "2026-10-23T17:30:00",
-      "showTime": "17:00:00",
-      "endTime": "17:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Live Bulletin",
-      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
-      "startDate": "2026-10-23T17:30:00",
-      "endDate": "2026-10-23T18:00:00",
-      "showTime": "17:30:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Live Bulletin",
-      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
-      "startDate": "2026-10-23T18:00:00",
-      "endDate": "2026-10-23T18:30:00",
-      "showTime": "18:00:00",
-      "endTime": "18:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Control Z",
-      "description": "Control Z",
-      "startDate": "2026-10-23T18:30:00",
-      "endDate": "2026-10-23T19:00:00",
-      "showTime": "18:30:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "On Point With Kartikeya",
-      "description": "Host Kartikeya Sharma conducts interviews and offers in-depth analysis on major topics, including governance, economic reforms, social issues, and global affairs.",
-      "startDate": "2026-10-23T19:00:00",
-      "endDate": "2026-10-23T19:30:00",
-      "showTime": "19:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b19018304bfa91f8799ee7055a3798e5.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "On Point With Kartikeya",
-      "description": "Host Kartikeya Sharma conducts interviews and offers in-depth analysis on major topics, including governance, economic reforms, social issues, and global affairs.",
-      "startDate": "2026-10-23T19:30:00",
-      "endDate": "2026-10-23T20:00:00",
-      "showTime": "19:30:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b19018304bfa91f8799ee7055a3798e5.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "In Your Interest",
-      "description": "In Your Interest",
-      "startDate": "2026-10-23T20:00:00",
-      "endDate": "2026-10-23T20:30:00",
-      "showTime": "20:00:00",
-      "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/396c361e753c88d9a5687d481c73eb57.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "In Your Interest",
-      "description": "In Your Interest",
-      "startDate": "2026-10-23T20:30:00",
-      "endDate": "2026-10-23T21:00:00",
-      "showTime": "20:30:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/396c361e753c88d9a5687d481c73eb57.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Unmissable",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-10-23T21:00:00",
-      "endDate": "2026-10-23T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b855d73386eb48f54efaf5c98aca92f.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Unmissable",
-      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
-      "startDate": "2026-10-23T21:30:00",
-      "endDate": "2026-10-23T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b855d73386eb48f54efaf5c98aca92f.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Meri Sip Mera Sawal",
-      "description": "Meri Sip Mera Sawal",
-      "startDate": "2026-10-23T22:00:00",
-      "endDate": "2026-10-23T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Meri Sip Mera Sawal",
-      "description": "Meri Sip Mera Sawal",
-      "startDate": "2026-10-23T22:30:00",
-      "endDate": "2026-10-23T23:00:00",
-      "showTime": "22:30:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Live Bulletin",
-      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
-      "startDate": "2026-10-23T23:00:00",
-      "endDate": "2026-10-23T23:30:00",
-      "showTime": "23:00:00",
-      "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
-    },
-    {
-      "serverDate": "2026-10-23",
-      "showName": "Money Central",
-      "description": "Money Central",
-      "startDate": "2026-10-23T23:30:00",
-      "endDate": "2026-10-23T23:59:59",
-      "showTime": "23:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
       "serverDate": "2026-10-24",
       "showName": "Live Bulletin",
       "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
@@ -1094,7 +38,7 @@
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1105,7 +49,7 @@
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1116,7 +60,7 @@
       "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/daa67b330d01ec9e68436b48a1971ffc.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1127,7 +71,7 @@
       "showTime": "02:30:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/daa67b330d01ec9e68436b48a1971ffc.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1138,7 +82,7 @@
       "showTime": "03:00:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a29867e0920e61bcee91b3a4b4f962b.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1149,7 +93,7 @@
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a29867e0920e61bcee91b3a4b4f962b.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1160,7 +104,7 @@
       "showTime": "04:00:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cf0e0c3beb8096e5d5c3cd81d9cc55b.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1171,7 +115,7 @@
       "showTime": "04:30:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cf0e0c3beb8096e5d5c3cd81d9cc55b.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1237,7 +181,7 @@
       "showTime": "07:30:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9f5caebce25d88374bc291a700232d5.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1248,7 +192,7 @@
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1259,7 +203,7 @@
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1402,7 +346,7 @@
       "showTime": "15:00:00",
       "endTime": "15:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a29867e0920e61bcee91b3a4b4f962b.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1413,7 +357,7 @@
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a29867e0920e61bcee91b3a4b4f962b.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1424,7 +368,7 @@
       "showTime": "16:00:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cf0e0c3beb8096e5d5c3cd81d9cc55b.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1435,7 +379,7 @@
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cf0e0c3beb8096e5d5c3cd81d9cc55b.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1446,7 +390,7 @@
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/daa67b330d01ec9e68436b48a1971ffc.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1457,7 +401,7 @@
       "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/daa67b330d01ec9e68436b48a1971ffc.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1490,7 +434,7 @@
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1501,7 +445,7 @@
       "showTime": "19:30:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1512,7 +456,7 @@
       "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/daa67b330d01ec9e68436b48a1971ffc.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1523,7 +467,7 @@
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/daa67b330d01ec9e68436b48a1971ffc.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1534,7 +478,7 @@
       "showTime": "21:00:00",
       "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a29867e0920e61bcee91b3a4b4f962b.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1545,7 +489,7 @@
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a29867e0920e61bcee91b3a4b4f962b.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1556,7 +500,7 @@
       "showTime": "22:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cf0e0c3beb8096e5d5c3cd81d9cc55b.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1567,7 +511,7 @@
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cf0e0c3beb8096e5d5c3cd81d9cc55b.jpg"
     },
     {
       "serverDate": "2026-10-24",
@@ -1633,7 +577,7 @@
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9f5caebce25d88374bc291a700232d5.jpg"
     },
     {
       "serverDate": "2026-10-25",
@@ -1710,7 +654,7 @@
       "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cf0e0c3beb8096e5d5c3cd81d9cc55b.jpg"
     },
     {
       "serverDate": "2026-10-25",
@@ -1721,7 +665,7 @@
       "showTime": "05:30:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cf0e0c3beb8096e5d5c3cd81d9cc55b.jpg"
     },
     {
       "serverDate": "2026-10-25",
@@ -1732,7 +676,7 @@
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a29867e0920e61bcee91b3a4b4f962b.jpg"
     },
     {
       "serverDate": "2026-10-25",
@@ -1743,7 +687,7 @@
       "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a29867e0920e61bcee91b3a4b4f962b.jpg"
     },
     {
       "serverDate": "2026-10-25",
@@ -1754,7 +698,7 @@
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cf0e0c3beb8096e5d5c3cd81d9cc55b.jpg"
     },
     {
       "serverDate": "2026-10-25",
@@ -1765,7 +709,7 @@
       "showTime": "07:30:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cf0e0c3beb8096e5d5c3cd81d9cc55b.jpg"
     },
     {
       "serverDate": "2026-10-25",
@@ -1776,7 +720,7 @@
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
     },
     {
       "serverDate": "2026-10-25",
@@ -1787,7 +731,7 @@
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
     },
     {
       "serverDate": "2026-10-25",
@@ -1820,7 +764,7 @@
       "showTime": "10:00:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cf0e0c3beb8096e5d5c3cd81d9cc55b.jpg"
     },
     {
       "serverDate": "2026-10-25",
@@ -1831,7 +775,7 @@
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cf0e0c3beb8096e5d5c3cd81d9cc55b.jpg"
     },
     {
       "serverDate": "2026-10-25",
@@ -1897,7 +841,7 @@
       "showTime": "13:30:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9f5caebce25d88374bc291a700232d5.jpg"
     },
     {
       "serverDate": "2026-10-25",
@@ -1974,7 +918,7 @@
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cf0e0c3beb8096e5d5c3cd81d9cc55b.jpg"
     },
     {
       "serverDate": "2026-10-25",
@@ -1985,7 +929,7 @@
       "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5cf0e0c3beb8096e5d5c3cd81d9cc55b.jpg"
     },
     {
       "serverDate": "2026-10-25",
@@ -2051,7 +995,7 @@
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9f5caebce25d88374bc291a700232d5.jpg"
     },
     {
       "serverDate": "2026-10-25",
@@ -2293,7 +1237,7 @@
       "showTime": "07:30:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9f5caebce25d88374bc291a700232d5.jpg"
     },
     {
       "serverDate": "2026-10-26",
@@ -2304,7 +1248,7 @@
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
     },
     {
       "serverDate": "2026-10-26",
@@ -2315,7 +1259,7 @@
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
     },
     {
       "serverDate": "2026-10-26",
@@ -2381,7 +1325,7 @@
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9f5caebce25d88374bc291a700232d5.jpg"
     },
     {
       "serverDate": "2026-10-26",
@@ -2535,7 +1479,7 @@
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/684375184cd239a5011eb73c86eb15a9.jpg"
     },
     {
       "serverDate": "2026-10-26",
@@ -2612,7 +1556,7 @@
       "showTime": "22:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
     },
     {
       "serverDate": "2026-10-26",
@@ -2623,7 +1567,7 @@
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
     },
     {
       "serverDate": "2026-10-26",
@@ -2645,7 +1589,7 @@
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9f5caebce25d88374bc291a700232d5.jpg"
     },
     {
       "serverDate": "2026-10-27",
@@ -2821,7 +1765,7 @@
       "showTime": "07:30:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9f5caebce25d88374bc291a700232d5.jpg"
     },
     {
       "serverDate": "2026-10-27",
@@ -2832,7 +1776,7 @@
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
     },
     {
       "serverDate": "2026-10-27",
@@ -2843,7 +1787,7 @@
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
     },
     {
       "serverDate": "2026-10-27",
@@ -2909,7 +1853,7 @@
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9f5caebce25d88374bc291a700232d5.jpg"
     },
     {
       "serverDate": "2026-10-27",
@@ -3063,7 +2007,7 @@
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/684375184cd239a5011eb73c86eb15a9.jpg"
     },
     {
       "serverDate": "2026-10-27",
@@ -3140,7 +2084,7 @@
       "showTime": "22:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
     },
     {
       "serverDate": "2026-10-27",
@@ -3151,7 +2095,7 @@
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
     },
     {
       "serverDate": "2026-10-27",
@@ -3173,7 +2117,7 @@
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9f5caebce25d88374bc291a700232d5.jpg"
     },
     {
       "serverDate": "2026-10-28",
@@ -3349,7 +2293,7 @@
       "showTime": "07:30:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9f5caebce25d88374bc291a700232d5.jpg"
     },
     {
       "serverDate": "2026-10-28",
@@ -3360,7 +2304,7 @@
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
     },
     {
       "serverDate": "2026-10-28",
@@ -3371,7 +2315,7 @@
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
     },
     {
       "serverDate": "2026-10-28",
@@ -3437,7 +2381,7 @@
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9f5caebce25d88374bc291a700232d5.jpg"
     },
     {
       "serverDate": "2026-10-28",
@@ -3591,7 +2535,7 @@
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/684375184cd239a5011eb73c86eb15a9.jpg"
     },
     {
       "serverDate": "2026-10-28",
@@ -3668,7 +2612,7 @@
       "showTime": "22:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
     },
     {
       "serverDate": "2026-10-28",
@@ -3679,7 +2623,7 @@
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
     },
     {
       "serverDate": "2026-10-28",
@@ -3701,7 +2645,7 @@
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9f5caebce25d88374bc291a700232d5.jpg"
     },
     {
       "serverDate": "2026-10-29",
@@ -3877,7 +2821,7 @@
       "showTime": "07:30:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9f5caebce25d88374bc291a700232d5.jpg"
     },
     {
       "serverDate": "2026-10-29",
@@ -3888,7 +2832,7 @@
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
     },
     {
       "serverDate": "2026-10-29",
@@ -3899,7 +2843,7 @@
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
     },
     {
       "serverDate": "2026-10-29",
@@ -3965,7 +2909,7 @@
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9f5caebce25d88374bc291a700232d5.jpg"
     },
     {
       "serverDate": "2026-10-29",
@@ -4119,7 +3063,7 @@
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/684375184cd239a5011eb73c86eb15a9.jpg"
     },
     {
       "serverDate": "2026-10-29",
@@ -4196,7 +3140,7 @@
       "showTime": "22:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
     },
     {
       "serverDate": "2026-10-29",
@@ -4207,7 +3151,7 @@
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
     },
     {
       "serverDate": "2026-10-29",
@@ -4229,7 +3173,535 @@
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9f5caebce25d88374bc291a700232d5.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "On Point With Kartikeya",
+      "description": "Host Kartikeya Sharma conducts interviews and offers in-depth analysis on major topics, including governance, economic reforms, social issues, and global affairs.",
+      "startDate": "2026-10-30T00:00:00",
+      "endDate": "2026-10-30T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b19018304bfa91f8799ee7055a3798e5.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "On Point With Kartikeya",
+      "description": "Host Kartikeya Sharma conducts interviews and offers in-depth analysis on major topics, including governance, economic reforms, social issues, and global affairs.",
+      "startDate": "2026-10-30T00:30:00",
+      "endDate": "2026-10-30T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b19018304bfa91f8799ee7055a3798e5.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "In Your Interest",
+      "description": "In Your Interest",
+      "startDate": "2026-10-30T01:00:00",
+      "endDate": "2026-10-30T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/396c361e753c88d9a5687d481c73eb57.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "In Your Interest",
+      "description": "In Your Interest",
+      "startDate": "2026-10-30T01:30:00",
+      "endDate": "2026-10-30T02:00:00",
+      "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/396c361e753c88d9a5687d481c73eb57.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Unmissable",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-10-30T02:00:00",
+      "endDate": "2026-10-30T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b855d73386eb48f54efaf5c98aca92f.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Unmissable",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-10-30T02:30:00",
+      "endDate": "2026-10-30T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b855d73386eb48f54efaf5c98aca92f.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Global Lens",
+      "description": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
+      "startDate": "2026-10-30T03:00:00",
+      "endDate": "2026-10-30T03:30:00",
+      "showTime": "03:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d026aca99691c07284ff53c9993b0ba5.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Global Lens",
+      "description": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
+      "startDate": "2026-10-30T03:30:00",
+      "endDate": "2026-10-30T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d026aca99691c07284ff53c9993b0ba5.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Unmissable",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-10-30T04:00:00",
+      "endDate": "2026-10-30T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b855d73386eb48f54efaf5c98aca92f.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Unmissable",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-10-30T04:30:00",
+      "endDate": "2026-10-30T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b855d73386eb48f54efaf5c98aca92f.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "In Your Interest",
+      "description": "In Your Interest",
+      "startDate": "2026-10-30T05:00:00",
+      "endDate": "2026-10-30T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/396c361e753c88d9a5687d481c73eb57.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "In Your Interest",
+      "description": "In Your Interest",
+      "startDate": "2026-10-30T05:30:00",
+      "endDate": "2026-10-30T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/396c361e753c88d9a5687d481c73eb57.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Global Lens",
+      "description": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
+      "startDate": "2026-10-30T06:00:00",
+      "endDate": "2026-10-30T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d026aca99691c07284ff53c9993b0ba5.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Global Lens",
+      "description": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
+      "startDate": "2026-10-30T06:30:00",
+      "endDate": "2026-10-30T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d026aca99691c07284ff53c9993b0ba5.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Live Bulletin",
+      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
+      "startDate": "2026-10-30T07:00:00",
+      "endDate": "2026-10-30T07:30:00",
+      "showTime": "07:00:00",
+      "endTime": "07:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Money Central",
+      "description": "Money Central",
+      "startDate": "2026-10-30T07:30:00",
+      "endDate": "2026-10-30T08:00:00",
+      "showTime": "07:30:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9f5caebce25d88374bc291a700232d5.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Meri Sip Mera Sawal",
+      "description": "Meri Sip Mera Sawal",
+      "startDate": "2026-10-30T08:00:00",
+      "endDate": "2026-10-30T08:30:00",
+      "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Meri Sip Mera Sawal",
+      "description": "Meri Sip Mera Sawal",
+      "startDate": "2026-10-30T08:30:00",
+      "endDate": "2026-10-30T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Global Lens",
+      "description": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
+      "startDate": "2026-10-30T09:00:00",
+      "endDate": "2026-10-30T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d026aca99691c07284ff53c9993b0ba5.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Global Lens",
+      "description": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
+      "startDate": "2026-10-30T09:30:00",
+      "endDate": "2026-10-30T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d026aca99691c07284ff53c9993b0ba5.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Unmissable",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-10-30T10:00:00",
+      "endDate": "2026-10-30T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b855d73386eb48f54efaf5c98aca92f.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Unmissable",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-10-30T10:30:00",
+      "endDate": "2026-10-30T11:00:00",
+      "showTime": "10:30:00",
+      "endTime": "11:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b855d73386eb48f54efaf5c98aca92f.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Live Bulletin",
+      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
+      "startDate": "2026-10-30T11:00:00",
+      "endDate": "2026-10-30T11:30:00",
+      "showTime": "11:00:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Money Central",
+      "description": "Money Central",
+      "startDate": "2026-10-30T11:30:00",
+      "endDate": "2026-10-30T12:00:00",
+      "showTime": "11:30:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9f5caebce25d88374bc291a700232d5.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Live Bulletin",
+      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
+      "startDate": "2026-10-30T12:00:00",
+      "endDate": "2026-10-30T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Live Bulletin",
+      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
+      "startDate": "2026-10-30T12:30:00",
+      "endDate": "2026-10-30T13:00:00",
+      "showTime": "12:30:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "News9 Live",
+      "description": "The host presents the latest information and developments on various important issues affecting the lives of many people, live.",
+      "startDate": "2026-10-30T13:00:00",
+      "endDate": "2026-10-30T13:30:00",
+      "showTime": "13:00:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2877d116eaea333eadfa5939012f0858.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Best Of In Your Interest",
+      "description": "Best Of In Your Interest",
+      "startDate": "2026-10-30T13:30:00",
+      "endDate": "2026-10-30T14:00:00",
+      "showTime": "13:30:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bc8e77452a0d5d3482de7e6761b90d3d.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Live Bulletin",
+      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
+      "startDate": "2026-10-30T14:00:00",
+      "endDate": "2026-10-30T14:30:00",
+      "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Live Bulletin",
+      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
+      "startDate": "2026-10-30T14:30:00",
+      "endDate": "2026-10-30T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Live Bulletin",
+      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
+      "startDate": "2026-10-30T15:00:00",
+      "endDate": "2026-10-30T15:30:00",
+      "showTime": "15:00:00",
+      "endTime": "15:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Best Of Unmissable",
+      "description": "Best Of Unmissable",
+      "startDate": "2026-10-30T15:30:00",
+      "endDate": "2026-10-30T16:00:00",
+      "showTime": "15:30:00",
+      "endTime": "16:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8ac241d9508a41c99f5e61d07aedb709.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Global Lens",
+      "description": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
+      "startDate": "2026-10-30T16:00:00",
+      "endDate": "2026-10-30T16:30:00",
+      "showTime": "16:00:00",
+      "endTime": "16:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d026aca99691c07284ff53c9993b0ba5.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Global Lens",
+      "description": "The presenter provides information on the top news headlines and developments surrounding various issues from across the globe.",
+      "startDate": "2026-10-30T16:30:00",
+      "endDate": "2026-10-30T17:00:00",
+      "showTime": "16:30:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d026aca99691c07284ff53c9993b0ba5.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Live Bulletin",
+      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
+      "startDate": "2026-10-30T17:00:00",
+      "endDate": "2026-10-30T17:30:00",
+      "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Live Bulletin",
+      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
+      "startDate": "2026-10-30T17:30:00",
+      "endDate": "2026-10-30T18:00:00",
+      "showTime": "17:30:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Live Bulletin",
+      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
+      "startDate": "2026-10-30T18:00:00",
+      "endDate": "2026-10-30T18:30:00",
+      "showTime": "18:00:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Control Z",
+      "description": "Control Z",
+      "startDate": "2026-10-30T18:30:00",
+      "endDate": "2026-10-30T19:00:00",
+      "showTime": "18:30:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/684375184cd239a5011eb73c86eb15a9.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "On Point With Kartikeya",
+      "description": "Host Kartikeya Sharma conducts interviews and offers in-depth analysis on major topics, including governance, economic reforms, social issues, and global affairs.",
+      "startDate": "2026-10-30T19:00:00",
+      "endDate": "2026-10-30T19:30:00",
+      "showTime": "19:00:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b19018304bfa91f8799ee7055a3798e5.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "On Point With Kartikeya",
+      "description": "Host Kartikeya Sharma conducts interviews and offers in-depth analysis on major topics, including governance, economic reforms, social issues, and global affairs.",
+      "startDate": "2026-10-30T19:30:00",
+      "endDate": "2026-10-30T20:00:00",
+      "showTime": "19:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b19018304bfa91f8799ee7055a3798e5.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "In Your Interest",
+      "description": "In Your Interest",
+      "startDate": "2026-10-30T20:00:00",
+      "endDate": "2026-10-30T20:30:00",
+      "showTime": "20:00:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/396c361e753c88d9a5687d481c73eb57.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "In Your Interest",
+      "description": "In Your Interest",
+      "startDate": "2026-10-30T20:30:00",
+      "endDate": "2026-10-30T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/396c361e753c88d9a5687d481c73eb57.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Unmissable",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-10-30T21:00:00",
+      "endDate": "2026-10-30T21:30:00",
+      "showTime": "21:00:00",
+      "endTime": "21:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b855d73386eb48f54efaf5c98aca92f.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Unmissable",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-10-30T21:30:00",
+      "endDate": "2026-10-30T22:00:00",
+      "showTime": "21:30:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b855d73386eb48f54efaf5c98aca92f.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Meri Sip Mera Sawal",
+      "description": "Meri Sip Mera Sawal",
+      "startDate": "2026-10-30T22:00:00",
+      "endDate": "2026-10-30T22:30:00",
+      "showTime": "22:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Meri Sip Mera Sawal",
+      "description": "Meri Sip Mera Sawal",
+      "startDate": "2026-10-30T22:30:00",
+      "endDate": "2026-10-30T23:00:00",
+      "showTime": "22:30:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7a18bc33af52310bdaff6784e750fe39.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Live Bulletin",
+      "description": "The host presents the latest information and developments on various national and international issues and provides an update on current events, live.",
+      "startDate": "2026-10-30T23:00:00",
+      "endDate": "2026-10-30T23:30:00",
+      "showTime": "23:00:00",
+      "endTime": "23:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e033d4eb8b6d2f5ecdc688f176af7ab.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Money Central",
+      "description": "Money Central",
+      "startDate": "2026-10-30T23:30:00",
+      "endDate": "2026-10-30T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b9f5caebce25d88374bc291a700232d5.jpg"
     }
   ]
 }
