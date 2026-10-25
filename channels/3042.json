@@ -6,5 +6,127 @@
   "category_id": 12,
   "category": "News",
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/News_24x7.png",
-  "programs": []
+  "programs": [
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Janta Ki Aawaz",
+      "description": "The host presents the latest news updates and developments about various social, economic and political issues pertaining to the people of the country.",
+      "startDate": "2026-10-24T00:00:00",
+      "endDate": "2026-10-24T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3363c122875d44b907d1eb7767632d71.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Mahanagar-Khabar",
+      "description": "The host presents information about the social, economic and political issues of the day and provides updates on current events.",
+      "startDate": "2026-10-24T01:00:00",
+      "endDate": "2026-10-24T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/076b0d782a370e98a99d03e1b674f274.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Khabar Madhya Pradesh",
+      "description": "The host provides insights into the latest news, events and developments on a variety of topics relevant to Madhya Pradesh, a state in India.",
+      "startDate": "2026-10-24T01:30:00",
+      "endDate": "2026-10-24T02:00:00",
+      "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6b28ed40e9fcff5b4f337ed10733ab6d.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Special Bhakti",
+      "description": "A religious shares his wisdom and delivers a detailed discourse on various teachings to devotees and encourages them to lead spiritual teachings.",
+      "startDate": "2026-10-24T02:00:00",
+      "endDate": "2026-10-24T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1159bc13bf6fd94ef1caa4b4097af333.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Halchal Nagariya",
+      "description": "The host provides the latest updates from the city, covering current events, local issues and developments that impact the community.",
+      "startDate": "2026-10-24T02:30:00",
+      "endDate": "2026-10-24T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dc0fa610f1373eb44dc76d9afbcd3472.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Bhakti Sagar",
+      "description": "A comprehensive compilation of devotional songs and hymns composed and performed by various artists is played back-to-back.",
+      "startDate": "2026-10-24T03:00:00",
+      "endDate": "2026-10-24T03:30:00",
+      "showTime": "03:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4878d3af587860aedb57912db841843f.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Kahani Apke Rasoi Ki",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-24T03:30:00",
+      "endDate": "2026-10-24T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d872cf41db156a729b428a682171849.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Khabar Super Fast",
+      "description": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country.",
+      "startDate": "2026-10-24T04:00:00",
+      "endDate": "2026-10-24T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0efcdc5da07e283afe14c0e7c6a45c77.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Special Bhakti",
+      "description": "A religious shares his wisdom and delivers a detailed discourse on various teachings to devotees and encourages them to lead spiritual teachings.",
+      "startDate": "2026-10-24T04:30:00",
+      "endDate": "2026-10-24T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1159bc13bf6fd94ef1caa4b4097af333.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Prime Time",
+      "description": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment.",
+      "startDate": "2026-10-24T05:00:00",
+      "endDate": "2026-10-24T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9b5e5bfa46e2e495cdf7b3aac7b7731d.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "News 24x7",
+      "description": "News 24x7",
+      "startDate": "2026-10-24T05:30:00",
+      "endDate": "2026-10-24T23:59:59",
+      "showTime": "05:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "News",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ae701c55f395d62e957b43a25b0d5dcf.jpg"
+    }
+  ]
 }
