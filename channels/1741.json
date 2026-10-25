@@ -6,5 +6,138 @@
   "category_id": 12,
   "category": "News",
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_AtoZ.png",
-  "programs": []
+  "programs": [
+    {
+      "serverDate": "2026-10-24",
+      "showName": "News Bulletin",
+      "description": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the globe.",
+      "startDate": "2026-10-24T00:00:00",
+      "endDate": "2026-10-24T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84507c8b5128125781aa39593b84a6c3.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Comedy",
+      "description": "Take a look at some the most hilarious clips featuring a number of humorous scenarios related to a wide range of topics.",
+      "startDate": "2026-10-24T00:30:00",
+      "endDate": "2026-10-24T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/198afaa770cd0baec65b9198b2d9990d.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Special PKJ",
+      "description": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation and the world.",
+      "startDate": "2026-10-24T01:00:00",
+      "endDate": "2026-10-24T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bc8a3557ea8b7d09cd6d6a642fac4457.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Breaking News",
+      "description": "The host presents numerous top stories, latest happenings and significant updates from the national and international front.",
+      "startDate": "2026-10-24T01:30:00",
+      "endDate": "2026-10-24T02:00:00",
+      "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/719780c773167b63decf7a0cb2ff5cb4.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "News Bulletin",
+      "description": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the globe.",
+      "startDate": "2026-10-24T02:00:00",
+      "endDate": "2026-10-24T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84507c8b5128125781aa39593b84a6c3.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Special PKJ",
+      "description": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation and the world.",
+      "startDate": "2026-10-24T02:30:00",
+      "endDate": "2026-10-24T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bc8a3557ea8b7d09cd6d6a642fac4457.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Bollywood News",
+      "description": "The presenter reports the latest updates, top news stories and key developments pertaining to Bollywood and its personalities.",
+      "startDate": "2026-10-24T03:00:00",
+      "endDate": "2026-10-24T03:30:00",
+      "showTime": "03:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7dc15be2aa510d751ad714d11a5caae7.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Comedy",
+      "description": "Take a look at some the most hilarious clips featuring a number of humorous scenarios related to a wide range of topics.",
+      "startDate": "2026-10-24T03:30:00",
+      "endDate": "2026-10-24T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/198afaa770cd0baec65b9198b2d9990d.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "News Bulletin",
+      "description": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the globe.",
+      "startDate": "2026-10-24T04:00:00",
+      "endDate": "2026-10-24T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84507c8b5128125781aa39593b84a6c3.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Special PKJ",
+      "description": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation and the world.",
+      "startDate": "2026-10-24T04:30:00",
+      "endDate": "2026-10-24T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bc8a3557ea8b7d09cd6d6a642fac4457.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Special PKJ",
+      "description": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation and the world.",
+      "startDate": "2026-10-24T05:00:00",
+      "endDate": "2026-10-24T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bc8a3557ea8b7d09cd6d6a642fac4457.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Bharat AtoZ",
+      "description": "Bharat AtoZ",
+      "startDate": "2026-10-24T05:30:00",
+      "endDate": "2026-10-24T23:59:59",
+      "showTime": "05:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "News",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa408e857a48647324adb2bc3fa29469.jpg"
+    }
+  ]
 }

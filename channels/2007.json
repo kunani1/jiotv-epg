@@ -6,5 +6,138 @@
   "category_id": 12,
   "category": "News",
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/BS9_News.png",
-  "programs": []
+  "programs": [
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Top-9",
+      "description": "The host curates and presents the top nine news stories of the day, covering current affairs, social and political updates, and significant global developments.",
+      "startDate": "2026-10-24T00:00:00",
+      "endDate": "2026-10-24T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7247b74ca546c36168bdac8124f1d92a.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "33 Jila",
+      "description": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+      "startDate": "2026-10-24T00:30:00",
+      "endDate": "2026-10-24T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fedb9149e890146553a092e7d2a4f879.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Bulletin",
+      "description": "The host presents the latest updates on various social, political and economic issues and shares information on current events.",
+      "startDate": "2026-10-24T01:00:00",
+      "endDate": "2026-10-24T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a000577f6e031c3f30e65ea636db2fa9.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Fatafat",
+      "description": "The host presents the latest news stories and updates from various spheres including politics, business and current affairs in a quick succession.",
+      "startDate": "2026-10-24T01:30:00",
+      "endDate": "2026-10-24T02:00:00",
+      "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/51abc94de22f79efd120f8c296269f78.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "News Story",
+      "description": "The host delves into current events, providing in-depth analysis, expert opinions and comprehensive coverage on pressing local and global issues.",
+      "startDate": "2026-10-24T02:00:00",
+      "endDate": "2026-10-24T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1d887b048e8b6d1613514eabe20d16ec.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Health / Manoranjan",
+      "description": "The host presents the latest health-related information; a reporter highlights various entertainment-based stories and developments.",
+      "startDate": "2026-10-24T02:30:00",
+      "endDate": "2026-10-24T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6444014a52149254480ded6322d9fbe2.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Top-9",
+      "description": "The host curates and presents the top nine news stories of the day, covering current affairs, social and political updates, and significant global developments.",
+      "startDate": "2026-10-24T03:00:00",
+      "endDate": "2026-10-24T03:30:00",
+      "showTime": "03:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7247b74ca546c36168bdac8124f1d92a.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Bulletin",
+      "description": "The host presents the latest updates on various social, political and economic issues and shares information on current events.",
+      "startDate": "2026-10-24T03:30:00",
+      "endDate": "2026-10-24T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a000577f6e031c3f30e65ea636db2fa9.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Viral World",
+      "description": "The host provides a detailed analysis and the context of several viral videos making rounds on the internet from all over the country.",
+      "startDate": "2026-10-24T04:00:00",
+      "endDate": "2026-10-24T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bac9f6dd77d834f25c0727ce2e790d6f.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "News Story",
+      "description": "The host delves into current events, providing in-depth analysis, expert opinions and comprehensive coverage on pressing local and global issues.",
+      "startDate": "2026-10-24T04:30:00",
+      "endDate": "2026-10-24T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1d887b048e8b6d1613514eabe20d16ec.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "33 Jila",
+      "description": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.",
+      "startDate": "2026-10-24T05:00:00",
+      "endDate": "2026-10-24T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fedb9149e890146553a092e7d2a4f879.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "BS9 News",
+      "description": "BS9 News",
+      "startDate": "2026-10-24T05:30:00",
+      "endDate": "2026-10-24T23:59:59",
+      "showTime": "05:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "News",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c17b6f4560cbf59d72a39dd6a3e0098.jpg"
+    }
+  ]
 }

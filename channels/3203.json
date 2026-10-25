@@ -6,5 +6,105 @@
   "category_id": 12,
   "category": "News",
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Nation_Khabar.png",
-  "programs": []
+  "programs": [
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Khas Surkhiya",
+      "description": "Breaking down major headlines, the host explores political, economic and social events, providing clarity on stories that influence the nation.",
+      "startDate": "2026-10-24T00:00:00",
+      "endDate": "2026-10-24T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0dea8070349ac04714da77f4b48c2c4f.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Kisse Kahe Ankahe",
+      "description": "The host unveils untold stories, delving into forgotten histories, hidden local legends, and nerve-wrenching truths to the audience.",
+      "startDate": "2026-10-24T00:30:00",
+      "endDate": "2026-10-24T01:30:00",
+      "showTime": "00:30:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c96e249e83593c7b368be8098ec03199.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Khel Ke Maidan Se",
+      "description": "The host provides a detailed report featuring the latest updates, top news stories and key developments pertaining to the world of sports.",
+      "startDate": "2026-10-24T01:30:00",
+      "endDate": "2026-10-24T02:30:00",
+      "showTime": "01:30:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/41e6c681f89dab0637341c3493173339.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Superfast 20",
+      "description": "The host presents a comprehensive and detailed coverage of the top twenty latest news and development in quick succession.",
+      "startDate": "2026-10-24T02:30:00",
+      "endDate": "2026-10-24T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b10ae71dc4f65e4c5db3b0a12c52eb57.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "5 Min 25 Khabar",
+      "description": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs.",
+      "startDate": "2026-10-24T03:00:00",
+      "endDate": "2026-10-24T03:30:00",
+      "showTime": "03:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2fefc20a0b46a6c472a1b0225092d420.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "National Update",
+      "description": "The host presents the latest updates and key developments pertaining to the socio-political and economical matters of the day.",
+      "startDate": "2026-10-24T03:30:00",
+      "endDate": "2026-10-24T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ad476efdf52a1c56edffa41f58cd5ea.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "State Update",
+      "description": "The host presents the latest news updates and major developments relating to various social, political, economic, and governance matters from across the state.",
+      "startDate": "2026-10-24T04:00:00",
+      "endDate": "2026-10-24T05:00:00",
+      "showTime": "04:00:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cdab568f7fe22daa177e75f1f787fc0c.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Morning Update",
+      "description": "The host presents updates on the latest and the most relevant social, political and economic issues from across the world.",
+      "startDate": "2026-10-24T05:00:00",
+      "endDate": "2026-10-24T06:00:00",
+      "showTime": "05:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a29dfd82ff3a52bb965bb5b30606afe4.jpg"
+    },
+    {
+      "serverDate": "2026-10-24",
+      "showName": "Nation Khabar",
+      "description": "Nation Khabar",
+      "startDate": "2026-10-24T06:00:00",
+      "endDate": "2026-10-24T23:59:59",
+      "showTime": "06:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "News",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e18005157ed95d3e931d0e8800da5436.jpg"
+    }
+  ]
 }
