@@ -6,50 +6,5 @@
   "category_id": 12,
   "category": "News",
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Shri_News.png",
-  "programs": [
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Shri News",
-      "description": "The host sheds light on the latest news stories and significant updates concerning various fields impacting people around the country.",
-      "startDate": "2026-10-24T00:00:00",
-      "endDate": "2026-10-24T03:00:00",
-      "showTime": "00:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/53834eecaa728957e9ec174f19e9dd2c.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Shri News",
-      "description": "The host sheds light on the latest news stories and significant updates concerning various fields impacting people around the country.",
-      "startDate": "2026-10-24T03:00:00",
-      "endDate": "2026-10-24T04:00:00",
-      "showTime": "03:00:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/53834eecaa728957e9ec174f19e9dd2c.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Shri News",
-      "description": "The host sheds light on the latest news stories and significant updates concerning various fields impacting people around the country.",
-      "startDate": "2026-10-24T04:00:00",
-      "endDate": "2026-10-24T06:00:00",
-      "showTime": "04:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/53834eecaa728957e9ec174f19e9dd2c.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Shri News",
-      "description": "Shri News",
-      "startDate": "2026-10-24T06:00:00",
-      "endDate": "2026-10-24T23:59:59",
-      "showTime": "06:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "News",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8757dee1791a1a9f19974a7039bd49e2.jpg"
-    }
-  ]
+  "programs": []
 }

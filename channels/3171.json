@@ -6,50 +6,5 @@
   "category_id": 12,
   "category": "News",
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Khabar_70.png",
-  "programs": [
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Khabar 70 News",
-      "description": "The host presents the latest information, advancements and developments on various important issues that affect many lives.",
-      "startDate": "2026-10-24T00:00:00",
-      "endDate": "2026-10-24T03:00:00",
-      "showTime": "00:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c685fa9a188887e94136efe4bf91cd3f.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Khabar 70 News",
-      "description": "The host presents the latest information, advancements and developments on various important issues that affect many lives.",
-      "startDate": "2026-10-24T03:00:00",
-      "endDate": "2026-10-24T04:00:00",
-      "showTime": "03:00:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c685fa9a188887e94136efe4bf91cd3f.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Khabar 70 News",
-      "description": "The host presents the latest information, advancements and developments on various important issues that affect many lives.",
-      "startDate": "2026-10-24T04:00:00",
-      "endDate": "2026-10-24T06:00:00",
-      "showTime": "04:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c685fa9a188887e94136efe4bf91cd3f.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Khabar 70",
-      "description": "Khabar 70",
-      "startDate": "2026-10-24T06:00:00",
-      "endDate": "2026-10-24T23:59:59",
-      "showTime": "06:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "News",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dba2a99b2489a98b76ef02a60f8c1756.jpg"
-    }
-  ]
+  "programs": []
 }

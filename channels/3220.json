@@ -6,50 +6,5 @@
   "category_id": 12,
   "category": "News",
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Prime_Bharat_News.png",
-  "programs": [
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Prime Bharat News",
-      "description": "The host presents information about the social, economic and political issues in the country and provides updates on current events.",
-      "startDate": "2026-10-24T00:00:00",
-      "endDate": "2026-10-24T03:00:00",
-      "showTime": "00:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/40a0dedbd2857873a4c2795dd6479e9f.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Prime Bharat News",
-      "description": "The host presents information about the social, economic and political issues in the country and provides updates on current events.",
-      "startDate": "2026-10-24T03:00:00",
-      "endDate": "2026-10-24T04:00:00",
-      "showTime": "03:00:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/40a0dedbd2857873a4c2795dd6479e9f.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Prime Bharat News",
-      "description": "The host presents information about the social, economic and political issues in the country and provides updates on current events.",
-      "startDate": "2026-10-24T04:00:00",
-      "endDate": "2026-10-24T06:00:00",
-      "showTime": "04:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/40a0dedbd2857873a4c2795dd6479e9f.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Prime Bharat News",
-      "description": "Prime Bharat News",
-      "startDate": "2026-10-24T06:00:00",
-      "endDate": "2026-10-24T23:59:59",
-      "showTime": "06:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "News",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2e219658a87e6a0309f1d996ebff928d.jpg"
-    }
-  ]
+  "programs": []
 }

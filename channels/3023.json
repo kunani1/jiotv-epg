@@ -6,39 +6,5 @@
   "category_id": 12,
   "category": "News",
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Janadesh_News.png",
-  "programs": [
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Gujarat Ni Baat",
-      "description": "The host presents the latest news updates and developments on social, economic, and political issues from the state of Gujarat throughout the day.",
-      "startDate": "2026-10-24T00:00:00",
-      "endDate": "2026-10-24T00:10:00",
-      "showTime": "00:00:00",
-      "endTime": "00:10:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b912e381d27ff0c092aa36186580d1ec.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Advertisment / Extrashow",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-24T00:10:00",
-      "endDate": "2026-10-24T08:00:00",
-      "showTime": "00:10:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ee17050fee61554c27ea7c06135e2ab.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Janadesh News",
-      "description": "Janadesh News",
-      "startDate": "2026-10-24T08:00:00",
-      "endDate": "2026-10-24T23:59:59",
-      "showTime": "08:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "News",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cdf0eb6117d8c07878e5d1d6c763bf32.jpg"
-    }
-  ]
+  "programs": []
 }

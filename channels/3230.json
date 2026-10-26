@@ -6,28 +6,5 @@
   "category_id": 12,
   "category": "News",
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Apex_News_India.png",
-  "programs": [
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Top 100",
-      "description": "The host presents a comprehensive and detailed coverage of the top 100 latest news and developments from across the region.",
-      "startDate": "2026-10-24T00:00:00",
-      "endDate": "2026-10-24T06:00:00",
-      "showTime": "00:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b5b1b2d6cf6e47357c34b1c2932c8221.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Apex News India",
-      "description": "Apex News India",
-      "startDate": "2026-10-24T06:00:00",
-      "endDate": "2026-10-24T23:59:59",
-      "showTime": "06:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "News",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a2e8f769639542262c37dd08257da41.jpg"
-    }
-  ]
+  "programs": []
 }

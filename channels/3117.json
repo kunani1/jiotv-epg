@@ -6,50 +6,5 @@
   "category_id": 12,
   "category": "News",
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Rajya_24_News.png",
-  "programs": [
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Aaj Ki Taaja Khabar",
-      "description": "The host presents the latest political news and socio-economic events from across different parts of the country and the world.",
-      "startDate": "2026-10-24T00:00:00",
-      "endDate": "2026-10-24T03:00:00",
-      "showTime": "00:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/323c634922bc70c12d8cf0194e573990.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Top 10 News",
-      "description": "The host presents the top 10 news updates concerning the political, social, economic and sports fronts from across the state and the nation.",
-      "startDate": "2026-10-24T03:00:00",
-      "endDate": "2026-10-24T04:00:00",
-      "showTime": "03:00:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8061cbce964c739dd42f459dbd2478c4.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Public Affairs",
-      "description": "The anchor sheds light on the latest political, social and economic developments regarding the public affairs of the country.",
-      "startDate": "2026-10-24T04:00:00",
-      "endDate": "2026-10-24T06:00:00",
-      "showTime": "04:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3dfe044e787aed318b1743883e560b10.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Rajya 24 News",
-      "description": "Rajya 24 News",
-      "startDate": "2026-10-24T06:00:00",
-      "endDate": "2026-10-24T23:59:59",
-      "showTime": "06:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "News",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d155e4ace2f62945ae357ee985a12abd.jpg"
-    }
-  ]
+  "programs": []
 }

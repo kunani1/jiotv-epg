@@ -6,50 +6,5 @@
   "category_id": 12,
   "category": "News",
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Lok_manch_Marathi.png",
-  "programs": [
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Marathi News",
-      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the state and the nation.",
-      "startDate": "2026-10-24T00:00:00",
-      "endDate": "2026-10-24T03:00:00",
-      "showTime": "00:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58ecc22b63852e7ae505151e0f9da583.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Marathi News",
-      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the state and the nation.",
-      "startDate": "2026-10-24T03:00:00",
-      "endDate": "2026-10-24T04:00:00",
-      "showTime": "03:00:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58ecc22b63852e7ae505151e0f9da583.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Marathi News",
-      "description": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the state and the nation.",
-      "startDate": "2026-10-24T04:00:00",
-      "endDate": "2026-10-24T06:00:00",
-      "showTime": "04:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58ecc22b63852e7ae505151e0f9da583.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Lok manch Marathi",
-      "description": "Lok manch Marathi",
-      "startDate": "2026-10-24T06:00:00",
-      "endDate": "2026-10-24T23:59:59",
-      "showTime": "06:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "News",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/857d971ce4d0a93ab7fe3f4c71994f0b.jpg"
-    }
-  ]
+  "programs": []
 }

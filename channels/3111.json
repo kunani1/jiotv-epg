@@ -6,50 +6,5 @@
   "category_id": 12,
   "category": "News",
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ATV_INDIA_NEWS.png",
-  "programs": [
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Latest News",
-      "description": "The host collates and presents the latest and the most important news updates, developments and current affairs from across the world.",
-      "startDate": "2026-10-24T00:00:00",
-      "endDate": "2026-10-24T03:00:00",
-      "showTime": "00:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1bcfd69dcceb276b0b3438bdc24c664f.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Top 10 News",
-      "description": "The host presents a round-up of the top 10 social, political and economic news updates and developments from across the state.",
-      "startDate": "2026-10-24T03:00:00",
-      "endDate": "2026-10-24T04:00:00",
-      "showTime": "03:00:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f17c7a9517a4c89af9a4907d74f6b597.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Public Affairs",
-      "description": "The anchor sheds light on the latest political, social and economic developments regarding the public affairs of the country.",
-      "startDate": "2026-10-24T04:00:00",
-      "endDate": "2026-10-24T06:00:00",
-      "showTime": "04:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3dfe044e787aed318b1743883e560b10.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "ATV India News",
-      "description": "ATV India News",
-      "startDate": "2026-10-24T06:00:00",
-      "endDate": "2026-10-24T23:59:59",
-      "showTime": "06:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "News",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c133a244d2fb0997f81f24d7df225917.jpg"
-    }
-  ]
+  "programs": []
 }

@@ -6,50 +6,5 @@
   "category_id": 12,
   "category": "News",
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Aap_Tak_tv.png",
-  "programs": [
-    {
-      "serverDate": "2026-10-24",
-      "showName": "India 24x7 Aap Tak",
-      "description": "The host presents in-depth coverage of social, political and economic events, while tracking global developments around the country.",
-      "startDate": "2026-10-24T00:00:00",
-      "endDate": "2026-10-24T03:00:00",
-      "showTime": "00:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/541f147659a4e13ac7da7f15dc6b10f7.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "India 24x7 Aap Tak",
-      "description": "The host presents in-depth coverage of social, political and economic events, while tracking global developments around the country.",
-      "startDate": "2026-10-24T03:00:00",
-      "endDate": "2026-10-24T04:00:00",
-      "showTime": "03:00:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/541f147659a4e13ac7da7f15dc6b10f7.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "India 24x7 Aap Tak",
-      "description": "The host presents in-depth coverage of social, political and economic events, while tracking global developments around the country.",
-      "startDate": "2026-10-24T04:00:00",
-      "endDate": "2026-10-24T06:00:00",
-      "showTime": "04:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/541f147659a4e13ac7da7f15dc6b10f7.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "India 24x7 Aap Tak TV",
-      "description": "India 24x7 Aap Tak TV",
-      "startDate": "2026-10-24T06:00:00",
-      "endDate": "2026-10-24T23:59:59",
-      "showTime": "06:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "News",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/680f097cabde84bf62dc759354db9b03.jpg"
-    }
-  ]
+  "programs": []
 }

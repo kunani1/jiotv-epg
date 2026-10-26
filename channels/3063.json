@@ -6,28 +6,5 @@
   "category_id": 12,
   "category": "News",
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/PR_News.png",
-  "programs": [
-    {
-      "serverDate": "2026-10-24",
-      "showName": "To Be Announced",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-24T00:00:00",
-      "endDate": "2026-10-24T07:00:00",
-      "showTime": "00:00:00",
-      "endTime": "07:00:00",
-      "showCategory": "TBA",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "PR News",
-      "description": "PR News",
-      "startDate": "2026-10-24T07:00:00",
-      "endDate": "2026-10-24T23:59:59",
-      "showTime": "07:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "News",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b39bbbca9ab98acafb7feb317b9251f1.jpg"
-    }
-  ]
+  "programs": []
 }

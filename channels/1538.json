@@ -6,50 +6,5 @@
   "category_id": 12,
   "category": "News",
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Samachar_Today.png",
-  "programs": [
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Samachar Today",
-      "description": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
-      "startDate": "2026-10-24T00:00:00",
-      "endDate": "2026-10-24T03:00:00",
-      "showTime": "00:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0292184c86e0f4d9a5d58178cec764ad.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Samachar Today",
-      "description": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
-      "startDate": "2026-10-24T03:00:00",
-      "endDate": "2026-10-24T04:00:00",
-      "showTime": "03:00:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0292184c86e0f4d9a5d58178cec764ad.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Samachar Today",
-      "description": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
-      "startDate": "2026-10-24T04:00:00",
-      "endDate": "2026-10-24T06:00:00",
-      "showTime": "04:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0292184c86e0f4d9a5d58178cec764ad.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Samachar Today",
-      "description": "Samachar Today",
-      "startDate": "2026-10-24T06:00:00",
-      "endDate": "2026-10-24T23:59:59",
-      "showTime": "06:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "News",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d2a90d952ab9abe16862db144740219.jpg"
-    }
-  ]
+  "programs": []
 }

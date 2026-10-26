@@ -6,39 +6,5 @@
   "category_id": 12,
   "category": "News",
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_Times.png",
-  "programs": [
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Channel No Longer Available",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-24T00:00:00",
-      "endDate": "2026-10-24T02:00:00",
-      "showTime": "00:00:00",
-      "endTime": "02:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3fdebedbd7f3a191b22ab5716d39213.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "Channel No Longer Available",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-24T02:00:00",
-      "endDate": "2026-10-24T06:00:00",
-      "showTime": "02:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3fdebedbd7f3a191b22ab5716d39213.jpg"
-    },
-    {
-      "serverDate": "2026-10-24",
-      "showName": "S Bharat",
-      "description": "S Bharat",
-      "startDate": "2026-10-24T06:00:00",
-      "endDate": "2026-10-24T23:59:59",
-      "showTime": "06:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "News",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28d715ab43008f37df21a520423fe4e2.jpg"
-    }
-  ]
+  "programs": []
 }
