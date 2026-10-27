@@ -8,6 +8,105 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Plus.png",
   "programs": [
     {
+      "serverDate": "2026-10-26",
+      "showName": "Onnam Ragam",
+      "description": "Kavitha, a struggling woman, goes through a difficult time while repaying her brother's debts. Later, she takes up an acting job for a commercial and things change drastically.",
+      "startDate": "2026-10-26T00:00:00",
+      "endDate": "2026-10-26T02:00:00",
+      "showTime": "00:00:00",
+      "endTime": "02:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0a352d765ae68f3ee286d055918f14b6.jpg"
+    },
+    {
+      "serverDate": "2026-10-26",
+      "showName": "Malayali",
+      "description": "Madhavan is loved and respected by everyone in the village except his brothers who hate him. Matters get worse after his brothers try to falsely implicate him in an acquaintance's murder case.",
+      "startDate": "2026-10-26T02:00:00",
+      "endDate": "2026-10-26T04:00:00",
+      "showTime": "02:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5a0803411379d911b4801e131f8f068c.jpg"
+    },
+    {
+      "serverDate": "2026-10-26",
+      "showName": "Seelabathi",
+      "description": "Seelabhati along with her mother visits a remote village where she starts working as a computer teacher. When some students mysteriously disappear, the villagers start blaming her educational course.",
+      "startDate": "2026-10-26T04:00:00",
+      "endDate": "2026-10-26T06:00:00",
+      "showTime": "04:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/49059d66dd360c2353e81d5afe8fc883.jpg"
+    },
+    {
+      "serverDate": "2026-10-26",
+      "showName": "Pappan priyappetta Pappan",
+      "description": "Pappan, a singer, is given another chance to live by Lord Yama after his death. However, his life takes an interesting turn when the deity gives him the power to enter the bodies of other dead people.",
+      "startDate": "2026-10-26T06:00:00",
+      "endDate": "2026-10-26T09:00:00",
+      "showTime": "06:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3a725069699d7317176f8efa694e3e35.jpg"
+    },
+    {
+      "serverDate": "2026-10-26",
+      "showName": "Arjunan Pillayum Anchu Makkalum",
+      "description": "A father realises his mistake after his son, whom he loves dearly, kicks him out of the house. At the time, his daughters decide to help him out despite being neglected.",
+      "startDate": "2026-10-26T09:00:00",
+      "endDate": "2026-10-26T12:00:00",
+      "showTime": "09:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ae2ca3349caae7dca82870b063614b3b.jpg"
+    },
+    {
+      "serverDate": "2026-10-26",
+      "showName": "Janmandharam",
+      "description": "Four bachelors bravely fight against the injustice meted out towards the villagers. However, they land in trouble when they go up against the evil landlord, Panikkar.",
+      "startDate": "2026-10-26T12:00:00",
+      "endDate": "2026-10-26T15:00:00",
+      "showTime": "12:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ec7edc10baeb7587e0ea37dac923b88b.jpg"
+    },
+    {
+      "serverDate": "2026-10-26",
+      "showName": "Mayaponman",
+      "description": "Prasanth is a mechanic and is best friends with Freddy. One day, they come across a girl, whose extended family is chasing her for her inherited wealth, and try to save her.",
+      "startDate": "2026-10-26T15:00:00",
+      "endDate": "2026-10-26T18:00:00",
+      "showTime": "15:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/31df93f174585c7535407db589da147a.jpg"
+    },
+    {
+      "serverDate": "2026-10-26",
+      "showName": "Achayans",
+      "description": "When a family of four sets out on a road trip, they are accompanied by two girls on their way. However, things take an unexpected turn when one of the girls is found dead.",
+      "startDate": "2026-10-26T18:00:00",
+      "endDate": "2026-10-26T21:00:00",
+      "showTime": "18:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84ba9af12ce03fdec5eb8b14b2e52e76.jpg"
+    },
+    {
+      "serverDate": "2026-10-26",
+      "showName": "Classmates",
+      "description": "A group of college friends meet after many years for a class reunion. However, due to some unexpected turn of events, several dark secrets are revealed, which changes their lives.",
+      "startDate": "2026-10-26T21:00:00",
+      "endDate": "2026-10-26T23:59:59",
+      "showTime": "21:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/15013d21695a5e535e3145641cb9e611.jpg"
+    },
+    {
       "serverDate": "2026-10-27",
       "showName": "Ardhanaari",
       "description": "Manjula, a transgender woman in Kerala, faces daily challenges in a conservative society. Her journey of self-acceptance and resilience unfolds against evolving social norms.",
@@ -119,23 +218,23 @@
     },
     {
       "serverDate": "2026-10-28",
-      "showName": "Movie",
-      "description": "Bringing the best in cinema.",
+      "showName": "Udaharanam Sujatha",
+      "description": "Udaharanam Sujatha",
       "startDate": "2026-10-28T02:00:00",
       "endDate": "2026-10-28T04:00:00",
       "showTime": "02:00:00",
       "endTime": "04:00:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-10-28",
       "showName": "Aayudham",
       "description": "When a powerful explosion occurs at the Vilayam beach seconds after Chief Minister Madhavan leaves the venue, Police Officer Rishikesh is tasked with the investigation to find the truth behind the blast.",
       "startDate": "2026-10-28T04:00:00",
-      "endDate": "2026-10-28T08:00:00",
+      "endDate": "2026-10-28T06:00:00",
       "showTime": "04:00:00",
-      "endTime": "08:00:00",
+      "endTime": "06:00:00",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/76321b39c7927119b82473fca905a45d.jpg"
     },
