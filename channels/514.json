@@ -526,14 +526,14 @@
     },
     {
       "serverDate": "2026-10-27",
-      "showName": "Extraaa Innings",
-      "description": "Experts discuss the varied facets of international cricket matches, including the strategies adopted by the teams and the mistakes made by them on the field, live.",
+      "showName": "UEFA International Friendlies",
+      "description": "Portugal vs Chile - Match Highlights",
       "startDate": "2026-10-27T16:15:00",
       "endDate": "2026-10-27T17:00:00",
       "showTime": "16:15:00",
       "endTime": "17:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f889bc7af75af9f3003a93cb6f917c98.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/253bd58d164cd92eab2b7add353bdd64.jpg"
     },
     {
       "serverDate": "2026-10-27",
@@ -2124,11 +2124,22 @@
       "showName": "T20 Cricket",
       "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
       "startDate": "2026-11-01T00:30:00",
-      "endDate": "2026-11-01T01:30:00",
+      "endDate": "2026-11-01T01:00:00",
       "showTime": "00:30:00",
-      "endTime": "01:30:00",
+      "endTime": "01:00:00",
       "showCategory": "Sports non-event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3bd907a139e61a689bbde89266428f6c.jpg"
+    },
+    {
+      "serverDate": "2026-11-01",
+      "showName": "Test Cricket",
+      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
+      "startDate": "2026-11-01T01:00:00",
+      "endDate": "2026-11-01T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
     },
     {
       "serverDate": "2026-11-01",
@@ -2388,11 +2399,22 @@
       "showName": "T20 Cricket",
       "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
       "startDate": "2026-11-02T00:30:00",
-      "endDate": "2026-11-02T01:30:00",
+      "endDate": "2026-11-02T01:00:00",
       "showTime": "00:30:00",
-      "endTime": "01:30:00",
+      "endTime": "01:00:00",
       "showCategory": "Sports non-event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3bd907a139e61a689bbde89266428f6c.jpg"
+    },
+    {
+      "serverDate": "2026-11-02",
+      "showName": "Test Cricket",
+      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
+      "startDate": "2026-11-02T01:00:00",
+      "endDate": "2026-11-02T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
     },
     {
       "serverDate": "2026-11-02",
