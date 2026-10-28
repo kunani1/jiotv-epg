@@ -8,6 +8,292 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Tamil.png",
   "programs": [
     {
+      "serverDate": "2026-10-27",
+      "showName": "T20 Cricket",
+      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
+      "startDate": "2026-10-27T00:00:00",
+      "endDate": "2026-10-27T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c15c5668b56b72a827a93be0c00c1e3.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "UFC Fight Night - Cannonier vs Rodrigues",
+      "description": "Professional mixed martial artists compete against each other in UFC Fight Night to emerge victorious and win the coveted title.",
+      "startDate": "2026-10-27T01:00:00",
+      "endDate": "2026-10-27T02:00:00",
+      "showTime": "01:00:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d88572093a5b078558fa961f2f605154.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Best of the Tests",
+      "description": "Using expert analysis, the best moments from the world of Test cricket, including star performances, are discussed in utmost detail.",
+      "startDate": "2026-10-27T02:00:00",
+      "endDate": "2026-10-27T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b3a80479e4ef29112d3dbec4da202aa.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "2026 Asian Games Highlights",
+      "description": "2026 Asian Games Highlights",
+      "startDate": "2026-10-27T02:30:00",
+      "endDate": "2026-10-27T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/28dc9fdfd3787e0538905042ddd78c17.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "T20 Cricket",
+      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
+      "startDate": "2026-10-27T03:00:00",
+      "endDate": "2026-10-27T04:00:00",
+      "showTime": "03:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c15c5668b56b72a827a93be0c00c1e3.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "One-Day International Cricket",
+      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
+      "startDate": "2026-10-27T04:00:00",
+      "endDate": "2026-10-27T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "UFC Fight Night: Cejudo vs. Song",
+      "description": "Jean Silva vs. Melsik Baghdasaryan, featherweight; Rob Font vs. Jean Matsumoto, catchweight; Brendan Allen vs. Anthony Hernandez, middleweight; Henry Cejudo vs. Song Yadong, bantamweight. From Climate Pledge Arena in Seattle.",
+      "startDate": "2026-10-27T04:30:00",
+      "endDate": "2026-10-27T05:30:00",
+      "showTime": "04:30:00",
+      "endTime": "05:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b1870352b444cdcc6d4b83b979b7bb8.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "One-Day International Cricket",
+      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
+      "startDate": "2026-10-27T05:30:00",
+      "endDate": "2026-10-27T06:30:00",
+      "showTime": "05:30:00",
+      "endTime": "06:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Asia Cup Highlights",
+      "description": "Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.",
+      "startDate": "2026-10-27T06:30:00",
+      "endDate": "2026-10-27T07:30:00",
+      "showTime": "06:30:00",
+      "endTime": "07:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5ccda127a466c37a3a1ae3996834a26c.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "T20 Cricket",
+      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
+      "startDate": "2026-10-27T07:30:00",
+      "endDate": "2026-10-27T08:00:00",
+      "showTime": "07:30:00",
+      "endTime": "08:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c15c5668b56b72a827a93be0c00c1e3.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "UFC Fight Night",
+      "description": "Features showdowns between contestants of the Ultimate Fighting Championship.",
+      "startDate": "2026-10-27T08:00:00",
+      "endDate": "2026-10-27T09:00:00",
+      "showTime": "08:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/842226518b57f66eeb579221521fcab4.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "T20 Cricket",
+      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
+      "startDate": "2026-10-27T09:00:00",
+      "endDate": "2026-10-27T10:00:00",
+      "showTime": "09:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c15c5668b56b72a827a93be0c00c1e3.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Upcoming - India Tour Of New Zealand 2026",
+      "description": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
+      "startDate": "2026-10-27T10:00:00",
+      "endDate": "2026-10-27T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aedd41cfede06fb25a416ab85c433747.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "T20 Cricket",
+      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
+      "startDate": "2026-10-27T10:30:00",
+      "endDate": "2026-10-27T11:30:00",
+      "showTime": "10:30:00",
+      "endTime": "11:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c15c5668b56b72a827a93be0c00c1e3.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "UEFA International Friendlies",
+      "description": "The Netherlands beat Iceland 4-0 in a Euro 2024 warmup at Feyenoord Stadium, heading to Germany with momentum.",
+      "startDate": "2026-10-27T11:30:00",
+      "endDate": "2026-10-27T12:30:00",
+      "showTime": "11:30:00",
+      "endTime": "12:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a11bc925efc267d7f732cc97394830c.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Upcoming - India Tour Of New Zealand 2026",
+      "description": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
+      "startDate": "2026-10-27T12:30:00",
+      "endDate": "2026-10-27T14:15:00",
+      "showTime": "12:30:00",
+      "endTime": "14:15:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aedd41cfede06fb25a416ab85c433747.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "UEFA International Friendlies",
+      "description": "The Netherlands beat Iceland 4-0 in a Euro 2024 warmup at Feyenoord Stadium, heading to Germany with momentum.",
+      "startDate": "2026-10-27T14:15:00",
+      "endDate": "2026-10-27T14:30:00",
+      "showTime": "14:15:00",
+      "endTime": "14:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a11bc925efc267d7f732cc97394830c.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Upcoming - India Tour Of New Zealand 2026",
+      "description": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
+      "startDate": "2026-10-27T14:30:00",
+      "endDate": "2026-10-27T16:15:00",
+      "showTime": "14:30:00",
+      "endTime": "16:15:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aedd41cfede06fb25a416ab85c433747.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "UEFA International Friendlies",
+      "description": "The Netherlands beat Iceland 4-0 in a Euro 2024 warmup at Feyenoord Stadium, heading to Germany with momentum.",
+      "startDate": "2026-10-27T16:15:00",
+      "endDate": "2026-10-27T17:00:00",
+      "showTime": "16:15:00",
+      "endTime": "17:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a11bc925efc267d7f732cc97394830c.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "T20 Cricket",
+      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
+      "startDate": "2026-10-27T17:00:00",
+      "endDate": "2026-10-27T18:00:00",
+      "showTime": "17:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c15c5668b56b72a827a93be0c00c1e3.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Upcoming - India Tour Of New Zealand 2026",
+      "description": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
+      "startDate": "2026-10-27T18:00:00",
+      "endDate": "2026-10-27T19:00:00",
+      "showTime": "18:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aedd41cfede06fb25a416ab85c433747.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "T20 Cricket",
+      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
+      "startDate": "2026-10-27T19:00:00",
+      "endDate": "2026-10-27T20:00:00",
+      "showTime": "19:00:00",
+      "endTime": "20:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c15c5668b56b72a827a93be0c00c1e3.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "UEFA International Friendlies",
+      "description": "The Netherlands beat Iceland 4-0 in a Euro 2024 warmup at Feyenoord Stadium, heading to Germany with momentum.",
+      "startDate": "2026-10-27T20:00:00",
+      "endDate": "2026-10-27T21:00:00",
+      "showTime": "20:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a11bc925efc267d7f732cc97394830c.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Upcoming - India Tour Of New Zealand 2026",
+      "description": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
+      "startDate": "2026-10-27T21:00:00",
+      "endDate": "2026-10-27T22:00:00",
+      "showTime": "21:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aedd41cfede06fb25a416ab85c433747.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "T20 Cricket",
+      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
+      "startDate": "2026-10-27T22:00:00",
+      "endDate": "2026-10-27T23:00:00",
+      "showTime": "22:00:00",
+      "endTime": "23:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c15c5668b56b72a827a93be0c00c1e3.jpg"
+    },
+    {
+      "serverDate": "2026-10-27",
+      "showName": "Upcoming - India Tour Of New Zealand 2026",
+      "description": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
+      "startDate": "2026-10-27T23:00:00",
+      "endDate": "2026-10-27T23:59:59",
+      "showTime": "23:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aedd41cfede06fb25a416ab85c433747.jpg"
+    },
+    {
       "serverDate": "2026-10-28",
       "showName": "Test Cricket",
       "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
@@ -218,14 +504,14 @@
     },
     {
       "serverDate": "2026-10-28",
-      "showName": "Men's International Soccer Friendlies",
-      "description": "Highlights of an International Friendly soccer game where teams compete against each other in a series of exhibition games.",
+      "showName": "Upcoming - India Tour Of New Zealand 2026",
+      "description": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
       "startDate": "2026-10-28T16:30:00",
       "endDate": "2026-10-28T17:00:00",
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f8928bb105c48523b0b6d86778a4f21.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aedd41cfede06fb25a416ab85c433747.jpg"
     },
     {
       "serverDate": "2026-10-28",
@@ -240,14 +526,14 @@
     },
     {
       "serverDate": "2026-10-28",
-      "showName": "Asia Cup Highlights",
-      "description": "Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.",
+      "showName": "Upcoming - India Tour Of New Zealand 2026",
+      "description": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
       "startDate": "2026-10-28T18:00:00",
       "endDate": "2026-10-28T19:00:00",
       "showTime": "18:00:00",
       "endTime": "19:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5ccda127a466c37a3a1ae3996834a26c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aedd41cfede06fb25a416ab85c433747.jpg"
     },
     {
       "serverDate": "2026-10-28",
@@ -262,25 +548,25 @@
     },
     {
       "serverDate": "2026-10-28",
-      "showName": "UFC Fight Night",
-      "description": "Features showdowns between contestants of the Ultimate Fighting Championship.",
+      "showName": "UFC Fight Night - Tsarukyan vs Hooker ",
+      "description": "Watch all the highlights from UFC Fight Night as Tsarukyan defeated Hooker via submission, only on Sony LIV.",
       "startDate": "2026-10-28T20:00:00",
       "endDate": "2026-10-28T21:00:00",
       "showTime": "20:00:00",
       "endTime": "21:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/842226518b57f66eeb579221521fcab4.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/998e66f59cd0a2b7cc842ff56072dd6a.jpg"
     },
     {
       "serverDate": "2026-10-28",
-      "showName": "Asia Cup Highlights",
-      "description": "Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.",
+      "showName": "Upcoming - India Tour Of New Zealand 2026",
+      "description": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
       "startDate": "2026-10-28T21:00:00",
       "endDate": "2026-10-28T22:00:00",
       "showTime": "21:00:00",
       "endTime": "22:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5ccda127a466c37a3a1ae3996834a26c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aedd41cfede06fb25a416ab85c433747.jpg"
     },
     {
       "serverDate": "2026-10-28",

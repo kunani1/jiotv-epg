@@ -1497,11 +1497,22 @@
       "showName": "Teen Main Na Tera Main",
       "description": "Bringing the best in television.",
       "startDate": "2026-10-29T05:30:00",
-      "endDate": "2026-10-29T06:30:00",
+      "endDate": "2026-10-29T05:59:00",
       "showTime": "05:30:00",
-      "endTime": "06:30:00",
+      "endTime": "05:59:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cfdddbbcf0b21c2fda1e39f2920767a1.jpg"
+    },
+    {
+      "serverDate": "2026-10-29",
+      "showName": "Linking Caption for Terrestrial Service",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-29T05:59:00",
+      "endDate": "2026-10-29T06:30:00",
+      "showTime": "05:59:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/47224a8f5bd2da21347976f7ea5bdcd0.jpg"
     },
     {
       "serverDate": "2026-10-29",
