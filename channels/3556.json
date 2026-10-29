@@ -6,5 +6,138 @@
   "category_id": 12,
   "category": "News",
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/KnockNews.png",
-  "programs": []
+  "programs": [
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Bitta",
+      "description": "Bitta",
+      "startDate": "2026-10-28T00:00:00",
+      "endDate": "2026-10-28T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f586e31759ab2e027b13df751917aad.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Political Podcast",
+      "description": "Political Podcast",
+      "startDate": "2026-10-28T00:30:00",
+      "endDate": "2026-10-28T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2708d5c3b74dae18c6063abcfa5fd85f.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Knock Headlines",
+      "description": "Knock Headlines",
+      "startDate": "2026-10-28T01:00:00",
+      "endDate": "2026-10-28T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/439406c93dbfc5c7a14b040c21668842.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Knock",
+      "description": "Knock",
+      "startDate": "2026-10-28T01:30:00",
+      "endDate": "2026-10-28T02:00:00",
+      "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b01e43924fd485b5c09312245ad4902.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Gurudwara",
+      "description": "Gurudwara",
+      "startDate": "2026-10-28T02:00:00",
+      "endDate": "2026-10-28T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18c861e74c37f48d5283fcf6ede37c17.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Gurudwara",
+      "description": "Gurudwara",
+      "startDate": "2026-10-28T02:30:00",
+      "endDate": "2026-10-28T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18c861e74c37f48d5283fcf6ede37c17.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Gurudwara",
+      "description": "Gurudwara",
+      "startDate": "2026-10-28T03:00:00",
+      "endDate": "2026-10-28T03:30:00",
+      "showTime": "03:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18c861e74c37f48d5283fcf6ede37c17.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Gurudwara",
+      "description": "Gurudwara",
+      "startDate": "2026-10-28T03:30:00",
+      "endDate": "2026-10-28T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18c861e74c37f48d5283fcf6ede37c17.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "The Health Talk",
+      "description": "The Health Talk",
+      "startDate": "2026-10-28T04:00:00",
+      "endDate": "2026-10-28T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4bd77672efcb6cbc8b7bc5816d714ed0.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Knock",
+      "description": "Knock",
+      "startDate": "2026-10-28T04:30:00",
+      "endDate": "2026-10-28T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b01e43924fd485b5c09312245ad4902.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Bollywood Akhbaar",
+      "description": "Bollywood Akhbaar",
+      "startDate": "2026-10-28T05:00:00",
+      "endDate": "2026-10-28T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7fe7e9231046fc6a4e8827f798eda629.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Knock News",
+      "description": "Knock News",
+      "startDate": "2026-10-28T05:30:00",
+      "endDate": "2026-10-28T23:59:59",
+      "showTime": "05:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "News",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d38720522bde11eee1749c79f5ec48b8.jpg"
+    }
+  ]
 }
