@@ -6,5 +6,127 @@
   "category_id": 12,
   "category": "News",
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/newsbeatkarnataka.png",
-  "programs": []
+  "programs": [
+    {
+      "serverDate": "2026-10-28",
+      "showName": "KNB Express",
+      "description": "KNB Express",
+      "startDate": "2026-10-28T00:00:00",
+      "endDate": "2026-10-28T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d8b7d6ce92212823762ed2556fe31f0.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Cini Beat",
+      "description": "Cini Beat",
+      "startDate": "2026-10-28T00:30:00",
+      "endDate": "2026-10-28T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e3435cdf1beedf854c138e9418c1c1f.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "News Beat",
+      "description": "News Beat",
+      "startDate": "2026-10-28T01:00:00",
+      "endDate": "2026-10-28T02:00:00",
+      "showTime": "01:00:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
+      "startDate": "2026-10-28T02:00:00",
+      "endDate": "2026-10-28T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Crime Beat",
+      "description": "Investigating a notorious gangster's reappearance, a journalist finds himself trapped in a maze of corruption, deceit and power struggles that test his ambition and survival instincts.",
+      "startDate": "2026-10-28T02:30:00",
+      "endDate": "2026-10-28T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b86ebb37eaaa287ba3006cbf641115f6.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "News",
+      "description": "The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.",
+      "startDate": "2026-10-28T03:00:00",
+      "endDate": "2026-10-28T03:30:00",
+      "showTime": "03:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fef7d9e050359f02bbc034eb3ecef417.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Ayur Aarogya",
+      "description": "Ayur Aarogya",
+      "startDate": "2026-10-28T03:30:00",
+      "endDate": "2026-10-28T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/76bcf2dfd642055cf9bde79cea315013.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Nudi Muttu",
+      "description": "Nudi Muttu",
+      "startDate": "2026-10-28T04:00:00",
+      "endDate": "2026-10-28T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/272d8bcfa9c9bbe6dc8e0e12b08d28c6.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Cini Beat",
+      "description": "Cini Beat",
+      "startDate": "2026-10-28T04:30:00",
+      "endDate": "2026-10-28T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e3435cdf1beedf854c138e9418c1c1f.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Viral Beat",
+      "description": "Viral Beat",
+      "startDate": "2026-10-28T05:00:00",
+      "endDate": "2026-10-28T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c87e8dc82b601c24fdf15a927c7aeef0.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Karnataka News Beat",
+      "description": "Karnataka News Beat",
+      "startDate": "2026-10-28T05:30:00",
+      "endDate": "2026-10-28T23:59:59",
+      "showTime": "05:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "News",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7ed36efd4a964b654cfffc84362bcb90.jpg"
+    }
+  ]
 }
