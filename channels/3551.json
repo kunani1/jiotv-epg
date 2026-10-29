@@ -6,5 +6,83 @@
   "category_id": 12,
   "category": "News",
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/BBC_Gujarati.png",
-  "programs": []
+  "programs": [
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Climate Change And Environment",
+      "description": "Climate Change And Environment",
+      "startDate": "2026-10-28T00:00:00",
+      "endDate": "2026-10-28T01:30:00",
+      "showTime": "00:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5d23a440d07daf5d0b646d071dff67d4.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "BBC Interview",
+      "description": "BBC Interview",
+      "startDate": "2026-10-28T01:30:00",
+      "endDate": "2026-10-28T02:30:00",
+      "showTime": "01:30:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/168feacc92505bff39ab75a4b10da702.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "BBC Gujarati Personal Finance",
+      "description": "BBC Gujarati Personal Finance",
+      "startDate": "2026-10-28T02:30:00",
+      "endDate": "2026-10-28T03:30:00",
+      "showTime": "02:30:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/db54cfe554e8a93adf3fd81249ef450a.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "BBC Gujarati Rural Stories",
+      "description": "BBC Gujarati Rural Stories",
+      "startDate": "2026-10-28T03:30:00",
+      "endDate": "2026-10-28T04:30:00",
+      "showTime": "03:30:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/03cf71f18248976866b2f0342474a7ac.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Duniya Jahan",
+      "description": "Duniya Jahan",
+      "startDate": "2026-10-28T04:30:00",
+      "endDate": "2026-10-28T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f82ef406063b6e38a9ea8fc9652d2531.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "BBC Gujarati Health & Science",
+      "description": "BBC Gujarati Health & Science",
+      "startDate": "2026-10-28T05:00:00",
+      "endDate": "2026-10-28T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5faddcd6cabc885e3a685eda082af97.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "BBC News Gujarati",
+      "description": "BBC News Gujarati",
+      "startDate": "2026-10-28T05:30:00",
+      "endDate": "2026-10-28T23:59:59",
+      "showTime": "05:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "News",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf0c8556aac2f9317421687450673e7b.jpg"
+    }
+  ]
 }

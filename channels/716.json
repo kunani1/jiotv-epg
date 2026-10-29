@@ -1530,11 +1530,22 @@
       "showName": "Hee Tharain Poshi Halam",
       "description": "Bringing the best in television.",
       "startDate": "2026-10-30T05:30:00",
-      "endDate": "2026-10-30T06:30:00",
+      "endDate": "2026-10-30T05:59:00",
       "showTime": "05:30:00",
-      "endTime": "06:30:00",
+      "endTime": "05:59:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/caab34f557beccfdb8ed8d23cc27174b.jpg"
+    },
+    {
+      "serverDate": "2026-10-30",
+      "showName": "Linking Caption for Terrestrial Service",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-10-30T05:59:00",
+      "endDate": "2026-10-30T06:30:00",
+      "showTime": "05:59:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/47224a8f5bd2da21347976f7ea5bdcd0.jpg"
     },
     {
       "serverDate": "2026-10-30",

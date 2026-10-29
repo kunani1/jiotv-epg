@@ -8,6 +8,94 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Captain.png",
   "programs": [
     {
+      "serverDate": "2026-10-28",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-10-28T00:00:00",
+      "endDate": "2026-10-28T03:00:00",
+      "showTime": "00:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-10-28T03:00:00",
+      "endDate": "2026-10-28T06:00:00",
+      "showTime": "03:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-10-28T06:00:00",
+      "endDate": "2026-10-28T09:00:00",
+      "showTime": "06:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-10-28T09:00:00",
+      "endDate": "2026-10-28T12:00:00",
+      "showTime": "09:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-10-28T12:00:00",
+      "endDate": "2026-10-28T15:00:00",
+      "showTime": "12:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-10-28T15:00:00",
+      "endDate": "2026-10-28T18:00:00",
+      "showTime": "15:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-10-28T18:00:00",
+      "endDate": "2026-10-28T21:00:00",
+      "showTime": "18:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-10-28T21:00:00",
+      "endDate": "2026-10-28T23:59:59",
+      "showTime": "21:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
       "serverDate": "2026-10-29",
       "showName": "Movie",
       "description": "Bringing the best in cinema.",

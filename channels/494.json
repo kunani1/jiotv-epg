@@ -1956,25 +1956,14 @@
     },
     {
       "serverDate": "2026-11-01",
-      "showName": "News",
-      "description": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.",
+      "showName": "Newshour",
+      "description": "A closer look at international news, events, current affairs, and exclusive stories from around the world.",
       "startDate": "2026-11-01T21:30:00",
-      "endDate": "2026-11-01T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a74e930fb6bec976847c918e2656a50c.jpg"
-    },
-    {
-      "serverDate": "2026-11-01",
-      "showName": "101 East",
-      "description": "A current affairs programme that focuses on the big issues that impact Asia, its distinct cultures, and varying politics.",
-      "startDate": "2026-11-01T22:00:00",
       "endDate": "2026-11-01T22:30:00",
-      "showTime": "22:00:00",
+      "showTime": "21:30:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/449fa006ede87becf3123dbec57b0ef6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a5108c69036ed4f5620cced521d3340e.jpg"
     },
     {
       "serverDate": "2026-11-01",
@@ -2033,14 +2022,14 @@
     },
     {
       "serverDate": "2026-11-02",
-      "showName": "Talk to Al Jazeera",
-      "description": "A series of conversations with some of the world's leading personalities in order to provide a different perspectives and insights.",
+      "showName": "Al Jazeera Reels",
+      "description": "Seven stories examine whether the countries maintain their founding principles and values.",
       "startDate": "2026-11-02T01:00:00",
       "endDate": "2026-11-02T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ed168a750fc1cab6c9d0f75b79977dee.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/adcba6d13a1f8d3d12b155f3673f1afb.jpg"
     },
     {
       "serverDate": "2026-11-02",
@@ -2641,22 +2630,44 @@
       "showName": "News",
       "description": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.",
       "startDate": "2026-11-03T13:30:00",
-      "endDate": "2026-11-03T14:30:00",
+      "endDate": "2026-11-03T14:00:00",
       "showTime": "13:30:00",
-      "endTime": "14:30:00",
+      "endTime": "14:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a74e930fb6bec976847c918e2656a50c.jpg"
+    },
+    {
+      "serverDate": "2026-11-03",
+      "showName": "Al Jazeera Reels",
+      "description": "Seven stories examine whether the countries maintain their founding principles and values.",
+      "startDate": "2026-11-03T14:00:00",
+      "endDate": "2026-11-03T14:30:00",
+      "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/adcba6d13a1f8d3d12b155f3673f1afb.jpg"
     },
     {
       "serverDate": "2026-11-03",
       "showName": "News",
       "description": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.",
       "startDate": "2026-11-03T14:30:00",
-      "endDate": "2026-11-03T15:30:00",
+      "endDate": "2026-11-03T15:00:00",
       "showTime": "14:30:00",
-      "endTime": "15:30:00",
+      "endTime": "15:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a74e930fb6bec976847c918e2656a50c.jpg"
+    },
+    {
+      "serverDate": "2026-11-03",
+      "showName": "Witness",
+      "description": "A wide array of compelling stories that aim to inspire and provide insight into some of the world's major events.",
+      "startDate": "2026-11-03T15:00:00",
+      "endDate": "2026-11-03T15:30:00",
+      "showTime": "15:00:00",
+      "endTime": "15:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3897824822fdad93ec43a285af09264e.jpg"
     },
     {
       "serverDate": "2026-11-03",
@@ -2674,11 +2685,33 @@
       "showName": "News",
       "description": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.",
       "startDate": "2026-11-03T16:30:00",
-      "endDate": "2026-11-03T18:30:00",
+      "endDate": "2026-11-03T17:00:00",
       "showTime": "16:30:00",
-      "endTime": "18:30:00",
+      "endTime": "17:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a74e930fb6bec976847c918e2656a50c.jpg"
+    },
+    {
+      "serverDate": "2026-11-03",
+      "showName": "Inside Story",
+      "description": "Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.",
+      "startDate": "2026-11-03T17:00:00",
+      "endDate": "2026-11-03T17:30:00",
+      "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3dc3e5c6dd881e1907364c17ea12038d.jpg"
+    },
+    {
+      "serverDate": "2026-11-03",
+      "showName": "Vietnam - 50 Years of Forgetting",
+      "description": "The granddaughter of a Vietnamese hero explores the enduring legacy of the Vietnam War on her family and country.",
+      "startDate": "2026-11-03T17:30:00",
+      "endDate": "2026-11-03T18:30:00",
+      "showTime": "17:30:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/524caba250643de191e35a578681a54b.jpg"
     },
     {
       "serverDate": "2026-11-03",
@@ -2696,11 +2729,22 @@
       "showName": "News",
       "description": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.",
       "startDate": "2026-11-03T19:30:00",
-      "endDate": "2026-11-03T20:30:00",
+      "endDate": "2026-11-03T20:00:00",
       "showTime": "19:30:00",
-      "endTime": "20:30:00",
+      "endTime": "20:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a74e930fb6bec976847c918e2656a50c.jpg"
+    },
+    {
+      "serverDate": "2026-11-03",
+      "showName": "The Listening Post",
+      "description": "Providing key news and information to understand ever-more complex global events through in-depth analysis.",
+      "startDate": "2026-11-03T20:00:00",
+      "endDate": "2026-11-03T20:30:00",
+      "showTime": "20:00:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/86d1cf2df8c305e46d1fadab9bc89165.jpg"
     },
     {
       "serverDate": "2026-11-03",
@@ -2715,25 +2759,36 @@
     },
     {
       "serverDate": "2026-11-03",
-      "showName": "News",
-      "description": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.",
+      "showName": "Newshour",
+      "description": "A closer look at international news, events, current affairs, and exclusive stories from around the world.",
       "startDate": "2026-11-03T21:30:00",
       "endDate": "2026-11-03T22:30:00",
       "showTime": "21:30:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a74e930fb6bec976847c918e2656a50c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a5108c69036ed4f5620cced521d3340e.jpg"
     },
     {
       "serverDate": "2026-11-03",
       "showName": "News",
       "description": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.",
       "startDate": "2026-11-03T22:30:00",
-      "endDate": "2026-11-03T23:30:00",
+      "endDate": "2026-11-03T23:00:00",
       "showTime": "22:30:00",
-      "endTime": "23:30:00",
+      "endTime": "23:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a74e930fb6bec976847c918e2656a50c.jpg"
+    },
+    {
+      "serverDate": "2026-11-03",
+      "showName": "Inside Story",
+      "description": "Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.",
+      "startDate": "2026-11-03T23:00:00",
+      "endDate": "2026-11-03T23:30:00",
+      "showTime": "23:00:00",
+      "endTime": "23:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3dc3e5c6dd881e1907364c17ea12038d.jpg"
     },
     {
       "serverDate": "2026-11-03",
@@ -2795,11 +2850,22 @@
       "showName": "News",
       "description": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.",
       "startDate": "2026-11-04T03:30:00",
-      "endDate": "2026-11-04T04:30:00",
+      "endDate": "2026-11-04T04:00:00",
       "showTime": "03:30:00",
-      "endTime": "04:30:00",
+      "endTime": "04:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a74e930fb6bec976847c918e2656a50c.jpg"
+    },
+    {
+      "serverDate": "2026-11-04",
+      "showName": "Making Peace",
+      "description": "In post-genocide Rwanda, fragile encounters see survivors and perpetrators face the past to reopen paths to coexistence.",
+      "startDate": "2026-11-04T04:00:00",
+      "endDate": "2026-11-04T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ac1b06d4ea9385ddb7215422c1d596de.jpg"
     },
     {
       "serverDate": "2026-11-04",
@@ -2836,14 +2902,14 @@
     },
     {
       "serverDate": "2026-11-04",
-      "showName": "Silenced: The War On Journalism",
-      "description": "A gripping look at journalism's ultimate sacrifice, told through stories of courage, loss and unwavering conviction.",
+      "showName": "Vietnam - 50 Years of Forgetting",
+      "description": "The granddaughter of a Vietnamese hero explores the enduring legacy of the Vietnam War on her family and country.",
       "startDate": "2026-11-04T06:30:00",
       "endDate": "2026-11-04T07:30:00",
       "showTime": "06:30:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7496160185a9c9bd15ecf2c8eb9e63cf.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/524caba250643de191e35a578681a54b.jpg"
     },
     {
       "serverDate": "2026-11-04",
@@ -2861,33 +2927,66 @@
       "showName": "News",
       "description": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.",
       "startDate": "2026-11-04T08:30:00",
-      "endDate": "2026-11-04T09:30:00",
+      "endDate": "2026-11-04T09:00:00",
       "showTime": "08:30:00",
-      "endTime": "09:30:00",
+      "endTime": "09:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a74e930fb6bec976847c918e2656a50c.jpg"
+    },
+    {
+      "serverDate": "2026-11-04",
+      "showName": "Witness",
+      "description": "A wide array of compelling stories that aim to inspire and provide insight into some of the world's major events.",
+      "startDate": "2026-11-04T09:00:00",
+      "endDate": "2026-11-04T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3897824822fdad93ec43a285af09264e.jpg"
     },
     {
       "serverDate": "2026-11-04",
       "showName": "News",
       "description": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.",
       "startDate": "2026-11-04T09:30:00",
-      "endDate": "2026-11-04T10:30:00",
+      "endDate": "2026-11-04T10:00:00",
       "showTime": "09:30:00",
-      "endTime": "10:30:00",
+      "endTime": "10:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a74e930fb6bec976847c918e2656a50c.jpg"
+    },
+    {
+      "serverDate": "2026-11-04",
+      "showName": "Al Jazeera Reels",
+      "description": "Seven stories examine whether the countries maintain their founding principles and values.",
+      "startDate": "2026-11-04T10:00:00",
+      "endDate": "2026-11-04T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/adcba6d13a1f8d3d12b155f3673f1afb.jpg"
     },
     {
       "serverDate": "2026-11-04",
       "showName": "News",
       "description": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.",
       "startDate": "2026-11-04T10:30:00",
-      "endDate": "2026-11-04T11:30:00",
+      "endDate": "2026-11-04T11:00:00",
       "showTime": "10:30:00",
-      "endTime": "11:30:00",
+      "endTime": "11:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a74e930fb6bec976847c918e2656a50c.jpg"
+    },
+    {
+      "serverDate": "2026-11-04",
+      "showName": "Inside Story",
+      "description": "Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.",
+      "startDate": "2026-11-04T11:00:00",
+      "endDate": "2026-11-04T11:30:00",
+      "showTime": "11:00:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3dc3e5c6dd881e1907364c17ea12038d.jpg"
     },
     {
       "serverDate": "2026-11-04",

@@ -6,5 +6,116 @@
   "category_id": 12,
   "category": "News",
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/TV30India.png",
-  "programs": []
+  "programs": [
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Anokhi Duniya",
+      "description": "Anokhi Duniya",
+      "startDate": "2026-10-28T00:00:00",
+      "endDate": "2026-10-28T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b4ef9e3429864f0bdf7d2d47707b3b8e.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Interview",
+      "description": "Interview",
+      "startDate": "2026-10-28T00:30:00",
+      "endDate": "2026-10-28T01:30:00",
+      "showTime": "00:30:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aebf21b6e5245623f2b5069bd16f37b4.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Kavi Sangam",
+      "description": "Kavi Sangam",
+      "startDate": "2026-10-28T01:30:00",
+      "endDate": "2026-10-28T02:30:00",
+      "showTime": "01:30:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f6946917d5a4c641caf29f64abb2e667.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Sacchi Kahani",
+      "description": "Sacchi Kahani",
+      "startDate": "2026-10-28T02:30:00",
+      "endDate": "2026-10-28T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2640d3ea5fa214718cc4df3d5ee13b3e.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Haq ki Baat",
+      "description": "The host invites various prominent personalities and officials to shed light on and discuss an array of matters that interest people all across India.",
+      "startDate": "2026-10-28T03:00:00",
+      "endDate": "2026-10-28T03:30:00",
+      "showTime": "03:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9bc62c88500e30e81feaa59e89fc163d.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "News Bulletin",
+      "description": "The host presents the latest news and developments in the country's political, social and economic spheres, as well as providing updates on current events.",
+      "startDate": "2026-10-28T03:30:00",
+      "endDate": "2026-10-28T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b266eb4fd313d6bb89dcd46d01f0b1.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Nirog Mantra",
+      "description": "Nirog Mantra",
+      "startDate": "2026-10-28T04:00:00",
+      "endDate": "2026-10-28T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/79330de1b45e8176197e00da8731ac45.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Gyan Ki Duniya",
+      "description": "Gyan Ki Duniya",
+      "startDate": "2026-10-28T04:30:00",
+      "endDate": "2026-10-28T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/739f5b967d75fe74800cca2977d3a3ba.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "Bhakti Sagar",
+      "description": "A comprehensive compilation of devotional songs and hymns composed and performed by various artists is played back-to-back.",
+      "startDate": "2026-10-28T05:00:00",
+      "endDate": "2026-10-28T06:00:00",
+      "showTime": "05:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4878d3af587860aedb57912db841843f.jpg"
+    },
+    {
+      "serverDate": "2026-10-28",
+      "showName": "TV30 India",
+      "description": "TV30 India",
+      "startDate": "2026-10-28T06:00:00",
+      "endDate": "2026-10-28T23:59:59",
+      "showTime": "06:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "News",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4f98164b97d1a2c1e8fb0f10a02d8f8d.jpg"
+    }
+  ]
 }
