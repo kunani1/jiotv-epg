@@ -8,6 +8,127 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png",
   "programs": [
     {
+      "serverDate": "2026-10-29",
+      "showName": "Muraimaman",
+      "description": "When his eloped sister and her lover return, Sirius and his brother welcome them. Later, Sirius falls in love with his sister's daughter, Indhu.",
+      "startDate": "2026-10-29T00:00:00",
+      "endDate": "2026-10-29T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c8e281eaafa39f2217eb6e1fd6269cc4.jpg"
+    },
+    {
+      "serverDate": "2026-10-29",
+      "showName": "Indru Poi Naalai Vaa",
+      "description": "Three friends fall in love with the same woman who moves into the house next door. They try to impress her individually in hilarious ways and leave the decision up to her.",
+      "startDate": "2026-10-29T00:30:00",
+      "endDate": "2026-10-29T02:00:00",
+      "showTime": "00:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/328379e5d72d6f0a242f445e7982e497.jpg"
+    },
+    {
+      "serverDate": "2026-10-29",
+      "showName": "Idhaya Thamarai",
+      "description": "Vijay, a short-tempered man, falls in love with Manju. However, he is imprisoned after an incident and upon his release, he learns about Manju's marriage.",
+      "startDate": "2026-10-29T02:00:00",
+      "endDate": "2026-10-29T05:00:00",
+      "showTime": "02:00:00",
+      "endTime": "05:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b5cabcf94b270de57548040abcab46e2.jpg"
+    },
+    {
+      "serverDate": "2026-10-29",
+      "showName": "Bhakthi Neram",
+      "description": "Bhakthi Neram",
+      "startDate": "2026-10-29T05:00:00",
+      "endDate": "2026-10-29T07:00:00",
+      "showTime": "05:00:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/96708cf6d43cac98903e0668624ac992.jpg"
+    },
+    {
+      "serverDate": "2026-10-29",
+      "showName": "12 B",
+      "description": "A young man misses his bus while on his way to a job interview. The story explores the idea on both counts; what would happen if he gets the bus and what would happen if he misses it.",
+      "startDate": "2026-10-29T07:00:00",
+      "endDate": "2026-10-29T09:30:00",
+      "showTime": "07:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6663c8026d262683fd8470cbbf886a99.jpg"
+    },
+    {
+      "serverDate": "2026-10-29",
+      "showName": "Ejamaan",
+      "description": "Vaanavaryan, the much-loved leader of a village, invites his rival Vallavarayan's wrath when he marries Vaitheeswari, the woman he loves. To take revenge, Vallavarayan resorts to drastic measures.",
+      "startDate": "2026-10-29T09:30:00",
+      "endDate": "2026-10-29T12:00:00",
+      "showTime": "09:30:00",
+      "endTime": "12:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/07d2657ae7fee7a798119a5ec5e52ce2.jpg"
+    },
+    {
+      "serverDate": "2026-10-29",
+      "showName": "Azhagan",
+      "description": "Azhagappan, a handsome widower with four children, gets caught in a dilemma where three different women are in love with him. Soon, the children devise a plan so that he gets married to one of them.",
+      "startDate": "2026-10-29T12:00:00",
+      "endDate": "2026-10-29T14:30:00",
+      "showTime": "12:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0943e8276c426606d41cf7c5b2050c.jpg"
+    },
+    {
+      "serverDate": "2026-10-29",
+      "showName": "En Bommukutti Ammavukku",
+      "description": "Vinod and Lakshmi, who lost their daughter in an accident, adopt Tinu, a vivacious young girl, from an orphanage. However, the family faces challenges when Tinu's birth parents set out to find her.",
+      "startDate": "2026-10-29T14:30:00",
+      "endDate": "2026-10-29T17:00:00",
+      "showTime": "14:30:00",
+      "endTime": "17:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/740a507762f950a94fcd5bbf9d97ac89.jpg"
+    },
+    {
+      "serverDate": "2026-10-29",
+      "showName": "Veera",
+      "description": "When Muthu returns to his village, he learns that the girl he liked is dead and thus, eventually marries his employer's daughter. However, his old flame returns from the dead, leading to chaos.",
+      "startDate": "2026-10-29T17:00:00",
+      "endDate": "2026-10-29T19:30:00",
+      "showTime": "17:00:00",
+      "endTime": "19:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a32ba8bcacb8b7e48255031f62bcf9d0.jpg"
+    },
+    {
+      "serverDate": "2026-10-29",
+      "showName": "Pandiya Naadu",
+      "description": "Sivakumar, a young man, lives in a close-knit family. When a criminal kills his brother, he and his father decide to take revenge but in their own separate ways.",
+      "startDate": "2026-10-29T19:30:00",
+      "endDate": "2026-10-29T22:00:00",
+      "showTime": "19:30:00",
+      "endTime": "22:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ea0516ec09d658cbf50e469b702b6428.jpg"
+    },
+    {
+      "serverDate": "2026-10-29",
+      "showName": "Annamalai",
+      "description": "Annamalai, a milkman, and Ashok, the son of a rich businessman, are childhood friends. However, Ashok's father disapproves of their friendship and attempts to create a rift between the two.",
+      "startDate": "2026-10-29T22:00:00",
+      "endDate": "2026-10-29T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84d3f46b2acbaae5dd2d19344d922e95.jpg"
+    },
+    {
       "serverDate": "2026-10-30",
       "showName": "Annamalai",
       "description": "Annamalai, a milkman, and Ashok, the son of a rich businessman, are childhood friends. However, Ashok's father disapproves of their friendship and attempts to create a rift between the two.",
@@ -163,124 +284,124 @@
     },
     {
       "serverDate": "2026-10-31",
-      "showName": "Bakthi Neram",
-      "description": "Bringing the best in television.",
+      "showName": "Bhakthi Neram",
+      "description": "Bhakthi Neram",
       "startDate": "2026-10-31T05:00:00",
       "endDate": "2026-10-31T07:00:00",
       "showTime": "05:00:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/67c9ec32385cbf0d40ef3402d918815b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/96708cf6d43cac98903e0668624ac992.jpg"
     },
     {
       "serverDate": "2026-10-31",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Chinna Thambi Periya Thambi",
+      "description": "Periya Thambi and Chinna Thambi are two brothers from a poor family who fall in love with the same girl, Kavitha. However, her parents reject them due to their background.",
       "startDate": "2026-10-31T07:00:00",
       "endDate": "2026-10-31T09:30:00",
       "showTime": "07:00:00",
       "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/02e575abdffc30fac18179a5367ade13.jpg"
     },
     {
       "serverDate": "2026-10-31",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Singaravelan",
+      "description": "Velan's mother tells him to find his cousin, Sumathi, who lives in the city and marry her. Velan sets out to find her with the help of a childhood photograph.",
       "startDate": "2026-10-31T09:30:00",
       "endDate": "2026-10-31T12:00:00",
       "showTime": "09:30:00",
       "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3bce87c9bad5202d61d80e7258187a25.jpg"
     },
     {
       "serverDate": "2026-10-31",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Pondatti Thevai",
+      "description": "Kannan falls in love with Shanthi, but misunderstandings cause friction between them. However, things take a turn when he learns that she has a weak heart.",
       "startDate": "2026-10-31T12:00:00",
       "endDate": "2026-10-31T14:30:00",
       "showTime": "12:00:00",
       "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f2fce44655b30c588561cd6c9157ffc3.jpg"
     },
     {
       "serverDate": "2026-10-31",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Padikkathavan",
+      "description": "When a man is away on a business trip his wife forces his two young stepbrothers out of the house where one of them gets tangled up with drug dealers.",
       "startDate": "2026-10-31T14:30:00",
       "endDate": "2026-10-31T17:00:00",
       "showTime": "14:30:00",
       "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8bc46c83432bd5296f36f777e94a742f.jpg"
     },
     {
       "serverDate": "2026-10-31",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Rajakumaaran",
+      "description": "Both Vaidehi and Selvi, who happen to be Rajakumaran's cousins, are in love with him. When Vaidehi decides to commit suicide, Rajakumaran is left heartbroken.",
       "startDate": "2026-10-31T17:00:00",
       "endDate": "2026-10-31T19:30:00",
       "showTime": "17:00:00",
       "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b318d287622a5902835c310a8c089fcb.jpg"
     },
     {
       "serverDate": "2026-10-31",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Minnale",
+      "description": "After falling in love with Reena who is engaged to Rajiv but never seen him, Rajesh impersonates Rajiv and wins her heart. The situation goes awry when the real Rajiv returns.",
       "startDate": "2026-10-31T19:30:00",
       "endDate": "2026-10-31T22:00:00",
       "showTime": "19:30:00",
       "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eae6263c79eb2d0fc1d9f4113dcac41f.jpg"
     },
     {
       "serverDate": "2026-10-31",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Valiyavan",
+      "description": "In order to prove his love for Subiksha, Vinod accepts her challenge to fight against Ashwin, a boxing champion, which also offers him a chance to settle an old score.",
       "startDate": "2026-10-31T22:00:00",
       "endDate": "2026-10-31T23:59:59",
       "showTime": "22:00:00",
       "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a26638511d3dfa9a528067b7b966aba4.jpg"
     },
     {
       "serverDate": "2026-11-01",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Valiyavan",
+      "description": "In order to prove his love for Subiksha, Vinod accepts her challenge to fight against Ashwin, a boxing champion, which also offers him a chance to settle an old score.",
       "startDate": "2026-11-01T00:00:00",
       "endDate": "2026-11-01T00:30:00",
       "showTime": "00:00:00",
       "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a26638511d3dfa9a528067b7b966aba4.jpg"
     },
     {
       "serverDate": "2026-11-01",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Muraimaman",
+      "description": "When his eloped sister and her lover return, Sirius and his brother welcome them. Later, Sirius falls in love with his sister's daughter, Indhu.",
       "startDate": "2026-11-01T00:30:00",
       "endDate": "2026-11-01T02:00:00",
       "showTime": "00:30:00",
       "endTime": "02:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c8e281eaafa39f2217eb6e1fd6269cc4.jpg"
     },
     {
       "serverDate": "2026-11-01",
-      "showName": "Bhakthi Mayam",
-      "description": "Bhakthi Mayam",
+      "showName": "Ejamaan",
+      "description": "Vaanavaryan, the much-loved leader of a village, invites his rival Vallavarayan's wrath when he marries Vaitheeswari, the woman he loves. To take revenge, Vallavarayan resorts to drastic measures.",
       "startDate": "2026-11-01T02:00:00",
       "endDate": "2026-11-01T05:00:00",
       "showTime": "02:00:00",
       "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/de22ee2ad599736105ac364ecf13748e.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/07d2657ae7fee7a798119a5ec5e52ce2.jpg"
     },
     {
       "serverDate": "2026-11-01",
