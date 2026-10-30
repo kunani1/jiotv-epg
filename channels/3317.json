@@ -6,50 +6,5 @@
   "category_id": 12,
   "category": "News",
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/zillarbarta.png",
-  "programs": [
-    {
-      "serverDate": "2026-10-28",
-      "showName": "News / Bengali Movie",
-      "description": "News / Bengali Movie",
-      "startDate": "2026-10-28T00:00:00",
-      "endDate": "2026-10-28T02:00:00",
-      "showTime": "00:00:00",
-      "endTime": "02:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d069fe660d806c7a3f2ccc71e1922201.jpg"
-    },
-    {
-      "serverDate": "2026-10-28",
-      "showName": "News / Bengali Movie",
-      "description": "News / Bengali Movie",
-      "startDate": "2026-10-28T02:00:00",
-      "endDate": "2026-10-28T04:00:00",
-      "showTime": "02:00:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d069fe660d806c7a3f2ccc71e1922201.jpg"
-    },
-    {
-      "serverDate": "2026-10-28",
-      "showName": "Bhojon / News / Weather News",
-      "description": "Bhojon / News / Weather News",
-      "startDate": "2026-10-28T04:00:00",
-      "endDate": "2026-10-28T08:00:00",
-      "showTime": "04:00:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b156ee475bbc4de38ef591fba1981c33.jpg"
-    },
-    {
-      "serverDate": "2026-10-28",
-      "showName": "Zillar Barta",
-      "description": "Zillar Barta",
-      "startDate": "2026-10-28T08:00:00",
-      "endDate": "2026-10-28T23:59:59",
-      "showTime": "08:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "News",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/71cbbfb7e4f509413246ba7c326070da.jpg"
-    }
-  ]
+  "programs": []
 }
