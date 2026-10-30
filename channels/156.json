@@ -8,15 +8,114 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_HD.png",
   "programs": [
     {
-      "serverDate": "2026-11-01",
-      "showName": "Movie",
+      "serverDate": "2026-10-31",
+      "showName": "Shootout at Wadala",
+      "description": "Manya, a diligent student, lands in prison for killing a gangster who attacked his brother, Bhargav, who eventually dies. Soon, Manya escapes jail and forms his own gang to seek revenge.",
+      "startDate": "2026-10-31T00:00:00",
+      "endDate": "2026-10-31T01:14:00",
+      "showTime": "00:00:00",
+      "endTime": "01:14:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dd2cbf2bf4db3e85ee4c25bc176cd2d9.jpg"
+    },
+    {
+      "serverDate": "2026-10-31",
+      "showName": "Selfiee",
+      "description": "An RTO officer, Om Prakash, lands the opportunity to meet his idol, Vijay Kumar. However, a misunderstanding between the two men results in a clash of egos.",
+      "startDate": "2026-10-31T01:14:00",
+      "endDate": "2026-10-31T04:31:00",
+      "showTime": "01:14:00",
+      "endTime": "04:31:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a161593187e543a7849e49a5dfc123fd.jpg"
+    },
+    {
+      "serverDate": "2026-10-31",
+      "showName": "Shiv Parvati ki Mahagatha",
       "description": "Bringing the best in cinema.",
+      "startDate": "2026-10-31T04:31:00",
+      "endDate": "2026-10-31T06:52:00",
+      "showTime": "04:31:00",
+      "endTime": "06:52:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a20c957e0e8c0f6f96373306bd400b8.jpg"
+    },
+    {
+      "serverDate": "2026-10-31",
+      "showName": "Jab We Met",
+      "description": "Aditya, a heartbroken business tycoon, aimlessly boards a train to escape his depressing life. Soon, he meets Geet, a bubbly Punjabi girl, and gets pulled into her crazy life.",
+      "startDate": "2026-10-31T06:52:00",
+      "endDate": "2026-10-31T09:31:00",
+      "showTime": "06:52:00",
+      "endTime": "09:31:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/edc7990c30d772c3e730d408a715a7a9.jpg"
+    },
+    {
+      "serverDate": "2026-10-31",
+      "showName": "M.S. Dhoni: The Untold Story",
+      "description": "M S Dhoni, a boy from Ranchi, aspires to play cricket for India. Though he initially tries to please his father by working for the Indian Railways, he ultimately decides to chase his dreams.",
+      "startDate": "2026-10-31T09:31:00",
+      "endDate": "2026-10-31T12:51:00",
+      "showTime": "09:31:00",
+      "endTime": "12:51:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/264644de4a6d679fddf30c18b198fefa.jpg"
+    },
+    {
+      "serverDate": "2026-10-31",
+      "showName": "Chand Mera Dil",
+      "description": "Aarav and Chandni share intense affection while enjoying a lively campus love story. Subsequently, mature daily life brings complex hurdles.",
+      "startDate": "2026-10-31T12:51:00",
+      "endDate": "2026-10-31T15:34:00",
+      "showTime": "12:51:00",
+      "endTime": "15:34:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/654d1f30feae1d60ba1ea7eb7dac86ab.jpg"
+    },
+    {
+      "serverDate": "2026-10-31",
+      "showName": "Raja Shivaji",
+      "description": "A determined young Shivaji fights powerful regimes to rise as the Chhatrapati monarch.",
+      "startDate": "2026-10-31T15:34:00",
+      "endDate": "2026-10-31T19:00:00",
+      "showTime": "15:34:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e55d98ceeb1ee66db1c489ca501c9dbf.jpg"
+    },
+    {
+      "serverDate": "2026-10-31",
+      "showName": "Dhurandhar: The Revenge",
+      "description": "Hamza Ali Mazari continues his relentless pursuit to topple the Pakistani crime system, eyeing the shifty Major Iqbal. As his journey unfolds, so does his transformative history.",
+      "startDate": "2026-10-31T19:00:00",
+      "endDate": "2026-10-31T23:25:00",
+      "showTime": "19:00:00",
+      "endTime": "23:25:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6b61c68d56bef0df7aeda8c0817ebc16.jpg"
+    },
+    {
+      "serverDate": "2026-10-31",
+      "showName": "Housefull 4",
+      "description": "Three brothers are set to marry three sisters. However, a peek into the distant past reveals to one of the brothers that their brides have been mixed up in their current reincarnation.",
+      "startDate": "2026-10-31T23:25:00",
+      "endDate": "2026-10-31T23:59:59",
+      "showTime": "23:25:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/22f584550bfcf7d48a93ef3fc5f5ed7e.jpg"
+    },
+    {
+      "serverDate": "2026-11-01",
+      "showName": "Housefull 4",
+      "description": "Three brothers are set to marry three sisters. However, a peek into the distant past reveals to one of the brothers that their brides have been mixed up in their current reincarnation.",
       "startDate": "2026-11-01T00:00:00",
       "endDate": "2026-11-01T03:00:00",
       "showTime": "00:00:00",
       "endTime": "03:00:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/22f584550bfcf7d48a93ef3fc5f5ed7e.jpg"
     },
     {
       "serverDate": "2026-11-01",
