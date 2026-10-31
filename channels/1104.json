@@ -258,7 +258,7 @@
       "showTime": "10:47:00",
       "endTime": "12:04:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4acbb227804879297b203997dfb24ad0.jpg"
     },
     {
       "serverDate": "2026-10-31",
@@ -324,7 +324,7 @@
       "showTime": "19:43:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4acbb227804879297b203997dfb24ad0.jpg"
     },
     {
       "serverDate": "2026-10-31",
@@ -375,99 +375,165 @@
       "showName": "Free Fall",
       "description": "Marie meets skydiver Maxime, who unbeknownst to her is a thief. After his boss Sophia sabotages Marie's parachute, she miraculously survives a 3,000-metre fall and seeks revenge on them.",
       "startDate": "2026-11-01T02:11:00",
-      "endDate": "2026-11-01T06:00:00",
+      "endDate": "2026-11-01T03:24:00",
       "showTime": "02:11:00",
-      "endTime": "06:00:00",
+      "endTime": "03:24:00",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cbb05e4cf1881d93fea3ad3a4b524f8e.jpg"
     },
     {
       "serverDate": "2026-11-01",
-      "showName": "Movie",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-11-01T06:00:00",
-      "endDate": "2026-11-01T09:00:00",
-      "showTime": "06:00:00",
-      "endTime": "09:00:00",
+      "showName": "Jurassic City",
+      "description": "After the security of a top-secret laboratory is compromised, genetically modified dinosaurs get unleashed. Then, a black-ops unit is tasked with capturing the creatures before they cause more damage.",
+      "startDate": "2026-11-01T03:24:00",
+      "endDate": "2026-11-01T04:44:00",
+      "showTime": "03:24:00",
+      "endTime": "04:44:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/282d6cbca9ccff35990b76b70f72c359.jpg"
     },
     {
       "serverDate": "2026-11-01",
-      "showName": "Movie",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-11-01T09:00:00",
+      "showName": "Catch The Dragon",
+      "description": "A palaeontology expert embarks on a quest with a skilled hunter and a mechanic to hunt dragons and uncover the truth about his father's death.",
+      "startDate": "2026-11-01T04:44:00",
+      "endDate": "2026-11-01T05:55:00",
+      "showTime": "04:44:00",
+      "endTime": "05:55:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4dbaffddeb335306f757e65a5b5d8962.jpg"
+    },
+    {
+      "serverDate": "2026-11-01",
+      "showName": "Tarzan",
+      "description": "Tarzan, a feral orphan raised by gorillas, encounters a beautiful woman named Jane. As he grows close to her, he faces a difficult choice between staying with his ape family and rejoining humanity.",
+      "startDate": "2026-11-01T05:55:00",
+      "endDate": "2026-11-01T07:22:00",
+      "showTime": "05:55:00",
+      "endTime": "07:22:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/113ffc99030ee2b3badc6fc35c75b658.jpg"
+    },
+    {
+      "serverDate": "2026-11-01",
+      "showName": "X-Men: First Class",
+      "description": "During the Cold War, fellow mutants Charles Xavier and Erik Lehnsherr join forces with other mutants to save humanity from a nuclear attack and a possible world war.",
+      "startDate": "2026-11-01T07:22:00",
+      "endDate": "2026-11-01T09:35:00",
+      "showTime": "07:22:00",
+      "endTime": "09:35:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7e8c5fd2f43df8cfa84454d97b2e0fcf.jpg"
+    },
+    {
+      "serverDate": "2026-11-01",
+      "showName": "Kingdom of the Planet of the Apes",
+      "description": "Decades after Caesar's demise, the apes have settled into peaceful colonies while humans degrade into brutes. However, a sudden attack pushes a young chimpanzee to undertake a poignant rescue mission.",
+      "startDate": "2026-11-01T09:35:00",
       "endDate": "2026-11-01T12:00:00",
-      "showTime": "09:00:00",
+      "showTime": "09:35:00",
       "endTime": "12:00:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0703cd6c139238228f866d15d49f86e8.jpg"
     },
     {
       "serverDate": "2026-11-01",
-      "showName": "Movie",
-      "description": "Bringing the best in cinema.",
+      "showName": "The First Omen",
+      "description": "A woman starts to question her own faith when she uncovers a terrifying conspiracy to bring about the birth of evil incarnate in Rome.",
       "startDate": "2026-11-01T12:00:00",
-      "endDate": "2026-11-01T15:00:00",
+      "endDate": "2026-11-01T14:01:00",
       "showTime": "12:00:00",
-      "endTime": "15:00:00",
+      "endTime": "14:01:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8029a9d38c7c6191657ff51d96171cde.jpg"
     },
     {
       "serverDate": "2026-11-01",
-      "showName": "Movie",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-11-01T15:00:00",
-      "endDate": "2026-11-01T18:00:00",
-      "showTime": "15:00:00",
-      "endTime": "18:00:00",
+      "showName": "The Avengers",
+      "description": "Nick Fury is compelled to launch the Avengers Initiative when Loki poses a threat to planet Earth. Eventually, the superheroes cast their differences aside to accomplish the task.",
+      "startDate": "2026-11-01T14:01:00",
+      "endDate": "2026-11-01T16:29:00",
+      "showTime": "14:01:00",
+      "endTime": "16:29:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/719fb77e1c660cd6a3057521c83aed5a.jpg"
     },
     {
       "serverDate": "2026-11-01",
-      "showName": "Movie",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-11-01T18:00:00",
+      "showName": "Gladiator II",
+      "description": "With his homeland in the clutches of the despotic rulers of Rome, Lucius must find the strength to survive the Colosseum and fight the emperors' tyranny.",
+      "startDate": "2026-11-01T16:29:00",
+      "endDate": "2026-11-01T19:04:00",
+      "showTime": "16:29:00",
+      "endTime": "19:04:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f531c9918d8fe398c48bfebfe077eec1.jpg"
+    },
+    {
+      "serverDate": "2026-11-01",
+      "showName": "The Omen",
+      "description": "A man faces grave issues after he replaces his wife's stillborn with an orphaned baby.",
+      "startDate": "2026-11-01T19:04:00",
       "endDate": "2026-11-01T21:00:00",
-      "showTime": "18:00:00",
+      "showTime": "19:04:00",
       "endTime": "21:00:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dc486a441e5be3f99f2d664ab8495cb7.jpg"
     },
     {
       "serverDate": "2026-11-01",
-      "showName": "Movie",
-      "description": "Bringing the best in cinema.",
+      "showName": "The First Omen",
+      "description": "A woman starts to question her own faith when she uncovers a terrifying conspiracy to bring about the birth of evil incarnate in Rome.",
       "startDate": "2026-11-01T21:00:00",
-      "endDate": "2026-11-01T23:59:59",
+      "endDate": "2026-11-01T23:03:00",
       "showTime": "21:00:00",
+      "endTime": "23:03:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8029a9d38c7c6191657ff51d96171cde.jpg"
+    },
+    {
+      "serverDate": "2026-11-01",
+      "showName": "Kingsman: The Secret Service",
+      "description": "Eggsy, a promising but unemployed young man, finds himself being recruited into a secret spy organisation to hunt down an eco-terrorist.",
+      "startDate": "2026-11-01T23:03:00",
+      "endDate": "2026-11-01T23:59:59",
+      "showTime": "23:03:00",
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36b24a18032ad0dbcf9b78d71c908051.jpg"
     },
     {
       "serverDate": "2026-11-02",
-      "showName": "Movie",
-      "description": "Bringing the best in cinema.",
+      "showName": "Kingsman: The Secret Service",
+      "description": "Eggsy, a promising but unemployed young man, finds himself being recruited into a secret spy organisation to hunt down an eco-terrorist.",
       "startDate": "2026-11-02T00:00:00",
-      "endDate": "2026-11-02T03:00:00",
+      "endDate": "2026-11-02T01:10:00",
       "showTime": "00:00:00",
-      "endTime": "03:00:00",
+      "endTime": "01:10:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36b24a18032ad0dbcf9b78d71c908051.jpg"
     },
     {
       "serverDate": "2026-11-02",
-      "showName": "Movie",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-11-02T03:00:00",
+      "showName": "Ant-Man",
+      "description": "Scott, a thief, gains the ability to shrink in scale with the help of a futuristic suit. Soon, he must rise to the occasion of his superhero status and protect his secret from unsavoury elements.",
+      "startDate": "2026-11-02T01:10:00",
+      "endDate": "2026-11-02T02:59:00",
+      "showTime": "01:10:00",
+      "endTime": "02:59:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1183a999bbf2d5465493ee13da2e7a0a.jpg"
+    },
+    {
+      "serverDate": "2026-11-02",
+      "showName": "Mutant Python",
+      "description": "A python is determined to exact revenge on a secluded village in the northern Fujian district of China after its altar is desecrated by a dead snake.",
+      "startDate": "2026-11-02T02:59:00",
       "endDate": "2026-11-02T06:00:00",
-      "showTime": "03:00:00",
+      "showTime": "02:59:00",
       "endTime": "06:00:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/50008ec32899eae8ec69ec5de400f877.jpg"
     },
     {
       "serverDate": "2026-11-02",
