@@ -8,116 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png",
   "programs": [
     {
-      "serverDate": "2026-10-29",
-      "showName": "Halo Aapna Malak Maa",
-      "description": "A man and a woman develop romantic feelings for each other. However, their budding relationship encounters turbulence when the woman is compelled to marry another man.",
-      "startDate": "2026-10-29T00:00:00",
-      "endDate": "2026-10-29T00:55:00",
-      "showTime": "00:00:00",
-      "endTime": "00:55:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5f4fbea9f0787bf955e80b3281658f02.jpg"
-    },
-    {
-      "serverDate": "2026-10-29",
-      "showName": "Gulaam Chor",
-      "description": "Twelve individuals assemble at Aswin's house to play a poker game in a bid to win cash. However, things take a turn when the lights go off at midnight.",
-      "startDate": "2026-10-29T00:55:00",
-      "endDate": "2026-10-29T02:45:00",
-      "showTime": "00:55:00",
-      "endTime": "02:45:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3a9c5194707bdd56e56c2c61876cae23.jpg"
-    },
-    {
-      "serverDate": "2026-10-29",
-      "showName": "Desi Beats",
-      "description": "A comprehensive compilation of acclaimed chart-topping Indian songs, composed by diverse artists, is played in succession.",
-      "startDate": "2026-10-29T02:45:00",
-      "endDate": "2026-10-29T05:15:00",
-      "showTime": "02:45:00",
-      "endTime": "05:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a952a1f715f5bf638f3e1cfb99a51ef8.jpg"
-    },
-    {
-      "serverDate": "2026-10-29",
-      "showName": "Dikri To Parki Thapan Kehvay",
-      "description": "A man of his word, Ram Bhai, gets his daughter, Radha, married to Madhav, instead of Kishen, the man she loves. When Kishen returns to her life, she finds herself in a dilemma.",
-      "startDate": "2026-10-29T05:15:00",
-      "endDate": "2026-10-29T08:00:00",
-      "showTime": "05:15:00",
-      "endTime": "08:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8d255b9b00153b1757f281aaa8b4bfa6.jpg"
-    },
-    {
-      "serverDate": "2026-10-29",
-      "showName": "Desi Beats",
-      "description": "A comprehensive compilation of acclaimed chart-topping Indian songs, composed by diverse artists, is played in succession.",
-      "startDate": "2026-10-29T08:00:00",
-      "endDate": "2026-10-29T10:00:00",
-      "showTime": "08:00:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a952a1f715f5bf638f3e1cfb99a51ef8.jpg"
-    },
-    {
-      "serverDate": "2026-10-29",
-      "showName": "Mangu Saiba Janamo Janam No Sath",
-      "description": "Jay and Vijay are twins who are complete opposites of each other. However, chaos ensues when Jay suffers from an accident and Vijay must pretend to be his brother.",
-      "startDate": "2026-10-29T10:00:00",
-      "endDate": "2026-10-29T12:55:00",
-      "showTime": "10:00:00",
-      "endTime": "12:55:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd188190d9159a18c7c09481b128e609.jpg"
-    },
-    {
-      "serverDate": "2026-10-29",
-      "showName": "Karwathoth (Kadwa Chauth)",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-10-29T12:55:00",
-      "endDate": "2026-10-29T16:10:00",
-      "showTime": "12:55:00",
-      "endTime": "16:10:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f243259254a7a42fbf7c5319814de5e.jpg"
-    },
-    {
-      "serverDate": "2026-10-29",
-      "showName": "Maa Evrat Jevrat",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-10-29T16:10:00",
-      "endDate": "2026-10-29T19:00:00",
-      "showTime": "16:10:00",
-      "endTime": "19:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1abdec20cededb77b43518233cff2fd0.jpg"
-    },
-    {
-      "serverDate": "2026-10-29",
-      "showName": "Amar Prem - Love of Heart",
-      "description": "Two childhood lovers are pulled apart due to family differences. However, years later, they cross paths, unaware of the other's identity.",
-      "startDate": "2026-10-29T19:00:00",
-      "endDate": "2026-10-29T22:00:00",
-      "showTime": "19:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b1e57b62c4c6de7e3993f5042d1c7447.jpg"
-    },
-    {
-      "serverDate": "2026-10-29",
-      "showName": "Aasudein Bhinjay Gharchodu Aasudein Bhinjay Chunadi",
-      "description": "Vikram and Gayatri become romantically involved as her brother Karan grows fond of Rupal. However, their joy is threatened when Kalu devises a scheme to seek vengeance against Vikram.",
-      "startDate": "2026-10-29T22:00:00",
-      "endDate": "2026-10-29T23:59:59",
-      "showTime": "22:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e32f7e78071e167e9db71e9f4b50c399.jpg"
-    },
-    {
       "serverDate": "2026-10-30",
       "showName": "Aasudein Bhinjay Gharchodu Aasudein Bhinjay Chunadi",
       "description": "Vikram and Gayatri become romantically involved as her brother Karan grows fond of Rupal. However, their joy is threatened when Kalu devises a scheme to seek vengeance against Vikram.",
@@ -908,6 +798,116 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cff4d6ef653ed3b99276dba5afb80ef7.jpg"
+    },
+    {
+      "serverDate": "2026-11-06",
+      "showName": "Zulan Morli",
+      "description": "A couple visits a respected patriarch to seek his blessing after their marriage. However, their lives take an unexpected turn when the man perpetrates a shocking offence.",
+      "startDate": "2026-11-06T00:00:00",
+      "endDate": "2026-11-06T00:10:00",
+      "showTime": "00:00:00",
+      "endTime": "00:10:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cff4d6ef653ed3b99276dba5afb80ef7.jpg"
+    },
+    {
+      "serverDate": "2026-11-06",
+      "showName": "Nasibdaar",
+      "description": "The family of a brave and honest police officer, consisting of his wife, Rama, and two sons, Shyam and Chintu, is torn apart due to a dreaded dacoit, Ranjeet Singh.",
+      "startDate": "2026-11-06T00:10:00",
+      "endDate": "2026-11-06T02:25:00",
+      "showTime": "00:10:00",
+      "endTime": "02:25:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f40373863032d9933a69792906b705d.jpg"
+    },
+    {
+      "serverDate": "2026-11-06",
+      "showName": "Desi Beats",
+      "description": "A comprehensive compilation of acclaimed chart-topping Indian songs, composed by diverse artists, is played in succession.",
+      "startDate": "2026-11-06T02:25:00",
+      "endDate": "2026-11-06T05:35:00",
+      "showTime": "02:25:00",
+      "endTime": "05:35:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a952a1f715f5bf638f3e1cfb99a51ef8.jpg"
+    },
+    {
+      "serverDate": "2026-11-06",
+      "showName": "Tulsidas",
+      "description": "Tulsidas",
+      "startDate": "2026-11-06T05:35:00",
+      "endDate": "2026-11-06T08:00:00",
+      "showTime": "05:35:00",
+      "endTime": "08:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-06",
+      "showName": "Desi Beats",
+      "description": "A comprehensive compilation of acclaimed chart-topping Indian songs, composed by diverse artists, is played in succession.",
+      "startDate": "2026-11-06T08:00:00",
+      "endDate": "2026-11-06T10:05:00",
+      "showTime": "08:00:00",
+      "endTime": "10:05:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a952a1f715f5bf638f3e1cfb99a51ef8.jpg"
+    },
+    {
+      "serverDate": "2026-11-06",
+      "showName": "Raj Ratan",
+      "description": "A married woman fails to conceive a child despite her repeated attempts. However, when her husband kicks her out of the house, she discovers that she is pregnant.",
+      "startDate": "2026-11-06T10:05:00",
+      "endDate": "2026-11-06T13:20:00",
+      "showTime": "10:05:00",
+      "endTime": "13:20:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5ed84fab64362c0b8e6a1bceed74e692.jpg"
+    },
+    {
+      "serverDate": "2026-11-06",
+      "showName": "Meera Datar",
+      "description": "Mira Datar, a renowned Sufi saint, endured several trials and tribulations and was ultimately martyred while saving innocent lives on the battlefield of Mandavgad.",
+      "startDate": "2026-11-06T13:20:00",
+      "endDate": "2026-11-06T16:10:00",
+      "showTime": "13:20:00",
+      "endTime": "16:10:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d10163abd7b8f647f603cf135332cd30.jpg"
+    },
+    {
+      "serverDate": "2026-11-06",
+      "showName": "Jai Maa Vaibhav Laxmi",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-06T16:10:00",
+      "endDate": "2026-11-06T19:00:00",
+      "showTime": "16:10:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/831a038eac7aa7e5931f89b75d6d67d8.jpg"
+    },
+    {
+      "serverDate": "2026-11-06",
+      "showName": "Bewafa Sanam Tari Bov Meherbaani",
+      "description": "After achieving fame as a stage singer, Jignesh clashes with music label owner Dharma. Meanwhile, Jignesh falls in love with another woman and ignores a performer's romantic advances.",
+      "startDate": "2026-11-06T19:00:00",
+      "endDate": "2026-11-06T21:35:00",
+      "showTime": "19:00:00",
+      "endTime": "21:35:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ca1cca1610d01cf41a4358d5b8c3f6ef.jpg"
+    },
+    {
+      "serverDate": "2026-11-06",
+      "showName": "Kanto Vagyo Kalje",
+      "description": "A grieving father, Narshi Patel, remarries Kadvi under societal pressure. However, his new wife mistreats him and his young daughter.",
+      "startDate": "2026-11-06T21:35:00",
+      "endDate": "2026-11-06T23:59:59",
+      "showTime": "21:35:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/48b101a265ad7a1ec6ff5df217f3b55a.jpg"
     }
   ]
 }
