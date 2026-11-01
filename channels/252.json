@@ -8,149 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Cinema.png",
   "programs": [
     {
-      "serverDate": "2026-10-30",
-      "showName": "Sammohanam",
-      "description": "Vijay, a budding cartoonist, is not fond of movie stars. However, things get complicated when he falls for Sameera, an actress.",
-      "startDate": "2026-10-30T00:00:00",
-      "endDate": "2026-10-30T01:00:00",
-      "showTime": "00:00:00",
-      "endTime": "01:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/406ed32734034a9561271066ed7c2da5.jpg"
-    },
-    {
-      "serverDate": "2026-10-30",
-      "showName": "Devanthakudu",
-      "description": "Vijay, known for his knack for taking on risky challenges, is dared by his friend to kill a professor. However, things take a dark turn when the professor is actually murdered, and Vijay is blamed for the crime.",
-      "startDate": "2026-10-30T01:00:00",
-      "endDate": "2026-10-30T04:00:00",
-      "showTime": "01:00:00",
-      "endTime": "04:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3a747bac36d5b0214c17fdc0362ff7f1.jpg"
-    },
-    {
-      "serverDate": "2026-10-30",
-      "showName": "Songs",
-      "description": "A comprehensive compilation of popular songs, performed by gifted artists and musicians, is played in rapid succession.",
-      "startDate": "2026-10-30T04:00:00",
-      "endDate": "2026-10-30T06:00:00",
-      "showTime": "04:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/db0c5006ecaefecf06ea1ecea2a7239b.jpg"
-    },
-    {
-      "serverDate": "2026-10-30",
-      "showName": "Yoga Based Programme",
-      "description": "Yoga experts showcase various postures and meditation methods, offering practical tools for managing everyday stress and improving wellbeing.",
-      "startDate": "2026-10-30T06:00:00",
-      "endDate": "2026-10-30T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/da965292be0bc199409f051da787a7e7.jpg"
-    },
-    {
-      "serverDate": "2026-10-30",
-      "showName": "Madhurimalu",
-      "description": "A chef shares some kitchen secrets, simple dessert recipes and demonstrates how to whip up mouthwatering treats in an easy-to-understand manner.",
-      "startDate": "2026-10-30T06:30:00",
-      "endDate": "2026-10-30T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f28e329e24e76a857892055f5ce6811.jpg"
-    },
-    {
-      "serverDate": "2026-10-30",
-      "showName": "Thodu Dongalu",
-      "description": "Krishna and Kishore who play tricks on people, fall for Rekha and Jaya, respectively. Later, Krishna discovers that Rekha works for Rao and Reddy as they have captured her father over a treasure.",
-      "startDate": "2026-10-30T07:00:00",
-      "endDate": "2026-10-30T09:31:00",
-      "showTime": "07:00:00",
-      "endTime": "09:31:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ac975dec6756b7502f71ed7c958269a7.jpg"
-    },
-    {
-      "serverDate": "2026-10-30",
-      "showName": "Film Based Program",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-10-30T09:31:00",
-      "endDate": "2026-10-30T10:00:00",
-      "showTime": "09:31:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/70e677a252007eceed35fb27f7cd67fc.jpg"
-    },
-    {
-      "serverDate": "2026-10-30",
-      "showName": "Nindu Manasulu",
-      "description": "Raju, a brave and honourable young man, encounters several obstacles from Seshu, a criminal who wants to include Raju in his illegal business.",
-      "startDate": "2026-10-30T10:00:00",
-      "endDate": "2026-10-30T13:00:00",
-      "showTime": "10:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/39cb3663ec7f8f86dba46e512cb6957d.jpg"
-    },
-    {
-      "serverDate": "2026-10-30",
-      "showName": "Aayanaki Iddaru",
-      "description": "Ooha likes Surya, but his marriage is fixed with her sister Ramya. When Ramya disappears on her marriage day, he marries Ooha. However, Ramya returns to create trouble in their life.",
-      "startDate": "2026-10-30T13:00:00",
-      "endDate": "2026-10-30T16:00:00",
-      "showTime": "13:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d5d829490f2cd9b390c0eca247d5cf0.jpg"
-    },
-    {
-      "serverDate": "2026-10-30",
-      "showName": "Swarnakamalam",
-      "description": "Meenakshi, a young classical dancer who was born in a family of artists, is bitter about the lack of opportunity in India. However, Chandrashekhar changes her outlook and helps her grow.",
-      "startDate": "2026-10-30T16:00:00",
-      "endDate": "2026-10-30T18:45:00",
-      "showTime": "16:00:00",
-      "endTime": "18:45:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c769a52a6ee76c7a7f26a3fee1adc48.jpg"
-    },
-    {
-      "serverDate": "2026-10-30",
-      "showName": "Telugu Hits",
-      "description": "A compilation of some of the most trending Telugu hits composed by famous artists is played back-to-back to enthrall the audience.",
-      "startDate": "2026-10-30T18:45:00",
-      "endDate": "2026-10-30T19:00:00",
-      "showTime": "18:45:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/06c20f83de74209bd1d7bf469ab03f8d.jpg"
-    },
-    {
-      "serverDate": "2026-10-30",
-      "showName": "Adavi Donga",
-      "description": "In a desperate attempt to save her child from danger, a mother hides him in a forest, but tragically loses track of his location. Years pass as the boy grows up in the company of animals.",
-      "startDate": "2026-10-30T19:00:00",
-      "endDate": "2026-10-30T22:00:00",
-      "showTime": "19:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ac2c54fe3c78cafa77951232b705eef0.jpg"
-    },
-    {
-      "serverDate": "2026-10-30",
-      "showName": "Chuttalabbayi",
-      "description": "A young man becomes involved in some confusion regarding a young woman when he returns to his home village to help his father.",
-      "startDate": "2026-10-30T22:00:00",
-      "endDate": "2026-10-30T23:59:59",
-      "showTime": "22:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/820066f562c44a9f8715aedfabdb2dd1.jpg"
-    },
-    {
       "serverDate": "2026-10-31",
       "showName": "Chuttalabbayi",
       "description": "A young man becomes involved in some confusion regarding a young woman when he returns to his home village to help his father.",
@@ -1084,6 +941,127 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/15c9b2b1d92b6ee1c79b08a80d24327d.jpg"
+    },
+    {
+      "serverDate": "2026-11-07",
+      "showName": "Samanyudu",
+      "description": "Chandra is the editor of the newspaper 'Addam' and is victimised by a corrupt politician. His goal is to conduct sting operations and expose important but corrupt people.",
+      "startDate": "2026-11-07T00:00:00",
+      "endDate": "2026-11-07T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/15c9b2b1d92b6ee1c79b08a80d24327d.jpg"
+    },
+    {
+      "serverDate": "2026-11-07",
+      "showName": "Chandamama Raave",
+      "description": "Chandamama Raave",
+      "startDate": "2026-11-07T01:00:00",
+      "endDate": "2026-11-07T04:00:00",
+      "showTime": "01:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-07",
+      "showName": "Songs",
+      "description": "A comprehensive compilation of popular songs, performed by gifted artists and musicians, is played in rapid succession.",
+      "startDate": "2026-11-07T04:00:00",
+      "endDate": "2026-11-07T06:00:00",
+      "showTime": "04:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/db0c5006ecaefecf06ea1ecea2a7239b.jpg"
+    },
+    {
+      "serverDate": "2026-11-07",
+      "showName": "Yoga Based Programme",
+      "description": "Yoga experts showcase various postures and meditation methods, offering practical tools for managing everyday stress and improving wellbeing.",
+      "startDate": "2026-11-07T06:00:00",
+      "endDate": "2026-11-07T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/da965292be0bc199409f051da787a7e7.jpg"
+    },
+    {
+      "serverDate": "2026-11-07",
+      "showName": "Madhurimalu",
+      "description": "A chef shares some kitchen secrets, simple dessert recipes and demonstrates how to whip up mouthwatering treats in an easy-to-understand manner.",
+      "startDate": "2026-11-07T06:30:00",
+      "endDate": "2026-11-07T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f28e329e24e76a857892055f5ce6811.jpg"
+    },
+    {
+      "serverDate": "2026-11-07",
+      "showName": "Pushpaka Vimana",
+      "description": "An unemployed man, who dreams of living it large, finds a rich man drunk and lying in the sewer. Things take a turn when he imprisons him and takes his identity to get a taste of his lifestyle.",
+      "startDate": "2026-11-07T07:00:00",
+      "endDate": "2026-11-07T10:00:00",
+      "showTime": "07:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3caa2e73de840d524fb9abb838289101.jpg"
+    },
+    {
+      "serverDate": "2026-11-07",
+      "showName": "Idi Katha Kaadu",
+      "description": "Suhasini navigates life as a single, working mother after her divorce. However, when two men fall for her and propose marriage, she is faced with a challenging choice.",
+      "startDate": "2026-11-07T10:00:00",
+      "endDate": "2026-11-07T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/356fde28791f63daf3ec9b153a639ba1.jpg"
+    },
+    {
+      "serverDate": "2026-11-07",
+      "showName": "Rudhramadevi",
+      "description": "Fearing that his people will not accept a female successor, a king raises his daughter, Rudrama Devi, like a boy. Years later, when a threat looms over the kingdom, she sets out to fight her foes.",
+      "startDate": "2026-11-07T13:00:00",
+      "endDate": "2026-11-07T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eb85239dc3c6e805ed870f8673eb29f8.jpg"
+    },
+    {
+      "serverDate": "2026-11-07",
+      "showName": "Intlo Ramaya Veedhilo Krishnayya",
+      "description": "Rajasekharam and Jayalaxmi get married and move to a new house, where they meet their neighbour, Subba Rao. When Subba Rao feels insulted by the couple, he plans to destroy their newly married life.",
+      "startDate": "2026-11-07T16:00:00",
+      "endDate": "2026-11-07T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/80f0d9807fdb4f71f48ee01939f14236.jpg"
+    },
+    {
+      "serverDate": "2026-11-07",
+      "showName": "Subha Sankalpam",
+      "description": "A man loses his family, in an attempt to protect his master's treasure. Later, the master adopts the man's son and treats him as his own.",
+      "startDate": "2026-11-07T19:00:00",
+      "endDate": "2026-11-07T22:00:00",
+      "showTime": "19:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5a4137a9157f7690d1915022ee257bc1.jpg"
+    },
+    {
+      "serverDate": "2026-11-07",
+      "showName": "Puli",
+      "description": "Lakshmi, Kranthi's sister, loses her eyesight after a corrupt policeman, Shyam, causes an accident. Soon, Kranthi, a righteous police officer, sets out in pursuit of Shyam and his associates.",
+      "startDate": "2026-11-07T22:00:00",
+      "endDate": "2026-11-07T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/653893ff82e5a4bdab56b96b9d86243f.jpg"
     }
   ]
 }
