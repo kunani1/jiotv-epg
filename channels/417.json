@@ -8,105 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png",
   "programs": [
     {
-      "serverDate": "2026-11-01",
-      "showName": "Kadalora Kavithaigal",
-      "description": "A teacher's heart is captured by a rough criminal. She believes love can transform even the most difficult soul, and sets out to prove it through their unexpected romance.",
-      "startDate": "2026-11-01T00:00:00",
-      "endDate": "2026-11-01T01:30:00",
-      "showTime": "00:00:00",
-      "endTime": "01:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/607ef414a2f451b6fef1552217f277b6.jpg"
-    },
-    {
-      "serverDate": "2026-11-01",
-      "showName": "Geethanjali",
-      "description": "James, a Hindu orphan, is raised by Lawrence, a Catholic priest. Later, things become complicated when he falls for Julie, but Lawrence urges him to marry Diana.",
-      "startDate": "2026-11-01T01:30:00",
-      "endDate": "2026-11-01T04:00:00",
-      "showTime": "01:30:00",
-      "endTime": "04:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/74bb621f69d177e16e9a734d6401b825.jpg"
-    },
-    {
-      "serverDate": "2026-11-01",
-      "showName": "Poi",
-      "description": "Valluvanar is an honest politician. When his son Kamban is arrested, he refuses to bail him out of jail. The opposition party takes advantage of the situation and thus helps Kamban escape from jail.",
-      "startDate": "2026-11-01T04:00:00",
-      "endDate": "2026-11-01T07:00:00",
-      "showTime": "04:00:00",
-      "endTime": "07:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b6018f7de5c469a2a777de195f58f517.jpg"
-    },
-    {
-      "serverDate": "2026-11-01",
-      "showName": "Priyamudan",
-      "description": "Vasanth, the son of a wealthy businessman, falls in love with Priya when he visits Rajasthan. He impersonates a man named Vasanth Kumar, who had saved her life before, in order to woo her.",
-      "startDate": "2026-11-01T07:00:00",
-      "endDate": "2026-11-01T10:00:00",
-      "showTime": "07:00:00",
-      "endTime": "10:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7fd92e2fd04bdbc493cf7436a31c2a86.jpg"
-    },
-    {
-      "serverDate": "2026-11-01",
-      "showName": "Gopura Vasalile",
-      "description": "After losing his lover, teacher Manohar's life stagnates. His friends intervene, reigniting his passion for life and opening doors to new love.",
-      "startDate": "2026-11-01T10:00:00",
-      "endDate": "2026-11-01T13:00:00",
-      "showTime": "10:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f3ba6f536809d96a6eeb6b4c3f138e47.jpg"
-    },
-    {
-      "serverDate": "2026-11-01",
-      "showName": "Colour Kanavugal",
-      "description": "A happy-go-lucky man falls head over heels for a girl from a wealthy family who rebuffs his sentiments. However, the man leaves no stone unturned to win her heart.",
-      "startDate": "2026-11-01T13:00:00",
-      "endDate": "2026-11-01T16:00:00",
-      "showTime": "13:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f53dc754a17dee78604c57aa80e604ca.jpg"
-    },
-    {
-      "serverDate": "2026-11-01",
-      "showName": "June R",
-      "description": "June yearns for a mother's love and affection. She helps an old lady who was hurt in an accident and decides adopt her when her own son opts to put her in an old age home.",
-      "startDate": "2026-11-01T16:00:00",
-      "endDate": "2026-11-01T19:00:00",
-      "showTime": "16:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/234c2ec02606992d98b01889b28a903d.jpg"
-    },
-    {
-      "serverDate": "2026-11-01",
-      "showName": "Unnidathil Ennai Koduthen",
-      "description": "Selvam and Bhaskar, two thieves with good intentions, hide with the help of Radha who is an illegitimate child living with his father's family in the guise of a maid.",
-      "startDate": "2026-11-01T19:00:00",
-      "endDate": "2026-11-01T22:30:00",
-      "showTime": "19:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/76fe9ebf89f9a13d10970bdb7f0b6119.jpg"
-    },
-    {
-      "serverDate": "2026-11-01",
-      "showName": "Gopura Vasalile",
-      "description": "After losing his lover, teacher Manohar's life stagnates. His friends intervene, reigniting his passion for life and opening doors to new love.",
-      "startDate": "2026-11-01T22:30:00",
-      "endDate": "2026-11-01T23:59:59",
-      "showTime": "22:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f3ba6f536809d96a6eeb6b4c3f138e47.jpg"
-    },
-    {
       "serverDate": "2026-11-02",
       "showName": "Gopura Vasalile",
       "description": "After losing his lover, teacher Manohar's life stagnates. His friends intervene, reigniting his passion for life and opening doors to new love.",
@@ -699,6 +600,105 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/55b2ec99cc973ed07e45a53f6d232eed.jpg"
+    },
+    {
+      "serverDate": "2026-11-08",
+      "showName": "Muppozhudhum Un Karpanaigal",
+      "description": "A man falls in love with a girl with a mysterious past. However, her true identity is revealed when the man has an accident.",
+      "startDate": "2026-11-08T00:00:00",
+      "endDate": "2026-11-08T01:30:00",
+      "showTime": "00:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/55b2ec99cc973ed07e45a53f6d232eed.jpg"
+    },
+    {
+      "serverDate": "2026-11-08",
+      "showName": "Maharasan",
+      "description": "Selvi falls in love with Vadivelu, a butcher. Realising that Vadivelu has to get his sister married first, Selvi helps him find an ideal life partner for his sister.",
+      "startDate": "2026-11-08T01:30:00",
+      "endDate": "2026-11-08T04:00:00",
+      "showTime": "01:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7f64536124634c0893f4f9a29728e8f.jpg"
+    },
+    {
+      "serverDate": "2026-11-08",
+      "showName": "Kaaval",
+      "description": "Anbu saves the life of his gangster friend, Karuna, from a police officer. However, a sudden turn of events leaves him running for survival when both the police and Karuna turn against him.",
+      "startDate": "2026-11-08T04:00:00",
+      "endDate": "2026-11-08T07:00:00",
+      "showTime": "04:00:00",
+      "endTime": "07:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/864e6e2de5b699e60afaf8a4e9999507.jpg"
+    },
+    {
+      "serverDate": "2026-11-08",
+      "showName": "Yennai Arindhaal",
+      "description": "Sathyadev, an honest police officer, is on a mission to stop an organ trafficking racket, unaware that the mastermind is the same person who killed his beloved.",
+      "startDate": "2026-11-08T07:00:00",
+      "endDate": "2026-11-08T10:00:00",
+      "showTime": "07:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bef48b365877220cba6cc21a7bc0a475.jpg"
+    },
+    {
+      "serverDate": "2026-11-08",
+      "showName": "Kaashmora",
+      "description": "Kaashmora, a fraudster, gets locked inside a haunted bungalow, along with his clan. Soon, the family faces an army of ghosts who will let them leave only if their wishes are granted.",
+      "startDate": "2026-11-08T10:00:00",
+      "endDate": "2026-11-08T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/889a81e01c0a539bed4b41bef6929a6a.jpg"
+    },
+    {
+      "serverDate": "2026-11-08",
+      "showName": "Pasanga 2",
+      "description": "Kavin and Naina are expelled from several schools due to their hyperactive behaviour. Their frustrated parents accidentally meet Thamizh, a psychiatrist, who becomes a saviour for their children.",
+      "startDate": "2026-11-08T13:00:00",
+      "endDate": "2026-11-08T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/85fa6764575c1b55e0a401318e6467f0.jpg"
+    },
+    {
+      "serverDate": "2026-11-08",
+      "showName": "Avvai Shanmugi",
+      "description": "After losing custody of his daughter by trying to abduct her from her mother, Pandiyan disguises himself as an elderly female caretaker to be close to her.",
+      "startDate": "2026-11-08T16:00:00",
+      "endDate": "2026-11-08T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/296af0927a03024651b3676e9b4b6bf0.jpg"
+    },
+    {
+      "serverDate": "2026-11-08",
+      "showName": "Vaseegara",
+      "description": "Bhupathi's father sends him to live under the guidance of his best friend, Viswanath, and find a job. He gets close to the family and falls in love with Viswanath's daughter, who is already engaged.",
+      "startDate": "2026-11-08T19:00:00",
+      "endDate": "2026-11-08T22:30:00",
+      "showTime": "19:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/282a53171d8711b9b00e77791be4eb4b.jpg"
+    },
+    {
+      "serverDate": "2026-11-08",
+      "showName": "Kaashmora",
+      "description": "Kaashmora, a fraudster, gets locked inside a haunted bungalow, along with his clan. Soon, the family faces an army of ghosts who will let them leave only if their wishes are granted.",
+      "startDate": "2026-11-08T22:30:00",
+      "endDate": "2026-11-08T23:59:59",
+      "showTime": "22:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/889a81e01c0a539bed4b41bef6929a6a.jpg"
     }
   ]
 }
