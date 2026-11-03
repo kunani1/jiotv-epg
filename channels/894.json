@@ -8,116 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/KTV_HD.png",
   "programs": [
     {
-      "serverDate": "2026-11-01",
-      "showName": "To Be Announced",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-01T00:00:00",
-      "endDate": "2026-11-01T01:30:00",
-      "showTime": "00:00:00",
-      "endTime": "01:30:00",
-      "showCategory": "TBA",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
-    },
-    {
-      "serverDate": "2026-11-01",
-      "showName": "To Be Announced",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-01T01:30:00",
-      "endDate": "2026-11-01T04:00:00",
-      "showTime": "01:30:00",
-      "endTime": "04:00:00",
-      "showCategory": "TBA",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
-    },
-    {
-      "serverDate": "2026-11-01",
-      "showName": "To Be Announced",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-01T04:00:00",
-      "endDate": "2026-11-01T06:00:00",
-      "showTime": "04:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "TBA",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
-    },
-    {
-      "serverDate": "2026-11-01",
-      "showName": "Fillers",
-      "description": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors and actresses.",
-      "startDate": "2026-11-01T06:00:00",
-      "endDate": "2026-11-01T07:00:00",
-      "showTime": "06:00:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1af875df0b088658933675f7635a19e7.jpg"
-    },
-    {
-      "serverDate": "2026-11-01",
-      "showName": "Enakku 20 Unakku 18",
-      "description": "A series of unfortunate incidents make two people part their ways in Mumbai. However, as they develop feelings for one another they begin to search for the other in Chennai.",
-      "startDate": "2026-11-01T07:00:00",
-      "endDate": "2026-11-01T10:00:00",
-      "showTime": "07:00:00",
-      "endTime": "10:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/034b332128a781af494154cb0634e05f.jpg"
-    },
-    {
-      "serverDate": "2026-11-01",
-      "showName": "Kadhalukku Mariyadhai",
-      "description": "Jeeva loves Mini, but her three brothers end up beating him every time he meets her. The couple then decide to elope against their parents' wishes.",
-      "startDate": "2026-11-01T10:00:00",
-      "endDate": "2026-11-01T13:00:00",
-      "showTime": "10:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee929bdf87eaeb48eb68e4646d6d46f7.jpg"
-    },
-    {
-      "serverDate": "2026-11-01",
-      "showName": "Kabali",
-      "description": "When Kabali raises his voice against the oppression faced by Tamil labourers in Malaysia, he is imprisoned for 25 years. After being released, he seeks revenge on the ones who wronged him.",
-      "startDate": "2026-11-01T13:00:00",
-      "endDate": "2026-11-01T16:00:00",
-      "showTime": "13:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b5ff78c2cdf772b679f4eabee4321ef1.jpg"
-    },
-    {
-      "serverDate": "2026-11-01",
-      "showName": "Gethu",
-      "description": "When Thulasi Raman, a teacher, is falsely accused of killing a man, his son Sethu, a librarian, sets out to find the real culprit.",
-      "startDate": "2026-11-01T16:00:00",
-      "endDate": "2026-11-01T19:00:00",
-      "showTime": "16:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/92b7ab17fe2681d0b47a4e3467790ec6.jpg"
-    },
-    {
-      "serverDate": "2026-11-01",
-      "showName": "Raangi",
-      "description": "Thaiyal Nayagi tries to protect her niece from an online predator. However, things escalate when the FBI's attempt to catch the culprit puts them both in danger as they unwittingly become bait.",
-      "startDate": "2026-11-01T19:00:00",
-      "endDate": "2026-11-01T22:30:00",
-      "showTime": "19:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/808eabc4cbe59fd13ed2eebd56d9e674.jpg"
-    },
-    {
-      "serverDate": "2026-11-01",
-      "showName": "Minsara Kanavu",
-      "description": "Thomas, an expatriate, falls in love with Priya, but soon learns that she wants to become a nun. Later, things go awry when he enlists Deva's help to change her mind.",
-      "startDate": "2026-11-01T22:30:00",
-      "endDate": "2026-11-01T23:59:59",
-      "showTime": "22:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e4fd732ed185185b81bbd17b5e121b62.jpg"
-    },
-    {
       "serverDate": "2026-11-02",
       "showName": "Minsara Kanavu",
       "description": "Thomas, an expatriate, falls in love with Priya, but soon learns that she wants to become a nun. Later, things go awry when he enlists Deva's help to change her mind.",
@@ -886,6 +776,105 @@
       "endTime": "23:59:59",
       "showCategory": "TBA",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
+    },
+    {
+      "serverDate": "2026-11-09",
+      "showName": "To Be Announced",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-09T00:00:00",
+      "endDate": "2026-11-09T02:30:00",
+      "showTime": "00:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "TBA",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
+    },
+    {
+      "serverDate": "2026-11-09",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-09T02:30:00",
+      "endDate": "2026-11-09T05:30:00",
+      "showTime": "02:30:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+    },
+    {
+      "serverDate": "2026-11-09",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-09T05:30:00",
+      "endDate": "2026-11-09T08:30:00",
+      "showTime": "05:30:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+    },
+    {
+      "serverDate": "2026-11-09",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-09T08:30:00",
+      "endDate": "2026-11-09T11:30:00",
+      "showTime": "08:30:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+    },
+    {
+      "serverDate": "2026-11-09",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-09T11:30:00",
+      "endDate": "2026-11-09T14:30:00",
+      "showTime": "11:30:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+    },
+    {
+      "serverDate": "2026-11-09",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-09T14:30:00",
+      "endDate": "2026-11-09T17:30:00",
+      "showTime": "14:30:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+    },
+    {
+      "serverDate": "2026-11-09",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-09T17:30:00",
+      "endDate": "2026-11-09T20:30:00",
+      "showTime": "17:30:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+    },
+    {
+      "serverDate": "2026-11-09",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-09T20:30:00",
+      "endDate": "2026-11-09T23:30:00",
+      "showTime": "20:30:00",
+      "endTime": "23:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
+    },
+    {
+      "serverDate": "2026-11-09",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-09T23:30:00",
+      "endDate": "2026-11-09T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg"
     }
   ]
 }
