@@ -8,193 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Dsports_HD.png",
   "programs": [
     {
-      "serverDate": "2026-11-02",
-      "showName": "Big Cricket League",
-      "description": "Coverage of the professional cricket league.",
-      "startDate": "2026-11-02T00:00:00",
-      "endDate": "2026-11-02T03:00:00",
-      "showTime": "00:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3b094ee9b466b4fd07cb4948c9e8f9f3.jpg"
-    },
-    {
-      "serverDate": "2026-11-02",
-      "showName": "FIM Speedway Grand Prix Series",
-      "description": "Professional riders compete in a motorcycle speedway racing competition organised by the International Motorcycling Federation (FIM) to emerge victorious and win the coveted title.",
-      "startDate": "2026-11-02T03:00:00",
-      "endDate": "2026-11-02T05:00:00",
-      "showTime": "03:00:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8f7853a02a0965f2c384475e5376f52f.jpg"
-    },
-    {
-      "serverDate": "2026-11-02",
-      "showName": "Golden Trail World Series",
-      "description": "The world's top trail-runners experience local culture and are challenged by spectacular landscapes.",
-      "startDate": "2026-11-02T05:00:00",
-      "endDate": "2026-11-02T05:30:00",
-      "showTime": "05:00:00",
-      "endTime": "05:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e00e8f27e19f5e005383b5d85cecfe8f.jpg"
-    },
-    {
-      "serverDate": "2026-11-02",
-      "showName": "MLS Soccer",
-      "description": "Professional football players compete against each other in the MLS Soccer.",
-      "startDate": "2026-11-02T05:30:00",
-      "endDate": "2026-11-02T07:30:00",
-      "showTime": "05:30:00",
-      "endTime": "07:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a30f65b358a5cb1d1a65bceeb31f9e6.jpg"
-    },
-    {
-      "serverDate": "2026-11-02",
-      "showName": "One-Day International Cricket",
-      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
-      "startDate": "2026-11-02T07:30:00",
-      "endDate": "2026-11-02T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
-    },
-    {
-      "serverDate": "2026-11-02",
-      "showName": "AEW Collision",
-      "description": "Popular pro-wrestlers from the AEW Roster compete against each other in fights every Saturday to win the championship title.",
-      "startDate": "2026-11-02T08:00:00",
-      "endDate": "2026-11-02T10:00:00",
-      "showTime": "08:00:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff02d924ee4ae092009da120672aaa1f.jpg"
-    },
-    {
-      "serverDate": "2026-11-02",
-      "showName": "MotoGP Racing",
-      "description": "Coverage of motorcycle racing action from FIM sanctioned road circuits.",
-      "startDate": "2026-11-02T10:00:00",
-      "endDate": "2026-11-02T11:00:00",
-      "showTime": "10:00:00",
-      "endTime": "11:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77f67778768b161ebeda78f279643819.jpg"
-    },
-    {
-      "serverDate": "2026-11-02",
-      "showName": "Test Cricket",
-      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
-      "startDate": "2026-11-02T11:00:00",
-      "endDate": "2026-11-02T12:00:00",
-      "showTime": "11:00:00",
-      "endTime": "12:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
-    },
-    {
-      "serverDate": "2026-11-02",
-      "showName": "IMPACT in 60",
-      "description": "The filmmaker highlights some of the most memorable matches, wrestlers, championships, factions and more from the 18-year history of Impact Wrestling.",
-      "startDate": "2026-11-02T12:00:00",
-      "endDate": "2026-11-02T13:00:00",
-      "showTime": "12:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/60bc6739423c38778056a36fbb5d1915.jpg"
-    },
-    {
-      "serverDate": "2026-11-02",
-      "showName": "TNA British Boot Camp",
-      "description": "Documenting the careers of British professional wrestlers seeking a contract with TNA Wrestling.",
-      "startDate": "2026-11-02T13:00:00",
-      "endDate": "2026-11-02T13:30:00",
-      "showTime": "13:00:00",
-      "endTime": "13:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a116b119e588f3d71b6b872051c3e90.jpg"
-    },
-    {
-      "serverDate": "2026-11-02",
-      "showName": "Women's Big Bash League Cricket",
-      "description": "Coverage of matches in the Women's Big Bash League cricket competition.",
-      "startDate": "2026-11-02T13:30:00",
-      "endDate": "2026-11-02T17:15:00",
-      "showTime": "13:30:00",
-      "endTime": "17:15:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/38b6547ed85d56e45e161670f802e5b9.jpg"
-    },
-    {
-      "serverDate": "2026-11-02",
-      "showName": "TNA Wrestling: Pehalwani Patakha",
-      "description": "Highlights from the IMPACT wrestling series of TNA Wrestling, where professional wrestlers compete against each other for victory, in Hindi.",
-      "startDate": "2026-11-02T17:15:00",
-      "endDate": "2026-11-02T18:15:00",
-      "showTime": "17:15:00",
-      "endTime": "18:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b513751135ee37fd96b2f29eb568c57d.jpg"
-    },
-    {
-      "serverDate": "2026-11-02",
-      "showName": "WWE LFG",
-      "description": "An inside look at what it truly takes to make it in the WWE. Paul Levesque, Shawn Michaels and weekly regular coaches Undertaker, Booker T, Mickie James and Bubba Ray Dudley mentor a new generation.",
-      "startDate": "2026-11-02T18:15:00",
-      "endDate": "2026-11-02T19:15:00",
-      "showTime": "18:15:00",
-      "endTime": "19:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/da882d6424885388c98cbe57c3164dac.jpg"
-    },
-    {
-      "serverDate": "2026-11-02",
-      "showName": "WWE's Greatest Moments",
-      "description": "Showcasing iconic events that have shaped WWE history and thrilled fans for decades, from legendary heroes to shocking betrayals and epic battles.",
-      "startDate": "2026-11-02T19:15:00",
-      "endDate": "2026-11-02T19:45:00",
-      "showTime": "19:15:00",
-      "endTime": "19:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6800244e2e6ffd670af1383cba03865b.jpg"
-    },
-    {
-      "serverDate": "2026-11-02",
-      "showName": "Showtime with Rohit Sharma",
-      "description": "The host has a conversation with professional cricketer Rohit Sharma regarding his history and fondest memories with the franchise of Mumbai Indians.",
-      "startDate": "2026-11-02T19:45:00",
-      "endDate": "2026-11-02T20:00:00",
-      "showTime": "19:45:00",
-      "endTime": "20:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8d731e73153914fb448bcf98c6cb0973.jpg"
-    },
-    {
-      "serverDate": "2026-11-02",
-      "showName": "MLS Soccer",
-      "description": "Professional football players compete against each other in the MLS Soccer.",
-      "startDate": "2026-11-02T20:00:00",
-      "endDate": "2026-11-02T22:00:00",
-      "showTime": "20:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a30f65b358a5cb1d1a65bceeb31f9e6.jpg"
-    },
-    {
-      "serverDate": "2026-11-02",
-      "showName": "AEW Dynamite",
-      "description": "Professional wrestlers compete against each other in the AEW Dynamite event in order to emerge victorious and win the title.",
-      "startDate": "2026-11-02T22:00:00",
-      "endDate": "2026-11-02T23:59:59",
-      "showTime": "22:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e253288f0a950e0a0a098e3abba28124.jpg"
-    },
-    {
       "serverDate": "2026-11-03",
       "showName": "Big Cricket League",
       "description": "Coverage of the professional cricket league.",
@@ -284,14 +97,14 @@
     },
     {
       "serverDate": "2026-11-03",
-      "showName": "Test Cricket",
-      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
+      "showName": "BWF World Tour Badminton",
+      "description": "Elite shuttlers compete in international competitions across the BWF World Tour, vying for ranking points and prestigious titles.",
       "startDate": "2026-11-03T14:00:00",
       "endDate": "2026-11-03T15:00:00",
       "showTime": "14:00:00",
       "endTime": "15:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccf4822f49a919f73b0f61ceb94337a0.jpg"
     },
     {
       "serverDate": "2026-11-03",
@@ -339,25 +152,14 @@
     },
     {
       "serverDate": "2026-11-03",
-      "showName": "WWE's Greatest Moments",
-      "description": "Showcasing iconic events that have shaped WWE history and thrilled fans for decades, from legendary heroes to shocking betrayals and epic battles.",
+      "showName": "BWF World Tour Badminton",
+      "description": "Elite shuttlers compete in international competitions across the BWF World Tour, vying for ranking points and prestigious titles.",
       "startDate": "2026-11-03T23:00:00",
-      "endDate": "2026-11-03T23:30:00",
-      "showTime": "23:00:00",
-      "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6800244e2e6ffd670af1383cba03865b.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "AEW: WrestleDream",
-      "description": "Professional wrestlers demonstrate incredible strength and compete against one another in the AEW WrestleDream to emerge victorious.",
-      "startDate": "2026-11-03T23:30:00",
       "endDate": "2026-11-03T23:59:59",
-      "showTime": "23:30:00",
+      "showTime": "23:00:00",
       "endTime": "23:59:59",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c7db14392322de779d5a5fe9a4f6ee08.jpg"
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccf4822f49a919f73b0f61ceb94337a0.jpg"
     },
     {
       "serverDate": "2026-11-04",
@@ -493,25 +295,25 @@
     },
     {
       "serverDate": "2026-11-04",
-      "showName": "TNA Impact",
-      "description": "Professional wrestlers compete against some of the renowned names in one of the most recognised wrestling competitions in order to win.",
+      "showName": "BWF World Tour Badminton",
+      "description": "Elite shuttlers compete in international competitions across the BWF World Tour, vying for ranking points and prestigious titles.",
       "startDate": "2026-11-04T21:15:00",
-      "endDate": "2026-11-04T23:15:00",
+      "endDate": "2026-11-04T22:15:00",
       "showTime": "21:15:00",
-      "endTime": "23:15:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8b953fa1df7180f6617abb07c677a0f.jpg"
+      "endTime": "22:15:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccf4822f49a919f73b0f61ceb94337a0.jpg"
     },
     {
       "serverDate": "2026-11-04",
-      "showName": "IMPACT in 60",
-      "description": "The filmmaker highlights some of the most memorable matches, wrestlers, championships, factions and more from the 18-year history of Impact Wrestling.",
-      "startDate": "2026-11-04T23:15:00",
+      "showName": "TNA Impact",
+      "description": "Professional wrestlers compete against some of the renowned names in one of the most recognised wrestling competitions in order to win.",
+      "startDate": "2026-11-04T22:15:00",
       "endDate": "2026-11-04T23:59:59",
-      "showTime": "23:15:00",
+      "showTime": "22:15:00",
       "endTime": "23:59:59",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/60bc6739423c38778056a36fbb5d1915.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8b953fa1df7180f6617abb07c677a0f.jpg"
     },
     {
       "serverDate": "2026-11-05",
@@ -691,14 +493,14 @@
     },
     {
       "serverDate": "2026-11-06",
-      "showName": "TNA Wrestling: Greatest Matches",
-      "description": "TNA Wrestling: Greatest Matches",
+      "showName": "BWF World Tour Badminton",
+      "description": "Elite shuttlers compete in international competitions across the BWF World Tour, vying for ranking points and prestigious titles.",
       "startDate": "2026-11-06T07:00:00",
       "endDate": "2026-11-06T08:00:00",
       "showTime": "07:00:00",
       "endTime": "08:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4b5769d79865a15b7d73c69e70de78a0.jpg"
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccf4822f49a919f73b0f61ceb94337a0.jpg"
     },
     {
       "serverDate": "2026-11-06",

@@ -1156,22 +1156,11 @@
       "showName": "One World",
       "description": "The host delivers the latest headlines from across the globe and discusses a myriad of topics with contributors and experts.",
       "startDate": "2026-11-05T21:30:00",
-      "endDate": "2026-11-05T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a4f72419074efbbea62a600c90e3112.jpg"
-    },
-    {
-      "serverDate": "2026-11-05",
-      "showName": "CNN Creators",
-      "description": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
-      "startDate": "2026-11-05T22:00:00",
       "endDate": "2026-11-05T22:30:00",
-      "showTime": "22:00:00",
+      "showTime": "21:30:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e8919db83d25033571668ce1234ff461.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a4f72419074efbbea62a600c90e3112.jpg"
     },
     {
       "serverDate": "2026-11-05",
@@ -1310,33 +1299,11 @@
       "showName": "Laura Coates Live",
       "description": "Host Laura Coates uses her experience as a senior legal analyst to discuss important matters with newsmakers and thought leaders, live.",
       "startDate": "2026-11-06T09:30:00",
-      "endDate": "2026-11-06T10:30:00",
-      "showTime": "09:30:00",
-      "endTime": "10:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d16a9976ea510c9790a555d1a6c4fbb9.jpg"
-    },
-    {
-      "serverDate": "2026-11-06",
-      "showName": "The Story Is With Elex Michaelson",
-      "description": "The host, Elex Michaelson, presents the latest news and updates on political issues, featuring in-depth interviews with key political figures and weekly analyses of current events.",
-      "startDate": "2026-11-06T10:30:00",
-      "endDate": "2026-11-06T11:30:00",
-      "showTime": "10:30:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a9e36aa990b30b47c6163f999d3f8c53.jpg"
-    },
-    {
-      "serverDate": "2026-11-06",
-      "showName": "The Story Is With Elex Michaelson",
-      "description": "The host, Elex Michaelson, presents the latest news and updates on political issues, featuring in-depth interviews with key political figures and weekly analyses of current events.",
-      "startDate": "2026-11-06T11:30:00",
       "endDate": "2026-11-06T12:30:00",
-      "showTime": "11:30:00",
+      "showTime": "09:30:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a9e36aa990b30b47c6163f999d3f8c53.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d16a9976ea510c9790a555d1a6c4fbb9.jpg"
     },
     {
       "serverDate": "2026-11-06",
@@ -1464,11 +1431,22 @@
       "showName": "One World",
       "description": "The host delivers the latest headlines from across the globe and discusses a myriad of topics with contributors and experts.",
       "startDate": "2026-11-06T21:30:00",
-      "endDate": "2026-11-06T22:30:00",
+      "endDate": "2026-11-06T22:00:00",
       "showTime": "21:30:00",
-      "endTime": "22:30:00",
+      "endTime": "22:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a4f72419074efbbea62a600c90e3112.jpg"
+    },
+    {
+      "serverDate": "2026-11-06",
+      "showName": "CNN Creators",
+      "description": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.",
+      "startDate": "2026-11-06T22:00:00",
+      "endDate": "2026-11-06T22:30:00",
+      "showTime": "22:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e8919db83d25033571668ce1234ff461.jpg"
     },
     {
       "serverDate": "2026-11-06",
