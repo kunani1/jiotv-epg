@@ -1354,22 +1354,11 @@
       "showName": "Journeys in Japan",
       "description": "Exploring a different side of Japan to meet the locals, discover traditions and cultures not usually found in guidebooks. Offering a whole array of top travel tips to show the many unique places in the country.",
       "startDate": "2026-11-04T03:00:00",
-      "endDate": "2026-11-04T03:30:00",
-      "showTime": "03:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0c76acf1f5c5241dd5800e0398b778e3.jpg"
-    },
-    {
-      "serverDate": "2026-11-04",
-      "showName": "NHK Newsline",
-      "description": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
-      "startDate": "2026-11-04T03:30:00",
       "endDate": "2026-11-04T03:45:00",
-      "showTime": "03:30:00",
+      "showTime": "03:00:00",
       "endTime": "03:45:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/594d35336a1c2503ee285578a714c2c0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0c76acf1f5c5241dd5800e0398b778e3.jpg"
     },
     {
       "serverDate": "2026-11-04",
@@ -1607,11 +1596,44 @@
       "showName": "Across the Divide",
       "description": "A Catholic university in Bethlehem that is caught in the Israeli-Palestinian conflict.",
       "startDate": "2026-11-04T10:00:00",
-      "endDate": "2026-11-04T10:30:00",
+      "endDate": "2026-11-04T10:10:00",
       "showTime": "10:00:00",
-      "endTime": "10:30:00",
+      "endTime": "10:10:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/077b4d4d1caec1477c0711f55a76ed55.jpg"
+    },
+    {
+      "serverDate": "2026-11-04",
+      "showName": "NHK Newsline",
+      "description": "Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.",
+      "startDate": "2026-11-04T10:10:00",
+      "endDate": "2026-11-04T10:12:00",
+      "showTime": "10:10:00",
+      "endTime": "10:12:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/594d35336a1c2503ee285578a714c2c0.jpg"
+    },
+    {
+      "serverDate": "2026-11-04",
+      "showName": "Heritage",
+      "description": "From documentaries to entertainment, explore Japanese culture.",
+      "startDate": "2026-11-04T10:12:00",
+      "endDate": "2026-11-04T10:27:00",
+      "showTime": "10:12:00",
+      "endTime": "10:27:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/442b429224c2dbae9f2aad198f1e8c0d.jpg"
+    },
+    {
+      "serverDate": "2026-11-04",
+      "showName": "Nun's Cookbook",
+      "description": "Highlighting the nuns of Otowasan Kannonji Temple as they cook up a storm. They invite the viewer inside their kitchen and showcase how to prepare tasty delicacies from their seasonal cookbook.",
+      "startDate": "2026-11-04T10:27:00",
+      "endDate": "2026-11-04T10:30:00",
+      "showTime": "10:27:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6b7ddb32e874503bb87b1da6a3b00a7a.jpg"
     },
     {
       "serverDate": "2026-11-04",
