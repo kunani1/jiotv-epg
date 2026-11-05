@@ -1013,9 +1013,9 @@
       "showName": "DW News",
       "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
       "startDate": "2026-11-04T05:30:00",
-      "endDate": "2026-11-04T05:33:00",
+      "endDate": "2026-11-04T05:32:00",
       "showTime": "05:30:00",
-      "endTime": "05:33:00",
+      "endTime": "05:32:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
     },
@@ -1023,9 +1023,9 @@
       "serverDate": "2026-11-04",
       "showName": "DocFilm",
       "description": "Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.",
-      "startDate": "2026-11-04T05:33:00",
+      "startDate": "2026-11-04T05:32:00",
       "endDate": "2026-11-04T06:30:00",
-      "showTime": "05:33:00",
+      "showTime": "05:32:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a05fe6bc6bd78c44ed6df66de6f0d727.jpg"
@@ -1035,11 +1035,22 @@
       "showName": "DW News",
       "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
       "startDate": "2026-11-04T06:30:00",
-      "endDate": "2026-11-04T09:30:00",
+      "endDate": "2026-11-04T09:00:00",
       "showTime": "06:30:00",
-      "endTime": "09:30:00",
+      "endTime": "09:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-11-04",
+      "showName": "Close Up",
+      "description": "In-depth analysis and reporting on topical political issues and newsworthy events that are happening all over the world.",
+      "startDate": "2026-11-04T09:00:00",
+      "endDate": "2026-11-04T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7b51acf4b6494516d0389546a004ffe.jpg"
     },
     {
       "serverDate": "2026-11-04",
@@ -1101,33 +1112,33 @@
       "showName": "DW News",
       "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
       "startDate": "2026-11-04T11:30:00",
-      "endDate": "2026-11-04T12:30:00",
+      "endDate": "2026-11-04T11:32:00",
       "showTime": "11:30:00",
-      "endTime": "12:30:00",
+      "endTime": "11:32:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-11-04",
+      "showName": "DocFilm",
+      "description": "Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.",
+      "startDate": "2026-11-04T11:32:00",
+      "endDate": "2026-11-04T12:30:00",
+      "showTime": "11:32:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a05fe6bc6bd78c44ed6df66de6f0d727.jpg"
     },
     {
       "serverDate": "2026-11-04",
       "showName": "DW News",
       "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
       "startDate": "2026-11-04T12:30:00",
-      "endDate": "2026-11-04T12:32:00",
-      "showTime": "12:30:00",
-      "endTime": "12:32:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
-    },
-    {
-      "serverDate": "2026-11-04",
-      "showName": "DW News Focus",
-      "description": "News, off-beat stories and analysis of German and international affairs.",
-      "startDate": "2026-11-04T12:32:00",
       "endDate": "2026-11-04T12:45:00",
-      "showTime": "12:32:00",
+      "showTime": "12:30:00",
       "endTime": "12:45:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/084ab89d61a3dbab25a9ebd8028612f6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
     },
     {
       "serverDate": "2026-11-04",
@@ -1164,22 +1175,11 @@
     },
     {
       "serverDate": "2026-11-04",
-      "showName": "DW News",
-      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
-      "startDate": "2026-11-04T14:30:00",
-      "endDate": "2026-11-04T14:33:00",
-      "showTime": "14:30:00",
-      "endTime": "14:33:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
-    },
-    {
-      "serverDate": "2026-11-04",
       "showName": "DocFilm",
       "description": "Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.",
-      "startDate": "2026-11-04T14:33:00",
+      "startDate": "2026-11-04T14:30:00",
       "endDate": "2026-11-04T15:30:00",
-      "showTime": "14:33:00",
+      "showTime": "14:30:00",
       "endTime": "15:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a05fe6bc6bd78c44ed6df66de6f0d727.jpg"
@@ -1362,14 +1362,14 @@
     },
     {
       "serverDate": "2026-11-04",
-      "showName": "Eco India",
-      "description": "Featuring stories focused on creative and high-tech solutions to various environmental and socio-economic challenges faced by people across India and beyond.",
+      "showName": "DW News Focus",
+      "description": "News, off-beat stories and analysis of German and international affairs.",
       "startDate": "2026-11-04T21:00:00",
       "endDate": "2026-11-04T21:30:00",
       "showTime": "21:00:00",
       "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/313b47cccefc44c42f4359c2e91a8d67.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/084ab89d61a3dbab25a9ebd8028612f6.jpg"
     },
     {
       "serverDate": "2026-11-04",
@@ -3067,14 +3067,14 @@
     },
     {
       "serverDate": "2026-11-07",
-      "showName": "Eco Africa - The Environment Magazine",
-      "description": "Presents visionary and inspiring concepts and practices from Africa and Europe that can help improve the environment.",
+      "showName": "Eco Africa",
+      "description": "Focusing on environmental issues facing the African continent, with close-ups on sustainability projects, technology, and social change.",
       "startDate": "2026-11-07T01:00:00",
       "endDate": "2026-11-07T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5ddf148c07ff394c9014af9250d892fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd5e870824134bd86de9919fed31aea9.jpg"
     },
     {
       "serverDate": "2026-11-07",
@@ -4519,14 +4519,14 @@
     },
     {
       "serverDate": "2026-11-08",
-      "showName": "Eco Africa - The Environment Magazine",
-      "description": "Presents visionary and inspiring concepts and practices from Africa and Europe that can help improve the environment.",
+      "showName": "Eco Africa",
+      "description": "Focusing on environmental issues facing the African continent, with close-ups on sustainability projects, technology, and social change.",
       "startDate": "2026-11-08T18:00:00",
       "endDate": "2026-11-08T18:30:00",
       "showTime": "18:00:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5ddf148c07ff394c9014af9250d892fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd5e870824134bd86de9919fed31aea9.jpg"
     },
     {
       "serverDate": "2026-11-08",
@@ -5157,14 +5157,14 @@
     },
     {
       "serverDate": "2026-11-09",
-      "showName": "Eco Africa - The Environment Magazine",
-      "description": "Presents visionary and inspiring concepts and practices from Africa and Europe that can help improve the environment.",
+      "showName": "Eco Africa",
+      "description": "Focusing on environmental issues facing the African continent, with close-ups on sustainability projects, technology, and social change.",
       "startDate": "2026-11-09T12:00:00",
       "endDate": "2026-11-09T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5ddf148c07ff394c9014af9250d892fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd5e870824134bd86de9919fed31aea9.jpg"
     },
     {
       "serverDate": "2026-11-09",
@@ -5212,14 +5212,14 @@
     },
     {
       "serverDate": "2026-11-09",
-      "showName": "DocFilm",
-      "description": "Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.",
+      "showName": "Close Up",
+      "description": "In-depth analysis and reporting on topical political issues and newsworthy events that are happening all over the world.",
       "startDate": "2026-11-09T13:32:00",
       "endDate": "2026-11-09T14:00:00",
       "showTime": "13:32:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a05fe6bc6bd78c44ed6df66de6f0d727.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7b51acf4b6494516d0389546a004ffe.jpg"
     },
     {
       "serverDate": "2026-11-09",
@@ -5311,14 +5311,14 @@
     },
     {
       "serverDate": "2026-11-09",
-      "showName": "Eco Africa - The Environment Magazine",
-      "description": "Presents visionary and inspiring concepts and practices from Africa and Europe that can help improve the environment.",
+      "showName": "Eco Africa",
+      "description": "Focusing on environmental issues facing the African continent, with close-ups on sustainability projects, technology, and social change.",
       "startDate": "2026-11-09T16:32:00",
       "endDate": "2026-11-09T17:00:00",
       "showTime": "16:32:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5ddf148c07ff394c9014af9250d892fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd5e870824134bd86de9919fed31aea9.jpg"
     },
     {
       "serverDate": "2026-11-09",
@@ -5740,14 +5740,14 @@
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "Eco Africa - The Environment Magazine",
-      "description": "Presents visionary and inspiring concepts and practices from Africa and Europe that can help improve the environment.",
+      "showName": "Eco Africa",
+      "description": "Focusing on environmental issues facing the African continent, with close-ups on sustainability projects, technology, and social change.",
       "startDate": "2026-11-10T06:00:00",
       "endDate": "2026-11-10T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5ddf148c07ff394c9014af9250d892fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd5e870824134bd86de9919fed31aea9.jpg"
     },
     {
       "serverDate": "2026-11-10",
@@ -6004,14 +6004,14 @@
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "Eco Africa - The Environment Magazine",
-      "description": "Presents visionary and inspiring concepts and practices from Africa and Europe that can help improve the environment.",
+      "showName": "Eco Africa",
+      "description": "Focusing on environmental issues facing the African continent, with close-ups on sustainability projects, technology, and social change.",
       "startDate": "2026-11-10T14:00:00",
       "endDate": "2026-11-10T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5ddf148c07ff394c9014af9250d892fb.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd5e870824134bd86de9919fed31aea9.jpg"
     },
     {
       "serverDate": "2026-11-10",

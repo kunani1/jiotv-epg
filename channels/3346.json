@@ -8,468 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Yahoo_Finance.png",
   "programs": [
     {
-      "serverDate": "2026-11-03",
-      "showName": "Sozzi Unleashed",
-      "description": "Executive Editor Brian Sozzi delivers sharp takes and interviews on the biggest stories shaping business.",
-      "startDate": "2026-11-03T00:00:00",
-      "endDate": "2026-11-03T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1fb3fe8b374ef9076c93e45b817ac302.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "In the Loop",
-      "description": "Ejaaz Ahamadeen connects the biggest stories across AI, venture capital and markets.",
-      "startDate": "2026-11-03T00:30:00",
-      "endDate": "2026-11-03T00:52:00",
-      "showTime": "00:30:00",
-      "endTime": "00:52:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-03T00:52:00",
-      "endDate": "2026-11-03T01:00:00",
-      "showTime": "00:52:00",
-      "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Power Players with Brian Sozzi",
-      "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
-      "startDate": "2026-11-03T01:00:00",
-      "endDate": "2026-11-03T01:30:00",
-      "showTime": "01:00:00",
-      "endTime": "01:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "The Daily Wolf With Scott Melker",
-      "description": "Scott Melker leverages real-time data and key stories to give you the upper hand in the crypto markets.",
-      "startDate": "2026-11-03T01:30:00",
-      "endDate": "2026-11-03T01:45:00",
-      "showTime": "01:30:00",
-      "endTime": "01:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-03T01:45:00",
-      "endDate": "2026-11-03T02:00:00",
-      "showTime": "01:45:00",
-      "endTime": "02:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Power Players with Brian Sozzi",
-      "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
-      "startDate": "2026-11-03T02:00:00",
-      "endDate": "2026-11-03T02:30:00",
-      "showTime": "02:00:00",
-      "endTime": "02:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Market Domination: Overtime",
-      "description": "The market may have closed, but the action continues. We analyze the day's top takeaways.",
-      "startDate": "2026-11-03T02:30:00",
-      "endDate": "2026-11-03T03:30:00",
-      "showTime": "02:30:00",
-      "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2ab68623632e4357ec334e9242ee811.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "In the Loop",
-      "description": "Ejaaz Ahamadeen connects the biggest stories across AI, venture capital and markets.",
-      "startDate": "2026-11-03T03:30:00",
-      "endDate": "2026-11-03T03:52:00",
-      "showTime": "03:30:00",
-      "endTime": "03:52:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-03T03:52:00",
-      "endDate": "2026-11-03T04:00:00",
-      "showTime": "03:52:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "The Daily Wolf With Scott Melker",
-      "description": "Scott Melker leverages real-time data and key stories to give you the upper hand in the crypto markets.",
-      "startDate": "2026-11-03T04:00:00",
-      "endDate": "2026-11-03T04:15:00",
-      "showTime": "04:00:00",
-      "endTime": "04:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-03T04:15:00",
-      "endDate": "2026-11-03T04:30:00",
-      "showTime": "04:15:00",
-      "endTime": "04:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Market Movers",
-      "description": "Yahoo Finance highlights key moments in the previous trading session.",
-      "startDate": "2026-11-03T04:30:00",
-      "endDate": "2026-11-03T05:30:00",
-      "showTime": "04:30:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/caa02c448a3cec6887822ff6566050d4.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Sozzi Unleashed",
-      "description": "Executive Editor Brian Sozzi delivers sharp takes and interviews on the biggest stories shaping business.",
-      "startDate": "2026-11-03T05:30:00",
-      "endDate": "2026-11-03T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1fb3fe8b374ef9076c93e45b817ac302.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Power Players with Brian Sozzi",
-      "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
-      "startDate": "2026-11-03T06:00:00",
-      "endDate": "2026-11-03T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Power Players with Brian Sozzi",
-      "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
-      "startDate": "2026-11-03T06:30:00",
-      "endDate": "2026-11-03T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "How They Run With Ryan Patel",
-      "description": "Going behind the scenes to reveal how today's business leaders actually operate.",
-      "startDate": "2026-11-03T07:00:00",
-      "endDate": "2026-11-03T07:30:00",
-      "showTime": "07:00:00",
-      "endTime": "07:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29d68b64c579492124a9945c54c7d6b9.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "The Big Idea",
-      "description": "Big ideas for small businesses. Elizabeth Gore shares tools,trends & tactics to grow in any economy.",
-      "startDate": "2026-11-03T07:30:00",
-      "endDate": "2026-11-03T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7432f01f76e5f2e1c30e38a3a21869d8.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Built Different With Ian Schwartzman",
-      "description": "Ian Schwartzman interviews business operators, breaking down the plans and journeys behind their success.",
-      "startDate": "2026-11-03T08:00:00",
-      "endDate": "2026-11-03T08:30:00",
-      "showTime": "08:00:00",
-      "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb6549c37023474d4ebdae0a104cc32e.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "How They Run With Ryan Patel",
-      "description": "Going behind the scenes to reveal how today's business leaders actually operate.",
-      "startDate": "2026-11-03T08:30:00",
-      "endDate": "2026-11-03T09:00:00",
-      "showTime": "08:30:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29d68b64c579492124a9945c54c7d6b9.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Power Players with Brian Sozzi",
-      "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
-      "startDate": "2026-11-03T09:00:00",
-      "endDate": "2026-11-03T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Market Domination: Overtime",
-      "description": "The market may have closed, but the action continues. We analyze the day's top takeaways.",
-      "startDate": "2026-11-03T09:30:00",
-      "endDate": "2026-11-03T10:30:00",
-      "showTime": "09:30:00",
-      "endTime": "10:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2ab68623632e4357ec334e9242ee811.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Morning Brew Daily",
-      "description": "A daily talk show that covers the latest news on business, the economy & everything else.",
-      "startDate": "2026-11-03T10:30:00",
-      "endDate": "2026-11-03T11:00:00",
-      "showTime": "10:30:00",
-      "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c8aa09c87eb87098dc4da7791c990b35.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "The 8:30",
-      "description": "The 8:30",
-      "startDate": "2026-11-03T11:00:00",
-      "endDate": "2026-11-03T12:00:00",
-      "showTime": "11:00:00",
-      "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f3a64ad689e4fff47f2b9729af32e1a.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Sozzi Unleashed",
-      "description": "Executive Editor Brian Sozzi delivers sharp takes and interviews on the biggest stories shaping business.",
-      "startDate": "2026-11-03T12:00:00",
-      "endDate": "2026-11-03T12:30:00",
-      "showTime": "12:00:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1fb3fe8b374ef9076c93e45b817ac302.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Market Hang",
-      "description": "An unscripted midday conversation, reacting to the trading day in real time and developments that move markets.",
-      "startDate": "2026-11-03T12:30:00",
-      "endDate": "2026-11-03T13:30:00",
-      "showTime": "12:30:00",
-      "endTime": "13:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d57f7cfca95784a981a7a0f6cf324b36.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Market Movers",
-      "description": "Yahoo Finance highlights key moments in the previous trading session.",
-      "startDate": "2026-11-03T13:30:00",
-      "endDate": "2026-11-03T14:30:00",
-      "showTime": "13:30:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/caa02c448a3cec6887822ff6566050d4.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Market Domination: Overtime",
-      "description": "The market may have closed, but the action continues. We analyze the day's top takeaways.",
-      "startDate": "2026-11-03T14:30:00",
-      "endDate": "2026-11-03T15:30:00",
-      "showTime": "14:30:00",
-      "endTime": "15:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2ab68623632e4357ec334e9242ee811.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Sozzi Unleashed",
-      "description": "Executive Editor Brian Sozzi delivers sharp takes and interviews on the biggest stories shaping business.",
-      "startDate": "2026-11-03T15:30:00",
-      "endDate": "2026-11-03T16:00:00",
-      "showTime": "15:30:00",
-      "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1fb3fe8b374ef9076c93e45b817ac302.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Power Players with Brian Sozzi",
-      "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
-      "startDate": "2026-11-03T16:00:00",
-      "endDate": "2026-11-03T16:30:00",
-      "showTime": "16:00:00",
-      "endTime": "16:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "The Big Idea",
-      "description": "Big ideas for small businesses. Elizabeth Gore shares tools,trends & tactics to grow in any economy.",
-      "startDate": "2026-11-03T16:30:00",
-      "endDate": "2026-11-03T17:00:00",
-      "showTime": "16:30:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7432f01f76e5f2e1c30e38a3a21869d8.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Built Different With Ian Schwartzman",
-      "description": "Ian Schwartzman interviews business operators, breaking down the plans and journeys behind their success.",
-      "startDate": "2026-11-03T17:00:00",
-      "endDate": "2026-11-03T17:30:00",
-      "showTime": "17:00:00",
-      "endTime": "17:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb6549c37023474d4ebdae0a104cc32e.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Market Movers",
-      "description": "Yahoo Finance highlights key moments in the previous trading session.",
-      "startDate": "2026-11-03T17:30:00",
-      "endDate": "2026-11-03T18:30:00",
-      "showTime": "17:30:00",
-      "endTime": "18:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/caa02c448a3cec6887822ff6566050d4.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "The Big Idea",
-      "description": "Big ideas for small businesses. Elizabeth Gore shares tools,trends & tactics to grow in any economy.",
-      "startDate": "2026-11-03T18:30:00",
-      "endDate": "2026-11-03T19:00:00",
-      "showTime": "18:30:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7432f01f76e5f2e1c30e38a3a21869d8.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "The 8:30",
-      "description": "The 8:30",
-      "startDate": "2026-11-03T19:00:00",
-      "endDate": "2026-11-03T20:00:00",
-      "showTime": "19:00:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f3a64ad689e4fff47f2b9729af32e1a.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Sozzi Unleashed",
-      "description": "Executive Editor Brian Sozzi delivers sharp takes and interviews on the biggest stories shaping business.",
-      "startDate": "2026-11-03T20:00:00",
-      "endDate": "2026-11-03T20:30:00",
-      "showTime": "20:00:00",
-      "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1fb3fe8b374ef9076c93e45b817ac302.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Morning Brew Daily",
-      "description": "A daily talk show that covers the latest news on business, the economy & everything else.",
-      "startDate": "2026-11-03T20:30:00",
-      "endDate": "2026-11-03T21:00:00",
-      "showTime": "20:30:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c8aa09c87eb87098dc4da7791c990b35.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "The 8:30",
-      "description": "The 8:30",
-      "startDate": "2026-11-03T21:00:00",
-      "endDate": "2026-11-03T22:00:00",
-      "showTime": "21:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f3a64ad689e4fff47f2b9729af32e1a.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "The Big Idea",
-      "description": "Big ideas for small businesses. Elizabeth Gore shares tools,trends & tactics to grow in any economy.",
-      "startDate": "2026-11-03T22:00:00",
-      "endDate": "2026-11-03T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7432f01f76e5f2e1c30e38a3a21869d8.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "The Daily Wolf With Scott Melker",
-      "description": "Scott Melker leverages real-time data and key stories to give you the upper hand in the crypto markets.",
-      "startDate": "2026-11-03T22:30:00",
-      "endDate": "2026-11-03T22:45:00",
-      "showTime": "22:30:00",
-      "endTime": "22:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-03T22:45:00",
-      "endDate": "2026-11-03T23:00:00",
-      "showTime": "22:45:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
-    },
-    {
-      "serverDate": "2026-11-03",
-      "showName": "Market Hang",
-      "description": "An unscripted midday conversation, reacting to the trading day in real time and developments that move markets.",
-      "startDate": "2026-11-03T23:00:00",
-      "endDate": "2026-11-03T23:59:59",
-      "showTime": "23:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d57f7cfca95784a981a7a0f6cf324b36.jpg"
-    },
-    {
       "serverDate": "2026-11-04",
       "showName": "Sozzi Unleashed",
       "description": "Executive Editor Brian Sozzi delivers sharp takes and interviews on the biggest stories shaping business.",
@@ -881,22 +419,11 @@
       "showName": "The Daily Wolf With Scott Melker",
       "description": "Scott Melker leverages real-time data and key stories to give you the upper hand in the crypto markets.",
       "startDate": "2026-11-04T22:30:00",
-      "endDate": "2026-11-04T22:45:00",
-      "showTime": "22:30:00",
-      "endTime": "22:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
-    },
-    {
-      "serverDate": "2026-11-04",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-04T22:45:00",
       "endDate": "2026-11-04T23:00:00",
-      "showTime": "22:45:00",
+      "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
     },
     {
       "serverDate": "2026-11-04",
@@ -947,22 +474,11 @@
       "showName": "The Daily Wolf With Scott Melker",
       "description": "Scott Melker leverages real-time data and key stories to give you the upper hand in the crypto markets.",
       "startDate": "2026-11-05T01:30:00",
-      "endDate": "2026-11-05T01:45:00",
-      "showTime": "01:30:00",
-      "endTime": "01:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
-    },
-    {
-      "serverDate": "2026-11-05",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-05T01:45:00",
       "endDate": "2026-11-05T02:00:00",
-      "showTime": "01:45:00",
+      "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
     },
     {
       "serverDate": "2026-11-05",
@@ -1002,22 +518,11 @@
       "showName": "The Daily Wolf With Scott Melker",
       "description": "Scott Melker leverages real-time data and key stories to give you the upper hand in the crypto markets.",
       "startDate": "2026-11-05T04:00:00",
-      "endDate": "2026-11-05T04:15:00",
-      "showTime": "04:00:00",
-      "endTime": "04:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
-    },
-    {
-      "serverDate": "2026-11-05",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-05T04:15:00",
       "endDate": "2026-11-05T04:30:00",
-      "showTime": "04:15:00",
+      "showTime": "04:00:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
     },
     {
       "serverDate": "2026-11-05",
@@ -1321,22 +826,11 @@
       "showName": "The Daily Wolf With Scott Melker",
       "description": "Scott Melker leverages real-time data and key stories to give you the upper hand in the crypto markets.",
       "startDate": "2026-11-05T22:30:00",
-      "endDate": "2026-11-05T22:45:00",
-      "showTime": "22:30:00",
-      "endTime": "22:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
-    },
-    {
-      "serverDate": "2026-11-05",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-05T22:45:00",
       "endDate": "2026-11-05T23:00:00",
-      "showTime": "22:45:00",
+      "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
     },
     {
       "serverDate": "2026-11-05",
@@ -1387,22 +881,11 @@
       "showName": "The Daily Wolf With Scott Melker",
       "description": "Scott Melker leverages real-time data and key stories to give you the upper hand in the crypto markets.",
       "startDate": "2026-11-06T01:30:00",
-      "endDate": "2026-11-06T01:45:00",
-      "showTime": "01:30:00",
-      "endTime": "01:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
-    },
-    {
-      "serverDate": "2026-11-06",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-06T01:45:00",
       "endDate": "2026-11-06T02:00:00",
-      "showTime": "01:45:00",
+      "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
     },
     {
       "serverDate": "2026-11-06",
@@ -1442,22 +925,11 @@
       "showName": "The Daily Wolf With Scott Melker",
       "description": "Scott Melker leverages real-time data and key stories to give you the upper hand in the crypto markets.",
       "startDate": "2026-11-06T04:00:00",
-      "endDate": "2026-11-06T04:15:00",
-      "showTime": "04:00:00",
-      "endTime": "04:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
-    },
-    {
-      "serverDate": "2026-11-06",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-06T04:15:00",
       "endDate": "2026-11-06T04:30:00",
-      "showTime": "04:15:00",
+      "showTime": "04:00:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
     },
     {
       "serverDate": "2026-11-06",
@@ -1761,22 +1233,11 @@
       "showName": "The Daily Wolf With Scott Melker",
       "description": "Scott Melker leverages real-time data and key stories to give you the upper hand in the crypto markets.",
       "startDate": "2026-11-06T22:30:00",
-      "endDate": "2026-11-06T22:45:00",
-      "showTime": "22:30:00",
-      "endTime": "22:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
-    },
-    {
-      "serverDate": "2026-11-06",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-06T22:45:00",
       "endDate": "2026-11-06T23:00:00",
-      "showTime": "22:45:00",
+      "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
     },
     {
       "serverDate": "2026-11-06",
@@ -1827,11 +1288,22 @@
       "showName": "Built Different With Ian Schwartzman",
       "description": "Ian Schwartzman interviews business operators, breaking down the plans and journeys behind their success.",
       "startDate": "2026-11-07T01:30:00",
-      "endDate": "2026-11-07T02:30:00",
+      "endDate": "2026-11-07T02:00:00",
       "showTime": "01:30:00",
-      "endTime": "02:30:00",
+      "endTime": "02:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb6549c37023474d4ebdae0a104cc32e.jpg"
+    },
+    {
+      "serverDate": "2026-11-07",
+      "showName": "Power Players with Brian Sozzi",
+      "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
+      "startDate": "2026-11-07T02:00:00",
+      "endDate": "2026-11-07T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
     },
     {
       "serverDate": "2026-11-07",
@@ -1860,22 +1332,11 @@
       "showName": "The Daily Wolf With Scott Melker",
       "description": "Scott Melker leverages real-time data and key stories to give you the upper hand in the crypto markets.",
       "startDate": "2026-11-07T04:00:00",
-      "endDate": "2026-11-07T04:15:00",
-      "showTime": "04:00:00",
-      "endTime": "04:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
-    },
-    {
-      "serverDate": "2026-11-07",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-07T04:15:00",
       "endDate": "2026-11-07T04:30:00",
-      "showTime": "04:15:00",
+      "showTime": "04:00:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
     },
     {
       "serverDate": "2026-11-07",
@@ -2267,66 +1728,22 @@
       "showName": "In the Loop",
       "description": "Ejaaz Ahamadeen connects the biggest stories across AI, venture capital and markets.",
       "startDate": "2026-11-08T03:30:00",
-      "endDate": "2026-11-08T03:53:00",
-      "showTime": "03:30:00",
-      "endTime": "03:53:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-08T03:53:00",
-      "endDate": "2026-11-08T04:00:00",
-      "showTime": "03:53:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "In the Loop",
-      "description": "Ejaaz Ahamadeen connects the biggest stories across AI, venture capital and markets.",
-      "startDate": "2026-11-08T04:00:00",
-      "endDate": "2026-11-08T04:22:00",
-      "showTime": "04:00:00",
-      "endTime": "04:22:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-08T04:22:00",
       "endDate": "2026-11-08T04:30:00",
-      "showTime": "04:22:00",
+      "showTime": "03:30:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
     },
     {
       "serverDate": "2026-11-08",
       "showName": "The Daily Wolf With Scott Melker",
       "description": "Scott Melker leverages real-time data and key stories to give you the upper hand in the crypto markets.",
       "startDate": "2026-11-08T04:30:00",
-      "endDate": "2026-11-08T04:47:00",
-      "showTime": "04:30:00",
-      "endTime": "04:47:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-08T04:47:00",
       "endDate": "2026-11-08T05:00:00",
-      "showTime": "04:47:00",
+      "showTime": "04:30:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
     },
     {
       "serverDate": "2026-11-08",
@@ -2454,22 +1871,11 @@
       "showName": "In the Loop",
       "description": "Ejaaz Ahamadeen connects the biggest stories across AI, venture capital and markets.",
       "startDate": "2026-11-08T10:30:00",
-      "endDate": "2026-11-08T10:53:00",
-      "showTime": "10:30:00",
-      "endTime": "10:53:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-08T10:53:00",
       "endDate": "2026-11-08T11:00:00",
-      "showTime": "10:53:00",
+      "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
     },
     {
       "serverDate": "2026-11-08",
@@ -2575,22 +1981,11 @@
       "showName": "In the Loop",
       "description": "Ejaaz Ahamadeen connects the biggest stories across AI, venture capital and markets.",
       "startDate": "2026-11-08T16:00:00",
-      "endDate": "2026-11-08T16:23:00",
-      "showTime": "16:00:00",
-      "endTime": "16:23:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-08T16:23:00",
       "endDate": "2026-11-08T16:30:00",
-      "showTime": "16:23:00",
+      "showTime": "16:00:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
     },
     {
       "serverDate": "2026-11-08",
@@ -2707,22 +2102,11 @@
       "showName": "Market Hang",
       "description": "An unscripted midday conversation, reacting to the trading day in real time and developments that move markets.",
       "startDate": "2026-11-08T22:30:00",
-      "endDate": "2026-11-08T23:30:00",
-      "showTime": "22:30:00",
-      "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d57f7cfca95784a981a7a0f6cf324b36.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Built Different With Ian Schwartzman",
-      "description": "Ian Schwartzman interviews business operators, breaking down the plans and journeys behind their success.",
-      "startDate": "2026-11-08T23:30:00",
       "endDate": "2026-11-08T23:59:59",
-      "showTime": "23:30:00",
+      "showTime": "22:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb6549c37023474d4ebdae0a104cc32e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d57f7cfca95784a981a7a0f6cf324b36.jpg"
     },
     {
       "serverDate": "2026-11-09",
@@ -2784,88 +2168,33 @@
       "showName": "In the Loop",
       "description": "Ejaaz Ahamadeen connects the biggest stories across AI, venture capital and markets.",
       "startDate": "2026-11-09T03:30:00",
-      "endDate": "2026-11-09T03:53:00",
-      "showTime": "03:30:00",
-      "endTime": "03:53:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
-    },
-    {
-      "serverDate": "2026-11-09",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-09T03:53:00",
-      "endDate": "2026-11-09T04:00:00",
-      "showTime": "03:53:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
-    },
-    {
-      "serverDate": "2026-11-09",
-      "showName": "In the Loop",
-      "description": "Ejaaz Ahamadeen connects the biggest stories across AI, venture capital and markets.",
-      "startDate": "2026-11-09T04:00:00",
-      "endDate": "2026-11-09T04:22:00",
-      "showTime": "04:00:00",
-      "endTime": "04:22:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
-    },
-    {
-      "serverDate": "2026-11-09",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-09T04:22:00",
       "endDate": "2026-11-09T04:30:00",
-      "showTime": "04:22:00",
+      "showTime": "03:30:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
     },
     {
       "serverDate": "2026-11-09",
       "showName": "The Daily Wolf With Scott Melker",
       "description": "Scott Melker leverages real-time data and key stories to give you the upper hand in the crypto markets.",
       "startDate": "2026-11-09T04:30:00",
-      "endDate": "2026-11-09T04:47:00",
-      "showTime": "04:30:00",
-      "endTime": "04:47:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
-    },
-    {
-      "serverDate": "2026-11-09",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-09T04:47:00",
       "endDate": "2026-11-09T05:00:00",
-      "showTime": "04:47:00",
+      "showTime": "04:30:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
     },
     {
       "serverDate": "2026-11-09",
       "showName": "In the Loop",
       "description": "Ejaaz Ahamadeen connects the biggest stories across AI, venture capital and markets.",
       "startDate": "2026-11-09T05:00:00",
-      "endDate": "2026-11-09T05:23:00",
-      "showTime": "05:00:00",
-      "endTime": "05:23:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
-    },
-    {
-      "serverDate": "2026-11-09",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-09T05:23:00",
       "endDate": "2026-11-09T05:30:00",
-      "showTime": "05:23:00",
+      "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
     },
     {
       "serverDate": "2026-11-09",
@@ -2982,22 +2311,11 @@
       "showName": "In the Loop",
       "description": "Ejaaz Ahamadeen connects the biggest stories across AI, venture capital and markets.",
       "startDate": "2026-11-09T10:30:00",
-      "endDate": "2026-11-09T10:53:00",
-      "showTime": "10:30:00",
-      "endTime": "10:53:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
-    },
-    {
-      "serverDate": "2026-11-09",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-09T10:53:00",
       "endDate": "2026-11-09T11:00:00",
-      "showTime": "10:53:00",
+      "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
     },
     {
       "serverDate": "2026-11-09",
@@ -3103,22 +2421,11 @@
       "showName": "In the Loop",
       "description": "Ejaaz Ahamadeen connects the biggest stories across AI, venture capital and markets.",
       "startDate": "2026-11-09T16:00:00",
-      "endDate": "2026-11-09T16:23:00",
-      "showTime": "16:00:00",
-      "endTime": "16:23:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
-    },
-    {
-      "serverDate": "2026-11-09",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-09T16:23:00",
       "endDate": "2026-11-09T16:30:00",
-      "showTime": "16:23:00",
+      "showTime": "16:00:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
     },
     {
       "serverDate": "2026-11-09",
@@ -3224,22 +2531,11 @@
       "showName": "The Daily Wolf With Scott Melker",
       "description": "Scott Melker leverages real-time data and key stories to give you the upper hand in the crypto markets.",
       "startDate": "2026-11-09T22:30:00",
-      "endDate": "2026-11-09T22:45:00",
-      "showTime": "22:30:00",
-      "endTime": "22:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
-    },
-    {
-      "serverDate": "2026-11-09",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-09T22:45:00",
       "endDate": "2026-11-09T23:00:00",
-      "showTime": "22:45:00",
+      "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
     },
     {
       "serverDate": "2026-11-09",
@@ -3279,22 +2575,11 @@
       "showName": "Power Players with Brian Sozzi",
       "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
       "startDate": "2026-11-10T01:00:00",
-      "endDate": "2026-11-10T01:04:00",
-      "showTime": "01:00:00",
-      "endTime": "01:04:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
-    },
-    {
-      "serverDate": "2026-11-10",
-      "showName": "How They Run With Ryan Patel",
-      "description": "Going behind the scenes to reveal how today's business leaders actually operate.",
-      "startDate": "2026-11-10T01:04:00",
       "endDate": "2026-11-10T01:30:00",
-      "showTime": "01:04:00",
+      "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29d68b64c579492124a9945c54c7d6b9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
     },
     {
       "serverDate": "2026-11-10",
@@ -3345,33 +2630,11 @@
       "showName": "The Daily Wolf With Scott Melker",
       "description": "Scott Melker leverages real-time data and key stories to give you the upper hand in the crypto markets.",
       "startDate": "2026-11-10T04:00:00",
-      "endDate": "2026-11-10T04:04:00",
-      "showTime": "04:00:00",
-      "endTime": "04:04:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
-    },
-    {
-      "serverDate": "2026-11-10",
-      "showName": "How They Run With Ryan Patel",
-      "description": "Going behind the scenes to reveal how today's business leaders actually operate.",
-      "startDate": "2026-11-10T04:04:00",
-      "endDate": "2026-11-10T04:15:00",
-      "showTime": "04:04:00",
-      "endTime": "04:15:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29d68b64c579492124a9945c54c7d6b9.jpg"
-    },
-    {
-      "serverDate": "2026-11-10",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-10T04:15:00",
       "endDate": "2026-11-10T04:30:00",
-      "showTime": "04:15:00",
+      "showTime": "04:00:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
     },
     {
       "serverDate": "2026-11-10",
@@ -3675,22 +2938,11 @@
       "showName": "The Daily Wolf With Scott Melker",
       "description": "Scott Melker leverages real-time data and key stories to give you the upper hand in the crypto markets.",
       "startDate": "2026-11-10T22:30:00",
-      "endDate": "2026-11-10T22:45:00",
-      "showTime": "22:30:00",
-      "endTime": "22:45:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
-    },
-    {
-      "serverDate": "2026-11-10",
-      "showName": "Best of Yahoo Finance",
-      "description": "YFI Highlights brings you a roundup of the best business and finance stories of the day.",
-      "startDate": "2026-11-10T22:45:00",
       "endDate": "2026-11-10T23:00:00",
-      "showTime": "22:45:00",
+      "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d0c645cf91870ac58e49e8eaa778075.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
     },
     {
       "serverDate": "2026-11-10",
@@ -3698,6 +2950,413 @@
       "description": "An unscripted midday conversation, reacting to the trading day in real time and developments that move markets.",
       "startDate": "2026-11-10T23:00:00",
       "endDate": "2026-11-10T23:59:59",
+      "showTime": "23:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d57f7cfca95784a981a7a0f6cf324b36.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Sozzi Unleashed",
+      "description": "Executive Editor Brian Sozzi delivers sharp takes and interviews on the biggest stories shaping business.",
+      "startDate": "2026-11-11T00:00:00",
+      "endDate": "2026-11-11T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1fb3fe8b374ef9076c93e45b817ac302.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "In the Loop",
+      "description": "Ejaaz Ahamadeen connects the biggest stories across AI, venture capital and markets.",
+      "startDate": "2026-11-11T00:30:00",
+      "endDate": "2026-11-11T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "The Big Idea",
+      "description": "Big ideas for small businesses. Elizabeth Gore shares tools,trends & tactics to grow in any economy.",
+      "startDate": "2026-11-11T01:00:00",
+      "endDate": "2026-11-11T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7432f01f76e5f2e1c30e38a3a21869d8.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Trader Talk",
+      "description": "Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.",
+      "startDate": "2026-11-11T01:30:00",
+      "endDate": "2026-11-11T02:00:00",
+      "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fd26a869e068d76a6ed80e4edbd328df.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Power Players with Brian Sozzi",
+      "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
+      "startDate": "2026-11-11T02:00:00",
+      "endDate": "2026-11-11T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Market Domination: Overtime",
+      "description": "The market may have closed, but the action continues. We analyze the day's top takeaways.",
+      "startDate": "2026-11-11T02:30:00",
+      "endDate": "2026-11-11T03:30:00",
+      "showTime": "02:30:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2ab68623632e4357ec334e9242ee811.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "In the Loop",
+      "description": "Ejaaz Ahamadeen connects the biggest stories across AI, venture capital and markets.",
+      "startDate": "2026-11-11T03:30:00",
+      "endDate": "2026-11-11T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5703d2b12d0fc3c5b713b75ee7303aa1.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "The Daily Wolf With Scott Melker",
+      "description": "Scott Melker leverages real-time data and key stories to give you the upper hand in the crypto markets.",
+      "startDate": "2026-11-11T04:00:00",
+      "endDate": "2026-11-11T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Market Movers",
+      "description": "Yahoo Finance highlights key moments in the previous trading session.",
+      "startDate": "2026-11-11T04:30:00",
+      "endDate": "2026-11-11T05:30:00",
+      "showTime": "04:30:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/caa02c448a3cec6887822ff6566050d4.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Sozzi Unleashed",
+      "description": "Executive Editor Brian Sozzi delivers sharp takes and interviews on the biggest stories shaping business.",
+      "startDate": "2026-11-11T05:30:00",
+      "endDate": "2026-11-11T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1fb3fe8b374ef9076c93e45b817ac302.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "The Big Idea",
+      "description": "Big ideas for small businesses. Elizabeth Gore shares tools,trends & tactics to grow in any economy.",
+      "startDate": "2026-11-11T06:00:00",
+      "endDate": "2026-11-11T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7432f01f76e5f2e1c30e38a3a21869d8.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Power Players with Brian Sozzi",
+      "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
+      "startDate": "2026-11-11T06:30:00",
+      "endDate": "2026-11-11T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "How They Run With Ryan Patel",
+      "description": "Going behind the scenes to reveal how today's business leaders actually operate.",
+      "startDate": "2026-11-11T07:00:00",
+      "endDate": "2026-11-11T07:30:00",
+      "showTime": "07:00:00",
+      "endTime": "07:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29d68b64c579492124a9945c54c7d6b9.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "The Big Idea",
+      "description": "Big ideas for small businesses. Elizabeth Gore shares tools,trends & tactics to grow in any economy.",
+      "startDate": "2026-11-11T07:30:00",
+      "endDate": "2026-11-11T08:00:00",
+      "showTime": "07:30:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7432f01f76e5f2e1c30e38a3a21869d8.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Built Different With Ian Schwartzman",
+      "description": "Ian Schwartzman interviews business operators, breaking down the plans and journeys behind their success.",
+      "startDate": "2026-11-11T08:00:00",
+      "endDate": "2026-11-11T08:30:00",
+      "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb6549c37023474d4ebdae0a104cc32e.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "How They Run With Ryan Patel",
+      "description": "Going behind the scenes to reveal how today's business leaders actually operate.",
+      "startDate": "2026-11-11T08:30:00",
+      "endDate": "2026-11-11T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29d68b64c579492124a9945c54c7d6b9.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Power Players with Brian Sozzi",
+      "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
+      "startDate": "2026-11-11T09:00:00",
+      "endDate": "2026-11-11T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Market Domination: Overtime",
+      "description": "The market may have closed, but the action continues. We analyze the day's top takeaways.",
+      "startDate": "2026-11-11T09:30:00",
+      "endDate": "2026-11-11T10:30:00",
+      "showTime": "09:30:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2ab68623632e4357ec334e9242ee811.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Morning Brew Daily",
+      "description": "A daily talk show that covers the latest news on business, the economy & everything else.",
+      "startDate": "2026-11-11T10:30:00",
+      "endDate": "2026-11-11T11:00:00",
+      "showTime": "10:30:00",
+      "endTime": "11:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c8aa09c87eb87098dc4da7791c990b35.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "The 8:30",
+      "description": "The 8:30",
+      "startDate": "2026-11-11T11:00:00",
+      "endDate": "2026-11-11T12:00:00",
+      "showTime": "11:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f3a64ad689e4fff47f2b9729af32e1a.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Sozzi Unleashed",
+      "description": "Executive Editor Brian Sozzi delivers sharp takes and interviews on the biggest stories shaping business.",
+      "startDate": "2026-11-11T12:00:00",
+      "endDate": "2026-11-11T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1fb3fe8b374ef9076c93e45b817ac302.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Market Hang",
+      "description": "An unscripted midday conversation, reacting to the trading day in real time and developments that move markets.",
+      "startDate": "2026-11-11T12:30:00",
+      "endDate": "2026-11-11T13:30:00",
+      "showTime": "12:30:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d57f7cfca95784a981a7a0f6cf324b36.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Market Movers",
+      "description": "Yahoo Finance highlights key moments in the previous trading session.",
+      "startDate": "2026-11-11T13:30:00",
+      "endDate": "2026-11-11T14:30:00",
+      "showTime": "13:30:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/caa02c448a3cec6887822ff6566050d4.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Market Domination: Overtime",
+      "description": "The market may have closed, but the action continues. We analyze the day's top takeaways.",
+      "startDate": "2026-11-11T14:30:00",
+      "endDate": "2026-11-11T15:30:00",
+      "showTime": "14:30:00",
+      "endTime": "15:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c2ab68623632e4357ec334e9242ee811.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Sozzi Unleashed",
+      "description": "Executive Editor Brian Sozzi delivers sharp takes and interviews on the biggest stories shaping business.",
+      "startDate": "2026-11-11T15:30:00",
+      "endDate": "2026-11-11T16:00:00",
+      "showTime": "15:30:00",
+      "endTime": "16:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1fb3fe8b374ef9076c93e45b817ac302.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Power Players with Brian Sozzi",
+      "description": "Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.",
+      "startDate": "2026-11-11T16:00:00",
+      "endDate": "2026-11-11T16:30:00",
+      "showTime": "16:00:00",
+      "endTime": "16:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d18c178dca995bab0147186b7ac198da.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "The Big Idea",
+      "description": "Big ideas for small businesses. Elizabeth Gore shares tools,trends & tactics to grow in any economy.",
+      "startDate": "2026-11-11T16:30:00",
+      "endDate": "2026-11-11T17:00:00",
+      "showTime": "16:30:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7432f01f76e5f2e1c30e38a3a21869d8.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Built Different With Ian Schwartzman",
+      "description": "Ian Schwartzman interviews business operators, breaking down the plans and journeys behind their success.",
+      "startDate": "2026-11-11T17:00:00",
+      "endDate": "2026-11-11T17:30:00",
+      "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bb6549c37023474d4ebdae0a104cc32e.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Market Movers",
+      "description": "Yahoo Finance highlights key moments in the previous trading session.",
+      "startDate": "2026-11-11T17:30:00",
+      "endDate": "2026-11-11T18:30:00",
+      "showTime": "17:30:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/caa02c448a3cec6887822ff6566050d4.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "How They Run With Ryan Patel",
+      "description": "Going behind the scenes to reveal how today's business leaders actually operate.",
+      "startDate": "2026-11-11T18:30:00",
+      "endDate": "2026-11-11T19:00:00",
+      "showTime": "18:30:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29d68b64c579492124a9945c54c7d6b9.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "The 8:30",
+      "description": "The 8:30",
+      "startDate": "2026-11-11T19:00:00",
+      "endDate": "2026-11-11T20:00:00",
+      "showTime": "19:00:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f3a64ad689e4fff47f2b9729af32e1a.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Sozzi Unleashed",
+      "description": "Executive Editor Brian Sozzi delivers sharp takes and interviews on the biggest stories shaping business.",
+      "startDate": "2026-11-11T20:00:00",
+      "endDate": "2026-11-11T20:30:00",
+      "showTime": "20:00:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1fb3fe8b374ef9076c93e45b817ac302.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Morning Brew Daily",
+      "description": "A daily talk show that covers the latest news on business, the economy & everything else.",
+      "startDate": "2026-11-11T20:30:00",
+      "endDate": "2026-11-11T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c8aa09c87eb87098dc4da7791c990b35.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "The 8:30",
+      "description": "The 8:30",
+      "startDate": "2026-11-11T21:00:00",
+      "endDate": "2026-11-11T22:00:00",
+      "showTime": "21:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f3a64ad689e4fff47f2b9729af32e1a.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Trader Talk",
+      "description": "Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.",
+      "startDate": "2026-11-11T22:00:00",
+      "endDate": "2026-11-11T22:30:00",
+      "showTime": "22:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fd26a869e068d76a6ed80e4edbd328df.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "The Daily Wolf With Scott Melker",
+      "description": "Scott Melker leverages real-time data and key stories to give you the upper hand in the crypto markets.",
+      "startDate": "2026-11-11T22:30:00",
+      "endDate": "2026-11-11T23:00:00",
+      "showTime": "22:30:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e5f6f61de25ab31315c7820111f10719.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Market Hang",
+      "description": "An unscripted midday conversation, reacting to the trading day in real time and developments that move markets.",
+      "startDate": "2026-11-11T23:00:00",
+      "endDate": "2026-11-11T23:59:59",
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
