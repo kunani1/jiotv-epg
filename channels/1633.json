@@ -284,44 +284,55 @@
     },
     {
       "serverDate": "2026-11-06",
-      "showName": "Movie",
-      "description": "Bringing the best in cinema.",
+      "showName": "Dharmika Phala",
+      "description": "An astrologer offers live predictions and insights for each zodiac sign, based on planetary movements and their impact on people's lives.",
       "startDate": "2026-11-06T13:00:00",
-      "endDate": "2026-11-06T15:00:00",
+      "endDate": "2026-11-06T14:00:00",
       "showTime": "13:00:00",
-      "endTime": "15:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c87226da3e5b00ba568b8339fa3bdcd.jpg"
     },
     {
       "serverDate": "2026-11-06",
-      "showName": "Movie",
-      "description": "Bringing the best in cinema.",
+      "showName": "Bari Comedy",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-06T14:00:00",
+      "endDate": "2026-11-06T15:00:00",
+      "showTime": "14:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d8f7fc56a75774eaa8165a94014e81c8.jpg"
+    },
+    {
+      "serverDate": "2026-11-06",
+      "showName": "Dharma Yuddha",
+      "description": "After discovering that his brother has been targeted by a notorious criminal, a customs officer sets out to seek revenge. But things take a turn when he uncovers a dark secret about his family.",
       "startDate": "2026-11-06T15:00:00",
       "endDate": "2026-11-06T18:00:00",
       "showTime": "15:00:00",
       "endTime": "18:00:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3f81782a4d4d5f0ec195662a1352ae0a.jpg"
     },
     {
       "serverDate": "2026-11-06",
-      "showName": "Movie",
-      "description": "Bringing the best in cinema.",
+      "showName": "Chakravarthy",
+      "description": "A man cannot stand injustice against anyone. When his mentor dies due to the atrocities of a notable villager, he sets out to avenge his death.",
       "startDate": "2026-11-06T18:00:00",
-      "endDate": "2026-11-06T21:00:00",
+      "endDate": "2026-11-06T21:30:00",
       "showTime": "18:00:00",
-      "endTime": "21:00:00",
+      "endTime": "21:30:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a143d9653cb84d4b5791b36930eb752.jpg"
     },
     {
       "serverDate": "2026-11-06",
       "showName": "Movie",
       "description": "Bringing the best in cinema.",
-      "startDate": "2026-11-06T21:00:00",
+      "startDate": "2026-11-06T21:30:00",
       "endDate": "2026-11-06T23:59:59",
-      "showTime": "21:00:00",
+      "showTime": "21:30:00",
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"

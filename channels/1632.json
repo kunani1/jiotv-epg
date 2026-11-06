@@ -8,6 +8,105 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ColorsKannadaCinema.png",
   "programs": [
     {
+      "serverDate": "2026-11-05",
+      "showName": "King of Kotha",
+      "description": "Heartbroken on being back-stabbed by his childhood friend, Raju, an influential man, runs away from his hometown, Kotha. Soon, to bring back order in the town, a police officer plots a plan.",
+      "startDate": "2026-11-05T00:00:00",
+      "endDate": "2026-11-05T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/41c3e6b61090feb4b6fa7e01d343b2c0.jpg"
+    },
+    {
+      "serverDate": "2026-11-05",
+      "showName": "Rajahamsa",
+      "description": "Raj, born into a wealthy family and known for living life to the fullest, discovers a woman named Hamsa through a deceased man's diary. He finds himself falling in love with her.",
+      "startDate": "2026-11-05T01:00:00",
+      "endDate": "2026-11-05T04:00:00",
+      "showTime": "01:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/611fafa85de7abcc2eddca5df4b15ceb.jpg"
+    },
+    {
+      "serverDate": "2026-11-05",
+      "showName": "Kannad Gothilla",
+      "description": "A senior crime inspector investigates a complex case of people going missing in Bengaluru, taking every measure possible to uncover the truth.",
+      "startDate": "2026-11-05T04:00:00",
+      "endDate": "2026-11-05T06:30:00",
+      "showTime": "04:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8d0a4b5be2d575e65d3d572a60bd75ae.jpg"
+    },
+    {
+      "serverDate": "2026-11-05",
+      "showName": "Orange",
+      "description": "After her family disapproves of her love for Prashanth, Radha leaves home. Meanwhile, Santosh arrives at Radha's house and is mistaken for her boyfriend.",
+      "startDate": "2026-11-05T06:30:00",
+      "endDate": "2026-11-05T10:00:00",
+      "showTime": "06:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/15d46b714adeccefecf3fb2415089d71.jpg"
+    },
+    {
+      "serverDate": "2026-11-05",
+      "showName": "Hello",
+      "description": "A man finds and stores the contact number of his lost childhood love in his phone, which is then stolen by a mafia thug. He then sets out to retrieve the cellphone at all costs.",
+      "startDate": "2026-11-05T10:00:00",
+      "endDate": "2026-11-05T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/677e9b1efdab81741be8198f5b1b28dc.jpg"
+    },
+    {
+      "serverDate": "2026-11-05",
+      "showName": "Mr. Perfect",
+      "description": "Vicky breaks his engagement with Priya, his childhood friend, after he learns that she is making many compromises for his sake. However, time makes him realise the need for compromises in life.",
+      "startDate": "2026-11-05T13:00:00",
+      "endDate": "2026-11-05T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5a73eec59479d042199c3805e6e40b59.jpg"
+    },
+    {
+      "serverDate": "2026-11-05",
+      "showName": "Love Birds",
+      "description": "Mridula relocates to the UK to nurse her broken heart after her lover Arun dies. However, when she meets a man who looks exactly like him, she tries to find his true identity.",
+      "startDate": "2026-11-05T16:00:00",
+      "endDate": "2026-11-05T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/43190a19656ad3b3543380b64637e1ab.jpg"
+    },
+    {
+      "serverDate": "2026-11-05",
+      "showName": "Mirchi",
+      "description": "Manasa falls in love with Jai after he helps her and manages to win the hearts of her family with his good deeds. However, she is unaware that he belongs to a rival family.",
+      "startDate": "2026-11-05T19:00:00",
+      "endDate": "2026-11-05T22:30:00",
+      "showTime": "19:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/929242f3f66400e206bd8c623d038833.jpg"
+    },
+    {
+      "serverDate": "2026-11-05",
+      "showName": "Tuck Jagadish",
+      "description": "Bhudevipuram has a long history of families warring over ancestral property. However, when its headman's family falls into the same trap, his younger son decides to break the village's age-old legacy.",
+      "startDate": "2026-11-05T22:30:00",
+      "endDate": "2026-11-05T23:59:59",
+      "showTime": "22:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/60475ba73b3a7e120119fe69da192164.jpg"
+    },
+    {
       "serverDate": "2026-11-06",
       "showName": "Tuck Jagadish",
       "description": "Bhudevipuram has a long history of families warring over ancestral property. However, when its headman's family falls into the same trap, his younger son decides to break the village's age-old legacy.",
@@ -119,14 +218,14 @@
     },
     {
       "serverDate": "2026-11-07",
-      "showName": "Colors Kannada Cinema",
-      "description": "Colors Kannada Cinema",
+      "showName": "Mata",
+      "description": "Mata",
       "startDate": "2026-11-07T01:00:00",
       "endDate": "2026-11-07T04:00:00",
       "showTime": "01:00:00",
       "endTime": "04:00:00",
-      "showCategory": "",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4d4fdec61f5e3f578b4dd7347982df2.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3b7546db7f9efc01b238cdfd8352d3b3.jpg"
     },
     {
       "serverDate": "2026-11-07",
