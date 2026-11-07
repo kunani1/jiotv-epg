@@ -8,116 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Movies.png",
   "programs": [
     {
-      "serverDate": "2026-11-05",
-      "showName": "Marma",
-      "description": "Anand's fiancée, Sudha, goes missing for three days. Upon returning, she shares a detailed account of her ordeal, which has Anand's family in a state of confusion.",
-      "startDate": "2026-11-05T00:00:00",
-      "endDate": "2026-11-05T03:00:00",
-      "showTime": "00:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e560f4aea849640b1f6780c9e550ffeb.jpg"
-    },
-    {
-      "serverDate": "2026-11-05",
-      "showName": "Vijay",
-      "description": "Constantly subject to ill-treatment at the hands of his evil sister-in-law and her henpecked husband, a meek Vijay goes on to become a local hero after he takes a stand against them.",
-      "startDate": "2026-11-05T03:00:00",
-      "endDate": "2026-11-05T06:00:00",
-      "showTime": "03:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/86ac3aae913957d3792c07d836c79a15.jpg"
-    },
-    {
-      "serverDate": "2026-11-05",
-      "showName": "Movie Filler",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-05T06:00:00",
-      "endDate": "2026-11-05T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
-    },
-    {
-      "serverDate": "2026-11-05",
-      "showName": "Movie Filler",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-05T06:30:00",
-      "endDate": "2026-11-05T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
-    },
-    {
-      "serverDate": "2026-11-05",
-      "showName": "Kiladi",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-11-05T07:00:00",
-      "endDate": "2026-11-05T10:00:00",
-      "showTime": "07:00:00",
-      "endTime": "10:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6c3deba8c2e4ffe8cf9d7b5673aa8d97.jpg"
-    },
-    {
-      "serverDate": "2026-11-05",
-      "showName": "Samharaka",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-11-05T10:00:00",
-      "endDate": "2026-11-05T13:00:00",
-      "showTime": "10:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b921d05a035fd18d51f8641c9f6d6786.jpg"
-    },
-    {
-      "serverDate": "2026-11-05",
-      "showName": "Jogayya",
-      "description": "Madesha, a native of Karnataka, takes a stand against the exploitation of farmers. Later, he single-handedly transforms the political landscape to bring justice and change.",
-      "startDate": "2026-11-05T13:00:00",
-      "endDate": "2026-11-05T16:00:00",
-      "showTime": "13:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4cc9772ef70de06de27c3fe7539ec8ca.jpg"
-    },
-    {
-      "serverDate": "2026-11-05",
-      "showName": "Gentleman",
-      "description": "Kicha is a modern-day Robin Hood, who along with his friend, Mani, steals from the rich to aid the poor. In society, he is a respected man who runs a small business.",
-      "startDate": "2026-11-05T16:00:00",
-      "endDate": "2026-11-05T19:00:00",
-      "showTime": "16:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/760b40fca2d21f9d4c06c93e16e9c0eb.jpg"
-    },
-    {
-      "serverDate": "2026-11-05",
-      "showName": "Simhadri",
-      "description": "A farmer's son, Simhadri, ensures his sister marries into wealth, only to learn she is mistreated by her in-laws. Subsequently, he takes on the powerful family to restore her dignity.",
-      "startDate": "2026-11-05T19:00:00",
-      "endDate": "2026-11-05T22:00:00",
-      "showTime": "19:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c815da1f1d2f35832b43a77d3f6dccf1.jpg"
-    },
-    {
-      "serverDate": "2026-11-05",
-      "showName": "Namyajamanru",
-      "description": "Urmila and Shashank lead a happy married life. However, their relationship develops cracks when Alok, a soldier, claims that he is Urmila's lover.",
-      "startDate": "2026-11-05T22:00:00",
-      "endDate": "2026-11-05T23:59:59",
-      "showTime": "22:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff87bd33dfb5fd0c54ebe21cde70cb62.jpg"
-    },
-    {
       "serverDate": "2026-11-06",
       "showName": "Devara Naadalli",
       "description": "A bomb blast at a college in Karnataka sparks political unrest and communal violence. Following the attack, a dedicated police officer investigates to find those responsible.",
@@ -886,6 +776,116 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/663d7e9f68b7af58291c1be9c396b6bf.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Amara Jyothi",
+      "description": "Harikrishna reunites with his estranged brother Shiva and helps him settle down in life. However, his past catches up with him and causes serious trouble for Shiva.",
+      "startDate": "2026-11-13T00:00:00",
+      "endDate": "2026-11-13T03:00:00",
+      "showTime": "00:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56428d8515af0812f3dbf7e3c848411c.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Rowdy Ranganna",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-13T03:00:00",
+      "endDate": "2026-11-13T06:00:00",
+      "showTime": "03:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Movie Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-13T06:00:00",
+      "endDate": "2026-11-13T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Movie Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-13T06:30:00",
+      "endDate": "2026-11-13T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Ziddi",
+      "description": "Sahana falls for her classmate, Krishna, who becomes the target of a gangster. However, when the gangster forces Sahana to marry him, Krishna tries to rescue her.",
+      "startDate": "2026-11-13T07:00:00",
+      "endDate": "2026-11-13T10:00:00",
+      "showTime": "07:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a862a49c16b7a9b6672f5d9a70c80183.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Mane Maratakkide",
+      "description": "After inheriting his ancestral home, Shravana finds out it's haunted. He hires a quirky team to tackle the issue, but their attempts to rid the house of spirits spiral into chaos.",
+      "startDate": "2026-11-13T10:00:00",
+      "endDate": "2026-11-13T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b497c0df46c3b90f620189532fe788af.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Patela",
+      "description": "Patela is an orphan boy adopted by a couple in a village. Later, when he falls in love with a city girl, the latter does not accept his illiteracy.",
+      "startDate": "2026-11-13T13:00:00",
+      "endDate": "2026-11-13T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3bb2542f2cf7976bd85c24b58e08da9f.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Chora Chittha Chora",
+      "description": "A man falls in love with a woman via exchanging letters, unaware of the fact that the writer of the letters is his adoptive sister.",
+      "startDate": "2026-11-13T16:00:00",
+      "endDate": "2026-11-13T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b1ed8878684b01b23972b0604d89fc91.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Anna Thangi",
+      "description": "Two siblings turn inseparable after the death of their parents. Soon, things take a turn after they get married to their respective partners.",
+      "startDate": "2026-11-13T19:00:00",
+      "endDate": "2026-11-13T22:00:00",
+      "showTime": "19:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0b2eda39e48a6823b5ce202d20da4195.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Naane Bartini",
+      "description": "Prabhu's happy family life changes after a holiday. A dark past resurfaces, forcing him to face his brother Kathir and fight evil to save his daughter.",
+      "startDate": "2026-11-13T22:00:00",
+      "endDate": "2026-11-13T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6c1169b66a388b8fdba77820c903b540.jpg"
     }
   ]
 }

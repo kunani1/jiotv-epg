@@ -8,105 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png",
   "programs": [
     {
-      "serverDate": "2026-11-05",
-      "showName": "Rajali",
-      "description": "A group of adventurers go to an island that is rumoured to have treasure in order to look for it. In their quest they encounter many adversities but try to fulfil their mission.",
-      "startDate": "2026-11-05T00:00:00",
-      "endDate": "2026-11-05T01:30:00",
-      "showTime": "00:00:00",
-      "endTime": "01:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4b715328029d1c73f091b185901f4359.jpg"
-    },
-    {
-      "serverDate": "2026-11-05",
-      "showName": "Chinna Marumagal",
-      "description": "The eldest daughter-in-law of a family faces various hardships at the hands of her mother-in-law. The youngest daughter-in-law teaches her a lesson and makes her realise her mistakes.",
-      "startDate": "2026-11-05T01:30:00",
-      "endDate": "2026-11-05T04:00:00",
-      "showTime": "01:30:00",
-      "endTime": "04:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/86bb9266cf82532de90b0c0c07a137db.jpg"
-    },
-    {
-      "serverDate": "2026-11-05",
-      "showName": "Oru Kai Parpom",
-      "description": "Jayaraman, a petty thief, changes his ways when he meets a rich lady who is mentally ill and decides to work as her bodyguard.",
-      "startDate": "2026-11-05T04:00:00",
-      "endDate": "2026-11-05T07:00:00",
-      "showTime": "04:00:00",
-      "endTime": "07:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c204b343f024ecb34cd66fb8da835f30.jpg"
-    },
-    {
-      "serverDate": "2026-11-05",
-      "showName": "Alexander",
-      "description": "CBI officer Alexander investigates a complex case involving murder, smuggling and political corruption. However, his search leads him to a dangerous game of cat and mouse with powerful adversaries.",
-      "startDate": "2026-11-05T07:00:00",
-      "endDate": "2026-11-05T10:00:00",
-      "showTime": "07:00:00",
-      "endTime": "10:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/06a7655c063b5f04482126fb3aaa3b6a.jpg"
-    },
-    {
-      "serverDate": "2026-11-05",
-      "showName": "Maya Bazaar",
-      "description": "A businessman dearly loves his daughter and wants to ensure that she is always protected. Meanwhile, his close friend and business partner hatches a plot to usurp his wealth.",
-      "startDate": "2026-11-05T10:00:00",
-      "endDate": "2026-11-05T13:00:00",
-      "showTime": "10:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b063fc100b6590aa44fef15d52d81bc.jpg"
-    },
-    {
-      "serverDate": "2026-11-05",
-      "showName": "Senathipathi",
-      "description": "Sethupathi, a young man, falls in love with Lingappan Naicker, the village head's daughter Aishwarya. Meanwhile, the girl's father asks Senathipathi, Sethu's older brother, to protect her.",
-      "startDate": "2026-11-05T13:00:00",
-      "endDate": "2026-11-05T16:00:00",
-      "showTime": "13:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/136aa4fb8ff3168259a12170e2080c39.jpg"
-    },
-    {
-      "serverDate": "2026-11-05",
-      "showName": "Album",
-      "description": "Jeevan's father helps Annachi after she is cheated by his brother. He soon becomes the object of affection of Annachi's daughter, but he turns her down to pursue other goals in life.",
-      "startDate": "2026-11-05T16:00:00",
-      "endDate": "2026-11-05T19:00:00",
-      "showTime": "16:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3dc4a1a1a858cb1cb487b01841d9b3f9.jpg"
-    },
-    {
-      "serverDate": "2026-11-05",
-      "showName": "Idhu Namma Aalu",
-      "description": "Gopalsamy, a poor graduate from a lower caste, assumes the identity of a higher caste to escape his financial struggles. However, complications arise when Banu, the daughter of a priest, marries him, unaware of his true social background.",
-      "startDate": "2026-11-05T19:00:00",
-      "endDate": "2026-11-05T22:30:00",
-      "showTime": "19:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/115ca70a2bd57e0d2296a977a3c3edbc.jpg"
-    },
-    {
-      "serverDate": "2026-11-05",
-      "showName": "Maya Bazaar",
-      "description": "A businessman dearly loves his daughter and wants to ensure that she is always protected. Meanwhile, his close friend and business partner hatches a plot to usurp his wealth.",
-      "startDate": "2026-11-05T22:30:00",
-      "endDate": "2026-11-05T23:59:59",
-      "showTime": "22:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b063fc100b6590aa44fef15d52d81bc.jpg"
-    },
-    {
       "serverDate": "2026-11-06",
       "showName": "Maya Bazaar",
       "description": "A businessman dearly loves his daughter and wants to ensure that she is always protected. Meanwhile, his close friend and business partner hatches a plot to usurp his wealth.",
@@ -798,6 +699,105 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ee8d0b840f7f8e866493130e593fa20.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Asuran",
+      "description": "Amidst the chaos of a criminal constantly evading the police and a woman's love affair with an agricultural officer, something sinister brews that affects everyone's life.",
+      "startDate": "2026-11-13T00:00:00",
+      "endDate": "2026-11-13T01:30:00",
+      "showTime": "00:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ee8d0b840f7f8e866493130e593fa20.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Puthu Paatu",
+      "description": "When a woman falls in love with her brother's personal manager, she believes their connection is genuine. However, when she discovers he's already in a relationship she is devastated.",
+      "startDate": "2026-11-13T01:30:00",
+      "endDate": "2026-11-13T04:00:00",
+      "showTime": "01:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/573ad67c97d55d83c8dc189ebf04ccf0.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Sigappu Thali",
+      "description": "Sadayan does errands for his fellow villagers and lives off their generosity. Soon, a series of circumstances compels him to help Kalamani, the daughter of the head of the village.",
+      "startDate": "2026-11-13T04:00:00",
+      "endDate": "2026-11-13T07:00:00",
+      "showTime": "04:00:00",
+      "endTime": "07:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/07ac20567d83153d8634fca1ddff787a.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "En Aasai Machan",
+      "description": "Arusamy, a village chief, remains unmarried in order to take care of Subramani, his younger brother. However, he has to pay a heavy price when Subramani falls in love with Meenakshi.",
+      "startDate": "2026-11-13T07:00:00",
+      "endDate": "2026-11-13T10:00:00",
+      "showTime": "07:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/99d237fa939f63230472968fc51a4813.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Aavarampoo",
+      "description": "Sakkarai, a mentally challenged orphan, works for the village chief, Thevar. Trouble begins in his life when he falls in love with his master's daughter, Thamarai.",
+      "startDate": "2026-11-13T10:00:00",
+      "endDate": "2026-11-13T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/643a30abeb0cb4106b38af5efa36b175.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Paravaigal Palavitham",
+      "description": "A group of friends in college dream of being successful. However, due to financial and employment problems, they begin to watch their dreams fade.",
+      "startDate": "2026-11-13T13:00:00",
+      "endDate": "2026-11-13T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b069958b939dddc64bb1e0eafc32d58.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Laysa Laysa",
+      "description": "Chandru's grandfather is going to visit him but Chandru has spent all his money. So he requests his wealthy friend, Rakesh, to pose as the owner of all the riches till his grandfather stays with him.",
+      "startDate": "2026-11-13T16:00:00",
+      "endDate": "2026-11-13T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6ff85b5750d4377c405de4213809e54f.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Diwan",
+      "description": "A cook falls in love with a wealthy man's daughter. However, after receiving her father's disparaging remarks, he embraces the challenge to amass a fortune within a year.",
+      "startDate": "2026-11-13T19:00:00",
+      "endDate": "2026-11-13T22:30:00",
+      "showTime": "19:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/19a6bc8872073cebf0a2a21eb7ef6cf4.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Aavarampoo",
+      "description": "Sakkarai, a mentally challenged orphan, works for the village chief, Thevar. Trouble begins in his life when he falls in love with his master's daughter, Thamarai.",
+      "startDate": "2026-11-13T22:30:00",
+      "endDate": "2026-11-13T23:59:59",
+      "showTime": "22:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/643a30abeb0cb4106b38af5efa36b175.jpg"
     }
   ]
 }
