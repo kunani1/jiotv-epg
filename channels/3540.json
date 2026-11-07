@@ -4302,11 +4302,22 @@
       "showName": "#vf",
       "description": "On rencontre des ambassadeurs du chic à la française. On découvre de jeunes créateurs, ainsi que les lieux chics et branchés de l'hexagone.",
       "startDate": "2026-11-11T12:55:00",
-      "endDate": "2026-11-11T13:30:00",
+      "endDate": "2026-11-11T13:00:00",
       "showTime": "12:55:00",
-      "endTime": "13:30:00",
+      "endTime": "13:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b8bf9154de9098becb266a5ec319eea.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Destination Francophonie",
+      "description": "Un voyage à la découverte du caractère vivant de la langue française et de la francophonie.",
+      "startDate": "2026-11-11T13:00:00",
+      "endDate": "2026-11-11T13:30:00",
+      "showTime": "13:00:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5347253a04f3b1ddcd0b4f22f1ecda47.jpg"
     },
     {
       "serverDate": "2026-11-11",
@@ -4720,22 +4731,11 @@
       "showName": "Grandeur nature",
       "description": "Découvertes, reportages et divertissements sous le signe de l'environnement, de la nature, du grand air. Rendez-vous avec Adrien Joveneau, micro en bandoulière.",
       "startDate": "2026-11-12T02:13:00",
-      "endDate": "2026-11-12T02:40:00",
-      "showTime": "02:13:00",
-      "endTime": "02:40:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/019ae44b0d59e6ec847fc6a133944383.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Chic en VF",
-      "description": "Mode, design, gastronomie, art de vivre : tous les acteurs du savoir-vivre se retrouvent autour de Katherina Marx, ambassadrice passionnée du chic à la française.",
-      "startDate": "2026-11-12T02:40:00",
       "endDate": "2026-11-12T02:57:00",
-      "showTime": "02:40:00",
+      "showTime": "02:13:00",
       "endTime": "02:57:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b0b235e2bc13def3922dea7ab3abdef4.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/019ae44b0d59e6ec847fc6a133944383.jpg"
     },
     {
       "serverDate": "2026-11-12",
