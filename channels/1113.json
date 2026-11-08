@@ -853,6 +853,105 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-14T00:00:00",
+      "endDate": "2026-11-14T00:16:00",
+      "showTime": "00:00:00",
+      "endTime": "00:16:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-14T00:16:00",
+      "endDate": "2026-11-14T03:16:00",
+      "showTime": "00:16:00",
+      "endTime": "03:16:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-14T03:16:00",
+      "endDate": "2026-11-14T06:50:00",
+      "showTime": "03:16:00",
+      "endTime": "06:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-14T06:50:00",
+      "endDate": "2026-11-14T09:50:00",
+      "showTime": "06:50:00",
+      "endTime": "09:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-14T09:50:00",
+      "endDate": "2026-11-14T12:50:00",
+      "showTime": "09:50:00",
+      "endTime": "12:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-14T12:50:00",
+      "endDate": "2026-11-14T15:50:00",
+      "showTime": "12:50:00",
+      "endTime": "15:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-14T15:50:00",
+      "endDate": "2026-11-14T18:50:00",
+      "showTime": "15:50:00",
+      "endTime": "18:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-14T18:50:00",
+      "endDate": "2026-11-14T21:50:00",
+      "showTime": "18:50:00",
+      "endTime": "21:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-14T21:50:00",
+      "endDate": "2026-11-14T23:59:59",
+      "showTime": "21:50:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"
     }
   ]
 }

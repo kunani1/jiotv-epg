@@ -570,14 +570,14 @@
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "To Be Announced",
-      "description": "Bringing the best in television.",
+      "showName": "Uravukku Mariyathai",
+      "description": "Santosh decides to keep his grandmother Sita Mahalakshmi happy at any cost because she helped him in a game of hide and seek during his childhood.",
       "startDate": "2026-11-12T05:30:00",
       "endDate": "2026-11-12T08:00:00",
       "showTime": "05:30:00",
       "endTime": "08:00:00",
-      "showCategory": "TBA",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3a563fbcb1780abcbe387eb60f9353c.jpg"
+      "showCategory": "TV Movie",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/025aed3f1d3e120d4643aedc922df370.jpg"
     },
     {
       "serverDate": "2026-11-12",
@@ -754,6 +754,94 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cd0aa88c62d6597e32eb25aed64126e2.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-14T00:00:00",
+      "endDate": "2026-11-14T03:00:00",
+      "showTime": "00:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-14T03:00:00",
+      "endDate": "2026-11-14T06:00:00",
+      "showTime": "03:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-14T06:00:00",
+      "endDate": "2026-11-14T09:00:00",
+      "showTime": "06:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-14T09:00:00",
+      "endDate": "2026-11-14T12:00:00",
+      "showTime": "09:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-14T12:00:00",
+      "endDate": "2026-11-14T15:00:00",
+      "showTime": "12:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-14T15:00:00",
+      "endDate": "2026-11-14T18:00:00",
+      "showTime": "15:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-14T18:00:00",
+      "endDate": "2026-11-14T21:00:00",
+      "showTime": "18:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-14T21:00:00",
+      "endDate": "2026-11-14T23:59:59",
+      "showTime": "21:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
     }
   ]
 }

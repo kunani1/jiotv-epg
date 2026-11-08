@@ -8,160 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Cinema.png",
   "programs": [
     {
-      "serverDate": "2026-11-06",
-      "showName": "Goonda",
-      "description": "A teenager flees after accidentally blinding his neighbor and is raised by a thug. Later, he returns after many years, only to find that his family is unable to recognize the man he has become.",
-      "startDate": "2026-11-06T00:00:00",
-      "endDate": "2026-11-06T01:00:00",
-      "showTime": "00:00:00",
-      "endTime": "01:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/04072c4c0a2f3d8807305a1cd80c7ec9.jpg"
-    },
-    {
-      "serverDate": "2026-11-06",
-      "showName": "Thene Manasulu",
-      "description": "When Krishna asks Jaggaiah for help with his business, the latter asks him to marry his daughter, Rukmini. Things take a turn when Rukmini's stepmother tries to foil their marriage and separate them.",
-      "startDate": "2026-11-06T01:00:00",
-      "endDate": "2026-11-06T04:00:00",
-      "showTime": "01:00:00",
-      "endTime": "04:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/478f7d6464e259cb09f57da06d129797.jpg"
-    },
-    {
-      "serverDate": "2026-11-06",
-      "showName": "Songs",
-      "description": "A comprehensive compilation of popular songs, performed by gifted artists and musicians, is played in rapid succession.",
-      "startDate": "2026-11-06T04:00:00",
-      "endDate": "2026-11-06T06:00:00",
-      "showTime": "04:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/db0c5006ecaefecf06ea1ecea2a7239b.jpg"
-    },
-    {
-      "serverDate": "2026-11-06",
-      "showName": "Yoga Based Programme",
-      "description": "Yoga experts showcase various postures and meditation methods, offering practical tools for managing everyday stress and improving wellbeing.",
-      "startDate": "2026-11-06T06:00:00",
-      "endDate": "2026-11-06T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/da965292be0bc199409f051da787a7e7.jpg"
-    },
-    {
-      "serverDate": "2026-11-06",
-      "showName": "Madhurimalu",
-      "description": "A chef shares some kitchen secrets, simple dessert recipes and demonstrates how to whip up mouthwatering treats in an easy-to-understand manner.",
-      "startDate": "2026-11-06T06:30:00",
-      "endDate": "2026-11-06T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f28e329e24e76a857892055f5ce6811.jpg"
-    },
-    {
-      "serverDate": "2026-11-06",
-      "showName": "Chandamama Raave",
-      "description": "Chandamama Raave",
-      "startDate": "2026-11-06T07:00:00",
-      "endDate": "2026-11-06T09:42:00",
-      "showTime": "07:00:00",
-      "endTime": "09:42:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0bdb04e9d24c867f348c7486e4e4f969.jpg"
-    },
-    {
-      "serverDate": "2026-11-06",
-      "showName": "Telugu Hits",
-      "description": "A compilation of some of the most trending Telugu hits composed by famous artists is played back-to-back to enthrall the audience.",
-      "startDate": "2026-11-06T09:42:00",
-      "endDate": "2026-11-06T10:00:00",
-      "showTime": "09:42:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/06c20f83de74209bd1d7bf469ab03f8d.jpg"
-    },
-    {
-      "serverDate": "2026-11-06",
-      "showName": "Bandhavyalu",
-      "description": "Ranga Rao and his brother's family live happily together. However, their neighbour, Rajnal, faces a lot of problems as his brother, Suryam, does not support him in financial matters.",
-      "startDate": "2026-11-06T10:00:00",
-      "endDate": "2026-11-06T13:00:00",
-      "showTime": "10:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0d4d06aed6fb67c93d78f58025dc93e0.jpg"
-    },
-    {
-      "serverDate": "2026-11-06",
-      "showName": "Akka Mogudu",
-      "description": "A mechanic is diagnosed with cancer after he is married, but he decides to hide the truth from his family. Meanwhile, he undertakes the responsibility to marry off his wife's sisters.",
-      "startDate": "2026-11-06T13:00:00",
-      "endDate": "2026-11-06T15:52:00",
-      "showTime": "13:00:00",
-      "endTime": "15:52:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cdfd6b8ef93df68904e07e546d240f17.jpg"
-    },
-    {
-      "serverDate": "2026-11-06",
-      "showName": "Telugu Hits",
-      "description": "A compilation of some of the most trending Telugu hits composed by famous artists is played back-to-back to enthrall the audience.",
-      "startDate": "2026-11-06T15:52:00",
-      "endDate": "2026-11-06T16:00:00",
-      "showTime": "15:52:00",
-      "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/06c20f83de74209bd1d7bf469ab03f8d.jpg"
-    },
-    {
-      "serverDate": "2026-11-06",
-      "showName": "Kalasi Naduddam",
-      "description": "A narrow-minded and insular man challenges his progressive yet traditional thinking wife to earn more than him by issuing an ultimatum.",
-      "startDate": "2026-11-06T16:00:00",
-      "endDate": "2026-11-06T18:53:00",
-      "showTime": "16:00:00",
-      "endTime": "18:53:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bc24e2773f9a498f9e57cae17ab326c2.jpg"
-    },
-    {
-      "serverDate": "2026-11-06",
-      "showName": "Telugu Hits",
-      "description": "A compilation of some of the most trending Telugu hits composed by famous artists is played back-to-back to enthrall the audience.",
-      "startDate": "2026-11-06T18:53:00",
-      "endDate": "2026-11-06T19:00:00",
-      "showTime": "18:53:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/06c20f83de74209bd1d7bf469ab03f8d.jpg"
-    },
-    {
-      "serverDate": "2026-11-06",
-      "showName": "Simhadri",
-      "description": "Simhadri, an orphan, is taken in by the Varma family and treated as their own. When the patriarch's daughter falls in love with him, he abandons her on their wedding day for someone else.",
-      "startDate": "2026-11-06T19:00:00",
-      "endDate": "2026-11-06T22:13:00",
-      "showTime": "19:00:00",
-      "endTime": "22:13:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/54a5c5077db36e7f67e4776d9e04e911.jpg"
-    },
-    {
-      "serverDate": "2026-11-06",
-      "showName": "Samanyudu",
-      "description": "Chandra is the editor of the newspaper 'Addam' and is victimised by a corrupt politician. His goal is to conduct sting operations and expose important but corrupt people.",
-      "startDate": "2026-11-06T22:13:00",
-      "endDate": "2026-11-06T23:59:59",
-      "showTime": "22:13:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/15c9b2b1d92b6ee1c79b08a80d24327d.jpg"
-    },
-    {
       "serverDate": "2026-11-07",
       "showName": "Samanyudu",
       "description": "Chandra is the editor of the newspaper 'Addam' and is victimised by a corrupt politician. His goal is to conduct sting operations and expose important but corrupt people.",
@@ -1084,6 +930,127 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e43b9476aa808e90ea8c53bd12fa808c.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Yamagola Malli Modalayindi",
+      "description": "Fate intertwines as young Yama, sent to claim a wealthy girl's life, falls in love, challenging the rules of mortality and divine duty in a celestial test.",
+      "startDate": "2026-11-14T00:00:00",
+      "endDate": "2026-11-14T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e43b9476aa808e90ea8c53bd12fa808c.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Kobbari Bondam",
+      "description": "Raju, a timid man with low self-esteem, tries to earn money to help his mother. However, his life takes a drastic turn when he comes into possession of a magical coin.",
+      "startDate": "2026-11-14T01:00:00",
+      "endDate": "2026-11-14T04:00:00",
+      "showTime": "01:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5779c5d0013e38437368e4c8b24dbac0.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Songs",
+      "description": "A comprehensive compilation of popular songs, performed by gifted artists and musicians, is played in rapid succession.",
+      "startDate": "2026-11-14T04:00:00",
+      "endDate": "2026-11-14T06:00:00",
+      "showTime": "04:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/db0c5006ecaefecf06ea1ecea2a7239b.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Yoga Based Programme",
+      "description": "Yoga experts showcase various postures and meditation methods, offering practical tools for managing everyday stress and improving wellbeing.",
+      "startDate": "2026-11-14T06:00:00",
+      "endDate": "2026-11-14T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/da965292be0bc199409f051da787a7e7.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Madhurimalu",
+      "description": "A chef shares some kitchen secrets, simple dessert recipes and demonstrates how to whip up mouthwatering treats in an easy-to-understand manner.",
+      "startDate": "2026-11-14T06:30:00",
+      "endDate": "2026-11-14T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f28e329e24e76a857892055f5ce6811.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Teja",
+      "description": "Teja, a prodigy boy, has an intellect surpassing his age. However, when he testifies against a criminal, his life comes under threat.",
+      "startDate": "2026-11-14T07:00:00",
+      "endDate": "2026-11-14T10:00:00",
+      "showTime": "07:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fd65d12ac4a37fa602eeb4045cf8a854.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Bala Bharatam",
+      "description": "Shakuni tries to fuel the rivalry between the Pandavas and Kauravas in their childhood days, which eventually leads to the great Kurukshetra War.",
+      "startDate": "2026-11-14T10:00:00",
+      "endDate": "2026-11-14T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4f22aa3a01012eee3ac85ed7944aec81.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Sisindri Chittibabu",
+      "description": "Ramesh, the only son of an industrialist in a city, becomes unconscious after visiting a temple in Amravati during a school tour. After treatment, he calls himself Chittibabu, shocking his father.",
+      "startDate": "2026-11-14T13:00:00",
+      "endDate": "2026-11-14T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Papam Pasivaadu",
+      "description": "Venugopal and Janaki realise that their son has tuberculosis and send him by plane to Europe for better treatment. However, the plane crashes, and the boy faces trouble reuniting with his parents.",
+      "startDate": "2026-11-14T16:00:00",
+      "endDate": "2026-11-14T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9af8b65ac53c3c21cc8131185af1da1e.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Little Hearts",
+      "description": "Akhil's repeated exam setbacks push him into a strict coaching centre where unexpected love, laughter and life lessons change the course of his youthful journey.",
+      "startDate": "2026-11-14T19:00:00",
+      "endDate": "2026-11-14T22:00:00",
+      "showTime": "19:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a22818807016272ad58f775046a40069.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Aaduthu Paaduthu",
+      "description": "Two wayward friends living in a bus-turned-mobile home plan to convert their dwelling into a moving canteen and apply for a loan. Things change when a girl enters their lives.",
+      "startDate": "2026-11-14T22:00:00",
+      "endDate": "2026-11-14T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6c5baff6ad7d8cf1fe4a3ab23d03d28a.jpg"
     }
   ]
 }
