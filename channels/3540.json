@@ -2817,11 +2817,22 @@
       "showName": "Destination Francophonie",
       "description": "Un voyage à la découverte du caractère vivant de la langue française et de la francophonie.",
       "startDate": "2026-11-10T15:09:00",
-      "endDate": "2026-11-10T15:55:00",
+      "endDate": "2026-11-10T15:38:00",
       "showTime": "15:09:00",
-      "endTime": "15:55:00",
+      "endTime": "15:38:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5347253a04f3b1ddcd0b4f22f1ecda47.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Chic en VF",
+      "description": "Mode, design, gastronomie, art de vivre : tous les acteurs du savoir-vivre se retrouvent autour de Katherina Marx, ambassadrice passionnée du chic à la française.",
+      "startDate": "2026-11-10T15:38:00",
+      "endDate": "2026-11-10T15:55:00",
+      "showTime": "15:38:00",
+      "endTime": "15:55:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b0b235e2bc13def3922dea7ab3abdef4.jpg"
     },
     {
       "serverDate": "2026-11-10",
@@ -3191,11 +3202,22 @@
       "showName": "#vf",
       "description": "On rencontre des ambassadeurs du chic à la française. On découvre de jeunes créateurs, ainsi que les lieux chics et branchés de l'hexagone.",
       "startDate": "2026-11-11T02:50:00",
-      "endDate": "2026-11-11T03:00:00",
+      "endDate": "2026-11-11T02:56:00",
       "showTime": "02:50:00",
-      "endTime": "03:00:00",
+      "endTime": "02:56:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b8bf9154de9098becb266a5ec319eea.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "20e anniversaire des relations Monaco-USA",
+      "description": "Cette année a marqué la participation de Monaco à America250, le 20e anniversaire de son ambassade à Washington.",
+      "startDate": "2026-11-11T02:56:00",
+      "endDate": "2026-11-11T03:00:00",
+      "showTime": "02:56:00",
+      "endTime": "03:00:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/60bc1b342666a65c74b8978772fddbdf.jpg"
     },
     {
       "serverDate": "2026-11-11",
@@ -3752,22 +3774,11 @@
       "showName": "#vf",
       "description": "On rencontre des ambassadeurs du chic à la française. On découvre de jeunes créateurs, ainsi que les lieux chics et branchés de l'hexagone.",
       "startDate": "2026-11-11T20:24:00",
-      "endDate": "2026-11-11T20:30:00",
-      "showTime": "20:24:00",
-      "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b8bf9154de9098becb266a5ec319eea.jpg"
-    },
-    {
-      "serverDate": "2026-11-11",
-      "showName": "Tendance XXI",
-      "description": "Émission dédiée à l'art, la mode, les nouvelles tendances.",
-      "startDate": "2026-11-11T20:30:00",
       "endDate": "2026-11-11T20:58:00",
-      "showTime": "20:30:00",
+      "showTime": "20:24:00",
       "endTime": "20:58:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee74a25368b3096c371d6f7c05c4c796.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b8bf9154de9098becb266a5ec319eea.jpg"
     },
     {
       "serverDate": "2026-11-11",
@@ -3862,22 +3873,33 @@
       "showName": "L'art et la matière",
       "description": "Mode, artisanat, design, art de vivre et le savoir-faire à la française.",
       "startDate": "2026-11-11T23:28:00",
-      "endDate": "2026-11-11T23:59:59",
+      "endDate": "2026-11-11T23:42:00",
       "showTime": "23:28:00",
-      "endTime": "23:59:59",
+      "endTime": "23:42:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba5ab1f1e6d06bc34be47b6c065170b1.jpg"
     },
     {
+      "serverDate": "2026-11-11",
+      "showName": "La grande galerie francophone",
+      "description": "Ali Baddou et ses chroniqueurs reçoivent des artistes francophones qui sont au cœur de l'actualité et font bouger les lignes ; espace d'échanges, de créations et de surprises, on célèbre l'art et le partage avec tous.",
+      "startDate": "2026-11-11T23:42:00",
+      "endDate": "2026-11-11T23:59:59",
+      "showTime": "23:42:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5f1c248930f7cdaad33c8816ec55170.jpg"
+    },
+    {
       "serverDate": "2026-11-12",
-      "showName": "L'art et la matière",
-      "description": "Mode, artisanat, design, art de vivre et le savoir-faire à la française.",
+      "showName": "La grande galerie francophone",
+      "description": "Ali Baddou et ses chroniqueurs reçoivent des artistes francophones qui sont au cœur de l'actualité et font bouger les lignes ; espace d'échanges, de créations et de surprises, on célèbre l'art et le partage avec tous.",
       "startDate": "2026-11-12T00:00:00",
       "endDate": "2026-11-12T00:39:00",
       "showTime": "00:00:00",
       "endTime": "00:39:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba5ab1f1e6d06bc34be47b6c065170b1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5f1c248930f7cdaad33c8816ec55170.jpg"
     },
     {
       "serverDate": "2026-11-12",
@@ -4632,22 +4654,11 @@
       "showName": "Secrets des profondeurs",
       "description": "Des vestiges inexplorés dorment au fond des lacs et des cours d'eau du pays. Mario Cyr et Samuel Côté suivent la piste d'épaves documentées, mais pas forcément localisées, et découvrent des pans méconnus ou oubliés de notre histoire.",
       "startDate": "2026-11-13T00:00:00",
-      "endDate": "2026-11-13T00:25:00",
-      "showTime": "00:00:00",
-      "endTime": "00:25:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f2f375bcf174337c8842a2c4aefc81f7.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "L'art et la matière",
-      "description": "Mode, artisanat, design, art de vivre et le savoir-faire à la française.",
-      "startDate": "2026-11-13T00:25:00",
       "endDate": "2026-11-13T00:39:00",
-      "showTime": "00:25:00",
+      "showTime": "00:00:00",
       "endTime": "00:39:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba5ab1f1e6d06bc34be47b6c065170b1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f2f375bcf174337c8842a2c4aefc81f7.jpg"
     },
     {
       "serverDate": "2026-11-13",
@@ -4885,22 +4896,11 @@
       "showName": "Secrets des profondeurs",
       "description": "Diver Mario Cyr and historian Samuel Cote investigate uncovered relics hidden beneath Canada's lakes and waterways.",
       "startDate": "2026-11-13T07:30:00",
-      "endDate": "2026-11-13T07:55:00",
-      "showTime": "07:30:00",
-      "endTime": "07:55:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f2f375bcf174337c8842a2c4aefc81f7.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "L'art et la matière",
-      "description": "Mode, artisanat, design, art de vivre et le savoir-faire à la française.",
-      "startDate": "2026-11-13T07:55:00",
       "endDate": "2026-11-13T08:09:00",
-      "showTime": "07:55:00",
+      "showTime": "07:30:00",
       "endTime": "08:09:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba5ab1f1e6d06bc34be47b6c065170b1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f2f375bcf174337c8842a2c4aefc81f7.jpg"
     },
     {
       "serverDate": "2026-11-13",
@@ -5446,11 +5446,22 @@
       "showName": "#vf",
       "description": "On rencontre des ambassadeurs du chic à la française. On découvre de jeunes créateurs, ainsi que les lieux chics et branchés de l'hexagone.",
       "startDate": "2026-11-14T00:54:00",
-      "endDate": "2026-11-14T01:28:00",
+      "endDate": "2026-11-14T01:00:00",
       "showTime": "00:54:00",
-      "endTime": "01:28:00",
+      "endTime": "01:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b8bf9154de9098becb266a5ec319eea.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Tendance XXI",
+      "description": "Émission dédiée à l'art, la mode, les nouvelles tendances.",
+      "startDate": "2026-11-14T01:00:00",
+      "endDate": "2026-11-14T01:28:00",
+      "showTime": "01:00:00",
+      "endTime": "01:28:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee74a25368b3096c371d6f7c05c4c796.jpg"
     },
     {
       "serverDate": "2026-11-14",
@@ -5776,22 +5787,11 @@
       "showName": "Chic en VF",
       "description": "Mode, design, gastronomie, art de vivre : tous les acteurs du savoir-vivre se retrouvent autour de Katherina Marx, ambassadrice passionnée du chic à la française.",
       "startDate": "2026-11-14T12:12:00",
-      "endDate": "2026-11-14T12:29:00",
-      "showTime": "12:12:00",
-      "endTime": "12:29:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b0b235e2bc13def3922dea7ab3abdef4.jpg"
-    },
-    {
-      "serverDate": "2026-11-14",
-      "showName": "Passe-moi les jumelles",
-      "description": "Magazine de plein air présentant des reportages axés sur les voyages et la découverte.",
-      "startDate": "2026-11-14T12:29:00",
       "endDate": "2026-11-14T12:57:00",
-      "showTime": "12:29:00",
+      "showTime": "12:12:00",
       "endTime": "12:57:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c9cb5793d62c01b879926381ff2acd8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b0b235e2bc13def3922dea7ab3abdef4.jpg"
     },
     {
       "serverDate": "2026-11-14",

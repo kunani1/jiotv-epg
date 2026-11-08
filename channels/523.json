@@ -1398,22 +1398,44 @@
       "showName": "DP World Tour Golf",
       "description": "Professional golf players from around the world participate in the DP World Tour in order to achieve glory and win the coveted golf trophy.",
       "startDate": "2026-11-14T00:00:00",
-      "endDate": "2026-11-14T02:00:00",
+      "endDate": "2026-11-14T03:30:00",
       "showTime": "00:00:00",
-      "endTime": "02:00:00",
+      "endTime": "03:30:00",
       "showCategory": "Sports event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d4f992f4e0ff4ea4f762ca8f49d0b64.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Sports Programme",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-14T02:00:00",
+      "showName": "UEFA Champions League Highlights",
+      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "startDate": "2026-11-14T03:30:00",
+      "endDate": "2026-11-14T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "UFC 317: Topuria vs. Oliveira",
+      "description": "Beneil Dariush vs. Renato Moicano, lightweight; Brandon Royval vs. Joshua Van, flyweight; Alexandre Pantoja vs. Kai Kara-France, flyweight title; Ilia Topuria vs. Charles Oliveira, lightweight title. From T-Mobile Arena in Las Vegas.",
+      "startDate": "2026-11-14T04:00:00",
+      "endDate": "2026-11-14T05:30:00",
+      "showTime": "04:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/21f15d58d8a6182f7a01778b9aa95418.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Cricket Highlights",
+      "description": "Highlights from various international cricket tournaments wherein professional cricket teams compete with each other for victory.",
+      "startDate": "2026-11-14T05:30:00",
       "endDate": "2026-11-14T06:00:00",
-      "showTime": "02:00:00",
+      "showTime": "05:30:00",
       "endTime": "06:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6dedaa0fb1d00594085e17db1843a385.jpg"
     },
     {
       "serverDate": "2026-11-14",
