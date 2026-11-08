@@ -8,6 +8,116 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/blywcm.png",
   "programs": [
     {
+      "serverDate": "2026-11-07",
+      "showName": "No Smoking",
+      "description": "A man, stricken by nicotine addiction, checks himself into a rehabilitation centre. However, this decision causes a chain reaction of unfortunate events and alters the trajectory of his life.",
+      "startDate": "2026-11-07T00:00:00",
+      "endDate": "2026-11-07T00:27:00",
+      "showTime": "00:00:00",
+      "endTime": "00:27:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/787a43c5f64daf8208fe0c9ab7056d27.jpg"
+    },
+    {
+      "serverDate": "2026-11-07",
+      "showName": "Tevar",
+      "description": "A kabaddi player tries to safeguard a young woman hounded by a deadly factional leader who wants to marry her against her wish. Eventually, they both fall in love with each other.",
+      "startDate": "2026-11-07T00:27:00",
+      "endDate": "2026-11-07T03:27:00",
+      "showTime": "00:27:00",
+      "endTime": "03:27:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9e149044fa3f80049e5726d1a91b1cf6.jpg"
+    },
+    {
+      "serverDate": "2026-11-07",
+      "showName": "Dishkiyaoon",
+      "description": "A young man from an upper-class family rejects love and friendship as he ruthlessly climbs to become the top gangster in Mumbai's underworld.",
+      "startDate": "2026-11-07T03:27:00",
+      "endDate": "2026-11-07T05:44:00",
+      "showTime": "03:27:00",
+      "endTime": "05:44:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ef089828f8c51a416dbb9d7c1ccdac83.jpg"
+    },
+    {
+      "serverDate": "2026-11-07",
+      "showName": "Main Krishna Hoon",
+      "description": "Krishna, an abandoned boy, is taken into an orphanage by a kind couple. When all his friends get adopted and he starts feeling unwanted, Lord Krishna appears and befriends him.",
+      "startDate": "2026-11-07T05:44:00",
+      "endDate": "2026-11-07T08:20:00",
+      "showTime": "05:44:00",
+      "endTime": "08:20:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0cde64418c210a118d74291b65260ca5.jpg"
+    },
+    {
+      "serverDate": "2026-11-07",
+      "showName": "Sab Kushal Mangal",
+      "description": "Hilarity ensues when the creator of a reality show and his sworn enemy, an unethical politician, become infatuated with the same woman and compete with each other to win her over.",
+      "startDate": "2026-11-07T08:20:00",
+      "endDate": "2026-11-07T10:58:00",
+      "showTime": "08:20:00",
+      "endTime": "10:58:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/86980eccdfc42150fd39a5c90a7403e4.jpg"
+    },
+    {
+      "serverDate": "2026-11-07",
+      "showName": "Happy Bhag Jayegi",
+      "description": "Happy, a vibrant Indian girl, elopes on the day of her wedding so that she can marry Guddu, the man she loves. However, she mistakenly arrives at the home of a Pakistani politician where chaos ensues.",
+      "startDate": "2026-11-07T10:58:00",
+      "endDate": "2026-11-07T13:30:00",
+      "showTime": "10:58:00",
+      "endTime": "13:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eec875fcffa4ba34b64282a27906743e.jpg"
+    },
+    {
+      "serverDate": "2026-11-07",
+      "showName": "Tanu Weds Manu Returns",
+      "description": "After Tanu and Manu's marriage falls apart, the latter finds himself smitten by Datto, a lookalike of his ex-wife. But soon enough, the estranged couple's feelings begin to spark again.",
+      "startDate": "2026-11-07T13:30:00",
+      "endDate": "2026-11-07T16:00:00",
+      "showTime": "13:30:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2574f5b5925b23106d47d96164a166b0.jpg"
+    },
+    {
+      "serverDate": "2026-11-07",
+      "showName": "English Vinglish",
+      "description": "A housewife and caterer, Shashi, is usually mocked by her family for not knowing English. Her attempt to learn the language helps her rediscover herself and reassert her value as a mother and a wife.",
+      "startDate": "2026-11-07T16:00:00",
+      "endDate": "2026-11-07T18:40:00",
+      "showTime": "16:00:00",
+      "endTime": "18:40:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/db139296dceaf862817b433d8ed27586.jpg"
+    },
+    {
+      "serverDate": "2026-11-07",
+      "showName": "Devdas",
+      "description": "After Devdas's family condemns his relationship with Parvati, his life spirals out of control and he finds solace in alcohol and Chandramukhi.",
+      "startDate": "2026-11-07T18:40:00",
+      "endDate": "2026-11-07T22:19:00",
+      "showTime": "18:40:00",
+      "endTime": "22:19:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ab5c0a23772be00876366374034b667c.jpg"
+    },
+    {
+      "serverDate": "2026-11-07",
+      "showName": "Table No. 21",
+      "description": "While on a fully-paid trip to Fiji, the financially struggling Vivaan and Siya are offered a chance to participate in a game show offering a huge cash prize. As the game progresses, the tasks and questions become increasingly challenging.",
+      "startDate": "2026-11-07T22:19:00",
+      "endDate": "2026-11-07T23:59:59",
+      "showTime": "22:19:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/60bb6bb0750bb02a3aeeb6ab1fdb641f.jpg"
+    },
+    {
       "serverDate": "2026-11-08",
       "showName": "Table No. 21",
       "description": "While on a fully-paid trip to Fiji, the financially struggling Vivaan and Siya are offered a chance to participate in a game show offering a huge cash prize. As the game progresses, the tasks and questions become increasingly challenging.",
@@ -199,22 +309,33 @@
       "showName": "Mukkabaaz",
       "description": "Shravan Singh, an aspiring boxer, finds an enemy in Bhagwan Das Mishra, the head of a boxing federation. Thereafter, things take a turn for the worse after he falls for Bhagwan's niece, Sunaina.",
       "startDate": "2026-11-09T15:16:00",
-      "endDate": "2026-11-09T18:00:00",
+      "endDate": "2026-11-09T18:24:00",
       "showTime": "15:16:00",
-      "endTime": "18:00:00",
+      "endTime": "18:24:00",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7768ae1ba8b7720bf13f8438965d4f6a.jpg"
     },
     {
       "serverDate": "2026-11-09",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-09T18:00:00",
+      "showName": "Kochadaiiyaan The Legend",
+      "description": "Rana, a belligerent warrior, declares war against his kingdom's ruler to avenge his father's death, unexpectedly making a new enemy in the process.",
+      "startDate": "2026-11-09T18:24:00",
+      "endDate": "2026-11-09T20:46:00",
+      "showTime": "18:24:00",
+      "endTime": "20:46:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/87eba410cd8aa79d19af30bcd216a48e.jpg"
+    },
+    {
+      "serverDate": "2026-11-09",
+      "showName": "Ek Tha Sardaar",
+      "description": "Sardaar, a rickshaw driver, leads a content life with his family and is a kind-hearted man. However, his life changes for the worse after he is declared a fugitive.",
+      "startDate": "2026-11-09T20:46:00",
       "endDate": "2026-11-09T22:00:00",
-      "showTime": "18:00:00",
+      "showTime": "20:46:00",
       "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e31766d236b856d14a37a6ae7ad70899.jpg"
     },
     {
       "serverDate": "2026-11-09",
