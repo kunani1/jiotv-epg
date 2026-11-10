@@ -8,479 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kisan.png",
   "programs": [
     {
-      "serverDate": "2026-11-08",
-      "showName": "Kiske Roke Ruka Hai Savera",
-      "description": "Kiske Roke Ruka Hai Savera",
-      "startDate": "2026-11-08T00:00:00",
-      "endDate": "2026-11-08T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Khoji Kisan",
-      "description": "Khoji Kisan",
-      "startDate": "2026-11-08T00:30:00",
-      "endDate": "2026-11-08T01:00:00",
-      "showTime": "00:30:00",
-      "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Swad Sehat Aur India",
-      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
-      "startDate": "2026-11-08T01:00:00",
-      "endDate": "2026-11-08T01:30:00",
-      "showTime": "01:00:00",
-      "endTime": "01:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Gaon Hunter Babu Ka",
-      "description": "Gaon Hunter Babu Ka",
-      "startDate": "2026-11-08T01:30:00",
-      "endDate": "2026-11-08T02:00:00",
-      "showTime": "01:30:00",
-      "endTime": "02:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Hi-Tech Kethi",
-      "description": "Hi-Tech Kethi",
-      "startDate": "2026-11-08T02:00:00",
-      "endDate": "2026-11-08T02:30:00",
-      "showTime": "02:00:00",
-      "endTime": "02:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/66dc2782b76ef6bb2fd060c67dd916db.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Apna Commodity Experts",
-      "description": "The host sheds light on important updates surrounding agricultural produce while providing key inputs that can be of help to farmers.",
-      "startDate": "2026-11-08T02:30:00",
-      "endDate": "2026-11-08T03:00:00",
-      "showTime": "02:30:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0873c485db50a0b2103d71ebf0461734.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Sarkar Apke Saath",
-      "description": "The presenter explains various government schemes in detail, shows how to properly utilise them and answers frequently asked questions about them.",
-      "startDate": "2026-11-08T03:00:00",
-      "endDate": "2026-11-08T03:30:00",
-      "showTime": "03:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e1486af45baaa4dcd8a3fbff873a134a.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Mil Gaye Manzil Mujhe",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-08T03:30:00",
-      "endDate": "2026-11-08T04:00:00",
-      "showTime": "03:30:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a3756afdfc5c27bd9c067ecdad0489b8.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "The Agro Factory",
-      "description": "Subject-matter experts in the field of farming and agriculture shed light on the various ways they optimise their agricultural produce.",
-      "startDate": "2026-11-08T04:00:00",
-      "endDate": "2026-11-08T04:30:00",
-      "showTime": "04:00:00",
-      "endTime": "04:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/601838e31904e5d4747996bcc40db4b9.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Kiske Roke Ruka Hai Savera",
-      "description": "Kiske Roke Ruka Hai Savera",
-      "startDate": "2026-11-08T04:30:00",
-      "endDate": "2026-11-08T05:00:00",
-      "showTime": "04:30:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Khoji Kisan",
-      "description": "Khoji Kisan",
-      "startDate": "2026-11-08T05:00:00",
-      "endDate": "2026-11-08T05:30:00",
-      "showTime": "05:00:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Swad Sehat Aur India",
-      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
-      "startDate": "2026-11-08T05:30:00",
-      "endDate": "2026-11-08T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Albele Hatho Ka Hunar",
-      "description": "The host travels to different regions in India, meeting various local artisans to understand and shed light on their craft.",
-      "startDate": "2026-11-08T06:00:00",
-      "endDate": "2026-11-08T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c763210e8b5cc581f2bbf97b988b1044.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Geet Maati Manush",
-      "description": "Farmers recount their success stories and highlight how they address different agricultural challenges to secure rich harvests.",
-      "startDate": "2026-11-08T06:30:00",
-      "endDate": "2026-11-08T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd3036645548e0ab28289750cf1d9856.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Hi-Tech Kethi",
-      "description": "Hi-Tech Kethi",
-      "startDate": "2026-11-08T07:00:00",
-      "endDate": "2026-11-08T07:30:00",
-      "showTime": "07:00:00",
-      "endTime": "07:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/66dc2782b76ef6bb2fd060c67dd916db.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Mausam Khabar",
-      "description": "The host presents the latest news and updates regarding the weather in India and around the world and makes predictions about the possible changes in the climate.",
-      "startDate": "2026-11-08T07:30:00",
-      "endDate": "2026-11-08T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5d1234af9bbde730868feb01fa1d72a0.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Apna Commodity Experts",
-      "description": "The host sheds light on important updates surrounding agricultural produce while providing key inputs that can be of help to farmers.",
-      "startDate": "2026-11-08T08:00:00",
-      "endDate": "2026-11-08T08:30:00",
-      "showTime": "08:00:00",
-      "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0873c485db50a0b2103d71ebf0461734.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Mandi . Com",
-      "description": "The host presents the latest updates from the field of agriculture and an insight into the market prices of fruits, grains and vegetables.",
-      "startDate": "2026-11-08T08:30:00",
-      "endDate": "2026-11-08T09:00:00",
-      "showTime": "08:30:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0bc514bada90a1fef8a279d206d20fc.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Agri Ki Udaan",
-      "description": "A subject-matter expert delivers a detailed explanation on various concepts in agriculture in an easy-to-understand manner.",
-      "startDate": "2026-11-08T09:00:00",
-      "endDate": "2026-11-08T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e0b1856955bc2b790d6caca980df3de5.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Albele Hatho Ka Hunar",
-      "description": "The host travels to different regions in India, meeting various local artisans to understand and shed light on their craft.",
-      "startDate": "2026-11-08T09:30:00",
-      "endDate": "2026-11-08T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c763210e8b5cc581f2bbf97b988b1044.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Mausam Khabar",
-      "description": "The host presents the latest news and updates regarding the weather in India and around the world and makes predictions about the possible changes in the climate.",
-      "startDate": "2026-11-08T10:00:00",
-      "endDate": "2026-11-08T10:30:00",
-      "showTime": "10:00:00",
-      "endTime": "10:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5d1234af9bbde730868feb01fa1d72a0.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Ek Kadam Unnati Ki Ore",
-      "description": "Ek Kadam Unnati Ki Ore",
-      "startDate": "2026-11-08T10:30:00",
-      "endDate": "2026-11-08T11:00:00",
-      "showTime": "10:30:00",
-      "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0736d5054ed769eabb6796ce4f6b306b.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Swasth Kisan",
-      "description": "The host invites experts from the field of medicine who provide their insights on different ailments, their prevention and treatments.",
-      "startDate": "2026-11-08T11:00:00",
-      "endDate": "2026-11-08T12:00:00",
-      "showTime": "11:00:00",
-      "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29f03f95ab47f99c259a27c6a9e09582.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Hausla",
-      "description": "A religious leader delivers an enlightening discourse on the importance of courage and its profound effect on people's lives.",
-      "startDate": "2026-11-08T12:00:00",
-      "endDate": "2026-11-08T12:30:00",
-      "showTime": "12:00:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b7351294bfee5624737a41e672da3b2.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Kiske Roke Ruka Hai Savera",
-      "description": "Kiske Roke Ruka Hai Savera",
-      "startDate": "2026-11-08T12:30:00",
-      "endDate": "2026-11-08T13:00:00",
-      "showTime": "12:30:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Mil Gaye Manzil Mujhe",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-08T13:00:00",
-      "endDate": "2026-11-08T13:30:00",
-      "showTime": "13:00:00",
-      "endTime": "13:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a3756afdfc5c27bd9c067ecdad0489b8.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Kisan Samachar",
-      "description": "The host gives insights into the latest agricultural technology, innovations and facilities, and the methods to cultivate a good produce.",
-      "startDate": "2026-11-08T13:30:00",
-      "endDate": "2026-11-08T14:00:00",
-      "showTime": "13:30:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d4af7d1c628d6f5f21ade8450bf3bed6.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "The Agro Factory",
-      "description": "Subject-matter experts in the field of farming and agriculture shed light on the various ways they optimise their agricultural produce.",
-      "startDate": "2026-11-08T14:00:00",
-      "endDate": "2026-11-08T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/601838e31904e5d4747996bcc40db4b9.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Gaon Hunter Babu Ka",
-      "description": "Gaon Hunter Babu Ka",
-      "startDate": "2026-11-08T14:30:00",
-      "endDate": "2026-11-08T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Sach Ka Sath",
-      "description": "The host sheds light on the latest and recent developments of the country and discusses and analyses the topics with experts.",
-      "startDate": "2026-11-08T15:00:00",
-      "endDate": "2026-11-08T16:00:00",
-      "showTime": "15:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7de951481d90cdfcf9749db1206266c0.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Kisano Ke Mahanayak",
-      "description": "Farmers share their success stories and shed light on how they manage to tackle various agricultural problems to ensure bumper crops.",
-      "startDate": "2026-11-08T16:00:00",
-      "endDate": "2026-11-08T16:30:00",
-      "showTime": "16:00:00",
-      "endTime": "16:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/000a48971895c729a593c4831d0928de.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Krishi Shiksha Aur Anusandhan",
-      "description": "The host presents the latest updates from the agriculture sector and provides details of the farming technologies being developed and implemented in the country.",
-      "startDate": "2026-11-08T16:30:00",
-      "endDate": "2026-11-08T17:00:00",
-      "showTime": "16:30:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2218de61509a5447f6b651d3fe337bfd.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Mandi . Com",
-      "description": "The host presents the latest updates from the field of agriculture and an insight into the market prices of fruits, grains and vegetables.",
-      "startDate": "2026-11-08T17:00:00",
-      "endDate": "2026-11-08T17:30:00",
-      "showTime": "17:00:00",
-      "endTime": "17:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0bc514bada90a1fef8a279d206d20fc.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Kisan Samachar",
-      "description": "The host gives insights into the latest agricultural technology, innovations and facilities, and the methods to cultivate a good produce.",
-      "startDate": "2026-11-08T17:30:00",
-      "endDate": "2026-11-08T18:00:00",
-      "showTime": "17:30:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d4af7d1c628d6f5f21ade8450bf3bed6.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Agri Ki Udaan",
-      "description": "A subject-matter expert delivers a detailed explanation on various concepts in agriculture in an easy-to-understand manner.",
-      "startDate": "2026-11-08T18:00:00",
-      "endDate": "2026-11-08T18:30:00",
-      "showTime": "18:00:00",
-      "endTime": "18:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e0b1856955bc2b790d6caca980df3de5.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Apna Pashuchikistak",
-      "description": "A subject-matter expert delivers a detailed explanation on various concepts in animal health and care in an easy-to-understand manner.",
-      "startDate": "2026-11-08T18:30:00",
-      "endDate": "2026-11-08T19:00:00",
-      "showTime": "18:30:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/72a7a7782498537fe837167e2f22eaee.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Khas Mulakat",
-      "description": "The host interviews some of the most influential personalities from the field of politics and entertainment to talk about their lives, work and future plans.",
-      "startDate": "2026-11-08T19:00:00",
-      "endDate": "2026-11-08T19:30:00",
-      "showTime": "19:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ead565829a7b4b1aad9dd383edb5c4f3.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Mausam Khabar Live",
-      "description": "The host presents a comprehensive weather report and provides the latest forecast for various regions across the country, live.",
-      "startDate": "2026-11-08T19:30:00",
-      "endDate": "2026-11-08T20:00:00",
-      "showTime": "19:30:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/96523e6b9bc6d9683b2741bba501615d.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Krishi Darshan",
-      "description": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers.",
-      "startDate": "2026-11-08T20:00:00",
-      "endDate": "2026-11-08T20:30:00",
-      "showTime": "20:00:00",
-      "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9605eed321e00470ae1234bdc1992f0d.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Kisan Prashan Manch",
-      "description": "The host asks questions related to farming to a group of farmers who compete to win the Kisan Cup and learn something more about their profession.",
-      "startDate": "2026-11-08T20:30:00",
-      "endDate": "2026-11-08T21:30:00",
-      "showTime": "20:30:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8374d0aa63982c94e6f05d01f9c383b5.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Safal Kisan",
-      "description": "Farmers share their success stories and shed light on how they manage to tackle various agricultural problems to ensure bumper crops.",
-      "startDate": "2026-11-08T21:30:00",
-      "endDate": "2026-11-08T22:00:00",
-      "showTime": "21:30:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c1a9c47b472e19c95284d99747e3542d.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Hum Kisi Se Kam Nai",
-      "description": "Four teams of farmers and students compete against each other in a series of challenging quiz rounds to test their knowledge on agriculture.",
-      "startDate": "2026-11-08T22:00:00",
-      "endDate": "2026-11-08T23:00:00",
-      "showTime": "22:00:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ae3d81fac7cff7501b88cf2ecd618873.jpg"
-    },
-    {
-      "serverDate": "2026-11-08",
-      "showName": "Vichar vimarsh",
-      "description": "Host Anurag Sharma sheds light on issues related to farmers and the policies created by the government in their interest. Experts also analyse the policies and share their opinions.",
-      "startDate": "2026-11-08T23:00:00",
-      "endDate": "2026-11-08T23:59:59",
-      "showTime": "23:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bebea883377bae879f01252a9554667e.jpg"
-    },
-    {
       "serverDate": "2026-11-09",
       "showName": "Kiske Roke Ruka Hai Savera",
       "description": "Kiske Roke Ruka Hai Savera",
@@ -1098,25 +625,25 @@
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "Pehli Kiran",
-      "description": "Individuals from different walks of life come across several challenging situations in life, but they manage to find a way out.",
+      "showName": "Albele Hatho Ka Hunar",
+      "description": "The host travels to different regions in India, meeting various local artisans to understand and shed light on their craft.",
       "startDate": "2026-11-10T06:00:00",
       "endDate": "2026-11-10T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2ad6bdcae0a9bdc1b3bd3599a65f5e2d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c763210e8b5cc581f2bbf97b988b1044.jpg"
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "Safal Kisan",
-      "description": "Farmers share their success stories and shed light on how they manage to tackle various agricultural problems to ensure bumper crops.",
+      "showName": "Geet Maati Manush",
+      "description": "Farmers recount their success stories and highlight how they address different agricultural challenges to secure rich harvests.",
       "startDate": "2026-11-10T06:30:00",
       "endDate": "2026-11-10T07:00:00",
       "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c1a9c47b472e19c95284d99747e3542d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd3036645548e0ab28289750cf1d9856.jpg"
     },
     {
       "serverDate": "2026-11-10",
@@ -1153,36 +680,36 @@
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "Krishi Darshan",
-      "description": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers.",
+      "showName": "Pragati Ke Path Par",
+      "description": "Pragati Ke Path Par",
       "startDate": "2026-11-10T08:30:00",
       "endDate": "2026-11-10T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9605eed321e00470ae1234bdc1992f0d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "Chaupal Charcha",
-      "description": "The host sheds light on the various schemes pertaining to sanitation, loan sanction policies and electrification that are available for farmers in the rural areas.",
+      "showName": "Geet Maati Manush",
+      "description": "Farmers recount their success stories and highlight how they address different agricultural challenges to secure rich harvests.",
       "startDate": "2026-11-10T09:00:00",
       "endDate": "2026-11-10T09:30:00",
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be45fe35ab46a2efed0949205283f341.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd3036645548e0ab28289750cf1d9856.jpg"
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "Yeh Hai Mera India",
-      "description": "The host travels to different locations in India and explores its rich heritage, cultural diversity, various art forms and agricultural practices.",
+      "showName": "Albele Hatho Ka Hunar",
+      "description": "The host travels to different regions in India, meeting various local artisans to understand and shed light on their craft.",
       "startDate": "2026-11-10T09:30:00",
       "endDate": "2026-11-10T10:00:00",
       "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/37617c573a737abc6ec8c6bc8ace3eda.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c763210e8b5cc581f2bbf97b988b1044.jpg"
     },
     {
       "serverDate": "2026-11-10",
@@ -1197,58 +724,58 @@
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "Bhadhte Kadam",
-      "description": "The filmmaker captures north-east India's crucial role in agriculture, showcasing a perfect harmony of nature and cultivation.",
+      "showName": "Pragati Ki Raha Per",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-10T10:30:00",
       "endDate": "2026-11-10T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4aa94532d2e4a1c9b59b59153e80dfed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521e6c96b5bd8fb1d8e8d9c678a08500.jpg"
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "Hello Kisan",
-      "description": "The host entertains phone calls from viewers who ask questions and seek solutions from agricultural experts on various issues related to farming and animal husbandry.",
+      "showName": "Choo Lo Aasmaa",
+      "description": "The host sheds light on success stories and achievements of farmers, highlighting farming innovation, and agricultural initiatives.",
       "startDate": "2026-11-10T11:00:00",
       "endDate": "2026-11-10T12:00:00",
       "showTime": "11:00:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/898a2a3a197be6071925c4c6ca2ad59f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6da207b74bb976706c38add713ff3999.jpg"
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "Jai Kisan Jai Vigyan",
-      "description": "The host presents a comprehensive report on the latest techniques and innovation in farming, and focuses on the government policies and success stories of farmers in India.",
+      "showName": "Hausla",
+      "description": "A religious leader delivers an enlightening discourse on the importance of courage and its profound effect on people's lives.",
       "startDate": "2026-11-10T12:00:00",
       "endDate": "2026-11-10T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fc02c3af359dc44e6ed9e4eb6d11dd21.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b7351294bfee5624737a41e672da3b2.jpg"
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "Pehli Kiran",
-      "description": "Individuals from different walks of life come across several challenging situations in life, but they manage to find a way out.",
+      "showName": "Kiske Roke Ruka Hai Savera",
+      "description": "Kiske Roke Ruka Hai Savera",
       "startDate": "2026-11-10T12:30:00",
       "endDate": "2026-11-10T13:00:00",
       "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2ad6bdcae0a9bdc1b3bd3599a65f5e2d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "Swad Sehat Aur India",
-      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
+      "showName": "Mil Gaye Manzil Mujhe",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-10T13:00:00",
       "endDate": "2026-11-10T13:30:00",
       "showTime": "13:00:00",
       "endTime": "13:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a3756afdfc5c27bd9c067ecdad0489b8.jpg"
     },
     {
       "serverDate": "2026-11-10",
@@ -1263,25 +790,25 @@
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "Gramin Shodhshalayein",
-      "description": "The host uncovers how rural farmers pioneer advanced research methods, transforming traditional agriculture into a high-tech, sustainable industry.",
+      "showName": "The Agro Factory",
+      "description": "Subject-matter experts in the field of farming and agriculture shed light on the various ways they optimise their agricultural produce.",
       "startDate": "2026-11-10T14:00:00",
       "endDate": "2026-11-10T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba4f7562e6a951c8b72c0dd95542cd15.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/601838e31904e5d4747996bcc40db4b9.jpg"
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "Mahila Swawlamban",
-      "description": "The host sheds light on the various schemes pertaining to sanitation, loan sanction policies and electrification that are available to make women self-reliant.",
+      "showName": "Gaon Hunter Babu Ka",
+      "description": "Gaon Hunter Babu Ka",
       "startDate": "2026-11-10T14:30:00",
       "endDate": "2026-11-10T15:00:00",
       "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f395848a7725eaeacb711add2cd3d8be.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-10",
@@ -1296,14 +823,14 @@
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "The Agro Factory",
-      "description": "Subject-matter experts in the field of farming and agriculture shed light on the various ways they optimise their agricultural produce.",
+      "showName": "Swad Sehat Aur India",
+      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
       "startDate": "2026-11-10T15:30:00",
       "endDate": "2026-11-10T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/601838e31904e5d4747996bcc40db4b9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
     },
     {
       "serverDate": "2026-11-10",
@@ -1318,14 +845,14 @@
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "Krishi Shiksha Aur Anusandhan",
-      "description": "The host presents the latest updates from the agriculture sector and provides details of the farming technologies being developed and implemented in the country.",
+      "showName": "Kiske Roke Ruka Hai Savera",
+      "description": "Kiske Roke Ruka Hai Savera",
       "startDate": "2026-11-10T16:30:00",
       "endDate": "2026-11-10T17:00:00",
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2218de61509a5447f6b651d3fe337bfd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-10",
@@ -1351,80 +878,80 @@
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "Sach Ka Sath",
-      "description": "The host sheds light on the latest and recent developments of the country and discusses and analyses the topics with experts.",
+      "showName": "Sach Ke Sath",
+      "description": "The host presents a comprehensive report on the latest techniques and innovation in farming, and focuses on the government policies and success stories of farmers in India.",
       "startDate": "2026-11-10T18:00:00",
       "endDate": "2026-11-10T19:00:00",
       "showTime": "18:00:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7de951481d90cdfcf9749db1206266c0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/acab79993efa6533441bdccd14e3a373.jpg"
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "Krishi Darshan",
-      "description": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers.",
+      "showName": "Satat Aur Adhunik Krishi Ki Ore",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-10T19:00:00",
       "endDate": "2026-11-10T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9605eed321e00470ae1234bdc1992f0d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-10",
       "showName": "Mausam Khabar",
       "description": "The host presents the latest news and updates regarding the weather in India and around the world and makes predictions about the possible changes in the climate.",
       "startDate": "2026-11-10T19:30:00",
-      "endDate": "2026-11-10T20:05:00",
+      "endDate": "2026-11-10T20:00:00",
       "showTime": "19:30:00",
-      "endTime": "20:05:00",
+      "endTime": "20:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5d1234af9bbde730868feb01fa1d72a0.jpg"
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "Safal Kisan",
-      "description": "Farmers share their success stories and shed light on how they manage to tackle various agricultural problems to ensure bumper crops.",
-      "startDate": "2026-11-10T20:05:00",
+      "showName": "Krishi Darshan",
+      "description": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers.",
+      "startDate": "2026-11-10T20:00:00",
       "endDate": "2026-11-10T20:30:00",
-      "showTime": "20:05:00",
+      "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c1a9c47b472e19c95284d99747e3542d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9605eed321e00470ae1234bdc1992f0d.jpg"
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "Mandi Khabar",
-      "description": "The host provides an update on the latest agriculture-related news and discusses the rates of various commodities in different markets.",
+      "showName": "Swad Sehat Aur India",
+      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
       "startDate": "2026-11-10T20:30:00",
       "endDate": "2026-11-10T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9a676a19a68fd014ac007d4d99fe662.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "Mausam Khabar",
-      "description": "The host presents the latest news and updates regarding the weather in India and around the world and makes predictions about the possible changes in the climate.",
+      "showName": "Khoji Kisan",
+      "description": "Khoji Kisan",
       "startDate": "2026-11-10T21:00:00",
       "endDate": "2026-11-10T21:30:00",
       "showTime": "21:00:00",
       "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5d1234af9bbde730868feb01fa1d72a0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "Kisan Yatra",
-      "description": "The host sheds light on the latest updates and significant developments concerning the agriculture sector of the country.",
+      "showName": "Krishi Chaupal",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-10T21:30:00",
       "endDate": "2026-11-10T22:00:00",
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0a97412284f9b63b711ae3126e596f56.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b018f19d2ad04ce6be48388c266aebcf.jpg"
     },
     {
       "serverDate": "2026-11-10",
@@ -1439,69 +966,69 @@
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "Hello Kisan",
-      "description": "The host entertains phone calls from viewers who ask questions and seek solutions from agricultural experts on various issues related to farming and animal husbandry.",
+      "showName": "Choo Lo Aasmaa",
+      "description": "The host sheds light on success stories and achievements of farmers, highlighting farming innovation, and agricultural initiatives.",
       "startDate": "2026-11-10T22:30:00",
       "endDate": "2026-11-10T23:30:00",
       "showTime": "22:30:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/898a2a3a197be6071925c4c6ca2ad59f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6da207b74bb976706c38add713ff3999.jpg"
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "Gramin Shodhshalayein",
-      "description": "The host uncovers how rural farmers pioneer advanced research methods, transforming traditional agriculture into a high-tech, sustainable industry.",
+      "showName": "Krishi Shiksha Aur Anusandhan",
+      "description": "The host presents the latest updates from the agriculture sector and provides details of the farming technologies being developed and implemented in the country.",
       "startDate": "2026-11-10T23:30:00",
       "endDate": "2026-11-10T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba4f7562e6a951c8b72c0dd95542cd15.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2218de61509a5447f6b651d3fe337bfd.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Krishi Shiksha Aur Anusandhan",
-      "description": "The host presents the latest updates from the agriculture sector and provides details of the farming technologies being developed and implemented in the country.",
+      "showName": "Kiske Roke Ruka Hai Savera",
+      "description": "Kiske Roke Ruka Hai Savera",
       "startDate": "2026-11-11T00:00:00",
       "endDate": "2026-11-11T00:30:00",
       "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2218de61509a5447f6b651d3fe337bfd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Kache Raste Pakke Irade",
-      "description": "Farmers from different regions share their stories and reveal innovative farming techniques transforming modern agriculture.",
+      "showName": "Khoji Kisan",
+      "description": "Khoji Kisan",
       "startDate": "2026-11-11T00:30:00",
       "endDate": "2026-11-11T01:00:00",
       "showTime": "00:30:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/16cc82c6d574be43afe3983630e7e579.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "The Agro Factory",
-      "description": "Subject-matter experts in the field of farming and agriculture shed light on the various ways they optimise their agricultural produce.",
+      "showName": "Swad Sehat Aur India",
+      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
       "startDate": "2026-11-11T01:00:00",
       "endDate": "2026-11-11T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/601838e31904e5d4747996bcc40db4b9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Mahila Swawlamban",
-      "description": "The host sheds light on the various schemes pertaining to sanitation, loan sanction policies and electrification that are available to make women self-reliant.",
+      "showName": "Gaon Hunter Babu Ka",
+      "description": "Gaon Hunter Babu Ka",
       "startDate": "2026-11-11T01:30:00",
       "endDate": "2026-11-11T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f395848a7725eaeacb711add2cd3d8be.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-11",
@@ -1516,102 +1043,102 @@
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Safal Kisan",
-      "description": "Farmers share their success stories and shed light on how they manage to tackle various agricultural problems to ensure bumper crops.",
+      "showName": "Ek Kadam Unnati Ki Ore",
+      "description": "Ek Kadam Unnati Ki Ore",
       "startDate": "2026-11-11T02:30:00",
       "endDate": "2026-11-11T03:00:00",
       "showTime": "02:30:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c1a9c47b472e19c95284d99747e3542d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0736d5054ed769eabb6796ce4f6b306b.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Jai Kisan Jai Vigyan",
-      "description": "The host presents a comprehensive report on the latest techniques and innovation in farming, and focuses on the government policies and success stories of farmers in India.",
+      "showName": "Hausla",
+      "description": "A religious leader delivers an enlightening discourse on the importance of courage and its profound effect on people's lives.",
       "startDate": "2026-11-11T03:00:00",
       "endDate": "2026-11-11T03:30:00",
       "showTime": "03:00:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fc02c3af359dc44e6ed9e4eb6d11dd21.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b7351294bfee5624737a41e672da3b2.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Swad Sehat Aur India",
-      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
+      "showName": "Mil Gaye Manzil Mujhe",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-11T03:30:00",
       "endDate": "2026-11-11T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
-    },
-    {
-      "serverDate": "2026-11-11",
-      "showName": "Gramin Shodhshalayein",
-      "description": "The host uncovers how rural farmers pioneer advanced research methods, transforming traditional agriculture into a high-tech, sustainable industry.",
-      "startDate": "2026-11-11T04:00:00",
-      "endDate": "2026-11-11T04:30:00",
-      "showTime": "04:00:00",
-      "endTime": "04:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba4f7562e6a951c8b72c0dd95542cd15.jpg"
-    },
-    {
-      "serverDate": "2026-11-11",
-      "showName": "Krishi Shiksha Aur Anusandhan",
-      "description": "The host presents the latest updates from the agriculture sector and provides details of the farming technologies being developed and implemented in the country.",
-      "startDate": "2026-11-11T04:30:00",
-      "endDate": "2026-11-11T05:00:00",
-      "showTime": "04:30:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2218de61509a5447f6b651d3fe337bfd.jpg"
-    },
-    {
-      "serverDate": "2026-11-11",
-      "showName": "Kache Raste Pakke Irade",
-      "description": "Farmers from different regions share their stories and reveal innovative farming techniques transforming modern agriculture.",
-      "startDate": "2026-11-11T05:00:00",
-      "endDate": "2026-11-11T05:30:00",
-      "showTime": "05:00:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/16cc82c6d574be43afe3983630e7e579.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a3756afdfc5c27bd9c067ecdad0489b8.jpg"
     },
     {
       "serverDate": "2026-11-11",
       "showName": "The Agro Factory",
       "description": "Subject-matter experts in the field of farming and agriculture shed light on the various ways they optimise their agricultural produce.",
-      "startDate": "2026-11-11T05:30:00",
-      "endDate": "2026-11-11T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
+      "startDate": "2026-11-11T04:00:00",
+      "endDate": "2026-11-11T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/601838e31904e5d4747996bcc40db4b9.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Pehli Kiran",
-      "description": "Individuals from different walks of life come across several challenging situations in life, but they manage to find a way out.",
+      "showName": "Kiske Roke Ruka Hai Savera",
+      "description": "Kiske Roke Ruka Hai Savera",
+      "startDate": "2026-11-11T04:30:00",
+      "endDate": "2026-11-11T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Khoji Kisan",
+      "description": "Khoji Kisan",
+      "startDate": "2026-11-11T05:00:00",
+      "endDate": "2026-11-11T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Swad Sehat Aur India",
+      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
+      "startDate": "2026-11-11T05:30:00",
+      "endDate": "2026-11-11T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Albele Hatho Ka Hunar",
+      "description": "The host travels to different regions in India, meeting various local artisans to understand and shed light on their craft.",
       "startDate": "2026-11-11T06:00:00",
       "endDate": "2026-11-11T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2ad6bdcae0a9bdc1b3bd3599a65f5e2d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c763210e8b5cc581f2bbf97b988b1044.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Safal Kisan",
-      "description": "Farmers share their success stories and shed light on how they manage to tackle various agricultural problems to ensure bumper crops.",
+      "showName": "Geet Maati Ki Hunar",
+      "description": "Geet Maati Ki Hunar",
       "startDate": "2026-11-11T06:30:00",
       "endDate": "2026-11-11T07:00:00",
       "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c1a9c47b472e19c95284d99747e3542d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-11",
@@ -1648,36 +1175,36 @@
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Krishi Darshan",
-      "description": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers.",
+      "showName": "Pragati Ke Path Par",
+      "description": "Pragati Ke Path Par",
       "startDate": "2026-11-11T08:30:00",
       "endDate": "2026-11-11T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9605eed321e00470ae1234bdc1992f0d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Chaupal Charcha",
-      "description": "The host sheds light on the various schemes pertaining to sanitation, loan sanction policies and electrification that are available for farmers in the rural areas.",
+      "showName": "Geet Maati Ki Hunar",
+      "description": "Geet Maati Ki Hunar",
       "startDate": "2026-11-11T09:00:00",
       "endDate": "2026-11-11T09:30:00",
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be45fe35ab46a2efed0949205283f341.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Yeh Hai Mera India",
-      "description": "The host travels to different locations in India and explores its rich heritage, cultural diversity, various art forms and agricultural practices.",
+      "showName": "Albele Hatho Ka Hunar",
+      "description": "The host travels to different regions in India, meeting various local artisans to understand and shed light on their craft.",
       "startDate": "2026-11-11T09:30:00",
       "endDate": "2026-11-11T10:00:00",
       "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/37617c573a737abc6ec8c6bc8ace3eda.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c763210e8b5cc581f2bbf97b988b1044.jpg"
     },
     {
       "serverDate": "2026-11-11",
@@ -1692,58 +1219,58 @@
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Bhadhte Kadam",
-      "description": "The filmmaker captures north-east India's crucial role in agriculture, showcasing a perfect harmony of nature and cultivation.",
+      "showName": "Pragati Ki Raha Per",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-11T10:30:00",
       "endDate": "2026-11-11T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4aa94532d2e4a1c9b59b59153e80dfed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521e6c96b5bd8fb1d8e8d9c678a08500.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Hello Kisan",
-      "description": "The host entertains phone calls from viewers who ask questions and seek solutions from agricultural experts on various issues related to farming and animal husbandry.",
+      "showName": "Desh Ki Shaan Kisan",
+      "description": "Farmers from different states of India participate in quizzes and agricultural activities while demonstrating their knowledge of new technologies and various aspects of rural life.",
       "startDate": "2026-11-11T11:00:00",
       "endDate": "2026-11-11T12:00:00",
       "showTime": "11:00:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/898a2a3a197be6071925c4c6ca2ad59f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b80872e5587c5ea0db3426fd975cfbbf.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Jai Kisan Jai Vigyan",
-      "description": "The host presents a comprehensive report on the latest techniques and innovation in farming, and focuses on the government policies and success stories of farmers in India.",
+      "showName": "Hausla",
+      "description": "A religious leader delivers an enlightening discourse on the importance of courage and its profound effect on people's lives.",
       "startDate": "2026-11-11T12:00:00",
       "endDate": "2026-11-11T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fc02c3af359dc44e6ed9e4eb6d11dd21.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b7351294bfee5624737a41e672da3b2.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Pehli Kiran",
-      "description": "Individuals from different walks of life come across several challenging situations in life, but they manage to find a way out.",
+      "showName": "Kiske Roke Ruka Hai Savera",
+      "description": "Kiske Roke Ruka Hai Savera",
       "startDate": "2026-11-11T12:30:00",
       "endDate": "2026-11-11T13:00:00",
       "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2ad6bdcae0a9bdc1b3bd3599a65f5e2d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Swad Ka Safar",
-      "description": "The host travels to various remote villages across the country to discover the origins and cultures of popular Indian dishes.",
+      "showName": "Mil Gaye Manzil Mujhe",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-11T13:00:00",
       "endDate": "2026-11-11T13:30:00",
       "showTime": "13:00:00",
       "endTime": "13:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9728c2bb35d240984a3402f4527a46a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a3756afdfc5c27bd9c067ecdad0489b8.jpg"
     },
     {
       "serverDate": "2026-11-11",
@@ -1758,47 +1285,47 @@
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Gramin Shodhshalayein",
-      "description": "The host uncovers how rural farmers pioneer advanced research methods, transforming traditional agriculture into a high-tech, sustainable industry.",
+      "showName": "The Agro Factory",
+      "description": "Subject-matter experts in the field of farming and agriculture shed light on the various ways they optimise their agricultural produce.",
       "startDate": "2026-11-11T14:00:00",
       "endDate": "2026-11-11T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba4f7562e6a951c8b72c0dd95542cd15.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/601838e31904e5d4747996bcc40db4b9.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Mahila Swawlamban",
-      "description": "The host sheds light on the various schemes pertaining to sanitation, loan sanction policies and electrification that are available to make women self-reliant.",
+      "showName": "Gaon Hunter Babu Ka",
+      "description": "Gaon Hunter Babu Ka",
       "startDate": "2026-11-11T14:30:00",
       "endDate": "2026-11-11T15:00:00",
       "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f395848a7725eaeacb711add2cd3d8be.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Albele Haathon Ka Hunar",
-      "description": "The host travels to different regions of India, exploring local arts and crafts and interacting with different artisans.",
+      "showName": "Naya Daur",
+      "description": "Naya Daur",
       "startDate": "2026-11-11T15:00:00",
       "endDate": "2026-11-11T15:30:00",
       "showTime": "15:00:00",
       "endTime": "15:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/11c84e8fd9a104c44df8f82d76a692e8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/27ebc3cbceb8b157ca1bf4ae32d8eabe.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "The Agro Factory",
-      "description": "Subject-matter experts in the field of farming and agriculture shed light on the various ways they optimise their agricultural produce.",
+      "showName": "Swad Sehat Aur India",
+      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
       "startDate": "2026-11-11T15:30:00",
       "endDate": "2026-11-11T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/601838e31904e5d4747996bcc40db4b9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
     },
     {
       "serverDate": "2026-11-11",
@@ -1846,25 +1373,36 @@
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Hello Kisan",
-      "description": "The host entertains phone calls from viewers who ask questions and seek solutions from agricultural experts on various issues related to farming and animal husbandry.",
+      "showName": "Krishi Vishesh",
+      "description": "The host discusses the latest and the most relevant updates from the field of agriculture and analyses them to shed more light on them.",
       "startDate": "2026-11-11T18:00:00",
-      "endDate": "2026-11-11T19:00:00",
+      "endDate": "2026-11-11T18:30:00",
       "showTime": "18:00:00",
-      "endTime": "19:00:00",
+      "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/898a2a3a197be6071925c4c6ca2ad59f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d8cf2f86bb0c837d0660ad7696d020ab.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Krishi Darshan",
-      "description": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers.",
+      "showName": "Hi-Tech Kethi",
+      "description": "Hi-Tech Kethi",
+      "startDate": "2026-11-11T18:30:00",
+      "endDate": "2026-11-11T19:00:00",
+      "showTime": "18:30:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/66dc2782b76ef6bb2fd060c67dd916db.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Satat Aur Adhunik Krishi Ki Ore",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-11T19:00:00",
       "endDate": "2026-11-11T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9605eed321e00470ae1234bdc1992f0d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-11",
@@ -1879,58 +1417,47 @@
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "DD Kisan Ai Break",
-      "description": "Artificial Intelligence anchors provide updates on the weather and government schemes and other such matters relating to the agricultural sector of the country.",
+      "showName": "Krishi Darshan",
+      "description": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers.",
       "startDate": "2026-11-11T20:00:00",
-      "endDate": "2026-11-11T20:05:00",
-      "showTime": "20:00:00",
-      "endTime": "20:05:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d8d6247a9774e05e925d6de3dca8366.jpg"
-    },
-    {
-      "serverDate": "2026-11-11",
-      "showName": "Safal Kisan",
-      "description": "Farmers share their success stories and shed light on how they manage to tackle various agricultural problems to ensure bumper crops.",
-      "startDate": "2026-11-11T20:05:00",
       "endDate": "2026-11-11T20:30:00",
-      "showTime": "20:05:00",
+      "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c1a9c47b472e19c95284d99747e3542d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9605eed321e00470ae1234bdc1992f0d.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Mandi Khabar",
-      "description": "The host provides an update on the latest agriculture-related news and discusses the rates of various commodities in different markets.",
+      "showName": "Swad Sehat Aur India",
+      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
       "startDate": "2026-11-11T20:30:00",
       "endDate": "2026-11-11T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9a676a19a68fd014ac007d4d99fe662.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Mausam Khabar",
-      "description": "The host presents the latest news and updates regarding the weather in India and around the world and makes predictions about the possible changes in the climate.",
+      "showName": "Khoji Kisan",
+      "description": "Khoji Kisan",
       "startDate": "2026-11-11T21:00:00",
       "endDate": "2026-11-11T21:30:00",
       "showTime": "21:00:00",
       "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5d1234af9bbde730868feb01fa1d72a0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Chaupal Charcha",
-      "description": "The host sheds light on the various schemes pertaining to sanitation, loan sanction policies and electrification that are available for farmers in the rural areas.",
+      "showName": "Krishi Chaupal",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-11T21:30:00",
       "endDate": "2026-11-11T22:00:00",
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be45fe35ab46a2efed0949205283f341.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b018f19d2ad04ce6be48388c266aebcf.jpg"
     },
     {
       "serverDate": "2026-11-11",
@@ -1945,69 +1472,69 @@
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Hello Kisan",
-      "description": "The host entertains phone calls from viewers who ask questions and seek solutions from agricultural experts on various issues related to farming and animal husbandry.",
+      "showName": "Desh Ki Shaan Kisan",
+      "description": "Farmers from different states of India participate in quizzes and agricultural activities while demonstrating their knowledge of new technologies and various aspects of rural life.",
       "startDate": "2026-11-11T22:30:00",
       "endDate": "2026-11-11T23:30:00",
       "showTime": "22:30:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/898a2a3a197be6071925c4c6ca2ad59f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b80872e5587c5ea0db3426fd975cfbbf.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Gramin Shodhshalayein",
-      "description": "The host uncovers how rural farmers pioneer advanced research methods, transforming traditional agriculture into a high-tech, sustainable industry.",
+      "showName": "Krishi Shiksha Aur Anusandhan",
+      "description": "The host presents the latest updates from the agriculture sector and provides details of the farming technologies being developed and implemented in the country.",
       "startDate": "2026-11-11T23:30:00",
       "endDate": "2026-11-11T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba4f7562e6a951c8b72c0dd95542cd15.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2218de61509a5447f6b651d3fe337bfd.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Krishi Shiksha Aur Anusandhan",
-      "description": "The host presents the latest updates from the agriculture sector and provides details of the farming technologies being developed and implemented in the country.",
+      "showName": "Kiske Roke Ruka Hai Savera",
+      "description": "Kiske Roke Ruka Hai Savera",
       "startDate": "2026-11-12T00:00:00",
       "endDate": "2026-11-12T00:30:00",
       "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2218de61509a5447f6b651d3fe337bfd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Albele Haathon Ka Hunar",
-      "description": "The host travels to different regions of India, exploring local arts and crafts and interacting with different artisans.",
+      "showName": "Khoji Kisan",
+      "description": "Khoji Kisan",
       "startDate": "2026-11-12T00:30:00",
       "endDate": "2026-11-12T01:00:00",
       "showTime": "00:30:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/11c84e8fd9a104c44df8f82d76a692e8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "The Agro Factory",
-      "description": "Subject-matter experts in the field of farming and agriculture shed light on the various ways they optimise their agricultural produce.",
+      "showName": "Swad Sehat Aur India",
+      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
       "startDate": "2026-11-12T01:00:00",
       "endDate": "2026-11-12T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/601838e31904e5d4747996bcc40db4b9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Mahila Swawlamban",
-      "description": "The host sheds light on the various schemes pertaining to sanitation, loan sanction policies and electrification that are available to make women self-reliant.",
+      "showName": "Gaon Hunter Babu Ka",
+      "description": "Gaon Hunter Babu Ka",
       "startDate": "2026-11-12T01:30:00",
       "endDate": "2026-11-12T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f395848a7725eaeacb711add2cd3d8be.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
@@ -2022,102 +1549,102 @@
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Safal Kisan",
-      "description": "Farmers share their success stories and shed light on how they manage to tackle various agricultural problems to ensure bumper crops.",
+      "showName": "Ek Kadam Unnati Ki Ore",
+      "description": "Ek Kadam Unnati Ki Ore",
       "startDate": "2026-11-12T02:30:00",
       "endDate": "2026-11-12T03:00:00",
       "showTime": "02:30:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c1a9c47b472e19c95284d99747e3542d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0736d5054ed769eabb6796ce4f6b306b.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Jai Kisan Jai Vigyan",
-      "description": "The host presents a comprehensive report on the latest techniques and innovation in farming, and focuses on the government policies and success stories of farmers in India.",
+      "showName": "Hausla",
+      "description": "A religious leader delivers an enlightening discourse on the importance of courage and its profound effect on people's lives.",
       "startDate": "2026-11-12T03:00:00",
       "endDate": "2026-11-12T03:30:00",
       "showTime": "03:00:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fc02c3af359dc44e6ed9e4eb6d11dd21.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b7351294bfee5624737a41e672da3b2.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Swad Ka Safar",
-      "description": "The host travels to various remote villages across the country to discover the origins and cultures of popular Indian dishes.",
+      "showName": "Mil Gaye Manzil Mujhe",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-12T03:30:00",
       "endDate": "2026-11-12T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9728c2bb35d240984a3402f4527a46a.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Gramin Shodhshalayein",
-      "description": "The host uncovers how rural farmers pioneer advanced research methods, transforming traditional agriculture into a high-tech, sustainable industry.",
-      "startDate": "2026-11-12T04:00:00",
-      "endDate": "2026-11-12T04:30:00",
-      "showTime": "04:00:00",
-      "endTime": "04:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba4f7562e6a951c8b72c0dd95542cd15.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Krishi Shiksha Aur Anusandhan",
-      "description": "The host presents the latest updates from the agriculture sector and provides details of the farming technologies being developed and implemented in the country.",
-      "startDate": "2026-11-12T04:30:00",
-      "endDate": "2026-11-12T05:00:00",
-      "showTime": "04:30:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2218de61509a5447f6b651d3fe337bfd.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Albele Haathon Ka Hunar",
-      "description": "The host travels to different regions of India, exploring local arts and crafts and interacting with different artisans.",
-      "startDate": "2026-11-12T05:00:00",
-      "endDate": "2026-11-12T05:30:00",
-      "showTime": "05:00:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/11c84e8fd9a104c44df8f82d76a692e8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a3756afdfc5c27bd9c067ecdad0489b8.jpg"
     },
     {
       "serverDate": "2026-11-12",
       "showName": "The Agro Factory",
       "description": "Subject-matter experts in the field of farming and agriculture shed light on the various ways they optimise their agricultural produce.",
-      "startDate": "2026-11-12T05:30:00",
-      "endDate": "2026-11-12T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
+      "startDate": "2026-11-12T04:00:00",
+      "endDate": "2026-11-12T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/601838e31904e5d4747996bcc40db4b9.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Pehli Kiran",
-      "description": "Individuals from different walks of life come across several challenging situations in life, but they manage to find a way out.",
+      "showName": "Kiske Roke Ruka Hai Savera",
+      "description": "Kiske Roke Ruka Hai Savera",
+      "startDate": "2026-11-12T04:30:00",
+      "endDate": "2026-11-12T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-12",
+      "showName": "Khoji Kisan",
+      "description": "Khoji Kisan",
+      "startDate": "2026-11-12T05:00:00",
+      "endDate": "2026-11-12T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-12",
+      "showName": "Swad Sehat Aur India",
+      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
+      "startDate": "2026-11-12T05:30:00",
+      "endDate": "2026-11-12T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
+    },
+    {
+      "serverDate": "2026-11-12",
+      "showName": "Albele Hatho Ka Hunar",
+      "description": "The host travels to different regions in India, meeting various local artisans to understand and shed light on their craft.",
       "startDate": "2026-11-12T06:00:00",
       "endDate": "2026-11-12T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2ad6bdcae0a9bdc1b3bd3599a65f5e2d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c763210e8b5cc581f2bbf97b988b1044.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Safal Kisan",
-      "description": "Farmers share their success stories and shed light on how they manage to tackle various agricultural problems to ensure bumper crops.",
+      "showName": "Geet Maati Manush",
+      "description": "Farmers recount their success stories and highlight how they address different agricultural challenges to secure rich harvests.",
       "startDate": "2026-11-12T06:30:00",
       "endDate": "2026-11-12T07:00:00",
       "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c1a9c47b472e19c95284d99747e3542d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd3036645548e0ab28289750cf1d9856.jpg"
     },
     {
       "serverDate": "2026-11-12",
@@ -2154,36 +1681,36 @@
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Krishi Darshan",
-      "description": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers.",
+      "showName": "Pragati Ke Path Par",
+      "description": "Pragati Ke Path Par",
       "startDate": "2026-11-12T08:30:00",
       "endDate": "2026-11-12T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9605eed321e00470ae1234bdc1992f0d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Chaupal Charcha",
-      "description": "The host sheds light on the various schemes pertaining to sanitation, loan sanction policies and electrification that are available for farmers in the rural areas.",
+      "showName": "Geet Maati Manush",
+      "description": "Farmers recount their success stories and highlight how they address different agricultural challenges to secure rich harvests.",
       "startDate": "2026-11-12T09:00:00",
       "endDate": "2026-11-12T09:30:00",
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be45fe35ab46a2efed0949205283f341.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd3036645548e0ab28289750cf1d9856.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Yeh Hai Mera India",
-      "description": "The host travels to different locations in India and explores its rich heritage, cultural diversity, various art forms and agricultural practices.",
+      "showName": "Albele Hatho Ka Hunar",
+      "description": "The host travels to different regions in India, meeting various local artisans to understand and shed light on their craft.",
       "startDate": "2026-11-12T09:30:00",
       "endDate": "2026-11-12T10:00:00",
       "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/37617c573a737abc6ec8c6bc8ace3eda.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c763210e8b5cc581f2bbf97b988b1044.jpg"
     },
     {
       "serverDate": "2026-11-12",
@@ -2198,58 +1725,58 @@
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Bhadhte Kadam",
-      "description": "The filmmaker captures north-east India's crucial role in agriculture, showcasing a perfect harmony of nature and cultivation.",
+      "showName": "Pragati Ki Raha Per",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-12T10:30:00",
       "endDate": "2026-11-12T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4aa94532d2e4a1c9b59b59153e80dfed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521e6c96b5bd8fb1d8e8d9c678a08500.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Hello Kisan",
-      "description": "The host entertains phone calls from viewers who ask questions and seek solutions from agricultural experts on various issues related to farming and animal husbandry.",
+      "showName": "Choo Lo Aasmaa",
+      "description": "The host sheds light on success stories and achievements of farmers, highlighting farming innovation, and agricultural initiatives.",
       "startDate": "2026-11-12T11:00:00",
       "endDate": "2026-11-12T12:00:00",
       "showTime": "11:00:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/898a2a3a197be6071925c4c6ca2ad59f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6da207b74bb976706c38add713ff3999.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Jai Kisan Jai Vigyan",
-      "description": "The host presents a comprehensive report on the latest techniques and innovation in farming, and focuses on the government policies and success stories of farmers in India.",
+      "showName": "Hausla",
+      "description": "A religious leader delivers an enlightening discourse on the importance of courage and its profound effect on people's lives.",
       "startDate": "2026-11-12T12:00:00",
       "endDate": "2026-11-12T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fc02c3af359dc44e6ed9e4eb6d11dd21.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b7351294bfee5624737a41e672da3b2.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Pehli Kiran",
-      "description": "Individuals from different walks of life come across several challenging situations in life, but they manage to find a way out.",
+      "showName": "Kiske Roke Ruka Hai Savera",
+      "description": "Kiske Roke Ruka Hai Savera",
       "startDate": "2026-11-12T12:30:00",
       "endDate": "2026-11-12T13:00:00",
       "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2ad6bdcae0a9bdc1b3bd3599a65f5e2d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Swad Sehat Aur India",
-      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
+      "showName": "Mil Gaye Manzil Mujhe",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-12T13:00:00",
       "endDate": "2026-11-12T13:30:00",
       "showTime": "13:00:00",
       "endTime": "13:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a3756afdfc5c27bd9c067ecdad0489b8.jpg"
     },
     {
       "serverDate": "2026-11-12",
@@ -2264,25 +1791,25 @@
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Gramin Shodhshalayein",
-      "description": "The host uncovers how rural farmers pioneer advanced research methods, transforming traditional agriculture into a high-tech, sustainable industry.",
+      "showName": "The Agro Factory",
+      "description": "Subject-matter experts in the field of farming and agriculture shed light on the various ways they optimise their agricultural produce.",
       "startDate": "2026-11-12T14:00:00",
       "endDate": "2026-11-12T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba4f7562e6a951c8b72c0dd95542cd15.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/601838e31904e5d4747996bcc40db4b9.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Mahila Swawlamban",
-      "description": "The host sheds light on the various schemes pertaining to sanitation, loan sanction policies and electrification that are available to make women self-reliant.",
+      "showName": "Gaon Hunter Babu Ka",
+      "description": "Gaon Hunter Babu Ka",
       "startDate": "2026-11-12T14:30:00",
       "endDate": "2026-11-12T15:00:00",
       "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f395848a7725eaeacb711add2cd3d8be.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
@@ -2297,14 +1824,14 @@
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "The Agro Factory",
-      "description": "Subject-matter experts in the field of farming and agriculture shed light on the various ways they optimise their agricultural produce.",
+      "showName": "Swad Sehat Aur India",
+      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
       "startDate": "2026-11-12T15:30:00",
       "endDate": "2026-11-12T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/601838e31904e5d4747996bcc40db4b9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
     },
     {
       "serverDate": "2026-11-12",
@@ -2352,25 +1879,25 @@
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Sach Ka Sath",
-      "description": "The host sheds light on the latest and recent developments of the country and discusses and analyses the topics with experts.",
+      "showName": "Sach Ke Sath -(live)",
+      "description": "The host delivers all the latest agricultural news from India and provides recent updates related to crop prices, farming techniques and policies to the farmers, live.",
       "startDate": "2026-11-12T18:00:00",
       "endDate": "2026-11-12T19:00:00",
       "showTime": "18:00:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7de951481d90cdfcf9749db1206266c0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c6319064f13830e5a16bb310570ab021.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Krishi Vishesh",
-      "description": "The host discusses the latest and the most relevant updates from the field of agriculture and analyses them to shed more light on them.",
+      "showName": "Satat Aur Adhunik Krishi Ki Ore",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-12T19:00:00",
       "endDate": "2026-11-12T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d8cf2f86bb0c837d0660ad7696d020ab.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
@@ -2385,58 +1912,47 @@
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "DD Kisan Ai Break",
-      "description": "Artificial Intelligence anchors provide updates on the weather and government schemes and other such matters relating to the agricultural sector of the country.",
+      "showName": "Krishi Darshan",
+      "description": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers.",
       "startDate": "2026-11-12T20:00:00",
-      "endDate": "2026-11-12T20:05:00",
-      "showTime": "20:00:00",
-      "endTime": "20:05:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d8d6247a9774e05e925d6de3dca8366.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Safal Kisan",
-      "description": "Farmers share their success stories and shed light on how they manage to tackle various agricultural problems to ensure bumper crops.",
-      "startDate": "2026-11-12T20:05:00",
       "endDate": "2026-11-12T20:30:00",
-      "showTime": "20:05:00",
+      "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c1a9c47b472e19c95284d99747e3542d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9605eed321e00470ae1234bdc1992f0d.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Mandi Khabar",
-      "description": "The host provides an update on the latest agriculture-related news and discusses the rates of various commodities in different markets.",
+      "showName": "Swad Sehat Aur India",
+      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
       "startDate": "2026-11-12T20:30:00",
       "endDate": "2026-11-12T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9a676a19a68fd014ac007d4d99fe662.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Mausam Khabar",
-      "description": "The host presents the latest news and updates regarding the weather in India and around the world and makes predictions about the possible changes in the climate.",
+      "showName": "Khoji Kisan",
+      "description": "Khoji Kisan",
       "startDate": "2026-11-12T21:00:00",
       "endDate": "2026-11-12T21:30:00",
       "showTime": "21:00:00",
       "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5d1234af9bbde730868feb01fa1d72a0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Kisan Yatra",
-      "description": "The host sheds light on the latest updates and significant developments concerning the agriculture sector of the country.",
+      "showName": "Krishi Chaupal",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-12T21:30:00",
       "endDate": "2026-11-12T22:00:00",
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0a97412284f9b63b711ae3126e596f56.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b018f19d2ad04ce6be48388c266aebcf.jpg"
     },
     {
       "serverDate": "2026-11-12",
@@ -2451,69 +1967,69 @@
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Hello Kisan",
-      "description": "The host entertains phone calls from viewers who ask questions and seek solutions from agricultural experts on various issues related to farming and animal husbandry.",
+      "showName": "Choo Lo Aasmaa",
+      "description": "The host sheds light on success stories and achievements of farmers, highlighting farming innovation, and agricultural initiatives.",
       "startDate": "2026-11-12T22:30:00",
       "endDate": "2026-11-12T23:30:00",
       "showTime": "22:30:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/898a2a3a197be6071925c4c6ca2ad59f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6da207b74bb976706c38add713ff3999.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Gramin Shodhshalayein",
-      "description": "The host uncovers how rural farmers pioneer advanced research methods, transforming traditional agriculture into a high-tech, sustainable industry.",
+      "showName": "Krishi Shiksha Aur Anusandhan",
+      "description": "The host presents the latest updates from the agriculture sector and provides details of the farming technologies being developed and implemented in the country.",
       "startDate": "2026-11-12T23:30:00",
       "endDate": "2026-11-12T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba4f7562e6a951c8b72c0dd95542cd15.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2218de61509a5447f6b651d3fe337bfd.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Krishi Shiksha Aur Anusandhan",
-      "description": "The host presents the latest updates from the agriculture sector and provides details of the farming technologies being developed and implemented in the country.",
+      "showName": "Kiske Roke Ruka Hai Savera",
+      "description": "Kiske Roke Ruka Hai Savera",
       "startDate": "2026-11-13T00:00:00",
       "endDate": "2026-11-13T00:30:00",
       "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2218de61509a5447f6b651d3fe337bfd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Albele Haathon Ka Hunar",
-      "description": "The host travels to different regions of India, exploring local arts and crafts and interacting with different artisans.",
+      "showName": "Khoji Kisan",
+      "description": "Khoji Kisan",
       "startDate": "2026-11-13T00:30:00",
       "endDate": "2026-11-13T01:00:00",
       "showTime": "00:30:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/11c84e8fd9a104c44df8f82d76a692e8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "The Agro Factory",
-      "description": "Subject-matter experts in the field of farming and agriculture shed light on the various ways they optimise their agricultural produce.",
+      "showName": "Swad Sehat Aur India",
+      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
       "startDate": "2026-11-13T01:00:00",
       "endDate": "2026-11-13T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/601838e31904e5d4747996bcc40db4b9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Mahila Swawlamban",
-      "description": "The host sheds light on the various schemes pertaining to sanitation, loan sanction policies and electrification that are available to make women self-reliant.",
+      "showName": "Gaon Hunter Babu Ka",
+      "description": "Gaon Hunter Babu Ka",
       "startDate": "2026-11-13T01:30:00",
       "endDate": "2026-11-13T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f395848a7725eaeacb711add2cd3d8be.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-13",
@@ -2528,102 +2044,102 @@
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Safal Kisan",
-      "description": "Farmers share their success stories and shed light on how they manage to tackle various agricultural problems to ensure bumper crops.",
+      "showName": "Ek Kadam Unnati Ki Ore",
+      "description": "Ek Kadam Unnati Ki Ore",
       "startDate": "2026-11-13T02:30:00",
       "endDate": "2026-11-13T03:00:00",
       "showTime": "02:30:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c1a9c47b472e19c95284d99747e3542d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0736d5054ed769eabb6796ce4f6b306b.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Jai Kisan Jai Vigyan",
-      "description": "The host presents a comprehensive report on the latest techniques and innovation in farming, and focuses on the government policies and success stories of farmers in India.",
+      "showName": "Hausla",
+      "description": "A religious leader delivers an enlightening discourse on the importance of courage and its profound effect on people's lives.",
       "startDate": "2026-11-13T03:00:00",
       "endDate": "2026-11-13T03:30:00",
       "showTime": "03:00:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fc02c3af359dc44e6ed9e4eb6d11dd21.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b7351294bfee5624737a41e672da3b2.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Swad Sehat Aur India",
-      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
+      "showName": "Mil Gaye Manzil Mujhe",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-13T03:30:00",
       "endDate": "2026-11-13T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "Gramin Shodhshalayein",
-      "description": "The host uncovers how rural farmers pioneer advanced research methods, transforming traditional agriculture into a high-tech, sustainable industry.",
-      "startDate": "2026-11-13T04:00:00",
-      "endDate": "2026-11-13T04:30:00",
-      "showTime": "04:00:00",
-      "endTime": "04:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba4f7562e6a951c8b72c0dd95542cd15.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "Krishi Shiksha Aur Anusandhan",
-      "description": "The host presents the latest updates from the agriculture sector and provides details of the farming technologies being developed and implemented in the country.",
-      "startDate": "2026-11-13T04:30:00",
-      "endDate": "2026-11-13T05:00:00",
-      "showTime": "04:30:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2218de61509a5447f6b651d3fe337bfd.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "Albele Haathon Ka Hunar",
-      "description": "The host travels to different regions of India, exploring local arts and crafts and interacting with different artisans.",
-      "startDate": "2026-11-13T05:00:00",
-      "endDate": "2026-11-13T05:30:00",
-      "showTime": "05:00:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/11c84e8fd9a104c44df8f82d76a692e8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a3756afdfc5c27bd9c067ecdad0489b8.jpg"
     },
     {
       "serverDate": "2026-11-13",
       "showName": "The Agro Factory",
       "description": "Subject-matter experts in the field of farming and agriculture shed light on the various ways they optimise their agricultural produce.",
-      "startDate": "2026-11-13T05:30:00",
-      "endDate": "2026-11-13T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
+      "startDate": "2026-11-13T04:00:00",
+      "endDate": "2026-11-13T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/601838e31904e5d4747996bcc40db4b9.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Pehli Kiran",
-      "description": "Individuals from different walks of life come across several challenging situations in life, but they manage to find a way out.",
+      "showName": "Kiske Roke Ruka Hai Savera",
+      "description": "Kiske Roke Ruka Hai Savera",
+      "startDate": "2026-11-13T04:30:00",
+      "endDate": "2026-11-13T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Khoji Kisan",
+      "description": "Khoji Kisan",
+      "startDate": "2026-11-13T05:00:00",
+      "endDate": "2026-11-13T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Swad Sehat Aur India",
+      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
+      "startDate": "2026-11-13T05:30:00",
+      "endDate": "2026-11-13T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Albele Hatho Ka Hunar",
+      "description": "The host travels to different regions in India, meeting various local artisans to understand and shed light on their craft.",
       "startDate": "2026-11-13T06:00:00",
       "endDate": "2026-11-13T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2ad6bdcae0a9bdc1b3bd3599a65f5e2d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c763210e8b5cc581f2bbf97b988b1044.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Safal Kisan",
-      "description": "Farmers share their success stories and shed light on how they manage to tackle various agricultural problems to ensure bumper crops.",
+      "showName": "Geet Maati Manush",
+      "description": "Farmers recount their success stories and highlight how they address different agricultural challenges to secure rich harvests.",
       "startDate": "2026-11-13T06:30:00",
       "endDate": "2026-11-13T07:00:00",
       "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c1a9c47b472e19c95284d99747e3542d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd3036645548e0ab28289750cf1d9856.jpg"
     },
     {
       "serverDate": "2026-11-13",
@@ -2660,36 +2176,36 @@
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Krishi Darshan",
-      "description": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers.",
+      "showName": "Pragati Ke Path Par",
+      "description": "Pragati Ke Path Par",
       "startDate": "2026-11-13T08:30:00",
       "endDate": "2026-11-13T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9605eed321e00470ae1234bdc1992f0d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Chaupal Charcha",
-      "description": "The host sheds light on the various schemes pertaining to sanitation, loan sanction policies and electrification that are available for farmers in the rural areas.",
+      "showName": "Geet Maati Manush",
+      "description": "Farmers recount their success stories and highlight how they address different agricultural challenges to secure rich harvests.",
       "startDate": "2026-11-13T09:00:00",
       "endDate": "2026-11-13T09:30:00",
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be45fe35ab46a2efed0949205283f341.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd3036645548e0ab28289750cf1d9856.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Yeh Hai Mera India",
-      "description": "The host travels to different locations in India and explores its rich heritage, cultural diversity, various art forms and agricultural practices.",
+      "showName": "Albele Hatho Ka Hunar",
+      "description": "The host travels to different regions in India, meeting various local artisans to understand and shed light on their craft.",
       "startDate": "2026-11-13T09:30:00",
       "endDate": "2026-11-13T10:00:00",
       "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/37617c573a737abc6ec8c6bc8ace3eda.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c763210e8b5cc581f2bbf97b988b1044.jpg"
     },
     {
       "serverDate": "2026-11-13",
@@ -2704,58 +2220,58 @@
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Bhadhte Kadam",
-      "description": "The filmmaker captures north-east India's crucial role in agriculture, showcasing a perfect harmony of nature and cultivation.",
+      "showName": "Pragati Ki Raha Per",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-13T10:30:00",
       "endDate": "2026-11-13T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4aa94532d2e4a1c9b59b59153e80dfed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521e6c96b5bd8fb1d8e8d9c678a08500.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Hello Kisan",
-      "description": "The host entertains phone calls from viewers who ask questions and seek solutions from agricultural experts on various issues related to farming and animal husbandry.",
+      "showName": "Desh Ki Shaan Kisan",
+      "description": "Farmers from different states of India participate in quizzes and agricultural activities while demonstrating their knowledge of new technologies and various aspects of rural life.",
       "startDate": "2026-11-13T11:00:00",
       "endDate": "2026-11-13T12:00:00",
       "showTime": "11:00:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/898a2a3a197be6071925c4c6ca2ad59f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b80872e5587c5ea0db3426fd975cfbbf.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Jai Kisan Jai Vigyan",
-      "description": "The host presents a comprehensive report on the latest techniques and innovation in farming, and focuses on the government policies and success stories of farmers in India.",
+      "showName": "Hausla",
+      "description": "A religious leader delivers an enlightening discourse on the importance of courage and its profound effect on people's lives.",
       "startDate": "2026-11-13T12:00:00",
       "endDate": "2026-11-13T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fc02c3af359dc44e6ed9e4eb6d11dd21.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b7351294bfee5624737a41e672da3b2.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Guldasta",
-      "description": "Educational experts from diverse fields deliver an enlightening discourse on several topics in a simple and easy-to-understand manner.",
+      "showName": "Kiske Roke Ruka Hai Savera",
+      "description": "Kiske Roke Ruka Hai Savera",
       "startDate": "2026-11-13T12:30:00",
       "endDate": "2026-11-13T13:00:00",
       "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/544d5ad3223318583e2e08636625aa13.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Swad Sehat Aur India",
-      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
+      "showName": "Mil Gaye Manzil Mujhe",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-13T13:00:00",
       "endDate": "2026-11-13T13:30:00",
       "showTime": "13:00:00",
       "endTime": "13:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a3756afdfc5c27bd9c067ecdad0489b8.jpg"
     },
     {
       "serverDate": "2026-11-13",
@@ -2770,47 +2286,47 @@
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Gramin Shodhshalayein",
-      "description": "The host uncovers how rural farmers pioneer advanced research methods, transforming traditional agriculture into a high-tech, sustainable industry.",
+      "showName": "The Agro Factory",
+      "description": "Subject-matter experts in the field of farming and agriculture shed light on the various ways they optimise their agricultural produce.",
       "startDate": "2026-11-13T14:00:00",
       "endDate": "2026-11-13T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba4f7562e6a951c8b72c0dd95542cd15.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/601838e31904e5d4747996bcc40db4b9.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Mahila Swawlamban",
-      "description": "The host sheds light on the various schemes pertaining to sanitation, loan sanction policies and electrification that are available to make women self-reliant.",
+      "showName": "Gaon Hunter Babu Ka",
+      "description": "Gaon Hunter Babu Ka",
       "startDate": "2026-11-13T14:30:00",
       "endDate": "2026-11-13T15:00:00",
       "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f395848a7725eaeacb711add2cd3d8be.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Albele Haathon Ka Hunar",
-      "description": "The host travels to different regions of India, exploring local arts and crafts and interacting with different artisans.",
+      "showName": "Khoji Kisan",
+      "description": "Khoji Kisan",
       "startDate": "2026-11-13T15:00:00",
       "endDate": "2026-11-13T15:30:00",
       "showTime": "15:00:00",
       "endTime": "15:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/11c84e8fd9a104c44df8f82d76a692e8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "The Agro Factory",
-      "description": "Subject-matter experts in the field of farming and agriculture shed light on the various ways they optimise their agricultural produce.",
+      "showName": "Swad Sehat Aur India",
+      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
       "startDate": "2026-11-13T15:30:00",
       "endDate": "2026-11-13T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/601838e31904e5d4747996bcc40db4b9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
     },
     {
       "serverDate": "2026-11-13",
@@ -2858,25 +2374,36 @@
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Hello Kisan",
-      "description": "The host entertains phone calls from viewers who ask questions and seek solutions from agricultural experts on various issues related to farming and animal husbandry.",
+      "showName": "Hi-Tech Kethi",
+      "description": "Hi-Tech Kethi",
       "startDate": "2026-11-13T18:00:00",
-      "endDate": "2026-11-13T19:00:00",
+      "endDate": "2026-11-13T18:30:00",
       "showTime": "18:00:00",
-      "endTime": "19:00:00",
+      "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/898a2a3a197be6071925c4c6ca2ad59f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/66dc2782b76ef6bb2fd060c67dd916db.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Krishi Darshan",
-      "description": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers.",
+      "showName": "Smart Kisan",
+      "description": "Smart Kisan",
+      "startDate": "2026-11-13T18:30:00",
+      "endDate": "2026-11-13T19:00:00",
+      "showTime": "18:30:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/294e51c8ca9c3ffda5162c08d67cc7a8.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Satat Aur Adhunik Krishi Ki Ore",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-13T19:00:00",
       "endDate": "2026-11-13T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9605eed321e00470ae1234bdc1992f0d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-13",
@@ -2891,36 +2418,25 @@
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "DD Kisan Ai Break",
-      "description": "Artificial Intelligence anchors provide updates on the weather and government schemes and other such matters relating to the agricultural sector of the country.",
+      "showName": "Krishi Darshan",
+      "description": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers.",
       "startDate": "2026-11-13T20:00:00",
-      "endDate": "2026-11-13T20:05:00",
-      "showTime": "20:00:00",
-      "endTime": "20:05:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d8d6247a9774e05e925d6de3dca8366.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "Safal Kisan",
-      "description": "Farmers share their success stories and shed light on how they manage to tackle various agricultural problems to ensure bumper crops.",
-      "startDate": "2026-11-13T20:05:00",
       "endDate": "2026-11-13T20:30:00",
-      "showTime": "20:05:00",
+      "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c1a9c47b472e19c95284d99747e3542d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9605eed321e00470ae1234bdc1992f0d.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Mandi Khabar",
-      "description": "The host provides an update on the latest agriculture-related news and discusses the rates of various commodities in different markets.",
+      "showName": "Swad Sehat Aur India",
+      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
       "startDate": "2026-11-13T20:30:00",
       "endDate": "2026-11-13T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9a676a19a68fd014ac007d4d99fe662.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
     },
     {
       "serverDate": "2026-11-13",
@@ -2935,14 +2451,14 @@
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Chaupal Charcha",
-      "description": "The host sheds light on the various schemes pertaining to sanitation, loan sanction policies and electrification that are available for farmers in the rural areas.",
+      "showName": "Krishi Chaupal",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-13T21:30:00",
       "endDate": "2026-11-13T22:00:00",
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be45fe35ab46a2efed0949205283f341.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b018f19d2ad04ce6be48388c266aebcf.jpg"
     },
     {
       "serverDate": "2026-11-13",
@@ -2957,69 +2473,69 @@
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Hello Kisan",
-      "description": "The host entertains phone calls from viewers who ask questions and seek solutions from agricultural experts on various issues related to farming and animal husbandry.",
+      "showName": "Desh Ki Shaan Kisan",
+      "description": "Farmers from different states of India participate in quizzes and agricultural activities while demonstrating their knowledge of new technologies and various aspects of rural life.",
       "startDate": "2026-11-13T22:30:00",
       "endDate": "2026-11-13T23:30:00",
       "showTime": "22:30:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/898a2a3a197be6071925c4c6ca2ad59f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b80872e5587c5ea0db3426fd975cfbbf.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Gramin Shodhshalayein",
-      "description": "The host uncovers how rural farmers pioneer advanced research methods, transforming traditional agriculture into a high-tech, sustainable industry.",
+      "showName": "Krishi Shiksha Aur Anusandhan",
+      "description": "The host presents the latest updates from the agriculture sector and provides details of the farming technologies being developed and implemented in the country.",
       "startDate": "2026-11-13T23:30:00",
       "endDate": "2026-11-13T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba4f7562e6a951c8b72c0dd95542cd15.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2218de61509a5447f6b651d3fe337bfd.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Krishi Shiksha Aur Anusandhan",
-      "description": "The host presents the latest updates from the agriculture sector and provides details of the farming technologies being developed and implemented in the country.",
+      "showName": "Kiske Roke Ruka Hai Savera",
+      "description": "Kiske Roke Ruka Hai Savera",
       "startDate": "2026-11-14T00:00:00",
       "endDate": "2026-11-14T00:30:00",
       "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2218de61509a5447f6b651d3fe337bfd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Albele Haathon Ka Hunar",
-      "description": "The host travels to different regions of India, exploring local arts and crafts and interacting with different artisans.",
+      "showName": "Khoji Kisan",
+      "description": "Khoji Kisan",
       "startDate": "2026-11-14T00:30:00",
       "endDate": "2026-11-14T01:00:00",
       "showTime": "00:30:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/11c84e8fd9a104c44df8f82d76a692e8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "The Agro Factory",
-      "description": "Subject-matter experts in the field of farming and agriculture shed light on the various ways they optimise their agricultural produce.",
+      "showName": "Swad Sehat Aur India",
+      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
       "startDate": "2026-11-14T01:00:00",
       "endDate": "2026-11-14T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/601838e31904e5d4747996bcc40db4b9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Mahila Swawlamban",
-      "description": "The host sheds light on the various schemes pertaining to sanitation, loan sanction policies and electrification that are available to make women self-reliant.",
+      "showName": "Gaon Hunter Babu Ka",
+      "description": "Gaon Hunter Babu Ka",
       "startDate": "2026-11-14T01:30:00",
       "endDate": "2026-11-14T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f395848a7725eaeacb711add2cd3d8be.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-14",
@@ -3034,102 +2550,102 @@
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Safal Kisan",
-      "description": "Farmers share their success stories and shed light on how they manage to tackle various agricultural problems to ensure bumper crops.",
+      "showName": "Ek Kadam Unnati Ki Ore",
+      "description": "Ek Kadam Unnati Ki Ore",
       "startDate": "2026-11-14T02:30:00",
       "endDate": "2026-11-14T03:00:00",
       "showTime": "02:30:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c1a9c47b472e19c95284d99747e3542d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0736d5054ed769eabb6796ce4f6b306b.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Jai Kisan Jai Vigyan",
-      "description": "The host presents a comprehensive report on the latest techniques and innovation in farming, and focuses on the government policies and success stories of farmers in India.",
+      "showName": "Hausla",
+      "description": "A religious leader delivers an enlightening discourse on the importance of courage and its profound effect on people's lives.",
       "startDate": "2026-11-14T03:00:00",
       "endDate": "2026-11-14T03:30:00",
       "showTime": "03:00:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fc02c3af359dc44e6ed9e4eb6d11dd21.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b7351294bfee5624737a41e672da3b2.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Swad Sehat Aur India",
-      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
+      "showName": "Mil Gaye Manzil Mujhe",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-14T03:30:00",
       "endDate": "2026-11-14T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
-    },
-    {
-      "serverDate": "2026-11-14",
-      "showName": "Gramin Shodhshalayein",
-      "description": "The host uncovers how rural farmers pioneer advanced research methods, transforming traditional agriculture into a high-tech, sustainable industry.",
-      "startDate": "2026-11-14T04:00:00",
-      "endDate": "2026-11-14T04:30:00",
-      "showTime": "04:00:00",
-      "endTime": "04:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba4f7562e6a951c8b72c0dd95542cd15.jpg"
-    },
-    {
-      "serverDate": "2026-11-14",
-      "showName": "Krishi Shiksha Aur Anusandhan",
-      "description": "The host presents the latest updates from the agriculture sector and provides details of the farming technologies being developed and implemented in the country.",
-      "startDate": "2026-11-14T04:30:00",
-      "endDate": "2026-11-14T05:00:00",
-      "showTime": "04:30:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2218de61509a5447f6b651d3fe337bfd.jpg"
-    },
-    {
-      "serverDate": "2026-11-14",
-      "showName": "Albele Haathon Ka Hunar",
-      "description": "The host travels to different regions of India, exploring local arts and crafts and interacting with different artisans.",
-      "startDate": "2026-11-14T05:00:00",
-      "endDate": "2026-11-14T05:30:00",
-      "showTime": "05:00:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/11c84e8fd9a104c44df8f82d76a692e8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a3756afdfc5c27bd9c067ecdad0489b8.jpg"
     },
     {
       "serverDate": "2026-11-14",
       "showName": "The Agro Factory",
       "description": "Subject-matter experts in the field of farming and agriculture shed light on the various ways they optimise their agricultural produce.",
-      "startDate": "2026-11-14T05:30:00",
-      "endDate": "2026-11-14T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
+      "startDate": "2026-11-14T04:00:00",
+      "endDate": "2026-11-14T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/601838e31904e5d4747996bcc40db4b9.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Guldasta",
-      "description": "Educational experts from diverse fields deliver an enlightening discourse on several topics in a simple and easy-to-understand manner.",
+      "showName": "Kiske Roke Ruka Hai Savera",
+      "description": "Kiske Roke Ruka Hai Savera",
+      "startDate": "2026-11-14T04:30:00",
+      "endDate": "2026-11-14T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Khoji Kisan",
+      "description": "Khoji Kisan",
+      "startDate": "2026-11-14T05:00:00",
+      "endDate": "2026-11-14T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Swad Sehat Aur India",
+      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
+      "startDate": "2026-11-14T05:30:00",
+      "endDate": "2026-11-14T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Albele Hatho Ka Hunar",
+      "description": "The host travels to different regions in India, meeting various local artisans to understand and shed light on their craft.",
       "startDate": "2026-11-14T06:00:00",
       "endDate": "2026-11-14T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/544d5ad3223318583e2e08636625aa13.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c763210e8b5cc581f2bbf97b988b1044.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Safal Kisan",
-      "description": "Farmers share their success stories and shed light on how they manage to tackle various agricultural problems to ensure bumper crops.",
+      "showName": "Geet Maati Manush",
+      "description": "Farmers recount their success stories and highlight how they address different agricultural challenges to secure rich harvests.",
       "startDate": "2026-11-14T06:30:00",
       "endDate": "2026-11-14T07:00:00",
       "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c1a9c47b472e19c95284d99747e3542d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd3036645548e0ab28289750cf1d9856.jpg"
     },
     {
       "serverDate": "2026-11-14",
@@ -3166,36 +2682,36 @@
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Krishi Darshan",
-      "description": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers.",
+      "showName": "Pragati Ke Path Par",
+      "description": "Pragati Ke Path Par",
       "startDate": "2026-11-14T08:30:00",
       "endDate": "2026-11-14T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9605eed321e00470ae1234bdc1992f0d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Chaupal Charcha",
-      "description": "The host sheds light on the various schemes pertaining to sanitation, loan sanction policies and electrification that are available for farmers in the rural areas.",
+      "showName": "Geet Maati Manush",
+      "description": "Farmers recount their success stories and highlight how they address different agricultural challenges to secure rich harvests.",
       "startDate": "2026-11-14T09:00:00",
       "endDate": "2026-11-14T09:30:00",
       "showTime": "09:00:00",
       "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be45fe35ab46a2efed0949205283f341.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd3036645548e0ab28289750cf1d9856.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Yeh Hai Mera India",
-      "description": "The host travels to different locations in India and explores its rich heritage, cultural diversity, various art forms and agricultural practices.",
+      "showName": "Albele Hatho Ka Hunar",
+      "description": "The host travels to different regions in India, meeting various local artisans to understand and shed light on their craft.",
       "startDate": "2026-11-14T09:30:00",
       "endDate": "2026-11-14T10:00:00",
       "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/37617c573a737abc6ec8c6bc8ace3eda.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c763210e8b5cc581f2bbf97b988b1044.jpg"
     },
     {
       "serverDate": "2026-11-14",
@@ -3210,58 +2726,58 @@
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Bhadhte Kadam",
-      "description": "The filmmaker captures north-east India's crucial role in agriculture, showcasing a perfect harmony of nature and cultivation.",
+      "showName": "Pragati Ki Raha Per",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-14T10:30:00",
       "endDate": "2026-11-14T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4aa94532d2e4a1c9b59b59153e80dfed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521e6c96b5bd8fb1d8e8d9c678a08500.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Hello Kisan",
-      "description": "The host entertains phone calls from viewers who ask questions and seek solutions from agricultural experts on various issues related to farming and animal husbandry.",
+      "showName": "Choo Lo Aasmaa",
+      "description": "The host sheds light on success stories and achievements of farmers, highlighting farming innovation, and agricultural initiatives.",
       "startDate": "2026-11-14T11:00:00",
       "endDate": "2026-11-14T12:00:00",
       "showTime": "11:00:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/898a2a3a197be6071925c4c6ca2ad59f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6da207b74bb976706c38add713ff3999.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Revisiting Indian Environment and Tradition",
-      "description": "The presenter discusses various age-old conventions and traditions that people have carried on and maintained for decades in order to look after the environment.",
+      "showName": "Hausla",
+      "description": "A religious leader delivers an enlightening discourse on the importance of courage and its profound effect on people's lives.",
       "startDate": "2026-11-14T12:00:00",
       "endDate": "2026-11-14T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be730763391ed06c83bde5f8fba672a5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b7351294bfee5624737a41e672da3b2.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Guldasta",
-      "description": "Educational experts from diverse fields deliver an enlightening discourse on several topics in a simple and easy-to-understand manner.",
+      "showName": "Kiske Roke Ruka Hai Savera",
+      "description": "Kiske Roke Ruka Hai Savera",
       "startDate": "2026-11-14T12:30:00",
       "endDate": "2026-11-14T13:00:00",
       "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/544d5ad3223318583e2e08636625aa13.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Swad Sehat Aur India",
-      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
+      "showName": "Mil Gaye Manzil Mujhe",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-14T13:00:00",
       "endDate": "2026-11-14T13:30:00",
       "showTime": "13:00:00",
       "endTime": "13:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a3756afdfc5c27bd9c067ecdad0489b8.jpg"
     },
     {
       "serverDate": "2026-11-14",
@@ -3276,25 +2792,25 @@
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Gramin Shodhshalayein",
-      "description": "The host uncovers how rural farmers pioneer advanced research methods, transforming traditional agriculture into a high-tech, sustainable industry.",
+      "showName": "The Agro Factory",
+      "description": "Subject-matter experts in the field of farming and agriculture shed light on the various ways they optimise their agricultural produce.",
       "startDate": "2026-11-14T14:00:00",
       "endDate": "2026-11-14T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba4f7562e6a951c8b72c0dd95542cd15.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/601838e31904e5d4747996bcc40db4b9.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Mahila Swawlamban",
-      "description": "The host sheds light on the various schemes pertaining to sanitation, loan sanction policies and electrification that are available to make women self-reliant.",
+      "showName": "Gaon Hunter Babu Ka",
+      "description": "Gaon Hunter Babu Ka",
       "startDate": "2026-11-14T14:30:00",
       "endDate": "2026-11-14T15:00:00",
       "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f395848a7725eaeacb711add2cd3d8be.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-14",
@@ -3320,14 +2836,14 @@
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Naye Bharat Ka Bhadhta Kisan",
-      "description": "Experts share insightful information pertaining to the latest agricultural technology, aiming to help farmers and improve crop production.",
+      "showName": "Krishi Shiksha Aur Anusandhan",
+      "description": "The host presents the latest updates from the agriculture sector and provides details of the farming technologies being developed and implemented in the country.",
       "startDate": "2026-11-14T16:30:00",
       "endDate": "2026-11-14T17:00:00",
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/83e604aab35ce9b5c6f7a3956d70f7af.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2218de61509a5447f6b651d3fe337bfd.jpg"
     },
     {
       "serverDate": "2026-11-14",
@@ -3364,14 +2880,14 @@
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Republic Day Eve",
-      "description": "President of India Droupadi Murmu delivers a message to the citizens of the country in her address on the eve of Republic Day.",
+      "showName": "Satat Aur Adhunik Krishi Ki Ore",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-14T19:00:00",
       "endDate": "2026-11-14T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e32a4f78e1647e839d484fc2e7c1c62f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-14",
@@ -3386,22 +2902,11 @@
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "DD Kisan Ai Break",
-      "description": "Artificial Intelligence anchors provide updates on the weather and government schemes and other such matters relating to the agricultural sector of the country.",
-      "startDate": "2026-11-14T20:00:00",
-      "endDate": "2026-11-14T20:05:00",
-      "showTime": "20:00:00",
-      "endTime": "20:05:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3d8d6247a9774e05e925d6de3dca8366.jpg"
-    },
-    {
-      "serverDate": "2026-11-14",
       "showName": "Vichar vimarsh",
       "description": "Host Anurag Sharma sheds light on issues related to farmers and the policies created by the government in their interest. Experts also analyse the policies and share their opinions.",
-      "startDate": "2026-11-14T20:05:00",
+      "startDate": "2026-11-14T20:00:00",
       "endDate": "2026-11-14T21:00:00",
-      "showTime": "20:05:00",
+      "showTime": "20:00:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bebea883377bae879f01252a9554667e.jpg"
@@ -3419,14 +2924,14 @@
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Krishi Startup",
-      "description": "The host presents an overview of startups that focus on the latest techniques and innovation in farming, and focuses on the government policies and success stories of farmers in India.",
+      "showName": "Krishi Chaupal",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-14T21:30:00",
       "endDate": "2026-11-14T22:00:00",
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c3e6d8278ae8d17bd58dc8d93a5097dd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b018f19d2ad04ce6be48388c266aebcf.jpg"
     },
     {
       "serverDate": "2026-11-14",
@@ -3441,91 +2946,80 @@
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Apna Commodity Experts",
-      "description": "The host sheds light on important updates surrounding agricultural produce while providing key inputs that can be of help to farmers.",
+      "showName": "Choo Lo Aasmaa",
+      "description": "The host sheds light on success stories and achievements of farmers, highlighting farming innovation, and agricultural initiatives.",
       "startDate": "2026-11-14T22:30:00",
-      "endDate": "2026-11-14T23:00:00",
-      "showTime": "22:30:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0873c485db50a0b2103d71ebf0461734.jpg"
-    },
-    {
-      "serverDate": "2026-11-14",
-      "showName": "Krishi Vishesh",
-      "description": "The host discusses the latest and the most relevant updates from the field of agriculture and analyses them to shed more light on them.",
-      "startDate": "2026-11-14T23:00:00",
       "endDate": "2026-11-14T23:30:00",
-      "showTime": "23:00:00",
+      "showTime": "22:30:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d8cf2f86bb0c837d0660ad7696d020ab.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6da207b74bb976706c38add713ff3999.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Gramin Shodhshalayein",
-      "description": "The host uncovers how rural farmers pioneer advanced research methods, transforming traditional agriculture into a high-tech, sustainable industry.",
+      "showName": "Krishi Shiksha Aur Anusandhan",
+      "description": "The host presents the latest updates from the agriculture sector and provides details of the farming technologies being developed and implemented in the country.",
       "startDate": "2026-11-14T23:30:00",
       "endDate": "2026-11-14T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba4f7562e6a951c8b72c0dd95542cd15.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2218de61509a5447f6b651d3fe337bfd.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Naye Bharat Ka Bhadhta Kisan",
-      "description": "Experts share insightful information pertaining to the latest agricultural technology, aiming to help farmers and improve crop production.",
+      "showName": "Kiske Roke Ruka Hai Savera",
+      "description": "Kiske Roke Ruka Hai Savera",
       "startDate": "2026-11-15T00:00:00",
       "endDate": "2026-11-15T00:30:00",
       "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/83e604aab35ce9b5c6f7a3956d70f7af.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Albele Haathon Ka Hunar",
-      "description": "The host travels to different regions of India, exploring local arts and crafts and interacting with different artisans.",
+      "showName": "Khoji Kisan",
+      "description": "Khoji Kisan",
       "startDate": "2026-11-15T00:30:00",
       "endDate": "2026-11-15T01:00:00",
       "showTime": "00:30:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/11c84e8fd9a104c44df8f82d76a692e8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "The Agro Factory",
-      "description": "Subject-matter experts in the field of farming and agriculture shed light on the various ways they optimise their agricultural produce.",
+      "showName": "Swad Sehat Aur India",
+      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
       "startDate": "2026-11-15T01:00:00",
       "endDate": "2026-11-15T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/601838e31904e5d4747996bcc40db4b9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Mahila Swawlamban",
-      "description": "The host sheds light on the various schemes pertaining to sanitation, loan sanction policies and electrification that are available to make women self-reliant.",
+      "showName": "Gaon Hunter Babu Ka",
+      "description": "Gaon Hunter Babu Ka",
       "startDate": "2026-11-15T01:30:00",
       "endDate": "2026-11-15T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f395848a7725eaeacb711add2cd3d8be.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Krishi Vishesh",
-      "description": "The host discusses the latest and the most relevant updates from the field of agriculture and analyses them to shed more light on them.",
+      "showName": "Hi-Tech Kethi",
+      "description": "Hi-Tech Kethi",
       "startDate": "2026-11-15T02:00:00",
       "endDate": "2026-11-15T02:30:00",
       "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d8cf2f86bb0c837d0660ad7696d020ab.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/66dc2782b76ef6bb2fd060c67dd916db.jpg"
     },
     {
       "serverDate": "2026-11-15",
@@ -3551,91 +3045,91 @@
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Swad Sehat Aur India",
-      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
+      "showName": "Mil Gaye Manzil Mujhe",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-15T03:30:00",
       "endDate": "2026-11-15T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
-    },
-    {
-      "serverDate": "2026-11-15",
-      "showName": "Gramin Shodhshalayein",
-      "description": "The host uncovers how rural farmers pioneer advanced research methods, transforming traditional agriculture into a high-tech, sustainable industry.",
-      "startDate": "2026-11-15T04:00:00",
-      "endDate": "2026-11-15T04:30:00",
-      "showTime": "04:00:00",
-      "endTime": "04:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba4f7562e6a951c8b72c0dd95542cd15.jpg"
-    },
-    {
-      "serverDate": "2026-11-15",
-      "showName": "Naye Bharat Ka Bhadhta Kisan",
-      "description": "Experts share insightful information pertaining to the latest agricultural technology, aiming to help farmers and improve crop production.",
-      "startDate": "2026-11-15T04:30:00",
-      "endDate": "2026-11-15T05:00:00",
-      "showTime": "04:30:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/83e604aab35ce9b5c6f7a3956d70f7af.jpg"
-    },
-    {
-      "serverDate": "2026-11-15",
-      "showName": "Albele Haathon Ka Hunar",
-      "description": "The host travels to different regions of India, exploring local arts and crafts and interacting with different artisans.",
-      "startDate": "2026-11-15T05:00:00",
-      "endDate": "2026-11-15T05:30:00",
-      "showTime": "05:00:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/11c84e8fd9a104c44df8f82d76a692e8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a3756afdfc5c27bd9c067ecdad0489b8.jpg"
     },
     {
       "serverDate": "2026-11-15",
       "showName": "The Agro Factory",
       "description": "Subject-matter experts in the field of farming and agriculture shed light on the various ways they optimise their agricultural produce.",
-      "startDate": "2026-11-15T05:30:00",
-      "endDate": "2026-11-15T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
+      "startDate": "2026-11-15T04:00:00",
+      "endDate": "2026-11-15T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/601838e31904e5d4747996bcc40db4b9.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Guldasta",
-      "description": "Educational experts from diverse fields deliver an enlightening discourse on several topics in a simple and easy-to-understand manner.",
+      "showName": "Kiske Roke Ruka Hai Savera",
+      "description": "Kiske Roke Ruka Hai Savera",
+      "startDate": "2026-11-15T04:30:00",
+      "endDate": "2026-11-15T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Khoji Kisan",
+      "description": "Khoji Kisan",
+      "startDate": "2026-11-15T05:00:00",
+      "endDate": "2026-11-15T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Swad Sehat Aur India",
+      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
+      "startDate": "2026-11-15T05:30:00",
+      "endDate": "2026-11-15T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Albele Hatho Ka Hunar",
+      "description": "The host travels to different regions in India, meeting various local artisans to understand and shed light on their craft.",
       "startDate": "2026-11-15T06:00:00",
       "endDate": "2026-11-15T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/544d5ad3223318583e2e08636625aa13.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c763210e8b5cc581f2bbf97b988b1044.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Yeh Hai Mera India",
-      "description": "The host travels to different locations in India and explores its rich heritage, cultural diversity, various art forms and agricultural practices.",
+      "showName": "Geet Maati Manush",
+      "description": "Farmers recount their success stories and highlight how they address different agricultural challenges to secure rich harvests.",
       "startDate": "2026-11-15T06:30:00",
       "endDate": "2026-11-15T07:00:00",
       "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/37617c573a737abc6ec8c6bc8ace3eda.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd3036645548e0ab28289750cf1d9856.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Krishi Vishesh",
-      "description": "The host discusses the latest and the most relevant updates from the field of agriculture and analyses them to shed more light on them.",
+      "showName": "Hi-Tech Kethi",
+      "description": "Hi-Tech Kethi",
       "startDate": "2026-11-15T07:00:00",
       "endDate": "2026-11-15T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d8cf2f86bb0c837d0660ad7696d020ab.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/66dc2782b76ef6bb2fd060c67dd916db.jpg"
     },
     {
       "serverDate": "2026-11-15",
@@ -3650,47 +3144,113 @@
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Mandi . Com",
-      "description": "The host presents the latest updates from the field of agriculture and an insight into the market prices of fruits, grains and vegetables.",
+      "showName": "Apna Commodity Experts",
+      "description": "The host sheds light on important updates surrounding agricultural produce while providing key inputs that can be of help to farmers.",
       "startDate": "2026-11-15T08:00:00",
       "endDate": "2026-11-15T08:30:00",
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0bc514bada90a1fef8a279d206d20fc.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0873c485db50a0b2103d71ebf0461734.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Krishi Darshan",
-      "description": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers.",
+      "showName": "Mandi . Com",
+      "description": "The host presents the latest updates from the field of agriculture and an insight into the market prices of fruits, grains and vegetables.",
       "startDate": "2026-11-15T08:30:00",
       "endDate": "2026-11-15T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9605eed321e00470ae1234bdc1992f0d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0bc514bada90a1fef8a279d206d20fc.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Republic Day Parade 2025 Live",
-      "description": "A grand parade showcasing India's military might, cultural diversity and unique initiatives is conducted to commemorate Republic Day in 2025, live.",
+      "showName": "Agri Ki Udaan",
+      "description": "A subject-matter expert delivers a detailed explanation on various concepts in agriculture in an easy-to-understand manner.",
       "startDate": "2026-11-15T09:00:00",
-      "endDate": "2026-11-15T13:00:00",
+      "endDate": "2026-11-15T09:30:00",
       "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e0b1856955bc2b790d6caca980df3de5.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Albele Hatho Ka Hunar",
+      "description": "The host travels to different regions in India, meeting various local artisans to understand and shed light on their craft.",
+      "startDate": "2026-11-15T09:30:00",
+      "endDate": "2026-11-15T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c763210e8b5cc581f2bbf97b988b1044.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Mausam Khabar",
+      "description": "The host presents the latest news and updates regarding the weather in India and around the world and makes predictions about the possible changes in the climate.",
+      "startDate": "2026-11-15T10:00:00",
+      "endDate": "2026-11-15T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5d1234af9bbde730868feb01fa1d72a0.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Pragati Ki Raha Per",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-15T10:30:00",
+      "endDate": "2026-11-15T11:00:00",
+      "showTime": "10:30:00",
+      "endTime": "11:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521e6c96b5bd8fb1d8e8d9c678a08500.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Swasth Kisan",
+      "description": "The host invites experts from the field of medicine who provide their insights on different ailments, their prevention and treatments.",
+      "startDate": "2026-11-15T11:00:00",
+      "endDate": "2026-11-15T12:00:00",
+      "showTime": "11:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29f03f95ab47f99c259a27c6a9e09582.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Hausla",
+      "description": "A religious leader delivers an enlightening discourse on the importance of courage and its profound effect on people's lives.",
+      "startDate": "2026-11-15T12:00:00",
+      "endDate": "2026-11-15T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b7351294bfee5624737a41e672da3b2.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Kiske Roke Ruka Hai Savera",
+      "description": "Kiske Roke Ruka Hai Savera",
+      "startDate": "2026-11-15T12:30:00",
+      "endDate": "2026-11-15T13:00:00",
+      "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1dba77ab45e09786a3ad515ba0e0d6f3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Swad Sehat Aur India",
-      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
+      "showName": "Mil Gaye Manzil Mujhe",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-15T13:00:00",
       "endDate": "2026-11-15T13:30:00",
       "showTime": "13:00:00",
       "endTime": "13:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a3756afdfc5c27bd9c067ecdad0489b8.jpg"
     },
     {
       "serverDate": "2026-11-15",
@@ -3705,25 +3265,25 @@
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Gramin Shodhshalayein",
-      "description": "The host uncovers how rural farmers pioneer advanced research methods, transforming traditional agriculture into a high-tech, sustainable industry.",
+      "showName": "The Agro Factory",
+      "description": "Subject-matter experts in the field of farming and agriculture shed light on the various ways they optimise their agricultural produce.",
       "startDate": "2026-11-15T14:00:00",
       "endDate": "2026-11-15T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ba4f7562e6a951c8b72c0dd95542cd15.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/601838e31904e5d4747996bcc40db4b9.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Mahila Swawlamban",
-      "description": "The host sheds light on the various schemes pertaining to sanitation, loan sanction policies and electrification that are available to make women self-reliant.",
+      "showName": "Gaon Hunter Babu Ka",
+      "description": "Gaon Hunter Babu Ka",
       "startDate": "2026-11-15T14:30:00",
       "endDate": "2026-11-15T15:00:00",
       "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f395848a7725eaeacb711add2cd3d8be.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-15",
@@ -3738,25 +3298,25 @@
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Revisiting Indian Environment and Tradition",
-      "description": "The presenter discusses various age-old conventions and traditions that people have carried on and maintained for decades in order to look after the environment.",
+      "showName": "Kisano Ke Mahanayak",
+      "description": "Farmers share their success stories and shed light on how they manage to tackle various agricultural problems to ensure bumper crops.",
       "startDate": "2026-11-15T16:00:00",
       "endDate": "2026-11-15T16:30:00",
       "showTime": "16:00:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be730763391ed06c83bde5f8fba672a5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/000a48971895c729a593c4831d0928de.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Naye Bharat Ka Bhadhta Kisan",
-      "description": "Experts share insightful information pertaining to the latest agricultural technology, aiming to help farmers and improve crop production.",
+      "showName": "Krishi Shiksha Aur Anusandhan",
+      "description": "The host presents the latest updates from the agriculture sector and provides details of the farming technologies being developed and implemented in the country.",
       "startDate": "2026-11-15T16:30:00",
       "endDate": "2026-11-15T17:00:00",
       "showTime": "16:30:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/83e604aab35ce9b5c6f7a3956d70f7af.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2218de61509a5447f6b651d3fe337bfd.jpg"
     },
     {
       "serverDate": "2026-11-15",
@@ -3826,14 +3386,14 @@
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Bharat Ki Farm Lady - Dharti Ki Shaan",
-      "description": "The host presents a comprehensive report on the latest techniques and innovation in farming, and focuses on the government policies and success stories of farmers in India.",
+      "showName": "Krishi Darshan",
+      "description": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers.",
       "startDate": "2026-11-15T20:00:00",
       "endDate": "2026-11-15T20:30:00",
       "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1874fc8fc11b49be699aa79d8e19152b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9605eed321e00470ae1234bdc1992f0d.jpg"
     },
     {
       "serverDate": "2026-11-15",
@@ -3848,47 +3408,520 @@
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Agri Ki Udaan",
-      "description": "A subject-matter expert delivers a detailed explanation on various concepts in agriculture in an easy-to-understand manner.",
+      "showName": "Safal Kisan",
+      "description": "Farmers share their success stories and shed light on how they manage to tackle various agricultural problems to ensure bumper crops.",
       "startDate": "2026-11-15T21:30:00",
       "endDate": "2026-11-15T22:00:00",
       "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e0b1856955bc2b790d6caca980df3de5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c1a9c47b472e19c95284d99747e3542d.jpg"
     },
     {
       "serverDate": "2026-11-15",
+      "showName": "Hum Kisi Se Kam Nai",
+      "description": "Four teams of farmers and students compete against each other in a series of challenging quiz rounds to test their knowledge on agriculture.",
+      "startDate": "2026-11-15T22:00:00",
+      "endDate": "2026-11-15T23:00:00",
+      "showTime": "22:00:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ae3d81fac7cff7501b88cf2ecd618873.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Vichar vimarsh",
+      "description": "Host Anurag Sharma sheds light on issues related to farmers and the policies created by the government in their interest. Experts also analyse the policies and share their opinions.",
+      "startDate": "2026-11-15T23:00:00",
+      "endDate": "2026-11-15T23:59:59",
+      "showTime": "23:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bebea883377bae879f01252a9554667e.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Kiske Roke Ruka Hai Savera",
+      "description": "Kiske Roke Ruka Hai Savera",
+      "startDate": "2026-11-16T00:00:00",
+      "endDate": "2026-11-16T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Khoji Kisan",
+      "description": "Khoji Kisan",
+      "startDate": "2026-11-16T00:30:00",
+      "endDate": "2026-11-16T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Swad Sehat Aur India",
+      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
+      "startDate": "2026-11-16T01:00:00",
+      "endDate": "2026-11-16T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Gaon Hunter Babu Ka",
+      "description": "Gaon Hunter Babu Ka",
+      "startDate": "2026-11-16T01:30:00",
+      "endDate": "2026-11-16T02:00:00",
+      "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Hausla",
+      "description": "A religious leader delivers an enlightening discourse on the importance of courage and its profound effect on people's lives.",
+      "startDate": "2026-11-16T02:00:00",
+      "endDate": "2026-11-16T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b7351294bfee5624737a41e672da3b2.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Agri Ki Udaan",
+      "description": "A subject-matter expert delivers a detailed explanation on various concepts in agriculture in an easy-to-understand manner.",
+      "startDate": "2026-11-16T02:30:00",
+      "endDate": "2026-11-16T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e0b1856955bc2b790d6caca980df3de5.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Sarkar Apke Saath",
+      "description": "The presenter explains various government schemes in detail, shows how to properly utilise them and answers frequently asked questions about them.",
+      "startDate": "2026-11-16T03:00:00",
+      "endDate": "2026-11-16T03:30:00",
+      "showTime": "03:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e1486af45baaa4dcd8a3fbff873a134a.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Mil Gaye Manzil Mujhe",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-16T03:30:00",
+      "endDate": "2026-11-16T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a3756afdfc5c27bd9c067ecdad0489b8.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "The Agro Factory",
+      "description": "Subject-matter experts in the field of farming and agriculture shed light on the various ways they optimise their agricultural produce.",
+      "startDate": "2026-11-16T04:00:00",
+      "endDate": "2026-11-16T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/601838e31904e5d4747996bcc40db4b9.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Kiske Roke Ruka Hai Savera",
+      "description": "Kiske Roke Ruka Hai Savera",
+      "startDate": "2026-11-16T04:30:00",
+      "endDate": "2026-11-16T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Khoji Kisan",
+      "description": "Khoji Kisan",
+      "startDate": "2026-11-16T05:00:00",
+      "endDate": "2026-11-16T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Swad Sehat Aur India",
+      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
+      "startDate": "2026-11-16T05:30:00",
+      "endDate": "2026-11-16T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Albele Hatho Ka Hunar",
+      "description": "The host travels to different regions in India, meeting various local artisans to understand and shed light on their craft.",
+      "startDate": "2026-11-16T06:00:00",
+      "endDate": "2026-11-16T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c763210e8b5cc581f2bbf97b988b1044.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Geet Maati Manush",
+      "description": "Farmers recount their success stories and highlight how they address different agricultural challenges to secure rich harvests.",
+      "startDate": "2026-11-16T06:30:00",
+      "endDate": "2026-11-16T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd3036645548e0ab28289750cf1d9856.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Krishi Vishesh",
+      "description": "The host discusses the latest and the most relevant updates from the field of agriculture and analyses them to shed more light on them.",
+      "startDate": "2026-11-16T07:00:00",
+      "endDate": "2026-11-16T07:30:00",
+      "showTime": "07:00:00",
+      "endTime": "07:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d8cf2f86bb0c837d0660ad7696d020ab.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
       "showName": "Mausam Khabar",
       "description": "The host presents the latest news and updates regarding the weather in India and around the world and makes predictions about the possible changes in the climate.",
-      "startDate": "2026-11-15T22:00:00",
-      "endDate": "2026-11-15T22:30:00",
+      "startDate": "2026-11-16T07:30:00",
+      "endDate": "2026-11-16T08:00:00",
+      "showTime": "07:30:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5d1234af9bbde730868feb01fa1d72a0.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Mandi Khabar",
+      "description": "The host provides an update on the latest agriculture-related news and discusses the rates of various commodities in different markets.",
+      "startDate": "2026-11-16T08:00:00",
+      "endDate": "2026-11-16T08:30:00",
+      "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9a676a19a68fd014ac007d4d99fe662.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Pragati Ke Path Par",
+      "description": "Pragati Ke Path Par",
+      "startDate": "2026-11-16T08:30:00",
+      "endDate": "2026-11-16T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Geet Maati Manush",
+      "description": "Farmers recount their success stories and highlight how they address different agricultural challenges to secure rich harvests.",
+      "startDate": "2026-11-16T09:00:00",
+      "endDate": "2026-11-16T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd3036645548e0ab28289750cf1d9856.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Agri Ki Udaan",
+      "description": "A subject-matter expert delivers a detailed explanation on various concepts in agriculture in an easy-to-understand manner.",
+      "startDate": "2026-11-16T09:30:00",
+      "endDate": "2026-11-16T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e0b1856955bc2b790d6caca980df3de5.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Mausam Khabar",
+      "description": "The host presents the latest news and updates regarding the weather in India and around the world and makes predictions about the possible changes in the climate.",
+      "startDate": "2026-11-16T10:00:00",
+      "endDate": "2026-11-16T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5d1234af9bbde730868feb01fa1d72a0.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Pragati Ki Raha Per",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-16T10:30:00",
+      "endDate": "2026-11-16T11:00:00",
+      "showTime": "10:30:00",
+      "endTime": "11:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521e6c96b5bd8fb1d8e8d9c678a08500.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Desh Ki Shaan Kisan",
+      "description": "Farmers from different states of India participate in quizzes and agricultural activities while demonstrating their knowledge of new technologies and various aspects of rural life.",
+      "startDate": "2026-11-16T11:00:00",
+      "endDate": "2026-11-16T12:00:00",
+      "showTime": "11:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b80872e5587c5ea0db3426fd975cfbbf.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Hum Kisi Se Kam Nai",
+      "description": "Four teams of farmers and students compete against each other in a series of challenging quiz rounds to test their knowledge on agriculture.",
+      "startDate": "2026-11-16T12:00:00",
+      "endDate": "2026-11-16T13:00:00",
+      "showTime": "12:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ae3d81fac7cff7501b88cf2ecd618873.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Mil Gaye Manzil Mujhe",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-16T13:00:00",
+      "endDate": "2026-11-16T13:30:00",
+      "showTime": "13:00:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a3756afdfc5c27bd9c067ecdad0489b8.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Kisan Samachar",
+      "description": "The host gives insights into the latest agricultural technology, innovations and facilities, and the methods to cultivate a good produce.",
+      "startDate": "2026-11-16T13:30:00",
+      "endDate": "2026-11-16T14:00:00",
+      "showTime": "13:30:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d4af7d1c628d6f5f21ade8450bf3bed6.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Kisan Prashan Manch",
+      "description": "The host asks questions related to farming to a group of farmers who compete to win the Kisan Cup and learn something more about their profession.",
+      "startDate": "2026-11-16T14:00:00",
+      "endDate": "2026-11-16T15:00:00",
+      "showTime": "14:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8374d0aa63982c94e6f05d01f9c383b5.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Khas Mulakat",
+      "description": "The host interviews some of the most influential personalities from the field of politics and entertainment to talk about their lives, work and future plans.",
+      "startDate": "2026-11-16T15:00:00",
+      "endDate": "2026-11-16T15:30:00",
+      "showTime": "15:00:00",
+      "endTime": "15:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ead565829a7b4b1aad9dd383edb5c4f3.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Swad Sehat Aur India",
+      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
+      "startDate": "2026-11-16T15:30:00",
+      "endDate": "2026-11-16T16:00:00",
+      "showTime": "15:30:00",
+      "endTime": "16:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Krishi Startup",
+      "description": "The host presents an overview of startups that focus on the latest techniques and innovation in farming, and focuses on the government policies and success stories of farmers in India.",
+      "startDate": "2026-11-16T16:00:00",
+      "endDate": "2026-11-16T16:30:00",
+      "showTime": "16:00:00",
+      "endTime": "16:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c3e6d8278ae8d17bd58dc8d93a5097dd.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Apna Pashuchikistak",
+      "description": "A subject-matter expert delivers a detailed explanation on various concepts in animal health and care in an easy-to-understand manner.",
+      "startDate": "2026-11-16T16:30:00",
+      "endDate": "2026-11-16T17:00:00",
+      "showTime": "16:30:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/72a7a7782498537fe837167e2f22eaee.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Mandi Khabar",
+      "description": "The host provides an update on the latest agriculture-related news and discusses the rates of various commodities in different markets.",
+      "startDate": "2026-11-16T17:00:00",
+      "endDate": "2026-11-16T17:30:00",
+      "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d9a676a19a68fd014ac007d4d99fe662.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Kisan Samachar",
+      "description": "The host gives insights into the latest agricultural technology, innovations and facilities, and the methods to cultivate a good produce.",
+      "startDate": "2026-11-16T17:30:00",
+      "endDate": "2026-11-16T18:00:00",
+      "showTime": "17:30:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d4af7d1c628d6f5f21ade8450bf3bed6.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Krishi Vishesh",
+      "description": "The host discusses the latest and the most relevant updates from the field of agriculture and analyses them to shed more light on them.",
+      "startDate": "2026-11-16T18:00:00",
+      "endDate": "2026-11-16T18:30:00",
+      "showTime": "18:00:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d8cf2f86bb0c837d0660ad7696d020ab.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Hi-Tech Kethi",
+      "description": "Hi-Tech Kethi",
+      "startDate": "2026-11-16T18:30:00",
+      "endDate": "2026-11-16T19:00:00",
+      "showTime": "18:30:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/66dc2782b76ef6bb2fd060c67dd916db.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Satat Aur Adhunik Krishi Ki Ore",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-16T19:00:00",
+      "endDate": "2026-11-16T19:30:00",
+      "showTime": "19:00:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Mausam Khabar",
+      "description": "The host presents the latest news and updates regarding the weather in India and around the world and makes predictions about the possible changes in the climate.",
+      "startDate": "2026-11-16T19:30:00",
+      "endDate": "2026-11-16T20:00:00",
+      "showTime": "19:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5d1234af9bbde730868feb01fa1d72a0.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Krishi Darshan",
+      "description": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers.",
+      "startDate": "2026-11-16T20:00:00",
+      "endDate": "2026-11-16T20:30:00",
+      "showTime": "20:00:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9605eed321e00470ae1234bdc1992f0d.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Swad Sehat Aur India",
+      "description": "The host expounds upon the various agricultural crops grown in India as well as the health benefits, traditions and festivals associated with them.",
+      "startDate": "2026-11-16T20:30:00",
+      "endDate": "2026-11-16T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9628cfa557d47d2263a6ec7888578fc7.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Khoji Kisan",
+      "description": "Khoji Kisan",
+      "startDate": "2026-11-16T21:00:00",
+      "endDate": "2026-11-16T21:30:00",
+      "showTime": "21:00:00",
+      "endTime": "21:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Krishi Chaupal",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-16T21:30:00",
+      "endDate": "2026-11-16T22:00:00",
+      "showTime": "21:30:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b018f19d2ad04ce6be48388c266aebcf.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Mausam Khabar",
+      "description": "The host presents the latest news and updates regarding the weather in India and around the world and makes predictions about the possible changes in the climate.",
+      "startDate": "2026-11-16T22:00:00",
+      "endDate": "2026-11-16T22:30:00",
       "showTime": "22:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5d1234af9bbde730868feb01fa1d72a0.jpg"
     },
     {
-      "serverDate": "2026-11-15",
-      "showName": "Vichar vimarsh",
-      "description": "Host Anurag Sharma sheds light on issues related to farmers and the policies created by the government in their interest. Experts also analyse the policies and share their opinions.",
-      "startDate": "2026-11-15T22:30:00",
-      "endDate": "2026-11-15T23:30:00",
+      "serverDate": "2026-11-16",
+      "showName": "Desh Ki Shaan Kisan",
+      "description": "Farmers from different states of India participate in quizzes and agricultural activities while demonstrating their knowledge of new technologies and various aspects of rural life.",
+      "startDate": "2026-11-16T22:30:00",
+      "endDate": "2026-11-16T23:30:00",
       "showTime": "22:30:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bebea883377bae879f01252a9554667e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b80872e5587c5ea0db3426fd975cfbbf.jpg"
     },
     {
-      "serverDate": "2026-11-15",
-      "showName": "Sarkar Apke Saath",
-      "description": "The presenter explains various government schemes in detail, shows how to properly utilise them and answers frequently asked questions about them.",
-      "startDate": "2026-11-15T23:30:00",
-      "endDate": "2026-11-15T23:59:59",
+      "serverDate": "2026-11-16",
+      "showName": "Krishi Shiksha Aur Anusandhan",
+      "description": "The host presents the latest updates from the agriculture sector and provides details of the farming technologies being developed and implemented in the country.",
+      "startDate": "2026-11-16T23:30:00",
+      "endDate": "2026-11-16T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e1486af45baaa4dcd8a3fbff873a134a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2218de61509a5447f6b651d3fe337bfd.jpg"
     }
   ]
 }
