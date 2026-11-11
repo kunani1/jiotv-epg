@@ -8,6 +8,534 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/CNBCBajar.png",
   "programs": [
     {
+      "serverDate": "2026-11-10",
+      "showName": "Diwali Top Picks",
+      "description": "Diwali Top Picks",
+      "startDate": "2026-11-10T00:00:00",
+      "endDate": "2026-11-10T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8504b3b6c908b9bc65729b10f732507.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Tech Guru",
+      "description": "The hosts share their reviews of the latest gadgets dominating the digital landscape whole providing guidance on navigating through technological trends.",
+      "startDate": "2026-11-10T00:30:00",
+      "endDate": "2026-11-10T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e6b884e3a1f61a0fa9dc1a6d3585a6f8.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dipotsav: Property Guru",
+      "description": "The host presents an expert, who discusses the latest development in the real estate sector and solves various queries asked by viewers.",
+      "startDate": "2026-11-10T01:00:00",
+      "endDate": "2026-11-10T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a81f304afcadd94cd04d34b320af335a.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Samvat 2083: Rashifal",
+      "description": "Samvat 2083: Rashifal",
+      "startDate": "2026-11-10T01:30:00",
+      "endDate": "2026-11-10T02:00:00",
+      "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c9b6e70def5dc3cba7ada4f17c7c973.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dipotsav",
+      "description": "Take a look as eminent personalities from different fields celebrate Diwali.",
+      "startDate": "2026-11-10T02:00:00",
+      "endDate": "2026-11-10T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff1d433423aee2a343e1e7becc3d2bbb.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Money Manager",
+      "description": "The host invites financial experts to advice viewers on how to manage their money while also suggesting various investment avenues.",
+      "startDate": "2026-11-10T02:30:00",
+      "endDate": "2026-11-10T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a840b2d3eabc174a76df14f107b67796.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dipotsav",
+      "description": "Take a look as eminent personalities from different fields celebrate Diwali.",
+      "startDate": "2026-11-10T03:00:00",
+      "endDate": "2026-11-10T03:30:00",
+      "showTime": "03:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff1d433423aee2a343e1e7becc3d2bbb.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Diwali Top Picks",
+      "description": "Diwali Top Picks",
+      "startDate": "2026-11-10T03:30:00",
+      "endDate": "2026-11-10T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8504b3b6c908b9bc65729b10f732507.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Tech Guru",
+      "description": "The hosts share their reviews of the latest gadgets dominating the digital landscape whole providing guidance on navigating through technological trends.",
+      "startDate": "2026-11-10T04:00:00",
+      "endDate": "2026-11-10T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e6b884e3a1f61a0fa9dc1a6d3585a6f8.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dipotsav: Property Guru",
+      "description": "The host presents an expert, who discusses the latest development in the real estate sector and solves various queries asked by viewers.",
+      "startDate": "2026-11-10T04:30:00",
+      "endDate": "2026-11-10T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a81f304afcadd94cd04d34b320af335a.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Samvat 2083: Rashifal",
+      "description": "Samvat 2083: Rashifal",
+      "startDate": "2026-11-10T05:00:00",
+      "endDate": "2026-11-10T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c9b6e70def5dc3cba7ada4f17c7c973.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dipotsav: Non Agri Special",
+      "description": "The host invites financial experts to engage in a conversation with them about the market predictions of non-agricultural commodities during the time of Diwali.",
+      "startDate": "2026-11-10T05:30:00",
+      "endDate": "2026-11-10T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/945b253751c0babb0a00a283be0668d6.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Money Manager",
+      "description": "The host invites financial experts to advice viewers on how to manage their money while also suggesting various investment avenues.",
+      "startDate": "2026-11-10T06:00:00",
+      "endDate": "2026-11-10T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a840b2d3eabc174a76df14f107b67796.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Tech Guru",
+      "description": "The hosts share their reviews of the latest gadgets dominating the digital landscape whole providing guidance on navigating through technological trends.",
+      "startDate": "2026-11-10T06:30:00",
+      "endDate": "2026-11-10T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e6b884e3a1f61a0fa9dc1a6d3585a6f8.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dipotsav",
+      "description": "Take a look as eminent personalities from different fields celebrate Diwali.",
+      "startDate": "2026-11-10T07:00:00",
+      "endDate": "2026-11-10T07:30:00",
+      "showTime": "07:00:00",
+      "endTime": "07:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff1d433423aee2a343e1e7becc3d2bbb.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Samvat 2083: Rashifal",
+      "description": "Samvat 2083: Rashifal",
+      "startDate": "2026-11-10T07:30:00",
+      "endDate": "2026-11-10T08:00:00",
+      "showTime": "07:30:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c9b6e70def5dc3cba7ada4f17c7c973.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Diwali Top Picks",
+      "description": "Diwali Top Picks",
+      "startDate": "2026-11-10T08:00:00",
+      "endDate": "2026-11-10T08:30:00",
+      "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8504b3b6c908b9bc65729b10f732507.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dipotsav: Non Agri Special",
+      "description": "The host invites financial experts to engage in a conversation with them about the market predictions of non-agricultural commodities during the time of Diwali.",
+      "startDate": "2026-11-10T08:30:00",
+      "endDate": "2026-11-10T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/945b253751c0babb0a00a283be0668d6.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dipotsav",
+      "description": "Take a look as eminent personalities from different fields celebrate Diwali.",
+      "startDate": "2026-11-10T09:00:00",
+      "endDate": "2026-11-10T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff1d433423aee2a343e1e7becc3d2bbb.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Tech Guru",
+      "description": "The hosts share their reviews of the latest gadgets dominating the digital landscape whole providing guidance on navigating through technological trends.",
+      "startDate": "2026-11-10T09:30:00",
+      "endDate": "2026-11-10T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e6b884e3a1f61a0fa9dc1a6d3585a6f8.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Money Manager",
+      "description": "The host invites financial experts to advice viewers on how to manage their money while also suggesting various investment avenues.",
+      "startDate": "2026-11-10T10:00:00",
+      "endDate": "2026-11-10T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a840b2d3eabc174a76df14f107b67796.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dipotsav: Property Guru",
+      "description": "The host presents an expert, who discusses the latest development in the real estate sector and solves various queries asked by viewers.",
+      "startDate": "2026-11-10T10:30:00",
+      "endDate": "2026-11-10T11:00:00",
+      "showTime": "10:30:00",
+      "endTime": "11:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a81f304afcadd94cd04d34b320af335a.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dipotsav",
+      "description": "Take a look as eminent personalities from different fields celebrate Diwali.",
+      "startDate": "2026-11-10T11:00:00",
+      "endDate": "2026-11-10T11:30:00",
+      "showTime": "11:00:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff1d433423aee2a343e1e7becc3d2bbb.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dipotsav: Agri Special",
+      "description": "The host invites financial experts to engage in a conversation with them about the market predictions of agricultural commodities during the time of Diwali.",
+      "startDate": "2026-11-10T11:30:00",
+      "endDate": "2026-11-10T12:00:00",
+      "showTime": "11:30:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ae4befe74c9d37fd652b81fdd481b52d.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dipotsav",
+      "description": "Take a look as eminent personalities from different fields celebrate Diwali.",
+      "startDate": "2026-11-10T12:00:00",
+      "endDate": "2026-11-10T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff1d433423aee2a343e1e7becc3d2bbb.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Diwali Top Picks",
+      "description": "Diwali Top Picks",
+      "startDate": "2026-11-10T12:30:00",
+      "endDate": "2026-11-10T13:00:00",
+      "showTime": "12:30:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8504b3b6c908b9bc65729b10f732507.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dipotsav",
+      "description": "Take a look as eminent personalities from different fields celebrate Diwali.",
+      "startDate": "2026-11-10T13:00:00",
+      "endDate": "2026-11-10T13:30:00",
+      "showTime": "13:00:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff1d433423aee2a343e1e7becc3d2bbb.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Samvat 2083: Rashifal",
+      "description": "Samvat 2083: Rashifal",
+      "startDate": "2026-11-10T13:30:00",
+      "endDate": "2026-11-10T14:00:00",
+      "showTime": "13:30:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c9b6e70def5dc3cba7ada4f17c7c973.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Tech Guru",
+      "description": "The hosts share their reviews of the latest gadgets dominating the digital landscape whole providing guidance on navigating through technological trends.",
+      "startDate": "2026-11-10T14:00:00",
+      "endDate": "2026-11-10T14:30:00",
+      "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e6b884e3a1f61a0fa9dc1a6d3585a6f8.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dipotsav: Property Guru",
+      "description": "The host presents an expert, who discusses the latest development in the real estate sector and solves various queries asked by viewers.",
+      "startDate": "2026-11-10T14:30:00",
+      "endDate": "2026-11-10T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a81f304afcadd94cd04d34b320af335a.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dipotsav: Agri Special",
+      "description": "The host invites financial experts to engage in a conversation with them about the market predictions of agricultural commodities during the time of Diwali.",
+      "startDate": "2026-11-10T15:00:00",
+      "endDate": "2026-11-10T15:30:00",
+      "showTime": "15:00:00",
+      "endTime": "15:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ae4befe74c9d37fd652b81fdd481b52d.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dipotsav",
+      "description": "Take a look as eminent personalities from different fields celebrate Diwali.",
+      "startDate": "2026-11-10T15:30:00",
+      "endDate": "2026-11-10T16:00:00",
+      "showTime": "15:30:00",
+      "endTime": "16:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff1d433423aee2a343e1e7becc3d2bbb.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dipotsav",
+      "description": "Take a look as eminent personalities from different fields celebrate Diwali.",
+      "startDate": "2026-11-10T16:00:00",
+      "endDate": "2026-11-10T16:30:00",
+      "showTime": "16:00:00",
+      "endTime": "16:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff1d433423aee2a343e1e7becc3d2bbb.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Tech Guru",
+      "description": "The hosts share their reviews of the latest gadgets dominating the digital landscape whole providing guidance on navigating through technological trends.",
+      "startDate": "2026-11-10T16:30:00",
+      "endDate": "2026-11-10T17:00:00",
+      "showTime": "16:30:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e6b884e3a1f61a0fa9dc1a6d3585a6f8.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dipotsav: Property Guru",
+      "description": "The host presents an expert, who discusses the latest development in the real estate sector and solves various queries asked by viewers.",
+      "startDate": "2026-11-10T17:00:00",
+      "endDate": "2026-11-10T17:30:00",
+      "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a81f304afcadd94cd04d34b320af335a.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Money Manager",
+      "description": "The host invites financial experts to advice viewers on how to manage their money while also suggesting various investment avenues.",
+      "startDate": "2026-11-10T17:30:00",
+      "endDate": "2026-11-10T18:00:00",
+      "showTime": "17:30:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a840b2d3eabc174a76df14f107b67796.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dipotsav",
+      "description": "Take a look as eminent personalities from different fields celebrate Diwali.",
+      "startDate": "2026-11-10T18:00:00",
+      "endDate": "2026-11-10T18:30:00",
+      "showTime": "18:00:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff1d433423aee2a343e1e7becc3d2bbb.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dipotsav: Property Guru",
+      "description": "The host presents an expert, who discusses the latest development in the real estate sector and solves various queries asked by viewers.",
+      "startDate": "2026-11-10T18:30:00",
+      "endDate": "2026-11-10T19:00:00",
+      "showTime": "18:30:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a81f304afcadd94cd04d34b320af335a.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dipotsav",
+      "description": "Take a look as eminent personalities from different fields celebrate Diwali.",
+      "startDate": "2026-11-10T19:00:00",
+      "endDate": "2026-11-10T19:30:00",
+      "showTime": "19:00:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff1d433423aee2a343e1e7becc3d2bbb.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Diwali Top Picks",
+      "description": "Diwali Top Picks",
+      "startDate": "2026-11-10T19:30:00",
+      "endDate": "2026-11-10T20:00:00",
+      "showTime": "19:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8504b3b6c908b9bc65729b10f732507.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dipotsav",
+      "description": "Take a look as eminent personalities from different fields celebrate Diwali.",
+      "startDate": "2026-11-10T20:00:00",
+      "endDate": "2026-11-10T20:30:00",
+      "showTime": "20:00:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff1d433423aee2a343e1e7becc3d2bbb.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Diwali Top Picks",
+      "description": "Diwali Top Picks",
+      "startDate": "2026-11-10T20:30:00",
+      "endDate": "2026-11-10T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8504b3b6c908b9bc65729b10f732507.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dipotsav",
+      "description": "Take a look as eminent personalities from different fields celebrate Diwali.",
+      "startDate": "2026-11-10T21:00:00",
+      "endDate": "2026-11-10T21:30:00",
+      "showTime": "21:00:00",
+      "endTime": "21:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff1d433423aee2a343e1e7becc3d2bbb.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dipotsav",
+      "description": "Take a look as eminent personalities from different fields celebrate Diwali.",
+      "startDate": "2026-11-10T21:30:00",
+      "endDate": "2026-11-10T22:00:00",
+      "showTime": "21:30:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff1d433423aee2a343e1e7becc3d2bbb.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Money Manager",
+      "description": "The host invites financial experts to advice viewers on how to manage their money while also suggesting various investment avenues.",
+      "startDate": "2026-11-10T22:00:00",
+      "endDate": "2026-11-10T22:30:00",
+      "showTime": "22:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a840b2d3eabc174a76df14f107b67796.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Diwali Top Picks",
+      "description": "Diwali Top Picks",
+      "startDate": "2026-11-10T22:30:00",
+      "endDate": "2026-11-10T23:00:00",
+      "showTime": "22:30:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a8504b3b6c908b9bc65729b10f732507.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dipotsav",
+      "description": "Take a look as eminent personalities from different fields celebrate Diwali.",
+      "startDate": "2026-11-10T23:00:00",
+      "endDate": "2026-11-10T23:30:00",
+      "showTime": "23:00:00",
+      "endTime": "23:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff1d433423aee2a343e1e7becc3d2bbb.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Samvat 2083: Rashifal",
+      "description": "Samvat 2083: Rashifal",
+      "startDate": "2026-11-10T23:30:00",
+      "endDate": "2026-11-10T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c9b6e70def5dc3cba7ada4f17c7c973.jpg"
+    },
+    {
       "serverDate": "2026-11-11",
       "showName": "Dipotsav",
       "description": "Take a look as eminent personalities from different fields celebrate Diwali.",
@@ -449,25 +977,25 @@
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Awaaz Adda",
-      "description": "Prominent political, social, economic, bureaucratic and cultural personalities of the nation debate the key national and regional issues.",
+      "showName": "Dipotsav",
+      "description": "Take a look as eminent personalities from different fields celebrate Diwali.",
       "startDate": "2026-11-11T20:00:00",
       "endDate": "2026-11-11T20:30:00",
       "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1892437fca1ccd91ad4559e30b14d7d3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff1d433423aee2a343e1e7becc3d2bbb.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Awaaz Adda",
-      "description": "Prominent political, social, economic, bureaucratic and cultural personalities of the nation debate the key national and regional issues.",
+      "showName": "Samvat 2083: Rashifal",
+      "description": "Samvat 2083: Rashifal",
       "startDate": "2026-11-11T20:30:00",
       "endDate": "2026-11-11T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1892437fca1ccd91ad4559e30b14d7d3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c9b6e70def5dc3cba7ada4f17c7c973.jpg"
     },
     {
       "serverDate": "2026-11-11",
@@ -515,25 +1043,25 @@
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Awaaz Adda",
-      "description": "Prominent political, social, economic, bureaucratic and cultural personalities of the nation debate the key national and regional issues.",
+      "showName": "Dipotsav",
+      "description": "Take a look as eminent personalities from different fields celebrate Diwali.",
       "startDate": "2026-11-11T23:00:00",
       "endDate": "2026-11-11T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1892437fca1ccd91ad4559e30b14d7d3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff1d433423aee2a343e1e7becc3d2bbb.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Awaaz Adda",
-      "description": "Prominent political, social, economic, bureaucratic and cultural personalities of the nation debate the key national and regional issues.",
+      "showName": "Samvat 2083: Rashifal",
+      "description": "Samvat 2083: Rashifal",
       "startDate": "2026-11-11T23:30:00",
       "endDate": "2026-11-11T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1892437fca1ccd91ad4559e30b14d7d3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c9b6e70def5dc3cba7ada4f17c7c973.jpg"
     },
     {
       "serverDate": "2026-11-12",
@@ -559,25 +1087,25 @@
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Awaaz Adda",
-      "description": "Prominent political, social, economic, bureaucratic and cultural personalities of the nation debate the key national and regional issues.",
+      "showName": "Dipotsav",
+      "description": "Take a look as eminent personalities from different fields celebrate Diwali.",
       "startDate": "2026-11-12T01:00:00",
       "endDate": "2026-11-12T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1892437fca1ccd91ad4559e30b14d7d3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff1d433423aee2a343e1e7becc3d2bbb.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Awaaz Adda",
-      "description": "Prominent political, social, economic, bureaucratic and cultural personalities of the nation debate the key national and regional issues.",
+      "showName": "Samvat 2083: Rashifal",
+      "description": "Samvat 2083: Rashifal",
       "startDate": "2026-11-12T01:30:00",
       "endDate": "2026-11-12T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1892437fca1ccd91ad4559e30b14d7d3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c9b6e70def5dc3cba7ada4f17c7c973.jpg"
     },
     {
       "serverDate": "2026-11-12",
@@ -603,25 +1131,25 @@
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Awaaz Adda",
-      "description": "Prominent political, social, economic, bureaucratic and cultural personalities of the nation debate the key national and regional issues.",
+      "showName": "Dipotsav",
+      "description": "Take a look as eminent personalities from different fields celebrate Diwali.",
       "startDate": "2026-11-12T03:00:00",
       "endDate": "2026-11-12T03:30:00",
       "showTime": "03:00:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1892437fca1ccd91ad4559e30b14d7d3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff1d433423aee2a343e1e7becc3d2bbb.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Awaaz Adda",
-      "description": "Prominent political, social, economic, bureaucratic and cultural personalities of the nation debate the key national and regional issues.",
+      "showName": "Samvat 2083: Rashifal",
+      "description": "Samvat 2083: Rashifal",
       "startDate": "2026-11-12T03:30:00",
       "endDate": "2026-11-12T04:00:00",
       "showTime": "03:30:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1892437fca1ccd91ad4559e30b14d7d3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c9b6e70def5dc3cba7ada4f17c7c973.jpg"
     },
     {
       "serverDate": "2026-11-12",
@@ -647,25 +1175,25 @@
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Awaaz Adda",
-      "description": "Prominent political, social, economic, bureaucratic and cultural personalities of the nation debate the key national and regional issues.",
+      "showName": "Dipotsav",
+      "description": "Take a look as eminent personalities from different fields celebrate Diwali.",
       "startDate": "2026-11-12T05:00:00",
       "endDate": "2026-11-12T05:30:00",
       "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1892437fca1ccd91ad4559e30b14d7d3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff1d433423aee2a343e1e7becc3d2bbb.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Awaaz Adda",
-      "description": "Prominent political, social, economic, bureaucratic and cultural personalities of the nation debate the key national and regional issues.",
+      "showName": "Samvat 2083: Rashifal",
+      "description": "Samvat 2083: Rashifal",
       "startDate": "2026-11-12T05:30:00",
       "endDate": "2026-11-12T06:00:00",
       "showTime": "05:30:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1892437fca1ccd91ad4559e30b14d7d3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c9b6e70def5dc3cba7ada4f17c7c973.jpg"
     },
     {
       "serverDate": "2026-11-12",

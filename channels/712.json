@@ -8,26 +8,378 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_urdu.png",
   "programs": [
     {
-      "serverDate": "2026-11-11",
+      "serverDate": "2026-11-10",
+      "showName": "Nanhe Danishmand",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-10T00:00:00",
+      "endDate": "2026-11-10T06:00:00",
+      "showTime": "00:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Naghma-E-Marifat",
+      "description": "Various folk artists and musicians gather and sing devotional songs and religious hymns in order to praise the Almighty and receive his blessings.",
+      "startDate": "2026-11-10T06:00:00",
+      "endDate": "2026-11-10T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4fa7fcea9e3d671e50ca6f97511d30fd.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Khak-E-Watan",
+      "description": "Talented poets from across the region read their poetic verses in front of an audience on the occasion of Independence Day.",
+      "startDate": "2026-11-10T06:30:00",
+      "endDate": "2026-11-10T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Arogya yoga",
+      "description": "The host features health gurus as they explore the healing power of yoga, offering expert insights to promote physical and mental well-being.",
+      "startDate": "2026-11-10T07:00:00",
+      "endDate": "2026-11-10T07:30:00",
+      "showTime": "07:00:00",
+      "endTime": "07:30:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a6ec2f67843309311339abf9948145b0.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Unani Clinic",
+      "description": "The filmmaker sheds light on the services available at an Unani clinic that uses a traditional medical system to treat various ailments.",
+      "startDate": "2026-11-10T07:30:00",
+      "endDate": "2026-11-10T08:00:00",
+      "showTime": "07:30:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cb06dfc806c67d41609cbb8f765c1e43.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Paisa Bolta Hai",
+      "description": "The host holds insightful discussions with various experts, highlighting various economic topics and their impact on the nation.",
+      "startDate": "2026-11-10T08:00:00",
+      "endDate": "2026-11-10T09:00:00",
+      "showTime": "08:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/001247d056845ba2d598d839cb3352ad.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Khabarnama",
+      "description": "The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+      "startDate": "2026-11-10T09:00:00",
+      "endDate": "2026-11-10T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7f4410f7aab913e36f0a4bafdd58fbc.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Hamare Dastkar",
+      "description": "Skilled artisans showcase intricate craftsmanship, preserving traditional art forms while sharing the cultural and historical significance of their work.",
+      "startDate": "2026-11-10T09:30:00",
+      "endDate": "2026-11-10T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0b8c11e07a090a0f2345ff984dfeb775.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Nanhe Danishmand",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-10T10:00:00",
+      "endDate": "2026-11-10T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Masnavi Sahrul Bayan",
+      "description": "The host sheds light on 'Masnavi Sehr Ul Bayan', a literary work by Urdu writer Mir Hasan, through a captivating dramatic interpretation.",
+      "startDate": "2026-11-10T10:30:00",
+      "endDate": "2026-11-10T11:00:00",
+      "showTime": "10:30:00",
+      "endTime": "11:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2acacd313d4cb08a811b6a7d0a154267.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Jahan-e-Khusrau",
+      "description": "People come together to attend concerts, seminars, exhibitions and heritage walks, which are held to commemorate the death anniversary of Hazrat Amir Khusrau, a renowned Sufi musician.",
+      "startDate": "2026-11-10T11:00:00",
+      "endDate": "2026-11-10T11:30:00",
+      "showTime": "11:00:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Dilli Ke Badalte Rang",
+      "description": "The filmmaker explores the history of Delhi, highlighting different eras of rule and civilisation and their significance in the present day.",
+      "startDate": "2026-11-10T11:30:00",
+      "endDate": "2026-11-10T12:00:00",
+      "showTime": "11:30:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0db4fada0664ebbd34cc55a9f1a76e09.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Yeh Ishq Nahi Aasan",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-10T12:00:00",
+      "endDate": "2026-11-10T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5f9d94be39cc371ec7469d902fa7dd3.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Unani Clinic",
+      "description": "The filmmaker sheds light on the services available at an Unani clinic that uses a traditional medical system to treat various ailments.",
+      "startDate": "2026-11-10T12:30:00",
+      "endDate": "2026-11-10T13:00:00",
+      "showTime": "12:30:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cb06dfc806c67d41609cbb8f765c1e43.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Paisa Bolta Hai",
+      "description": "The host holds insightful discussions with various experts, highlighting various economic topics and their impact on the nation.",
+      "startDate": "2026-11-10T13:00:00",
+      "endDate": "2026-11-10T14:00:00",
+      "showTime": "13:00:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/001247d056845ba2d598d839cb3352ad.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Mati Ke Lal",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-10T14:00:00",
+      "endDate": "2026-11-10T15:00:00",
+      "showTime": "14:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f73e1367d5bfc4ecb86a88e71145256.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Yeh Zindagi Hai Gulshan",
+      "description": "A progressive Muslim girl's life is affected by Shariah, which has given equal rights to women to pursue their development.",
+      "startDate": "2026-11-10T15:00:00",
+      "endDate": "2026-11-10T15:50:00",
+      "showTime": "15:00:00",
+      "endTime": "15:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abbfe8c6931faf8fbf953fc810cc68ed.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-10T15:50:00",
+      "endDate": "2026-11-10T16:00:00",
+      "showTime": "15:50:00",
+      "endTime": "16:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf455e7bbc9ac4ee5f6506b2d1c75d22.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Hamare Dastkar",
+      "description": "Skilled artisans showcase intricate craftsmanship, preserving traditional art forms while sharing the cultural and historical significance of their work.",
+      "startDate": "2026-11-10T16:00:00",
+      "endDate": "2026-11-10T16:30:00",
+      "showTime": "16:00:00",
+      "endTime": "16:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0b8c11e07a090a0f2345ff984dfeb775.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Nanhe Danishmand",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-10T16:30:00",
+      "endDate": "2026-11-10T17:00:00",
+      "showTime": "16:30:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
       "showName": "Karwan-e-shaoor",
       "description": "The hosts engage in conversations with various renowned Urdu poets and authors about their careers and life experiences.",
+      "startDate": "2026-11-10T17:00:00",
+      "endDate": "2026-11-10T17:30:00",
+      "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b8de7b57fdd61f5a8fa654348a0fd55.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Khabarnama",
+      "description": "The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+      "startDate": "2026-11-10T17:30:00",
+      "endDate": "2026-11-10T18:00:00",
+      "showTime": "17:30:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7f4410f7aab913e36f0a4bafdd58fbc.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Khabarnama",
+      "description": "The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+      "startDate": "2026-11-10T18:00:00",
+      "endDate": "2026-11-10T18:30:00",
+      "showTime": "18:00:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7f4410f7aab913e36f0a4bafdd58fbc.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Rangtarang",
+      "description": "A special presentation showcasing arts, culture and literature with an emphasis on classical Indian works that have had a major impact on the country's traditions.",
+      "startDate": "2026-11-10T18:30:00",
+      "endDate": "2026-11-10T19:00:00",
+      "showTime": "18:30:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7acc6dab405e7e14ca419360761e18f2.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Yeh Ishq Nahi Aasan",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-10T19:00:00",
+      "endDate": "2026-11-10T19:30:00",
+      "showTime": "19:00:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5f9d94be39cc371ec7469d902fa7dd3.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Kuch Lamhe Fursat Ke",
+      "description": "The host invites various experts from different fields and converses with them about their insights on how one can change their life in small ways.",
+      "startDate": "2026-11-10T19:30:00",
+      "endDate": "2026-11-10T20:00:00",
+      "showTime": "19:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dfa792ab15219916bd2df0f321f78719.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Kuch Lamhe Fursat Ke",
+      "description": "The host invites various experts from different fields and converses with them about their insights on how one can change their life in small ways.",
+      "startDate": "2026-11-10T20:00:00",
+      "endDate": "2026-11-10T21:00:00",
+      "showTime": "20:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dfa792ab15219916bd2df0f321f78719.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Mati Ke Lal",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-10T21:00:00",
+      "endDate": "2026-11-10T22:00:00",
+      "showTime": "21:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f73e1367d5bfc4ecb86a88e71145256.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Yeh Zindagi Hai Gulshan",
+      "description": "A progressive Muslim girl's life is affected by Shariah, which has given equal rights to women to pursue their development.",
+      "startDate": "2026-11-10T22:00:00",
+      "endDate": "2026-11-10T22:50:00",
+      "showTime": "22:00:00",
+      "endTime": "22:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abbfe8c6931faf8fbf953fc810cc68ed.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-10T22:50:00",
+      "endDate": "2026-11-10T23:00:00",
+      "showTime": "22:50:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf455e7bbc9ac4ee5f6506b2d1c75d22.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Hamare Dastkar",
+      "description": "Skilled artisans showcase intricate craftsmanship, preserving traditional art forms while sharing the cultural and historical significance of their work.",
+      "startDate": "2026-11-10T23:00:00",
+      "endDate": "2026-11-10T23:30:00",
+      "showTime": "23:00:00",
+      "endTime": "23:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0b8c11e07a090a0f2345ff984dfeb775.jpg"
+    },
+    {
+      "serverDate": "2026-11-10",
+      "showName": "Nanhe Danishmand",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-10T23:30:00",
+      "endDate": "2026-11-10T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Seher Hone Tak",
+      "description": "The host sheds light on the life and experiences of Maulana Azad, an Indian writer and activist, focusing on the hardships he faced and his contributions to the Indian independence movement.",
       "startDate": "2026-11-11T00:00:00",
       "endDate": "2026-11-11T00:30:00",
       "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b8de7b57fdd61f5a8fa654348a0fd55.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8611255f98821396bea69a4f39a612f8.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Karwan-e-shaoor",
-      "description": "The hosts engage in conversations with various renowned Urdu poets and authors about their careers and life experiences.",
+      "showName": "Jahan-e-Khusrau",
+      "description": "People come together to attend concerts, seminars, exhibitions and heritage walks, which are held to commemorate the death anniversary of Hazrat Amir Khusrau, a renowned Sufi musician.",
       "startDate": "2026-11-11T00:30:00",
       "endDate": "2026-11-11T01:00:00",
       "showTime": "00:30:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b8de7b57fdd61f5a8fa654348a0fd55.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-11",
@@ -42,14 +394,14 @@
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Yeh Ishq Nahi Aasan",
-      "description": "Bringing the best in television.",
+      "showName": "Mahapara Noor",
+      "description": "Mahapara Noor",
       "startDate": "2026-11-11T01:30:00",
       "endDate": "2026-11-11T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5f9d94be39cc371ec7469d902fa7dd3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbe76b29b9a00749344b5b7c8d37ec5b.jpg"
     },
     {
       "serverDate": "2026-11-11",
@@ -64,91 +416,102 @@
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Kuch Lamhe Fursat Ke",
-      "description": "The host invites various experts from different fields and converses with them about their insights on how one can change their life in small ways.",
+      "showName": "Bahar-E-Mehfil",
+      "description": "Bahar-E-Mehfil",
       "startDate": "2026-11-11T02:30:00",
       "endDate": "2026-11-11T03:30:00",
       "showTime": "02:30:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dfa792ab15219916bd2df0f321f78719.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Mati Ke Lal",
+      "showName": "Cyber Crime Ki Duniya",
       "description": "Bringing the best in television.",
       "startDate": "2026-11-11T03:30:00",
-      "endDate": "2026-11-11T04:30:00",
+      "endDate": "2026-11-11T04:00:00",
       "showTime": "03:30:00",
-      "endTime": "04:30:00",
+      "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f73e1367d5bfc4ecb86a88e71145256.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dcb8f019b4c858281f23a6585b5693ac.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Naghma-E-Marifat",
-      "description": "Various folk artists and musicians gather and sing devotional songs and religious hymns in order to praise the Almighty and receive his blessings.",
+      "showName": "Dil Jo Keh Na Saka",
+      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "startDate": "2026-11-11T04:00:00",
+      "endDate": "2026-11-11T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Aqeedat Ke Rang",
+      "description": "Poetic Symposium.",
       "startDate": "2026-11-11T04:30:00",
       "endDate": "2026-11-11T05:00:00",
       "showTime": "04:30:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4fa7fcea9e3d671e50ca6f97511d30fd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0d37baa1e0db8a41eade11b1bb110821.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Khak-E-Watan",
-      "description": "Talented poets from across the region read their poetic verses in front of an audience on the occasion of Independence Day.",
+      "showName": "Khak - E - Hind",
+      "description": "Khak - E - Hind",
       "startDate": "2026-11-11T05:00:00",
       "endDate": "2026-11-11T05:30:00",
       "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/063a755f0498fbeb37e5f655722bb481.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Arogya yoga",
-      "description": "The host features health gurus as they explore the healing power of yoga, offering expert insights to promote physical and mental well-being.",
+      "showName": "Aarogya Yoga",
+      "description": "Aarogya Yoga",
       "startDate": "2026-11-11T05:30:00",
       "endDate": "2026-11-11T06:00:00",
       "showTime": "05:30:00",
       "endTime": "06:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a6ec2f67843309311339abf9948145b0.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Naghma-E-Marifat",
-      "description": "Various folk artists and musicians gather and sing devotional songs and religious hymns in order to praise the Almighty and receive his blessings.",
+      "showName": "Masael-E-Tasavvuf",
+      "description": "Musical Documentary.",
       "startDate": "2026-11-11T06:00:00",
       "endDate": "2026-11-11T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4fa7fcea9e3d671e50ca6f97511d30fd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Khak-E-Watan",
-      "description": "Talented poets from across the region read their poetic verses in front of an audience on the occasion of Independence Day.",
+      "showName": "Khak - E - Hind",
+      "description": "Khak - E - Hind",
       "startDate": "2026-11-11T06:30:00",
       "endDate": "2026-11-11T07:00:00",
       "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/063a755f0498fbeb37e5f655722bb481.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Arogya yoga",
-      "description": "The host features health gurus as they explore the healing power of yoga, offering expert insights to promote physical and mental well-being.",
+      "showName": "Aarogya Yoga",
+      "description": "Aarogya Yoga",
       "startDate": "2026-11-11T07:00:00",
       "endDate": "2026-11-11T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a6ec2f67843309311339abf9948145b0.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-11",
@@ -163,69 +526,69 @@
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Kuch Lamhe Fursat Ke",
-      "description": "The host invites various experts from different fields and converses with them about their insights on how one can change their life in small ways.",
+      "showName": "Bahar-E-Mehfil",
+      "description": "Bahar-E-Mehfil",
       "startDate": "2026-11-11T08:00:00",
       "endDate": "2026-11-11T09:00:00",
       "showTime": "08:00:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dfa792ab15219916bd2df0f321f78719.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-11",
       "showName": "Khabarnama",
       "description": "The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
       "startDate": "2026-11-11T09:00:00",
-      "endDate": "2026-11-11T09:30:00",
+      "endDate": "2026-11-11T09:20:00",
       "showTime": "09:00:00",
-      "endTime": "09:30:00",
+      "endTime": "09:20:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7f4410f7aab913e36f0a4bafdd58fbc.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Hamare Dastkar",
-      "description": "Skilled artisans showcase intricate craftsmanship, preserving traditional art forms while sharing the cultural and historical significance of their work.",
-      "startDate": "2026-11-11T09:30:00",
-      "endDate": "2026-11-11T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
+      "showName": "Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-11T09:20:00",
+      "endDate": "2026-11-11T09:30:00",
+      "showTime": "09:20:00",
+      "endTime": "09:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0b8c11e07a090a0f2345ff984dfeb775.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf455e7bbc9ac4ee5f6506b2d1c75d22.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Nanhe Danishmand",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-11T10:00:00",
+      "showName": "Yeh Hai India",
+      "description": "The host highlights the contribution of politician and social reformer Dr Bhimrao Ramji Ambedkar in shaping the society.",
+      "startDate": "2026-11-11T09:30:00",
       "endDate": "2026-11-11T10:30:00",
-      "showTime": "10:00:00",
+      "showTime": "09:30:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0c30151a4296dc15ce17f60843f54aee.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Karwan-e-shaoor",
-      "description": "The hosts engage in conversations with various renowned Urdu poets and authors about their careers and life experiences.",
+      "showName": "Seher Hone Tak",
+      "description": "The host sheds light on the life and experiences of Maulana Azad, an Indian writer and activist, focusing on the hardships he faced and his contributions to the Indian independence movement.",
       "startDate": "2026-11-11T10:30:00",
       "endDate": "2026-11-11T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b8de7b57fdd61f5a8fa654348a0fd55.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8611255f98821396bea69a4f39a612f8.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Karwan-e-shaoor",
-      "description": "The hosts engage in conversations with various renowned Urdu poets and authors about their careers and life experiences.",
+      "showName": "Jahan-e-Khusrau",
+      "description": "People come together to attend concerts, seminars, exhibitions and heritage walks, which are held to commemorate the death anniversary of Hazrat Amir Khusrau, a renowned Sufi musician.",
       "startDate": "2026-11-11T11:00:00",
       "endDate": "2026-11-11T11:30:00",
       "showTime": "11:00:00",
       "endTime": "11:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b8de7b57fdd61f5a8fa654348a0fd55.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-11",
@@ -240,14 +603,14 @@
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Yeh Ishq Nahi Aasan",
-      "description": "Bringing the best in television.",
+      "showName": "Mahapara Noor",
+      "description": "Mahapara Noor",
       "startDate": "2026-11-11T12:00:00",
       "endDate": "2026-11-11T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5f9d94be39cc371ec7469d902fa7dd3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbe76b29b9a00749344b5b7c8d37ec5b.jpg"
     },
     {
       "serverDate": "2026-11-11",
@@ -262,36 +625,47 @@
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Kuch Lamhe Fursat Ke",
-      "description": "The host invites various experts from different fields and converses with them about their insights on how one can change their life in small ways.",
+      "showName": "Bahar-E-Mehfil",
+      "description": "Bahar-E-Mehfil",
       "startDate": "2026-11-11T13:00:00",
       "endDate": "2026-11-11T14:00:00",
       "showTime": "13:00:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dfa792ab15219916bd2df0f321f78719.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Mati Ke Lal",
+      "showName": "Cyber Crime Ki Duniya",
       "description": "Bringing the best in television.",
       "startDate": "2026-11-11T14:00:00",
-      "endDate": "2026-11-11T15:00:00",
+      "endDate": "2026-11-11T14:30:00",
       "showTime": "14:00:00",
-      "endTime": "15:00:00",
+      "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f73e1367d5bfc4ecb86a88e71145256.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dcb8f019b4c858281f23a6585b5693ac.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Yeh Zindagi Hai Gulshan",
-      "description": "A progressive Muslim girl's life is affected by Shariah, which has given equal rights to women to pursue their development.",
+      "showName": "Dil Jo Keh Na Saka",
+      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "startDate": "2026-11-11T14:30:00",
+      "endDate": "2026-11-11T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Afsane",
+      "description": "Afsane",
       "startDate": "2026-11-11T15:00:00",
       "endDate": "2026-11-11T15:50:00",
       "showTime": "15:00:00",
       "endTime": "15:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abbfe8c6931faf8fbf953fc810cc68ed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-11",
@@ -306,36 +680,36 @@
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Hamare Dastkar",
-      "description": "Skilled artisans showcase intricate craftsmanship, preserving traditional art forms while sharing the cultural and historical significance of their work.",
+      "showName": "Apna Mulk Apna Aien",
+      "description": "Legal experts and professionals discuss law, human rights and constitutional rights, providing insights into legal issues affecting people's lives.",
       "startDate": "2026-11-11T16:00:00",
-      "endDate": "2026-11-11T16:30:00",
+      "endDate": "2026-11-11T16:50:00",
       "showTime": "16:00:00",
-      "endTime": "16:30:00",
+      "endTime": "16:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0b8c11e07a090a0f2345ff984dfeb775.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f1e215d8712321636b5e9db1f1a2625f.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Nanhe Danishmand",
+      "showName": "Filler",
       "description": "Bringing the best in television.",
-      "startDate": "2026-11-11T16:30:00",
+      "startDate": "2026-11-11T16:50:00",
       "endDate": "2026-11-11T17:00:00",
-      "showTime": "16:30:00",
+      "showTime": "16:50:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf455e7bbc9ac4ee5f6506b2d1c75d22.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Seher Hone Tak",
-      "description": "The host sheds light on the life and experiences of Maulana Azad, an Indian writer and activist, focusing on the hardships he faced and his contributions to the Indian independence movement.",
+      "showName": "Mujahid-E-Azadi-Hasrat Mohani",
+      "description": "Mujahid-E-Azadi-Hasrat Mohani",
       "startDate": "2026-11-11T17:00:00",
       "endDate": "2026-11-11T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8611255f98821396bea69a4f39a612f8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-11",
@@ -350,80 +724,91 @@
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Khabarnama",
-      "description": "The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+      "showName": "Jahan-e-Khusrau",
+      "description": "People come together to attend concerts, seminars, exhibitions and heritage walks, which are held to commemorate the death anniversary of Hazrat Amir Khusrau, a renowned Sufi musician.",
       "startDate": "2026-11-11T18:00:00",
       "endDate": "2026-11-11T18:30:00",
       "showTime": "18:00:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7f4410f7aab913e36f0a4bafdd58fbc.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Good News India",
-      "description": "The host delivers a detailed report and major updates on significant matters that concern citizens, including governance, socio-political, and civic issues across India.",
+      "showName": "Good News India: Jazba India Ka",
+      "description": "The host shares some inspiring stories of people with extraordinary spirits who overcame challenges and achieved their dreams to serve society.",
       "startDate": "2026-11-11T18:30:00",
       "endDate": "2026-11-11T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a379f72772b002569c18f12fd9d021b0.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Yeh Ishq Nahi Aasan",
-      "description": "Bringing the best in television.",
+      "showName": "Mahapara Noor",
+      "description": "Mahapara Noor",
       "startDate": "2026-11-11T19:00:00",
       "endDate": "2026-11-11T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5f9d94be39cc371ec7469d902fa7dd3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbe76b29b9a00749344b5b7c8d37ec5b.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Mahouliyat Aur Hum",
-      "description": "Environmental specialists explore waste management strategies and the crucial role of cleanliness in preserving the planet.",
+      "showName": "Hum Kalam",
+      "description": "Hum Kalam",
       "startDate": "2026-11-11T19:30:00",
       "endDate": "2026-11-11T20:00:00",
       "showTime": "19:30:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c217bce9f1ffda101f97a5cbbd477305.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Yeh Hai India",
-      "description": "The host highlights the contribution of politician and social reformer Dr Bhimrao Ramji Ambedkar in shaping the society.",
+      "showName": "Aap Ki Baatein",
+      "description": "Aap Ki Baatein",
       "startDate": "2026-11-11T20:00:00",
       "endDate": "2026-11-11T21:00:00",
       "showTime": "20:00:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0c30151a4296dc15ce17f60843f54aee.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Mati Ke Lal",
+      "showName": "Cyber Crime Ki Duniya",
       "description": "Bringing the best in television.",
       "startDate": "2026-11-11T21:00:00",
-      "endDate": "2026-11-11T22:00:00",
+      "endDate": "2026-11-11T21:30:00",
       "showTime": "21:00:00",
-      "endTime": "22:00:00",
+      "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f73e1367d5bfc4ecb86a88e71145256.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dcb8f019b4c858281f23a6585b5693ac.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Yeh Zindagi Hai Gulshan",
-      "description": "A progressive Muslim girl's life is affected by Shariah, which has given equal rights to women to pursue their development.",
+      "showName": "Dil Jo Keh Na Saka",
+      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "startDate": "2026-11-11T21:30:00",
+      "endDate": "2026-11-11T22:00:00",
+      "showTime": "21:30:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Afsane",
+      "description": "Afsane",
       "startDate": "2026-11-11T22:00:00",
       "endDate": "2026-11-11T22:50:00",
       "showTime": "22:00:00",
       "endTime": "22:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abbfe8c6931faf8fbf953fc810cc68ed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-11",
@@ -438,190 +823,201 @@
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Hamare Dastkar",
-      "description": "Skilled artisans showcase intricate craftsmanship, preserving traditional art forms while sharing the cultural and historical significance of their work.",
+      "showName": "Apna Mulk Apna Aien",
+      "description": "Legal experts and professionals discuss law, human rights and constitutional rights, providing insights into legal issues affecting people's lives.",
       "startDate": "2026-11-11T23:00:00",
-      "endDate": "2026-11-11T23:30:00",
+      "endDate": "2026-11-11T23:50:00",
       "showTime": "23:00:00",
-      "endTime": "23:30:00",
+      "endTime": "23:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0b8c11e07a090a0f2345ff984dfeb775.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f1e215d8712321636b5e9db1f1a2625f.jpg"
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "Nanhe Danishmand",
+      "showName": "Filler",
       "description": "Bringing the best in television.",
-      "startDate": "2026-11-11T23:30:00",
+      "startDate": "2026-11-11T23:50:00",
       "endDate": "2026-11-11T23:59:59",
-      "showTime": "23:30:00",
+      "showTime": "23:50:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf455e7bbc9ac4ee5f6506b2d1c75d22.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Seher Hone Tak",
-      "description": "The host sheds light on the life and experiences of Maulana Azad, an Indian writer and activist, focusing on the hardships he faced and his contributions to the Indian independence movement.",
+      "showName": "Mujahid-E-Azadi-Hasrat Mohani",
+      "description": "Mujahid-E-Azadi-Hasrat Mohani",
       "startDate": "2026-11-12T00:00:00",
       "endDate": "2026-11-12T00:30:00",
       "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8611255f98821396bea69a4f39a612f8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Seher Hone Tak",
-      "description": "The host sheds light on the life and experiences of Maulana Azad, an Indian writer and activist, focusing on the hardships he faced and his contributions to the Indian independence movement.",
+      "showName": "Jahan-e-Khusrau",
+      "description": "People come together to attend concerts, seminars, exhibitions and heritage walks, which are held to commemorate the death anniversary of Hazrat Amir Khusrau, a renowned Sufi musician.",
       "startDate": "2026-11-12T00:30:00",
       "endDate": "2026-11-12T01:00:00",
       "showTime": "00:30:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8611255f98821396bea69a4f39a612f8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Good News India",
-      "description": "The host delivers a detailed report and major updates on significant matters that concern citizens, including governance, socio-political, and civic issues across India.",
+      "showName": "Good News India: Jazba India Ka",
+      "description": "The host shares some inspiring stories of people with extraordinary spirits who overcame challenges and achieved their dreams to serve society.",
       "startDate": "2026-11-12T01:00:00",
       "endDate": "2026-11-12T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a379f72772b002569c18f12fd9d021b0.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Yeh Ishq Nahi Aasan",
-      "description": "Bringing the best in television.",
+      "showName": "Mahapara Noor",
+      "description": "Mahapara Noor",
       "startDate": "2026-11-12T01:30:00",
       "endDate": "2026-11-12T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5f9d94be39cc371ec7469d902fa7dd3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbe76b29b9a00749344b5b7c8d37ec5b.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Mahouliyat Aur Hum",
-      "description": "Environmental specialists explore waste management strategies and the crucial role of cleanliness in preserving the planet.",
+      "showName": "Hum Kalam",
+      "description": "Hum Kalam",
       "startDate": "2026-11-12T02:00:00",
       "endDate": "2026-11-12T02:30:00",
       "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c217bce9f1ffda101f97a5cbbd477305.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Yeh Hai India",
-      "description": "The host highlights the contribution of politician and social reformer Dr Bhimrao Ramji Ambedkar in shaping the society.",
+      "showName": "Aap Ki Baatein",
+      "description": "Aap Ki Baatein",
       "startDate": "2026-11-12T02:30:00",
       "endDate": "2026-11-12T03:30:00",
       "showTime": "02:30:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0c30151a4296dc15ce17f60843f54aee.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Mati Ke Lal",
+      "showName": "Cyber Crime Ki Duniya",
       "description": "Bringing the best in television.",
       "startDate": "2026-11-12T03:30:00",
-      "endDate": "2026-11-12T04:30:00",
+      "endDate": "2026-11-12T04:00:00",
       "showTime": "03:30:00",
-      "endTime": "04:30:00",
+      "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f73e1367d5bfc4ecb86a88e71145256.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dcb8f019b4c858281f23a6585b5693ac.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Naghma-E-Marifat",
-      "description": "Various folk artists and musicians gather and sing devotional songs and religious hymns in order to praise the Almighty and receive his blessings.",
+      "showName": "Dil Jo Keh Na Saka",
+      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "startDate": "2026-11-12T04:00:00",
+      "endDate": "2026-11-12T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
+    },
+    {
+      "serverDate": "2026-11-12",
+      "showName": "Masael-E-Tasavvuf",
+      "description": "Musical Documentary.",
       "startDate": "2026-11-12T04:30:00",
       "endDate": "2026-11-12T05:00:00",
       "showTime": "04:30:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4fa7fcea9e3d671e50ca6f97511d30fd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Khak-E-Watan",
-      "description": "Talented poets from across the region read their poetic verses in front of an audience on the occasion of Independence Day.",
+      "showName": "Khak - E - Hind",
+      "description": "Khak - E - Hind",
       "startDate": "2026-11-12T05:00:00",
       "endDate": "2026-11-12T05:30:00",
       "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/063a755f0498fbeb37e5f655722bb481.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Arogya yoga",
-      "description": "The host features health gurus as they explore the healing power of yoga, offering expert insights to promote physical and mental well-being.",
+      "showName": "Aarogya Yoga",
+      "description": "Aarogya Yoga",
       "startDate": "2026-11-12T05:30:00",
       "endDate": "2026-11-12T06:00:00",
       "showTime": "05:30:00",
       "endTime": "06:00:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a6ec2f67843309311339abf9948145b0.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Naghma-E-Marifat",
-      "description": "Various folk artists and musicians gather and sing devotional songs and religious hymns in order to praise the Almighty and receive his blessings.",
+      "showName": "Masael-E-Tasavvuf",
+      "description": "Musical Documentary.",
       "startDate": "2026-11-12T06:00:00",
       "endDate": "2026-11-12T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4fa7fcea9e3d671e50ca6f97511d30fd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Khak-E-Watan",
-      "description": "Talented poets from across the region read their poetic verses in front of an audience on the occasion of Independence Day.",
+      "showName": "Khak - E - Hind",
+      "description": "Khak - E - Hind",
       "startDate": "2026-11-12T06:30:00",
       "endDate": "2026-11-12T07:00:00",
       "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/063a755f0498fbeb37e5f655722bb481.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Arogya yoga",
-      "description": "The host features health gurus as they explore the healing power of yoga, offering expert insights to promote physical and mental well-being.",
+      "showName": "Aarogya Yoga",
+      "description": "Aarogya Yoga",
       "startDate": "2026-11-12T07:00:00",
       "endDate": "2026-11-12T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a6ec2f67843309311339abf9948145b0.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Mahouliyat Aur Hum",
-      "description": "Environmental specialists explore waste management strategies and the crucial role of cleanliness in preserving the planet.",
+      "showName": "Hum Kalam",
+      "description": "Hum Kalam",
       "startDate": "2026-11-12T07:30:00",
       "endDate": "2026-11-12T08:00:00",
       "showTime": "07:30:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c217bce9f1ffda101f97a5cbbd477305.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Yeh Hai India",
-      "description": "The host highlights the contribution of politician and social reformer Dr Bhimrao Ramji Ambedkar in shaping the society.",
+      "showName": "Aap Ki Baatein",
+      "description": "Aap Ki Baatein",
       "startDate": "2026-11-12T08:00:00",
       "endDate": "2026-11-12T09:00:00",
       "showTime": "08:00:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0c30151a4296dc15ce17f60843f54aee.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
@@ -636,113 +1032,124 @@
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Hamare Dastkar",
-      "description": "Skilled artisans showcase intricate craftsmanship, preserving traditional art forms while sharing the cultural and historical significance of their work.",
+      "showName": "Apna Mulk Apna Aien",
+      "description": "Legal experts and professionals discuss law, human rights and constitutional rights, providing insights into legal issues affecting people's lives.",
       "startDate": "2026-11-12T09:30:00",
-      "endDate": "2026-11-12T10:00:00",
+      "endDate": "2026-11-12T10:20:00",
       "showTime": "09:30:00",
-      "endTime": "10:00:00",
+      "endTime": "10:20:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0b8c11e07a090a0f2345ff984dfeb775.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f1e215d8712321636b5e9db1f1a2625f.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Nanhe Danishmand",
+      "showName": "Filler",
       "description": "Bringing the best in television.",
-      "startDate": "2026-11-12T10:00:00",
+      "startDate": "2026-11-12T10:20:00",
       "endDate": "2026-11-12T10:30:00",
-      "showTime": "10:00:00",
+      "showTime": "10:20:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf455e7bbc9ac4ee5f6506b2d1c75d22.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Seher Hone Tak",
-      "description": "The host sheds light on the life and experiences of Maulana Azad, an Indian writer and activist, focusing on the hardships he faced and his contributions to the Indian independence movement.",
+      "showName": "Mujahid-E-Azadi-Hasrat Mohani",
+      "description": "Mujahid-E-Azadi-Hasrat Mohani",
       "startDate": "2026-11-12T10:30:00",
       "endDate": "2026-11-12T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8611255f98821396bea69a4f39a612f8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Seher Hone Tak",
-      "description": "The host sheds light on the life and experiences of Maulana Azad, an Indian writer and activist, focusing on the hardships he faced and his contributions to the Indian independence movement.",
+      "showName": "Jahan-e-Khusrau",
+      "description": "People come together to attend concerts, seminars, exhibitions and heritage walks, which are held to commemorate the death anniversary of Hazrat Amir Khusrau, a renowned Sufi musician.",
       "startDate": "2026-11-12T11:00:00",
       "endDate": "2026-11-12T11:30:00",
       "showTime": "11:00:00",
       "endTime": "11:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8611255f98821396bea69a4f39a612f8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Good News India",
-      "description": "The host delivers a detailed report and major updates on significant matters that concern citizens, including governance, socio-political, and civic issues across India.",
+      "showName": "Good News India: Jazba India Ka",
+      "description": "The host shares some inspiring stories of people with extraordinary spirits who overcame challenges and achieved their dreams to serve society.",
       "startDate": "2026-11-12T11:30:00",
       "endDate": "2026-11-12T12:00:00",
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a379f72772b002569c18f12fd9d021b0.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Yeh Ishq Nahi Aasan",
-      "description": "Bringing the best in television.",
+      "showName": "Mahapara Noor",
+      "description": "Mahapara Noor",
       "startDate": "2026-11-12T12:00:00",
       "endDate": "2026-11-12T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5f9d94be39cc371ec7469d902fa7dd3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbe76b29b9a00749344b5b7c8d37ec5b.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Mahouliyat Aur Hum",
-      "description": "Environmental specialists explore waste management strategies and the crucial role of cleanliness in preserving the planet.",
+      "showName": "Hum Kalam",
+      "description": "Hum Kalam",
       "startDate": "2026-11-12T12:30:00",
       "endDate": "2026-11-12T13:00:00",
       "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c217bce9f1ffda101f97a5cbbd477305.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Yeh Hai India",
-      "description": "The host highlights the contribution of politician and social reformer Dr Bhimrao Ramji Ambedkar in shaping the society.",
+      "showName": "Aap Ki Baatein",
+      "description": "Aap Ki Baatein",
       "startDate": "2026-11-12T13:00:00",
       "endDate": "2026-11-12T14:00:00",
       "showTime": "13:00:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0c30151a4296dc15ce17f60843f54aee.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Mati Ke Lal",
+      "showName": "Cyber Crime Ki Duniya",
       "description": "Bringing the best in television.",
       "startDate": "2026-11-12T14:00:00",
-      "endDate": "2026-11-12T15:00:00",
+      "endDate": "2026-11-12T14:30:00",
       "showTime": "14:00:00",
-      "endTime": "15:00:00",
+      "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f73e1367d5bfc4ecb86a88e71145256.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dcb8f019b4c858281f23a6585b5693ac.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Yeh Zindagi Hai Gulshan",
-      "description": "A progressive Muslim girl's life is affected by Shariah, which has given equal rights to women to pursue their development.",
+      "showName": "Dil Jo Keh Na Saka",
+      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "startDate": "2026-11-12T14:30:00",
+      "endDate": "2026-11-12T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
+    },
+    {
+      "serverDate": "2026-11-12",
+      "showName": "Afsane",
+      "description": "Afsane",
       "startDate": "2026-11-12T15:00:00",
       "endDate": "2026-11-12T15:50:00",
       "showTime": "15:00:00",
       "endTime": "15:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abbfe8c6931faf8fbf953fc810cc68ed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
@@ -757,14 +1164,14 @@
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Hello Doctor",
-      "description": "Health and medical experts come together to talk about the benefits of Ayurveda, allopathy and homoeopathy and provide suggestions on various issues.",
+      "showName": "Hello Docter",
+      "description": "Hello Docter",
       "startDate": "2026-11-12T16:00:00",
       "endDate": "2026-11-12T16:50:00",
       "showTime": "16:00:00",
       "endTime": "16:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eee378933c924909a340c342a32ca599.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
@@ -779,14 +1186,14 @@
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Kahan Gaye Woh Log",
-      "description": "Delving into the lives of remarkable individuals, the host uncovers their struggles, achievements and influence, offering a deeper understanding of their legacies.",
+      "showName": "Aaftab-E-Sukhan",
+      "description": "Aaftab-E-Sukhan",
       "startDate": "2026-11-12T17:00:00",
       "endDate": "2026-11-12T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a5be4a55f91391b4d9ddafdeab842482.jpg"
     },
     {
       "serverDate": "2026-11-12",
@@ -801,14 +1208,14 @@
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Khabarnama",
-      "description": "The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+      "showName": "Jahan-e-Khusrau",
+      "description": "People come together to attend concerts, seminars, exhibitions and heritage walks, which are held to commemorate the death anniversary of Hazrat Amir Khusrau, a renowned Sufi musician.",
       "startDate": "2026-11-12T18:00:00",
       "endDate": "2026-11-12T18:30:00",
       "showTime": "18:00:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7f4410f7aab913e36f0a4bafdd58fbc.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
@@ -823,19 +1230,19 @@
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Surat Ya Seerat",
-      "description": "Bringing the best in television.",
+      "showName": "Mahapara Noor",
+      "description": "Mahapara Noor",
       "startDate": "2026-11-12T19:00:00",
       "endDate": "2026-11-12T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbe76b29b9a00749344b5b7c8d37ec5b.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Sawaal",
-      "description": "The host provides in-depth insights into some of the most significant happenings related to science, environment, and lifestyle from around the world.",
+      "showName": "Sitaron Ke Jahan Se",
+      "description": "Sitaron Ke Jahan Se",
       "startDate": "2026-11-12T19:30:00",
       "endDate": "2026-11-12T20:00:00",
       "showTime": "19:30:00",
@@ -845,47 +1252,47 @@
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Yaadein",
-      "description": "Relive nostalgia with a thoughtfully curated compilation of classic Indian film songs paying tribute to the legendary movie stars of bygone eras.",
+      "showName": "Kavi Hazir Hai",
+      "description": "Talented artists recite a collection of popular 'shayaris', a musical form of poetry, and ghazals in the Urdu language to entertain the viewers.",
       "startDate": "2026-11-12T20:00:00",
-      "endDate": "2026-11-12T20:30:00",
-      "showTime": "20:00:00",
-      "endTime": "20:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ffd8352d525ac926bdd29297cd5c1c7c.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Shair-O-Sukhan",
-      "description": "Well-known Urdu poets recite their poems and verses in a musical way, creating a special blend of words and melody.",
-      "startDate": "2026-11-12T20:30:00",
       "endDate": "2026-11-12T21:00:00",
-      "showTime": "20:30:00",
+      "showTime": "20:00:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/438f5c8f274e9ead00d1d506dbdb4f5b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/88c82f9feb25d2568384211e195ef8c6.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Mati Ke Lal",
+      "showName": "Cyber Crime Ki Duniya",
       "description": "Bringing the best in television.",
       "startDate": "2026-11-12T21:00:00",
-      "endDate": "2026-11-12T22:00:00",
+      "endDate": "2026-11-12T21:30:00",
       "showTime": "21:00:00",
-      "endTime": "22:00:00",
+      "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f73e1367d5bfc4ecb86a88e71145256.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dcb8f019b4c858281f23a6585b5693ac.jpg"
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Yeh Zindagi Hai Gulshan",
-      "description": "A progressive Muslim girl's life is affected by Shariah, which has given equal rights to women to pursue their development.",
+      "showName": "Dil Jo Keh Na Saka",
+      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "startDate": "2026-11-12T21:30:00",
+      "endDate": "2026-11-12T22:00:00",
+      "showTime": "21:30:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
+    },
+    {
+      "serverDate": "2026-11-12",
+      "showName": "Afsane",
+      "description": "Afsane",
       "startDate": "2026-11-12T22:00:00",
       "endDate": "2026-11-12T22:50:00",
       "showTime": "22:00:00",
       "endTime": "22:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abbfe8c6931faf8fbf953fc810cc68ed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
@@ -900,14 +1307,14 @@
     },
     {
       "serverDate": "2026-11-12",
-      "showName": "Hello Doctor",
-      "description": "Health and medical experts come together to talk about the benefits of Ayurveda, allopathy and homoeopathy and provide suggestions on various issues.",
+      "showName": "Hello Docter",
+      "description": "Hello Docter",
       "startDate": "2026-11-12T23:00:00",
       "endDate": "2026-11-12T23:50:00",
       "showTime": "23:00:00",
       "endTime": "23:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eee378933c924909a340c342a32ca599.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-12",
@@ -922,168 +1329,179 @@
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Parwaz-E-Niswan",
-      "description": "The host sheds light on well-known celebrities' life journeys, sharing their experiences, achievements and challenges faced along the way.",
+      "showName": "Aaftab-E-Sukhan",
+      "description": "Aaftab-E-Sukhan",
       "startDate": "2026-11-13T00:00:00",
       "endDate": "2026-11-13T00:30:00",
       "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10007f7077ea3b507d55ac2c3c117cd2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a5be4a55f91391b4d9ddafdeab842482.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Parwaz-E-Niswan",
-      "description": "The host sheds light on well-known celebrities' life journeys, sharing their experiences, achievements and challenges faced along the way.",
+      "showName": "Jahan-e-Khusrau",
+      "description": "People come together to attend concerts, seminars, exhibitions and heritage walks, which are held to commemorate the death anniversary of Hazrat Amir Khusrau, a renowned Sufi musician.",
       "startDate": "2026-11-13T00:30:00",
       "endDate": "2026-11-13T01:00:00",
       "showTime": "00:30:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10007f7077ea3b507d55ac2c3c117cd2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Zarkash",
-      "description": "The host travels to some of the most important cities and beautiful towns across India and talks about its famous tourist destinations.",
+      "showName": "Tawaf-E-Jahan",
+      "description": "The host travels to different places to indulge in adventurous activities famous in that region and get immersed in the local culture.",
       "startDate": "2026-11-13T01:00:00",
       "endDate": "2026-11-13T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7cd084f14e89a68348cfb21fb6a2a463.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f6e113d6a29c2c9231b659c9c9834a49.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Dil Jo Keh Na Saka",
-      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "showName": "Mahapara Noor",
+      "description": "Mahapara Noor",
       "startDate": "2026-11-13T01:30:00",
       "endDate": "2026-11-13T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbe76b29b9a00749344b5b7c8d37ec5b.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Yaadein",
-      "description": "Relive nostalgia with a thoughtfully curated compilation of classic Indian film songs paying tribute to the legendary movie stars of bygone eras.",
+      "showName": "Sitaron Ke Jahan Se",
+      "description": "Sitaron Ke Jahan Se",
       "startDate": "2026-11-13T02:00:00",
       "endDate": "2026-11-13T02:30:00",
       "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ffd8352d525ac926bdd29297cd5c1c7c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Shair-O-Sukhan",
-      "description": "Well-known Urdu poets recite their poems and verses in a musical way, creating a special blend of words and melody.",
+      "showName": "Kavi Hazir Hai",
+      "description": "Talented artists recite a collection of popular 'shayaris', a musical form of poetry, and ghazals in the Urdu language to entertain the viewers.",
       "startDate": "2026-11-13T02:30:00",
       "endDate": "2026-11-13T03:30:00",
       "showTime": "02:30:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/438f5c8f274e9ead00d1d506dbdb4f5b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/88c82f9feb25d2568384211e195ef8c6.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Shair-O-Sukhan",
-      "description": "Well-known Urdu poets recite their poems and verses in a musical way, creating a special blend of words and melody.",
+      "showName": "Cyber Crime Ki Duniya",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-13T03:30:00",
-      "endDate": "2026-11-13T04:30:00",
+      "endDate": "2026-11-13T04:00:00",
       "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dcb8f019b4c858281f23a6585b5693ac.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Dil Jo Keh Na Saka",
+      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "startDate": "2026-11-13T04:00:00",
+      "endDate": "2026-11-13T04:30:00",
+      "showTime": "04:00:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/438f5c8f274e9ead00d1d506dbdb4f5b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Ruh-E-Tasavvuf",
-      "description": "A comprehensive compilation of some of the most popular devotional songs that soothe the soul composed by eminent artists, played back to back.",
+      "showName": "Masael-E-Tasavvuf",
+      "description": "Musical Documentary.",
       "startDate": "2026-11-13T04:30:00",
       "endDate": "2026-11-13T05:00:00",
       "showTime": "04:30:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2fdff6ebba7e65fd57dfe9df435b4f9d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Sada-E-Watan",
-      "description": "Various talented artists deliver enthralling performances, singing patriotic melodies that extol the greatness of the country.",
+      "showName": "Khak - E - Hind",
+      "description": "Khak - E - Hind",
       "startDate": "2026-11-13T05:00:00",
       "endDate": "2026-11-13T05:30:00",
       "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8a3ef9b5b9e905f464068366b9f6199.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/063a755f0498fbeb37e5f655722bb481.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Health Show",
-      "description": "The hosts present various fitness tips and routines along with nutritious diets that can help people lead a healthy lifestyle.",
+      "showName": "Aarogya Yoga",
+      "description": "Aarogya Yoga",
       "startDate": "2026-11-13T05:30:00",
       "endDate": "2026-11-13T06:00:00",
       "showTime": "05:30:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/adec0ed6310f7a8217bbdde536e694ca.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Ruh-E-Tasavvuf",
-      "description": "A comprehensive compilation of some of the most popular devotional songs that soothe the soul composed by eminent artists, played back to back.",
+      "showName": "Masael-E-Tasavvuf",
+      "description": "Musical Documentary.",
       "startDate": "2026-11-13T06:00:00",
       "endDate": "2026-11-13T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2fdff6ebba7e65fd57dfe9df435b4f9d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Sada-E-Watan",
-      "description": "Various talented artists deliver enthralling performances, singing patriotic melodies that extol the greatness of the country.",
+      "showName": "Khak - E - Hind",
+      "description": "Khak - E - Hind",
       "startDate": "2026-11-13T06:30:00",
       "endDate": "2026-11-13T07:00:00",
       "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8a3ef9b5b9e905f464068366b9f6199.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/063a755f0498fbeb37e5f655722bb481.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Health Show",
-      "description": "The hosts present various fitness tips and routines along with nutritious diets that can help people lead a healthy lifestyle.",
+      "showName": "Aarogya Yoga",
+      "description": "Aarogya Yoga",
       "startDate": "2026-11-13T07:00:00",
       "endDate": "2026-11-13T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/adec0ed6310f7a8217bbdde536e694ca.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Yaadein",
-      "description": "Relive nostalgia with a thoughtfully curated compilation of classic Indian film songs paying tribute to the legendary movie stars of bygone eras.",
+      "showName": "Sitaron Ke Jahan Se",
+      "description": "Sitaron Ke Jahan Se",
       "startDate": "2026-11-13T07:30:00",
       "endDate": "2026-11-13T08:00:00",
       "showTime": "07:30:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ffd8352d525ac926bdd29297cd5c1c7c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Shair-O-Sukhan",
-      "description": "Well-known Urdu poets recite their poems and verses in a musical way, creating a special blend of words and melody.",
+      "showName": "Kavi Hazir Hai",
+      "description": "Talented artists recite a collection of popular 'shayaris', a musical form of poetry, and ghazals in the Urdu language to entertain the viewers.",
       "startDate": "2026-11-13T08:00:00",
       "endDate": "2026-11-13T09:00:00",
       "showTime": "08:00:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/438f5c8f274e9ead00d1d506dbdb4f5b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/88c82f9feb25d2568384211e195ef8c6.jpg"
     },
     {
       "serverDate": "2026-11-13",
@@ -1098,14 +1516,14 @@
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Hello Doctor",
-      "description": "Health and medical experts come together to talk about the benefits of Ayurveda, allopathy and homoeopathy and provide suggestions on various issues.",
+      "showName": "Hello Docter",
+      "description": "Hello Docter",
       "startDate": "2026-11-13T09:30:00",
       "endDate": "2026-11-13T10:20:00",
       "showTime": "09:30:00",
       "endTime": "10:20:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eee378933c924909a340c342a32ca599.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-13",
@@ -1120,91 +1538,102 @@
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Parwaz-E-Niswan",
-      "description": "The host sheds light on well-known celebrities' life journeys, sharing their experiences, achievements and challenges faced along the way.",
+      "showName": "Aaftab-E-Sukhan",
+      "description": "Aaftab-E-Sukhan",
       "startDate": "2026-11-13T10:30:00",
       "endDate": "2026-11-13T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10007f7077ea3b507d55ac2c3c117cd2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a5be4a55f91391b4d9ddafdeab842482.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Parwaz-E-Niswan",
-      "description": "The host sheds light on well-known celebrities' life journeys, sharing their experiences, achievements and challenges faced along the way.",
+      "showName": "Jahan-e-Khusrau",
+      "description": "People come together to attend concerts, seminars, exhibitions and heritage walks, which are held to commemorate the death anniversary of Hazrat Amir Khusrau, a renowned Sufi musician.",
       "startDate": "2026-11-13T11:00:00",
       "endDate": "2026-11-13T11:30:00",
       "showTime": "11:00:00",
       "endTime": "11:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/10007f7077ea3b507d55ac2c3c117cd2.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Zarkash",
-      "description": "The host travels to some of the most important cities and beautiful towns across India and talks about its famous tourist destinations.",
+      "showName": "Tawaf-E-Jahan",
+      "description": "The host travels to different places to indulge in adventurous activities famous in that region and get immersed in the local culture.",
       "startDate": "2026-11-13T11:30:00",
       "endDate": "2026-11-13T12:00:00",
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7cd084f14e89a68348cfb21fb6a2a463.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f6e113d6a29c2c9231b659c9c9834a49.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Dil Jo Keh Na Saka",
-      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "showName": "Mahapara Noor",
+      "description": "Mahapara Noor",
       "startDate": "2026-11-13T12:00:00",
       "endDate": "2026-11-13T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbe76b29b9a00749344b5b7c8d37ec5b.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Yaadein",
-      "description": "Relive nostalgia with a thoughtfully curated compilation of classic Indian film songs paying tribute to the legendary movie stars of bygone eras.",
+      "showName": "Sitaron Ke Jahan Se",
+      "description": "Sitaron Ke Jahan Se",
       "startDate": "2026-11-13T12:30:00",
       "endDate": "2026-11-13T13:00:00",
       "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ffd8352d525ac926bdd29297cd5c1c7c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Shair-O-Sukhan",
-      "description": "Well-known Urdu poets recite their poems and verses in a musical way, creating a special blend of words and melody.",
+      "showName": "Kavi Hazir Hai",
+      "description": "Talented artists recite a collection of popular 'shayaris', a musical form of poetry, and ghazals in the Urdu language to entertain the viewers.",
       "startDate": "2026-11-13T13:00:00",
       "endDate": "2026-11-13T14:00:00",
       "showTime": "13:00:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/438f5c8f274e9ead00d1d506dbdb4f5b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/88c82f9feb25d2568384211e195ef8c6.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Shair-O-Sukhan",
-      "description": "Well-known Urdu poets recite their poems and verses in a musical way, creating a special blend of words and melody.",
+      "showName": "Cyber Crime Ki Duniya",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-13T14:00:00",
-      "endDate": "2026-11-13T15:00:00",
+      "endDate": "2026-11-13T14:30:00",
       "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dcb8f019b4c858281f23a6585b5693ac.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Dil Jo Keh Na Saka",
+      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "startDate": "2026-11-13T14:30:00",
+      "endDate": "2026-11-13T15:00:00",
+      "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/438f5c8f274e9ead00d1d506dbdb4f5b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Yeh Zindagi Hai Gulshan",
-      "description": "A progressive Muslim girl's life is affected by Shariah, which has given equal rights to women to pursue their development.",
+      "showName": "Sehra Apne Naseeb Ka",
+      "description": "Sehra Apne Naseeb Ka",
       "startDate": "2026-11-13T15:00:00",
       "endDate": "2026-11-13T15:50:00",
       "showTime": "15:00:00",
       "endTime": "15:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abbfe8c6931faf8fbf953fc810cc68ed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-13",
@@ -1219,36 +1648,36 @@
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Hindustan Mein Musawwari Ki Riwayat",
-      "description": "Bringing the best in television.",
+      "showName": "Jankari Se Kamyabi Tak",
+      "description": "Jankari Se Kamyabi Tak",
       "startDate": "2026-11-13T16:00:00",
-      "endDate": "2026-11-13T16:30:00",
+      "endDate": "2026-11-13T16:50:00",
       "showTime": "16:00:00",
-      "endTime": "16:30:00",
+      "endTime": "16:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84f6401b37841a09f846f9c36dd093e5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Taron Ki Sair",
-      "description": "The filmmaker provides insight into the universe and its constituents, shedding light on the types of stars and planets.",
-      "startDate": "2026-11-13T16:30:00",
+      "showName": "Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-13T16:50:00",
       "endDate": "2026-11-13T17:00:00",
-      "showTime": "16:30:00",
+      "showTime": "16:50:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d201b41606a2b8d1987e2a47ec78716a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf455e7bbc9ac4ee5f6506b2d1c75d22.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Andaz e Bayan",
-      "description": "Renowned musicians bring Urdu poetry to life through soul-stirring qawwali performances, honouring legendary Urdu poets.",
+      "showName": "Kahan Gaye Woh Log",
+      "description": "Delving into the lives of remarkable individuals, the host uncovers their struggles, achievements and influence, offering a deeper understanding of their legacies.",
       "startDate": "2026-11-13T17:00:00",
       "endDate": "2026-11-13T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/24bcdbec70243b28ab59826c556dfe43.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-13",
@@ -1263,36 +1692,36 @@
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Khabarnama",
-      "description": "The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+      "showName": "Jahan-e-Khusrau",
+      "description": "People come together to attend concerts, seminars, exhibitions and heritage walks, which are held to commemorate the death anniversary of Hazrat Amir Khusrau, a renowned Sufi musician.",
       "startDate": "2026-11-13T18:00:00",
       "endDate": "2026-11-13T18:30:00",
       "showTime": "18:00:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7f4410f7aab913e36f0a4bafdd58fbc.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Zarkash",
-      "description": "The host travels to some of the most important cities and beautiful towns across India and talks about its famous tourist destinations.",
+      "showName": "Tawaf-E-Jahan",
+      "description": "The host travels to different places to indulge in adventurous activities famous in that region and get immersed in the local culture.",
       "startDate": "2026-11-13T18:30:00",
       "endDate": "2026-11-13T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7cd084f14e89a68348cfb21fb6a2a463.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f6e113d6a29c2c9231b659c9c9834a49.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Dil Jo Keh Na Saka",
-      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "showName": "Mahapara Noor",
+      "description": "Mahapara Noor",
       "startDate": "2026-11-13T19:00:00",
       "endDate": "2026-11-13T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbe76b29b9a00749344b5b7c8d37ec5b.jpg"
     },
     {
       "serverDate": "2026-11-13",
@@ -1307,36 +1736,58 @@
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Apna Mulk Apna Aien",
-      "description": "Legal experts and professionals discuss law, human rights and constitutional rights, providing insights into legal issues affecting people's lives.",
+      "showName": "Urdu Adab Ke Legends",
+      "description": "Urdu Adab Ke Legends",
       "startDate": "2026-11-13T20:00:00",
-      "endDate": "2026-11-13T21:00:00",
+      "endDate": "2026-11-13T20:30:00",
       "showTime": "20:00:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bfd50216eae688474807e0ae126dd103.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Riyaaz",
+      "description": "Riyaaz",
+      "startDate": "2026-11-13T20:30:00",
+      "endDate": "2026-11-13T21:00:00",
+      "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f1e215d8712321636b5e9db1f1a2625f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Apna Mulk Apna Aien",
-      "description": "Legal experts and professionals discuss law, human rights and constitutional rights, providing insights into legal issues affecting people's lives.",
+      "showName": "Cyber Crime Ki Duniya",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-13T21:00:00",
-      "endDate": "2026-11-13T22:00:00",
+      "endDate": "2026-11-13T21:30:00",
       "showTime": "21:00:00",
+      "endTime": "21:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dcb8f019b4c858281f23a6585b5693ac.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Dil Jo Keh Na Saka",
+      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "startDate": "2026-11-13T21:30:00",
+      "endDate": "2026-11-13T22:00:00",
+      "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f1e215d8712321636b5e9db1f1a2625f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Yeh Zindagi Hai Gulshan",
-      "description": "A progressive Muslim girl's life is affected by Shariah, which has given equal rights to women to pursue their development.",
+      "showName": "Sehra Apne Naseeb Ka",
+      "description": "Sehra Apne Naseeb Ka",
       "startDate": "2026-11-13T22:00:00",
       "endDate": "2026-11-13T22:50:00",
       "showTime": "22:00:00",
       "endTime": "22:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abbfe8c6931faf8fbf953fc810cc68ed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-13",
@@ -1351,69 +1802,69 @@
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Hindustan Mein Musawwari Ki Riwayat",
-      "description": "Bringing the best in television.",
+      "showName": "Jankari Se Kamyabi Tak",
+      "description": "Jankari Se Kamyabi Tak",
       "startDate": "2026-11-13T23:00:00",
-      "endDate": "2026-11-13T23:30:00",
+      "endDate": "2026-11-13T23:50:00",
       "showTime": "23:00:00",
-      "endTime": "23:30:00",
+      "endTime": "23:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84f6401b37841a09f846f9c36dd093e5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-13",
-      "showName": "Taron Ki Sair",
-      "description": "The filmmaker provides insight into the universe and its constituents, shedding light on the types of stars and planets.",
-      "startDate": "2026-11-13T23:30:00",
+      "showName": "Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-13T23:50:00",
       "endDate": "2026-11-13T23:59:59",
-      "showTime": "23:30:00",
+      "showTime": "23:50:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d201b41606a2b8d1987e2a47ec78716a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf455e7bbc9ac4ee5f6506b2d1c75d22.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Andaz e Bayan",
-      "description": "Renowned musicians bring Urdu poetry to life through soul-stirring qawwali performances, honouring legendary Urdu poets.",
+      "showName": "Kahan Gaye Woh Log",
+      "description": "Delving into the lives of remarkable individuals, the host uncovers their struggles, achievements and influence, offering a deeper understanding of their legacies.",
       "startDate": "2026-11-14T00:00:00",
       "endDate": "2026-11-14T00:30:00",
       "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/24bcdbec70243b28ab59826c556dfe43.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Andaz e Bayan",
-      "description": "Renowned musicians bring Urdu poetry to life through soul-stirring qawwali performances, honouring legendary Urdu poets.",
+      "showName": "Jahan-e-Khusrau",
+      "description": "People come together to attend concerts, seminars, exhibitions and heritage walks, which are held to commemorate the death anniversary of Hazrat Amir Khusrau, a renowned Sufi musician.",
       "startDate": "2026-11-14T00:30:00",
       "endDate": "2026-11-14T01:00:00",
       "showTime": "00:30:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/24bcdbec70243b28ab59826c556dfe43.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Zarkash",
-      "description": "The host travels to some of the most important cities and beautiful towns across India and talks about its famous tourist destinations.",
+      "showName": "Tawaf-E-Jahan",
+      "description": "The host travels to different places to indulge in adventurous activities famous in that region and get immersed in the local culture.",
       "startDate": "2026-11-14T01:00:00",
       "endDate": "2026-11-14T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7cd084f14e89a68348cfb21fb6a2a463.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f6e113d6a29c2c9231b659c9c9834a49.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Dil Jo Keh Na Saka",
-      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "showName": "Mahapara Noor",
+      "description": "Mahapara Noor",
       "startDate": "2026-11-14T01:30:00",
       "endDate": "2026-11-14T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbe76b29b9a00749344b5b7c8d37ec5b.jpg"
     },
     {
       "serverDate": "2026-11-14",
@@ -1428,80 +1879,102 @@
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Apna Mulk Apna Aien",
-      "description": "Legal experts and professionals discuss law, human rights and constitutional rights, providing insights into legal issues affecting people's lives.",
+      "showName": "Urdu Adab Ke Legends",
+      "description": "Urdu Adab Ke Legends",
       "startDate": "2026-11-14T02:30:00",
-      "endDate": "2026-11-14T03:30:00",
+      "endDate": "2026-11-14T03:00:00",
       "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bfd50216eae688474807e0ae126dd103.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Riyaaz",
+      "description": "Riyaaz",
+      "startDate": "2026-11-14T03:00:00",
+      "endDate": "2026-11-14T03:30:00",
+      "showTime": "03:00:00",
       "endTime": "03:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f1e215d8712321636b5e9db1f1a2625f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Apna Mulk Apna Aien",
-      "description": "Legal experts and professionals discuss law, human rights and constitutional rights, providing insights into legal issues affecting people's lives.",
+      "showName": "Cyber Crime Ki Duniya",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-14T03:30:00",
-      "endDate": "2026-11-14T04:30:00",
+      "endDate": "2026-11-14T04:00:00",
       "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dcb8f019b4c858281f23a6585b5693ac.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Dil Jo Keh Na Saka",
+      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "startDate": "2026-11-14T04:00:00",
+      "endDate": "2026-11-14T04:30:00",
+      "showTime": "04:00:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f1e215d8712321636b5e9db1f1a2625f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Ruh-E-Tasavvuf",
-      "description": "A comprehensive compilation of some of the most popular devotional songs that soothe the soul composed by eminent artists, played back to back.",
+      "showName": "Masael-E-Tasavvuf",
+      "description": "Musical Documentary.",
       "startDate": "2026-11-14T04:30:00",
       "endDate": "2026-11-14T05:00:00",
       "showTime": "04:30:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2fdff6ebba7e65fd57dfe9df435b4f9d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Sada-E-Watan",
-      "description": "Various talented artists deliver enthralling performances, singing patriotic melodies that extol the greatness of the country.",
+      "showName": "Khak - E - Hind",
+      "description": "Khak - E - Hind",
       "startDate": "2026-11-14T05:00:00",
       "endDate": "2026-11-14T05:30:00",
       "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8a3ef9b5b9e905f464068366b9f6199.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/063a755f0498fbeb37e5f655722bb481.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Health Show",
-      "description": "The hosts present various fitness tips and routines along with nutritious diets that can help people lead a healthy lifestyle.",
+      "showName": "Aarogya Yoga",
+      "description": "Aarogya Yoga",
       "startDate": "2026-11-14T05:30:00",
       "endDate": "2026-11-14T06:00:00",
       "showTime": "05:30:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/adec0ed6310f7a8217bbdde536e694ca.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Ruh-E-Tasavvuf",
-      "description": "A comprehensive compilation of some of the most popular devotional songs that soothe the soul composed by eminent artists, played back to back.",
+      "showName": "Masael-E-Tasavvuf",
+      "description": "Musical Documentary.",
       "startDate": "2026-11-14T06:00:00",
       "endDate": "2026-11-14T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2fdff6ebba7e65fd57dfe9df435b4f9d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Sada-E-Watan",
-      "description": "Various talented artists deliver enthralling performances, singing patriotic melodies that extol the greatness of the country.",
+      "showName": "Khak - E - Hind",
+      "description": "Khak - E - Hind",
       "startDate": "2026-11-14T06:30:00",
       "endDate": "2026-11-14T07:00:00",
       "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8a3ef9b5b9e905f464068366b9f6199.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/063a755f0498fbeb37e5f655722bb481.jpg"
     },
     {
       "serverDate": "2026-11-14",
@@ -1527,14 +2000,25 @@
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Apna Mulk Apna Aien",
-      "description": "Legal experts and professionals discuss law, human rights and constitutional rights, providing insights into legal issues affecting people's lives.",
+      "showName": "Urdu Adab Ke Legends",
+      "description": "Urdu Adab Ke Legends",
       "startDate": "2026-11-14T08:00:00",
-      "endDate": "2026-11-14T09:00:00",
+      "endDate": "2026-11-14T08:30:00",
       "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bfd50216eae688474807e0ae126dd103.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Riyaaz",
+      "description": "Riyaaz",
+      "startDate": "2026-11-14T08:30:00",
+      "endDate": "2026-11-14T09:00:00",
+      "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f1e215d8712321636b5e9db1f1a2625f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-14",
@@ -1549,69 +2033,69 @@
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Hindustan Mein Musawwari Ki Riwayat",
-      "description": "Bringing the best in television.",
+      "showName": "Jankari Se Kamyabi Tak",
+      "description": "Jankari Se Kamyabi Tak",
       "startDate": "2026-11-14T09:30:00",
-      "endDate": "2026-11-14T10:00:00",
+      "endDate": "2026-11-14T10:20:00",
       "showTime": "09:30:00",
-      "endTime": "10:00:00",
+      "endTime": "10:20:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84f6401b37841a09f846f9c36dd093e5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Taron Ki Sair",
-      "description": "The filmmaker provides insight into the universe and its constituents, shedding light on the types of stars and planets.",
-      "startDate": "2026-11-14T10:00:00",
+      "showName": "Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-14T10:20:00",
       "endDate": "2026-11-14T10:30:00",
-      "showTime": "10:00:00",
+      "showTime": "10:20:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d201b41606a2b8d1987e2a47ec78716a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf455e7bbc9ac4ee5f6506b2d1c75d22.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Andaz e Bayan",
-      "description": "Renowned musicians bring Urdu poetry to life through soul-stirring qawwali performances, honouring legendary Urdu poets.",
+      "showName": "Kahan Gaye Woh Log",
+      "description": "Delving into the lives of remarkable individuals, the host uncovers their struggles, achievements and influence, offering a deeper understanding of their legacies.",
       "startDate": "2026-11-14T10:30:00",
       "endDate": "2026-11-14T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/24bcdbec70243b28ab59826c556dfe43.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Andaz e Bayan",
-      "description": "Renowned musicians bring Urdu poetry to life through soul-stirring qawwali performances, honouring legendary Urdu poets.",
+      "showName": "Jahan-e-Khusrau",
+      "description": "People come together to attend concerts, seminars, exhibitions and heritage walks, which are held to commemorate the death anniversary of Hazrat Amir Khusrau, a renowned Sufi musician.",
       "startDate": "2026-11-14T11:00:00",
       "endDate": "2026-11-14T11:30:00",
       "showTime": "11:00:00",
       "endTime": "11:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/24bcdbec70243b28ab59826c556dfe43.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Zarkash",
-      "description": "The host travels to some of the most important cities and beautiful towns across India and talks about its famous tourist destinations.",
+      "showName": "Tawaf-E-Jahan",
+      "description": "The host travels to different places to indulge in adventurous activities famous in that region and get immersed in the local culture.",
       "startDate": "2026-11-14T11:30:00",
       "endDate": "2026-11-14T12:00:00",
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7cd084f14e89a68348cfb21fb6a2a463.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f6e113d6a29c2c9231b659c9c9834a49.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Dil Jo Keh Na Saka",
-      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "showName": "Mahapara Noor",
+      "description": "Mahapara Noor",
       "startDate": "2026-11-14T12:00:00",
       "endDate": "2026-11-14T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbe76b29b9a00749344b5b7c8d37ec5b.jpg"
     },
     {
       "serverDate": "2026-11-14",
@@ -1626,58 +2110,80 @@
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Apna Mulk Apna Aien",
-      "description": "Legal experts and professionals discuss law, human rights and constitutional rights, providing insights into legal issues affecting people's lives.",
+      "showName": "Urdu Adab Ke Legends",
+      "description": "Urdu Adab Ke Legends",
       "startDate": "2026-11-14T13:00:00",
-      "endDate": "2026-11-14T14:00:00",
+      "endDate": "2026-11-14T13:30:00",
       "showTime": "13:00:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bfd50216eae688474807e0ae126dd103.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Riyaaz",
+      "description": "Riyaaz",
+      "startDate": "2026-11-14T13:30:00",
+      "endDate": "2026-11-14T14:00:00",
+      "showTime": "13:30:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f1e215d8712321636b5e9db1f1a2625f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Apna Mulk Apna Aien",
-      "description": "Legal experts and professionals discuss law, human rights and constitutional rights, providing insights into legal issues affecting people's lives.",
+      "showName": "Cyber Crime Ki Duniya",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-14T14:00:00",
-      "endDate": "2026-11-14T15:00:00",
+      "endDate": "2026-11-14T14:30:00",
       "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dcb8f019b4c858281f23a6585b5693ac.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Dil Jo Keh Na Saka",
+      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "startDate": "2026-11-14T14:30:00",
+      "endDate": "2026-11-14T15:00:00",
+      "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f1e215d8712321636b5e9db1f1a2625f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Dagar Panghat Ki",
-      "description": "Renowned artists compose and perform a series of melodious Sufi songs in order to impress the judges and entertain the audience.",
+      "showName": "Baji Ki Hundiya",
+      "description": "Baji Ki Hundiya",
       "startDate": "2026-11-14T15:00:00",
       "endDate": "2026-11-14T15:30:00",
       "showTime": "15:00:00",
       "endTime": "15:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eed51ebf60109ae74f9d28268467b774.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Taste Ki Baat Hai",
-      "description": "The host interacts with different communities of the nation as they showcase their cooking styles, culture, different cuisines and lifestyle.",
+      "showName": "Kuch Lamhe Fursat Ke",
+      "description": "The host invites various experts from different fields and converses with them about their insights on how one can change their life in small ways.",
       "startDate": "2026-11-14T15:30:00",
       "endDate": "2026-11-14T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/50faabc335efe812d7fa1a01fc0327b0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dfa792ab15219916bd2df0f321f78719.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Hindustan Mein Musawwari Ki Riwayat",
-      "description": "Bringing the best in television.",
+      "showName": "Ilm Ki Buniyaad",
+      "description": "Ilm Ki Buniyaad",
       "startDate": "2026-11-14T16:00:00",
       "endDate": "2026-11-14T16:30:00",
       "showTime": "16:00:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84f6401b37841a09f846f9c36dd093e5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-14",
@@ -1692,14 +2198,14 @@
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Andaz-E-Shairana",
-      "description": "A filmmaker delves into the artistry of legendary lyricists and poets, uncovering their unique styles, techniques and the lasting impact of their words on music and literature.",
+      "showName": "Urdu Nama",
+      "description": "Urdu Nama",
       "startDate": "2026-11-14T17:00:00",
       "endDate": "2026-11-14T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17f62c9e3b867aff89cd31559fe3a63d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-14",
@@ -1714,47 +2220,47 @@
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Khabarnama",
-      "description": "The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+      "showName": "Jahan-e-Khusrau",
+      "description": "People come together to attend concerts, seminars, exhibitions and heritage walks, which are held to commemorate the death anniversary of Hazrat Amir Khusrau, a renowned Sufi musician.",
       "startDate": "2026-11-14T18:00:00",
       "endDate": "2026-11-14T18:30:00",
       "showTime": "18:00:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7f4410f7aab913e36f0a4bafdd58fbc.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Zarkash",
-      "description": "The host travels to some of the most important cities and beautiful towns across India and talks about its famous tourist destinations.",
+      "showName": "Tawaf-E-Jahan",
+      "description": "The host travels to different places to indulge in adventurous activities famous in that region and get immersed in the local culture.",
       "startDate": "2026-11-14T18:30:00",
       "endDate": "2026-11-14T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7cd084f14e89a68348cfb21fb6a2a463.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f6e113d6a29c2c9231b659c9c9834a49.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Dil Jo Keh Na Saka",
-      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "showName": "Mahapara Noor",
+      "description": "Mahapara Noor",
       "startDate": "2026-11-14T19:00:00",
       "endDate": "2026-11-14T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbe76b29b9a00749344b5b7c8d37ec5b.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Khatirdari",
-      "description": "The host interacts with prominent personalities of the country, who later present some delicious recipes and how to serve them.",
+      "showName": "Hum Kalam",
+      "description": "Hum Kalam",
       "startDate": "2026-11-14T19:30:00",
       "endDate": "2026-11-14T20:00:00",
       "showTime": "19:30:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a970052c14edb107dbf67ac96bf6b85a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-14",
@@ -1769,47 +2275,58 @@
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Kavi Hazir Hai",
-      "description": "Talented artists recite a collection of popular 'shayaris', a musical form of poetry, and ghazals in the Urdu language to entertain the viewers.",
+      "showName": "Cyber Crime Ki Duniya",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-14T21:00:00",
-      "endDate": "2026-11-14T22:00:00",
+      "endDate": "2026-11-14T21:30:00",
       "showTime": "21:00:00",
-      "endTime": "22:00:00",
+      "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/88c82f9feb25d2568384211e195ef8c6.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dcb8f019b4c858281f23a6585b5693ac.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Documentary",
-      "description": "Bringing the best in television.",
+      "showName": "Dil Jo Keh Na Saka",
+      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "startDate": "2026-11-14T21:30:00",
+      "endDate": "2026-11-14T22:00:00",
+      "showTime": "21:30:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Baji Ki Hundiya",
+      "description": "Baji Ki Hundiya",
       "startDate": "2026-11-14T22:00:00",
       "endDate": "2026-11-14T22:30:00",
       "showTime": "22:00:00",
       "endTime": "22:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd74228d00e89c0244ebdd0302911383.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Taste Ki Baat Hai",
-      "description": "The host interacts with different communities of the nation as they showcase their cooking styles, culture, different cuisines and lifestyle.",
+      "showName": "Kuch Lamhe Fursat Ke",
+      "description": "The host invites various experts from different fields and converses with them about their insights on how one can change their life in small ways.",
       "startDate": "2026-11-14T22:30:00",
       "endDate": "2026-11-14T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/50faabc335efe812d7fa1a01fc0327b0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dfa792ab15219916bd2df0f321f78719.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "Hindustan Mein Musawwari Ki Riwayat",
-      "description": "Bringing the best in television.",
+      "showName": "Ilm Ki Buniyaad",
+      "description": "Ilm Ki Buniyaad",
       "startDate": "2026-11-14T23:00:00",
       "endDate": "2026-11-14T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84f6401b37841a09f846f9c36dd093e5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-14",
@@ -1824,25 +2341,25 @@
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Hindustan Ki Talash",
-      "description": "Rudra, a determined and idealistic college student, sets out on a journey to trace the birth of India. He gains an understanding of the sacrifices it took to build this great nation.",
+      "showName": "Urdu Nama",
+      "description": "Urdu Nama",
       "startDate": "2026-11-15T00:00:00",
       "endDate": "2026-11-15T00:30:00",
       "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/769ebf6f4af7bc57e247d27fe783538d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Hindustan Ki Talash",
-      "description": "Rudra, a determined and idealistic college student, sets out on a journey to trace the birth of India. He gains an understanding of the sacrifices it took to build this great nation.",
+      "showName": "Jahan-e-Khusrau",
+      "description": "People come together to attend concerts, seminars, exhibitions and heritage walks, which are held to commemorate the death anniversary of Hazrat Amir Khusrau, a renowned Sufi musician.",
       "startDate": "2026-11-15T00:30:00",
       "endDate": "2026-11-15T01:00:00",
       "showTime": "00:30:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/769ebf6f4af7bc57e247d27fe783538d.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-15",
@@ -1857,25 +2374,25 @@
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Surat Ya Seerat",
-      "description": "Bringing the best in television.",
+      "showName": "Mahapara Noor",
+      "description": "Mahapara Noor",
       "startDate": "2026-11-15T01:30:00",
       "endDate": "2026-11-15T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbe76b29b9a00749344b5b7c8d37ec5b.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Khatirdari",
-      "description": "The host interacts with prominent personalities of the country, who later present some delicious recipes and how to serve them.",
+      "showName": "Hum Kalam",
+      "description": "Hum Kalam",
       "startDate": "2026-11-15T02:00:00",
       "endDate": "2026-11-15T02:30:00",
       "showTime": "02:00:00",
       "endTime": "02:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a970052c14edb107dbf67ac96bf6b85a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-15",
@@ -1890,36 +2407,47 @@
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Mati Ke Lal",
+      "showName": "Cyber Crime Ki Duniya",
       "description": "Bringing the best in television.",
       "startDate": "2026-11-15T03:30:00",
-      "endDate": "2026-11-15T04:30:00",
+      "endDate": "2026-11-15T04:00:00",
       "showTime": "03:30:00",
-      "endTime": "04:30:00",
+      "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f73e1367d5bfc4ecb86a88e71145256.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dcb8f019b4c858281f23a6585b5693ac.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Naghma-E-Marifat",
-      "description": "Various folk artists and musicians gather and sing devotional songs and religious hymns in order to praise the Almighty and receive his blessings.",
+      "showName": "Dil Jo Keh Na Saka",
+      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "startDate": "2026-11-15T04:00:00",
+      "endDate": "2026-11-15T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Masael-E-Tasavvuf",
+      "description": "Musical Documentary.",
       "startDate": "2026-11-15T04:30:00",
       "endDate": "2026-11-15T05:00:00",
       "showTime": "04:30:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4fa7fcea9e3d671e50ca6f97511d30fd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Naghma-E-Marifat",
-      "description": "Various folk artists and musicians gather and sing devotional songs and religious hymns in order to praise the Almighty and receive his blessings.",
+      "showName": "Khak - E - Hind",
+      "description": "Khak - E - Hind",
       "startDate": "2026-11-15T05:00:00",
       "endDate": "2026-11-15T05:30:00",
       "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4fa7fcea9e3d671e50ca6f97511d30fd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/063a755f0498fbeb37e5f655722bb481.jpg"
     },
     {
       "serverDate": "2026-11-15",
@@ -1934,25 +2462,25 @@
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Naghma-E-Marifat",
-      "description": "Various folk artists and musicians gather and sing devotional songs and religious hymns in order to praise the Almighty and receive his blessings.",
+      "showName": "Masael-E-Tasavvuf",
+      "description": "Musical Documentary.",
       "startDate": "2026-11-15T06:00:00",
       "endDate": "2026-11-15T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4fa7fcea9e3d671e50ca6f97511d30fd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Naghma-E-Marifat",
-      "description": "Various folk artists and musicians gather and sing devotional songs and religious hymns in order to praise the Almighty and receive his blessings.",
+      "showName": "Khak - E - Hind",
+      "description": "Khak - E - Hind",
       "startDate": "2026-11-15T06:30:00",
       "endDate": "2026-11-15T07:00:00",
       "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4fa7fcea9e3d671e50ca6f97511d30fd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/063a755f0498fbeb37e5f655722bb481.jpg"
     },
     {
       "serverDate": "2026-11-15",
@@ -1967,14 +2495,14 @@
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Khatirdari",
-      "description": "The host interacts with prominent personalities of the country, who later present some delicious recipes and how to serve them.",
+      "showName": "Hum Kalam",
+      "description": "Hum Kalam",
       "startDate": "2026-11-15T07:30:00",
       "endDate": "2026-11-15T08:00:00",
       "showTime": "07:30:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a970052c14edb107dbf67ac96bf6b85a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-15",
@@ -2000,14 +2528,14 @@
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Hamare Dastkar",
-      "description": "Skilled artisans showcase intricate craftsmanship, preserving traditional art forms while sharing the cultural and historical significance of their work.",
+      "showName": "Ilm Ki Buniyaad",
+      "description": "Ilm Ki Buniyaad",
       "startDate": "2026-11-15T09:30:00",
       "endDate": "2026-11-15T10:00:00",
       "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0b8c11e07a090a0f2345ff984dfeb775.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-15",
@@ -2022,25 +2550,25 @@
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Jeevan Mulyon Ki Paathshala",
-      "description": "An insightful exploration of moral and ethical values, using engaging narratives to highlight virtues like honesty, integrity and compassion in everyday life.",
+      "showName": "Urdu Nama",
+      "description": "Urdu Nama",
       "startDate": "2026-11-15T10:30:00",
       "endDate": "2026-11-15T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8f9385d279bc23d410ce9de02c115bc8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Mann ki Baat",
-      "description": "The prime minister of India addresses the citizens and speaks to them about various development initiatives and solutions undertaken by the Government of India.",
+      "showName": "Jahan-e-Khusrau",
+      "description": "People come together to attend concerts, seminars, exhibitions and heritage walks, which are held to commemorate the death anniversary of Hazrat Amir Khusrau, a renowned Sufi musician.",
       "startDate": "2026-11-15T11:00:00",
       "endDate": "2026-11-15T11:30:00",
       "showTime": "11:00:00",
       "endTime": "11:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f38e69abf14d2ccef4b661fd864bad0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-15",
@@ -2055,25 +2583,25 @@
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Surat Ya Seerat",
-      "description": "Bringing the best in television.",
+      "showName": "Mahapara Noor",
+      "description": "Mahapara Noor",
       "startDate": "2026-11-15T12:00:00",
       "endDate": "2026-11-15T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fbe76b29b9a00749344b5b7c8d37ec5b.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Khatirdari",
-      "description": "The host interacts with prominent personalities of the country, who later present some delicious recipes and how to serve them.",
+      "showName": "Hum Kalam",
+      "description": "Hum Kalam",
       "startDate": "2026-11-15T12:30:00",
       "endDate": "2026-11-15T13:00:00",
       "showTime": "12:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a970052c14edb107dbf67ac96bf6b85a.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-15",
@@ -2088,47 +2616,47 @@
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Mati Ke Lal",
+      "showName": "Cyber Crime Ki Duniya",
       "description": "Bringing the best in television.",
       "startDate": "2026-11-15T14:00:00",
-      "endDate": "2026-11-15T15:00:00",
+      "endDate": "2026-11-15T14:30:00",
       "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dcb8f019b4c858281f23a6585b5693ac.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Dil Jo Keh Na Saka",
+      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "startDate": "2026-11-15T14:30:00",
+      "endDate": "2026-11-15T15:00:00",
+      "showTime": "14:30:00",
       "endTime": "15:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f73e1367d5bfc4ecb86a88e71145256.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Movie",
-      "description": "Bringing the best in cinema.",
+      "showName": "Mai Khayal Hun Kisi Ayr Ka....",
+      "description": "Mai Khayal Hun Kisi Ayr Ka....",
       "startDate": "2026-11-15T15:00:00",
-      "endDate": "2026-11-15T15:50:00",
-      "showTime": "15:00:00",
-      "endTime": "15:50:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
-    },
-    {
-      "serverDate": "2026-11-15",
-      "showName": "Filler",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-15T15:50:00",
       "endDate": "2026-11-15T16:00:00",
-      "showTime": "15:50:00",
+      "showTime": "15:00:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf455e7bbc9ac4ee5f6506b2d1c75d22.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Filler",
-      "description": "Bringing the best in television.",
+      "showName": "Ilm Ki Buniyaad",
+      "description": "Ilm Ki Buniyaad",
       "startDate": "2026-11-15T16:00:00",
       "endDate": "2026-11-15T16:30:00",
       "showTime": "16:00:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf455e7bbc9ac4ee5f6506b2d1c75d22.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-15",
@@ -2143,14 +2671,14 @@
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Mujahid-E-Azadi - Ashfaqullah Khan",
-      "description": "A research scholar explores the life and efforts of Shaheed Ashfaqulla Khan, an Indian revolutionary, who played a major role in the Indian independence movement against British rule.",
+      "showName": "Neno Ki Nemat",
+      "description": "Neno Ki Nemat",
       "startDate": "2026-11-15T17:00:00",
       "endDate": "2026-11-15T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/86f02b10359c8df0baade2258c63060b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ee769bd9bda7b0964083954ea2a8a13.jpg"
     },
     {
       "serverDate": "2026-11-15",
@@ -2165,36 +2693,36 @@
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Khabarnama",
-      "description": "The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+      "showName": "Jahan-e-Khusrau",
+      "description": "People come together to attend concerts, seminars, exhibitions and heritage walks, which are held to commemorate the death anniversary of Hazrat Amir Khusrau, a renowned Sufi musician.",
       "startDate": "2026-11-15T18:00:00",
       "endDate": "2026-11-15T18:30:00",
       "showTime": "18:00:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7f4410f7aab913e36f0a4bafdd58fbc.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Cinema Ki Duniya",
-      "description": "The host sheds light on some of the latest news stories, updates and developments pertaining to the film and entertainment industry.",
+      "showName": "Tawaf-E-Jahan",
+      "description": "The host travels to different places to indulge in adventurous activities famous in that region and get immersed in the local culture.",
       "startDate": "2026-11-15T18:30:00",
       "endDate": "2026-11-15T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d51c281d00f23b65b31d8a85e3f15d6f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f6e113d6a29c2c9231b659c9c9834a49.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Surat Ya Seerat",
-      "description": "Bringing the best in television.",
+      "showName": "Parwaaz",
+      "description": "Catering to the Punjabi community and focusing on entertainment and culture, with discussions on the hottest issues, as well as community events, and poetry.",
       "startDate": "2026-11-15T19:00:00",
       "endDate": "2026-11-15T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa925bda4974bedddcbfa5ae30959a8d.jpg"
     },
     {
       "serverDate": "2026-11-15",
@@ -2220,47 +2748,47 @@
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Mati Ke Lal",
+      "showName": "Cyber Crime Ki Duniya",
       "description": "Bringing the best in television.",
       "startDate": "2026-11-15T21:00:00",
-      "endDate": "2026-11-15T22:00:00",
+      "endDate": "2026-11-15T21:30:00",
       "showTime": "21:00:00",
+      "endTime": "21:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dcb8f019b4c858281f23a6585b5693ac.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Dil Jo Keh Na Saka",
+      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "startDate": "2026-11-15T21:30:00",
+      "endDate": "2026-11-15T22:00:00",
+      "showTime": "21:30:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f73e1367d5bfc4ecb86a88e71145256.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Movie",
-      "description": "Bringing the best in cinema.",
+      "showName": "Mai Khayal Hun Kisi Ayr Ka....",
+      "description": "Mai Khayal Hun Kisi Ayr Ka....",
       "startDate": "2026-11-15T22:00:00",
-      "endDate": "2026-11-15T22:50:00",
-      "showTime": "22:00:00",
-      "endTime": "22:50:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
-    },
-    {
-      "serverDate": "2026-11-15",
-      "showName": "Filler",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-15T22:50:00",
       "endDate": "2026-11-15T23:00:00",
-      "showTime": "22:50:00",
+      "showTime": "22:00:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf455e7bbc9ac4ee5f6506b2d1c75d22.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "Filler",
-      "description": "Bringing the best in television.",
+      "showName": "Ilm Ki Buniyaad",
+      "description": "Ilm Ki Buniyaad",
       "startDate": "2026-11-15T23:00:00",
       "endDate": "2026-11-15T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf455e7bbc9ac4ee5f6506b2d1c75d22.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-15",
@@ -2275,47 +2803,47 @@
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Mujahid-E-Azadi - Ashfaqullah Khan",
-      "description": "A research scholar explores the life and efforts of Shaheed Ashfaqulla Khan, an Indian revolutionary, who played a major role in the Indian independence movement against British rule.",
+      "showName": "Neno Ki Nemat",
+      "description": "Neno Ki Nemat",
       "startDate": "2026-11-16T00:00:00",
       "endDate": "2026-11-16T00:30:00",
       "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/86f02b10359c8df0baade2258c63060b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ee769bd9bda7b0964083954ea2a8a13.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Mujahid-E-Azadi - Ashfaqullah Khan",
-      "description": "A research scholar explores the life and efforts of Shaheed Ashfaqulla Khan, an Indian revolutionary, who played a major role in the Indian independence movement against British rule.",
+      "showName": "Jahan-e-Khusrau",
+      "description": "People come together to attend concerts, seminars, exhibitions and heritage walks, which are held to commemorate the death anniversary of Hazrat Amir Khusrau, a renowned Sufi musician.",
       "startDate": "2026-11-16T00:30:00",
       "endDate": "2026-11-16T01:00:00",
       "showTime": "00:30:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/86f02b10359c8df0baade2258c63060b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Cinema Ki Duniya",
-      "description": "The host sheds light on some of the latest news stories, updates and developments pertaining to the film and entertainment industry.",
+      "showName": "Tawaf-E-Jahan",
+      "description": "The host travels to different places to indulge in adventurous activities famous in that region and get immersed in the local culture.",
       "startDate": "2026-11-16T01:00:00",
       "endDate": "2026-11-16T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d51c281d00f23b65b31d8a85e3f15d6f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f6e113d6a29c2c9231b659c9c9834a49.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Surat Ya Seerat",
-      "description": "Bringing the best in television.",
+      "showName": "Parwaaz",
+      "description": "Catering to the Punjabi community and focusing on entertainment and culture, with discussions on the hottest issues, as well as community events, and poetry.",
       "startDate": "2026-11-16T01:30:00",
       "endDate": "2026-11-16T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa925bda4974bedddcbfa5ae30959a8d.jpg"
     },
     {
       "serverDate": "2026-11-16",
@@ -2341,36 +2869,47 @@
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Mati Ke Lal",
+      "showName": "Cyber Crime Ki Duniya",
       "description": "Bringing the best in television.",
       "startDate": "2026-11-16T03:30:00",
-      "endDate": "2026-11-16T04:30:00",
+      "endDate": "2026-11-16T04:00:00",
       "showTime": "03:30:00",
-      "endTime": "04:30:00",
+      "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f73e1367d5bfc4ecb86a88e71145256.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dcb8f019b4c858281f23a6585b5693ac.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Naghma-E-Marifat",
-      "description": "Various folk artists and musicians gather and sing devotional songs and religious hymns in order to praise the Almighty and receive his blessings.",
+      "showName": "Dil Jo Keh Na Saka",
+      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "startDate": "2026-11-16T04:00:00",
+      "endDate": "2026-11-16T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Masael-E-Tasavvuf",
+      "description": "Musical Documentary.",
       "startDate": "2026-11-16T04:30:00",
       "endDate": "2026-11-16T05:00:00",
       "showTime": "04:30:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4fa7fcea9e3d671e50ca6f97511d30fd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Naghma-E-Marifat",
-      "description": "Various folk artists and musicians gather and sing devotional songs and religious hymns in order to praise the Almighty and receive his blessings.",
+      "showName": "Khak - E - Hind",
+      "description": "Khak - E - Hind",
       "startDate": "2026-11-16T05:00:00",
       "endDate": "2026-11-16T05:30:00",
       "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4fa7fcea9e3d671e50ca6f97511d30fd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/063a755f0498fbeb37e5f655722bb481.jpg"
     },
     {
       "serverDate": "2026-11-16",
@@ -2385,36 +2924,36 @@
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Naghma-E-Marifat",
-      "description": "Various folk artists and musicians gather and sing devotional songs and religious hymns in order to praise the Almighty and receive his blessings.",
+      "showName": "Masael-E-Tasavvuf",
+      "description": "Musical Documentary.",
       "startDate": "2026-11-16T06:00:00",
       "endDate": "2026-11-16T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4fa7fcea9e3d671e50ca6f97511d30fd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Khak-E-Watan",
-      "description": "Talented poets from across the region read their poetic verses in front of an audience on the occasion of Independence Day.",
+      "showName": "Khak - E - Hind",
+      "description": "Khak - E - Hind",
       "startDate": "2026-11-16T06:30:00",
       "endDate": "2026-11-16T07:00:00",
       "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/063a755f0498fbeb37e5f655722bb481.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Arogya yoga",
-      "description": "The host features health gurus as they explore the healing power of yoga, offering expert insights to promote physical and mental well-being.",
+      "showName": "Aarogya Yoga",
+      "description": "Aarogya Yoga",
       "startDate": "2026-11-16T07:00:00",
       "endDate": "2026-11-16T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a6ec2f67843309311339abf9948145b0.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-16",
@@ -2451,69 +2990,69 @@
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Khabarnama",
-      "description": "The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+      "showName": "Ilm Ki Buniyaad",
+      "description": "Ilm Ki Buniyaad",
       "startDate": "2026-11-16T09:30:00",
       "endDate": "2026-11-16T10:00:00",
       "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7f4410f7aab913e36f0a4bafdd58fbc.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Nanhe Danishmand",
+      "showName": "Nanha Masiha",
       "description": "Bringing the best in television.",
       "startDate": "2026-11-16T10:00:00",
       "endDate": "2026-11-16T10:30:00",
       "showTime": "10:00:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b2057764200dec73ee4a9b9fc6bf23f.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Mujahid-E-Azadi - Ashfaqullah Khan",
-      "description": "A research scholar explores the life and efforts of Shaheed Ashfaqulla Khan, an Indian revolutionary, who played a major role in the Indian independence movement against British rule.",
+      "showName": "Neno Ki Nemat",
+      "description": "Neno Ki Nemat",
       "startDate": "2026-11-16T10:30:00",
       "endDate": "2026-11-16T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/86f02b10359c8df0baade2258c63060b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3ee769bd9bda7b0964083954ea2a8a13.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Mujahid-E-Azadi - Ashfaqullah Khan",
-      "description": "A research scholar explores the life and efforts of Shaheed Ashfaqulla Khan, an Indian revolutionary, who played a major role in the Indian independence movement against British rule.",
+      "showName": "Jahan-e-Khusrau",
+      "description": "People come together to attend concerts, seminars, exhibitions and heritage walks, which are held to commemorate the death anniversary of Hazrat Amir Khusrau, a renowned Sufi musician.",
       "startDate": "2026-11-16T11:00:00",
       "endDate": "2026-11-16T11:30:00",
       "showTime": "11:00:00",
       "endTime": "11:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/86f02b10359c8df0baade2258c63060b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Cinema Ki Duniya",
-      "description": "The host sheds light on some of the latest news stories, updates and developments pertaining to the film and entertainment industry.",
+      "showName": "Tawaf-E-Jahan",
+      "description": "The host travels to different places to indulge in adventurous activities famous in that region and get immersed in the local culture.",
       "startDate": "2026-11-16T11:30:00",
       "endDate": "2026-11-16T12:00:00",
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d51c281d00f23b65b31d8a85e3f15d6f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f6e113d6a29c2c9231b659c9c9834a49.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Yeh Ishq Nahi Aasan",
-      "description": "Bringing the best in television.",
+      "showName": "Parwaaz",
+      "description": "Catering to the Punjabi community and focusing on entertainment and culture, with discussions on the hottest issues, as well as community events, and poetry.",
       "startDate": "2026-11-16T12:00:00",
       "endDate": "2026-11-16T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5f9d94be39cc371ec7469d902fa7dd3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa925bda4974bedddcbfa5ae30959a8d.jpg"
     },
     {
       "serverDate": "2026-11-16",
@@ -2539,25 +3078,36 @@
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Mati Ke Lal",
+      "showName": "Cyber Crime Ki Duniya",
       "description": "Bringing the best in television.",
       "startDate": "2026-11-16T14:00:00",
-      "endDate": "2026-11-16T15:00:00",
+      "endDate": "2026-11-16T14:30:00",
       "showTime": "14:00:00",
-      "endTime": "15:00:00",
+      "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f73e1367d5bfc4ecb86a88e71145256.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dcb8f019b4c858281f23a6585b5693ac.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Yeh Zindagi Hai Gulshan",
-      "description": "A progressive Muslim girl's life is affected by Shariah, which has given equal rights to women to pursue their development.",
+      "showName": "Dil Jo Keh Na Saka",
+      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "startDate": "2026-11-16T14:30:00",
+      "endDate": "2026-11-16T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Sehra Apne Naseeb Ka",
+      "description": "Sehra Apne Naseeb Ka",
       "startDate": "2026-11-16T15:00:00",
       "endDate": "2026-11-16T15:50:00",
       "showTime": "15:00:00",
       "endTime": "15:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abbfe8c6931faf8fbf953fc810cc68ed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-16",
@@ -2572,36 +3122,36 @@
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Hamare Dastkar",
-      "description": "Skilled artisans showcase intricate craftsmanship, preserving traditional art forms while sharing the cultural and historical significance of their work.",
+      "showName": "Roshni Ilm Ki",
+      "description": "A religious scholar sheds light on the various Islamic ethics and morals that must be followed by Muslims around the world.",
       "startDate": "2026-11-16T16:00:00",
-      "endDate": "2026-11-16T16:30:00",
+      "endDate": "2026-11-16T16:50:00",
       "showTime": "16:00:00",
-      "endTime": "16:30:00",
+      "endTime": "16:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0b8c11e07a090a0f2345ff984dfeb775.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b28ecd31b7274857e88440238894da2.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Nanhe Danishmand",
+      "showName": "Filler",
       "description": "Bringing the best in television.",
-      "startDate": "2026-11-16T16:30:00",
+      "startDate": "2026-11-16T16:50:00",
       "endDate": "2026-11-16T17:00:00",
-      "showTime": "16:30:00",
+      "showTime": "16:50:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf455e7bbc9ac4ee5f6506b2d1c75d22.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Masnavi Sahrul Bayan",
-      "description": "The host sheds light on 'Masnavi Sehr Ul Bayan', a literary work by Urdu writer Mir Hasan, through a captivating dramatic interpretation.",
+      "showName": "DD urdu",
+      "description": "DD urdu",
       "startDate": "2026-11-16T17:00:00",
       "endDate": "2026-11-16T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2acacd313d4cb08a811b6a7d0a154267.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84d237cfbba2c43f773fa96cacb1ffaf.jpg"
     },
     {
       "serverDate": "2026-11-16",
@@ -2616,80 +3166,102 @@
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Khabarnama",
-      "description": "The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+      "showName": "Jahan-e-Khusrau",
+      "description": "People come together to attend concerts, seminars, exhibitions and heritage walks, which are held to commemorate the death anniversary of Hazrat Amir Khusrau, a renowned Sufi musician.",
       "startDate": "2026-11-16T18:00:00",
       "endDate": "2026-11-16T18:30:00",
       "showTime": "18:00:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7f4410f7aab913e36f0a4bafdd58fbc.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Dilli Ke Badalte Rang",
-      "description": "The filmmaker explores the history of Delhi, highlighting different eras of rule and civilisation and their significance in the present day.",
+      "showName": "Tawaf-E-Jahan",
+      "description": "The host travels to different places to indulge in adventurous activities famous in that region and get immersed in the local culture.",
       "startDate": "2026-11-16T18:30:00",
       "endDate": "2026-11-16T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0db4fada0664ebbd34cc55a9f1a76e09.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f6e113d6a29c2c9231b659c9c9834a49.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Yeh Ishq Nahi Aasan",
-      "description": "Bringing the best in television.",
+      "showName": "Parwaaz",
+      "description": "Catering to the Punjabi community and focusing on entertainment and culture, with discussions on the hottest issues, as well as community events, and poetry.",
       "startDate": "2026-11-16T19:00:00",
       "endDate": "2026-11-16T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5f9d94be39cc371ec7469d902fa7dd3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa925bda4974bedddcbfa5ae30959a8d.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Unani Clinic",
-      "description": "The filmmaker sheds light on the services available at an Unani clinic that uses a traditional medical system to treat various ailments.",
+      "showName": "DD urdu",
+      "description": "DD urdu",
       "startDate": "2026-11-16T19:30:00",
       "endDate": "2026-11-16T20:00:00",
       "showTime": "19:30:00",
       "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cb06dfc806c67d41609cbb8f765c1e43.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84d237cfbba2c43f773fa96cacb1ffaf.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Paisa Bolta Hai",
-      "description": "The host holds insightful discussions with various experts, highlighting various economic topics and their impact on the nation.",
+      "showName": "Andaz-E-Shairana",
+      "description": "A filmmaker delves into the artistry of legendary lyricists and poets, uncovering their unique styles, techniques and the lasting impact of their words on music and literature.",
       "startDate": "2026-11-16T20:00:00",
-      "endDate": "2026-11-16T21:00:00",
+      "endDate": "2026-11-16T20:30:00",
       "showTime": "20:00:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17f62c9e3b867aff89cd31559fe3a63d.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Sitaron Ke Jahan Se",
+      "description": "Sitaron Ke Jahan Se",
+      "startDate": "2026-11-16T20:30:00",
+      "endDate": "2026-11-16T21:00:00",
+      "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/001247d056845ba2d598d839cb3352ad.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Mati Ke Lal",
+      "showName": "Cyber Crime Ki Duniya",
       "description": "Bringing the best in television.",
       "startDate": "2026-11-16T21:00:00",
-      "endDate": "2026-11-16T22:00:00",
+      "endDate": "2026-11-16T21:30:00",
       "showTime": "21:00:00",
-      "endTime": "22:00:00",
+      "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f73e1367d5bfc4ecb86a88e71145256.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dcb8f019b4c858281f23a6585b5693ac.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Yeh Zindagi Hai Gulshan",
-      "description": "A progressive Muslim girl's life is affected by Shariah, which has given equal rights to women to pursue their development.",
+      "showName": "Dil Jo Keh Na Saka",
+      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "startDate": "2026-11-16T21:30:00",
+      "endDate": "2026-11-16T22:00:00",
+      "showTime": "21:30:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Sehra Apne Naseeb Ka",
+      "description": "Sehra Apne Naseeb Ka",
       "startDate": "2026-11-16T22:00:00",
       "endDate": "2026-11-16T22:50:00",
       "showTime": "22:00:00",
       "endTime": "22:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abbfe8c6931faf8fbf953fc810cc68ed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-16",
@@ -2704,91 +3276,223 @@
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Hamare Dastkar",
-      "description": "Skilled artisans showcase intricate craftsmanship, preserving traditional art forms while sharing the cultural and historical significance of their work.",
+      "showName": "Roshni Ilm Ki",
+      "description": "A religious scholar sheds light on the various Islamic ethics and morals that must be followed by Muslims around the world.",
       "startDate": "2026-11-16T23:00:00",
-      "endDate": "2026-11-16T23:30:00",
+      "endDate": "2026-11-16T23:50:00",
       "showTime": "23:00:00",
-      "endTime": "23:30:00",
+      "endTime": "23:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0b8c11e07a090a0f2345ff984dfeb775.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b28ecd31b7274857e88440238894da2.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Nanhe Danishmand",
+      "showName": "Filler",
       "description": "Bringing the best in television.",
-      "startDate": "2026-11-16T23:30:00",
+      "startDate": "2026-11-16T23:50:00",
       "endDate": "2026-11-16T23:59:59",
-      "showTime": "23:30:00",
+      "showTime": "23:50:00",
       "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf455e7bbc9ac4ee5f6506b2d1c75d22.jpg"
+    },
+    {
+      "serverDate": "2026-11-17",
+      "showName": "DD urdu",
+      "description": "DD urdu",
+      "startDate": "2026-11-17T00:00:00",
+      "endDate": "2026-11-17T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84d237cfbba2c43f773fa96cacb1ffaf.jpg"
+    },
+    {
+      "serverDate": "2026-11-17",
+      "showName": "Jahan-e-Khusrau",
+      "description": "People come together to attend concerts, seminars, exhibitions and heritage walks, which are held to commemorate the death anniversary of Hazrat Amir Khusrau, a renowned Sufi musician.",
+      "startDate": "2026-11-17T00:30:00",
+      "endDate": "2026-11-17T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Nanhe Danishmand",
+      "showName": "Tawaf-E-Jahan",
+      "description": "The host travels to different places to indulge in adventurous activities famous in that region and get immersed in the local culture.",
+      "startDate": "2026-11-17T01:00:00",
+      "endDate": "2026-11-17T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f6e113d6a29c2c9231b659c9c9834a49.jpg"
+    },
+    {
+      "serverDate": "2026-11-17",
+      "showName": "Parwaaz",
+      "description": "Catering to the Punjabi community and focusing on entertainment and culture, with discussions on the hottest issues, as well as community events, and poetry.",
+      "startDate": "2026-11-17T01:30:00",
+      "endDate": "2026-11-17T02:00:00",
+      "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa925bda4974bedddcbfa5ae30959a8d.jpg"
+    },
+    {
+      "serverDate": "2026-11-17",
+      "showName": "DD urdu",
+      "description": "DD urdu",
+      "startDate": "2026-11-17T02:00:00",
+      "endDate": "2026-11-17T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84d237cfbba2c43f773fa96cacb1ffaf.jpg"
+    },
+    {
+      "serverDate": "2026-11-17",
+      "showName": "Andaz-E-Shairana",
+      "description": "A filmmaker delves into the artistry of legendary lyricists and poets, uncovering their unique styles, techniques and the lasting impact of their words on music and literature.",
+      "startDate": "2026-11-17T02:30:00",
+      "endDate": "2026-11-17T03:00:00",
+      "showTime": "02:30:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17f62c9e3b867aff89cd31559fe3a63d.jpg"
+    },
+    {
+      "serverDate": "2026-11-17",
+      "showName": "Sitaron Ke Jahan Se",
+      "description": "Sitaron Ke Jahan Se",
+      "startDate": "2026-11-17T03:00:00",
+      "endDate": "2026-11-17T03:30:00",
+      "showTime": "03:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-17",
+      "showName": "Cyber Crime Ki Duniya",
       "description": "Bringing the best in television.",
-      "startDate": "2026-11-17T00:00:00",
+      "startDate": "2026-11-17T03:30:00",
+      "endDate": "2026-11-17T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dcb8f019b4c858281f23a6585b5693ac.jpg"
+    },
+    {
+      "serverDate": "2026-11-17",
+      "showName": "Dil Jo Keh Na Saka",
+      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "startDate": "2026-11-17T04:00:00",
+      "endDate": "2026-11-17T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
+    },
+    {
+      "serverDate": "2026-11-17",
+      "showName": "Masael-E-Tasavvuf",
+      "description": "Musical Documentary.",
+      "startDate": "2026-11-17T04:30:00",
+      "endDate": "2026-11-17T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-17",
+      "showName": "Khak - E - Hind",
+      "description": "Khak - E - Hind",
+      "startDate": "2026-11-17T05:00:00",
+      "endDate": "2026-11-17T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/063a755f0498fbeb37e5f655722bb481.jpg"
+    },
+    {
+      "serverDate": "2026-11-17",
+      "showName": "Aarogya Yoga",
+      "description": "Aarogya Yoga",
+      "startDate": "2026-11-17T05:30:00",
       "endDate": "2026-11-17T06:00:00",
-      "showTime": "00:00:00",
+      "showTime": "05:30:00",
       "endTime": "06:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Naghma-E-Marifat",
-      "description": "Various folk artists and musicians gather and sing devotional songs and religious hymns in order to praise the Almighty and receive his blessings.",
+      "showName": "Masael-E-Tasavvuf",
+      "description": "Musical Documentary.",
       "startDate": "2026-11-17T06:00:00",
       "endDate": "2026-11-17T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4fa7fcea9e3d671e50ca6f97511d30fd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Khak-E-Watan",
-      "description": "Talented poets from across the region read their poetic verses in front of an audience on the occasion of Independence Day.",
+      "showName": "Khak - E - Hind",
+      "description": "Khak - E - Hind",
       "startDate": "2026-11-17T06:30:00",
       "endDate": "2026-11-17T07:00:00",
       "showTime": "06:30:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/063a755f0498fbeb37e5f655722bb481.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Arogya yoga",
-      "description": "The host features health gurus as they explore the healing power of yoga, offering expert insights to promote physical and mental well-being.",
+      "showName": "Aarogya Yoga",
+      "description": "Aarogya Yoga",
       "startDate": "2026-11-17T07:00:00",
       "endDate": "2026-11-17T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
-      "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a6ec2f67843309311339abf9948145b0.jpg"
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Unani Clinic",
-      "description": "The filmmaker sheds light on the services available at an Unani clinic that uses a traditional medical system to treat various ailments.",
+      "showName": "DD urdu",
+      "description": "DD urdu",
       "startDate": "2026-11-17T07:30:00",
       "endDate": "2026-11-17T08:00:00",
       "showTime": "07:30:00",
       "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cb06dfc806c67d41609cbb8f765c1e43.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84d237cfbba2c43f773fa96cacb1ffaf.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Paisa Bolta Hai",
-      "description": "The host holds insightful discussions with various experts, highlighting various economic topics and their impact on the nation.",
+      "showName": "Andaz-E-Shairana",
+      "description": "A filmmaker delves into the artistry of legendary lyricists and poets, uncovering their unique styles, techniques and the lasting impact of their words on music and literature.",
       "startDate": "2026-11-17T08:00:00",
-      "endDate": "2026-11-17T09:00:00",
+      "endDate": "2026-11-17T08:50:00",
       "showTime": "08:00:00",
+      "endTime": "08:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17f62c9e3b867aff89cd31559fe3a63d.jpg"
+    },
+    {
+      "serverDate": "2026-11-17",
+      "showName": "Sitaron Ke Jahan Se",
+      "description": "Sitaron Ke Jahan Se",
+      "startDate": "2026-11-17T08:50:00",
+      "endDate": "2026-11-17T09:00:00",
+      "showTime": "08:50:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/001247d056845ba2d598d839cb3352ad.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-17",
@@ -2803,36 +3507,36 @@
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Hamare Dastkar",
-      "description": "Skilled artisans showcase intricate craftsmanship, preserving traditional art forms while sharing the cultural and historical significance of their work.",
+      "showName": "Roshni Ilm Ki",
+      "description": "A religious scholar sheds light on the various Islamic ethics and morals that must be followed by Muslims around the world.",
       "startDate": "2026-11-17T09:30:00",
-      "endDate": "2026-11-17T10:00:00",
+      "endDate": "2026-11-17T10:20:00",
       "showTime": "09:30:00",
-      "endTime": "10:00:00",
+      "endTime": "10:20:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0b8c11e07a090a0f2345ff984dfeb775.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8b28ecd31b7274857e88440238894da2.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Nanhe Danishmand",
+      "showName": "Filler",
       "description": "Bringing the best in television.",
-      "startDate": "2026-11-17T10:00:00",
+      "startDate": "2026-11-17T10:20:00",
       "endDate": "2026-11-17T10:30:00",
-      "showTime": "10:00:00",
+      "showTime": "10:20:00",
       "endTime": "10:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf455e7bbc9ac4ee5f6506b2d1c75d22.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Masnavi Sahrul Bayan",
-      "description": "The host sheds light on 'Masnavi Sehr Ul Bayan', a literary work by Urdu writer Mir Hasan, through a captivating dramatic interpretation.",
+      "showName": "DD urdu",
+      "description": "DD urdu",
       "startDate": "2026-11-17T10:30:00",
       "endDate": "2026-11-17T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2acacd313d4cb08a811b6a7d0a154267.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84d237cfbba2c43f773fa96cacb1ffaf.jpg"
     },
     {
       "serverDate": "2026-11-17",
@@ -2847,69 +3551,91 @@
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Dilli Ke Badalte Rang",
-      "description": "The filmmaker explores the history of Delhi, highlighting different eras of rule and civilisation and their significance in the present day.",
+      "showName": "Tawaf-E-Jahan",
+      "description": "The host travels to different places to indulge in adventurous activities famous in that region and get immersed in the local culture.",
       "startDate": "2026-11-17T11:30:00",
       "endDate": "2026-11-17T12:00:00",
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0db4fada0664ebbd34cc55a9f1a76e09.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f6e113d6a29c2c9231b659c9c9834a49.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Yeh Ishq Nahi Aasan",
-      "description": "Bringing the best in television.",
+      "showName": "Parwaaz",
+      "description": "Catering to the Punjabi community and focusing on entertainment and culture, with discussions on the hottest issues, as well as community events, and poetry.",
       "startDate": "2026-11-17T12:00:00",
       "endDate": "2026-11-17T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5f9d94be39cc371ec7469d902fa7dd3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa925bda4974bedddcbfa5ae30959a8d.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Unani Clinic",
-      "description": "The filmmaker sheds light on the services available at an Unani clinic that uses a traditional medical system to treat various ailments.",
+      "showName": "DD urdu",
+      "description": "DD urdu",
       "startDate": "2026-11-17T12:30:00",
       "endDate": "2026-11-17T13:00:00",
       "showTime": "12:30:00",
       "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cb06dfc806c67d41609cbb8f765c1e43.jpg"
+      "showCategory": "",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/84d237cfbba2c43f773fa96cacb1ffaf.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Paisa Bolta Hai",
-      "description": "The host holds insightful discussions with various experts, highlighting various economic topics and their impact on the nation.",
+      "showName": "Andaz-E-Shairana",
+      "description": "A filmmaker delves into the artistry of legendary lyricists and poets, uncovering their unique styles, techniques and the lasting impact of their words on music and literature.",
       "startDate": "2026-11-17T13:00:00",
-      "endDate": "2026-11-17T14:00:00",
+      "endDate": "2026-11-17T13:30:00",
       "showTime": "13:00:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17f62c9e3b867aff89cd31559fe3a63d.jpg"
+    },
+    {
+      "serverDate": "2026-11-17",
+      "showName": "Sitaron Ke Jahan Se",
+      "description": "Sitaron Ke Jahan Se",
+      "startDate": "2026-11-17T13:30:00",
+      "endDate": "2026-11-17T14:00:00",
+      "showTime": "13:30:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/001247d056845ba2d598d839cb3352ad.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Mati Ke Lal",
+      "showName": "Cyber Crime Ki Duniya",
       "description": "Bringing the best in television.",
       "startDate": "2026-11-17T14:00:00",
-      "endDate": "2026-11-17T15:00:00",
+      "endDate": "2026-11-17T14:30:00",
       "showTime": "14:00:00",
-      "endTime": "15:00:00",
+      "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f73e1367d5bfc4ecb86a88e71145256.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dcb8f019b4c858281f23a6585b5693ac.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Yeh Zindagi Hai Gulshan",
-      "description": "A progressive Muslim girl's life is affected by Shariah, which has given equal rights to women to pursue their development.",
+      "showName": "Dil Jo Keh Na Saka",
+      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "startDate": "2026-11-17T14:30:00",
+      "endDate": "2026-11-17T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
+    },
+    {
+      "serverDate": "2026-11-17",
+      "showName": "Sehra Apne Naseeb Ka",
+      "description": "Sehra Apne Naseeb Ka",
       "startDate": "2026-11-17T15:00:00",
       "endDate": "2026-11-17T15:50:00",
       "showTime": "15:00:00",
       "endTime": "15:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abbfe8c6931faf8fbf953fc810cc68ed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-17",
@@ -2924,36 +3650,36 @@
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Hamare Dastkar",
-      "description": "Skilled artisans showcase intricate craftsmanship, preserving traditional art forms while sharing the cultural and historical significance of their work.",
+      "showName": "Yeh Hai India",
+      "description": "The host highlights the contribution of politician and social reformer Dr Bhimrao Ramji Ambedkar in shaping the society.",
       "startDate": "2026-11-17T16:00:00",
-      "endDate": "2026-11-17T16:30:00",
+      "endDate": "2026-11-17T16:50:00",
       "showTime": "16:00:00",
-      "endTime": "16:30:00",
+      "endTime": "16:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0b8c11e07a090a0f2345ff984dfeb775.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0c30151a4296dc15ce17f60843f54aee.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Nanhe Danishmand",
+      "showName": "Filler",
       "description": "Bringing the best in television.",
-      "startDate": "2026-11-17T16:30:00",
+      "startDate": "2026-11-17T16:50:00",
       "endDate": "2026-11-17T17:00:00",
-      "showTime": "16:30:00",
+      "showTime": "16:50:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf455e7bbc9ac4ee5f6506b2d1c75d22.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Karwan-e-shaoor",
-      "description": "The hosts engage in conversations with various renowned Urdu poets and authors about their careers and life experiences.",
+      "showName": "Seher Hone Tak",
+      "description": "The host sheds light on the life and experiences of Maulana Azad, an Indian writer and activist, focusing on the hardships he faced and his contributions to the Indian independence movement.",
       "startDate": "2026-11-17T17:00:00",
       "endDate": "2026-11-17T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7b8de7b57fdd61f5a8fa654348a0fd55.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8611255f98821396bea69a4f39a612f8.jpg"
     },
     {
       "serverDate": "2026-11-17",
@@ -2968,14 +3694,14 @@
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Khabarnama",
-      "description": "The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.",
+      "showName": "Jahan-e-Khusrau",
+      "description": "People come together to attend concerts, seminars, exhibitions and heritage walks, which are held to commemorate the death anniversary of Hazrat Amir Khusrau, a renowned Sufi musician.",
       "startDate": "2026-11-17T18:00:00",
       "endDate": "2026-11-17T18:30:00",
       "showTime": "18:00:00",
       "endTime": "18:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7f4410f7aab913e36f0a4bafdd58fbc.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-17",
@@ -2990,14 +3716,14 @@
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Yeh Ishq Nahi Aasan",
-      "description": "Bringing the best in television.",
+      "showName": "Parwaaz",
+      "description": "Catering to the Punjabi community and focusing on entertainment and culture, with discussions on the hottest issues, as well as community events, and poetry.",
       "startDate": "2026-11-17T19:00:00",
       "endDate": "2026-11-17T19:30:00",
       "showTime": "19:00:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5f9d94be39cc371ec7469d902fa7dd3.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa925bda4974bedddcbfa5ae30959a8d.jpg"
     },
     {
       "serverDate": "2026-11-17",
@@ -3012,36 +3738,47 @@
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Kuch Lamhe Fursat Ke",
-      "description": "The host invites various experts from different fields and converses with them about their insights on how one can change their life in small ways.",
+      "showName": "Bahar-E-Mehfil",
+      "description": "Bahar-E-Mehfil",
       "startDate": "2026-11-17T20:00:00",
       "endDate": "2026-11-17T21:00:00",
       "showTime": "20:00:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dfa792ab15219916bd2df0f321f78719.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Mati Ke Lal",
+      "showName": "Cyber Crime Ki Duniya",
       "description": "Bringing the best in television.",
       "startDate": "2026-11-17T21:00:00",
-      "endDate": "2026-11-17T22:00:00",
+      "endDate": "2026-11-17T21:30:00",
       "showTime": "21:00:00",
-      "endTime": "22:00:00",
+      "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7f73e1367d5bfc4ecb86a88e71145256.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dcb8f019b4c858281f23a6585b5693ac.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Yeh Zindagi Hai Gulshan",
-      "description": "A progressive Muslim girl's life is affected by Shariah, which has given equal rights to women to pursue their development.",
+      "showName": "Dil Jo Keh Na Saka",
+      "description": "A couple deeply in love faces relentless obstacles and fate's cruel twists, fighting against time and circumstance to stay together.",
+      "startDate": "2026-11-17T21:30:00",
+      "endDate": "2026-11-17T22:00:00",
+      "showTime": "21:30:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/36dec8bb1ae12f6401836e26d2cc8ce1.jpg"
+    },
+    {
+      "serverDate": "2026-11-17",
+      "showName": "Sehra Apne Naseeb Ka",
+      "description": "Sehra Apne Naseeb Ka",
       "startDate": "2026-11-17T22:00:00",
       "endDate": "2026-11-17T22:50:00",
       "showTime": "22:00:00",
       "endTime": "22:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abbfe8c6931faf8fbf953fc810cc68ed.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-17",
@@ -3056,25 +3793,25 @@
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Hamare Dastkar",
-      "description": "Skilled artisans showcase intricate craftsmanship, preserving traditional art forms while sharing the cultural and historical significance of their work.",
+      "showName": "Yeh Hai India",
+      "description": "The host highlights the contribution of politician and social reformer Dr Bhimrao Ramji Ambedkar in shaping the society.",
       "startDate": "2026-11-17T23:00:00",
-      "endDate": "2026-11-17T23:30:00",
+      "endDate": "2026-11-17T23:50:00",
       "showTime": "23:00:00",
-      "endTime": "23:30:00",
+      "endTime": "23:50:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0b8c11e07a090a0f2345ff984dfeb775.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0c30151a4296dc15ce17f60843f54aee.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Nanhe Danishmand",
+      "showName": "Filler",
       "description": "Bringing the best in television.",
-      "startDate": "2026-11-17T23:30:00",
+      "startDate": "2026-11-17T23:50:00",
       "endDate": "2026-11-17T23:59:59",
-      "showTime": "23:30:00",
+      "showTime": "23:50:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf455e7bbc9ac4ee5f6506b2d1c75d22.jpg"
     }
   ]
 }

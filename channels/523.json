@@ -108,7 +108,7 @@
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "2026 ACC Mens U19 Asia Cup",
+      "showName": "2026 ACC Men's U19 Asia Cup",
       "description": "Cricket action from the thirteenth edition of under-19 tournament. From Oman.",
       "startDate": "2026-11-10T10:30:00",
       "endDate": "2026-11-10T14:00:00",
@@ -130,7 +130,7 @@
     },
     {
       "serverDate": "2026-11-10",
-      "showName": "2026 ACC Mens U19 Asia Cup",
+      "showName": "2026 ACC Men's U19 Asia Cup",
       "description": "Cricket action from the thirteenth edition of under-19 tournament. From Oman.",
       "startDate": "2026-11-10T14:30:00",
       "endDate": "2026-11-10T18:00:00",
@@ -262,14 +262,14 @@
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "The Ultimate Fighting Championship",
-      "description": "Tune in to watch professional athletes compete with one another in mixed martial arts to emerge victorious at the Ultimate Fighting Championship.",
+      "showName": "UFC Fight Night: Cortes Acosta vs. Walker",
+      "description": "From Meta Apex in Las Vegas.",
       "startDate": "2026-11-11T04:00:00",
       "endDate": "2026-11-11T07:00:00",
       "showTime": "04:00:00",
       "endTime": "07:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4f7f9a14855b9bda7e3b1a870e2d70a7.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ffc425798133c09fa11f2612f6f92fa3.jpg"
     },
     {
       "serverDate": "2026-11-11",
@@ -328,14 +328,14 @@
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "UFC Countdown",
-      "description": "A look at the lives and training camps of UFC athletes as they prepare for the next UFC pay-per-view event.",
+      "showName": "UEFA Nations League 2026-27 - Magazine Programme",
+      "description": "UEFA Nations League 2026-27 - Magazine Programme",
       "startDate": "2026-11-11T12:00:00",
       "endDate": "2026-11-11T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0d7b67520899a0b79c014cf9de11622c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a29e5c67b0e3fdba3c6ad86efb80e82.jpg"
     },
     {
       "serverDate": "2026-11-11",
@@ -350,14 +350,14 @@
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "UEFA Champions League Highlights",
-      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "showName": "UFC Countdown",
+      "description": "A look at the lives and training camps of UFC athletes as they prepare for the next UFC pay-per-view event.",
       "startDate": "2026-11-11T13:00:00",
       "endDate": "2026-11-11T14:00:00",
       "showTime": "13:00:00",
       "endTime": "14:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0d7b67520899a0b79c014cf9de11622c.jpg"
     },
     {
       "serverDate": "2026-11-11",
@@ -394,22 +394,11 @@
     },
     {
       "serverDate": "2026-11-11",
-      "showName": "UEFA Europa League Highlights",
-      "description": "Comprehensive coverage of UEFA Europa League matches, featuring key highlights, expert analysis and all the action from Europe's top football competition.",
-      "startDate": "2026-11-11T18:00:00",
-      "endDate": "2026-11-11T18:30:00",
-      "showTime": "18:00:00",
-      "endTime": "18:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f585293c9c1c1dfd2b076ca85424f1a3.jpg"
-    },
-    {
-      "serverDate": "2026-11-11",
       "showName": "UFC Countdown",
       "description": "A look at the lives and training camps of UFC athletes as they prepare for the next UFC pay-per-view event.",
-      "startDate": "2026-11-11T18:30:00",
+      "startDate": "2026-11-11T18:00:00",
       "endDate": "2026-11-11T19:00:00",
-      "showTime": "18:30:00",
+      "showTime": "18:00:00",
       "endTime": "19:00:00",
       "showCategory": "Sports non-event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0d7b67520899a0b79c014cf9de11622c.jpg"
@@ -749,11 +738,22 @@
       "showName": "UFC Fight Night: Buckley vs. Malott",
       "description": "From Rogers Place in Edmonton, Alberta.",
       "startDate": "2026-11-13T04:00:00",
-      "endDate": "2026-11-13T07:00:00",
+      "endDate": "2026-11-13T06:30:00",
       "showTime": "04:00:00",
-      "endTime": "07:00:00",
+      "endTime": "06:30:00",
       "showCategory": "Sports event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a5bc2232f6297bb40eaf75d6bddc1866.jpg"
+    },
+    {
+      "serverDate": "2026-11-13",
+      "showName": "Racing On the Edge",
+      "description": "The filmmaker offers a behind-the-scenes look into the SailGP tournament, where professional sailors compete against each other to win the coveted title.",
+      "startDate": "2026-11-13T06:30:00",
+      "endDate": "2026-11-13T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/873c8380cd98fb1a02032ee66ccc47d8.jpg"
     },
     {
       "serverDate": "2026-11-13",
@@ -870,22 +870,11 @@
       "showName": "UFC Countdown",
       "description": "A look at the lives and training camps of UFC athletes as they prepare for the next UFC pay-per-view event.",
       "startDate": "2026-11-13T20:00:00",
-      "endDate": "2026-11-13T20:30:00",
-      "showTime": "20:00:00",
-      "endTime": "20:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0d7b67520899a0b79c014cf9de11622c.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "UEFA Nations League Highlights",
-      "description": "Highlights of the matches played during the UEFA National League tournament, wherein professional football teams compete against each other in a bid to emerge victorious.",
-      "startDate": "2026-11-13T20:30:00",
       "endDate": "2026-11-13T21:00:00",
-      "showTime": "20:30:00",
+      "showTime": "20:00:00",
       "endTime": "21:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ac0e4954bc81ab404d8d588cc741a927.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0d7b67520899a0b79c014cf9de11622c.jpg"
     },
     {
       "serverDate": "2026-11-13",
@@ -1197,22 +1186,22 @@
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "The Ultimate Fighting Championship",
-      "description": "Tune in to watch professional athletes compete with one another in mixed martial arts to emerge victorious at the Ultimate Fighting Championship.",
+      "showName": "UEFA Nations League Highlights",
+      "description": "Highlights of the matches played during the UEFA National League tournament, wherein professional football teams compete against each other in a bid to emerge victorious.",
       "startDate": "2026-11-15T04:00:00",
-      "endDate": "2026-11-15T05:00:00",
+      "endDate": "2026-11-15T04:30:00",
       "showTime": "04:00:00",
-      "endTime": "05:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4f7f9a14855b9bda7e3b1a870e2d70a7.jpg"
+      "endTime": "04:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ac0e4954bc81ab404d8d588cc741a927.jpg"
     },
     {
       "serverDate": "2026-11-15",
       "showName": "UFC Countdown",
       "description": "A look at the lives and training camps of UFC athletes as they prepare for the next UFC pay-per-view event.",
-      "startDate": "2026-11-15T05:00:00",
+      "startDate": "2026-11-15T04:30:00",
       "endDate": "2026-11-15T05:30:00",
-      "showTime": "05:00:00",
+      "showTime": "04:30:00",
       "endTime": "05:30:00",
       "showCategory": "Sports non-event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0d7b67520899a0b79c014cf9de11622c.jpg"
