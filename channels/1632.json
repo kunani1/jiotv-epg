@@ -8,6 +8,105 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ColorsKannadaCinema.png",
   "programs": [
     {
+      "serverDate": "2026-11-11",
+      "showName": "Krishnam Vande Jagadgurum",
+      "description": "Babu, an unwilling theatre artist, travels to Bellary to fulfil his grandpa's dying wish. While there, he uncovers the heartbreaking truth about his long-deceased parents and seeks retribution.",
+      "startDate": "2026-11-11T00:00:00",
+      "endDate": "2026-11-11T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/141e40ae846d531af3fbdea1f7906c71.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Jessie",
+      "description": "Nandini, a young doctor, falls in love with Jessie, a happy-go-lucky man. But when Nandini gets married to Shyam Prasad at her parents' insistence, Jessie comes back in her life as a ghost.",
+      "startDate": "2026-11-11T01:00:00",
+      "endDate": "2026-11-11T03:30:00",
+      "showTime": "01:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5ad34c327cabb45d24a1721ec723345.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Kannad Gothilla",
+      "description": "A senior crime inspector investigates a complex case of people going missing in Bengaluru, taking every measure possible to uncover the truth.",
+      "startDate": "2026-11-11T03:30:00",
+      "endDate": "2026-11-11T06:30:00",
+      "showTime": "03:30:00",
+      "endTime": "06:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8d0a4b5be2d575e65d3d572a60bd75ae.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Eradu Nakshatragalu",
+      "description": "A chance encounter between a poor boy and a prince, who are strikingly similar in appearance, prompts them to exchange lives.",
+      "startDate": "2026-11-11T06:30:00",
+      "endDate": "2026-11-11T10:00:00",
+      "showTime": "06:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1e535d206a7037b33f2325964229990f.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Sye",
+      "description": "Chakri, who dreams to become a police officer, falls for a woman named Kannika. But things change when Mosale, a corrupt policeman, provokes him to fight.",
+      "startDate": "2026-11-11T10:00:00",
+      "endDate": "2026-11-11T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2f8c727e134f40ac5055ae2632096709.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Ee Jeeva Ninagagi",
+      "description": "Chandrashekhar and Rohini share a deep love and devotion for each other. However, their relationship faces challenges when Rohini discovers that Chandrashekhar is caring for his sister's child.",
+      "startDate": "2026-11-11T13:00:00",
+      "endDate": "2026-11-11T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a810578d615b3f72daa903c599fadff.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Paramashiva",
+      "description": "Three brothers, Shiva, Raghu and Shankar, dote on their sister, Swati, and strive for her happiness. Problems arise when Swati gets married to a cunning, rich man who has ulterior motives.",
+      "startDate": "2026-11-11T16:00:00",
+      "endDate": "2026-11-11T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/328e0e88a4f5f5a3e52fa24c2a3c8049.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Thandege Thakka Maga",
+      "description": "Sathya is forced to marry a woman from a lower caste after his father's sudden death. He struggles to lead a happy marital life while dealing with certain problems.",
+      "startDate": "2026-11-11T19:00:00",
+      "endDate": "2026-11-11T22:30:00",
+      "showTime": "19:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d53d98fbe606ebc91c2e442a267171b1.jpg"
+    },
+    {
+      "serverDate": "2026-11-11",
+      "showName": "Saradara",
+      "description": "An orphaned guy finds a new lease on life in a village where everyone treats him like family. However, all hell breaks loose after he falls in love with the headman's daughter.",
+      "startDate": "2026-11-11T22:30:00",
+      "endDate": "2026-11-11T23:59:59",
+      "showTime": "22:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/134df15f09b2b59de345714ec9dc86e9.jpg"
+    },
+    {
       "serverDate": "2026-11-12",
       "showName": "Saradara",
       "description": "An orphaned guy finds a new lease on life in a village where everyone treats him like family. However, all hell breaks loose after he falls in love with the headman's daughter.",
@@ -600,6 +699,105 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56664900765493fbb508864865936e77.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Deadly Soma",
+      "description": "Somasekhara, a bright student, clashes with a gangster's brother post a kabaddi match. This rivalry unexpectedly pulls him into a crime spree.",
+      "startDate": "2026-11-18T00:00:00",
+      "endDate": "2026-11-18T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/56664900765493fbb508864865936e77.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Gandhada Gudi",
+      "description": "When forest officer Kumar protects natural resources from poachers, their boss, Anand, becomes his main rival. But little does Kumar know that Anand is his brother.",
+      "startDate": "2026-11-18T01:00:00",
+      "endDate": "2026-11-18T03:30:00",
+      "showTime": "01:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/79f722c167af05dc4c3a41414b14b963.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Ananthu V/S Nusrath",
+      "description": "Ananthu, a lawyer from a traditional Brahmin family, falls for Nusrath, a judge from a different faith, leading to a heartfelt journey of love, family expectations and courtroom drama.",
+      "startDate": "2026-11-18T03:30:00",
+      "endDate": "2026-11-18T06:30:00",
+      "showTime": "03:30:00",
+      "endTime": "06:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a2ad8a05a1eb54fea844530acd639ec1.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Majili",
+      "description": "Poorna, an aspiring cricketer, falls into a deep depression after being abandoned by his lover, Anshu. Despite this, he is forced to marry his neighbour Sravani, who secretly has feelings for him.",
+      "startDate": "2026-11-18T06:30:00",
+      "endDate": "2026-11-18T10:00:00",
+      "showTime": "06:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eafffb05573e026e11d20c023f77f38e.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Odahuttidavaru",
+      "description": "Two brothers live in harmony. However, their relationship soon begins to fall apart when the younger brother's wife starts creating clashes between them.",
+      "startDate": "2026-11-18T10:00:00",
+      "endDate": "2026-11-18T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/57778e741cf7d25c0552c2166154d971.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Vaalee",
+      "description": "A man with a hearing and speech impairment secretly loves his twin brother's wife. He tries his best to separate the two, to the extent of following them on their honeymoon.",
+      "startDate": "2026-11-18T13:00:00",
+      "endDate": "2026-11-18T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9457b4e806e2fca52ef14b630f243ff6.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Vaasu Naan Pakka Commercial",
+      "description": "Vaasu is the typical happy-go-lucky youngster. He lands up at a police station, where he asks the inspector to write an FIR that he will kill his girlfriend. When questioned why, one gets to listen to his love story, which is 'pakka commercial'.",
+      "startDate": "2026-11-18T16:00:00",
+      "endDate": "2026-11-18T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b5cbf97eae520f294a70aee956596ec7.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Shravana Banthu",
+      "description": "Kailash and Urvashi's relationship remains unfulfilled due to a tragedy in their past lives. Years later, Kailash's friend Vishwas tries to reunite the lovers in their present births.",
+      "startDate": "2026-11-18T19:00:00",
+      "endDate": "2026-11-18T22:30:00",
+      "showTime": "19:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3bb867653b78e66b9fb3415ec4be413a.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Maha Purusha",
+      "description": "A man's helpful nature causes a rift in his domestic life when his wife questions his motives and raises doubts over his honesty.",
+      "startDate": "2026-11-18T22:30:00",
+      "endDate": "2026-11-18T23:59:59",
+      "showTime": "22:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a339781e152275199c3e02601ec90558.jpg"
     }
   ]
 }

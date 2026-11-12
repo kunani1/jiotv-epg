@@ -49,7 +49,7 @@
       "showTime": "07:00:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9a1aa10e7ff95f93ad41865bf70e32a2.jpg"
     },
     {
       "serverDate": "2026-11-12",
@@ -137,7 +137,7 @@
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9a1aa10e7ff95f93ad41865bf70e32a2.jpg"
     },
     {
       "serverDate": "2026-11-13",
@@ -181,7 +181,7 @@
       "showTime": "07:00:00",
       "endTime": "08:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9a1aa10e7ff95f93ad41865bf70e32a2.jpg"
     },
     {
       "serverDate": "2026-11-13",
@@ -269,7 +269,7 @@
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9a1aa10e7ff95f93ad41865bf70e32a2.jpg"
     },
     {
       "serverDate": "2026-11-14",
@@ -860,6 +860,149 @@
       "description": "Destiny chooses the eccentric Chuck Adoodledoo as the protector of an island of birds. Thus begins a series of clumsy kung fu adventures, featuring Flick and Wing as sidekicks.",
       "startDate": "2026-11-17T23:00:00",
       "endDate": "2026-11-17T23:59:59",
+      "showTime": "23:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/adfc8560df06c5523dadcf3f619bccb4.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Pokemon",
+      "description": "Pokémon trainer, Ash Ketchum, travels the world with his partner Pikachu and their small group of friends while trying to catch as many Pokémon as he can.",
+      "startDate": "2026-11-18T00:00:00",
+      "endDate": "2026-11-18T04:00:00",
+      "showTime": "00:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Pokemon",
+      "description": "Pokémon trainer, Ash Ketchum, travels the world with his partner Pikachu and their small group of friends while trying to catch as many Pokémon as he can.",
+      "startDate": "2026-11-18T04:00:00",
+      "endDate": "2026-11-18T06:00:00",
+      "showTime": "04:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Pokemon",
+      "description": "Pokémon trainer, Ash Ketchum, travels the world with his partner Pikachu and their small group of friends while trying to catch as many Pokémon as he can.",
+      "startDate": "2026-11-18T06:00:00",
+      "endDate": "2026-11-18T07:00:00",
+      "showTime": "06:00:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Chuck Chicken",
+      "description": "Destiny chooses the eccentric Chuck Adoodledoo as the protector of an island of birds. Thus begins a series of clumsy kung fu adventures, featuring Flick and Wing as sidekicks.",
+      "startDate": "2026-11-18T07:00:00",
+      "endDate": "2026-11-18T08:00:00",
+      "showTime": "07:00:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/adfc8560df06c5523dadcf3f619bccb4.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Pokemon",
+      "description": "Pokémon trainer, Ash Ketchum, travels the world with his partner Pikachu and their small group of friends while trying to catch as many Pokémon as he can.",
+      "startDate": "2026-11-18T08:00:00",
+      "endDate": "2026-11-18T09:00:00",
+      "showTime": "08:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Pokemon",
+      "description": "Pokémon trainer, Ash Ketchum, travels the world with his partner Pikachu and their small group of friends while trying to catch as many Pokémon as he can.",
+      "startDate": "2026-11-18T09:00:00",
+      "endDate": "2026-11-18T11:00:00",
+      "showTime": "09:00:00",
+      "endTime": "11:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Pokémon the Series: Indigo League",
+      "description": "A young Ash Ketchum reaches his 10th birthday and begins his journey as a Pokémon trainer, with the hope of one day becoming a Pokémon Master.",
+      "startDate": "2026-11-18T11:00:00",
+      "endDate": "2026-11-18T11:30:00",
+      "showTime": "11:00:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d93cec052bd9d91aca5407dc2a942bfb.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Pokémon the Series: Indigo League",
+      "description": "A young Ash Ketchum reaches his 10th birthday and begins his journey as a Pokémon trainer, with the hope of one day becoming a Pokémon Master.",
+      "startDate": "2026-11-18T11:30:00",
+      "endDate": "2026-11-18T14:00:00",
+      "showTime": "11:30:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d93cec052bd9d91aca5407dc2a942bfb.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Pokemon",
+      "description": "Pokémon trainer, Ash Ketchum, travels the world with his partner Pikachu and their small group of friends while trying to catch as many Pokémon as he can.",
+      "startDate": "2026-11-18T14:00:00",
+      "endDate": "2026-11-18T15:30:00",
+      "showTime": "14:00:00",
+      "endTime": "15:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Pokemon",
+      "description": "Pokémon trainer, Ash Ketchum, travels the world with his partner Pikachu and their small group of friends while trying to catch as many Pokémon as he can.",
+      "startDate": "2026-11-18T15:30:00",
+      "endDate": "2026-11-18T18:00:00",
+      "showTime": "15:30:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Pokemon The Series: XYZ",
+      "description": "Ash and Pikachu, along with their friends Serena, Clemont and Bonnie, travel to the Kalos region to uncover the secrets of Mega Evolution and battle against the evil Team Flare.",
+      "startDate": "2026-11-18T18:00:00",
+      "endDate": "2026-11-18T22:00:00",
+      "showTime": "18:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2fba3b2162e972ea3c9eb5a6035bd734.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Pokemon The Series: XYZ",
+      "description": "Ash and Pikachu, along with their friends Serena, Clemont and Bonnie, travel to the Kalos region to uncover the secrets of Mega Evolution and battle against the evil Team Flare.",
+      "startDate": "2026-11-18T22:00:00",
+      "endDate": "2026-11-18T23:00:00",
+      "showTime": "22:00:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2fba3b2162e972ea3c9eb5a6035bd734.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Chuck Chicken",
+      "description": "Destiny chooses the eccentric Chuck Adoodledoo as the protector of an island of birds. Thus begins a series of clumsy kung fu adventures, featuring Flick and Wing as sidekicks.",
+      "startDate": "2026-11-18T23:00:00",
+      "endDate": "2026-11-18T23:59:59",
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",

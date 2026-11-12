@@ -8,72 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Music.png",
   "programs": [
     {
-      "serverDate": "2026-11-10",
-      "showName": "Priyanestamaa",
-      "description": "Surya, an affluent young man, falls in love with Girija, but a misunderstanding between their families causes their wedding to be called off. Later, Surya's parents find another partner for him.",
-      "startDate": "2026-11-10T00:00:00",
-      "endDate": "2026-11-10T03:30:00",
-      "showTime": "00:00:00",
-      "endTime": "03:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0c5807bcc5d7063242f5d62e2c8ab378.jpg"
-    },
-    {
-      "serverDate": "2026-11-10",
-      "showName": "Padutha Theeyaga",
-      "description": "The judges welcome various contestants from Andhra Pradesh and Telangana who showcase their unique singing skills in front of them.",
-      "startDate": "2026-11-10T03:30:00",
-      "endDate": "2026-11-10T08:00:00",
-      "showTime": "03:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58753b8de4d5edc0c2e8e013207488eb.jpg"
-    },
-    {
-      "serverDate": "2026-11-10",
-      "showName": "Pellichesi Choodu",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-11-10T08:00:00",
-      "endDate": "2026-11-10T11:30:00",
-      "showTime": "08:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/103f23b039ac8eb8263e4c34f5e4a8fe.jpg"
-    },
-    {
-      "serverDate": "2026-11-10",
-      "showName": "Padutha Theeyaga",
-      "description": "The judges welcome various contestants from Andhra Pradesh and Telangana who showcase their unique singing skills in front of them.",
-      "startDate": "2026-11-10T11:30:00",
-      "endDate": "2026-11-10T16:00:00",
-      "showTime": "11:30:00",
-      "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58753b8de4d5edc0c2e8e013207488eb.jpg"
-    },
-    {
-      "serverDate": "2026-11-10",
-      "showName": "Pellichesi Choodu",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-11-10T16:00:00",
-      "endDate": "2026-11-10T19:30:00",
-      "showTime": "16:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/103f23b039ac8eb8263e4c34f5e4a8fe.jpg"
-    },
-    {
-      "serverDate": "2026-11-10",
-      "showName": "Padutha Theeyaga",
-      "description": "The judges welcome various contestants from Andhra Pradesh and Telangana who showcase their unique singing skills in front of them.",
-      "startDate": "2026-11-10T19:30:00",
-      "endDate": "2026-11-10T23:59:59",
-      "showTime": "19:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58753b8de4d5edc0c2e8e013207488eb.jpg"
-    },
-    {
       "serverDate": "2026-11-11",
       "showName": "Pellichesi Choodu",
       "description": "Bringing the best in cinema.",
@@ -622,6 +556,83 @@
       "endTime": "23:59:59",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58753b8de4d5edc0c2e8e013207488eb.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-18T00:00:00",
+      "endDate": "2026-11-18T03:30:00",
+      "showTime": "00:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/45c5e9a15327b3c9416e00293516c18b.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Padutha Theeyaga",
+      "description": "The judges welcome various contestants from Andhra Pradesh and Telangana who showcase their unique singing skills in front of them.",
+      "startDate": "2026-11-18T03:30:00",
+      "endDate": "2026-11-18T06:00:00",
+      "showTime": "03:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58753b8de4d5edc0c2e8e013207488eb.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-18T06:00:00",
+      "endDate": "2026-11-18T09:30:00",
+      "showTime": "06:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/45c5e9a15327b3c9416e00293516c18b.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Padutha Theeyaga",
+      "description": "The judges welcome various contestants from Andhra Pradesh and Telangana who showcase their unique singing skills in front of them.",
+      "startDate": "2026-11-18T09:30:00",
+      "endDate": "2026-11-18T14:00:00",
+      "showTime": "09:30:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58753b8de4d5edc0c2e8e013207488eb.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-18T14:00:00",
+      "endDate": "2026-11-18T17:30:00",
+      "showTime": "14:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/45c5e9a15327b3c9416e00293516c18b.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Padutha Theeyaga",
+      "description": "The judges welcome various contestants from Andhra Pradesh and Telangana who showcase their unique singing skills in front of them.",
+      "startDate": "2026-11-18T17:30:00",
+      "endDate": "2026-11-18T22:00:00",
+      "showTime": "17:30:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58753b8de4d5edc0c2e8e013207488eb.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Movie",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-18T22:00:00",
+      "endDate": "2026-11-18T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/45c5e9a15327b3c9416e00293516c18b.jpg"
     }
   ]
 }
