@@ -8,237 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Telugu.png",
   "programs": [
     {
-      "serverDate": "2026-11-13",
-      "showName": "One-Day International Cricket",
-      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
-      "startDate": "2026-11-13T00:00:00",
-      "endDate": "2026-11-13T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "UEFA Champions League Highlights",
-      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
-      "startDate": "2026-11-13T00:30:00",
-      "endDate": "2026-11-13T01:15:00",
-      "showTime": "00:30:00",
-      "endTime": "01:15:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "UEFA Nations League Soccer",
-      "description": "European national football teams compete with each other to clinch the top title at the UEFA Nations League, an international football competition.",
-      "startDate": "2026-11-13T01:15:00",
-      "endDate": "2026-11-13T03:15:00",
-      "showTime": "01:15:00",
-      "endTime": "03:15:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f11784ee89b0a07beb3f2f5ae84c5ef1.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "UEFA Champions League Highlights",
-      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
-      "startDate": "2026-11-13T03:15:00",
-      "endDate": "2026-11-13T04:00:00",
-      "showTime": "03:15:00",
-      "endTime": "04:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "Bangladesh Tour of Sri Lanka 2025",
-      "description": "Bangladesh led by 187 after Nayeem Hasan's five-wicket haul helped dismiss Sri Lanka, then they lost 3 wickets.",
-      "startDate": "2026-11-13T04:00:00",
-      "endDate": "2026-11-13T05:00:00",
-      "showTime": "04:00:00",
-      "endTime": "05:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d221f444ff271c0fd49032a1634dc48.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "West Indies Tour Of England 2025",
-      "description": "England beat West Indies by 4 wickets at Bristol, chasing 196 in 18.3 overs to take a 2-0 lead in the T20I series.",
-      "startDate": "2026-11-13T05:00:00",
-      "endDate": "2026-11-13T05:30:00",
-      "showTime": "05:00:00",
-      "endTime": "05:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0a9544466986acb308615497799bf1e0.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "One-Day International Cricket",
-      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
-      "startDate": "2026-11-13T05:30:00",
-      "endDate": "2026-11-13T06:30:00",
-      "showTime": "05:30:00",
-      "endTime": "06:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "UEFA International Friendlies",
-      "description": "The Netherlands beat Iceland 4-0 in a Euro 2024 warmup at Feyenoord Stadium, heading to Germany with momentum.",
-      "startDate": "2026-11-13T06:30:00",
-      "endDate": "2026-11-13T07:30:00",
-      "showTime": "06:30:00",
-      "endTime": "07:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a11bc925efc267d7f732cc97394830c.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "Bharat Tum Chale Chalo - Kahani 2021-22 Ki",
-      "description": "Bharat Tum Chale Chalo looks at India's first Test on the 2021 England tour and how Virat Kohli's pace attack led the bowling.",
-      "startDate": "2026-11-13T07:30:00",
-      "endDate": "2026-11-13T11:15:00",
-      "showTime": "07:30:00",
-      "endTime": "11:15:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3f2495c8b316111df0cbd31995681285.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "UEFA International Friendlies",
-      "description": "The Netherlands beat Iceland 4-0 in a Euro 2024 warmup at Feyenoord Stadium, heading to Germany with momentum.",
-      "startDate": "2026-11-13T11:15:00",
-      "endDate": "2026-11-13T11:45:00",
-      "showTime": "11:15:00",
-      "endTime": "11:45:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a11bc925efc267d7f732cc97394830c.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "West Indies Tour Of England 2025",
-      "description": "England beat West Indies by 7 wickets at The Oval to seal a 3-0 ODI whitewash after chasing 252 in 29.4 overs.",
-      "startDate": "2026-11-13T11:45:00",
-      "endDate": "2026-11-13T15:30:00",
-      "showTime": "11:45:00",
-      "endTime": "15:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fac5666d2d6022f67513f0599d99884a.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "UEFA International Friendlies",
-      "description": "The Netherlands beat Iceland 4-0 in a Euro 2024 warmup at Feyenoord Stadium, heading to Germany with momentum.",
-      "startDate": "2026-11-13T15:30:00",
-      "endDate": "2026-11-13T16:30:00",
-      "showTime": "15:30:00",
-      "endTime": "16:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a11bc925efc267d7f732cc97394830c.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "DP World Men's U19 Asia Cup 2025",
-      "description": "Pakistan U19 posted 345/3 as Sameer Minhas hit 177* and Ahmed Hussain made 132 to crush Malaysia U19 in the DP World Men's U19 Asia Cup 2025.",
-      "startDate": "2026-11-13T16:30:00",
-      "endDate": "2026-11-13T17:00:00",
-      "showTime": "16:30:00",
-      "endTime": "17:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9869490018c110f7b87b381041c6631.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "One-Day International Cricket",
-      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
-      "startDate": "2026-11-13T17:00:00",
-      "endDate": "2026-11-13T18:00:00",
-      "showTime": "17:00:00",
-      "endTime": "18:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "Bangladesh Tour of Sri Lanka 2025",
-      "description": "Bangladesh led by 187 after Nayeem Hasan's five-wicket haul helped dismiss Sri Lanka, then they lost 3 wickets.",
-      "startDate": "2026-11-13T18:00:00",
-      "endDate": "2026-11-13T19:00:00",
-      "showTime": "18:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d221f444ff271c0fd49032a1634dc48.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "One-Day International Cricket",
-      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
-      "startDate": "2026-11-13T19:00:00",
-      "endDate": "2026-11-13T20:00:00",
-      "showTime": "19:00:00",
-      "endTime": "20:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "UEFA International Friendlies",
-      "description": "The Netherlands beat Iceland 4-0 in a Euro 2024 warmup at Feyenoord Stadium, heading to Germany with momentum.",
-      "startDate": "2026-11-13T20:00:00",
-      "endDate": "2026-11-13T21:00:00",
-      "showTime": "20:00:00",
-      "endTime": "21:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8a11bc925efc267d7f732cc97394830c.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "Bangladesh Tour of Sri Lanka 2025",
-      "description": "Bangladesh led by 187 after Nayeem Hasan's five-wicket haul helped dismiss Sri Lanka, then they lost 3 wickets.",
-      "startDate": "2026-11-13T21:00:00",
-      "endDate": "2026-11-13T22:00:00",
-      "showTime": "21:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d221f444ff271c0fd49032a1634dc48.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "One-Day International Cricket",
-      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
-      "startDate": "2026-11-13T22:00:00",
-      "endDate": "2026-11-13T23:00:00",
-      "showTime": "22:00:00",
-      "endTime": "23:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "DP World Men's U19 Asia Cup 2025",
-      "description": "Pakistan U19 posted 345/3 as Sameer Minhas hit 177* and Ahmed Hussain made 132 to crush Malaysia U19 in the DP World Men's U19 Asia Cup 2025.",
-      "startDate": "2026-11-13T23:00:00",
-      "endDate": "2026-11-13T23:30:00",
-      "showTime": "23:00:00",
-      "endTime": "23:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9869490018c110f7b87b381041c6631.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "One-Day International Cricket",
-      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
-      "startDate": "2026-11-13T23:30:00",
-      "endDate": "2026-11-13T23:59:59",
-      "showTime": "23:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
-    },
-    {
       "serverDate": "2026-11-14",
       "showName": "One-Day International Cricket",
       "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
@@ -416,14 +185,14 @@
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "ACC Men's U19 Asia Cup",
-      "description": "Amateur cricket teams compete against each other to emerge victorious and win the coveted title of the ACC Under-19 Asia Cup.",
+      "showName": "DP World Men's U19 Asia Cup 2025",
+      "description": "Pakistan U19 posted 345/3 as Sameer Minhas hit 177* and Ahmed Hussain made 132 to crush Malaysia U19 in the DP World Men's U19 Asia Cup 2025.",
       "startDate": "2026-11-14T18:30:00",
       "endDate": "2026-11-14T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/117d8ae19721dca9c383f8f1924c1ac8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9869490018c110f7b87b381041c6631.jpg"
     },
     {
       "serverDate": "2026-11-14",
@@ -438,36 +207,36 @@
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "ACC Men's U19 Asia Cup",
-      "description": "Amateur cricket teams compete against each other to emerge victorious and win the coveted title of the ACC Under-19 Asia Cup.",
+      "showName": "DP World Men's U19 Asia Cup 2025",
+      "description": "Pakistan U19 posted 345/3 as Sameer Minhas hit 177* and Ahmed Hussain made 132 to crush Malaysia U19 in the DP World Men's U19 Asia Cup 2025.",
       "startDate": "2026-11-14T20:00:00",
       "endDate": "2026-11-14T20:30:00",
       "showTime": "20:00:00",
       "endTime": "20:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/117d8ae19721dca9c383f8f1924c1ac8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9869490018c110f7b87b381041c6631.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "UEFA Champions League Highlights",
-      "description": "Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.",
+      "showName": "UEFA Champions League 2024-25",
+      "description": "Watch the Top Goals Of The Week from the UEFA Champions League 2024-25, only on Sony LIV.",
       "startDate": "2026-11-14T20:30:00",
       "endDate": "2026-11-14T21:00:00",
       "showTime": "20:30:00",
       "endTime": "21:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4eae3f1263cc2a2cada128b17eb3555c.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a169175a4b694e1614d84051bc2faf70.jpg"
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "UFC 333: Volkanovski vs. Evloev",
-      "description": "From Etihad Arena in Dubayy, United Arab Emirates.",
+      "showName": "West Indies Tour Of England 2025",
+      "description": "England scored 400, West Indies' bowlers struggled, and West Indies collapsed chasing 401 to lose the 1st ODI by a huge margin.",
       "startDate": "2026-11-14T21:00:00",
       "endDate": "2026-11-14T22:00:00",
       "showTime": "21:00:00",
       "endTime": "22:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4d90e5c92b08a7bcd755f3bf050346f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/69f772b4742142b362812a5c1c0d32e5.jpg"
     },
     {
       "serverDate": "2026-11-14",
@@ -482,14 +251,14 @@
     },
     {
       "serverDate": "2026-11-14",
-      "showName": "ACC Men's U19 Asia Cup",
-      "description": "Amateur cricket teams compete against each other to emerge victorious and win the coveted title of the ACC Under-19 Asia Cup.",
+      "showName": "DP World Men's U19 Asia Cup 2025",
+      "description": "Pakistan U19 posted 345/3 as Sameer Minhas hit 177* and Ahmed Hussain made 132 to crush Malaysia U19 in the DP World Men's U19 Asia Cup 2025.",
       "startDate": "2026-11-14T23:00:00",
       "endDate": "2026-11-14T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/117d8ae19721dca9c383f8f1924c1ac8.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c9869490018c110f7b87b381041c6631.jpg"
     },
     {
       "serverDate": "2026-11-14",
@@ -504,14 +273,14 @@
     },
     {
       "serverDate": "2026-11-15",
-      "showName": "UFC Fight Night: Allen vs. Costa",
-      "description": "From Meta Apex in Las Vegas.",
+      "showName": "Bangladesh Tour of Sri Lanka 2025",
+      "description": "Najmul Hossain Shanto's second century helped Bangladesh declare and set Sri Lanka a target, but Sri Lanka ran out of time to force a result.",
       "startDate": "2026-11-15T00:00:00",
       "endDate": "2026-11-15T03:00:00",
       "showTime": "00:00:00",
       "endTime": "03:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/22382b3b518c8bd81482d3301298a1fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0549465da77da21b6dee335dfaf22705.jpg"
     },
     {
       "serverDate": "2026-11-15",
