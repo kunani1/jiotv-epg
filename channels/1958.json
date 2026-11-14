@@ -8,424 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Sidharth_Bhakti.png",
   "programs": [
     {
-      "serverDate": "2026-11-12",
-      "showName": "Deula Tola",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-12T00:00:00",
-      "endDate": "2026-11-12T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26eb8e24818b05c39c6d1ba0dbfa631e.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Bhagya Darshan",
-      "description": "A renowned astrologer presents a detailed reading of horoscopes and provides tips as well as answers to various queries of viewers.",
-      "startDate": "2026-11-12T00:30:00",
-      "endDate": "2026-11-12T01:00:00",
-      "showTime": "00:30:00",
-      "endTime": "01:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/704c6a6978807c8fea8e9bbd3b12488e.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Har Har Mahadev",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-12T01:00:00",
-      "endDate": "2026-11-12T01:30:00",
-      "showTime": "01:00:00",
-      "endTime": "01:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4deb198df26798dd582f4bbc5c40e5.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Har Har Mahadev",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-12T01:30:00",
-      "endDate": "2026-11-12T02:00:00",
-      "showTime": "01:30:00",
-      "endTime": "02:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4deb198df26798dd582f4bbc5c40e5.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Mu Bi Namita Agarwal Hebi",
-      "description": "Aspiring singers from all over Odisha compete against each other and try to impress the judges in a singing competition.",
-      "startDate": "2026-11-12T02:00:00",
-      "endDate": "2026-11-12T03:00:00",
-      "showTime": "02:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17186101ef167071b7f2dd18c6db5c7b.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Ladhei Pala",
-      "description": "An electrifying musical showdown commences as two groups of talented musicians compete, striving to captivate hearts and claim victory.",
-      "startDate": "2026-11-12T03:00:00",
-      "endDate": "2026-11-12T04:00:00",
-      "showTime": "03:00:00",
-      "endTime": "04:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f2fc06dec3ac04ba7ac6477d20e77f1.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Mahamantra",
-      "description": "A spiritual leader explores the power and significance of sacred chants, showcasing the transformative energy of mantras.",
-      "startDate": "2026-11-12T04:00:00",
-      "endDate": "2026-11-12T04:30:00",
-      "showTime": "04:00:00",
-      "endTime": "04:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3fb55346509c7354794bb6dc0c859d2a.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Sri Bishnu Sahasranama",
-      "description": "A comprehensive collection of songs, which comprises a list of Vishnu's 1,000 names, where each name praises one of his countless attributes.",
-      "startDate": "2026-11-12T04:30:00",
-      "endDate": "2026-11-12T05:00:00",
-      "showTime": "04:30:00",
-      "endTime": "05:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18f954691d9e70250593c195d172d58e.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Kartika Purana",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-12T05:00:00",
-      "endDate": "2026-11-12T05:30:00",
-      "showTime": "05:00:00",
-      "endTime": "05:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f70055411b044bc8c424826aa678f662.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Bhajan Dhara",
-      "description": "A religious leader worships an important and revered deity and pays tribute to their glory by singing sacred devotional songs.",
-      "startDate": "2026-11-12T05:30:00",
-      "endDate": "2026-11-12T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Bhagabata Tungi",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-12T06:00:00",
-      "endDate": "2026-11-12T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/20052aadbfa3d602b3904c15dc2ea3e9.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Bhajan Ganga",
-      "description": "A religious leader guides a congregation of devout Hindus into prayerful meditation and sings soulful hymns in praise of the Almighty.",
-      "startDate": "2026-11-12T06:30:00",
-      "endDate": "2026-11-12T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0e33666e0d4e055604a60b241b964c1.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Deula Tola",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-12T07:00:00",
-      "endDate": "2026-11-12T07:30:00",
-      "showTime": "07:00:00",
-      "endTime": "07:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26eb8e24818b05c39c6d1ba0dbfa631e.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Bhagya Darshan",
-      "description": "A renowned astrologer presents a detailed reading of horoscopes and provides tips as well as answers to various queries of viewers.",
-      "startDate": "2026-11-12T07:30:00",
-      "endDate": "2026-11-12T08:00:00",
-      "showTime": "07:30:00",
-      "endTime": "08:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/704c6a6978807c8fea8e9bbd3b12488e.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Pancha Deba Namastute",
-      "description": "A number of devotees and religious leaders add to the spiritual aura of the gathering with devotional chants in praise of the Almighty.",
-      "startDate": "2026-11-12T08:00:00",
-      "endDate": "2026-11-12T08:30:00",
-      "showTime": "08:00:00",
-      "endTime": "08:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/658a8eef48fc33a6e3749283fd13b5f0.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Purana Kahe Sansara Katha",
-      "description": "Listen closely to moving and inspirational narrations of some of the various Puranas that have survived the centuries.",
-      "startDate": "2026-11-12T08:30:00",
-      "endDate": "2026-11-12T09:00:00",
-      "showTime": "08:30:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f382ba443f23535e43eea9b5c2cdf662.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Kartika Mahatmya",
-      "description": "A spiritual guide extols Kartika's virtues through devotional songs and prayers, emphasising the month's sacred significance in Hindu tradition.",
-      "startDate": "2026-11-12T09:00:00",
-      "endDate": "2026-11-12T09:30:00",
-      "showTime": "09:00:00",
-      "endTime": "09:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be798bfc7160f663f28a24a74c70f281.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Chande Chande Bhakti",
-      "description": "Devotees sing soul-stirring songs and melodious hymns in praise of the Almighty to invoke the spirit of devotion and seek divine blessings.",
-      "startDate": "2026-11-12T09:30:00",
-      "endDate": "2026-11-12T10:00:00",
-      "showTime": "09:30:00",
-      "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2178a7db82763e1af376bd19957b6b7e.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Bhajan Dhara",
-      "description": "A religious leader worships an important and revered deity and pays tribute to their glory by singing sacred devotional songs.",
-      "startDate": "2026-11-12T10:00:00",
-      "endDate": "2026-11-12T10:30:00",
-      "showTime": "10:00:00",
-      "endTime": "10:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Tele Shopping",
-      "description": "The host provides the features and specifications of a wide range of products which can be purchased from the comforts of one's home.",
-      "startDate": "2026-11-12T10:30:00",
-      "endDate": "2026-11-12T11:00:00",
-      "showTime": "10:30:00",
-      "endTime": "11:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad0e13ea98570622706f1b7daa8aaa09.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Ghoda Nacha",
-      "description": "Professional dancers perform Ghoda Nacha, one of Odisha's popular folk dance forms which is mostly performed by aboriginal fishermen tribes like the Keot.",
-      "startDate": "2026-11-12T11:00:00",
-      "endDate": "2026-11-12T12:00:00",
-      "showTime": "11:00:00",
-      "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e64fd68755d9915892cf98aa9e54113.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Tele Shopping",
-      "description": "The host provides the features and specifications of a wide range of products which can be purchased from the comforts of one's home.",
-      "startDate": "2026-11-12T12:00:00",
-      "endDate": "2026-11-12T12:30:00",
-      "showTime": "12:00:00",
-      "endTime": "12:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad0e13ea98570622706f1b7daa8aaa09.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Chande Chande Bhakti",
-      "description": "Devotees sing soul-stirring songs and melodious hymns in praise of the Almighty to invoke the spirit of devotion and seek divine blessings.",
-      "startDate": "2026-11-12T12:30:00",
-      "endDate": "2026-11-12T13:00:00",
-      "showTime": "12:30:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2178a7db82763e1af376bd19957b6b7e.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Bhakti Kantha",
-      "description": "Several contestants across different age groups showcase their singing talents in front of renowned musical personalities.",
-      "startDate": "2026-11-12T13:00:00",
-      "endDate": "2026-11-12T14:00:00",
-      "showTime": "13:00:00",
-      "endTime": "14:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dac62d2bf147940a614825fa30dadde0.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Tele Shopping",
-      "description": "The host provides the features and specifications of a wide range of products which can be purchased from the comforts of one's home.",
-      "startDate": "2026-11-12T14:00:00",
-      "endDate": "2026-11-12T14:30:00",
-      "showTime": "14:00:00",
-      "endTime": "14:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad0e13ea98570622706f1b7daa8aaa09.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Bharata Leela",
-      "description": "Talented artists sing and dance as they perform 'Bharata Lila', an Indian performing theatre form of the Ganjam district of Odisha.",
-      "startDate": "2026-11-12T14:30:00",
-      "endDate": "2026-11-12T15:30:00",
-      "showTime": "14:30:00",
-      "endTime": "15:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8391fbf631961a8d162c740a276094e2.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Bhajan Dhara",
-      "description": "A religious leader worships an important and revered deity and pays tribute to their glory by singing sacred devotional songs.",
-      "startDate": "2026-11-12T15:30:00",
-      "endDate": "2026-11-12T16:00:00",
-      "showTime": "15:30:00",
-      "endTime": "16:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Bhakti Kantha",
-      "description": "Several contestants across different age groups showcase their singing talents in front of renowned musical personalities.",
-      "startDate": "2026-11-12T16:00:00",
-      "endDate": "2026-11-12T17:00:00",
-      "showTime": "16:00:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dac62d2bf147940a614825fa30dadde0.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Bhajan",
-      "description": "An engaging compilation of spiritual hymns and divine melodies presented by renowned devotional singers from across the globe.",
-      "startDate": "2026-11-12T17:00:00",
-      "endDate": "2026-11-12T17:30:00",
-      "showTime": "17:00:00",
-      "endTime": "17:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a28d5f8754df8790b679b2148f9f64b0.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Kartika Mahatmya",
-      "description": "A spiritual guide extols Kartika's virtues through devotional songs and prayers, emphasising the month's sacred significance in Hindu tradition.",
-      "startDate": "2026-11-12T17:30:00",
-      "endDate": "2026-11-12T18:00:00",
-      "showTime": "17:30:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be798bfc7160f663f28a24a74c70f281.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Bhagabata Tungi",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-12T18:00:00",
-      "endDate": "2026-11-12T18:30:00",
-      "showTime": "18:00:00",
-      "endTime": "18:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/20052aadbfa3d602b3904c15dc2ea3e9.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Deula Tola",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-12T18:30:00",
-      "endDate": "2026-11-12T19:00:00",
-      "showTime": "18:30:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26eb8e24818b05c39c6d1ba0dbfa631e.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Bal Krushna",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-12T19:00:00",
-      "endDate": "2026-11-12T20:00:00",
-      "showTime": "19:00:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dd1601558cd1503f7125d3cf5c24f638.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Bhakti Kantha",
-      "description": "Several contestants across different age groups showcase their singing talents in front of renowned musical personalities.",
-      "startDate": "2026-11-12T20:00:00",
-      "endDate": "2026-11-12T21:00:00",
-      "showTime": "20:00:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dac62d2bf147940a614825fa30dadde0.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Prahllada Nataka",
-      "description": "Prahllada Nataka",
-      "startDate": "2026-11-12T21:00:00",
-      "endDate": "2026-11-12T22:00:00",
-      "showTime": "21:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7fdc9ff7326ddd5286b9883922a69b94.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Bharata Leela",
-      "description": "Talented artists sing and dance as they perform 'Bharata Lila', an Indian performing theatre form of the Ganjam district of Odisha.",
-      "startDate": "2026-11-12T22:00:00",
-      "endDate": "2026-11-12T23:00:00",
-      "showTime": "22:00:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8391fbf631961a8d162c740a276094e2.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Bhagya Darshan",
-      "description": "A renowned astrologer presents a detailed reading of horoscopes and provides tips as well as answers to various queries of viewers.",
-      "startDate": "2026-11-12T23:00:00",
-      "endDate": "2026-11-12T23:30:00",
-      "showTime": "23:00:00",
-      "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/704c6a6978807c8fea8e9bbd3b12488e.jpg"
-    },
-    {
-      "serverDate": "2026-11-12",
-      "showName": "Chande Chande Bhakti",
-      "description": "Devotees sing soul-stirring songs and melodious hymns in praise of the Almighty to invoke the spirit of devotion and seek divine blessings.",
-      "startDate": "2026-11-12T23:30:00",
-      "endDate": "2026-11-12T23:59:59",
-      "showTime": "23:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2178a7db82763e1af376bd19957b6b7e.jpg"
-    },
-    {
       "serverDate": "2026-11-13",
       "showName": "Deula Tola",
       "description": "Bringing the best in television.",
@@ -1593,14 +1175,14 @@
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Mathura Mangala",
-      "description": "A Hindu spiritual leader sings religious poems and sheds light on the teachings of the Almighty while encouraging the followers to take the path of spirituality.",
+      "showName": "Deula Tola",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-16T00:00:00",
       "endDate": "2026-11-16T00:30:00",
       "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fb4a695886198a5ce9d1ce8a850a8434.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26eb8e24818b05c39c6d1ba0dbfa631e.jpg"
     },
     {
       "serverDate": "2026-11-16",
@@ -1615,25 +1197,25 @@
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Hari Bansa",
-      "description": "A religious leader delivers a discourse on spirituality by sharing glorious stories of Lord Krishna and singing hymns to help devotees lead a life of righteousness.",
+      "showName": "Har Har Mahadev",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-16T01:00:00",
       "endDate": "2026-11-16T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/994ae08af5d54d01b5fe8b1298268b31.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4deb198df26798dd582f4bbc5c40e5.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Satya Pathe Ghenija Mote",
-      "description": "A religious leader sheds light on the divine teachings of Hinduism and urges the devotees to follow the path of compassion.",
+      "showName": "Har Har Mahadev",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-16T01:30:00",
       "endDate": "2026-11-16T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0de171a368fb173d916e69932d2c02b1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4deb198df26798dd582f4bbc5c40e5.jpg"
     },
     {
       "serverDate": "2026-11-16",
@@ -1659,14 +1241,14 @@
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Archana",
-      "description": "Religious priests and devotees offer prayers and perform sacred rituals to seek the blessings of the Almighty at a place of worship.",
+      "showName": "Mahamantra",
+      "description": "A spiritual leader explores the power and significance of sacred chants, showcasing the transformative energy of mantras.",
       "startDate": "2026-11-16T04:00:00",
       "endDate": "2026-11-16T04:30:00",
       "showTime": "04:00:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d25c8aadef00937c8ef95049c4bfeab.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3fb55346509c7354794bb6dc0c859d2a.jpg"
     },
     {
       "serverDate": "2026-11-16",
@@ -1681,36 +1263,36 @@
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Bhaba Bhakti",
-      "description": "A religious leader leads earnest devotees, who have gathered in large numbers, in worshipping the Almighty and seeking his blessings.",
+      "showName": "Kartika Purana",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-16T05:00:00",
       "endDate": "2026-11-16T05:30:00",
       "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8e75a1d276d3513a58281bf1ad2f220d.jpg"
-    },
-    {
-      "serverDate": "2026-11-16",
-      "showName": "Bhagabata Tungi",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-16T05:30:00",
-      "endDate": "2026-11-16T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/20052aadbfa3d602b3904c15dc2ea3e9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f70055411b044bc8c424826aa678f662.jpg"
     },
     {
       "serverDate": "2026-11-16",
       "showName": "Bhajan Dhara",
       "description": "A religious leader worships an important and revered deity and pays tribute to their glory by singing sacred devotional songs.",
+      "startDate": "2026-11-16T05:30:00",
+      "endDate": "2026-11-16T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Bhagabata Tungi",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-16T06:00:00",
       "endDate": "2026-11-16T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/20052aadbfa3d602b3904c15dc2ea3e9.jpg"
     },
     {
       "serverDate": "2026-11-16",
@@ -1725,14 +1307,14 @@
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Hari Bansa",
-      "description": "A religious leader delivers a discourse on spirituality by sharing glorious stories of Lord Krishna and singing hymns to help devotees lead a life of righteousness.",
+      "showName": "Deula Tola",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-16T07:00:00",
       "endDate": "2026-11-16T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/994ae08af5d54d01b5fe8b1298268b31.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26eb8e24818b05c39c6d1ba0dbfa631e.jpg"
     },
     {
       "serverDate": "2026-11-16",
@@ -1747,33 +1329,44 @@
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Satya Siva Sundara",
-      "description": "A religious leader sheds light on various teachings and principles from the Hindu scriptures and encourages followers to reflect on the same.",
+      "showName": "Pancha Deba Namastute",
+      "description": "A number of devotees and religious leaders add to the spiritual aura of the gathering with devotional chants in praise of the Almighty.",
       "startDate": "2026-11-16T08:00:00",
       "endDate": "2026-11-16T08:30:00",
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5351cce124556352ff8329fb1609c3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/658a8eef48fc33a6e3749283fd13b5f0.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Pousha Mahatmya",
-      "description": "Bringing the best in television.",
+      "showName": "Satya Pathe Niahe Mote",
+      "description": "A religious leader delivers an insightful discourse on the teachings of the sacred scriptures, encouraging devotees to live a righteous life.",
       "startDate": "2026-11-16T08:30:00",
       "endDate": "2026-11-16T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77fa46ba885194956cdca0092d0253be.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b0ed07bea45a387c62763cacbc58fe39.jpg"
     },
     {
       "serverDate": "2026-11-16",
       "showName": "Chande Chande Bhakti",
       "description": "Devotees sing soul-stirring songs and melodious hymns in praise of the Almighty to invoke the spirit of devotion and seek divine blessings.",
       "startDate": "2026-11-16T09:00:00",
-      "endDate": "2026-11-16T10:00:00",
+      "endDate": "2026-11-16T09:30:00",
       "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2178a7db82763e1af376bd19957b6b7e.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Chande Chande Bhakti",
+      "description": "Devotees sing soul-stirring songs and melodious hymns in praise of the Almighty to invoke the spirit of devotion and seek divine blessings.",
+      "startDate": "2026-11-16T09:30:00",
+      "endDate": "2026-11-16T10:00:00",
+      "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2178a7db82763e1af376bd19957b6b7e.jpg"
@@ -1791,47 +1384,36 @@
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Bhajan Dhara",
-      "description": "A religious leader worships an important and revered deity and pays tribute to their glory by singing sacred devotional songs.",
+      "showName": "Tele Shopping",
+      "description": "The host provides the features and specifications of a wide range of products which can be purchased from the comforts of one's home.",
       "startDate": "2026-11-16T10:30:00",
       "endDate": "2026-11-16T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad0e13ea98570622706f1b7daa8aaa09.jpg"
     },
     {
       "serverDate": "2026-11-16",
       "showName": "Ladhei Pala",
       "description": "An electrifying musical showdown commences as two groups of talented musicians compete, striving to captivate hearts and claim victory.",
       "startDate": "2026-11-16T11:00:00",
-      "endDate": "2026-11-16T11:30:00",
-      "showTime": "11:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f2fc06dec3ac04ba7ac6477d20e77f1.jpg"
-    },
-    {
-      "serverDate": "2026-11-16",
-      "showName": "Ladhei Pala",
-      "description": "An electrifying musical showdown commences as two groups of talented musicians compete, striving to captivate hearts and claim victory.",
-      "startDate": "2026-11-16T11:30:00",
       "endDate": "2026-11-16T12:00:00",
-      "showTime": "11:30:00",
+      "showTime": "11:00:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f2fc06dec3ac04ba7ac6477d20e77f1.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Teleshopping",
-      "description": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.",
+      "showName": "Tele Shopping",
+      "description": "The host provides the features and specifications of a wide range of products which can be purchased from the comforts of one's home.",
       "startDate": "2026-11-16T12:00:00",
       "endDate": "2026-11-16T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a9232e25faa8910c7b16edde3879d505.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad0e13ea98570622706f1b7daa8aaa09.jpg"
     },
     {
       "serverDate": "2026-11-16",
@@ -1846,102 +1428,80 @@
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Mu Bi Namita Agarwal Hebi",
-      "description": "Aspiring singers from all over Odisha compete against each other and try to impress the judges in a singing competition.",
+      "showName": "Bhakti Kantha",
+      "description": "Several contestants across different age groups showcase their singing talents in front of renowned musical personalities.",
       "startDate": "2026-11-16T13:00:00",
       "endDate": "2026-11-16T14:00:00",
       "showTime": "13:00:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17186101ef167071b7f2dd18c6db5c7b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dac62d2bf147940a614825fa30dadde0.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Teleshopping",
-      "description": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.",
+      "showName": "Tele Shopping",
+      "description": "The host provides the features and specifications of a wide range of products which can be purchased from the comforts of one's home.",
       "startDate": "2026-11-16T14:00:00",
       "endDate": "2026-11-16T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a9232e25faa8910c7b16edde3879d505.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad0e13ea98570622706f1b7daa8aaa09.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Ghoda Nacha",
+      "description": "Professional dancers perform Ghoda Nacha, one of Odisha's popular folk dance forms which is mostly performed by aboriginal fishermen tribes like the Keot.",
+      "startDate": "2026-11-16T14:30:00",
+      "endDate": "2026-11-16T15:30:00",
+      "showTime": "14:30:00",
+      "endTime": "15:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e64fd68755d9915892cf98aa9e54113.jpg"
     },
     {
       "serverDate": "2026-11-16",
       "showName": "Bhajan Dhara",
       "description": "A religious leader worships an important and revered deity and pays tribute to their glory by singing sacred devotional songs.",
-      "startDate": "2026-11-16T14:30:00",
-      "endDate": "2026-11-16T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
-    },
-    {
-      "serverDate": "2026-11-16",
-      "showName": "Chande Chande Bhakti",
-      "description": "Devotees sing soul-stirring songs and melodious hymns in praise of the Almighty to invoke the spirit of devotion and seek divine blessings.",
-      "startDate": "2026-11-16T15:00:00",
-      "endDate": "2026-11-16T15:30:00",
-      "showTime": "15:00:00",
-      "endTime": "15:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2178a7db82763e1af376bd19957b6b7e.jpg"
-    },
-    {
-      "serverDate": "2026-11-16",
-      "showName": "Teleshopping",
-      "description": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.",
       "startDate": "2026-11-16T15:30:00",
       "endDate": "2026-11-16T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a9232e25faa8910c7b16edde3879d505.jpg"
-    },
-    {
-      "serverDate": "2026-11-16",
-      "showName": "Bhajan Dhara",
-      "description": "A religious leader worships an important and revered deity and pays tribute to their glory by singing sacred devotional songs.",
-      "startDate": "2026-11-16T16:00:00",
-      "endDate": "2026-11-16T16:30:00",
-      "showTime": "16:00:00",
-      "endTime": "16:30:00",
-      "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Bhakti Sangam",
-      "description": "A comprehensive compilation of devotional songs and prayers recorded in honour of different gods and goddesses worshipped by people of various faiths.",
-      "startDate": "2026-11-16T16:30:00",
+      "showName": "Mahamilana",
+      "description": "Talented singers come together to compete against each other by showcasing their vocal talents in order to win a grand prize.",
+      "startDate": "2026-11-16T16:00:00",
       "endDate": "2026-11-16T17:00:00",
-      "showTime": "16:30:00",
+      "showTime": "16:00:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df54fdb51a8e495e6353f3a2368dcb6b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/367e6d0139d7d50a991489daca8d0394.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Bhajan Ganga",
-      "description": "A religious leader guides a congregation of devout Hindus into prayerful meditation and sings soulful hymns in praise of the Almighty.",
+      "showName": "Bhajan",
+      "description": "An engaging compilation of spiritual hymns and divine melodies presented by renowned devotional singers from across the globe.",
       "startDate": "2026-11-16T17:00:00",
       "endDate": "2026-11-16T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0e33666e0d4e055604a60b241b964c1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a28d5f8754df8790b679b2148f9f64b0.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Bhajan Ganga",
-      "description": "A religious leader guides a congregation of devout Hindus into prayerful meditation and sings soulful hymns in praise of the Almighty.",
+      "showName": "Kartika Mahatmya",
+      "description": "A spiritual guide extols Kartika's virtues through devotional songs and prayers, emphasising the month's sacred significance in Hindu tradition.",
       "startDate": "2026-11-16T17:30:00",
       "endDate": "2026-11-16T18:00:00",
       "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0e33666e0d4e055604a60b241b964c1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be798bfc7160f663f28a24a74c70f281.jpg"
     },
     {
       "serverDate": "2026-11-16",
@@ -1956,113 +1516,91 @@
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Hari Bansa",
-      "description": "A religious leader delivers a discourse on spirituality by sharing glorious stories of Lord Krishna and singing hymns to help devotees lead a life of righteousness.",
+      "showName": "Deula Tola",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-16T18:30:00",
       "endDate": "2026-11-16T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/994ae08af5d54d01b5fe8b1298268b31.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26eb8e24818b05c39c6d1ba0dbfa631e.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Satya Pathe Ghenija Mote",
-      "description": "A religious leader sheds light on the divine teachings of Hinduism and urges the devotees to follow the path of compassion.",
+      "showName": "Bal Krushna",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-16T19:00:00",
-      "endDate": "2026-11-16T19:30:00",
-      "showTime": "19:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0de171a368fb173d916e69932d2c02b1.jpg"
-    },
-    {
-      "serverDate": "2026-11-16",
-      "showName": "Satya Siva Sundara",
-      "description": "A religious leader sheds light on various teachings and principles from the Hindu scriptures and encourages followers to reflect on the same.",
-      "startDate": "2026-11-16T19:30:00",
       "endDate": "2026-11-16T20:00:00",
-      "showTime": "19:30:00",
+      "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5351cce124556352ff8329fb1609c3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dd1601558cd1503f7125d3cf5c24f638.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Ganana 2025",
-      "description": "A renowned astrologer analyses the position of the celestial objects and predicts the future of the zodiac signs in the year 2025.",
+      "showName": "Bhakti Kantha",
+      "description": "Several contestants across different age groups showcase their singing talents in front of renowned musical personalities.",
       "startDate": "2026-11-16T20:00:00",
       "endDate": "2026-11-16T21:00:00",
       "showTime": "20:00:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/68ef9993777e468928b0fc16c415ae2f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dac62d2bf147940a614825fa30dadde0.jpg"
     },
     {
       "serverDate": "2026-11-16",
       "showName": "Ladhei Pala",
       "description": "An electrifying musical showdown commences as two groups of talented musicians compete, striving to captivate hearts and claim victory.",
       "startDate": "2026-11-16T21:00:00",
-      "endDate": "2026-11-16T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f2fc06dec3ac04ba7ac6477d20e77f1.jpg"
-    },
-    {
-      "serverDate": "2026-11-16",
-      "showName": "Ladhei Pala",
-      "description": "An electrifying musical showdown commences as two groups of talented musicians compete, striving to captivate hearts and claim victory.",
-      "startDate": "2026-11-16T21:30:00",
       "endDate": "2026-11-16T22:00:00",
-      "showTime": "21:30:00",
+      "showTime": "21:00:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f2fc06dec3ac04ba7ac6477d20e77f1.jpg"
     },
     {
       "serverDate": "2026-11-16",
+      "showName": "Ghoda Nacha",
+      "description": "Professional dancers perform Ghoda Nacha, one of Odisha's popular folk dance forms which is mostly performed by aboriginal fishermen tribes like the Keot.",
+      "startDate": "2026-11-16T22:00:00",
+      "endDate": "2026-11-16T23:00:00",
+      "showTime": "22:00:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e64fd68755d9915892cf98aa9e54113.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
       "showName": "Bhagya Darshan",
       "description": "A renowned astrologer presents a detailed reading of horoscopes and provides tips as well as answers to various queries of viewers.",
-      "startDate": "2026-11-16T22:00:00",
-      "endDate": "2026-11-16T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
+      "startDate": "2026-11-16T23:00:00",
+      "endDate": "2026-11-16T23:30:00",
+      "showTime": "23:00:00",
+      "endTime": "23:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/704c6a6978807c8fea8e9bbd3b12488e.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Padyantari",
-      "description": "Various contestants compete against each other in a series of musical games in order to emerge victorious and win the prize.",
-      "startDate": "2026-11-16T22:30:00",
-      "endDate": "2026-11-16T23:30:00",
-      "showTime": "22:30:00",
-      "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a21affe91a470880baa08a51e44c6838.jpg"
-    },
-    {
-      "serverDate": "2026-11-16",
-      "showName": "Golden Album Song",
-      "description": "A comprehensive compilation of popular songs recorded by renowned musicians who dabble in diverse styles and genres of music.",
+      "showName": "Chande Chande Bhakti",
+      "description": "Devotees sing soul-stirring songs and melodious hymns in praise of the Almighty to invoke the spirit of devotion and seek divine blessings.",
       "startDate": "2026-11-16T23:30:00",
       "endDate": "2026-11-16T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee93644bce59b145cde81590b85dbb4b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2178a7db82763e1af376bd19957b6b7e.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Mathura Mangala",
-      "description": "A Hindu spiritual leader sings religious poems and sheds light on the teachings of the Almighty while encouraging the followers to take the path of spirituality.",
+      "showName": "Deula Tola",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-17T00:00:00",
       "endDate": "2026-11-17T00:30:00",
       "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fb4a695886198a5ce9d1ce8a850a8434.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26eb8e24818b05c39c6d1ba0dbfa631e.jpg"
     },
     {
       "serverDate": "2026-11-17",
@@ -2077,25 +1615,25 @@
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Hari Bansa",
-      "description": "A religious leader delivers a discourse on spirituality by sharing glorious stories of Lord Krishna and singing hymns to help devotees lead a life of righteousness.",
+      "showName": "Har Har Mahadev",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-17T01:00:00",
       "endDate": "2026-11-17T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/994ae08af5d54d01b5fe8b1298268b31.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4deb198df26798dd582f4bbc5c40e5.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Satya Pathe Ghenija Mote",
-      "description": "A religious leader sheds light on the divine teachings of Hinduism and urges the devotees to follow the path of compassion.",
+      "showName": "Har Har Mahadev",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-17T01:30:00",
       "endDate": "2026-11-17T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0de171a368fb173d916e69932d2c02b1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4deb198df26798dd582f4bbc5c40e5.jpg"
     },
     {
       "serverDate": "2026-11-17",
@@ -2121,14 +1659,14 @@
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Archana",
-      "description": "Religious priests and devotees offer prayers and perform sacred rituals to seek the blessings of the Almighty at a place of worship.",
+      "showName": "Mahamantra",
+      "description": "A spiritual leader explores the power and significance of sacred chants, showcasing the transformative energy of mantras.",
       "startDate": "2026-11-17T04:00:00",
       "endDate": "2026-11-17T04:30:00",
       "showTime": "04:00:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d25c8aadef00937c8ef95049c4bfeab.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3fb55346509c7354794bb6dc0c859d2a.jpg"
     },
     {
       "serverDate": "2026-11-17",
@@ -2143,36 +1681,36 @@
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Bhaba Bhakti",
-      "description": "A religious leader leads earnest devotees, who have gathered in large numbers, in worshipping the Almighty and seeking his blessings.",
+      "showName": "Kartika Purana",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-17T05:00:00",
       "endDate": "2026-11-17T05:30:00",
       "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8e75a1d276d3513a58281bf1ad2f220d.jpg"
-    },
-    {
-      "serverDate": "2026-11-17",
-      "showName": "Bhagabata Tungi",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-17T05:30:00",
-      "endDate": "2026-11-17T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/20052aadbfa3d602b3904c15dc2ea3e9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f70055411b044bc8c424826aa678f662.jpg"
     },
     {
       "serverDate": "2026-11-17",
       "showName": "Bhajan Dhara",
       "description": "A religious leader worships an important and revered deity and pays tribute to their glory by singing sacred devotional songs.",
+      "startDate": "2026-11-17T05:30:00",
+      "endDate": "2026-11-17T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
+    },
+    {
+      "serverDate": "2026-11-17",
+      "showName": "Bhagabata Tungi",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-17T06:00:00",
       "endDate": "2026-11-17T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/20052aadbfa3d602b3904c15dc2ea3e9.jpg"
     },
     {
       "serverDate": "2026-11-17",
@@ -2187,14 +1725,14 @@
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Hari Bansa",
-      "description": "A religious leader delivers a discourse on spirituality by sharing glorious stories of Lord Krishna and singing hymns to help devotees lead a life of righteousness.",
+      "showName": "Deula Tola",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-17T07:00:00",
       "endDate": "2026-11-17T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/994ae08af5d54d01b5fe8b1298268b31.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26eb8e24818b05c39c6d1ba0dbfa631e.jpg"
     },
     {
       "serverDate": "2026-11-17",
@@ -2209,36 +1747,47 @@
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Satya Siva Sundara",
-      "description": "A religious leader sheds light on various teachings and principles from the Hindu scriptures and encourages followers to reflect on the same.",
+      "showName": "Pancha Deba Namastute",
+      "description": "A number of devotees and religious leaders add to the spiritual aura of the gathering with devotional chants in praise of the Almighty.",
       "startDate": "2026-11-17T08:00:00",
       "endDate": "2026-11-17T08:30:00",
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5351cce124556352ff8329fb1609c3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/658a8eef48fc33a6e3749283fd13b5f0.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Pousha Mahatmya",
-      "description": "Bringing the best in television.",
+      "showName": "Satya Pathe Niahe Mote",
+      "description": "A religious leader delivers an insightful discourse on the teachings of the sacred scriptures, encouraging devotees to live a righteous life.",
       "startDate": "2026-11-17T08:30:00",
       "endDate": "2026-11-17T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77fa46ba885194956cdca0092d0253be.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b0ed07bea45a387c62763cacbc58fe39.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Ganana 2025",
-      "description": "A renowned astrologer analyses the position of the celestial objects and predicts the future of the zodiac signs in the year 2025.",
+      "showName": "Kartika Mahatmya",
+      "description": "A spiritual guide extols Kartika's virtues through devotional songs and prayers, emphasising the month's sacred significance in Hindu tradition.",
       "startDate": "2026-11-17T09:00:00",
-      "endDate": "2026-11-17T10:00:00",
+      "endDate": "2026-11-17T09:30:00",
       "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be798bfc7160f663f28a24a74c70f281.jpg"
+    },
+    {
+      "serverDate": "2026-11-17",
+      "showName": "Chande Chande Bhakti",
+      "description": "Devotees sing soul-stirring songs and melodious hymns in praise of the Almighty to invoke the spirit of devotion and seek divine blessings.",
+      "startDate": "2026-11-17T09:30:00",
+      "endDate": "2026-11-17T10:00:00",
+      "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/68ef9993777e468928b0fc16c415ae2f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2178a7db82763e1af376bd19957b6b7e.jpg"
     },
     {
       "serverDate": "2026-11-17",
@@ -2253,47 +1802,36 @@
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Bhajan Dhara",
-      "description": "A religious leader worships an important and revered deity and pays tribute to their glory by singing sacred devotional songs.",
+      "showName": "Tele Shopping",
+      "description": "The host provides the features and specifications of a wide range of products which can be purchased from the comforts of one's home.",
       "startDate": "2026-11-17T10:30:00",
       "endDate": "2026-11-17T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad0e13ea98570622706f1b7daa8aaa09.jpg"
     },
     {
       "serverDate": "2026-11-17",
       "showName": "Ladhei Pala",
       "description": "An electrifying musical showdown commences as two groups of talented musicians compete, striving to captivate hearts and claim victory.",
       "startDate": "2026-11-17T11:00:00",
-      "endDate": "2026-11-17T11:30:00",
-      "showTime": "11:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f2fc06dec3ac04ba7ac6477d20e77f1.jpg"
-    },
-    {
-      "serverDate": "2026-11-17",
-      "showName": "Ladhei Pala",
-      "description": "An electrifying musical showdown commences as two groups of talented musicians compete, striving to captivate hearts and claim victory.",
-      "startDate": "2026-11-17T11:30:00",
       "endDate": "2026-11-17T12:00:00",
-      "showTime": "11:30:00",
+      "showTime": "11:00:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f2fc06dec3ac04ba7ac6477d20e77f1.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Teleshopping",
-      "description": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.",
+      "showName": "Tele Shopping",
+      "description": "The host provides the features and specifications of a wide range of products which can be purchased from the comforts of one's home.",
       "startDate": "2026-11-17T12:00:00",
       "endDate": "2026-11-17T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a9232e25faa8910c7b16edde3879d505.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad0e13ea98570622706f1b7daa8aaa09.jpg"
     },
     {
       "serverDate": "2026-11-17",
@@ -2308,102 +1846,80 @@
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Mu Bi Namita Agarwal Hebi",
-      "description": "Aspiring singers from all over Odisha compete against each other and try to impress the judges in a singing competition.",
+      "showName": "Bhakti Kantha",
+      "description": "Several contestants across different age groups showcase their singing talents in front of renowned musical personalities.",
       "startDate": "2026-11-17T13:00:00",
       "endDate": "2026-11-17T14:00:00",
       "showTime": "13:00:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17186101ef167071b7f2dd18c6db5c7b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dac62d2bf147940a614825fa30dadde0.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Teleshopping",
-      "description": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.",
+      "showName": "Tele Shopping",
+      "description": "The host provides the features and specifications of a wide range of products which can be purchased from the comforts of one's home.",
       "startDate": "2026-11-17T14:00:00",
       "endDate": "2026-11-17T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a9232e25faa8910c7b16edde3879d505.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad0e13ea98570622706f1b7daa8aaa09.jpg"
+    },
+    {
+      "serverDate": "2026-11-17",
+      "showName": "Ghoda Nacha",
+      "description": "Professional dancers perform Ghoda Nacha, one of Odisha's popular folk dance forms which is mostly performed by aboriginal fishermen tribes like the Keot.",
+      "startDate": "2026-11-17T14:30:00",
+      "endDate": "2026-11-17T15:30:00",
+      "showTime": "14:30:00",
+      "endTime": "15:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e64fd68755d9915892cf98aa9e54113.jpg"
     },
     {
       "serverDate": "2026-11-17",
       "showName": "Bhajan Dhara",
       "description": "A religious leader worships an important and revered deity and pays tribute to their glory by singing sacred devotional songs.",
-      "startDate": "2026-11-17T14:30:00",
-      "endDate": "2026-11-17T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
-    },
-    {
-      "serverDate": "2026-11-17",
-      "showName": "Chande Chande Bhakti",
-      "description": "Devotees sing soul-stirring songs and melodious hymns in praise of the Almighty to invoke the spirit of devotion and seek divine blessings.",
-      "startDate": "2026-11-17T15:00:00",
-      "endDate": "2026-11-17T15:30:00",
-      "showTime": "15:00:00",
-      "endTime": "15:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2178a7db82763e1af376bd19957b6b7e.jpg"
-    },
-    {
-      "serverDate": "2026-11-17",
-      "showName": "Teleshopping",
-      "description": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.",
       "startDate": "2026-11-17T15:30:00",
       "endDate": "2026-11-17T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a9232e25faa8910c7b16edde3879d505.jpg"
-    },
-    {
-      "serverDate": "2026-11-17",
-      "showName": "Bhajan Dhara",
-      "description": "A religious leader worships an important and revered deity and pays tribute to their glory by singing sacred devotional songs.",
-      "startDate": "2026-11-17T16:00:00",
-      "endDate": "2026-11-17T16:30:00",
-      "showTime": "16:00:00",
-      "endTime": "16:30:00",
-      "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Bhakti Sangam",
-      "description": "A comprehensive compilation of devotional songs and prayers recorded in honour of different gods and goddesses worshipped by people of various faiths.",
-      "startDate": "2026-11-17T16:30:00",
+      "showName": "Mahamilana",
+      "description": "Talented singers come together to compete against each other by showcasing their vocal talents in order to win a grand prize.",
+      "startDate": "2026-11-17T16:00:00",
       "endDate": "2026-11-17T17:00:00",
-      "showTime": "16:30:00",
+      "showTime": "16:00:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df54fdb51a8e495e6353f3a2368dcb6b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/367e6d0139d7d50a991489daca8d0394.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Bhajan Ganga",
-      "description": "A religious leader guides a congregation of devout Hindus into prayerful meditation and sings soulful hymns in praise of the Almighty.",
+      "showName": "Bhajan",
+      "description": "An engaging compilation of spiritual hymns and divine melodies presented by renowned devotional singers from across the globe.",
       "startDate": "2026-11-17T17:00:00",
       "endDate": "2026-11-17T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0e33666e0d4e055604a60b241b964c1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a28d5f8754df8790b679b2148f9f64b0.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Bhajan Ganga",
-      "description": "A religious leader guides a congregation of devout Hindus into prayerful meditation and sings soulful hymns in praise of the Almighty.",
+      "showName": "Kartika Mahatmya",
+      "description": "A spiritual guide extols Kartika's virtues through devotional songs and prayers, emphasising the month's sacred significance in Hindu tradition.",
       "startDate": "2026-11-17T17:30:00",
       "endDate": "2026-11-17T18:00:00",
       "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0e33666e0d4e055604a60b241b964c1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be798bfc7160f663f28a24a74c70f281.jpg"
     },
     {
       "serverDate": "2026-11-17",
@@ -2418,113 +1934,91 @@
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Hari Bansa",
-      "description": "A religious leader delivers a discourse on spirituality by sharing glorious stories of Lord Krishna and singing hymns to help devotees lead a life of righteousness.",
+      "showName": "Deula Tola",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-17T18:30:00",
       "endDate": "2026-11-17T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/994ae08af5d54d01b5fe8b1298268b31.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26eb8e24818b05c39c6d1ba0dbfa631e.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Satya Pathe Ghenija Mote",
-      "description": "A religious leader sheds light on the divine teachings of Hinduism and urges the devotees to follow the path of compassion.",
+      "showName": "Bal Krushna",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-17T19:00:00",
-      "endDate": "2026-11-17T19:30:00",
-      "showTime": "19:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0de171a368fb173d916e69932d2c02b1.jpg"
-    },
-    {
-      "serverDate": "2026-11-17",
-      "showName": "Satya Siva Sundara",
-      "description": "A religious leader sheds light on various teachings and principles from the Hindu scriptures and encourages followers to reflect on the same.",
-      "startDate": "2026-11-17T19:30:00",
       "endDate": "2026-11-17T20:00:00",
-      "showTime": "19:30:00",
+      "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5351cce124556352ff8329fb1609c3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dd1601558cd1503f7125d3cf5c24f638.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Ganana 2025",
-      "description": "A renowned astrologer analyses the position of the celestial objects and predicts the future of the zodiac signs in the year 2025.",
+      "showName": "Bhakti Kantha",
+      "description": "Several contestants across different age groups showcase their singing talents in front of renowned musical personalities.",
       "startDate": "2026-11-17T20:00:00",
       "endDate": "2026-11-17T21:00:00",
       "showTime": "20:00:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/68ef9993777e468928b0fc16c415ae2f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dac62d2bf147940a614825fa30dadde0.jpg"
     },
     {
       "serverDate": "2026-11-17",
       "showName": "Ladhei Pala",
       "description": "An electrifying musical showdown commences as two groups of talented musicians compete, striving to captivate hearts and claim victory.",
       "startDate": "2026-11-17T21:00:00",
-      "endDate": "2026-11-17T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f2fc06dec3ac04ba7ac6477d20e77f1.jpg"
-    },
-    {
-      "serverDate": "2026-11-17",
-      "showName": "Ladhei Pala",
-      "description": "An electrifying musical showdown commences as two groups of talented musicians compete, striving to captivate hearts and claim victory.",
-      "startDate": "2026-11-17T21:30:00",
       "endDate": "2026-11-17T22:00:00",
-      "showTime": "21:30:00",
+      "showTime": "21:00:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f2fc06dec3ac04ba7ac6477d20e77f1.jpg"
     },
     {
       "serverDate": "2026-11-17",
+      "showName": "Ghoda Nacha",
+      "description": "Professional dancers perform Ghoda Nacha, one of Odisha's popular folk dance forms which is mostly performed by aboriginal fishermen tribes like the Keot.",
+      "startDate": "2026-11-17T22:00:00",
+      "endDate": "2026-11-17T23:00:00",
+      "showTime": "22:00:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e64fd68755d9915892cf98aa9e54113.jpg"
+    },
+    {
+      "serverDate": "2026-11-17",
       "showName": "Bhagya Darshan",
       "description": "A renowned astrologer presents a detailed reading of horoscopes and provides tips as well as answers to various queries of viewers.",
-      "startDate": "2026-11-17T22:00:00",
-      "endDate": "2026-11-17T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
+      "startDate": "2026-11-17T23:00:00",
+      "endDate": "2026-11-17T23:30:00",
+      "showTime": "23:00:00",
+      "endTime": "23:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/704c6a6978807c8fea8e9bbd3b12488e.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Padyantari",
-      "description": "Various contestants compete against each other in a series of musical games in order to emerge victorious and win the prize.",
-      "startDate": "2026-11-17T22:30:00",
-      "endDate": "2026-11-17T23:30:00",
-      "showTime": "22:30:00",
-      "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a21affe91a470880baa08a51e44c6838.jpg"
-    },
-    {
-      "serverDate": "2026-11-17",
-      "showName": "Golden Album Song",
-      "description": "A comprehensive compilation of popular songs recorded by renowned musicians who dabble in diverse styles and genres of music.",
+      "showName": "Chande Chande Bhakti",
+      "description": "Devotees sing soul-stirring songs and melodious hymns in praise of the Almighty to invoke the spirit of devotion and seek divine blessings.",
       "startDate": "2026-11-17T23:30:00",
       "endDate": "2026-11-17T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee93644bce59b145cde81590b85dbb4b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2178a7db82763e1af376bd19957b6b7e.jpg"
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Mathura Mangala",
-      "description": "A Hindu spiritual leader sings religious poems and sheds light on the teachings of the Almighty while encouraging the followers to take the path of spirituality.",
+      "showName": "Deula Tola",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-18T00:00:00",
       "endDate": "2026-11-18T00:30:00",
       "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fb4a695886198a5ce9d1ce8a850a8434.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26eb8e24818b05c39c6d1ba0dbfa631e.jpg"
     },
     {
       "serverDate": "2026-11-18",
@@ -2539,47 +2033,36 @@
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Hari Bansa",
-      "description": "A religious leader delivers a discourse on spirituality by sharing glorious stories of Lord Krishna and singing hymns to help devotees lead a life of righteousness.",
+      "showName": "Har Har Mahadev",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-18T01:00:00",
       "endDate": "2026-11-18T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/994ae08af5d54d01b5fe8b1298268b31.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4deb198df26798dd582f4bbc5c40e5.jpg"
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Satya Pathe Ghenija Mote",
-      "description": "A religious leader sheds light on the divine teachings of Hinduism and urges the devotees to follow the path of compassion.",
+      "showName": "Har Har Mahadev",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-18T01:30:00",
       "endDate": "2026-11-18T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0de171a368fb173d916e69932d2c02b1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4deb198df26798dd582f4bbc5c40e5.jpg"
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Bhabisya Malika",
-      "description": "Astrology experts analyse celestial positions to forecast the future and offer guidance. Additionally, they interpret cosmic patterns, shedding light on personal challenges and providing insights.",
+      "showName": "Mu Bi Namita Agarwal Hebi",
+      "description": "Aspiring singers from all over Odisha compete against each other and try to impress the judges in a singing competition.",
       "startDate": "2026-11-18T02:00:00",
-      "endDate": "2026-11-18T02:30:00",
-      "showTime": "02:00:00",
-      "endTime": "02:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5c2523c8ec0d950bcadf5e083df24d0c.jpg"
-    },
-    {
-      "serverDate": "2026-11-18",
-      "showName": "Baya Geeta",
-      "description": "A renowned spiritual leader shares profound insights on leading a pious life, inspiring devotees to embrace the teachings of the divine as well as walk the path of righteousness.",
-      "startDate": "2026-11-18T02:30:00",
       "endDate": "2026-11-18T03:00:00",
-      "showTime": "02:30:00",
+      "showTime": "02:00:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b5fd3d4a8c8eaab9c0eb1ff093c13c0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17186101ef167071b7f2dd18c6db5c7b.jpg"
     },
     {
       "serverDate": "2026-11-18",
@@ -2594,14 +2077,14 @@
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Archana",
-      "description": "Religious priests and devotees offer prayers and perform sacred rituals to seek the blessings of the Almighty at a place of worship.",
+      "showName": "Mahamantra",
+      "description": "A spiritual leader explores the power and significance of sacred chants, showcasing the transformative energy of mantras.",
       "startDate": "2026-11-18T04:00:00",
       "endDate": "2026-11-18T04:30:00",
       "showTime": "04:00:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d25c8aadef00937c8ef95049c4bfeab.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3fb55346509c7354794bb6dc0c859d2a.jpg"
     },
     {
       "serverDate": "2026-11-18",
@@ -2616,36 +2099,36 @@
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Bhaba Bhakti",
-      "description": "A religious leader leads earnest devotees, who have gathered in large numbers, in worshipping the Almighty and seeking his blessings.",
+      "showName": "Kartika Purana",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-18T05:00:00",
       "endDate": "2026-11-18T05:30:00",
       "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8e75a1d276d3513a58281bf1ad2f220d.jpg"
-    },
-    {
-      "serverDate": "2026-11-18",
-      "showName": "Bhagabata Tungi",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-18T05:30:00",
-      "endDate": "2026-11-18T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/20052aadbfa3d602b3904c15dc2ea3e9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f70055411b044bc8c424826aa678f662.jpg"
     },
     {
       "serverDate": "2026-11-18",
       "showName": "Bhajan Dhara",
       "description": "A religious leader worships an important and revered deity and pays tribute to their glory by singing sacred devotional songs.",
+      "startDate": "2026-11-18T05:30:00",
+      "endDate": "2026-11-18T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Bhagabata Tungi",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-18T06:00:00",
       "endDate": "2026-11-18T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/20052aadbfa3d602b3904c15dc2ea3e9.jpg"
     },
     {
       "serverDate": "2026-11-18",
@@ -2660,14 +2143,14 @@
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Hari Bansa",
-      "description": "A religious leader delivers a discourse on spirituality by sharing glorious stories of Lord Krishna and singing hymns to help devotees lead a life of righteousness.",
+      "showName": "Deula Tola",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-18T07:00:00",
       "endDate": "2026-11-18T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/994ae08af5d54d01b5fe8b1298268b31.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26eb8e24818b05c39c6d1ba0dbfa631e.jpg"
     },
     {
       "serverDate": "2026-11-18",
@@ -2682,36 +2165,47 @@
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Satya Siva Sundara",
-      "description": "A religious leader sheds light on various teachings and principles from the Hindu scriptures and encourages followers to reflect on the same.",
+      "showName": "Pancha Deba Namastute",
+      "description": "A number of devotees and religious leaders add to the spiritual aura of the gathering with devotional chants in praise of the Almighty.",
       "startDate": "2026-11-18T08:00:00",
       "endDate": "2026-11-18T08:30:00",
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5351cce124556352ff8329fb1609c3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/658a8eef48fc33a6e3749283fd13b5f0.jpg"
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Pousha Mahatmya",
-      "description": "Bringing the best in television.",
+      "showName": "Purana Kahe Sansara Katha",
+      "description": "Listen closely to moving and inspirational narrations of some of the various Puranas that have survived the centuries.",
       "startDate": "2026-11-18T08:30:00",
       "endDate": "2026-11-18T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77fa46ba885194956cdca0092d0253be.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f382ba443f23535e43eea9b5c2cdf662.jpg"
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Ganana 2025",
-      "description": "A renowned astrologer analyses the position of the celestial objects and predicts the future of the zodiac signs in the year 2025.",
+      "showName": "Kartika Mahatmya",
+      "description": "A spiritual guide extols Kartika's virtues through devotional songs and prayers, emphasising the month's sacred significance in Hindu tradition.",
       "startDate": "2026-11-18T09:00:00",
-      "endDate": "2026-11-18T10:00:00",
+      "endDate": "2026-11-18T09:30:00",
       "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be798bfc7160f663f28a24a74c70f281.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Chande Chande Bhakti",
+      "description": "Devotees sing soul-stirring songs and melodious hymns in praise of the Almighty to invoke the spirit of devotion and seek divine blessings.",
+      "startDate": "2026-11-18T09:30:00",
+      "endDate": "2026-11-18T10:00:00",
+      "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/68ef9993777e468928b0fc16c415ae2f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2178a7db82763e1af376bd19957b6b7e.jpg"
     },
     {
       "serverDate": "2026-11-18",
@@ -2726,47 +2220,36 @@
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Bhajan Dhara",
-      "description": "A religious leader worships an important and revered deity and pays tribute to their glory by singing sacred devotional songs.",
+      "showName": "Tele Shopping",
+      "description": "The host provides the features and specifications of a wide range of products which can be purchased from the comforts of one's home.",
       "startDate": "2026-11-18T10:30:00",
       "endDate": "2026-11-18T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad0e13ea98570622706f1b7daa8aaa09.jpg"
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Ladhei Pala",
-      "description": "An electrifying musical showdown commences as two groups of talented musicians compete, striving to captivate hearts and claim victory.",
+      "showName": "Ghoda Nacha",
+      "description": "Professional dancers perform Ghoda Nacha, one of Odisha's popular folk dance forms which is mostly performed by aboriginal fishermen tribes like the Keot.",
       "startDate": "2026-11-18T11:00:00",
-      "endDate": "2026-11-18T11:30:00",
-      "showTime": "11:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f2fc06dec3ac04ba7ac6477d20e77f1.jpg"
-    },
-    {
-      "serverDate": "2026-11-18",
-      "showName": "Ladhei Pala",
-      "description": "An electrifying musical showdown commences as two groups of talented musicians compete, striving to captivate hearts and claim victory.",
-      "startDate": "2026-11-18T11:30:00",
       "endDate": "2026-11-18T12:00:00",
-      "showTime": "11:30:00",
+      "showTime": "11:00:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f2fc06dec3ac04ba7ac6477d20e77f1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e64fd68755d9915892cf98aa9e54113.jpg"
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Teleshopping",
-      "description": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.",
+      "showName": "Tele Shopping",
+      "description": "The host provides the features and specifications of a wide range of products which can be purchased from the comforts of one's home.",
       "startDate": "2026-11-18T12:00:00",
       "endDate": "2026-11-18T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a9232e25faa8910c7b16edde3879d505.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad0e13ea98570622706f1b7daa8aaa09.jpg"
     },
     {
       "serverDate": "2026-11-18",
@@ -2781,102 +2264,80 @@
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Mu Bi Namita Agarwal Hebi",
-      "description": "Aspiring singers from all over Odisha compete against each other and try to impress the judges in a singing competition.",
+      "showName": "Bhakti Kantha",
+      "description": "Several contestants across different age groups showcase their singing talents in front of renowned musical personalities.",
       "startDate": "2026-11-18T13:00:00",
       "endDate": "2026-11-18T14:00:00",
       "showTime": "13:00:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17186101ef167071b7f2dd18c6db5c7b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dac62d2bf147940a614825fa30dadde0.jpg"
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Teleshopping",
-      "description": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.",
+      "showName": "Tele Shopping",
+      "description": "The host provides the features and specifications of a wide range of products which can be purchased from the comforts of one's home.",
       "startDate": "2026-11-18T14:00:00",
       "endDate": "2026-11-18T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a9232e25faa8910c7b16edde3879d505.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad0e13ea98570622706f1b7daa8aaa09.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Bharata Leela",
+      "description": "Talented artists sing and dance as they perform 'Bharata Lila', an Indian performing theatre form of the Ganjam district of Odisha.",
+      "startDate": "2026-11-18T14:30:00",
+      "endDate": "2026-11-18T15:30:00",
+      "showTime": "14:30:00",
+      "endTime": "15:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8391fbf631961a8d162c740a276094e2.jpg"
     },
     {
       "serverDate": "2026-11-18",
       "showName": "Bhajan Dhara",
       "description": "A religious leader worships an important and revered deity and pays tribute to their glory by singing sacred devotional songs.",
-      "startDate": "2026-11-18T14:30:00",
-      "endDate": "2026-11-18T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
-    },
-    {
-      "serverDate": "2026-11-18",
-      "showName": "Chande Chande Bhakti",
-      "description": "Devotees sing soul-stirring songs and melodious hymns in praise of the Almighty to invoke the spirit of devotion and seek divine blessings.",
-      "startDate": "2026-11-18T15:00:00",
-      "endDate": "2026-11-18T15:30:00",
-      "showTime": "15:00:00",
-      "endTime": "15:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2178a7db82763e1af376bd19957b6b7e.jpg"
-    },
-    {
-      "serverDate": "2026-11-18",
-      "showName": "Teleshopping",
-      "description": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.",
       "startDate": "2026-11-18T15:30:00",
       "endDate": "2026-11-18T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a9232e25faa8910c7b16edde3879d505.jpg"
-    },
-    {
-      "serverDate": "2026-11-18",
-      "showName": "Bhajan Dhara",
-      "description": "A religious leader worships an important and revered deity and pays tribute to their glory by singing sacred devotional songs.",
-      "startDate": "2026-11-18T16:00:00",
-      "endDate": "2026-11-18T16:30:00",
-      "showTime": "16:00:00",
-      "endTime": "16:30:00",
-      "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Bhakti Sangam",
-      "description": "A comprehensive compilation of devotional songs and prayers recorded in honour of different gods and goddesses worshipped by people of various faiths.",
-      "startDate": "2026-11-18T16:30:00",
+      "showName": "Bhakti Kantha",
+      "description": "Several contestants across different age groups showcase their singing talents in front of renowned musical personalities.",
+      "startDate": "2026-11-18T16:00:00",
       "endDate": "2026-11-18T17:00:00",
-      "showTime": "16:30:00",
+      "showTime": "16:00:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df54fdb51a8e495e6353f3a2368dcb6b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dac62d2bf147940a614825fa30dadde0.jpg"
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Bhajan Ganga",
-      "description": "A religious leader guides a congregation of devout Hindus into prayerful meditation and sings soulful hymns in praise of the Almighty.",
+      "showName": "Bhajan",
+      "description": "An engaging compilation of spiritual hymns and divine melodies presented by renowned devotional singers from across the globe.",
       "startDate": "2026-11-18T17:00:00",
       "endDate": "2026-11-18T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0e33666e0d4e055604a60b241b964c1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a28d5f8754df8790b679b2148f9f64b0.jpg"
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Bhajan Ganga",
-      "description": "A religious leader guides a congregation of devout Hindus into prayerful meditation and sings soulful hymns in praise of the Almighty.",
+      "showName": "Kartika Mahatmya",
+      "description": "A spiritual guide extols Kartika's virtues through devotional songs and prayers, emphasising the month's sacred significance in Hindu tradition.",
       "startDate": "2026-11-18T17:30:00",
       "endDate": "2026-11-18T18:00:00",
       "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0e33666e0d4e055604a60b241b964c1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be798bfc7160f663f28a24a74c70f281.jpg"
     },
     {
       "serverDate": "2026-11-18",
@@ -2891,113 +2352,91 @@
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Hari Bansa",
-      "description": "A religious leader delivers a discourse on spirituality by sharing glorious stories of Lord Krishna and singing hymns to help devotees lead a life of righteousness.",
+      "showName": "Deula Tola",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-18T18:30:00",
       "endDate": "2026-11-18T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/994ae08af5d54d01b5fe8b1298268b31.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26eb8e24818b05c39c6d1ba0dbfa631e.jpg"
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Satya Pathe Ghenija Mote",
-      "description": "A religious leader sheds light on the divine teachings of Hinduism and urges the devotees to follow the path of compassion.",
+      "showName": "Bal Krushna",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-18T19:00:00",
-      "endDate": "2026-11-18T19:30:00",
-      "showTime": "19:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0de171a368fb173d916e69932d2c02b1.jpg"
-    },
-    {
-      "serverDate": "2026-11-18",
-      "showName": "Satya Siva Sundara",
-      "description": "A religious leader sheds light on various teachings and principles from the Hindu scriptures and encourages followers to reflect on the same.",
-      "startDate": "2026-11-18T19:30:00",
       "endDate": "2026-11-18T20:00:00",
-      "showTime": "19:30:00",
+      "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5351cce124556352ff8329fb1609c3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dd1601558cd1503f7125d3cf5c24f638.jpg"
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Ganana 2025",
-      "description": "A renowned astrologer analyses the position of the celestial objects and predicts the future of the zodiac signs in the year 2025.",
+      "showName": "Bhakti Kantha",
+      "description": "Several contestants across different age groups showcase their singing talents in front of renowned musical personalities.",
       "startDate": "2026-11-18T20:00:00",
       "endDate": "2026-11-18T21:00:00",
       "showTime": "20:00:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/68ef9993777e468928b0fc16c415ae2f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dac62d2bf147940a614825fa30dadde0.jpg"
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Ladhei Pala",
-      "description": "An electrifying musical showdown commences as two groups of talented musicians compete, striving to captivate hearts and claim victory.",
+      "showName": "Prahllada Nataka",
+      "description": "Prahllada Nataka",
       "startDate": "2026-11-18T21:00:00",
-      "endDate": "2026-11-18T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f2fc06dec3ac04ba7ac6477d20e77f1.jpg"
-    },
-    {
-      "serverDate": "2026-11-18",
-      "showName": "Ladhei Pala",
-      "description": "An electrifying musical showdown commences as two groups of talented musicians compete, striving to captivate hearts and claim victory.",
-      "startDate": "2026-11-18T21:30:00",
       "endDate": "2026-11-18T22:00:00",
-      "showTime": "21:30:00",
+      "showTime": "21:00:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f2fc06dec3ac04ba7ac6477d20e77f1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7fdc9ff7326ddd5286b9883922a69b94.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Bharata Leela",
+      "description": "Talented artists sing and dance as they perform 'Bharata Lila', an Indian performing theatre form of the Ganjam district of Odisha.",
+      "startDate": "2026-11-18T22:00:00",
+      "endDate": "2026-11-18T23:00:00",
+      "showTime": "22:00:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8391fbf631961a8d162c740a276094e2.jpg"
     },
     {
       "serverDate": "2026-11-18",
       "showName": "Bhagya Darshan",
       "description": "A renowned astrologer presents a detailed reading of horoscopes and provides tips as well as answers to various queries of viewers.",
-      "startDate": "2026-11-18T22:00:00",
-      "endDate": "2026-11-18T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
+      "startDate": "2026-11-18T23:00:00",
+      "endDate": "2026-11-18T23:30:00",
+      "showTime": "23:00:00",
+      "endTime": "23:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/704c6a6978807c8fea8e9bbd3b12488e.jpg"
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Padyantari",
-      "description": "Various contestants compete against each other in a series of musical games in order to emerge victorious and win the prize.",
-      "startDate": "2026-11-18T22:30:00",
-      "endDate": "2026-11-18T23:30:00",
-      "showTime": "22:30:00",
-      "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a21affe91a470880baa08a51e44c6838.jpg"
-    },
-    {
-      "serverDate": "2026-11-18",
-      "showName": "Golden Album Song",
-      "description": "A comprehensive compilation of popular songs recorded by renowned musicians who dabble in diverse styles and genres of music.",
+      "showName": "Chande Chande Bhakti",
+      "description": "Devotees sing soul-stirring songs and melodious hymns in praise of the Almighty to invoke the spirit of devotion and seek divine blessings.",
       "startDate": "2026-11-18T23:30:00",
       "endDate": "2026-11-18T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee93644bce59b145cde81590b85dbb4b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2178a7db82763e1af376bd19957b6b7e.jpg"
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "Mathura Mangala",
-      "description": "A Hindu spiritual leader sings religious poems and sheds light on the teachings of the Almighty while encouraging the followers to take the path of spirituality.",
+      "showName": "Deula Tola",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-19T00:00:00",
       "endDate": "2026-11-19T00:30:00",
       "showTime": "00:00:00",
       "endTime": "00:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fb4a695886198a5ce9d1ce8a850a8434.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26eb8e24818b05c39c6d1ba0dbfa631e.jpg"
     },
     {
       "serverDate": "2026-11-19",
@@ -3012,47 +2451,36 @@
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "Hari Bansa",
-      "description": "A religious leader delivers a discourse on spirituality by sharing glorious stories of Lord Krishna and singing hymns to help devotees lead a life of righteousness.",
+      "showName": "Har Har Mahadev",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-19T01:00:00",
       "endDate": "2026-11-19T01:30:00",
       "showTime": "01:00:00",
       "endTime": "01:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/994ae08af5d54d01b5fe8b1298268b31.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4deb198df26798dd582f4bbc5c40e5.jpg"
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "Satya Pathe Ghenija Mote",
-      "description": "A religious leader sheds light on the divine teachings of Hinduism and urges the devotees to follow the path of compassion.",
+      "showName": "Har Har Mahadev",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-19T01:30:00",
       "endDate": "2026-11-19T02:00:00",
       "showTime": "01:30:00",
       "endTime": "02:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0de171a368fb173d916e69932d2c02b1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4deb198df26798dd582f4bbc5c40e5.jpg"
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "Bhabisya Malika",
-      "description": "Astrology experts analyse celestial positions to forecast the future and offer guidance. Additionally, they interpret cosmic patterns, shedding light on personal challenges and providing insights.",
+      "showName": "Mu Bi Namita Agarwal Hebi",
+      "description": "Aspiring singers from all over Odisha compete against each other and try to impress the judges in a singing competition.",
       "startDate": "2026-11-19T02:00:00",
-      "endDate": "2026-11-19T02:30:00",
-      "showTime": "02:00:00",
-      "endTime": "02:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5c2523c8ec0d950bcadf5e083df24d0c.jpg"
-    },
-    {
-      "serverDate": "2026-11-19",
-      "showName": "Baya Geeta",
-      "description": "A renowned spiritual leader shares profound insights on leading a pious life, inspiring devotees to embrace the teachings of the divine as well as walk the path of righteousness.",
-      "startDate": "2026-11-19T02:30:00",
       "endDate": "2026-11-19T03:00:00",
-      "showTime": "02:30:00",
+      "showTime": "02:00:00",
       "endTime": "03:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b5fd3d4a8c8eaab9c0eb1ff093c13c0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17186101ef167071b7f2dd18c6db5c7b.jpg"
     },
     {
       "serverDate": "2026-11-19",
@@ -3067,14 +2495,14 @@
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "Archana",
-      "description": "Religious priests and devotees offer prayers and perform sacred rituals to seek the blessings of the Almighty at a place of worship.",
+      "showName": "Mahamantra",
+      "description": "A spiritual leader explores the power and significance of sacred chants, showcasing the transformative energy of mantras.",
       "startDate": "2026-11-19T04:00:00",
       "endDate": "2026-11-19T04:30:00",
       "showTime": "04:00:00",
       "endTime": "04:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2d25c8aadef00937c8ef95049c4bfeab.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3fb55346509c7354794bb6dc0c859d2a.jpg"
     },
     {
       "serverDate": "2026-11-19",
@@ -3089,36 +2517,36 @@
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "Bhaba Bhakti",
-      "description": "A religious leader leads earnest devotees, who have gathered in large numbers, in worshipping the Almighty and seeking his blessings.",
+      "showName": "Kartika Purana",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-19T05:00:00",
       "endDate": "2026-11-19T05:30:00",
       "showTime": "05:00:00",
       "endTime": "05:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8e75a1d276d3513a58281bf1ad2f220d.jpg"
-    },
-    {
-      "serverDate": "2026-11-19",
-      "showName": "Bhagabata Tungi",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-19T05:30:00",
-      "endDate": "2026-11-19T06:00:00",
-      "showTime": "05:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/20052aadbfa3d602b3904c15dc2ea3e9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f70055411b044bc8c424826aa678f662.jpg"
     },
     {
       "serverDate": "2026-11-19",
       "showName": "Bhajan Dhara",
       "description": "A religious leader worships an important and revered deity and pays tribute to their glory by singing sacred devotional songs.",
+      "startDate": "2026-11-19T05:30:00",
+      "endDate": "2026-11-19T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "Bhagabata Tungi",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-19T06:00:00",
       "endDate": "2026-11-19T06:30:00",
       "showTime": "06:00:00",
       "endTime": "06:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/20052aadbfa3d602b3904c15dc2ea3e9.jpg"
     },
     {
       "serverDate": "2026-11-19",
@@ -3133,14 +2561,14 @@
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "Hari Bansa",
-      "description": "A religious leader delivers a discourse on spirituality by sharing glorious stories of Lord Krishna and singing hymns to help devotees lead a life of righteousness.",
+      "showName": "Deula Tola",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-19T07:00:00",
       "endDate": "2026-11-19T07:30:00",
       "showTime": "07:00:00",
       "endTime": "07:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/994ae08af5d54d01b5fe8b1298268b31.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26eb8e24818b05c39c6d1ba0dbfa631e.jpg"
     },
     {
       "serverDate": "2026-11-19",
@@ -3155,36 +2583,47 @@
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "Satya Siva Sundara",
-      "description": "A religious leader sheds light on various teachings and principles from the Hindu scriptures and encourages followers to reflect on the same.",
+      "showName": "Pancha Deba Namastute",
+      "description": "A number of devotees and religious leaders add to the spiritual aura of the gathering with devotional chants in praise of the Almighty.",
       "startDate": "2026-11-19T08:00:00",
       "endDate": "2026-11-19T08:30:00",
       "showTime": "08:00:00",
       "endTime": "08:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5351cce124556352ff8329fb1609c3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/658a8eef48fc33a6e3749283fd13b5f0.jpg"
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "Pousha Mahatmya",
-      "description": "Bringing the best in television.",
+      "showName": "Purana Kahe Sansara Katha",
+      "description": "Listen closely to moving and inspirational narrations of some of the various Puranas that have survived the centuries.",
       "startDate": "2026-11-19T08:30:00",
       "endDate": "2026-11-19T09:00:00",
       "showTime": "08:30:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77fa46ba885194956cdca0092d0253be.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f382ba443f23535e43eea9b5c2cdf662.jpg"
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "Ganana 2025",
-      "description": "A renowned astrologer analyses the position of the celestial objects and predicts the future of the zodiac signs in the year 2025.",
+      "showName": "Kartika Mahatmya",
+      "description": "A spiritual guide extols Kartika's virtues through devotional songs and prayers, emphasising the month's sacred significance in Hindu tradition.",
       "startDate": "2026-11-19T09:00:00",
-      "endDate": "2026-11-19T10:00:00",
+      "endDate": "2026-11-19T09:30:00",
       "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be798bfc7160f663f28a24a74c70f281.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "Chande Chande Bhakti",
+      "description": "Devotees sing soul-stirring songs and melodious hymns in praise of the Almighty to invoke the spirit of devotion and seek divine blessings.",
+      "startDate": "2026-11-19T09:30:00",
+      "endDate": "2026-11-19T10:00:00",
+      "showTime": "09:30:00",
       "endTime": "10:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/68ef9993777e468928b0fc16c415ae2f.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2178a7db82763e1af376bd19957b6b7e.jpg"
     },
     {
       "serverDate": "2026-11-19",
@@ -3199,47 +2638,36 @@
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "Bhajan Dhara",
-      "description": "A religious leader worships an important and revered deity and pays tribute to their glory by singing sacred devotional songs.",
+      "showName": "Tele Shopping",
+      "description": "The host provides the features and specifications of a wide range of products which can be purchased from the comforts of one's home.",
       "startDate": "2026-11-19T10:30:00",
       "endDate": "2026-11-19T11:00:00",
       "showTime": "10:30:00",
       "endTime": "11:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad0e13ea98570622706f1b7daa8aaa09.jpg"
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "Ladhei Pala",
-      "description": "An electrifying musical showdown commences as two groups of talented musicians compete, striving to captivate hearts and claim victory.",
+      "showName": "Ghoda Nacha",
+      "description": "Professional dancers perform Ghoda Nacha, one of Odisha's popular folk dance forms which is mostly performed by aboriginal fishermen tribes like the Keot.",
       "startDate": "2026-11-19T11:00:00",
-      "endDate": "2026-11-19T11:30:00",
-      "showTime": "11:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f2fc06dec3ac04ba7ac6477d20e77f1.jpg"
-    },
-    {
-      "serverDate": "2026-11-19",
-      "showName": "Ladhei Pala",
-      "description": "An electrifying musical showdown commences as two groups of talented musicians compete, striving to captivate hearts and claim victory.",
-      "startDate": "2026-11-19T11:30:00",
       "endDate": "2026-11-19T12:00:00",
-      "showTime": "11:30:00",
+      "showTime": "11:00:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f2fc06dec3ac04ba7ac6477d20e77f1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e64fd68755d9915892cf98aa9e54113.jpg"
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "Teleshopping",
-      "description": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.",
+      "showName": "Tele Shopping",
+      "description": "The host provides the features and specifications of a wide range of products which can be purchased from the comforts of one's home.",
       "startDate": "2026-11-19T12:00:00",
       "endDate": "2026-11-19T12:30:00",
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a9232e25faa8910c7b16edde3879d505.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad0e13ea98570622706f1b7daa8aaa09.jpg"
     },
     {
       "serverDate": "2026-11-19",
@@ -3254,102 +2682,80 @@
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "Mu Bi Namita Agarwal Hebi",
-      "description": "Aspiring singers from all over Odisha compete against each other and try to impress the judges in a singing competition.",
+      "showName": "Bhakti Kantha",
+      "description": "Several contestants across different age groups showcase their singing talents in front of renowned musical personalities.",
       "startDate": "2026-11-19T13:00:00",
       "endDate": "2026-11-19T14:00:00",
       "showTime": "13:00:00",
       "endTime": "14:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17186101ef167071b7f2dd18c6db5c7b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dac62d2bf147940a614825fa30dadde0.jpg"
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "Teleshopping",
-      "description": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.",
+      "showName": "Tele Shopping",
+      "description": "The host provides the features and specifications of a wide range of products which can be purchased from the comforts of one's home.",
       "startDate": "2026-11-19T14:00:00",
       "endDate": "2026-11-19T14:30:00",
       "showTime": "14:00:00",
       "endTime": "14:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a9232e25faa8910c7b16edde3879d505.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad0e13ea98570622706f1b7daa8aaa09.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "Bharata Leela",
+      "description": "Talented artists sing and dance as they perform 'Bharata Lila', an Indian performing theatre form of the Ganjam district of Odisha.",
+      "startDate": "2026-11-19T14:30:00",
+      "endDate": "2026-11-19T15:30:00",
+      "showTime": "14:30:00",
+      "endTime": "15:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8391fbf631961a8d162c740a276094e2.jpg"
     },
     {
       "serverDate": "2026-11-19",
       "showName": "Bhajan Dhara",
       "description": "A religious leader worships an important and revered deity and pays tribute to their glory by singing sacred devotional songs.",
-      "startDate": "2026-11-19T14:30:00",
-      "endDate": "2026-11-19T15:00:00",
-      "showTime": "14:30:00",
-      "endTime": "15:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
-    },
-    {
-      "serverDate": "2026-11-19",
-      "showName": "Chande Chande Bhakti",
-      "description": "Devotees sing soul-stirring songs and melodious hymns in praise of the Almighty to invoke the spirit of devotion and seek divine blessings.",
-      "startDate": "2026-11-19T15:00:00",
-      "endDate": "2026-11-19T15:30:00",
-      "showTime": "15:00:00",
-      "endTime": "15:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2178a7db82763e1af376bd19957b6b7e.jpg"
-    },
-    {
-      "serverDate": "2026-11-19",
-      "showName": "Teleshopping",
-      "description": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.",
       "startDate": "2026-11-19T15:30:00",
       "endDate": "2026-11-19T16:00:00",
       "showTime": "15:30:00",
       "endTime": "16:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a9232e25faa8910c7b16edde3879d505.jpg"
-    },
-    {
-      "serverDate": "2026-11-19",
-      "showName": "Bhajan Dhara",
-      "description": "A religious leader worships an important and revered deity and pays tribute to their glory by singing sacred devotional songs.",
-      "startDate": "2026-11-19T16:00:00",
-      "endDate": "2026-11-19T16:30:00",
-      "showTime": "16:00:00",
-      "endTime": "16:30:00",
-      "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "Bhakti Sangam",
-      "description": "A comprehensive compilation of devotional songs and prayers recorded in honour of different gods and goddesses worshipped by people of various faiths.",
-      "startDate": "2026-11-19T16:30:00",
+      "showName": "Bhakti Kantha",
+      "description": "Several contestants across different age groups showcase their singing talents in front of renowned musical personalities.",
+      "startDate": "2026-11-19T16:00:00",
       "endDate": "2026-11-19T17:00:00",
-      "showTime": "16:30:00",
+      "showTime": "16:00:00",
       "endTime": "17:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df54fdb51a8e495e6353f3a2368dcb6b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dac62d2bf147940a614825fa30dadde0.jpg"
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "Bhajan Ganga",
-      "description": "A religious leader guides a congregation of devout Hindus into prayerful meditation and sings soulful hymns in praise of the Almighty.",
+      "showName": "Bhajan",
+      "description": "An engaging compilation of spiritual hymns and divine melodies presented by renowned devotional singers from across the globe.",
       "startDate": "2026-11-19T17:00:00",
       "endDate": "2026-11-19T17:30:00",
       "showTime": "17:00:00",
       "endTime": "17:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0e33666e0d4e055604a60b241b964c1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a28d5f8754df8790b679b2148f9f64b0.jpg"
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "Bhajan Ganga",
-      "description": "A religious leader guides a congregation of devout Hindus into prayerful meditation and sings soulful hymns in praise of the Almighty.",
+      "showName": "Kartika Mahatmya",
+      "description": "A spiritual guide extols Kartika's virtues through devotional songs and prayers, emphasising the month's sacred significance in Hindu tradition.",
       "startDate": "2026-11-19T17:30:00",
       "endDate": "2026-11-19T18:00:00",
       "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0e33666e0d4e055604a60b241b964c1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be798bfc7160f663f28a24a74c70f281.jpg"
     },
     {
       "serverDate": "2026-11-19",
@@ -3364,102 +2770,498 @@
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "Hari Bansa",
-      "description": "A religious leader delivers a discourse on spirituality by sharing glorious stories of Lord Krishna and singing hymns to help devotees lead a life of righteousness.",
+      "showName": "Deula Tola",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-19T18:30:00",
       "endDate": "2026-11-19T19:00:00",
       "showTime": "18:30:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/994ae08af5d54d01b5fe8b1298268b31.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26eb8e24818b05c39c6d1ba0dbfa631e.jpg"
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "Satya Pathe Ghenija Mote",
-      "description": "A religious leader sheds light on the divine teachings of Hinduism and urges the devotees to follow the path of compassion.",
+      "showName": "Bal Krushna",
+      "description": "Bringing the best in television.",
       "startDate": "2026-11-19T19:00:00",
-      "endDate": "2026-11-19T19:30:00",
-      "showTime": "19:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0de171a368fb173d916e69932d2c02b1.jpg"
-    },
-    {
-      "serverDate": "2026-11-19",
-      "showName": "Satya Siva Sundara",
-      "description": "A religious leader sheds light on various teachings and principles from the Hindu scriptures and encourages followers to reflect on the same.",
-      "startDate": "2026-11-19T19:30:00",
       "endDate": "2026-11-19T20:00:00",
-      "showTime": "19:30:00",
+      "showTime": "19:00:00",
       "endTime": "20:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5351cce124556352ff8329fb1609c3e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dd1601558cd1503f7125d3cf5c24f638.jpg"
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "Bhajan Padyantari",
-      "description": "Talented artists showcase their talent by performing devotional songs in front of a panel of judges and compete to win the coveted title.",
+      "showName": "Bhakti Kantha",
+      "description": "Several contestants across different age groups showcase their singing talents in front of renowned musical personalities.",
       "startDate": "2026-11-19T20:00:00",
       "endDate": "2026-11-19T21:00:00",
       "showTime": "20:00:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ecfe4ba54bedf7212c7551f6feea9c64.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dac62d2bf147940a614825fa30dadde0.jpg"
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "Ladhei Pala",
-      "description": "An electrifying musical showdown commences as two groups of talented musicians compete, striving to captivate hearts and claim victory.",
+      "showName": "Prahllada Nataka",
+      "description": "Prahllada Nataka",
       "startDate": "2026-11-19T21:00:00",
-      "endDate": "2026-11-19T21:30:00",
-      "showTime": "21:00:00",
-      "endTime": "21:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f2fc06dec3ac04ba7ac6477d20e77f1.jpg"
-    },
-    {
-      "serverDate": "2026-11-19",
-      "showName": "Ladhei Pala",
-      "description": "An electrifying musical showdown commences as two groups of talented musicians compete, striving to captivate hearts and claim victory.",
-      "startDate": "2026-11-19T21:30:00",
       "endDate": "2026-11-19T22:00:00",
-      "showTime": "21:30:00",
+      "showTime": "21:00:00",
       "endTime": "22:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f2fc06dec3ac04ba7ac6477d20e77f1.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7fdc9ff7326ddd5286b9883922a69b94.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "Bharata Leela",
+      "description": "Talented artists sing and dance as they perform 'Bharata Lila', an Indian performing theatre form of the Ganjam district of Odisha.",
+      "startDate": "2026-11-19T22:00:00",
+      "endDate": "2026-11-19T23:00:00",
+      "showTime": "22:00:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8391fbf631961a8d162c740a276094e2.jpg"
     },
     {
       "serverDate": "2026-11-19",
       "showName": "Bhagya Darshan",
       "description": "A renowned astrologer presents a detailed reading of horoscopes and provides tips as well as answers to various queries of viewers.",
-      "startDate": "2026-11-19T22:00:00",
-      "endDate": "2026-11-19T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
+      "startDate": "2026-11-19T23:00:00",
+      "endDate": "2026-11-19T23:30:00",
+      "showTime": "23:00:00",
+      "endTime": "23:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/704c6a6978807c8fea8e9bbd3b12488e.jpg"
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "Padyantari",
-      "description": "Various contestants compete against each other in a series of musical games in order to emerge victorious and win the prize.",
-      "startDate": "2026-11-19T22:30:00",
-      "endDate": "2026-11-19T23:30:00",
-      "showTime": "22:30:00",
-      "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a21affe91a470880baa08a51e44c6838.jpg"
-    },
-    {
-      "serverDate": "2026-11-19",
-      "showName": "Golden Album Song",
-      "description": "A comprehensive compilation of popular songs recorded by renowned musicians who dabble in diverse styles and genres of music.",
+      "showName": "Chande Chande Bhakti",
+      "description": "Devotees sing soul-stirring songs and melodious hymns in praise of the Almighty to invoke the spirit of devotion and seek divine blessings.",
       "startDate": "2026-11-19T23:30:00",
       "endDate": "2026-11-19T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee93644bce59b145cde81590b85dbb4b.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2178a7db82763e1af376bd19957b6b7e.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Deula Tola",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-20T00:00:00",
+      "endDate": "2026-11-20T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26eb8e24818b05c39c6d1ba0dbfa631e.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Bhagya Darshan",
+      "description": "A renowned astrologer presents a detailed reading of horoscopes and provides tips as well as answers to various queries of viewers.",
+      "startDate": "2026-11-20T00:30:00",
+      "endDate": "2026-11-20T01:00:00",
+      "showTime": "00:30:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/704c6a6978807c8fea8e9bbd3b12488e.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Har Har Mahadev",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-20T01:00:00",
+      "endDate": "2026-11-20T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4deb198df26798dd582f4bbc5c40e5.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Har Har Mahadev",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-20T01:30:00",
+      "endDate": "2026-11-20T02:00:00",
+      "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4deb198df26798dd582f4bbc5c40e5.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Mu Bi Namita Agarwal Hebi",
+      "description": "Aspiring singers from all over Odisha compete against each other and try to impress the judges in a singing competition.",
+      "startDate": "2026-11-20T02:00:00",
+      "endDate": "2026-11-20T03:00:00",
+      "showTime": "02:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/17186101ef167071b7f2dd18c6db5c7b.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Ladhei Pala",
+      "description": "An electrifying musical showdown commences as two groups of talented musicians compete, striving to captivate hearts and claim victory.",
+      "startDate": "2026-11-20T03:00:00",
+      "endDate": "2026-11-20T04:00:00",
+      "showTime": "03:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f2fc06dec3ac04ba7ac6477d20e77f1.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Mahamantra",
+      "description": "A spiritual leader explores the power and significance of sacred chants, showcasing the transformative energy of mantras.",
+      "startDate": "2026-11-20T04:00:00",
+      "endDate": "2026-11-20T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3fb55346509c7354794bb6dc0c859d2a.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Sri Bishnu Sahasranama",
+      "description": "A comprehensive collection of songs, which comprises a list of Vishnu's 1,000 names, where each name praises one of his countless attributes.",
+      "startDate": "2026-11-20T04:30:00",
+      "endDate": "2026-11-20T05:00:00",
+      "showTime": "04:30:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/18f954691d9e70250593c195d172d58e.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Kartika Purana",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-20T05:00:00",
+      "endDate": "2026-11-20T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f70055411b044bc8c424826aa678f662.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Bhajan Dhara",
+      "description": "A religious leader worships an important and revered deity and pays tribute to their glory by singing sacred devotional songs.",
+      "startDate": "2026-11-20T05:30:00",
+      "endDate": "2026-11-20T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Bhagabata Tungi",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-20T06:00:00",
+      "endDate": "2026-11-20T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/20052aadbfa3d602b3904c15dc2ea3e9.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Bhajan Ganga",
+      "description": "A religious leader guides a congregation of devout Hindus into prayerful meditation and sings soulful hymns in praise of the Almighty.",
+      "startDate": "2026-11-20T06:30:00",
+      "endDate": "2026-11-20T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d0e33666e0d4e055604a60b241b964c1.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Deula Tola",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-20T07:00:00",
+      "endDate": "2026-11-20T07:30:00",
+      "showTime": "07:00:00",
+      "endTime": "07:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26eb8e24818b05c39c6d1ba0dbfa631e.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Bhagya Darshan",
+      "description": "A renowned astrologer presents a detailed reading of horoscopes and provides tips as well as answers to various queries of viewers.",
+      "startDate": "2026-11-20T07:30:00",
+      "endDate": "2026-11-20T08:00:00",
+      "showTime": "07:30:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/704c6a6978807c8fea8e9bbd3b12488e.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Garuda Purana",
+      "description": "Garuda Purana",
+      "startDate": "2026-11-20T08:00:00",
+      "endDate": "2026-11-20T08:30:00",
+      "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ea105ff6bab978777564200aa022d0da.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Jibana Jigyansa",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-20T08:30:00",
+      "endDate": "2026-11-20T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eb2f974f66ad223dcf2eba208beb7e04.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Kartika Mahatmya",
+      "description": "A spiritual guide extols Kartika's virtues through devotional songs and prayers, emphasising the month's sacred significance in Hindu tradition.",
+      "startDate": "2026-11-20T09:00:00",
+      "endDate": "2026-11-20T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be798bfc7160f663f28a24a74c70f281.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Chande Chande Bhakti",
+      "description": "Devotees sing soul-stirring songs and melodious hymns in praise of the Almighty to invoke the spirit of devotion and seek divine blessings.",
+      "startDate": "2026-11-20T09:30:00",
+      "endDate": "2026-11-20T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2178a7db82763e1af376bd19957b6b7e.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Bhajan Dhara",
+      "description": "A religious leader worships an important and revered deity and pays tribute to their glory by singing sacred devotional songs.",
+      "startDate": "2026-11-20T10:00:00",
+      "endDate": "2026-11-20T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Tele Shopping",
+      "description": "The host provides the features and specifications of a wide range of products which can be purchased from the comforts of one's home.",
+      "startDate": "2026-11-20T10:30:00",
+      "endDate": "2026-11-20T11:00:00",
+      "showTime": "10:30:00",
+      "endTime": "11:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad0e13ea98570622706f1b7daa8aaa09.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Ram Leela",
+      "description": "Ram Leela",
+      "startDate": "2026-11-20T11:00:00",
+      "endDate": "2026-11-20T12:00:00",
+      "showTime": "11:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ac5fde8512d16616e618b6754afff374.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Tele Shopping",
+      "description": "The host provides the features and specifications of a wide range of products which can be purchased from the comforts of one's home.",
+      "startDate": "2026-11-20T12:00:00",
+      "endDate": "2026-11-20T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad0e13ea98570622706f1b7daa8aaa09.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Chande Chande Bhakti",
+      "description": "Devotees sing soul-stirring songs and melodious hymns in praise of the Almighty to invoke the spirit of devotion and seek divine blessings.",
+      "startDate": "2026-11-20T12:30:00",
+      "endDate": "2026-11-20T13:00:00",
+      "showTime": "12:30:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2178a7db82763e1af376bd19957b6b7e.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Bhakti Kantha",
+      "description": "Several contestants across different age groups showcase their singing talents in front of renowned musical personalities.",
+      "startDate": "2026-11-20T13:00:00",
+      "endDate": "2026-11-20T14:00:00",
+      "showTime": "13:00:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dac62d2bf147940a614825fa30dadde0.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Tele Shopping",
+      "description": "The host provides the features and specifications of a wide range of products which can be purchased from the comforts of one's home.",
+      "startDate": "2026-11-20T14:00:00",
+      "endDate": "2026-11-20T14:30:00",
+      "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad0e13ea98570622706f1b7daa8aaa09.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Ladhei Pala",
+      "description": "An electrifying musical showdown commences as two groups of talented musicians compete, striving to captivate hearts and claim victory.",
+      "startDate": "2026-11-20T14:30:00",
+      "endDate": "2026-11-20T15:30:00",
+      "showTime": "14:30:00",
+      "endTime": "15:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f2fc06dec3ac04ba7ac6477d20e77f1.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Bhajan Dhara",
+      "description": "A religious leader worships an important and revered deity and pays tribute to their glory by singing sacred devotional songs.",
+      "startDate": "2026-11-20T15:30:00",
+      "endDate": "2026-11-20T16:00:00",
+      "showTime": "15:30:00",
+      "endTime": "16:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bf4fff288a07d3d56629b1814aea59fa.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Bhakti Kantha",
+      "description": "Several contestants across different age groups showcase their singing talents in front of renowned musical personalities.",
+      "startDate": "2026-11-20T16:00:00",
+      "endDate": "2026-11-20T17:00:00",
+      "showTime": "16:00:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dac62d2bf147940a614825fa30dadde0.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Bhajan",
+      "description": "An engaging compilation of spiritual hymns and divine melodies presented by renowned devotional singers from across the globe.",
+      "startDate": "2026-11-20T17:00:00",
+      "endDate": "2026-11-20T17:30:00",
+      "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a28d5f8754df8790b679b2148f9f64b0.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Kartika Mahatmya",
+      "description": "A spiritual guide extols Kartika's virtues through devotional songs and prayers, emphasising the month's sacred significance in Hindu tradition.",
+      "startDate": "2026-11-20T17:30:00",
+      "endDate": "2026-11-20T18:00:00",
+      "showTime": "17:30:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be798bfc7160f663f28a24a74c70f281.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Bhagabata Tungi",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-20T18:00:00",
+      "endDate": "2026-11-20T18:30:00",
+      "showTime": "18:00:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/20052aadbfa3d602b3904c15dc2ea3e9.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Deula Tola",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-20T18:30:00",
+      "endDate": "2026-11-20T19:00:00",
+      "showTime": "18:30:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/26eb8e24818b05c39c6d1ba0dbfa631e.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Bal Krushna",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-20T19:00:00",
+      "endDate": "2026-11-20T20:00:00",
+      "showTime": "19:00:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dd1601558cd1503f7125d3cf5c24f638.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Bhakti Kantha",
+      "description": "Several contestants across different age groups showcase their singing talents in front of renowned musical personalities.",
+      "startDate": "2026-11-20T20:00:00",
+      "endDate": "2026-11-20T21:00:00",
+      "showTime": "20:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/dac62d2bf147940a614825fa30dadde0.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Ghoda Nacha",
+      "description": "Professional dancers perform Ghoda Nacha, one of Odisha's popular folk dance forms which is mostly performed by aboriginal fishermen tribes like the Keot.",
+      "startDate": "2026-11-20T21:00:00",
+      "endDate": "2026-11-20T22:00:00",
+      "showTime": "21:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e64fd68755d9915892cf98aa9e54113.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Odisi Kirtana",
+      "description": "A religious singer sings and performs classical songs and music, that are devotional in nature, from the state of Odisha.",
+      "startDate": "2026-11-20T22:00:00",
+      "endDate": "2026-11-20T23:00:00",
+      "showTime": "22:00:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/14a5d615774e8fbc8e0884bac388812e.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Bhagya Darshan",
+      "description": "A renowned astrologer presents a detailed reading of horoscopes and provides tips as well as answers to various queries of viewers.",
+      "startDate": "2026-11-20T23:00:00",
+      "endDate": "2026-11-20T23:30:00",
+      "showTime": "23:00:00",
+      "endTime": "23:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/704c6a6978807c8fea8e9bbd3b12488e.jpg"
+    },
+    {
+      "serverDate": "2026-11-20",
+      "showName": "Chande Chande Bhakti",
+      "description": "Devotees sing soul-stirring songs and melodious hymns in praise of the Almighty to invoke the spirit of devotion and seek divine blessings.",
+      "startDate": "2026-11-20T23:30:00",
+      "endDate": "2026-11-20T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2178a7db82763e1af376bd19957b6b7e.jpg"
     }
   ]
 }

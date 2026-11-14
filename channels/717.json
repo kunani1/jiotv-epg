@@ -8,215 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/News18Bangla.png",
   "programs": [
     {
-      "serverDate": "2026-11-13",
-      "showName": "Advertisement",
-      "description": "The host showcases a wide range of products manufactured by popular brands can be purchased from the comfort of one's home.",
-      "startDate": "2026-11-13T00:00:00",
-      "endDate": "2026-11-13T00:30:00",
-      "showTime": "00:00:00",
-      "endTime": "00:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/04ef0a3e2a13de4564dadb69de7c3602.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "Newsroom Live",
-      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
-      "startDate": "2026-11-13T00:30:00",
-      "endDate": "2026-11-13T06:00:00",
-      "showTime": "00:30:00",
-      "endTime": "06:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "Newsroom Live",
-      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
-      "startDate": "2026-11-13T06:00:00",
-      "endDate": "2026-11-13T07:00:00",
-      "showTime": "06:00:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "Saat Sakal",
-      "description": "The host provides a comprehensive roundup of the week's top stories, covering political, social, economic and sports developments from India and around the globe.",
-      "startDate": "2026-11-13T07:00:00",
-      "endDate": "2026-11-13T09:00:00",
-      "showTime": "07:00:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/611f6dc0c3a488126a4ee60c8a84e3ea.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "18 Ana Khobor",
-      "description": "18 Ana Khobor",
-      "startDate": "2026-11-13T09:00:00",
-      "endDate": "2026-11-13T12:00:00",
-      "showTime": "09:00:00",
-      "endTime": "12:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c451723975077f78301df06ddd933fd.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "12 Tar Boro Khabor",
-      "description": "The host presents the latest stories and updates on various areas while providing insights on events and issues in the country and around the world.",
-      "startDate": "2026-11-13T12:00:00",
-      "endDate": "2026-11-13T13:00:00",
-      "showTime": "12:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a18d79e00c6469b17b2a1a30533fbd8f.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "18 Ana Khobor",
-      "description": "18 Ana Khobor",
-      "startDate": "2026-11-13T13:00:00",
-      "endDate": "2026-11-13T16:30:00",
-      "showTime": "13:00:00",
-      "endTime": "16:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c451723975077f78301df06ddd933fd.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "Khobor Fatafat",
-      "description": "Khobor Fatafat",
-      "startDate": "2026-11-13T16:30:00",
-      "endDate": "2026-11-13T17:00:00",
-      "showTime": "16:30:00",
-      "endTime": "17:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/99734ba0c00ae27ec28c7941c8e005e3.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "Duare Didi",
-      "description": "Duare Didi",
-      "startDate": "2026-11-13T17:00:00",
-      "endDate": "2026-11-13T17:30:00",
-      "showTime": "17:00:00",
-      "endTime": "17:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25e75edda95e76f86105373844de9d41.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "18 Ana Khobor",
-      "description": "18 Ana Khobor",
-      "startDate": "2026-11-13T17:30:00",
-      "endDate": "2026-11-13T18:00:00",
-      "showTime": "17:30:00",
-      "endTime": "18:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c451723975077f78301df06ddd933fd.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "Prime Time18",
-      "description": "The host provides the latest information, advancements and developments regarding various political, economic and social issues.",
-      "startDate": "2026-11-13T18:00:00",
-      "endDate": "2026-11-13T19:00:00",
-      "showTime": "18:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c6072330ccb9f98df15de3fa941b9fb.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "Aamar Bangla",
-      "description": "The host talks about the latest socio-economic and political news and updates from various parts of the state of West Bengal.",
-      "startDate": "2026-11-13T19:00:00",
-      "endDate": "2026-11-13T19:30:00",
-      "showTime": "19:00:00",
-      "endTime": "19:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/196bccb9449010bbf381b5d7c8bb1f0c.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "Aamar Bangla",
-      "description": "The host talks about the latest socio-economic and political news and updates from various parts of the state of West Bengal.",
-      "startDate": "2026-11-13T19:30:00",
-      "endDate": "2026-11-13T20:00:00",
-      "showTime": "19:30:00",
-      "endTime": "20:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/196bccb9449010bbf381b5d7c8bb1f0c.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "Darbar",
-      "description": "The host invites various prominent personalities from different walks of life and engages them in an insightful conversation about their personal and professional lives.",
-      "startDate": "2026-11-13T20:00:00",
-      "endDate": "2026-11-13T21:00:00",
-      "showTime": "20:00:00",
-      "endTime": "21:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/353aa6ff87670455b7703aba0ceb1843.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "Newsroom Live",
-      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
-      "startDate": "2026-11-13T21:00:00",
-      "endDate": "2026-11-13T22:00:00",
-      "showTime": "21:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "Pathshala",
-      "description": "Pathshala",
-      "startDate": "2026-11-13T22:00:00",
-      "endDate": "2026-11-13T22:30:00",
-      "showTime": "22:00:00",
-      "endTime": "22:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5e132a227683a69fd840603c2a852eef.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "18 Ana Khobor",
-      "description": "18 Ana Khobor",
-      "startDate": "2026-11-13T22:30:00",
-      "endDate": "2026-11-13T23:00:00",
-      "showTime": "22:30:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c451723975077f78301df06ddd933fd.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "18 Ana Khobor",
-      "description": "18 Ana Khobor",
-      "startDate": "2026-11-13T23:00:00",
-      "endDate": "2026-11-13T23:30:00",
-      "showTime": "23:00:00",
-      "endTime": "23:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c451723975077f78301df06ddd933fd.jpg"
-    },
-    {
-      "serverDate": "2026-11-13",
-      "showName": "18 Ana Khobor",
-      "description": "18 Ana Khobor",
-      "startDate": "2026-11-13T23:30:00",
-      "endDate": "2026-11-13T23:59:59",
-      "showTime": "23:30:00",
-      "endTime": "23:59:59",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c451723975077f78301df06ddd933fd.jpg"
-    },
-    {
       "serverDate": "2026-11-14",
       "showName": "Advertisement",
       "description": "The host showcases a wide range of products manufactured by popular brands can be purchased from the comfort of one's home.",
@@ -911,14 +702,14 @@
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "18 Ana Khobor",
-      "description": "18 Ana Khobor",
+      "showName": "Jelae Jelae / Speed News",
+      "description": "Jelae Jelae / Speed News",
       "startDate": "2026-11-16T17:30:00",
       "endDate": "2026-11-16T18:00:00",
       "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c451723975077f78301df06ddd933fd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/64dada64fe9c69b3b0fd54676ab2fc20.jpg"
     },
     {
       "serverDate": "2026-11-16",
@@ -1021,36 +812,36 @@
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "18 Ana Khobor",
-      "description": "18 Ana Khobor",
+      "showName": "Khobordar",
+      "description": "Khobordar",
       "startDate": "2026-11-16T22:30:00",
       "endDate": "2026-11-16T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c451723975077f78301df06ddd933fd.jpg"
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Newsroom Live",
-      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
+      "showName": "Darbar",
+      "description": "The host invites various prominent personalities from different walks of life and engages them in an insightful conversation about their personal and professional lives.",
       "startDate": "2026-11-16T23:00:00",
       "endDate": "2026-11-16T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/353aa6ff87670455b7703aba0ceb1843.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "Newsroom Live",
-      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
+      "showName": "Darbar",
+      "description": "The host invites various prominent personalities from different walks of life and engages them in an insightful conversation about their personal and professional lives.",
       "startDate": "2026-11-16T23:30:00",
       "endDate": "2026-11-16T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/353aa6ff87670455b7703aba0ceb1843.jpg"
     },
     {
       "serverDate": "2026-11-17",
@@ -1439,14 +1230,14 @@
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "18 Ana Khobor",
-      "description": "18 Ana Khobor",
+      "showName": "Jelae Jelae / Speed News",
+      "description": "Jelae Jelae / Speed News",
       "startDate": "2026-11-17T17:30:00",
       "endDate": "2026-11-17T18:00:00",
       "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c451723975077f78301df06ddd933fd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/64dada64fe9c69b3b0fd54676ab2fc20.jpg"
     },
     {
       "serverDate": "2026-11-17",
@@ -1549,36 +1340,36 @@
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "18 Ana Khobor",
-      "description": "18 Ana Khobor",
+      "showName": "Khobordar",
+      "description": "Khobordar",
       "startDate": "2026-11-17T22:30:00",
       "endDate": "2026-11-17T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c451723975077f78301df06ddd933fd.jpg"
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Newsroom Live",
-      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
+      "showName": "Darbar",
+      "description": "The host invites various prominent personalities from different walks of life and engages them in an insightful conversation about their personal and professional lives.",
       "startDate": "2026-11-17T23:00:00",
       "endDate": "2026-11-17T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/353aa6ff87670455b7703aba0ceb1843.jpg"
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "Newsroom Live",
-      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
+      "showName": "Darbar",
+      "description": "The host invites various prominent personalities from different walks of life and engages them in an insightful conversation about their personal and professional lives.",
       "startDate": "2026-11-17T23:30:00",
       "endDate": "2026-11-17T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/353aa6ff87670455b7703aba0ceb1843.jpg"
     },
     {
       "serverDate": "2026-11-18",
@@ -1967,14 +1758,14 @@
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "18 Ana Khobor",
-      "description": "18 Ana Khobor",
+      "showName": "Jelae Jelae / Speed News",
+      "description": "Jelae Jelae / Speed News",
       "startDate": "2026-11-18T17:30:00",
       "endDate": "2026-11-18T18:00:00",
       "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c451723975077f78301df06ddd933fd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/64dada64fe9c69b3b0fd54676ab2fc20.jpg"
     },
     {
       "serverDate": "2026-11-18",
@@ -2077,36 +1868,36 @@
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "18 Ana Khobor",
-      "description": "18 Ana Khobor",
+      "showName": "Khobordar",
+      "description": "Khobordar",
       "startDate": "2026-11-18T22:30:00",
       "endDate": "2026-11-18T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c451723975077f78301df06ddd933fd.jpg"
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Newsroom Live",
-      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
+      "showName": "Darbar",
+      "description": "The host invites various prominent personalities from different walks of life and engages them in an insightful conversation about their personal and professional lives.",
       "startDate": "2026-11-18T23:00:00",
       "endDate": "2026-11-18T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/353aa6ff87670455b7703aba0ceb1843.jpg"
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Newsroom Live",
-      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
+      "showName": "Darbar",
+      "description": "The host invites various prominent personalities from different walks of life and engages them in an insightful conversation about their personal and professional lives.",
       "startDate": "2026-11-18T23:30:00",
       "endDate": "2026-11-18T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/353aa6ff87670455b7703aba0ceb1843.jpg"
     },
     {
       "serverDate": "2026-11-19",
@@ -2495,14 +2286,14 @@
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "18 Ana Khobor",
-      "description": "18 Ana Khobor",
+      "showName": "Jelae Jelae / Speed News",
+      "description": "Jelae Jelae / Speed News",
       "startDate": "2026-11-19T17:30:00",
       "endDate": "2026-11-19T18:00:00",
       "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c451723975077f78301df06ddd933fd.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/64dada64fe9c69b3b0fd54676ab2fc20.jpg"
     },
     {
       "serverDate": "2026-11-19",
@@ -2605,36 +2396,36 @@
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "18 Ana Khobor",
-      "description": "18 Ana Khobor",
+      "showName": "Khobordar",
+      "description": "Khobordar",
       "startDate": "2026-11-19T22:30:00",
       "endDate": "2026-11-19T23:00:00",
       "showTime": "22:30:00",
       "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9c451723975077f78301df06ddd933fd.jpg"
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "Newsroom Live",
-      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
+      "showName": "Darbar",
+      "description": "The host invites various prominent personalities from different walks of life and engages them in an insightful conversation about their personal and professional lives.",
       "startDate": "2026-11-19T23:00:00",
       "endDate": "2026-11-19T23:30:00",
       "showTime": "23:00:00",
       "endTime": "23:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/353aa6ff87670455b7703aba0ceb1843.jpg"
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "Newsroom Live",
-      "description": "The host talks about the latest and most important socio-economic and political news, updates and developments from the city and the world, live.",
+      "showName": "Darbar",
+      "description": "The host invites various prominent personalities from different walks of life and engages them in an insightful conversation about their personal and professional lives.",
       "startDate": "2026-11-19T23:30:00",
       "endDate": "2026-11-19T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/957288fc41a4fe4687d66508b851059e.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/353aa6ff87670455b7703aba0ceb1843.jpg"
     }
   ]
 }
