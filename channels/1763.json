@@ -8,6 +8,116 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png",
   "programs": [
     {
+      "serverDate": "2026-11-14",
+      "showName": "Dhoom",
+      "description": "A headstrong policeman and a simple-minded bike dealer embark on a high-speed pursuit of a handsome motorcyclist who has been thieving around in Mumbai.",
+      "startDate": "2026-11-14T00:00:00",
+      "endDate": "2026-11-14T00:34:00",
+      "showTime": "00:00:00",
+      "endTime": "00:34:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/68c1a7125d4129c43c80d6ebbf502eb8.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Naina",
+      "description": "After years of blindness caused by an accident, Naina gets a successful cornea transplant. However, she soon begins to see terrifying visions that prompt her to investigate the source of her sight.",
+      "startDate": "2026-11-14T00:34:00",
+      "endDate": "2026-11-14T02:18:00",
+      "showTime": "00:34:00",
+      "endTime": "02:18:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/15b09d06d30dd319f16cec42ebeff2e5.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Majboor",
+      "description": "India 1974; Thriller; Dir. Ravi Tandon; Cast: Amitabh Bachchan, Parveen Babi. Ravi leads a good life with his mother & sister. When he learns that he is ill, he falsely takes the blame for a murder.",
+      "startDate": "2026-11-14T02:18:00",
+      "endDate": "2026-11-14T04:37:00",
+      "showTime": "02:18:00",
+      "endTime": "04:37:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0ad29c49b104fc80f2419e58a6e8470a.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-14T04:37:00",
+      "endDate": "2026-11-14T05:31:00",
+      "showTime": "04:37:00",
+      "endTime": "05:31:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/75e4074277b8a5e86e992314d749b9bf.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Bumm Bumm Bole",
+      "description": "An idealist elder brother lands in a dilemma after he misplaces his little sister's shoes. Unable to afford a new pair, the siblings agree to share the shoes, leading to several escapades.",
+      "startDate": "2026-11-14T05:31:00",
+      "endDate": "2026-11-14T07:54:00",
+      "showTime": "05:31:00",
+      "endTime": "07:54:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fd7b3f2ec761d374cc1990e12c58733c.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Raju Chacha",
+      "description": "Raju is hired to pose as uncle to three orphaned kids in order to usurp their inheritance. But he changes his mind after falling in love with their governess and decides to fight the greedy relatives.",
+      "startDate": "2026-11-14T07:54:00",
+      "endDate": "2026-11-14T11:50:00",
+      "showTime": "07:54:00",
+      "endTime": "11:50:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f42de77c03b941781da0d8da7426e2e.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Tum Se Achcha Kaun Hai",
+      "description": "The daughter of a rich tycoon helps Arjun become a singing star. However, she falls in love with him, unaware that he is already in love with another girl.",
+      "startDate": "2026-11-14T11:50:00",
+      "endDate": "2026-11-14T14:34:00",
+      "showTime": "11:50:00",
+      "endTime": "14:34:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d76b6f415fd553a39417f5296c01c084.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Darr",
+      "description": "Swept up in a whirlwind of fear and romance, Kiran teeters on the edge of a mental and emotional precipice. While Sunil keeps holding on to her, Rahul spares no effort to drag her down with himself.",
+      "startDate": "2026-11-14T14:34:00",
+      "endDate": "2026-11-14T18:50:00",
+      "showTime": "14:34:00",
+      "endTime": "18:50:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61fa74a50c252f266cf32428bc188c73.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Jaisi Karni Waisi Bharni",
+      "description": "A conniving son throws his aged parents out of the house. Years later, he meets the same fate when his son decides to teach him a lesson.",
+      "startDate": "2026-11-14T18:50:00",
+      "endDate": "2026-11-14T22:12:00",
+      "showTime": "18:50:00",
+      "endTime": "22:12:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/498e9a3638f79dc0711530343c4d392a.jpg"
+    },
+    {
+      "serverDate": "2026-11-14",
+      "showName": "Thanedaar",
+      "description": "Orphaned and separated at a young age, two brothers grow up in opposing dimensions of society, only to cross paths years later as a policeman and a criminal.",
+      "startDate": "2026-11-14T22:12:00",
+      "endDate": "2026-11-14T23:59:59",
+      "showTime": "22:12:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/060d8d39b913e84933c18171b90fbb1f.jpg"
+    },
+    {
       "serverDate": "2026-11-15",
       "showName": "Thanedaar",
       "description": "Orphaned and separated at a young age, two brothers grow up in opposing dimensions of society, only to cross paths years later as a policeman and a criminal.",
@@ -622,6 +732,94 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e53df211ad7c0ada783d1c78928f99d5.jpg"
+    },
+    {
+      "serverDate": "2026-11-21",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-21T00:00:00",
+      "endDate": "2026-11-21T03:00:00",
+      "showTime": "00:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-11-21",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-21T03:00:00",
+      "endDate": "2026-11-21T06:00:00",
+      "showTime": "03:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-11-21",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-21T06:00:00",
+      "endDate": "2026-11-21T09:00:00",
+      "showTime": "06:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-11-21",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-21T09:00:00",
+      "endDate": "2026-11-21T12:00:00",
+      "showTime": "09:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-11-21",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-21T12:00:00",
+      "endDate": "2026-11-21T15:00:00",
+      "showTime": "12:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-11-21",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-21T15:00:00",
+      "endDate": "2026-11-21T18:00:00",
+      "showTime": "15:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-11-21",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-21T18:00:00",
+      "endDate": "2026-11-21T21:00:00",
+      "showTime": "18:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+    },
+    {
+      "serverDate": "2026-11-21",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-21T21:00:00",
+      "endDate": "2026-11-21T23:59:59",
+      "showTime": "21:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
     }
   ]
 }
