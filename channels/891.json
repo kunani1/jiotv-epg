@@ -346,18 +346,18 @@
       "showTime": "11:30:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d6fad5054626cae0aec290b3188163f.jpg"
     },
     {
       "serverDate": "2026-11-16",
-      "showName": "UFC 334: Gane vs. Hokit",
-      "description": "From Madison Square Garden in New York.",
+      "showName": "UFC 333: Volkanovski vs. Evloev",
+      "description": "From Etihad Arena in Dubayy, United Arab Emirates.",
       "startDate": "2026-11-16T12:00:00",
       "endDate": "2026-11-16T13:00:00",
       "showTime": "12:00:00",
       "endTime": "13:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d49c872ff5539d8b5f94c28a6264bd9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4d90e5c92b08a7bcd755f3bf050346f.jpg"
     },
     {
       "serverDate": "2026-11-16",
@@ -621,7 +621,7 @@
       "showTime": "11:00:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/98329839a1f89a0e642856948002c68a.jpg"
     },
     {
       "serverDate": "2026-11-17",
@@ -724,14 +724,14 @@
     },
     {
       "serverDate": "2026-11-17",
-      "showName": "UFC 334: Gane vs. Hokit",
-      "description": "From Madison Square Garden in New York.",
+      "showName": "UFC 333: Volkanovski vs. Evloev",
+      "description": "From Etihad Arena in Dubayy, United Arab Emirates.",
       "startDate": "2026-11-17T20:00:00",
       "endDate": "2026-11-17T21:00:00",
       "showTime": "20:00:00",
       "endTime": "21:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d49c872ff5539d8b5f94c28a6264bd9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4d90e5c92b08a7bcd755f3bf050346f.jpg"
     },
     {
       "serverDate": "2026-11-17",
@@ -1109,14 +1109,14 @@
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "UFC Fight Night: Bonfim vs. Brown",
-      "description": "From UFC Apex in Las Vegas.",
+      "showName": "UFC Fight Night: Cortes Acosta vs. Walker",
+      "description": "From Meta Apex in Las Vegas.",
       "startDate": "2026-11-19T01:00:00",
       "endDate": "2026-11-19T04:00:00",
       "showTime": "01:00:00",
       "endTime": "04:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e7401f044bba190e71ce771f7fabb31.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ffc425798133c09fa11f2612f6f92fa3.jpg"
     },
     {
       "serverDate": "2026-11-19",
@@ -1138,18 +1138,29 @@
       "showTime": "06:00:00",
       "endTime": "07:00:00",
       "showCategory": "Special",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/df5cb3d93521290e6549b72b49c94ec6.jpg"
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "UFC 334: Gane vs. Hokit",
-      "description": "From Madison Square Garden in New York.",
+      "showName": "UFC 333: Volkanovski vs. Evloev",
+      "description": "From Etihad Arena in Dubayy, United Arab Emirates.",
       "startDate": "2026-11-19T07:00:00",
-      "endDate": "2026-11-19T11:00:00",
+      "endDate": "2026-11-19T10:30:00",
       "showTime": "07:00:00",
-      "endTime": "11:00:00",
+      "endTime": "10:30:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9d49c872ff5539d8b5f94c28a6264bd9.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c4d90e5c92b08a7bcd755f3bf050346f.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "DP World Tour Highlights",
+      "description": "DP World Tour Highlights",
+      "startDate": "2026-11-19T10:30:00",
+      "endDate": "2026-11-19T11:00:00",
+      "showTime": "10:30:00",
+      "endTime": "11:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/563fb9b53c759f09c65d0774fb5f5c7e.jpg"
     },
     {
       "serverDate": "2026-11-19",
@@ -1208,14 +1219,14 @@
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "UFC Fight Night: Bonfim vs. Brown",
-      "description": "From UFC Apex in Las Vegas.",
+      "showName": "UFC Fight Night: Cortes Acosta vs. Walker",
+      "description": "From Meta Apex in Las Vegas.",
       "startDate": "2026-11-19T20:00:00",
       "endDate": "2026-11-19T21:00:00",
       "showTime": "20:00:00",
       "endTime": "21:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6e7401f044bba190e71ce771f7fabb31.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ffc425798133c09fa11f2612f6f92fa3.jpg"
     },
     {
       "serverDate": "2026-11-19",

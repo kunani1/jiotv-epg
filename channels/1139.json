@@ -8,6 +8,105 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Plus.png",
   "programs": [
     {
+      "serverDate": "2026-11-16",
+      "showName": "Gaddama",
+      "description": "Ashwathi, a lower-middle-class Malayali woman, comes to Saudi Arabia as a migrant worker. Unable to deal with torture at the workplace, she attempts to flee the country.",
+      "startDate": "2026-11-16T00:00:00",
+      "endDate": "2026-11-16T02:00:00",
+      "showTime": "00:00:00",
+      "endTime": "02:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/832cc98bb2cf2063f758376a269a9dbe.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Mattoral",
+      "description": "Susheela deserts her children and husband, Kaimal, to begin a new life with Giri. On learning this, Kaimal's friend, Balan, tries to reconcile them.",
+      "startDate": "2026-11-16T02:00:00",
+      "endDate": "2026-11-16T04:00:00",
+      "showTime": "02:00:00",
+      "endTime": "04:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e51a25e6dfd8f5ea073ac1de4181bcd8.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Out of Syllabus",
+      "description": "When village boy Gopikrishnan goes to study in a city college, he is bullied by his classmates. Namitha supports him through his difficult phase and they develop a close bond.",
+      "startDate": "2026-11-16T04:00:00",
+      "endDate": "2026-11-16T06:00:00",
+      "showTime": "04:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/34c2a2c77fb3c286143f6dc6484c6d52.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Prabhatha Sandhya",
+      "description": "Usha, a foreign-returned woman, falls in love with Balan, a poor school teacher. However, her family opposes their union and wants her to marry her cousin Thampi.",
+      "startDate": "2026-11-16T06:00:00",
+      "endDate": "2026-11-16T09:00:00",
+      "showTime": "06:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b1aa84de1f0303897734ddfa2e3415fb.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Parallel College",
+      "description": "To take his mind off of his dead lover, Ananthan accepts the position of a college professor. Soon, his life changes for the better and he finds solace in Sridevi's company.",
+      "startDate": "2026-11-16T09:00:00",
+      "endDate": "2026-11-16T12:00:00",
+      "showTime": "09:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3f50e619131547202ad801967ceb7333.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Kuttettan",
+      "description": "Although married, Vishnu is a habitual flirt and always looks out for an affair. When he is almost caught with a young girl in his house, he lies to his family that she is his illegitimate daughter.",
+      "startDate": "2026-11-16T12:00:00",
+      "endDate": "2026-11-16T15:00:00",
+      "showTime": "12:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b3201088d9a3a80ff8b92017ac89d0a5.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Agnidevan",
+      "description": "Two brothers are constantly at odds over continuing their family legacy. Eventually, their rivalry reaches extreme proportions, threatening to destroy the bond of brotherhood.",
+      "startDate": "2026-11-16T15:00:00",
+      "endDate": "2026-11-16T18:00:00",
+      "showTime": "15:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2b5ab73f2a3282851d1546073d9ca454.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "Nanma Niranjavan Sreenivasan",
+      "description": "Sreenivasan, a simple villager, is passionate about local theatre and hanging out with his friends. His life takes a turn when he applies for a job in the police department.",
+      "startDate": "2026-11-16T18:00:00",
+      "endDate": "2026-11-16T21:00:00",
+      "showTime": "18:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7e8df13f883d71213c2e51ffd13b7f8f.jpg"
+    },
+    {
+      "serverDate": "2026-11-16",
+      "showName": "London Bridge",
+      "description": "Vijay's life takes an unexpected turn when he falls for Merin. However, he is already betrothed to Pavithra, the daughter of an affluent man.",
+      "startDate": "2026-11-16T21:00:00",
+      "endDate": "2026-11-16T23:59:59",
+      "showTime": "21:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1889631b2607e306ed6800228abedd7b.jpg"
+    },
+    {
       "serverDate": "2026-11-17",
       "showName": "Movie",
       "description": "Bringing the best in cinema.",
