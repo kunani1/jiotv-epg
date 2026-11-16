@@ -8,6 +8,215 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Osar_Movies.png",
   "programs": [
     {
+      "serverDate": "2026-11-15",
+      "showName": "Dharam Katha",
+      "description": "A religious leader sheds light on the teachings of the Almighty and encourages followers to take the path of spirituality.",
+      "startDate": "2026-11-15T00:00:00",
+      "endDate": "2026-11-15T02:00:00",
+      "showTime": "00:00:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/08816e9a53108ac7b652f3f2648c79e4.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Mai Ke Jagran",
+      "description": "Devotees gather to participate in devotional singing, reading of religious texts and performances throughout the night in praise of the mother goddess.",
+      "startDate": "2026-11-15T02:00:00",
+      "endDate": "2026-11-15T03:30:00",
+      "showTime": "02:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5be64df0c473dcaaf42326d1ee10a710.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Sringar Aarti",
+      "description": "Priests and devotees from across the region perform elaborate rituals, offering heartfelt prayers and seeking blessings from the Almighty.",
+      "startDate": "2026-11-15T03:30:00",
+      "endDate": "2026-11-15T04:00:00",
+      "showTime": "03:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9dd6917c259c0f463e63964415f868ee.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Uga Ho Suraj Dev Arag Ke Bhail Ber",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-15T04:00:00",
+      "endDate": "2026-11-15T06:00:00",
+      "showTime": "04:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ced308761cbdb0367dfc8064853c42c2.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Bhakti Aradhana",
+      "description": "Various religious singers and musicians sing devotional songs in praise of the Almighty in order to help devotees get closer to God.",
+      "startDate": "2026-11-15T06:00:00",
+      "endDate": "2026-11-15T07:00:00",
+      "showTime": "06:00:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cfdc82400ecc0029e78866379d01d5be.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Jai Chhathi Maa",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-15T07:00:00",
+      "endDate": "2026-11-15T08:00:00",
+      "showTime": "07:00:00",
+      "endTime": "08:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/512d047c14d9ec551364f8eebd58b766.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Jai Chhathi Maa",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-15T08:00:00",
+      "endDate": "2026-11-15T08:30:00",
+      "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/512d047c14d9ec551364f8eebd58b766.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Jai Chhathi Maa",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-15T08:30:00",
+      "endDate": "2026-11-15T10:00:00",
+      "showTime": "08:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/512d047c14d9ec551364f8eebd58b766.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Chhath Maiya Ki Mahima",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-15T10:00:00",
+      "endDate": "2026-11-15T11:00:00",
+      "showTime": "10:00:00",
+      "endTime": "11:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8a68b8974489dd7872e64ffae94cae6.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Bhagwan Ho Ab Ketna Dur",
+      "description": "A mischievous yet kind-hearted simpleton, Durga, creates chaos in her village when her well-meaning actions often go hilariously wrong, leading to unexpected troubles for everyone around her.",
+      "startDate": "2026-11-15T11:00:00",
+      "endDate": "2026-11-15T13:00:00",
+      "showTime": "11:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/92048c6875949a100d0a593e564aa34f.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Chhathi Mai Ke Darbar",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-15T13:00:00",
+      "endDate": "2026-11-15T15:00:00",
+      "showTime": "13:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0de7d2f86aaa3042b6cb35843781ea2f.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Chhathi Mai Ke Darbar",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-15T15:00:00",
+      "endDate": "2026-11-15T16:00:00",
+      "showTime": "15:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0de7d2f86aaa3042b6cb35843781ea2f.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Om Namah Shivay",
+      "description": "Shiva, the destroyer god in Hindu mythology, sets off the creation of the universe which then leads to the formation of the twelve Jyotirlingas.",
+      "startDate": "2026-11-15T16:00:00",
+      "endDate": "2026-11-15T16:30:00",
+      "showTime": "16:00:00",
+      "endTime": "16:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0fefa6e65717173153c894f91ebb1788.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Om Namah Shivay",
+      "description": "Shiva, the destroyer god in Hindu mythology, sets off the creation of the universe which then leads to the formation of the twelve Jyotirlingas.",
+      "startDate": "2026-11-15T16:30:00",
+      "endDate": "2026-11-15T17:00:00",
+      "showTime": "16:30:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0fefa6e65717173153c894f91ebb1788.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Chhath Maiya Ki Mahima",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-15T17:00:00",
+      "endDate": "2026-11-15T18:00:00",
+      "showTime": "17:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8a68b8974489dd7872e64ffae94cae6.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Chhath Maiya Ki Mahima",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-15T18:00:00",
+      "endDate": "2026-11-15T19:00:00",
+      "showTime": "18:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8a68b8974489dd7872e64ffae94cae6.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Om Namah Shivay",
+      "description": "Shiva, the destroyer god in Hindu mythology, sets off the creation of the universe which then leads to the formation of the twelve Jyotirlingas.",
+      "startDate": "2026-11-15T19:00:00",
+      "endDate": "2026-11-15T20:00:00",
+      "showTime": "19:00:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0fefa6e65717173153c894f91ebb1788.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Chhath Maiya Ki Mahima",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-15T20:00:00",
+      "endDate": "2026-11-15T22:00:00",
+      "showTime": "20:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8a68b8974489dd7872e64ffae94cae6.jpg"
+    },
+    {
+      "serverDate": "2026-11-15",
+      "showName": "Chhath Maiya Ki Mahima",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-15T22:00:00",
+      "endDate": "2026-11-15T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8a68b8974489dd7872e64ffae94cae6.jpg"
+    },
+    {
       "serverDate": "2026-11-16",
       "showName": "Dharam Katha",
       "description": "A religious leader sheds light on the teachings of the Almighty and encourages followers to take the path of spirituality.",
@@ -137,7 +346,7 @@
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c7e544ea0d43dd9f34b2258a81b87971.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c33b39863b1817bf6c98f0062520f4c.jpg"
     },
     {
       "serverDate": "2026-11-16",
@@ -181,7 +390,7 @@
       "showTime": "16:00:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c7e544ea0d43dd9f34b2258a81b87971.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c33b39863b1817bf6c98f0062520f4c.jpg"
     },
     {
       "serverDate": "2026-11-16",
@@ -258,7 +467,7 @@
       "showTime": "21:00:00",
       "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c7e544ea0d43dd9f34b2258a81b87971.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c33b39863b1817bf6c98f0062520f4c.jpg"
     },
     {
       "serverDate": "2026-11-16",
@@ -423,7 +632,7 @@
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c7e544ea0d43dd9f34b2258a81b87971.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c33b39863b1817bf6c98f0062520f4c.jpg"
     },
     {
       "serverDate": "2026-11-17",
@@ -467,7 +676,7 @@
       "showTime": "16:00:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c7e544ea0d43dd9f34b2258a81b87971.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c33b39863b1817bf6c98f0062520f4c.jpg"
     },
     {
       "serverDate": "2026-11-17",
@@ -544,7 +753,7 @@
       "showTime": "21:00:00",
       "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c7e544ea0d43dd9f34b2258a81b87971.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c33b39863b1817bf6c98f0062520f4c.jpg"
     },
     {
       "serverDate": "2026-11-17",
@@ -709,7 +918,7 @@
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c7e544ea0d43dd9f34b2258a81b87971.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c33b39863b1817bf6c98f0062520f4c.jpg"
     },
     {
       "serverDate": "2026-11-18",
@@ -753,7 +962,7 @@
       "showTime": "16:00:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c7e544ea0d43dd9f34b2258a81b87971.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c33b39863b1817bf6c98f0062520f4c.jpg"
     },
     {
       "serverDate": "2026-11-18",
@@ -830,7 +1039,7 @@
       "showTime": "21:00:00",
       "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c7e544ea0d43dd9f34b2258a81b87971.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c33b39863b1817bf6c98f0062520f4c.jpg"
     },
     {
       "serverDate": "2026-11-18",
@@ -995,7 +1204,7 @@
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c7e544ea0d43dd9f34b2258a81b87971.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c33b39863b1817bf6c98f0062520f4c.jpg"
     },
     {
       "serverDate": "2026-11-19",
@@ -1039,7 +1248,7 @@
       "showTime": "16:00:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c7e544ea0d43dd9f34b2258a81b87971.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c33b39863b1817bf6c98f0062520f4c.jpg"
     },
     {
       "serverDate": "2026-11-19",
@@ -1116,7 +1325,7 @@
       "showTime": "21:00:00",
       "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c7e544ea0d43dd9f34b2258a81b87971.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c33b39863b1817bf6c98f0062520f4c.jpg"
     },
     {
       "serverDate": "2026-11-19",
@@ -1281,7 +1490,7 @@
       "showTime": "12:00:00",
       "endTime": "12:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c7e544ea0d43dd9f34b2258a81b87971.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c33b39863b1817bf6c98f0062520f4c.jpg"
     },
     {
       "serverDate": "2026-11-20",
@@ -1325,7 +1534,7 @@
       "showTime": "16:00:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c7e544ea0d43dd9f34b2258a81b87971.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c33b39863b1817bf6c98f0062520f4c.jpg"
     },
     {
       "serverDate": "2026-11-20",
@@ -1402,7 +1611,7 @@
       "showTime": "21:00:00",
       "endTime": "21:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c7e544ea0d43dd9f34b2258a81b87971.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c33b39863b1817bf6c98f0062520f4c.jpg"
     },
     {
       "serverDate": "2026-11-20",
@@ -1520,6 +1729,94 @@
       "description": "Bringing the best in cinema.",
       "startDate": "2026-11-21T21:00:00",
       "endDate": "2026-11-21T23:59:59",
+      "showTime": "21:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
+    },
+    {
+      "serverDate": "2026-11-22",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-22T00:00:00",
+      "endDate": "2026-11-22T03:00:00",
+      "showTime": "00:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
+    },
+    {
+      "serverDate": "2026-11-22",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-22T03:00:00",
+      "endDate": "2026-11-22T06:00:00",
+      "showTime": "03:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
+    },
+    {
+      "serverDate": "2026-11-22",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-22T06:00:00",
+      "endDate": "2026-11-22T09:00:00",
+      "showTime": "06:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
+    },
+    {
+      "serverDate": "2026-11-22",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-22T09:00:00",
+      "endDate": "2026-11-22T12:00:00",
+      "showTime": "09:00:00",
+      "endTime": "12:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
+    },
+    {
+      "serverDate": "2026-11-22",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-22T12:00:00",
+      "endDate": "2026-11-22T15:00:00",
+      "showTime": "12:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
+    },
+    {
+      "serverDate": "2026-11-22",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-22T15:00:00",
+      "endDate": "2026-11-22T18:00:00",
+      "showTime": "15:00:00",
+      "endTime": "18:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
+    },
+    {
+      "serverDate": "2026-11-22",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-22T18:00:00",
+      "endDate": "2026-11-22T21:00:00",
+      "showTime": "18:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg"
+    },
+    {
+      "serverDate": "2026-11-22",
+      "showName": "Movie",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-22T21:00:00",
+      "endDate": "2026-11-22T23:59:59",
       "showTime": "21:00:00",
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
