@@ -306,44 +306,55 @@
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Movie",
-      "description": "Bringing the best in cinema.",
+      "showName": "Dharmika Phala",
+      "description": "An astrologer offers live predictions and insights for each zodiac sign, based on planetary movements and their impact on people's lives.",
       "startDate": "2026-11-18T13:00:00",
-      "endDate": "2026-11-18T15:00:00",
+      "endDate": "2026-11-18T14:00:00",
       "showTime": "13:00:00",
-      "endTime": "15:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c87226da3e5b00ba568b8339fa3bdcd.jpg"
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Movie",
-      "description": "Bringing the best in cinema.",
+      "showName": "Bari Comedy",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-18T14:00:00",
+      "endDate": "2026-11-18T15:00:00",
+      "showTime": "14:00:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d8f7fc56a75774eaa8165a94014e81c8.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Shivanaga",
+      "description": "Shiva and his wife, Nagamma, are held captive by his evil uncles who want to acquire his wealth. Soon, two snakes assume the form of Shiva and Nagamma to save them from their abusive family.",
       "startDate": "2026-11-18T15:00:00",
       "endDate": "2026-11-18T18:00:00",
       "showTime": "15:00:00",
       "endTime": "18:00:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5f189f1a87c8e6ac118c5f197b5c657f.jpg"
     },
     {
       "serverDate": "2026-11-18",
-      "showName": "Movie",
-      "description": "Bringing the best in cinema.",
+      "showName": "Chellida Raktha",
+      "description": "When a family is heavily discredited and humiliated in front of others, they set out to seek revenge on those who offended them.",
       "startDate": "2026-11-18T18:00:00",
-      "endDate": "2026-11-18T21:00:00",
+      "endDate": "2026-11-18T21:30:00",
       "showTime": "18:00:00",
-      "endTime": "21:00:00",
+      "endTime": "21:30:00",
       "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/50f9db4dc97b90f1e1d9400cd29409be.jpg"
     },
     {
       "serverDate": "2026-11-18",
       "showName": "Movie",
       "description": "Bringing the best in cinema.",
-      "startDate": "2026-11-18T21:00:00",
+      "startDate": "2026-11-18T21:30:00",
       "endDate": "2026-11-18T23:59:59",
-      "showTime": "21:00:00",
+      "showTime": "21:30:00",
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a510b955866769b4274a15f68db34e11.jpg"
