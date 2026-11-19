@@ -1127,7 +1127,7 @@
       "showTime": "19:00:00",
       "endTime": "19:15:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad2c38074aad6e549d6bdd460aaf2395.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29700a6801f6db20013fe79fefa6a8a3.jpg"
     },
     {
       "serverDate": "2026-11-19",
@@ -1226,7 +1226,7 @@
       "showTime": "23:00:00",
       "endTime": "23:15:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad2c38074aad6e549d6bdd460aaf2395.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29700a6801f6db20013fe79fefa6a8a3.jpg"
     },
     {
       "serverDate": "2026-11-19",
@@ -1369,7 +1369,7 @@
       "showTime": "03:45:00",
       "endTime": "04:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad2c38074aad6e549d6bdd460aaf2395.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29700a6801f6db20013fe79fefa6a8a3.jpg"
     },
     {
       "serverDate": "2026-11-20",
@@ -1523,7 +1523,7 @@
       "showTime": "08:30:00",
       "endTime": "08:45:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad2c38074aad6e549d6bdd460aaf2395.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29700a6801f6db20013fe79fefa6a8a3.jpg"
     },
     {
       "serverDate": "2026-11-20",
@@ -1831,7 +1831,7 @@
       "showTime": "23:30:00",
       "endTime": "23:45:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad2c38074aad6e549d6bdd460aaf2395.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29700a6801f6db20013fe79fefa6a8a3.jpg"
     },
     {
       "serverDate": "2026-11-20",
@@ -2040,7 +2040,7 @@
       "showTime": "09:00:00",
       "endTime": "09:15:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ad2c38074aad6e549d6bdd460aaf2395.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/29700a6801f6db20013fe79fefa6a8a3.jpg"
     },
     {
       "serverDate": "2026-11-21",
@@ -4160,6 +4160,611 @@
       "description": "The host presents a detailed account of the latest news updates and key developments on various pressing issues from across Taiwan.",
       "startDate": "2026-11-24T23:30:00",
       "endDate": "2026-11-24T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77da62081faf59bae187061c8fc216ce.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Zoom In, Zoom Out",
+      "description": "The host presents the latest updates on news stories, developments and current affairs from various sectors of society throughout Taiwan and the world.",
+      "startDate": "2026-11-25T00:00:00",
+      "endDate": "2026-11-25T00:15:00",
+      "showTime": "00:00:00",
+      "endTime": "00:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2e1a63d7e761a531836d8f494a32d939.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Linking 368 Taiwan",
+      "description": "Linking 368 Taiwan",
+      "startDate": "2026-11-25T00:15:00",
+      "endDate": "2026-11-25T01:00:00",
+      "showTime": "00:15:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0c9d07737fb5cdf706e5babbe7ba1d80.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Shipwrecks Taiwan",
+      "description": "The filmmaker highlights the rich marine biodiversity unique to a number of forgotten sunken ships across the sea in Taiwan.",
+      "startDate": "2026-11-25T01:00:00",
+      "endDate": "2026-11-25T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d8614c97e9f9c0545988de7dd91be43e.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "What's Up Taiwan!",
+      "description": "The host presents a detailed account of the latest news updates and key developments on various pressing issues from across Taiwan.",
+      "startDate": "2026-11-25T01:30:00",
+      "endDate": "2026-11-25T01:45:00",
+      "showTime": "01:30:00",
+      "endTime": "01:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77da62081faf59bae187061c8fc216ce.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "City Escape",
+      "description": "The host explores various hiking trails and outdoor trekking places situated on the outskirts of the multiple cities of Taiwan.",
+      "startDate": "2026-11-25T01:45:00",
+      "endDate": "2026-11-25T02:25:00",
+      "showTime": "01:45:00",
+      "endTime": "02:25:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b5a6c022b9ab022eeb5795fe213bb206.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Eye on the Weather",
+      "description": "The host presents a detailed insight into weather conditions and temperatures across major cities of the country and the globe.",
+      "startDate": "2026-11-25T02:25:00",
+      "endDate": "2026-11-25T02:30:00",
+      "showTime": "02:25:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7d0dd4d71a92d231506b53ec549a1b0.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "What's Up Taiwan!",
+      "description": "The host presents a detailed account of the latest news updates and key developments on various pressing issues from across Taiwan.",
+      "startDate": "2026-11-25T02:30:00",
+      "endDate": "2026-11-25T02:45:00",
+      "showTime": "02:30:00",
+      "endTime": "02:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77da62081faf59bae187061c8fc216ce.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Taiwan Calling",
+      "description": "Several local bands in Taiwan share their journey of inspiration and passion for creating unique indie music that has left a mark on the entertainment industry.",
+      "startDate": "2026-11-25T02:45:00",
+      "endDate": "2026-11-25T03:00:00",
+      "showTime": "02:45:00",
+      "endTime": "03:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0aac4ec9097d24b72ecdc20f08964f10.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "From Imagination To Embodiment",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-25T03:00:00",
+      "endDate": "2026-11-25T03:30:00",
+      "showTime": "03:00:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/062cc9e65d5374f2b494e5b11229fb96.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "What's Up Taiwan!",
+      "description": "The host presents a detailed account of the latest news updates and key developments on various pressing issues from across Taiwan.",
+      "startDate": "2026-11-25T03:30:00",
+      "endDate": "2026-11-25T03:45:00",
+      "showTime": "03:30:00",
+      "endTime": "03:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77da62081faf59bae187061c8fc216ce.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Hidden Gem Taiwan",
+      "description": "Bringing the best in series.",
+      "startDate": "2026-11-25T03:45:00",
+      "endDate": "2026-11-25T04:25:00",
+      "showTime": "03:45:00",
+      "endTime": "04:25:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/eff78bda8e3fa02bd03f4d0a88551245.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Eye on the Weather",
+      "description": "The host presents a detailed insight into weather conditions and temperatures across major cities of the country and the globe.",
+      "startDate": "2026-11-25T04:25:00",
+      "endDate": "2026-11-25T04:30:00",
+      "showTime": "04:25:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7d0dd4d71a92d231506b53ec549a1b0.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "What's Up Taiwan!",
+      "description": "The host presents a detailed account of the latest news updates and key developments on various pressing issues from across Taiwan.",
+      "startDate": "2026-11-25T04:30:00",
+      "endDate": "2026-11-25T04:45:00",
+      "showTime": "04:30:00",
+      "endTime": "04:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77da62081faf59bae187061c8fc216ce.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Zoom In, Zoom Out",
+      "description": "The host presents the latest updates on news stories, developments and current affairs from various sectors of society throughout Taiwan and the world.",
+      "startDate": "2026-11-25T04:45:00",
+      "endDate": "2026-11-25T05:00:00",
+      "showTime": "04:45:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2e1a63d7e761a531836d8f494a32d939.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Rise To Glory - Against All Odds",
+      "description": "The filmmaker explores Taiwan's challenging journey to victory in the 2024 WBSC Premier12 baseball championships, highlighting its impact on national identity and global recognition.",
+      "startDate": "2026-11-25T05:00:00",
+      "endDate": "2026-11-25T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89633b0c7c204cf68627964f604df156.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Taiwan Talks",
+      "description": "The host provides an analysis of the latest global developments, including social, political, economic, and governance issues from a Taiwanese perspective.",
+      "startDate": "2026-11-25T05:30:00",
+      "endDate": "2026-11-25T06:00:00",
+      "showTime": "05:30:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d2ea60c2cb19aa689a151665cfd8265c.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Botanical Wonders",
+      "description": "Jason J Wang, an American chef and botanist, together with Canadian scholar Trevor Padgett explores the regions of Taiwan and sheds light on the country's unique and native plants.",
+      "startDate": "2026-11-25T06:00:00",
+      "endDate": "2026-11-25T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9eed1bbf7b257e8d3ef85512d2eb98db.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "What's Up Taiwan!",
+      "description": "The host presents a detailed account of the latest news updates and key developments on various pressing issues from across Taiwan.",
+      "startDate": "2026-11-25T06:30:00",
+      "endDate": "2026-11-25T06:45:00",
+      "showTime": "06:30:00",
+      "endTime": "06:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77da62081faf59bae187061c8fc216ce.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Explore With Mandarin Radicals",
+      "description": "The hosts visit various places in Taiwan in order to explore the rich culture and history of the radicals of Mandarin language.",
+      "startDate": "2026-11-25T06:45:00",
+      "endDate": "2026-11-25T07:00:00",
+      "showTime": "06:45:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8a7d38e142c96a43627d575d9296c1b.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "City Escape",
+      "description": "The host explores various hiking trails and outdoor trekking places situated on the outskirts of the multiple cities of Taiwan.",
+      "startDate": "2026-11-25T07:00:00",
+      "endDate": "2026-11-25T07:25:00",
+      "showTime": "07:00:00",
+      "endTime": "07:25:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b5a6c022b9ab022eeb5795fe213bb206.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Eye on the Weather",
+      "description": "The host presents a detailed insight into weather conditions and temperatures across major cities of the country and the globe.",
+      "startDate": "2026-11-25T07:25:00",
+      "endDate": "2026-11-25T07:30:00",
+      "showTime": "07:25:00",
+      "endTime": "07:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7d0dd4d71a92d231506b53ec549a1b0.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "TaiwanPlus News",
+      "description": "The host provides a detailed overview of recent stories, developments and updates from different industries across Taiwan and other countries.",
+      "startDate": "2026-11-25T07:30:00",
+      "endDate": "2026-11-25T08:00:00",
+      "showTime": "07:30:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/07ca1e03403759168d8406e9e3c881d0.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "The Eternal Farm Villages",
+      "description": "The Maker shares stories of different villages where traditional farming practices endure, as communities pass down agricultural heritage despite modern pressures.",
+      "startDate": "2026-11-25T08:00:00",
+      "endDate": "2026-11-25T09:00:00",
+      "showTime": "08:00:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/497cd9429aa89ec3783a140537cb4d78.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "TaiwanPlus News",
+      "description": "The host provides a detailed overview of recent stories, developments and updates from different industries across Taiwan and other countries.",
+      "startDate": "2026-11-25T09:00:00",
+      "endDate": "2026-11-25T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/07ca1e03403759168d8406e9e3c881d0.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "What's Up Taiwan!",
+      "description": "The host presents a detailed account of the latest news updates and key developments on various pressing issues from across Taiwan.",
+      "startDate": "2026-11-25T09:30:00",
+      "endDate": "2026-11-25T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77da62081faf59bae187061c8fc216ce.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Rise To Glory - Against All Odds",
+      "description": "The filmmaker explores Taiwan's challenging journey to victory in the 2024 WBSC Premier12 baseball championships, highlighting its impact on national identity and global recognition.",
+      "startDate": "2026-11-25T10:00:00",
+      "endDate": "2026-11-25T10:30:00",
+      "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89633b0c7c204cf68627964f604df156.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Taiwan Talks",
+      "description": "The host provides an analysis of the latest global developments, including social, political, economic, and governance issues from a Taiwanese perspective.",
+      "startDate": "2026-11-25T10:30:00",
+      "endDate": "2026-11-25T11:00:00",
+      "showTime": "10:30:00",
+      "endTime": "11:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d2ea60c2cb19aa689a151665cfd8265c.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "TaiwanPlus News",
+      "description": "The host provides a detailed overview of recent stories, developments and updates from different industries across Taiwan and other countries.",
+      "startDate": "2026-11-25T11:00:00",
+      "endDate": "2026-11-25T11:30:00",
+      "showTime": "11:00:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/07ca1e03403759168d8406e9e3c881d0.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "City Escape",
+      "description": "The host explores various hiking trails and outdoor trekking places situated on the outskirts of the multiple cities of Taiwan.",
+      "startDate": "2026-11-25T11:30:00",
+      "endDate": "2026-11-25T12:00:00",
+      "showTime": "11:30:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b5a6c022b9ab022eeb5795fe213bb206.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Zoom In, Zoom Out",
+      "description": "The host presents the latest updates on news stories, developments and current affairs from various sectors of society throughout Taiwan and the world.",
+      "startDate": "2026-11-25T12:00:00",
+      "endDate": "2026-11-25T12:15:00",
+      "showTime": "12:00:00",
+      "endTime": "12:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2e1a63d7e761a531836d8f494a32d939.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Explore With Mandarin Radicals",
+      "description": "The hosts visit various places in Taiwan in order to explore the rich culture and history of the radicals of Mandarin language.",
+      "startDate": "2026-11-25T12:15:00",
+      "endDate": "2026-11-25T12:30:00",
+      "showTime": "12:15:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f8a7d38e142c96a43627d575d9296c1b.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "What's Up Taiwan!",
+      "description": "The host presents a detailed account of the latest news updates and key developments on various pressing issues from across Taiwan.",
+      "startDate": "2026-11-25T12:30:00",
+      "endDate": "2026-11-25T13:00:00",
+      "showTime": "12:30:00",
+      "endTime": "13:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77da62081faf59bae187061c8fc216ce.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Shipwrecks Taiwan",
+      "description": "The filmmaker highlights the rich marine biodiversity unique to a number of forgotten sunken ships across the sea in Taiwan.",
+      "startDate": "2026-11-25T13:00:00",
+      "endDate": "2026-11-25T13:30:00",
+      "showTime": "13:00:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d8614c97e9f9c0545988de7dd91be43e.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "TaiwanPlus News",
+      "description": "The host provides a detailed overview of recent stories, developments and updates from different industries across Taiwan and other countries.",
+      "startDate": "2026-11-25T13:30:00",
+      "endDate": "2026-11-25T14:00:00",
+      "showTime": "13:30:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/07ca1e03403759168d8406e9e3c881d0.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Taiwan Talks",
+      "description": "The host provides an analysis of the latest global developments, including social, political, economic, and governance issues from a Taiwanese perspective.",
+      "startDate": "2026-11-25T14:00:00",
+      "endDate": "2026-11-25T14:30:00",
+      "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d2ea60c2cb19aa689a151665cfd8265c.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "The Bikeman In Taiwan",
+      "description": "Danish cyclist Niels Ole Rasmussen embarks on a captivating journey along Taiwan's Cycle Route 1. Meanwhile, he encounters stunning landscapes, gracious locals and intriguing surprises at every bend.",
+      "startDate": "2026-11-25T14:30:00",
+      "endDate": "2026-11-25T15:00:00",
+      "showTime": "14:30:00",
+      "endTime": "15:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a61cd4a5a72f34c94cb1c7d610b8d83.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "What's Up Taiwan!",
+      "description": "The host presents a detailed account of the latest news updates and key developments on various pressing issues from across Taiwan.",
+      "startDate": "2026-11-25T15:00:00",
+      "endDate": "2026-11-25T15:30:00",
+      "showTime": "15:00:00",
+      "endTime": "15:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77da62081faf59bae187061c8fc216ce.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "The Chain Maker",
+      "description": "The Chain Maker",
+      "startDate": "2026-11-25T15:30:00",
+      "endDate": "2026-11-25T16:00:00",
+      "showTime": "15:30:00",
+      "endTime": "16:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be186e537e3964c574668e4836199d22.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Pup Nation",
+      "description": "The filmmaker sheds light on the interactions between dogs and humans in Taiwan, while exploring various aspects of canine life.",
+      "startDate": "2026-11-25T16:00:00",
+      "endDate": "2026-11-25T16:30:00",
+      "showTime": "16:00:00",
+      "endTime": "16:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f5fabd1361c42f4a3005591986bfcae2.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Taiwan Talks",
+      "description": "The host provides an analysis of the latest global developments, including social, political, economic, and governance issues from a Taiwanese perspective.",
+      "startDate": "2026-11-25T16:30:00",
+      "endDate": "2026-11-25T17:00:00",
+      "showTime": "16:30:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d2ea60c2cb19aa689a151665cfd8265c.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Rise To Glory - Against All Odds",
+      "description": "The filmmaker explores Taiwan's challenging journey to victory in the 2024 WBSC Premier12 baseball championships, highlighting its impact on national identity and global recognition.",
+      "startDate": "2026-11-25T17:00:00",
+      "endDate": "2026-11-25T17:30:00",
+      "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/89633b0c7c204cf68627964f604df156.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "City Escape",
+      "description": "The host explores various hiking trails and outdoor trekking places situated on the outskirts of the multiple cities of Taiwan.",
+      "startDate": "2026-11-25T17:30:00",
+      "endDate": "2026-11-25T18:00:00",
+      "showTime": "17:30:00",
+      "endTime": "18:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b5a6c022b9ab022eeb5795fe213bb206.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "The Bikeman In Taiwan",
+      "description": "Danish cyclist Niels Ole Rasmussen embarks on a captivating journey along Taiwan's Cycle Route 1. Meanwhile, he encounters stunning landscapes, gracious locals and intriguing surprises at every bend.",
+      "startDate": "2026-11-25T18:00:00",
+      "endDate": "2026-11-25T18:30:00",
+      "showTime": "18:00:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a61cd4a5a72f34c94cb1c7d610b8d83.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Slow Steps",
+      "description": "Slow Steps",
+      "startDate": "2026-11-25T18:30:00",
+      "endDate": "2026-11-25T19:00:00",
+      "showTime": "18:30:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/57879f6dd73826ad1084080b8f7def3a.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "DC Insiders",
+      "description": "Experts discuss how US foreign policy influences the future of Taiwan and the broader Indo-Pacific region. Delve into the intricate dynamics shaping international relations and regional stability.",
+      "startDate": "2026-11-25T19:00:00",
+      "endDate": "2026-11-25T19:30:00",
+      "showTime": "19:00:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fd385b7024ba644205924f8ac0d29aa2.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "TaiwanPlus News",
+      "description": "The host provides a detailed overview of recent stories, developments and updates from different industries across Taiwan and other countries.",
+      "startDate": "2026-11-25T19:30:00",
+      "endDate": "2026-11-25T20:00:00",
+      "showTime": "19:30:00",
+      "endTime": "20:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/07ca1e03403759168d8406e9e3c881d0.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Zoom In, Zoom Out",
+      "description": "The host presents the latest updates on news stories, developments and current affairs from various sectors of society throughout Taiwan and the world.",
+      "startDate": "2026-11-25T20:00:00",
+      "endDate": "2026-11-25T20:15:00",
+      "showTime": "20:00:00",
+      "endTime": "20:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2e1a63d7e761a531836d8f494a32d939.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Namaste Taiwan",
+      "description": "The host travels across Taiwan and offers detailed insights into the diverse lifestyles led by communities of Indian origins.",
+      "startDate": "2026-11-25T20:15:00",
+      "endDate": "2026-11-25T20:30:00",
+      "showTime": "20:15:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d924b123760380ca173cfc03705ea605.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "What's Up Taiwan!",
+      "description": "The host presents a detailed account of the latest news updates and key developments on various pressing issues from across Taiwan.",
+      "startDate": "2026-11-25T20:30:00",
+      "endDate": "2026-11-25T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77da62081faf59bae187061c8fc216ce.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "The Chain Maker",
+      "description": "The Chain Maker",
+      "startDate": "2026-11-25T21:00:00",
+      "endDate": "2026-11-25T21:30:00",
+      "showTime": "21:00:00",
+      "endTime": "21:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/be186e537e3964c574668e4836199d22.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "What's Up Taiwan!",
+      "description": "The host presents a detailed account of the latest news updates and key developments on various pressing issues from across Taiwan.",
+      "startDate": "2026-11-25T21:30:00",
+      "endDate": "2026-11-25T22:00:00",
+      "showTime": "21:30:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77da62081faf59bae187061c8fc216ce.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "Taiwan Talks",
+      "description": "The host provides an analysis of the latest global developments, including social, political, economic, and governance issues from a Taiwanese perspective.",
+      "startDate": "2026-11-25T22:00:00",
+      "endDate": "2026-11-25T22:30:00",
+      "showTime": "22:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d2ea60c2cb19aa689a151665cfd8265c.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "The Bikeman In Taiwan",
+      "description": "Danish cyclist Niels Ole Rasmussen embarks on a captivating journey along Taiwan's Cycle Route 1. Meanwhile, he encounters stunning landscapes, gracious locals and intriguing surprises at every bend.",
+      "startDate": "2026-11-25T22:30:00",
+      "endDate": "2026-11-25T23:00:00",
+      "showTime": "22:30:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1a61cd4a5a72f34c94cb1c7d610b8d83.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "DC Insiders",
+      "description": "Experts discuss how US foreign policy influences the future of Taiwan and the broader Indo-Pacific region. Delve into the intricate dynamics shaping international relations and regional stability.",
+      "startDate": "2026-11-25T23:00:00",
+      "endDate": "2026-11-25T23:30:00",
+      "showTime": "23:00:00",
+      "endTime": "23:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fd385b7024ba644205924f8ac0d29aa2.jpg"
+    },
+    {
+      "serverDate": "2026-11-25",
+      "showName": "What's Up Taiwan!",
+      "description": "The host presents a detailed account of the latest news updates and key developments on various pressing issues from across Taiwan.",
+      "startDate": "2026-11-25T23:30:00",
+      "endDate": "2026-11-25T23:59:59",
       "showTime": "23:30:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
