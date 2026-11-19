@@ -1079,22 +1079,11 @@
       "showName": "Today's Close-Up",
       "description": "Digging deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.",
       "startDate": "2026-11-19T11:00:00",
-      "endDate": "2026-11-19T11:30:00",
-      "showTime": "11:00:00",
-      "endTime": "11:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/509ca3c1a5aea17adad11e1e12a40be1.jpg"
-    },
-    {
-      "serverDate": "2026-11-19",
-      "showName": "Newsline Asia 24",
-      "description": "Daily news program that picks up the key news stories of the past 24 hours from Japan and around Asia.",
-      "startDate": "2026-11-19T11:30:00",
       "endDate": "2026-11-19T12:00:00",
-      "showTime": "11:30:00",
+      "showTime": "11:00:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d712b3a40d3e5461956203a045edc0f5.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/509ca3c1a5aea17adad11e1e12a40be1.jpg"
     },
     {
       "serverDate": "2026-11-19",
@@ -1112,11 +1101,22 @@
       "showName": "MATSURI: The Heartbeat of Japan",
       "description": "Traditional festivals called *matsuri* are found all over Japan. They present a diverse selection of *matsuri* and the preparations leading up to them. Each *matsuri* showcases a different side to Japan.",
       "startDate": "2026-11-19T12:15:00",
-      "endDate": "2026-11-19T12:25:00",
+      "endDate": "2026-11-19T12:20:00",
       "showTime": "12:15:00",
-      "endTime": "12:25:00",
+      "endTime": "12:20:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/da344c5951628b610caac1744dc99c98.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "Japan Delish 5min",
+      "description": "A banquet of foods from overseas adopted by the Japanese; from fare steeped in tradition to its many modern variations, uncover the histories at the heart of every dish.",
+      "startDate": "2026-11-19T12:20:00",
+      "endDate": "2026-11-19T12:25:00",
+      "showTime": "12:20:00",
+      "endTime": "12:25:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/002bb5673644348eff575a516c2b7c6c.jpg"
     },
     {
       "serverDate": "2026-11-19",
@@ -1167,11 +1167,33 @@
       "showName": "Grand Sumo Highlights",
       "description": "Sumo highlights from a range of tournaments that have taken place across the globe. Sumo is one of the most traditional Japanese sports and boasts a history going back more than 1500 years.",
       "startDate": "2026-11-19T14:00:00",
-      "endDate": "2026-11-19T14:27:00",
+      "endDate": "2026-11-19T14:06:00",
       "showTime": "14:00:00",
-      "endTime": "14:27:00",
+      "endTime": "14:06:00",
       "showCategory": "Sports non-event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/abfb45dab3ffb5ce2be33838d0dda75e.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "Heritage",
+      "description": "From documentaries to entertainment, explore Japanese culture.",
+      "startDate": "2026-11-19T14:06:00",
+      "endDate": "2026-11-19T14:21:00",
+      "showTime": "14:06:00",
+      "endTime": "14:21:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/442b429224c2dbae9f2aad198f1e8c0d.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "Japan Delish",
+      "description": "A closer look at a banquet of foods from overseas adopted by the Japanese. From fare steeped in tradition to its many modern variations, uncover the delicious histories at the heart of every dish.",
+      "startDate": "2026-11-19T14:21:00",
+      "endDate": "2026-11-19T14:27:00",
+      "showTime": "14:21:00",
+      "endTime": "14:27:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8810b4e59b684297ebe1e3736da33212.jpg"
     },
     {
       "serverDate": "2026-11-19",
@@ -1222,8 +1244,19 @@
       "showName": "Today's Close-Up",
       "description": "Digging deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.",
       "startDate": "2026-11-19T16:00:00",
-      "endDate": "2026-11-19T16:30:00",
+      "endDate": "2026-11-19T16:02:00",
       "showTime": "16:00:00",
+      "endTime": "16:02:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/509ca3c1a5aea17adad11e1e12a40be1.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "Today's Close-Up",
+      "description": "Digging deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.",
+      "startDate": "2026-11-19T16:02:00",
+      "endDate": "2026-11-19T16:30:00",
+      "showTime": "16:02:00",
       "endTime": "16:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/509ca3c1a5aea17adad11e1e12a40be1.jpg"

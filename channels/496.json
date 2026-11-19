@@ -8,6 +8,820 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/dw.png",
   "programs": [
     {
+      "serverDate": "2026-11-18",
+      "showName": "Eco India",
+      "description": "Featuring stories focused on creative and high-tech solutions to various environmental and socio-economic challenges faced by people across India and beyond.",
+      "startDate": "2026-11-18T00:00:00",
+      "endDate": "2026-11-18T00:30:00",
+      "showTime": "00:00:00",
+      "endTime": "00:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/313b47cccefc44c42f4359c2e91a8d67.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News",
+      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
+      "startDate": "2026-11-18T00:30:00",
+      "endDate": "2026-11-18T00:32:00",
+      "showTime": "00:30:00",
+      "endTime": "00:32:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News Focus",
+      "description": "News, off-beat stories and analysis of German and international affairs.",
+      "startDate": "2026-11-18T00:32:00",
+      "endDate": "2026-11-18T00:45:00",
+      "showTime": "00:32:00",
+      "endTime": "00:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/084ab89d61a3dbab25a9ebd8028612f6.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Best of DW-Online Content",
+      "description": "Presenting a selection of featured online content from DW.",
+      "startDate": "2026-11-18T00:45:00",
+      "endDate": "2026-11-18T01:00:00",
+      "showTime": "00:45:00",
+      "endTime": "01:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9aff95555e013cf3fd6de73d528ffecf.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Tomorrow Today",
+      "description": "Focusing on current research topics and ongoing projects, as well as scientific breakthroughs in Germany and across Europe.",
+      "startDate": "2026-11-18T01:00:00",
+      "endDate": "2026-11-18T01:30:00",
+      "showTime": "01:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/16639308fdf71b7fc514dec2cfcb2dc0.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News",
+      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
+      "startDate": "2026-11-18T01:30:00",
+      "endDate": "2026-11-18T02:00:00",
+      "showTime": "01:30:00",
+      "endTime": "02:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "The Day - News in Review",
+      "description": "Local and global news broadcast from Germany. Including current affairs, weather, sports, international events, political news, entertainment, environmental and technological advancements.",
+      "startDate": "2026-11-18T02:00:00",
+      "endDate": "2026-11-18T02:30:00",
+      "showTime": "02:00:00",
+      "endTime": "02:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5292c9966289e73173398414fa1a586d.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News",
+      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
+      "startDate": "2026-11-18T02:30:00",
+      "endDate": "2026-11-18T02:32:00",
+      "showTime": "02:30:00",
+      "endTime": "02:32:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News Focus",
+      "description": "News, off-beat stories and analysis of German and international affairs.",
+      "startDate": "2026-11-18T02:32:00",
+      "endDate": "2026-11-18T02:45:00",
+      "showTime": "02:32:00",
+      "endTime": "02:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/084ab89d61a3dbab25a9ebd8028612f6.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Close Up",
+      "description": "In-depth analysis and reporting on topical political issues and newsworthy events that are happening all over the world.",
+      "startDate": "2026-11-18T02:45:00",
+      "endDate": "2026-11-18T03:15:00",
+      "showTime": "02:45:00",
+      "endTime": "03:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7b51acf4b6494516d0389546a004ffe.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Shift",
+      "description": "An in-depth magazine for digital culture, issues and tech, directly from blogs and boardrooms.",
+      "startDate": "2026-11-18T03:15:00",
+      "endDate": "2026-11-18T03:30:00",
+      "showTime": "03:15:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/95786fb5e3cbfc8e9b0b2a11944759cb.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News",
+      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
+      "startDate": "2026-11-18T03:30:00",
+      "endDate": "2026-11-18T03:32:00",
+      "showTime": "03:30:00",
+      "endTime": "03:32:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "The Day - News in Review",
+      "description": "Local and global news broadcast from Germany. Including current affairs, weather, sports, international events, political news, entertainment, environmental and technological advancements.",
+      "startDate": "2026-11-18T03:32:00",
+      "endDate": "2026-11-18T04:00:00",
+      "showTime": "03:32:00",
+      "endTime": "04:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5292c9966289e73173398414fa1a586d.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "The 77 Percent",
+      "description": "Hard-hitting reports, personal stories and lively discussion from the 77 percent of Africans under the age of 35 years old.",
+      "startDate": "2026-11-18T04:00:00",
+      "endDate": "2026-11-18T04:30:00",
+      "showTime": "04:00:00",
+      "endTime": "04:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c575892c3a6b03ba9a89052be125ee0a.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News",
+      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
+      "startDate": "2026-11-18T04:30:00",
+      "endDate": "2026-11-18T04:32:00",
+      "showTime": "04:30:00",
+      "endTime": "04:32:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News Focus",
+      "description": "News, off-beat stories and analysis of German and international affairs.",
+      "startDate": "2026-11-18T04:32:00",
+      "endDate": "2026-11-18T04:45:00",
+      "showTime": "04:32:00",
+      "endTime": "04:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/084ab89d61a3dbab25a9ebd8028612f6.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Best of DW-Online Content",
+      "description": "Presenting a selection of featured online content from DW.",
+      "startDate": "2026-11-18T04:45:00",
+      "endDate": "2026-11-18T05:00:00",
+      "showTime": "04:45:00",
+      "endTime": "05:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9aff95555e013cf3fd6de73d528ffecf.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Global Us - What Connects Us All",
+      "description": "Offers insights and solutions to the problems occurring in the fast-paced world.",
+      "startDate": "2026-11-18T05:00:00",
+      "endDate": "2026-11-18T05:30:00",
+      "showTime": "05:00:00",
+      "endTime": "05:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ab0862e9274e2a145facfb3552bb8bc5.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News",
+      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
+      "startDate": "2026-11-18T05:30:00",
+      "endDate": "2026-11-18T05:32:00",
+      "showTime": "05:30:00",
+      "endTime": "05:32:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "The Day - News in Review",
+      "description": "Local and global news broadcast from Germany. Including current affairs, weather, sports, international events, political news, entertainment, environmental and technological advancements.",
+      "startDate": "2026-11-18T05:32:00",
+      "endDate": "2026-11-18T06:00:00",
+      "showTime": "05:32:00",
+      "endTime": "06:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5292c9966289e73173398414fa1a586d.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Made in Germany",
+      "description": "In a rapidly changing world, we examine the risks and benefits of digitalisation and its impact on the way we work, what we earn and how we live.",
+      "startDate": "2026-11-18T06:00:00",
+      "endDate": "2026-11-18T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fb33ce433b981c4670869f8986f15057.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News",
+      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
+      "startDate": "2026-11-18T06:30:00",
+      "endDate": "2026-11-18T06:32:00",
+      "showTime": "06:30:00",
+      "endTime": "06:32:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News Focus",
+      "description": "News, off-beat stories and analysis of German and international affairs.",
+      "startDate": "2026-11-18T06:32:00",
+      "endDate": "2026-11-18T06:45:00",
+      "showTime": "06:32:00",
+      "endTime": "06:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/084ab89d61a3dbab25a9ebd8028612f6.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Jellyfish: The Ocean's New Rulers",
+      "description": "Jellyfish blooms are on the rise. Could these ancient survivors be reshaping the oceans and challenging life beneath the waves?",
+      "startDate": "2026-11-18T06:45:00",
+      "endDate": "2026-11-18T07:30:00",
+      "showTime": "06:45:00",
+      "endTime": "07:30:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/351fbeb22b1b6025c4abd141c7b32833.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News",
+      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
+      "startDate": "2026-11-18T07:30:00",
+      "endDate": "2026-11-18T07:32:00",
+      "showTime": "07:30:00",
+      "endTime": "07:32:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "The Day - News in Review",
+      "description": "Local and global news broadcast from Germany. Including current affairs, weather, sports, international events, political news, entertainment, environmental and technological advancements.",
+      "startDate": "2026-11-18T07:32:00",
+      "endDate": "2026-11-18T08:00:00",
+      "showTime": "07:32:00",
+      "endTime": "08:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5292c9966289e73173398414fa1a586d.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Global Us",
+      "description": "A look at the biggest issues in the world today, including how people are living with opportunity and the ever-growing risks of globalisation.",
+      "startDate": "2026-11-18T08:00:00",
+      "endDate": "2026-11-18T08:30:00",
+      "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/edc6d7b234e398f0823865e2e62ef5f1.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News",
+      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
+      "startDate": "2026-11-18T08:30:00",
+      "endDate": "2026-11-18T08:32:00",
+      "showTime": "08:30:00",
+      "endTime": "08:32:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News Focus",
+      "description": "News, off-beat stories and analysis of German and international affairs.",
+      "startDate": "2026-11-18T08:32:00",
+      "endDate": "2026-11-18T08:50:00",
+      "showTime": "08:32:00",
+      "endTime": "08:50:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/084ab89d61a3dbab25a9ebd8028612f6.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Interview",
+      "description": "The host invites prominent personalities from around the world and interviews them about their opinions on various issues.",
+      "startDate": "2026-11-18T08:50:00",
+      "endDate": "2026-11-18T09:00:00",
+      "showTime": "08:50:00",
+      "endTime": "09:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/47ba0cb59d6168acbfca49c6f1712b7d.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Eco India",
+      "description": "Featuring stories focused on creative and high-tech solutions to various environmental and socio-economic challenges faced by people across India and beyond.",
+      "startDate": "2026-11-18T09:00:00",
+      "endDate": "2026-11-18T09:30:00",
+      "showTime": "09:00:00",
+      "endTime": "09:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/313b47cccefc44c42f4359c2e91a8d67.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News",
+      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
+      "startDate": "2026-11-18T09:30:00",
+      "endDate": "2026-11-18T09:32:00",
+      "showTime": "09:30:00",
+      "endTime": "09:32:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News Focus",
+      "description": "News, off-beat stories and analysis of German and international affairs.",
+      "startDate": "2026-11-18T09:32:00",
+      "endDate": "2026-11-18T09:45:00",
+      "showTime": "09:32:00",
+      "endTime": "09:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/084ab89d61a3dbab25a9ebd8028612f6.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Jellyfish: The Ocean's New Rulers",
+      "description": "Jellyfish blooms are on the rise. Could these ancient survivors be reshaping the oceans and challenging life beneath the waves?",
+      "startDate": "2026-11-18T09:45:00",
+      "endDate": "2026-11-18T10:30:00",
+      "showTime": "09:45:00",
+      "endTime": "10:30:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/351fbeb22b1b6025c4abd141c7b32833.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News",
+      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
+      "startDate": "2026-11-18T10:30:00",
+      "endDate": "2026-11-18T10:32:00",
+      "showTime": "10:30:00",
+      "endTime": "10:32:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "The Day - News in Review",
+      "description": "Local and global news broadcast from Germany. Including current affairs, weather, sports, international events, political news, entertainment, environmental and technological advancements.",
+      "startDate": "2026-11-18T10:32:00",
+      "endDate": "2026-11-18T11:00:00",
+      "showTime": "10:32:00",
+      "endTime": "11:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5292c9966289e73173398414fa1a586d.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Made in Germany",
+      "description": "In a rapidly changing world, we examine the risks and benefits of digitalisation and its impact on the way we work, what we earn and how we live.",
+      "startDate": "2026-11-18T11:00:00",
+      "endDate": "2026-11-18T11:30:00",
+      "showTime": "11:00:00",
+      "endTime": "11:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fb33ce433b981c4670869f8986f15057.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News",
+      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
+      "startDate": "2026-11-18T11:30:00",
+      "endDate": "2026-11-18T11:32:00",
+      "showTime": "11:30:00",
+      "endTime": "11:32:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News Focus",
+      "description": "News, off-beat stories and analysis of German and international affairs.",
+      "startDate": "2026-11-18T11:32:00",
+      "endDate": "2026-11-18T11:45:00",
+      "showTime": "11:32:00",
+      "endTime": "11:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/084ab89d61a3dbab25a9ebd8028612f6.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Interview",
+      "description": "The host invites prominent personalities from around the world and interviews them about their opinions on various issues.",
+      "startDate": "2026-11-18T11:45:00",
+      "endDate": "2026-11-18T12:00:00",
+      "showTime": "11:45:00",
+      "endTime": "12:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/47ba0cb59d6168acbfca49c6f1712b7d.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "In Good Shape",
+      "description": "How can we lead a healthy life? What is good for our body and soul? What kind of exercise can keep us fit?",
+      "startDate": "2026-11-18T12:00:00",
+      "endDate": "2026-11-18T12:30:00",
+      "showTime": "12:00:00",
+      "endTime": "12:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/60bc5c830ffa59a870df789abfd1aa7a.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News",
+      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
+      "startDate": "2026-11-18T12:30:00",
+      "endDate": "2026-11-18T12:32:00",
+      "showTime": "12:30:00",
+      "endTime": "12:32:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News Focus",
+      "description": "News, off-beat stories and analysis of German and international affairs.",
+      "startDate": "2026-11-18T12:32:00",
+      "endDate": "2026-11-18T12:45:00",
+      "showTime": "12:32:00",
+      "endTime": "12:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/084ab89d61a3dbab25a9ebd8028612f6.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Close Up",
+      "description": "In-depth analysis and reporting on topical political issues and newsworthy events that are happening all over the world.",
+      "startDate": "2026-11-18T12:45:00",
+      "endDate": "2026-11-18T13:15:00",
+      "showTime": "12:45:00",
+      "endTime": "13:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7b51acf4b6494516d0389546a004ffe.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Shift",
+      "description": "An in-depth magazine for digital culture, issues and tech, directly from blogs and boardrooms.",
+      "startDate": "2026-11-18T13:15:00",
+      "endDate": "2026-11-18T13:30:00",
+      "showTime": "13:15:00",
+      "endTime": "13:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/95786fb5e3cbfc8e9b0b2a11944759cb.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News",
+      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
+      "startDate": "2026-11-18T13:30:00",
+      "endDate": "2026-11-18T13:32:00",
+      "showTime": "13:30:00",
+      "endTime": "13:32:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "The 77 Percent",
+      "description": "Hard-hitting reports, personal stories and lively discussion from the 77 percent of Africans under the age of 35 years old.",
+      "startDate": "2026-11-18T13:32:00",
+      "endDate": "2026-11-18T14:00:00",
+      "showTime": "13:32:00",
+      "endTime": "14:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c575892c3a6b03ba9a89052be125ee0a.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Eco India",
+      "description": "Featuring stories focused on creative and high-tech solutions to various environmental and socio-economic challenges faced by people across India and beyond.",
+      "startDate": "2026-11-18T14:00:00",
+      "endDate": "2026-11-18T14:30:00",
+      "showTime": "14:00:00",
+      "endTime": "14:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/313b47cccefc44c42f4359c2e91a8d67.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News",
+      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
+      "startDate": "2026-11-18T14:30:00",
+      "endDate": "2026-11-18T14:33:00",
+      "showTime": "14:30:00",
+      "endTime": "14:33:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DocFilm",
+      "description": "Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.",
+      "startDate": "2026-11-18T14:33:00",
+      "endDate": "2026-11-18T15:30:00",
+      "showTime": "14:33:00",
+      "endTime": "15:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a05fe6bc6bd78c44ed6df66de6f0d727.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News",
+      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
+      "startDate": "2026-11-18T15:30:00",
+      "endDate": "2026-11-18T15:32:00",
+      "showTime": "15:30:00",
+      "endTime": "15:32:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News Focus",
+      "description": "News, off-beat stories and analysis of German and international affairs.",
+      "startDate": "2026-11-18T15:32:00",
+      "endDate": "2026-11-18T15:45:00",
+      "showTime": "15:32:00",
+      "endTime": "15:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/084ab89d61a3dbab25a9ebd8028612f6.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Close Up",
+      "description": "In-depth analysis and reporting on topical political issues and newsworthy events that are happening all over the world.",
+      "startDate": "2026-11-18T15:45:00",
+      "endDate": "2026-11-18T16:15:00",
+      "showTime": "15:45:00",
+      "endTime": "16:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7b51acf4b6494516d0389546a004ffe.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Shift",
+      "description": "An in-depth magazine for digital culture, issues and tech, directly from blogs and boardrooms.",
+      "startDate": "2026-11-18T16:15:00",
+      "endDate": "2026-11-18T16:30:00",
+      "showTime": "16:15:00",
+      "endTime": "16:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/95786fb5e3cbfc8e9b0b2a11944759cb.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News",
+      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
+      "startDate": "2026-11-18T16:30:00",
+      "endDate": "2026-11-18T16:32:00",
+      "showTime": "16:30:00",
+      "endTime": "16:32:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DocFilm",
+      "description": "Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.",
+      "startDate": "2026-11-18T16:32:00",
+      "endDate": "2026-11-18T17:00:00",
+      "showTime": "16:32:00",
+      "endTime": "17:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a05fe6bc6bd78c44ed6df66de6f0d727.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Made in Germany",
+      "description": "In a rapidly changing world, we examine the risks and benefits of digitalisation and its impact on the way we work, what we earn and how we live.",
+      "startDate": "2026-11-18T17:00:00",
+      "endDate": "2026-11-18T17:30:00",
+      "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fb33ce433b981c4670869f8986f15057.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News",
+      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
+      "startDate": "2026-11-18T17:30:00",
+      "endDate": "2026-11-18T17:32:00",
+      "showTime": "17:30:00",
+      "endTime": "17:32:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News Focus",
+      "description": "News, off-beat stories and analysis of German and international affairs.",
+      "startDate": "2026-11-18T17:32:00",
+      "endDate": "2026-11-18T17:45:00",
+      "showTime": "17:32:00",
+      "endTime": "17:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/084ab89d61a3dbab25a9ebd8028612f6.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DocFilm",
+      "description": "Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.",
+      "startDate": "2026-11-18T17:45:00",
+      "endDate": "2026-11-18T18:30:00",
+      "showTime": "17:45:00",
+      "endTime": "18:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a05fe6bc6bd78c44ed6df66de6f0d727.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News",
+      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
+      "startDate": "2026-11-18T18:30:00",
+      "endDate": "2026-11-18T18:32:00",
+      "showTime": "18:30:00",
+      "endTime": "18:32:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News Focus",
+      "description": "News, off-beat stories and analysis of German and international affairs.",
+      "startDate": "2026-11-18T18:32:00",
+      "endDate": "2026-11-18T18:45:00",
+      "showTime": "18:32:00",
+      "endTime": "18:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/084ab89d61a3dbab25a9ebd8028612f6.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Interview",
+      "description": "The host invites prominent personalities from around the world and interviews them about their opinions on various issues.",
+      "startDate": "2026-11-18T18:45:00",
+      "endDate": "2026-11-18T19:00:00",
+      "showTime": "18:45:00",
+      "endTime": "19:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/47ba0cb59d6168acbfca49c6f1712b7d.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Eco India",
+      "description": "Featuring stories focused on creative and high-tech solutions to various environmental and socio-economic challenges faced by people across India and beyond.",
+      "startDate": "2026-11-18T19:00:00",
+      "endDate": "2026-11-18T19:30:00",
+      "showTime": "19:00:00",
+      "endTime": "19:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/313b47cccefc44c42f4359c2e91a8d67.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News",
+      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
+      "startDate": "2026-11-18T19:30:00",
+      "endDate": "2026-11-18T19:33:00",
+      "showTime": "19:30:00",
+      "endTime": "19:33:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DocFilm",
+      "description": "Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.",
+      "startDate": "2026-11-18T19:33:00",
+      "endDate": "2026-11-18T20:30:00",
+      "showTime": "19:33:00",
+      "endTime": "20:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a05fe6bc6bd78c44ed6df66de6f0d727.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News",
+      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
+      "startDate": "2026-11-18T20:30:00",
+      "endDate": "2026-11-18T21:00:00",
+      "showTime": "20:30:00",
+      "endTime": "21:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Eco India",
+      "description": "Featuring stories focused on creative and high-tech solutions to various environmental and socio-economic challenges faced by people across India and beyond.",
+      "startDate": "2026-11-18T21:00:00",
+      "endDate": "2026-11-18T21:30:00",
+      "showTime": "21:00:00",
+      "endTime": "21:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/313b47cccefc44c42f4359c2e91a8d67.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News",
+      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
+      "startDate": "2026-11-18T21:30:00",
+      "endDate": "2026-11-18T22:00:00",
+      "showTime": "21:30:00",
+      "endTime": "22:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Made in Germany",
+      "description": "In a rapidly changing world, we examine the risks and benefits of digitalisation and its impact on the way we work, what we earn and how we live.",
+      "startDate": "2026-11-18T22:00:00",
+      "endDate": "2026-11-18T22:30:00",
+      "showTime": "22:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fb33ce433b981c4670869f8986f15057.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News",
+      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
+      "startDate": "2026-11-18T22:30:00",
+      "endDate": "2026-11-18T22:45:00",
+      "showTime": "22:30:00",
+      "endTime": "22:45:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Interview",
+      "description": "The host invites prominent personalities from around the world and interviews them about their opinions on various issues.",
+      "startDate": "2026-11-18T22:45:00",
+      "endDate": "2026-11-18T23:00:00",
+      "showTime": "22:45:00",
+      "endTime": "23:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/47ba0cb59d6168acbfca49c6f1712b7d.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "Close Up",
+      "description": "In-depth analysis and reporting on topical political issues and newsworthy events that are happening all over the world.",
+      "startDate": "2026-11-18T23:00:00",
+      "endDate": "2026-11-18T23:30:00",
+      "showTime": "23:00:00",
+      "endTime": "23:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f7b51acf4b6494516d0389546a004ffe.jpg"
+    },
+    {
+      "serverDate": "2026-11-18",
+      "showName": "DW News",
+      "description": "Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.",
+      "startDate": "2026-11-18T23:30:00",
+      "endDate": "2026-11-18T23:59:59",
+      "showTime": "23:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/58b579672b46cee35c49bd5215ec5484.jpg"
+    },
+    {
       "serverDate": "2026-11-19",
       "showName": "DocFilm",
       "description": "Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.",
@@ -647,14 +1461,14 @@
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "History",
-      "description": "Learn all about major historical events.",
+      "showName": "Interview",
+      "description": "The host invites prominent personalities from around the world and interviews them about their opinions on various issues.",
       "startDate": "2026-11-19T18:45:00",
       "endDate": "2026-11-19T19:00:00",
       "showTime": "18:45:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6d8d6b1e7f4c55d880f51278c2eaa258.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/47ba0cb59d6168acbfca49c6f1712b7d.jpg"
     },
     {
       "serverDate": "2026-11-19",
@@ -757,14 +1571,14 @@
     },
     {
       "serverDate": "2026-11-19",
-      "showName": "History",
-      "description": "Learn all about major historical events.",
+      "showName": "Interview",
+      "description": "The host invites prominent personalities from around the world and interviews them about their opinions on various issues.",
       "startDate": "2026-11-19T22:45:00",
       "endDate": "2026-11-19T23:00:00",
       "showTime": "22:45:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6d8d6b1e7f4c55d880f51278c2eaa258.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/47ba0cb59d6168acbfca49c6f1712b7d.jpg"
     },
     {
       "serverDate": "2026-11-19",
@@ -823,14 +1637,14 @@
     },
     {
       "serverDate": "2026-11-20",
-      "showName": "History",
-      "description": "Learn all about major historical events.",
+      "showName": "Interview",
+      "description": "The host invites prominent personalities from around the world and interviews them about their opinions on various issues.",
       "startDate": "2026-11-20T00:45:00",
       "endDate": "2026-11-20T01:00:00",
       "showTime": "00:45:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6d8d6b1e7f4c55d880f51278c2eaa258.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/47ba0cb59d6168acbfca49c6f1712b7d.jpg"
     },
     {
       "serverDate": "2026-11-20",
@@ -955,14 +1769,14 @@
     },
     {
       "serverDate": "2026-11-20",
-      "showName": "History",
-      "description": "Learn all about major historical events.",
+      "showName": "Interview",
+      "description": "The host invites prominent personalities from around the world and interviews them about their opinions on various issues.",
       "startDate": "2026-11-20T04:45:00",
       "endDate": "2026-11-20T05:00:00",
       "showTime": "04:45:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6d8d6b1e7f4c55d880f51278c2eaa258.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/47ba0cb59d6168acbfca49c6f1712b7d.jpg"
     },
     {
       "serverDate": "2026-11-20",
@@ -1098,14 +1912,14 @@
     },
     {
       "serverDate": "2026-11-20",
-      "showName": "History",
-      "description": "Learn all about major historical events.",
+      "showName": "Interview",
+      "description": "The host invites prominent personalities from around the world and interviews them about their opinions on various issues.",
       "startDate": "2026-11-20T08:45:00",
       "endDate": "2026-11-20T09:00:00",
       "showTime": "08:45:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6d8d6b1e7f4c55d880f51278c2eaa258.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/47ba0cb59d6168acbfca49c6f1712b7d.jpg"
     },
     {
       "serverDate": "2026-11-20",
@@ -1208,14 +2022,14 @@
     },
     {
       "serverDate": "2026-11-20",
-      "showName": "History",
-      "description": "Learn all about major historical events.",
+      "showName": "Interview",
+      "description": "The host invites prominent personalities from around the world and interviews them about their opinions on various issues.",
       "startDate": "2026-11-20T11:45:00",
       "endDate": "2026-11-20T12:00:00",
       "showTime": "11:45:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6d8d6b1e7f4c55d880f51278c2eaa258.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/47ba0cb59d6168acbfca49c6f1712b7d.jpg"
     },
     {
       "serverDate": "2026-11-20",
@@ -2330,14 +3144,14 @@
     },
     {
       "serverDate": "2026-11-21",
-      "showName": "History",
-      "description": "Learn all about major historical events.",
+      "showName": "Interview",
+      "description": "The host invites prominent personalities from around the world and interviews them about their opinions on various issues.",
       "startDate": "2026-11-21T20:45:00",
       "endDate": "2026-11-21T21:00:00",
       "showTime": "20:45:00",
       "endTime": "21:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6d8d6b1e7f4c55d880f51278c2eaa258.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/47ba0cb59d6168acbfca49c6f1712b7d.jpg"
     },
     {
       "serverDate": "2026-11-21",
@@ -3892,14 +4706,14 @@
     },
     {
       "serverDate": "2026-11-23",
-      "showName": "Best of DW-Online Content",
-      "description": "Presenting a selection of featured online content from DW.",
+      "showName": "Science",
+      "description": "In Lucknow, India, a growing number of homeowners are opening their electricity bills and finding there's nothing to pay.",
       "startDate": "2026-11-23T18:45:00",
       "endDate": "2026-11-23T19:00:00",
       "showTime": "18:45:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9aff95555e013cf3fd6de73d528ffecf.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a35f6b27c359fba9008755f784356bd.jpg"
     },
     {
       "serverDate": "2026-11-23",
@@ -4002,14 +4816,14 @@
     },
     {
       "serverDate": "2026-11-23",
-      "showName": "Best of DW-Online Content",
-      "description": "Presenting a selection of featured online content from DW.",
+      "showName": "Science",
+      "description": "In Lucknow, India, a growing number of homeowners are opening their electricity bills and finding there's nothing to pay.",
       "startDate": "2026-11-23T22:45:00",
       "endDate": "2026-11-23T23:00:00",
       "showTime": "22:45:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9aff95555e013cf3fd6de73d528ffecf.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a35f6b27c359fba9008755f784356bd.jpg"
     },
     {
       "serverDate": "2026-11-23",
@@ -4068,14 +4882,14 @@
     },
     {
       "serverDate": "2026-11-24",
-      "showName": "Best of DW-Online Content",
-      "description": "Presenting a selection of featured online content from DW.",
+      "showName": "Science",
+      "description": "In Lucknow, India, a growing number of homeowners are opening their electricity bills and finding there's nothing to pay.",
       "startDate": "2026-11-24T00:45:00",
       "endDate": "2026-11-24T01:00:00",
       "showTime": "00:45:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9aff95555e013cf3fd6de73d528ffecf.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a35f6b27c359fba9008755f784356bd.jpg"
     },
     {
       "serverDate": "2026-11-24",
@@ -4200,14 +5014,14 @@
     },
     {
       "serverDate": "2026-11-24",
-      "showName": "Best of DW-Online Content",
-      "description": "Presenting a selection of featured online content from DW.",
+      "showName": "Science",
+      "description": "In Lucknow, India, a growing number of homeowners are opening their electricity bills and finding there's nothing to pay.",
       "startDate": "2026-11-24T04:45:00",
       "endDate": "2026-11-24T05:00:00",
       "showTime": "04:45:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9aff95555e013cf3fd6de73d528ffecf.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a35f6b27c359fba9008755f784356bd.jpg"
     },
     {
       "serverDate": "2026-11-24",
@@ -4332,14 +5146,14 @@
     },
     {
       "serverDate": "2026-11-24",
-      "showName": "Best of DW-Online Content",
-      "description": "Presenting a selection of featured online content from DW.",
+      "showName": "Science",
+      "description": "In Lucknow, India, a growing number of homeowners are opening their electricity bills and finding there's nothing to pay.",
       "startDate": "2026-11-24T08:45:00",
       "endDate": "2026-11-24T09:00:00",
       "showTime": "08:45:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9aff95555e013cf3fd6de73d528ffecf.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a35f6b27c359fba9008755f784356bd.jpg"
     },
     {
       "serverDate": "2026-11-24",
@@ -4431,14 +5245,14 @@
     },
     {
       "serverDate": "2026-11-24",
-      "showName": "Best of DW-Online Content",
-      "description": "Presenting a selection of featured online content from DW.",
+      "showName": "Science",
+      "description": "In Lucknow, India, a growing number of homeowners are opening their electricity bills and finding there's nothing to pay.",
       "startDate": "2026-11-24T11:45:00",
       "endDate": "2026-11-24T12:00:00",
       "showTime": "11:45:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9aff95555e013cf3fd6de73d528ffecf.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6a35f6b27c359fba9008755f784356bd.jpg"
     },
     {
       "serverDate": "2026-11-24",
@@ -4684,14 +5498,14 @@
     },
     {
       "serverDate": "2026-11-24",
-      "showName": "Best of DW-Online Content",
-      "description": "Presenting a selection of featured online content from DW.",
+      "showName": "Transforming Business",
+      "description": "Analyses the difficult relationship between business and climate protection in a range of sectors, including aviation, the automotive industry and energy.",
       "startDate": "2026-11-24T18:45:00",
       "endDate": "2026-11-24T19:00:00",
       "showTime": "18:45:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9aff95555e013cf3fd6de73d528ffecf.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd7cf5fe9ed1de39958029fbe5a047d6.jpg"
     },
     {
       "serverDate": "2026-11-24",
@@ -4805,14 +5619,14 @@
     },
     {
       "serverDate": "2026-11-24",
-      "showName": "Best of DW-Online Content",
-      "description": "Presenting a selection of featured online content from DW.",
+      "showName": "Transforming Business",
+      "description": "Analyses the difficult relationship between business and climate protection in a range of sectors, including aviation, the automotive industry and energy.",
       "startDate": "2026-11-24T22:45:00",
       "endDate": "2026-11-24T23:00:00",
       "showTime": "22:45:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9aff95555e013cf3fd6de73d528ffecf.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd7cf5fe9ed1de39958029fbe5a047d6.jpg"
     },
     {
       "serverDate": "2026-11-24",
@@ -4871,14 +5685,14 @@
     },
     {
       "serverDate": "2026-11-25",
-      "showName": "Best of DW-Online Content",
-      "description": "Presenting a selection of featured online content from DW.",
+      "showName": "Transforming Business",
+      "description": "Analyses the difficult relationship between business and climate protection in a range of sectors, including aviation, the automotive industry and energy.",
       "startDate": "2026-11-25T00:45:00",
       "endDate": "2026-11-25T01:00:00",
       "showTime": "00:45:00",
       "endTime": "01:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9aff95555e013cf3fd6de73d528ffecf.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd7cf5fe9ed1de39958029fbe5a047d6.jpg"
     },
     {
       "serverDate": "2026-11-25",
@@ -5014,14 +5828,14 @@
     },
     {
       "serverDate": "2026-11-25",
-      "showName": "Best of DW-Online Content",
-      "description": "Presenting a selection of featured online content from DW.",
+      "showName": "Transforming Business",
+      "description": "Analyses the difficult relationship between business and climate protection in a range of sectors, including aviation, the automotive industry and energy.",
       "startDate": "2026-11-25T04:45:00",
       "endDate": "2026-11-25T05:00:00",
       "showTime": "04:45:00",
       "endTime": "05:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9aff95555e013cf3fd6de73d528ffecf.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd7cf5fe9ed1de39958029fbe5a047d6.jpg"
     },
     {
       "serverDate": "2026-11-25",
@@ -5157,14 +5971,14 @@
     },
     {
       "serverDate": "2026-11-25",
-      "showName": "Best of DW-Online Content",
-      "description": "Presenting a selection of featured online content from DW.",
+      "showName": "Transforming Business",
+      "description": "Analyses the difficult relationship between business and climate protection in a range of sectors, including aviation, the automotive industry and energy.",
       "startDate": "2026-11-25T08:45:00",
       "endDate": "2026-11-25T09:00:00",
       "showTime": "08:45:00",
       "endTime": "09:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9aff95555e013cf3fd6de73d528ffecf.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd7cf5fe9ed1de39958029fbe5a047d6.jpg"
     },
     {
       "serverDate": "2026-11-25",
@@ -5267,14 +6081,14 @@
     },
     {
       "serverDate": "2026-11-25",
-      "showName": "Best of DW-Online Content",
-      "description": "Presenting a selection of featured online content from DW.",
+      "showName": "Transforming Business",
+      "description": "Analyses the difficult relationship between business and climate protection in a range of sectors, including aviation, the automotive industry and energy.",
       "startDate": "2026-11-25T11:45:00",
       "endDate": "2026-11-25T12:00:00",
       "showTime": "11:45:00",
       "endTime": "12:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9aff95555e013cf3fd6de73d528ffecf.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bd7cf5fe9ed1de39958029fbe5a047d6.jpg"
     },
     {
       "serverDate": "2026-11-25",
@@ -5520,14 +6334,14 @@
     },
     {
       "serverDate": "2026-11-25",
-      "showName": "Best of DW-Online Content",
-      "description": "Presenting a selection of featured online content from DW.",
+      "showName": "History",
+      "description": "Learn all about major historical events.",
       "startDate": "2026-11-25T18:45:00",
       "endDate": "2026-11-25T19:00:00",
       "showTime": "18:45:00",
       "endTime": "19:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9aff95555e013cf3fd6de73d528ffecf.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6d8d6b1e7f4c55d880f51278c2eaa258.jpg"
     },
     {
       "serverDate": "2026-11-25",
@@ -5619,14 +6433,14 @@
     },
     {
       "serverDate": "2026-11-25",
-      "showName": "Best of DW-Online Content",
-      "description": "Presenting a selection of featured online content from DW.",
+      "showName": "History",
+      "description": "Learn all about major historical events.",
       "startDate": "2026-11-25T22:45:00",
       "endDate": "2026-11-25T23:00:00",
       "showTime": "22:45:00",
       "endTime": "23:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9aff95555e013cf3fd6de73d528ffecf.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6d8d6b1e7f4c55d880f51278c2eaa258.jpg"
     },
     {
       "serverDate": "2026-11-25",
