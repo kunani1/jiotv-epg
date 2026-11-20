@@ -8,6 +8,116 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Dsports.png",
   "programs": [
     {
+      "serverDate": "2026-11-19",
+      "showName": "Big Cricket League",
+      "description": "Coverage of the professional cricket league.",
+      "startDate": "2026-11-19T00:00:00",
+      "endDate": "2026-11-19T03:00:00",
+      "showTime": "00:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3b094ee9b466b4fd07cb4948c9e8f9f3.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "Eredivisie Soccer",
+      "description": "Professional football teams compete against each other in order to emerge victorious in the Eredivisie, a premier football tournament in the Netherlands.",
+      "startDate": "2026-11-19T03:00:00",
+      "endDate": "2026-11-19T05:00:00",
+      "showTime": "03:00:00",
+      "endTime": "05:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7c42ec8ca139cb99d6d70a363a8ee46f.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "BWF World Tour Badminton",
+      "description": "Action from the Grade 2 badminton tournament series, sanctioned by Badminton World Federation.",
+      "startDate": "2026-11-19T05:00:00",
+      "endDate": "2026-11-19T06:00:00",
+      "showTime": "05:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cbee6c4b2e9382e87dfe4e7e47adccb5.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "One-Day International Cricket",
+      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
+      "startDate": "2026-11-19T06:00:00",
+      "endDate": "2026-11-19T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "AEW Dynamite",
+      "description": "Professional wrestlers compete against each other in the AEW Dynamite event in order to emerge victorious and win the title.",
+      "startDate": "2026-11-19T06:30:00",
+      "endDate": "2026-11-19T08:30:00",
+      "showTime": "06:30:00",
+      "endTime": "08:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e253288f0a950e0a0a098e3abba28124.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "BWF World Tour Badminton",
+      "description": "Elite shuttlers compete in international competitions across the BWF World Tour, vying for ranking points and prestigious titles.",
+      "startDate": "2026-11-19T08:30:00",
+      "endDate": "2026-11-19T11:00:00",
+      "showTime": "08:30:00",
+      "endTime": "11:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ccf4822f49a919f73b0f61ceb94337a0.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "TNA Impact",
+      "description": "Professional wrestlers compete against some of the renowned names in one of the most recognised wrestling competitions in order to win.",
+      "startDate": "2026-11-19T11:00:00",
+      "endDate": "2026-11-19T13:00:00",
+      "showTime": "11:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8b953fa1df7180f6617abb07c677a0f.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "Test Cricket",
+      "description": "Professional players from two cricket teams compete against each other to emerge victorious in a Test match to win the title.",
+      "startDate": "2026-11-19T13:00:00",
+      "endDate": "2026-11-19T21:00:00",
+      "showTime": "13:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee23bb5a1e43b7c9ec23806e4492e003.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "AEW Dynamite",
+      "description": "Professional wrestlers compete against each other in the AEW Dynamite event in order to emerge victorious and win the title.",
+      "startDate": "2026-11-19T21:00:00",
+      "endDate": "2026-11-19T23:00:00",
+      "showTime": "21:00:00",
+      "endTime": "23:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e253288f0a950e0a0a098e3abba28124.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "IMPACT in 60",
+      "description": "The filmmaker highlights some of the most memorable matches, wrestlers, championships, factions and more from the 18-year history of Impact Wrestling.",
+      "startDate": "2026-11-19T23:00:00",
+      "endDate": "2026-11-19T23:59:59",
+      "showTime": "23:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/60bc6739423c38778056a36fbb5d1915.jpg"
+    },
+    {
       "serverDate": "2026-11-21",
       "showName": "Big Cricket League",
       "description": "Coverage of the professional cricket league.",
@@ -611,6 +721,116 @@
       "endTime": "23:59:59",
       "showCategory": "Sports non-event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/9f86b36db35079725d48c2b5e1e852dc.jpg"
+    },
+    {
+      "serverDate": "2026-11-26",
+      "showName": "FIM Speedway Grand Prix",
+      "description": "Professional riders compete in a motorcycle speedway racing competition organised by FIM to emerge victorious and win the coveted title.",
+      "startDate": "2026-11-26T00:00:00",
+      "endDate": "2026-11-26T02:00:00",
+      "showTime": "00:00:00",
+      "endTime": "02:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3072e92c4ce58874bbb3ee26510054b7.jpg"
+    },
+    {
+      "serverDate": "2026-11-26",
+      "showName": "Big Cricket League",
+      "description": "Coverage of the professional cricket league.",
+      "startDate": "2026-11-26T02:00:00",
+      "endDate": "2026-11-26T05:00:00",
+      "showTime": "02:00:00",
+      "endTime": "05:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3b094ee9b466b4fd07cb4948c9e8f9f3.jpg"
+    },
+    {
+      "serverDate": "2026-11-26",
+      "showName": "BWF World Tour Badminton",
+      "description": "Action from the Grade 2 badminton tournament series, sanctioned by Badminton World Federation.",
+      "startDate": "2026-11-26T05:00:00",
+      "endDate": "2026-11-26T06:30:00",
+      "showTime": "05:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cbee6c4b2e9382e87dfe4e7e47adccb5.jpg"
+    },
+    {
+      "serverDate": "2026-11-26",
+      "showName": "AEW Dynamite",
+      "description": "Professional wrestlers compete against each other in the AEW Dynamite event in order to emerge victorious and win the title.",
+      "startDate": "2026-11-26T06:30:00",
+      "endDate": "2026-11-26T08:30:00",
+      "showTime": "06:30:00",
+      "endTime": "08:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e253288f0a950e0a0a098e3abba28124.jpg"
+    },
+    {
+      "serverDate": "2026-11-26",
+      "showName": "Dutch League Highlights",
+      "description": "Highlights of the Dutch League wherein professional football players compete against each other to emerge victorious and win the coveted trophy.",
+      "startDate": "2026-11-26T08:30:00",
+      "endDate": "2026-11-26T09:30:00",
+      "showTime": "08:30:00",
+      "endTime": "09:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7501421cf8e985b6e763da06461b8e28.jpg"
+    },
+    {
+      "serverDate": "2026-11-26",
+      "showName": "T20 Cricket",
+      "description": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.",
+      "startDate": "2026-11-26T09:30:00",
+      "endDate": "2026-11-26T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3bd907a139e61a689bbde89266428f6c.jpg"
+    },
+    {
+      "serverDate": "2026-11-26",
+      "showName": "TNA Lockdown",
+      "description": "On Sunday, August 23, one of professional wrestling's most iconic and feared events is back. TNA Wrestling presents Lockdown - a showcase event in which every match is contested inside a steel cage.",
+      "startDate": "2026-11-26T10:00:00",
+      "endDate": "2026-11-26T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bacfe9892724bc0936b451ff890483c7.jpg"
+    },
+    {
+      "serverDate": "2026-11-26",
+      "showName": "Test Cricket",
+      "description": "Professional players from two cricket teams compete against each other to emerge victorious in a Test match to win the title.",
+      "startDate": "2026-11-26T13:00:00",
+      "endDate": "2026-11-26T21:00:00",
+      "showTime": "13:00:00",
+      "endTime": "21:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee23bb5a1e43b7c9ec23806e4492e003.jpg"
+    },
+    {
+      "serverDate": "2026-11-26",
+      "showName": "TNA Unfinished Business",
+      "description": "Some of the world's leading wrestlers compete against each other in highly competitive and demanding contests to demonstrate their prowess.",
+      "startDate": "2026-11-26T21:00:00",
+      "endDate": "2026-11-26T22:00:00",
+      "showTime": "21:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a273d02b0a2a6d908d46762dabf30f7.jpg"
+    },
+    {
+      "serverDate": "2026-11-26",
+      "showName": "TNA Impact",
+      "description": "Professional wrestlers compete against some of the renowned names in one of the most recognised wrestling competitions in order to win.",
+      "startDate": "2026-11-26T22:00:00",
+      "endDate": "2026-11-26T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8b953fa1df7180f6617abb07c677a0f.jpg"
     }
   ]
 }

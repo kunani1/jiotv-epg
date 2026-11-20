@@ -8,116 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Movies.png",
   "programs": [
     {
-      "serverDate": "2026-11-18",
-      "showName": "Sundara Swapnagalu",
-      "description": "Three sisters fall in love with their tenant, a handsome young man, but he falls for only one of them. However, things take an unexpected turn when a playboy enters their life.",
-      "startDate": "2026-11-18T00:00:00",
-      "endDate": "2026-11-18T03:00:00",
-      "showTime": "00:00:00",
-      "endTime": "03:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2cd09e3e42ab1c86c689bf13c23a6d6d.jpg"
-    },
-    {
-      "serverDate": "2026-11-18",
-      "showName": "Urvashi",
-      "description": "Bringing the best in cinema.",
-      "startDate": "2026-11-18T03:00:00",
-      "endDate": "2026-11-18T06:00:00",
-      "showTime": "03:00:00",
-      "endTime": "06:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3a5e2221e68f3465c95cf1877c51204e.jpg"
-    },
-    {
-      "serverDate": "2026-11-18",
-      "showName": "Movie Filler",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-18T06:00:00",
-      "endDate": "2026-11-18T06:30:00",
-      "showTime": "06:00:00",
-      "endTime": "06:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
-    },
-    {
-      "serverDate": "2026-11-18",
-      "showName": "Movie Filler",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-11-18T06:30:00",
-      "endDate": "2026-11-18T07:00:00",
-      "showTime": "06:30:00",
-      "endTime": "07:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
-    },
-    {
-      "serverDate": "2026-11-18",
-      "showName": "Amma Nagamma",
-      "description": "Dr Amar and his friends witness two shape-shifting snakes and one of his friends ends up killing the male serpent. Later, the female serpent vows to take revenge against Dr Amar and his friends.",
-      "startDate": "2026-11-18T07:00:00",
-      "endDate": "2026-11-18T10:00:00",
-      "showTime": "07:00:00",
-      "endTime": "10:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/83b81a9e8dfef01025b534e96773dc80.jpg"
-    },
-    {
-      "serverDate": "2026-11-18",
-      "showName": "Prana Snehitha",
-      "description": "In their mission to unveil the illegal activities of a businessman, two close friends face several impediments and attempt to overcome them with courage.",
-      "startDate": "2026-11-18T10:00:00",
-      "endDate": "2026-11-18T13:00:00",
-      "showTime": "10:00:00",
-      "endTime": "13:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6eb47bb9a8eca933b968808ab96488e3.jpg"
-    },
-    {
-      "serverDate": "2026-11-18",
-      "showName": "Deergha Sumangali",
-      "description": "Gayatri, a carefree rich girl, falls in love with Sridhar during her college days and later gets pregnant. Her life soon takes a tragic turn when he moves away due to work.",
-      "startDate": "2026-11-18T13:00:00",
-      "endDate": "2026-11-18T16:00:00",
-      "showTime": "13:00:00",
-      "endTime": "16:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0f0e292ff95d9eaadb1472b64b13690b.jpg"
-    },
-    {
-      "serverDate": "2026-11-18",
-      "showName": "Jambusavari",
-      "description": "A trio of pickpockets comes across a priceless stolen idol of Lord Ganesha and tries to sell it. However, things get complicated when they realise the larger conspiracy behind the artefact.",
-      "startDate": "2026-11-18T16:00:00",
-      "endDate": "2026-11-18T19:00:00",
-      "showTime": "16:00:00",
-      "endTime": "19:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/69db4ae08f55ee54cfc4246577d54848.jpg"
-    },
-    {
-      "serverDate": "2026-11-18",
-      "showName": "Sri Kalikambha",
-      "description": "Eshwari and Parvathi, two orphaned sisters, face numerous hardships but find solace and strength in their devotion to the Goddess and the companionship of a caring elephant.",
-      "startDate": "2026-11-18T19:00:00",
-      "endDate": "2026-11-18T22:00:00",
-      "showTime": "19:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0e89adb39561d07f67aa418e59072719.jpg"
-    },
-    {
-      "serverDate": "2026-11-18",
-      "showName": "Ananda Jyothi",
-      "description": "Movie starring Shiva Rajkumar, Sudharani, Chi Guru Dutt and directed by Chi. Datta Raj.",
-      "startDate": "2026-11-18T22:00:00",
-      "endDate": "2026-11-18T23:59:59",
-      "showTime": "22:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Feature Film",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4b4dc07d0d7b5a98d299e2833cea0648.jpg"
-    },
-    {
       "serverDate": "2026-11-19",
       "showName": "Manasa Veene",
       "description": "Bringing the best in cinema.",
@@ -886,6 +776,116 @@
       "endTime": "23:59:59",
       "showCategory": "Feature Film",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/12c9c8cc870a8a25c307f0796fb493d9.jpg"
+    },
+    {
+      "serverDate": "2026-11-26",
+      "showName": "Jeevakke Jeeva",
+      "description": "Raja is falsely accused of the murder of a lawyer. However, since the allegations against him are strong, his lover reaches out to a reputed advocate to help him.",
+      "startDate": "2026-11-26T00:00:00",
+      "endDate": "2026-11-26T03:00:00",
+      "showTime": "00:00:00",
+      "endTime": "03:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aac4f581842fabcd8a460d44a661eec4.jpg"
+    },
+    {
+      "serverDate": "2026-11-26",
+      "showName": "Aparoopada Kathe",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-26T03:00:00",
+      "endDate": "2026-11-26T06:00:00",
+      "showTime": "03:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/09ccc94e5531876b7f6340ad46849466.jpg"
+    },
+    {
+      "serverDate": "2026-11-26",
+      "showName": "Movie Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-26T06:00:00",
+      "endDate": "2026-11-26T06:30:00",
+      "showTime": "06:00:00",
+      "endTime": "06:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
+    },
+    {
+      "serverDate": "2026-11-26",
+      "showName": "Movie Filler",
+      "description": "Bringing the best in television.",
+      "startDate": "2026-11-26T06:30:00",
+      "endDate": "2026-11-26T07:00:00",
+      "showTime": "06:30:00",
+      "endTime": "07:00:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e3b0d83256b08203921aee9b4c3bb2d5.jpg"
+    },
+    {
+      "serverDate": "2026-11-26",
+      "showName": "Soundarya",
+      "description": "An industrialist desperately seeks a way out after getting involved in scandalous mafia affairs that endanger his family's safety.",
+      "startDate": "2026-11-26T07:00:00",
+      "endDate": "2026-11-26T10:00:00",
+      "showTime": "07:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/77fb38482cf3ac473323708e1d676ca8.jpg"
+    },
+    {
+      "serverDate": "2026-11-26",
+      "showName": "Murali Meets Meera",
+      "description": "Meera hitches a ride with Murali, a complete stranger. However, she spells trouble for Murali at every step and once the two fall in love, he learns the truth about her.",
+      "startDate": "2026-11-26T10:00:00",
+      "endDate": "2026-11-26T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6f90bb7424f00928a1dc5c778b4d8ca5.jpg"
+    },
+    {
+      "serverDate": "2026-11-26",
+      "showName": "Cheluva",
+      "description": "Twin brothers, Cheluva and Raja, are separated at childhood by a ruthless gangster. Years later, when they reunite, Cheluva has become a gangster himself while Raja becomes an engineer.",
+      "startDate": "2026-11-26T13:00:00",
+      "endDate": "2026-11-26T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c050275f1fc7e59eb842c2b2578f9cec.jpg"
+    },
+    {
+      "serverDate": "2026-11-26",
+      "showName": "Swathi Muthu",
+      "description": "Shivaiah, a man with autism, fights against all odds and customs of his village to marry Lalitha, a young widow. Later, they plan to escape from the village.",
+      "startDate": "2026-11-26T16:00:00",
+      "endDate": "2026-11-26T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1bd140336bfddea7626911df6d7b227b.jpg"
+    },
+    {
+      "serverDate": "2026-11-26",
+      "showName": "Ekadantha",
+      "description": "Vakrathunda embarks on a pilgrimage with his wife to Ganapathipura, where they meet and interact with people from different backgrounds.",
+      "startDate": "2026-11-26T19:00:00",
+      "endDate": "2026-11-26T22:00:00",
+      "showTime": "19:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d5730452650dc7e29649669cf07e81bf.jpg"
+    },
+    {
+      "serverDate": "2026-11-26",
+      "showName": "Belli Naaga",
+      "description": "Movie starring Prabhakar, Nalini, Dinesh is directed by N S Dhananjaya.",
+      "startDate": "2026-11-26T22:00:00",
+      "endDate": "2026-11-26T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3dbb45fc4acb5a9722289d96badf7b50.jpg"
     }
   ]
 }
