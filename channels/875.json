@@ -834,33 +834,11 @@
     },
     {
       "serverDate": "2026-11-25",
-      "showName": "One-Day International Cricket",
-      "description": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.",
-      "startDate": "2026-11-25T13:00:00",
-      "endDate": "2026-11-25T13:30:00",
-      "showTime": "13:00:00",
-      "endTime": "13:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg"
-    },
-    {
-      "serverDate": "2026-11-25",
-      "showName": "Women's Big Bash League Cricket",
-      "description": "Coverage of matches in the Women's Big Bash League cricket competition.",
-      "startDate": "2026-11-25T13:30:00",
-      "endDate": "2026-11-25T17:15:00",
-      "showTime": "13:30:00",
-      "endTime": "17:15:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/38b6547ed85d56e45e161670f802e5b9.jpg"
-    },
-    {
-      "serverDate": "2026-11-25",
       "showName": "Test Cricket",
       "description": "Professional players from two cricket teams compete against each other to emerge victorious in a Test match to win the title.",
-      "startDate": "2026-11-25T17:15:00",
+      "startDate": "2026-11-25T13:00:00",
       "endDate": "2026-11-25T21:00:00",
-      "showTime": "17:15:00",
+      "showTime": "13:00:00",
       "endTime": "21:00:00",
       "showCategory": "Sports event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee23bb5a1e43b7c9ec23806e4492e003.jpg"
@@ -955,33 +933,22 @@
     },
     {
       "serverDate": "2026-11-26",
-      "showName": "Women's Big Bash League Cricket",
-      "description": "Coverage of matches in the Women's Big Bash League cricket competition.",
+      "showName": "TNA Lockdown",
+      "description": "On Sunday, August 23, one of professional wrestling's most iconic and feared events is back. TNA Wrestling presents Lockdown - a showcase event in which every match is contested inside a steel cage.",
       "startDate": "2026-11-26T10:00:00",
-      "endDate": "2026-11-26T13:30:00",
+      "endDate": "2026-11-26T13:00:00",
       "showTime": "10:00:00",
-      "endTime": "13:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/38b6547ed85d56e45e161670f802e5b9.jpg"
-    },
-    {
-      "serverDate": "2026-11-26",
-      "showName": "Women's Big Bash League Cricket",
-      "description": "Coverage of matches in the Women's Big Bash League cricket competition.",
-      "startDate": "2026-11-26T13:30:00",
-      "endDate": "2026-11-26T17:15:00",
-      "showTime": "13:30:00",
-      "endTime": "17:15:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/38b6547ed85d56e45e161670f802e5b9.jpg"
+      "endTime": "13:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/bacfe9892724bc0936b451ff890483c7.jpg"
     },
     {
       "serverDate": "2026-11-26",
       "showName": "Test Cricket",
       "description": "Professional players from two cricket teams compete against each other to emerge victorious in a Test match to win the title.",
-      "startDate": "2026-11-26T17:15:00",
+      "startDate": "2026-11-26T13:00:00",
       "endDate": "2026-11-26T21:00:00",
-      "showTime": "17:15:00",
+      "showTime": "13:00:00",
       "endTime": "21:00:00",
       "showCategory": "Sports event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee23bb5a1e43b7c9ec23806e4492e003.jpg"
