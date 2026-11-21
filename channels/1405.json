@@ -1572,7 +1572,7 @@
     {
       "serverDate": "2026-11-22",
       "showName": "The Cats Eye Museum",
-      "description": "World-famous artist Yayoi Kusama is known for polka dots. A giant pumpkin, mysterious ladder and a chandelier expand into infinity. Explore her world with two unusual cats.",
+      "description": "World-famous artist Yayoi Kusama is known for polka dots. A giant pumpkin, a mysterious ladder and a chandelier expand into infinity. Explore her world with two unusual cats.",
       "startDate": "2026-11-22T01:04:00",
       "endDate": "2026-11-22T01:14:00",
       "showTime": "01:04:00",
@@ -6007,11 +6007,22 @@
       "showName": "NHK WORLD TV Special Program",
       "description": "NHK WORLD presents news, current affairs, and documentaries focussing on Japan and Asia.",
       "startDate": "2026-11-27T03:00:00",
-      "endDate": "2026-11-27T03:30:00",
+      "endDate": "2026-11-27T03:23:00",
       "showTime": "03:00:00",
-      "endTime": "03:30:00",
+      "endTime": "03:23:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/39a167f10d13489e18fc3e5232838b14.jpg"
+    },
+    {
+      "serverDate": "2026-11-27",
+      "showName": "Ukiyoe Edo-Life",
+      "description": "A look at the rich and fascinating Edo era of Japan, which was dominated by a deep love for the arts. The traditional woodblock prints called Ukiyo-e blossomed during this period of time.",
+      "startDate": "2026-11-27T03:23:00",
+      "endDate": "2026-11-27T03:30:00",
+      "showTime": "03:23:00",
+      "endTime": "03:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8cda644c73cdb018946e30c6f42c67a9.jpg"
     },
     {
       "serverDate": "2026-11-27",
