@@ -8,6 +8,116 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png",
   "programs": [
     {
+      "serverDate": "2026-11-19",
+      "showName": "Aakasam",
+      "description": "Manoharan leads a peaceful life with his family. However, fear engulfs him when he realises that a sketch of a wanted terrorist resembles him.",
+      "startDate": "2026-11-19T00:00:00",
+      "endDate": "2026-11-19T00:05:00",
+      "showTime": "00:00:00",
+      "endTime": "00:05:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4d5743aaf40084b26bf9baecf8ecd3cf.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "Lava Kusha",
+      "description": "Two men without any specific aim, desire to be policemen. One day, they happen to cross paths with Joy, an undercover police officer, and decide to help him out.",
+      "startDate": "2026-11-19T00:05:00",
+      "endDate": "2026-11-19T02:30:00",
+      "showTime": "00:05:00",
+      "endTime": "02:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/a53318e47b3fcaf9b20f74876ee91e04.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "Abraham Lincoln",
+      "description": "Abraham and Lincoln are drawn into a turbulent world of crime and loyalty, where personal choices and past ties shape their unpredictable path.",
+      "startDate": "2026-11-19T02:30:00",
+      "endDate": "2026-11-19T04:45:00",
+      "showTime": "02:30:00",
+      "endTime": "04:45:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/0db2d357b3658d933e68fac94f41549d.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "Killadi Raman",
+      "description": "Mahadevan is a live witness of Radhika's hit-and-run accident. His helpful gesture of taking Radhika to the hospital, however, lands him in trouble when he is confronted by Meera, Radhika's friend.",
+      "startDate": "2026-11-19T04:45:00",
+      "endDate": "2026-11-19T07:00:00",
+      "showTime": "04:45:00",
+      "endTime": "07:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4166aaf01f672e7b6a1c6d8ad7234bc8.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "Kerala Varma Pazhassiraja",
+      "description": "In 1796, Kerala Varma, king of Pazhassi, leaves his kingdom due to the East India Company and seeks refuge in the Wayanad forests. He then uses guerrilla warfare tactics against his enemies.",
+      "startDate": "2026-11-19T07:00:00",
+      "endDate": "2026-11-19T10:00:00",
+      "showTime": "07:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5187249e966e7bea52d36d31e1c35793.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "Kumbalangi Nights",
+      "description": "Saji, Bonny, Bobby and Franky are siblings who mostly do not get along. However, a series of events forces them to keep their animosity aside and support each other.",
+      "startDate": "2026-11-19T10:00:00",
+      "endDate": "2026-11-19T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/96f7f32c83c519eb184776555210f443.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "Kadha Parayumbol",
+      "description": "Balan, a barber, struggles to give his family a better living. However, his life changes when his old friend, who is a film star, comes to his village for a film shoot.",
+      "startDate": "2026-11-19T13:00:00",
+      "endDate": "2026-11-19T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1ad9fbe724e1ec47283f77928a8ea75d.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "Manjummel Boys",
+      "description": "After one of them falls inside a dangerous pit in the Guna Caves, a group of childhood friends muster courage to rescue him out of a space from where a return is next to impossible.",
+      "startDate": "2026-11-19T16:00:00",
+      "endDate": "2026-11-19T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/de82b0fccc9a299ba913daf754a79b2c.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "Baba Kalyani",
+      "description": "Baba Kalyani, a police officer, travels to Kochi to uncover a terrorist conspiracy. He must not only work on the case but also deal with old rivals who are hell-bent on settling scores with him.",
+      "startDate": "2026-11-19T19:00:00",
+      "endDate": "2026-11-19T22:00:00",
+      "showTime": "19:00:00",
+      "endTime": "22:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/843f56fd15a5dffb4d841bd756db2a77.jpg"
+    },
+    {
+      "serverDate": "2026-11-19",
+      "showName": "Action Hero Biju",
+      "description": "Biju Poulose leaves his teaching job to pursue his dream of serving in the police force. Posted as the sub-inspector in Cochin, he has to handle notorious criminals who indulge in unlawful activities.",
+      "startDate": "2026-11-19T22:00:00",
+      "endDate": "2026-11-19T23:59:59",
+      "showTime": "22:00:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d2f733b57afaa252dc08a038be3f9db3.jpg"
+    },
+    {
       "serverDate": "2026-11-20",
       "showName": "Action Hero Biju",
       "description": "Biju Poulose leaves his teaching job to pursue his dream of serving in the police force. Posted as the sub-inspector in Cochin, he has to handle notorious criminals who indulge in unlawful activities.",
