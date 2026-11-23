@@ -1483,58 +1483,80 @@
     },
     {
       "serverDate": "2026-11-29",
-      "showName": "Motu Patlu",
-      "description": "Two friends from Furfuri Nagar, Motu and Patlu, constantly find themselves in absurd predicaments. Subsequently, they navigate chaos and hilarity together with the help of their quirky friends.",
+      "showName": "Gattu Aur Battu",
+      "description": "Best friends Gattu and Battu use their brains and brawn to stop the criminal mastermind Sher Singh from taking over Vishrampur.",
       "startDate": "2026-11-29T06:00:00",
       "endDate": "2026-11-29T07:00:00",
       "showTime": "06:00:00",
       "endTime": "07:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/195b3d765723746d80aff562a04a6e25.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/425395ba3ccfcb2466ca3e4ef1bc161f.jpg"
+    },
+    {
+      "serverDate": "2026-11-29",
+      "showName": "Daaduji",
+      "description": "Bittu and Choti engage in mischief and create havoc wherever they go. However, their grandfather, Daaduji, teaches them valuable life lessons and rescues them from trouble.",
+      "startDate": "2026-11-29T07:00:00",
+      "endDate": "2026-11-29T07:15:00",
+      "showTime": "07:00:00",
+      "endTime": "07:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3130e7c4e3af3ce79b7974f2396ecefe.jpg"
     },
     {
       "serverDate": "2026-11-29",
       "showName": "Motu Patlu",
       "description": "Two friends from Furfuri Nagar, Motu and Patlu, constantly find themselves in absurd predicaments. Subsequently, they navigate chaos and hilarity together with the help of their quirky friends.",
-      "startDate": "2026-11-29T07:00:00",
-      "endDate": "2026-11-29T08:00:00",
-      "showTime": "07:00:00",
-      "endTime": "08:00:00",
+      "startDate": "2026-11-29T07:15:00",
+      "endDate": "2026-11-29T09:00:00",
+      "showTime": "07:15:00",
+      "endTime": "09:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/195b3d765723746d80aff562a04a6e25.jpg"
     },
     {
       "serverDate": "2026-11-29",
-      "showName": "Rudra",
-      "description": "Rudra, a nine-year-old boy, learns magic from his grandfather, Jai Singh, who wants him to be his successor. However, an evil magician, Shakaal, tries to thwart Rudra from harnessing his true powers.",
-      "startDate": "2026-11-29T08:00:00",
-      "endDate": "2026-11-29T09:00:00",
-      "showTime": "08:00:00",
-      "endTime": "09:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/15ee2453a53d4e66e523841702730c43.jpg"
-    },
-    {
-      "serverDate": "2026-11-29",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Teacher Ki Nazar Bittu Ke Bahanopar",
+      "description": "Teacher Ki Nazar Bittu Ke Bahanopar",
       "startDate": "2026-11-29T09:00:00",
       "endDate": "2026-11-29T10:00:00",
       "showTime": "09:00:00",
       "endTime": "10:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg"
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/497cc3a532c86a3a7b091c471b6d3cbe.jpg"
     },
     {
       "serverDate": "2026-11-29",
-      "showName": "Chikoo Bunty ki Padhai se Ladai",
-      "description": "An overconfident Bunty claims he's ready for his history exam, but Chikoo exposes his bluff. Subsequently, their mother forces Bunty into pulling an all-nighter.",
+      "showName": "Chikoo Aur Bunty",
+      "description": "Two mischievous brothers lock horns in hilarious daily adventures as they compete for attention, turning ordinary family life into a battleground of clever tricks and chaos.",
       "startDate": "2026-11-29T10:00:00",
-      "endDate": "2026-11-29T13:00:00",
+      "endDate": "2026-11-29T10:30:00",
       "showTime": "10:00:00",
+      "endTime": "10:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b5722ebfaa4ae930624fa6b6a48ea26e.jpg"
+    },
+    {
+      "serverDate": "2026-11-29",
+      "showName": "Chikoo Bunty Ki Bhaagam Bhaag Express",
+      "description": "Chikoo and Bunty, along with their parents, embark on a trip to Dubai via Delhi. However, chaos ensues when their passport gets misplaced and they board the wrong train to an unknown destination.",
+      "startDate": "2026-11-29T10:30:00",
+      "endDate": "2026-11-29T11:30:00",
+      "showTime": "10:30:00",
+      "endTime": "11:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8f284512506c8dff339a4a58899c1224.jpg"
+    },
+    {
+      "serverDate": "2026-11-29",
+      "showName": "Chikoo Aur Bunty",
+      "description": "Two mischievous brothers lock horns in hilarious daily adventures as they compete for attention, turning ordinary family life into a battleground of clever tricks and chaos.",
+      "startDate": "2026-11-29T11:30:00",
+      "endDate": "2026-11-29T13:00:00",
+      "showTime": "11:30:00",
       "endTime": "13:00:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/d8cb0f4ff728cdebdac35388425ade43.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b5722ebfaa4ae930624fa6b6a48ea26e.jpg"
     },
     {
       "serverDate": "2026-11-29",
@@ -1549,22 +1571,44 @@
     },
     {
       "serverDate": "2026-11-29",
-      "showName": "Movie",
-      "description": "Bringing the best in television.",
+      "showName": "Motu Patlu in Hong Kong: Kung Fu Kings 3",
+      "description": "During their trip to Hong Kong, Motu and Patlu encounter their most formidable enemy yet, Devil Don. To defeat this dangerous foe, Motu trains in martial arts under the legendary Boneless Master.",
       "startDate": "2026-11-29T13:30:00",
-      "endDate": "2026-11-29T15:30:00",
+      "endDate": "2026-11-29T15:00:00",
       "showTime": "13:30:00",
-      "endTime": "15:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg"
+      "endTime": "15:00:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b0d59092a3d5bd0280d1770cd62fdb37.jpg"
     },
     {
       "serverDate": "2026-11-29",
       "showName": "Motu Patlu",
       "description": "Two friends from Furfuri Nagar, Motu and Patlu, constantly find themselves in absurd predicaments. Subsequently, they navigate chaos and hilarity together with the help of their quirky friends.",
+      "startDate": "2026-11-29T15:00:00",
+      "endDate": "2026-11-29T15:30:00",
+      "showTime": "15:00:00",
+      "endTime": "15:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/195b3d765723746d80aff562a04a6e25.jpg"
+    },
+    {
+      "serverDate": "2026-11-29",
+      "showName": "Motu Patlu Kung Fu Kings 4: The Challenge Of Kung Fu Brothers",
+      "description": "Eager to defeat two nefarious brothers, Motu and Patlu devote their time to training their minds and bodies with the help of various friends and allies.",
       "startDate": "2026-11-29T15:30:00",
-      "endDate": "2026-11-29T18:00:00",
+      "endDate": "2026-11-29T17:00:00",
       "showTime": "15:30:00",
+      "endTime": "17:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/252fc73275ed62504cd54edbea5fc033.jpg"
+    },
+    {
+      "serverDate": "2026-11-29",
+      "showName": "Motu Patlu",
+      "description": "Two friends from Furfuri Nagar, Motu and Patlu, constantly find themselves in absurd predicaments. Subsequently, they navigate chaos and hilarity together with the help of their quirky friends.",
+      "startDate": "2026-11-29T17:00:00",
+      "endDate": "2026-11-29T18:00:00",
+      "showTime": "17:00:00",
       "endTime": "18:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/195b3d765723746d80aff562a04a6e25.jpg"
@@ -1593,14 +1637,14 @@
     },
     {
       "serverDate": "2026-11-29",
-      "showName": "Motu Patlu",
-      "description": "Two friends from Furfuri Nagar, Motu and Patlu, constantly find themselves in absurd predicaments. Subsequently, they navigate chaos and hilarity together with the help of their quirky friends.",
+      "showName": "Gattu Aur Battu",
+      "description": "Best friends Gattu and Battu use their brains and brawn to stop the criminal mastermind Sher Singh from taking over Vishrampur.",
       "startDate": "2026-11-29T23:00:00",
       "endDate": "2026-11-29T23:59:59",
       "showTime": "23:00:00",
       "endTime": "23:59:59",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/195b3d765723746d80aff562a04a6e25.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/425395ba3ccfcb2466ca3e4ef1bc161f.jpg"
     }
   ]
 }
