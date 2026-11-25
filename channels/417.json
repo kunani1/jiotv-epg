@@ -8,6 +8,105 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png",
   "programs": [
     {
+      "serverDate": "2026-11-24",
+      "showName": "Sishya",
+      "description": "The daughter of a prominent politician escapes from Delhi to Chennai and finds love. However, her newfound bliss is threatened when the CBI is tasked with finding her.",
+      "startDate": "2026-11-24T00:00:00",
+      "endDate": "2026-11-24T01:30:00",
+      "showTime": "00:00:00",
+      "endTime": "01:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/cc47e2e45571060f03354a93168f3955.jpg"
+    },
+    {
+      "serverDate": "2026-11-24",
+      "showName": "Rajadurai",
+      "description": "Rajadurai, a police officer, succeeds in capturing Mayandi, a gangster, and sending him to jail. Later, Mayandi kidnaps Rajadurai's son, Vijay, and raises him as a criminal.",
+      "startDate": "2026-11-24T01:30:00",
+      "endDate": "2026-11-24T04:00:00",
+      "showTime": "01:30:00",
+      "endTime": "04:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/faddb24682318d8d00616162f1a96b2c.jpg"
+    },
+    {
+      "serverDate": "2026-11-24",
+      "showName": "Ner Ethir",
+      "description": "Ner Ethir",
+      "startDate": "2026-11-24T04:00:00",
+      "endDate": "2026-11-24T07:00:00",
+      "showTime": "04:00:00",
+      "endTime": "07:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-24",
+      "showName": "Chanakya",
+      "description": "Arjun, a highly sought-after RAW agent, is known for his skills at catching some of the most hardened criminals. However, he falls in danger when he goes after Ibrahim Qureshi, a terrorist.",
+      "startDate": "2026-11-24T07:00:00",
+      "endDate": "2026-11-24T10:00:00",
+      "showTime": "07:00:00",
+      "endTime": "10:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/c6dee1e0e1f3650ea35b9c5013b5b2d0.jpg"
+    },
+    {
+      "serverDate": "2026-11-24",
+      "showName": "Gounder Vettu Mappillai",
+      "description": "A man visits his sister and her family to invite them to his wedding. However, things take a turn when he realises his niece has fallen for him.",
+      "startDate": "2026-11-24T10:00:00",
+      "endDate": "2026-11-24T13:00:00",
+      "showTime": "10:00:00",
+      "endTime": "13:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/75cef09c3596fb592135bfb378e43e26.jpg"
+    },
+    {
+      "serverDate": "2026-11-24",
+      "showName": "Mutrugai",
+      "description": "A determined police officer endeavours to catch a fugitive plotting against a minister. However, she faces a dilemma upon learning of the criminal's traumatic past.",
+      "startDate": "2026-11-24T13:00:00",
+      "endDate": "2026-11-24T16:00:00",
+      "showTime": "13:00:00",
+      "endTime": "16:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/052eaec135a4d69d971e616029582ad8.jpg"
+    },
+    {
+      "serverDate": "2026-11-24",
+      "showName": "Irandu Manam",
+      "description": "Bringing the best in cinema.",
+      "startDate": "2026-11-24T16:00:00",
+      "endDate": "2026-11-24T19:00:00",
+      "showTime": "16:00:00",
+      "endTime": "19:00:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-11-24",
+      "showName": "Bramma",
+      "description": "Ravivarman, a sketch artist, loses his beloved wife in a tragic flight accident. When he helps the police track a dangerous criminal, the miscreant vows to seek revenge on Ravivarman.",
+      "startDate": "2026-11-24T19:00:00",
+      "endDate": "2026-11-24T22:30:00",
+      "showTime": "19:00:00",
+      "endTime": "22:30:00",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/80b9acb72c3271017de98d8a415f387e.jpg"
+    },
+    {
+      "serverDate": "2026-11-24",
+      "showName": "Gounder Vettu Mappillai",
+      "description": "A man visits his sister and her family to invite them to his wedding. However, things take a turn when he realises his niece has fallen for him.",
+      "startDate": "2026-11-24T22:30:00",
+      "endDate": "2026-11-24T23:59:59",
+      "showTime": "22:30:00",
+      "endTime": "23:59:59",
+      "showCategory": "Feature Film",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/75cef09c3596fb592135bfb378e43e26.jpg"
+    },
+    {
       "serverDate": "2026-11-25",
       "showName": "Gounder Vettu Mappillai",
       "description": "A man visits his sister and her family to invite them to his wedding. However, things take a turn when he realises his niece has fallen for him.",

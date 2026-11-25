@@ -1230,12 +1230,23 @@
     },
     {
       "serverDate": "2026-11-28",
+      "showName": "CNN This Morning Weekend",
+      "description": "The hosts present the latest national and international news updates and developments from various spheres including business and politics.",
+      "startDate": "2026-11-28T16:30:00",
+      "endDate": "2026-11-28T17:30:00",
+      "showTime": "16:30:00",
+      "endTime": "17:30:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa5ae73ae157deb4380fcb1837d64546.jpg"
+    },
+    {
+      "serverDate": "2026-11-28",
       "showName": "African Voices",
       "description": "Take a look at some of Africa's most dazzling trend-setters who are making waves in the worlds of travel, fashion, art, music, technology and architecture.",
-      "startDate": "2026-11-28T16:30:00",
-      "endDate": "2026-11-28T17:00:00",
-      "showTime": "16:30:00",
-      "endTime": "17:00:00",
+      "startDate": "2026-11-28T17:30:00",
+      "endDate": "2026-11-28T18:00:00",
+      "showTime": "17:30:00",
+      "endTime": "18:00:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/87c611c04a06dd2978d65d6d2e7a3a45.jpg"
     },
@@ -1243,10 +1254,10 @@
       "serverDate": "2026-11-28",
       "showName": "Global Perspectives",
       "description": "Hosted by Zain Asher, this program showcases the best of CNN's inaugural Global Perspectives: On Africa event, featuring interviews and session highlights with high profile political and business leaders, innovators and thought-leaders.",
-      "startDate": "2026-11-28T17:00:00",
-      "endDate": "2026-11-28T17:30:00",
-      "showTime": "17:00:00",
-      "endTime": "17:30:00",
+      "startDate": "2026-11-28T18:00:00",
+      "endDate": "2026-11-28T18:30:00",
+      "showTime": "18:00:00",
+      "endTime": "18:30:00",
       "showCategory": "Series",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/12db4bd8524fb5b91efa8b2aaeadfcb9.jpg"
     },
@@ -1254,23 +1265,12 @@
       "serverDate": "2026-11-28",
       "showName": "CNN This Morning Weekend",
       "description": "The hosts present the latest national and international news updates and developments from various spheres including business and politics.",
-      "startDate": "2026-11-28T17:30:00",
-      "endDate": "2026-11-28T18:30:00",
-      "showTime": "17:30:00",
-      "endTime": "18:30:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa5ae73ae157deb4380fcb1837d64546.jpg"
-    },
-    {
-      "serverDate": "2026-11-28",
-      "showName": "First of All With Victor Blackwell",
-      "description": "Host Victor Blackwell provides insight on important news reports of the week and delves into the stories that affect people of colour.",
       "startDate": "2026-11-28T18:30:00",
       "endDate": "2026-11-28T19:30:00",
       "showTime": "18:30:00",
       "endTime": "19:30:00",
       "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/2581216a142f339ea69aa70b8b3c1fc0.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/aa5ae73ae157deb4380fcb1837d64546.jpg"
     },
     {
       "serverDate": "2026-11-28",
