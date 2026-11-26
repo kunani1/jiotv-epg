@@ -8,127 +8,6 @@
   "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Dsports.png",
   "programs": [
     {
-      "serverDate": "2026-11-24",
-      "showName": "FIM Speedway Grand Prix Series",
-      "description": "Professional riders compete in a motorcycle speedway racing competition organised by the International Motorcycling Federation (FIM) to emerge victorious and win the coveted title.",
-      "startDate": "2026-11-24T00:00:00",
-      "endDate": "2026-11-24T02:00:00",
-      "showTime": "00:00:00",
-      "endTime": "02:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8f7853a02a0965f2c384475e5376f52f.jpg"
-    },
-    {
-      "serverDate": "2026-11-24",
-      "showName": "Big Cricket League",
-      "description": "Coverage of the professional cricket league.",
-      "startDate": "2026-11-24T02:00:00",
-      "endDate": "2026-11-24T05:00:00",
-      "showTime": "02:00:00",
-      "endTime": "05:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/3b094ee9b466b4fd07cb4948c9e8f9f3.jpg"
-    },
-    {
-      "serverDate": "2026-11-24",
-      "showName": "MLS Soccer",
-      "description": "Professional football players compete against each other in the MLS Soccer.",
-      "startDate": "2026-11-24T05:00:00",
-      "endDate": "2026-11-24T07:00:00",
-      "showTime": "05:00:00",
-      "endTime": "07:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a30f65b358a5cb1d1a65bceeb31f9e6.jpg"
-    },
-    {
-      "serverDate": "2026-11-24",
-      "showName": "TNA Wrestling: Greatest Matches",
-      "description": "TNA Wrestling: Greatest Matches",
-      "startDate": "2026-11-24T07:00:00",
-      "endDate": "2026-11-24T08:00:00",
-      "showTime": "07:00:00",
-      "endTime": "08:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4b5769d79865a15b7d73c69e70de78a0.jpg"
-    },
-    {
-      "serverDate": "2026-11-24",
-      "showName": "Moto GP Highlights",
-      "description": "Highlights of the FIM MotoGP World Championship, a premier motorcycle racing event where professional riders from around the world compete to win the trophy.",
-      "startDate": "2026-11-24T08:00:00",
-      "endDate": "2026-11-24T09:00:00",
-      "showTime": "08:00:00",
-      "endTime": "09:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/25bd07272c016a145bb33ac30fa26c06.jpg"
-    },
-    {
-      "serverDate": "2026-11-24",
-      "showName": "TNA Wrestling",
-      "description": "Pay-per-view wrestling action.",
-      "startDate": "2026-11-24T09:00:00",
-      "endDate": "2026-11-24T12:30:00",
-      "showTime": "09:00:00",
-      "endTime": "12:30:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d7213323a3a6dbadf35908e5a1eb4f0.jpg"
-    },
-    {
-      "serverDate": "2026-11-24",
-      "showName": "Test Cricket",
-      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
-      "startDate": "2026-11-24T12:30:00",
-      "endDate": "2026-11-24T13:30:00",
-      "showTime": "12:30:00",
-      "endTime": "13:30:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
-    },
-    {
-      "serverDate": "2026-11-24",
-      "showName": "T20 Cricket",
-      "description": "A comprehensive and detailed insight into Twenty20 cricket, where professional cricketing teams from across the globe compete to win.",
-      "startDate": "2026-11-24T13:30:00",
-      "endDate": "2026-11-24T17:15:00",
-      "showTime": "13:30:00",
-      "endTime": "17:15:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/641b9330a67e0f15fd888df2e6b2a70c.jpg"
-    },
-    {
-      "serverDate": "2026-11-24",
-      "showName": "Test Cricket",
-      "description": "Professional players from two cricket teams compete against each other to emerge victorious in a Test match to win the title.",
-      "startDate": "2026-11-24T17:15:00",
-      "endDate": "2026-11-24T21:00:00",
-      "showTime": "17:15:00",
-      "endTime": "21:00:00",
-      "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ee23bb5a1e43b7c9ec23806e4492e003.jpg"
-    },
-    {
-      "serverDate": "2026-11-24",
-      "showName": "AEW Collision",
-      "description": "Popular pro-wrestlers from the AEW Roster compete against each other in fights every Saturday to win the championship title.",
-      "startDate": "2026-11-24T21:00:00",
-      "endDate": "2026-11-24T23:00:00",
-      "showTime": "21:00:00",
-      "endTime": "23:00:00",
-      "showCategory": "Series",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff02d924ee4ae092009da120672aaa1f.jpg"
-    },
-    {
-      "serverDate": "2026-11-24",
-      "showName": "TNA Unfinished Business",
-      "description": "Some of the world's leading wrestlers compete against each other in highly competitive and demanding contests to demonstrate their prowess.",
-      "startDate": "2026-11-24T23:00:00",
-      "endDate": "2026-11-24T23:59:59",
-      "showTime": "23:00:00",
-      "endTime": "23:59:59",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a273d02b0a2a6d908d46762dabf30f7.jpg"
-    },
-    {
       "serverDate": "2026-11-25",
       "showName": "FIM Speedway Grand Prix Series",
       "description": "Professional riders compete in a motorcycle speedway racing competition organised by the International Motorcycling Federation (FIM) to emerge victorious and win the coveted title.",
@@ -1128,6 +1007,182 @@
       "endTime": "23:59:59",
       "showCategory": "Sports event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/efe40825427b6cfdac98052bb4a60734.jpg"
+    },
+    {
+      "serverDate": "2026-12-02",
+      "showName": "One-Day International Cricket",
+      "description": "Professional cricket teams compete against each other to emerge victorious and win the title in a One Day International tournament.",
+      "startDate": "2026-12-02T00:00:00",
+      "endDate": "2026-12-02T01:00:00",
+      "showTime": "00:00:00",
+      "endTime": "01:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/efe40825427b6cfdac98052bb4a60734.jpg"
+    },
+    {
+      "serverDate": "2026-12-02",
+      "showName": "72 The League",
+      "description": "Coverage of India's franchise-based professional golf league.",
+      "startDate": "2026-12-02T01:00:00",
+      "endDate": "2026-12-02T02:00:00",
+      "showTime": "01:00:00",
+      "endTime": "02:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-12-02",
+      "showName": "TNA Rebellion",
+      "description": "Professional wrestlers fiercely compete against each other at TNA Rebellion for the chance to win the prestigious championship title.",
+      "startDate": "2026-12-02T02:00:00",
+      "endDate": "2026-12-02T05:00:00",
+      "showTime": "02:00:00",
+      "endTime": "05:00:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ebb96f0bb10d284ae8d77d354d2c52f1.jpg"
+    },
+    {
+      "serverDate": "2026-12-02",
+      "showName": "72 The League",
+      "description": "Coverage of India's franchise-based professional golf league.",
+      "startDate": "2026-12-02T05:00:00",
+      "endDate": "2026-12-02T06:00:00",
+      "showTime": "05:00:00",
+      "endTime": "06:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "serverDate": "2026-12-02",
+      "showName": "IMPACT in 60",
+      "description": "The filmmaker highlights some of the most memorable matches, wrestlers, championships, factions and more from the 18-year history of Impact Wrestling.",
+      "startDate": "2026-12-02T06:00:00",
+      "endDate": "2026-12-02T07:00:00",
+      "showTime": "06:00:00",
+      "endTime": "07:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/60bc6739423c38778056a36fbb5d1915.jpg"
+    },
+    {
+      "serverDate": "2026-12-02",
+      "showName": "TNA Wrestling: Greatest Matches",
+      "description": "TNA Wrestling: Greatest Matches",
+      "startDate": "2026-12-02T07:00:00",
+      "endDate": "2026-12-02T08:00:00",
+      "showTime": "07:00:00",
+      "endTime": "08:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4b5769d79865a15b7d73c69e70de78a0.jpg"
+    },
+    {
+      "serverDate": "2026-12-02",
+      "showName": "World Pickleball League",
+      "description": "Players from different parts of the world participate in the World Pickleball League and showcase their unique skills in order to emerge victorious.",
+      "startDate": "2026-12-02T08:00:00",
+      "endDate": "2026-12-02T08:30:00",
+      "showTime": "08:00:00",
+      "endTime": "08:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/1f4d496643e1c4b6b48658842ff081a1.jpg"
+    },
+    {
+      "serverDate": "2026-12-02",
+      "showName": "AEW PPV 2025",
+      "description": "Bring the best in television.",
+      "startDate": "2026-12-02T08:30:00",
+      "endDate": "2026-12-02T09:00:00",
+      "showTime": "08:30:00",
+      "endTime": "09:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4c2cd8344464488925228e77e651b7b1.jpg"
+    },
+    {
+      "serverDate": "2026-12-02",
+      "showName": "AEW Dynasty",
+      "description": "MJF vs. Kenny Omega, world championship; Chris Jericho vs. Ricochet; The Young Bucks vs. Don Callis Family; Tommaso Ciampa vs. Rush vs. TBA, TNT championship; Thekla vs. Jamie Hayter, women's world championship; Andrade El Ídolo vs. Darby Allin; Jon Moxley vs. Will Ospreay, Continental championship; FTR vs. Cope & Cage, world tag team championship. From Rogers Arena in Vancouver.",
+      "startDate": "2026-12-02T09:00:00",
+      "endDate": "2026-12-02T13:30:00",
+      "showTime": "09:00:00",
+      "endTime": "13:30:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/63e4b2b561c1acba6b0dc49eab20f340.jpg"
+    },
+    {
+      "serverDate": "2026-12-02",
+      "showName": "T20 Cricket",
+      "description": "A comprehensive and detailed insight into Twenty20 cricket, where professional cricketing teams from across the globe compete to win.",
+      "startDate": "2026-12-02T13:30:00",
+      "endDate": "2026-12-02T17:15:00",
+      "showTime": "13:30:00",
+      "endTime": "17:15:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/641b9330a67e0f15fd888df2e6b2a70c.jpg"
+    },
+    {
+      "serverDate": "2026-12-02",
+      "showName": "TNA Impact",
+      "description": "Professional wrestlers compete against some of the renowned names in one of the most recognised wrestling competitions in order to win.",
+      "startDate": "2026-12-02T17:15:00",
+      "endDate": "2026-12-02T19:15:00",
+      "showTime": "17:15:00",
+      "endTime": "19:15:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8b953fa1df7180f6617abb07c677a0f.jpg"
+    },
+    {
+      "serverDate": "2026-12-02",
+      "showName": "WTT Grand Smash",
+      "description": "WTT Grand Smash",
+      "startDate": "2026-12-02T19:15:00",
+      "endDate": "2026-12-02T19:45:00",
+      "showTime": "19:15:00",
+      "endTime": "19:45:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/427b885761773b6278f7839187482f89.jpg"
+    },
+    {
+      "serverDate": "2026-12-02",
+      "showName": "WWE's Greatest Moments",
+      "description": "Showcasing iconic events that have shaped WWE history and thrilled fans for decades, from legendary heroes to shocking betrayals and epic battles.",
+      "startDate": "2026-12-02T19:45:00",
+      "endDate": "2026-12-02T20:15:00",
+      "showTime": "19:45:00",
+      "endTime": "20:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/6800244e2e6ffd670af1383cba03865b.jpg"
+    },
+    {
+      "serverDate": "2026-12-02",
+      "showName": "TNA Wrestling: Legends",
+      "description": "A look back at the icons of TNA wrestling.",
+      "startDate": "2026-12-02T20:15:00",
+      "endDate": "2026-12-02T21:15:00",
+      "showTime": "20:15:00",
+      "endTime": "21:15:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f5934ab110cb91da3cca4dad70982d85.jpg"
+    },
+    {
+      "serverDate": "2026-12-02",
+      "showName": "WWE LFG",
+      "description": "An inside look at what it truly takes to make it in the WWE. Paul Levesque, Shawn Michaels and weekly regular coaches Undertaker, Booker T, Mickie James and Bubba Ray Dudley mentor a new generation.",
+      "startDate": "2026-12-02T21:15:00",
+      "endDate": "2026-12-02T22:15:00",
+      "showTime": "21:15:00",
+      "endTime": "22:15:00",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/da882d6424885388c98cbe57c3164dac.jpg"
+    },
+    {
+      "serverDate": "2026-12-02",
+      "showName": "AEW Collision",
+      "description": "Popular pro-wrestlers from the AEW Roster compete against each other in fights every Saturday to win the championship title.",
+      "startDate": "2026-12-02T22:15:00",
+      "endDate": "2026-12-02T23:59:59",
+      "showTime": "22:15:00",
+      "endTime": "23:59:59",
+      "showCategory": "Series",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ff02d924ee4ae092009da120672aaa1f.jpg"
     }
   ]
 }
