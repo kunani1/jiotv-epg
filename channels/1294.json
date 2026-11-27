@@ -647,14 +647,14 @@
     },
     {
       "serverDate": "2026-11-30",
-      "showName": "2026 London Marathon",
-      "description": "2026 London Marathon",
+      "showName": "MLS Soccer",
+      "description": "Professional football players compete against each other in the MLS Soccer.",
       "startDate": "2026-11-30T00:00:00",
       "endDate": "2026-11-30T02:00:00",
       "showTime": "00:00:00",
       "endTime": "02:00:00",
       "showCategory": "Sports event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ae276d0090c24a440c62d218a0eeaa27.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4a30f65b358a5cb1d1a65bceeb31f9e6.jpg"
     },
     {
       "serverDate": "2026-11-30",
@@ -845,36 +845,25 @@
     },
     {
       "serverDate": "2026-12-01",
-      "showName": "IMPACT in 60",
-      "description": "The filmmaker highlights some of the most memorable matches, wrestlers, championships, factions and more from the 18-year history of Impact Wrestling.",
-      "startDate": "2026-12-01T06:00:00",
-      "endDate": "2026-12-01T07:00:00",
-      "showTime": "06:00:00",
-      "endTime": "07:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/60bc6739423c38778056a36fbb5d1915.jpg"
-    },
-    {
-      "serverDate": "2026-12-01",
-      "showName": "TNA Wrestling: Greatest Matches",
-      "description": "TNA Wrestling: Greatest Matches",
-      "startDate": "2026-12-01T07:00:00",
-      "endDate": "2026-12-01T08:00:00",
-      "showTime": "07:00:00",
-      "endTime": "08:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/4b5769d79865a15b7d73c69e70de78a0.jpg"
-    },
-    {
-      "serverDate": "2026-12-01",
       "showName": "2026 London Marathon",
       "description": "2026 London Marathon",
-      "startDate": "2026-12-01T08:00:00",
-      "endDate": "2026-12-01T10:00:00",
-      "showTime": "08:00:00",
-      "endTime": "10:00:00",
+      "startDate": "2026-12-01T06:00:00",
+      "endDate": "2026-12-01T09:30:00",
+      "showTime": "06:00:00",
+      "endTime": "09:30:00",
       "showCategory": "Sports event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/ae276d0090c24a440c62d218a0eeaa27.jpg"
+    },
+    {
+      "serverDate": "2026-12-01",
+      "showName": "WTT Grand Smash",
+      "description": "WTT Grand Smash",
+      "startDate": "2026-12-01T09:30:00",
+      "endDate": "2026-12-01T10:00:00",
+      "showTime": "09:30:00",
+      "endTime": "10:00:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/427b885761773b6278f7839187482f89.jpg"
     },
     {
       "serverDate": "2026-12-01",
@@ -1145,66 +1134,110 @@
       "showName": "IMPACT in 60",
       "description": "The filmmaker highlights some of the most memorable matches, wrestlers, championships, factions and more from the 18-year history of Impact Wrestling.",
       "startDate": "2026-12-03T05:30:00",
-      "endDate": "2026-12-03T06:00:00",
+      "endDate": "2026-12-03T06:30:00",
       "showTime": "05:30:00",
-      "endTime": "06:00:00",
+      "endTime": "06:30:00",
       "showCategory": "Sports non-event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/60bc6739423c38778056a36fbb5d1915.jpg"
     },
     {
       "serverDate": "2026-12-03",
-      "showName": "Sports Programme",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-12-03T06:00:00",
-      "endDate": "2026-12-03T10:00:00",
-      "showTime": "06:00:00",
-      "endTime": "10:00:00",
+      "showName": "AEW Dynamite",
+      "description": "Professional wrestlers compete against each other in the AEW Dynamite event in order to emerge victorious and win the title.",
+      "startDate": "2026-12-03T06:30:00",
+      "endDate": "2026-12-03T09:30:00",
+      "showTime": "06:30:00",
+      "endTime": "09:30:00",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e253288f0a950e0a0a098e3abba28124.jpg"
     },
     {
       "serverDate": "2026-12-03",
-      "showName": "Sports Programme",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-12-03T10:00:00",
-      "endDate": "2026-12-03T14:00:00",
-      "showTime": "10:00:00",
-      "endTime": "14:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
+      "showName": "PFL Belfast",
+      "description": "Professional mixed martial artists engage in fierce competition against one another to emerge victorious and claim the title.",
+      "startDate": "2026-12-03T09:30:00",
+      "endDate": "2026-12-03T10:30:00",
+      "showTime": "09:30:00",
+      "endTime": "10:30:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/76147c14abe6dcaadb6de266abe58881.jpg"
     },
     {
       "serverDate": "2026-12-03",
-      "showName": "Sports Programme",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-12-03T14:00:00",
-      "endDate": "2026-12-03T18:00:00",
-      "showTime": "14:00:00",
-      "endTime": "18:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
+      "showName": "TNA Sacrifice",
+      "description": "Professional wrestlers compete against each other to emerge victorious in TNA Sacrifice, a wrestling pay-per-view tournament.",
+      "startDate": "2026-12-03T10:30:00",
+      "endDate": "2026-12-03T13:30:00",
+      "showTime": "10:30:00",
+      "endTime": "13:30:00",
+      "showCategory": "Special",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/fcc47cc60e855cae869e17f8ebae30e0.jpg"
     },
     {
       "serverDate": "2026-12-03",
-      "showName": "Sports Programme",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-12-03T18:00:00",
-      "endDate": "2026-12-03T22:00:00",
-      "showTime": "18:00:00",
-      "endTime": "22:00:00",
-      "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
+      "showName": "Women's Big Bash League Cricket",
+      "description": "Coverage of matches in the Women's Big Bash League cricket competition.",
+      "startDate": "2026-12-03T13:30:00",
+      "endDate": "2026-12-03T17:15:00",
+      "showTime": "13:30:00",
+      "endTime": "17:15:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/38b6547ed85d56e45e161670f802e5b9.jpg"
     },
     {
       "serverDate": "2026-12-03",
-      "showName": "Sports Programme",
-      "description": "Bringing the best in television.",
-      "startDate": "2026-12-03T22:00:00",
+      "showName": "TNA Impact",
+      "description": "Professional wrestlers compete against some of the renowned names in one of the most recognised wrestling competitions in order to win.",
+      "startDate": "2026-12-03T17:15:00",
+      "endDate": "2026-12-03T19:15:00",
+      "showTime": "17:15:00",
+      "endTime": "19:15:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/b8b953fa1df7180f6617abb07c677a0f.jpg"
+    },
+    {
+      "serverDate": "2026-12-03",
+      "showName": "TNA Wrestling: Legends",
+      "description": "A look back at the icons of TNA wrestling.",
+      "startDate": "2026-12-03T19:15:00",
+      "endDate": "2026-12-03T20:15:00",
+      "showTime": "19:15:00",
+      "endTime": "20:15:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/f5934ab110cb91da3cca4dad70982d85.jpg"
+    },
+    {
+      "serverDate": "2026-12-03",
+      "showName": "Test Cricket",
+      "description": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.",
+      "startDate": "2026-12-03T20:15:00",
+      "endDate": "2026-12-03T20:45:00",
+      "showTime": "20:15:00",
+      "endTime": "20:45:00",
+      "showCategory": "Sports event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg"
+    },
+    {
+      "serverDate": "2026-12-03",
+      "showName": "Showtime with Rohit Sharma",
+      "description": "The host has a conversation with professional cricketer Rohit Sharma regarding his history and fondest memories with the franchise of Mumbai Indians.",
+      "startDate": "2026-12-03T20:45:00",
+      "endDate": "2026-12-03T21:00:00",
+      "showTime": "20:45:00",
+      "endTime": "21:00:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/8d731e73153914fb448bcf98c6cb0973.jpg"
+    },
+    {
+      "serverDate": "2026-12-03",
+      "showName": "AEW Dynamite",
+      "description": "Professional wrestlers compete against each other in the AEW Dynamite event in order to emerge victorious and win the title.",
+      "startDate": "2026-12-03T21:00:00",
       "endDate": "2026-12-03T23:59:59",
-      "showTime": "22:00:00",
+      "showTime": "21:00:00",
       "endTime": "23:59:59",
       "showCategory": "Sports non-event",
-      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/e253288f0a950e0a0a098e3abba28124.jpg"
     }
   ]
 }

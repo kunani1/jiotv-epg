@@ -727,8 +727,19 @@
       "showName": "Asia Cup Rising Stars Cricket Highlights",
       "description": "Asia Cup Rising Stars Cricket Highlights",
       "startDate": "2026-11-28T17:00:00",
-      "endDate": "2026-11-28T18:00:00",
+      "endDate": "2026-11-28T17:30:00",
       "showTime": "17:00:00",
+      "endTime": "17:30:00",
+      "showCategory": "Sports non-event",
+      "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b420c76266a2c72095523b4f22fb1cc.jpg"
+    },
+    {
+      "serverDate": "2026-11-28",
+      "showName": "Asia Cup Rising Stars Cricket",
+      "description": "Asia Cup Rising Stars Cricket",
+      "startDate": "2026-11-28T17:30:00",
+      "endDate": "2026-11-28T18:00:00",
+      "showTime": "17:30:00",
       "endTime": "18:00:00",
       "showCategory": "Sports non-event",
       "thumbnailUrl": "https://jiotvimages.cdn.jio.com/epgdata/5b420c76266a2c72095523b4f22fb1cc.jpg"
@@ -801,8 +812,8 @@
     },
     {
       "serverDate": "2026-11-28",
-      "showName": "Asia Cup Rising Stars Cricket Highlights",
-      "description": "Asia Cup Rising Stars Cricket Highlights",
+      "showName": "Asia Cup Rising Stars Cricket",
+      "description": "Asia Cup Rising Stars Cricket",
       "startDate": "2026-11-28T22:30:00",
       "endDate": "2026-11-28T23:00:00",
       "showTime": "22:30:00",
@@ -812,8 +823,8 @@
     },
     {
       "serverDate": "2026-11-28",
-      "showName": "Asia Cup Rising Stars Cricket",
-      "description": "Asia Cup Rising Stars Cricket",
+      "showName": "Asia Cup Rising Stars Cricket Highlights",
+      "description": "Asia Cup Rising Stars Cricket Highlights",
       "startDate": "2026-11-28T23:00:00",
       "endDate": "2026-11-28T23:59:59",
       "showTime": "23:00:00",
